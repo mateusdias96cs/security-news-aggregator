@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Security News Aggregator</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', sans-serif; background: #0d1117; color: #e6edf3; padding: 2rem; }
+        header { text-align: center; margin-bottom: 2rem; padding: 2rem; border-bottom: 1px solid #30363d; }
+        header h1 { font-size: 2rem; color: #58a6ff; margin-bottom: 0.5rem; }
+        header p { color: #8b949e; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 1.5rem; max-width: 1200px; margin: 0 auto; }
+        .card { background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 1.5rem; transition: border-color 0.2s; }
+        .card:hover { border-color: #58a6ff; }
+        .card-number { font-size: 0.75rem; color: #58a6ff; font-weight: 600; margin-bottom: 0.5rem; }
+        .card h2 { font-size: 1rem; margin-bottom: 0.75rem; line-height: 1.5; }
+        .card-meta { display: flex; gap: 0.5rem; margin-bottom: 0.75rem; flex-wrap: wrap; }
+        .badge { font-size: 0.75rem; padding: 2px 10px; border-radius: 99px; background: #21262d; color: #8b949e; border: 1px solid #30363d; }
+        .badge.fonte { color: #58a6ff; border-color: #58a6ff55; }
+        .badge.data { color: #3fb950; border-color: #3fb95055; }
+        .resumo { font-size: 0.85rem; color: #8b949e; line-height: 1.6; margin-bottom: 1rem; }
+        .card a { font-size: 0.8rem; color: #58a6ff; text-decoration: none; }
+        .card a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+<header>
+    <h1>🛡️ Security News Aggregator</h1>
+    <p>Últimas notícias de cibersegurança</p>
+</header>
+<div class="grid">
+
+    <div class="card">
+        <div class="card-number">#1</div>
+        <h2>With AI and quantum threats closing in on enterprises, IBM says don’t panic — but start moving</h2>
+        <div class="card-meta">
+            <span class="badge fonte">SiliconANGLE News</span>
+            <span class="badge data">2026-03-26</span>
+            <span class="badge">Kelly Knight</span>
+        </div>
+        <p class="resumo">AI is transforming enterprise security on two fronts at once, forcing organizations to protect existing estates even as they race to embed AI into ope...</p>
+        <a href="https://siliconangle.com/2026/03/26/enterprise-security-demands-dont-panic-discipline-rsac26/" target="_blank">Ler artigo completo →</a>
+    </div>
+    
+    <div class="card">
+        <div class="card-number">#2</div>
+        <h2>CISA: New Langflow flaw actively exploited to hijack AI workflows</h2>
+        <div class="card-meta">
+            <span class="badge fonte">BleepingComputer</span>
+            <span class="badge data">2026-03-26</span>
+            <span class="badge">Bill Toulas</span>
+        </div>
+        <p class="resumo">The Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are actively exploiting a critical vulnerability identified as CVE...</p>
+        <a href="https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/" target="_blank">Ler artigo completo →</a>
+    </div>
+    
+    <div class="card">
+        <div class="card-number">#3</div>
+        <h2>Java Visibility and Exposures</h2>
+        <div class="card-meta">
+            <span class="badge fonte">Tenable.com</span>
+            <span class="badge data">2026-03-26</span>
+            <span class="badge">John Thounhurst</span>
+        </div>
+        <p class="resumo">Hidden weaknesses in unpatched Java installations expand the organizational attack surface and expose the environment to severe operational disruption...</p>
+        <a href="https://www.tenable.com/sc-report-templates/java-visibility-and-exposures" target="_blank">Ler artigo completo →</a>
+    </div>
+    
+    <div class="card">
+        <div class="card-number">#4</div>
+        <h2>A puppet made me cry and all I got was this t-shirt</h2>
+        <div class="card-meta">
+            <span class="badge fonte">Talosintelligence.com</span>
+            <span class="badge data">2026-03-26</span>
+            <span class="badge">Amy Ciminnisi</span>
+        </div>
+        <p class="resumo">In this week's newsletter, Amy draws parallels between the collaborative themes of "Project Hail Mary" and the massive team effort behind the newly re...</p>
+        <a href="https://blog.talosintelligence.com/a-puppet-made-me-cry-and-all-i-got-was-this-t-shirt/" target="_blank">Ler artigo completo →</a>
+    </div>
+    
+    <div class="card">
+        <div class="card-number">#5</div>
+        <h2>Security Researchers Sound the Alarm on Vulnerabilities in AI-Generated Code</h2>
+        <div class="card-meta">
+            <span class="badge fonte">Infosecurity Magazine</span>
+            <span class="badge data">2026-03-26</span>
+            <span class="badge">Kevin  Poireault</span>
+        </div>
+        <p class="resumo">Security researchers from Georgia Tech have observed a surge in reported CVEs for which the flaw was introduced by AI-generated code...</p>
+        <a href="https://www.infosecurity-magazine.com/news/ai-generated-code-vulnerabilities/" target="_blank">Ler artigo completo →</a>
+    </div>
+    
+    <div class="card">
+        <div class="card-number">#6</div>
+        <h2>Accenture introduces Cyber.AI platform powered by Anthropic Claude</h2>
+        <div class="card-meta">
+            <span class="badge fonte">Verdict</span>
+            <span class="badge data">2026-03-26</span>
+            <span class="badge">Anwesha Pattanaik</span>
+        </div>
+        <p class="resumo">Accenture has introduced Cyber.AI, an AI-based cybersecurity solution developed in partnership with Anthropic....</p>
+        <a href="https://www.verdict.co.uk/accenture-introduces-cyber-ai/" target="_blank">Ler artigo completo →</a>
+    </div>
+    
+    <div class="card">
+        <div class="card-number">#7</div>
+        <h2>Britain is building its tech empire on sand</h2>
+        <div class="card-meta">
+            <span class="badge fonte">TechRadar</span>
+            <span class="badge data">2026-03-26</span>
+            <span class="badge">Tom Finch</span>
+        </div>
+        <p class="resumo">Why the developer experience is the missing link in the UK’s innovation ambitions...</p>
+        <a href="https://www.techradar.com/pro/britain-is-building-its-tech-empire-on-sand" target="_blank">Ler artigo completo →</a>
+    </div>
+    
+    <div class="card">
+        <div class="card-number">#8</div>
+        <h2>Forget the AI Armageddon—quantum computing is the real threat to digital security</h2>
+        <div class="card-meta">
+            <span class="badge fonte">TechRadar</span>
+            <span class="badge data">2026-03-26</span>
+            <span class="badge">Willie Tejada</span>
+        </div>
+        <p class="resumo">While AI grabs headlines, quantum computing quietly threatens to upend digital security foundations....</p>
+        <a href="https://www.techradar.com/pro/forget-the-ai-armageddon-quantum-computing-is-the-real-threat-to-digital-security" target="_blank">Ler artigo completo →</a>
+    </div>
+    
+    <div class="card">
+        <div class="card-number">#9</div>
+        <h2>Acalvio ShadowPlex Review: Deception-Based Preemptive Cybersecurity</h2>
+        <div class="card-meta">
+            <span class="badge fonte">HackRead</span>
+            <span class="badge data">2026-03-26</span>
+            <span class="badge">Deeba Ahmed</span>
+        </div>
+        <p class="resumo">Acalvio ShadowPlex review: agentless deception for early, high-confidence threat detection across IT, cloud, OT, and identity. Pros, gaps, and fit....</p>
+        <a href="https://hackread.com/acalvio-shadowplex-review-preemptive-cybersecurity/" target="_blank">Ler artigo completo →</a>
+    </div>
+    
+    <div class="card">
+        <div class="card-number">#10</div>
+        <h2>Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website</h2>
+        <div class="card-meta">
+            <span class="badge fonte">Internet</span>
+            <span class="badge data">2026-03-26</span>
+            <span class="badge">info@thehackernews.com (The Hacker News)</span>
+        </div>
+        <p class="resumo">Cybersecurity researchers have disclosed a vulnerability in Anthropic's Claude Google Chrome Extension that could have been exploited to trigger malic...</p>
+        <a href="https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html" target="_blank">Ler artigo completo →</a>
+    </div>
+    
+    <div class="card">
+        <div class="card-number">#11</div>
+        <h2>PTC Windchill Product Lifecycle Management</h2>
+        <div class="card-meta">
+            <span class="badge fonte">Cisa.gov</span>
+            <span class="badge data">2026-03-26</span>
+            <span class="badge">CISA</span>
+        </div>
+        <p class="resumo">View CSAF
+Summary
+Successful exploitation of this vulnerability could allow an attacker to achieve remote code execution.
+The following versions of PT...</p>
+        <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-03" target="_blank">Ler artigo completo →</a>
+    </div>
+    
+    <div class="card">
+        <div class="card-number">#12</div>
+        <h2>OpenCode Systems OC Messaging and USSD Gateway</h2>
+        <div class="card-meta">
+            <span class="badge fonte">Cisa.gov</span>
+            <span class="badge data">2026-03-26</span>
+            <span class="badge">CISA</span>
+        </div>
+        <p class="resumo">View CSAF
+Summary
+Successful exploitation of this vulnerability could allow an authenticated low-privileged user to gain access to SMS messages outsid...</p>
+        <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-02" target="_blank">Ler artigo completo →</a>
+    </div>
+    
+    <div class="card">
+        <div class="card-number">#13</div>
+        <h2>WAGO GmbH & Co. KG Industrial Managed Switches</h2>
+        <div class="card-meta">
+            <span class="badge fonte">Cisa.gov</span>
+            <span class="badge data">2026-03-26</span>
+            <span class="badge">CISA</span>
+        </div>
+        <p class="resumo">View CSAF
+Summary
+An unauthenticated remote attacker can exploit a hidden function in the CLI prompt to escape the restricted interface, leading to fu...</p>
+        <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-01" target="_blank">Ler artigo completo →</a>
+    </div>
+    
+    <div class="card">
+        <div class="card-number">#14</div>
+        <h2>ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories</h2>
+        <div class="card-meta">
+            <span class="badge fonte">Internet</span>
+            <span class="badge data">2026-03-26</span>
+            <span class="badge">info@thehackernews.com (The Hacker News)</span>
+        </div>
+        <p class="resumo">Some weeks in security feel loud. This one feels sneaky. Less big dramatic fireworks, more of that slow creeping sense that too many people are gettin...</p>
+        <a href="https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html" target="_blank">Ler artigo completo →</a>
+    </div>
+    
+    <div class="card">
+        <div class="card-number">#15</div>
+        <h2>The open source blind spot in our supply chains</h2>
+        <div class="card-meta">
+            <span class="badge fonte">TechRadar</span>
+            <span class="badge data">2026-03-26</span>
+            <span class="badge">Bharat Mistry</span>
+        </div>
+        <p class="resumo">Supply chain attacks are increasing in volume, but open source vulnerabilities continue relatively unnoticed....</p>
+        <a href="https://www.techradar.com/pro/the-open-source-blind-spot-in-our-supply-chains" target="_blank">Ler artigo completo →</a>
+    </div>
+    
+    <div class="card">
+        <div class="card-number">#16</div>
+        <h2>Deepfake X-rays are so real even doctors can’t tell the difference</h2>
+        <div class="card-meta">
+            <span class="badge fonte">Science Daily</span>
+            <span class="badge data">2026-03-26</span>
+            <span class="badge">None</span>
+        </div>
+        <p class="resumo">Deepfake X-rays created by AI are now convincing enough to fool both doctors and AI models. In tests, radiologists had limited success identifying fak...</p>
+        <a href="https://www.sciencedaily.com/releases/2026/03/260326011452.htm" target="_blank">Ler artigo completo →</a>
+    </div>
+    
+    <div class="card">
+        <div class="card-number">#17</div>
+        <h2>CanisterWorm malware wipes Iranian machines for no apparent reason — sophisticated attack spreads through npm packages and uses ICP canister as control surface</h2>
+        <div class="card-meta">
+            <span class="badge fonte">Tom's Hardware UK</span>
+            <span class="badge data">2026-03-26</span>
+            <span class="badge">editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira</span>
+        </div>
+        <p class="resumo">CanisterWorm malware wipes Iranian machines for no apparent reason...</p>
+        <a href="https://www.tomshardware.com/tech-industry/cyber-security/canisterworm-malware-wipes-iranian-machines-for-no-apparent-reason-sophisticated-attack-spreads-through-npm-packages-and-uses-icp-canister-as-control-surface" target="_blank">Ler artigo completo →</a>
+    </div>
+    
+    <div class="card">
+        <div class="card-number">#18</div>
+        <h2>Aegon publishes Integrated Annual Report 2025</h2>
+        <div class="card-meta">
+            <span class="badge fonte">GlobeNewswire</span>
+            <span class="badge data">2026-03-26</span>
+            <span class="badge">Aegon Ltd.</span>
+        </div>
+        <p class="resumo">Schiphol, March 26, 2026 - Aegon today publishes its Integrated Annual Report 2025. The report provides an overview of the company’s businesses, strat...</p>
+        <a href="https://www.globenewswire.com/news-release/2026/03/26/3262745/0/en/Aegon-publishes-Integrated-Annual-Report-2025.html" target="_blank">Ler artigo completo →</a>
+    </div>
+    
+    <div class="card">
+        <div class="card-number">#19</div>
+        <h2>WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites</h2>
+        <div class="card-meta">
+            <span class="badge fonte">Internet</span>
+            <span class="badge data">2026-03-26</span>
+            <span class="badge">info@thehackernews.com (The Hacker News)</span>
+        </div>
+        <p class="resumo">Cybersecurity researchers have discovered a new payment skimmer that uses WebRTC data channels as a means to receive payloads and exfiltrate data, eff...</p>
+        <a href="https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html" target="_blank">Ler artigo completo →</a>
+    </div>
+    
+    <div class="card">
+        <div class="card-number">#20</div>
+        <h2>India’s Grade A office boom & rapid AI adoption expose resilience gap for commercial real estate landlords</h2>
+        <div class="card-meta">
+            <span class="badge fonte">The Times of India</span>
+            <span class="badge data">2026-03-26</span>
+            <span class="badge">Sobia Khan</span>
+        </div>
+        <p class="resumo">India's office market is booming, fueled by Global Capability Centres and AI. However, buildings struggle to keep pace with demands for constant conne...</p>
+        <a href="https://economictimes.indiatimes.com/industry/services/property-/-cstruction/indias-grade-a-office-boom-rapid-ai-adoption-expose-resilience-gap-for-commercial-real-estate-landlords/articleshow/129815832.cms" target="_blank">Ler artigo completo →</a>
+    </div>
+    
+</div>
+</body>
+</html>

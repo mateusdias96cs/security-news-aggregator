@@ -1,0 +1,162 @@
+[
+    {
+        "titulo": "With AI and quantum threats closing in on enterprises, IBM says don’t panic — but start moving",
+        "fonte": "SiliconANGLE News",
+        "autor": "Kelly Knight",
+        "data": "2026-03-26T20:09:30Z",
+        "url": "https://siliconangle.com/2026/03/26/enterprise-security-demands-dont-panic-discipline-rsac26/",
+        "resumo": "AI is transforming enterprise security on two fronts at once, forcing organizations to protect existing estates even as they race to embed AI into operations. The urgency extends beyond just today’s software. Quantum computing is approaching a tipping point t…"
+    },
+    {
+        "titulo": "CISA: New Langflow flaw actively exploited to hijack AI workflows",
+        "fonte": "BleepingComputer",
+        "autor": "Bill Toulas",
+        "data": "2026-03-26T19:17:43Z",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/",
+        "resumo": "The Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are actively exploiting a critical vulnerability identified as CVE-2026-33017, which affects the Langflow framework for building AI agents. [...]"
+    },
+    {
+        "titulo": "Java Visibility and Exposures",
+        "fonte": "Tenable.com",
+        "autor": "John Thounhurst",
+        "data": "2026-03-26T18:06:18Z",
+        "url": "https://www.tenable.com/sc-report-templates/java-visibility-and-exposures",
+        "resumo": "Hidden weaknesses in unpatched Java installations expand the organizational attack surface and expose the environment to severe operational disruptions. Visualizing impacted assets allows the organization to grasp how unmanaged applications increase overall r…"
+    },
+    {
+        "titulo": "A puppet made me cry and all I got was this t-shirt",
+        "fonte": "Talosintelligence.com",
+        "autor": "Amy Ciminnisi",
+        "data": "2026-03-26T18:00:44Z",
+        "url": "https://blog.talosintelligence.com/a-puppet-made-me-cry-and-all-i-got-was-this-t-shirt/",
+        "resumo": "In this week's newsletter, Amy draws parallels between the collaborative themes of \"Project Hail Mary\" and the massive team effort behind the newly released Talos Year in Review report."
+    },
+    {
+        "titulo": "Security Researchers Sound the Alarm on Vulnerabilities in AI-Generated Code",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Kevin  Poireault",
+        "data": "2026-03-26T16:40:00Z",
+        "url": "https://www.infosecurity-magazine.com/news/ai-generated-code-vulnerabilities/",
+        "resumo": "Security researchers from Georgia Tech have observed a surge in reported CVEs for which the flaw was introduced by AI-generated code"
+    },
+    {
+        "titulo": "Accenture introduces Cyber.AI platform powered by Anthropic Claude",
+        "fonte": "Verdict",
+        "autor": "Anwesha Pattanaik",
+        "data": "2026-03-26T16:23:32Z",
+        "url": "https://www.verdict.co.uk/accenture-introduces-cyber-ai/",
+        "resumo": "Accenture has introduced Cyber.AI, an AI-based cybersecurity solution developed in partnership with Anthropic."
+    },
+    {
+        "titulo": "Britain is building its tech empire on sand",
+        "fonte": "TechRadar",
+        "autor": "Tom Finch",
+        "data": "2026-03-26T15:41:53Z",
+        "url": "https://www.techradar.com/pro/britain-is-building-its-tech-empire-on-sand",
+        "resumo": "Why the developer experience is the missing link in the UK’s innovation ambitions"
+    },
+    {
+        "titulo": "Forget the AI Armageddon—quantum computing is the real threat to digital security",
+        "fonte": "TechRadar",
+        "autor": "Willie Tejada",
+        "data": "2026-03-26T15:00:40Z",
+        "url": "https://www.techradar.com/pro/forget-the-ai-armageddon-quantum-computing-is-the-real-threat-to-digital-security",
+        "resumo": "While AI grabs headlines, quantum computing quietly threatens to upend digital security foundations."
+    },
+    {
+        "titulo": "Acalvio ShadowPlex Review: Deception-Based Preemptive Cybersecurity",
+        "fonte": "HackRead",
+        "autor": "Deeba Ahmed",
+        "data": "2026-03-26T13:42:10Z",
+        "url": "https://hackread.com/acalvio-shadowplex-review-preemptive-cybersecurity/",
+        "resumo": "Acalvio ShadowPlex review: agentless deception for early, high-confidence threat detection across IT, cloud, OT, and identity. Pros, gaps, and fit."
+    },
+    {
+        "titulo": "Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-03-26T13:11:00Z",
+        "url": "https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html",
+        "resumo": "Cybersecurity researchers have disclosed a vulnerability in Anthropic's Claude Google Chrome Extension that could have been exploited to trigger malicious prompts simply by visiting a web page.\nThe flaw \"allowed any website to silently inject prompts into tha…"
+    },
+    {
+        "titulo": "PTC Windchill Product Lifecycle Management",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-03-26T12:00:00Z",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-03",
+        "resumo": "View CSAF\nSummary\nSuccessful exploitation of this vulnerability could allow an attacker to achieve remote code execution.\nThe following versions of PTC Windchill Product Lifecycle Management are affected:\n<ul>\n<li>Windchill PDMLink 11.0_M030 (CVE-2026-4681)</…"
+    },
+    {
+        "titulo": "OpenCode Systems OC Messaging and USSD Gateway",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-03-26T12:00:00Z",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-02",
+        "resumo": "View CSAF\nSummary\nSuccessful exploitation of this vulnerability could allow an authenticated low-privileged user to gain access to SMS messages outside of their authorized tenant scope via a crafted company or tenant identifier parameter.\nThe following versio…"
+    },
+    {
+        "titulo": "WAGO GmbH & Co. KG Industrial Managed Switches",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-03-26T12:00:00Z",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-01",
+        "resumo": "View CSAF\nSummary\nAn unauthenticated remote attacker can exploit a hidden function in the CLI prompt to escape the restricted interface, leading to full compromise of the device.\nThe following versions of WAGO GmbH & Co. KG Industrial Managed Switches are aff…"
+    },
+    {
+        "titulo": "ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-03-26T11:45:00Z",
+        "url": "https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html",
+        "resumo": "Some weeks in security feel loud. This one feels sneaky. Less big dramatic fireworks, more of that slow creeping sense that too many people are getting way too comfortable abusing things they probably shouldn’t even be touching.\nThere’s a little bit of everyt…"
+    },
+    {
+        "titulo": "The open source blind spot in our supply chains",
+        "fonte": "TechRadar",
+        "autor": "Bharat Mistry",
+        "data": "2026-03-26T11:26:29Z",
+        "url": "https://www.techradar.com/pro/the-open-source-blind-spot-in-our-supply-chains",
+        "resumo": "Supply chain attacks are increasing in volume, but open source vulnerabilities continue relatively unnoticed."
+    },
+    {
+        "titulo": "Deepfake X-rays are so real even doctors can’t tell the difference",
+        "fonte": "Science Daily",
+        "autor": null,
+        "data": "2026-03-26T10:42:12Z",
+        "url": "https://www.sciencedaily.com/releases/2026/03/260326011452.htm",
+        "resumo": "Deepfake X-rays created by AI are now convincing enough to fool both doctors and AI models. In tests, radiologists had limited success identifying fake images, especially when they didn’t know they were being shown. This opens the door to risks like fraudulen…"
+    },
+    {
+        "titulo": "CanisterWorm malware wipes Iranian machines for no apparent reason — sophisticated attack spreads through npm packages and uses ICP canister as control surface",
+        "fonte": "Tom's Hardware UK",
+        "autor": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
+        "data": "2026-03-26T10:20:00Z",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/canisterworm-malware-wipes-iranian-machines-for-no-apparent-reason-sophisticated-attack-spreads-through-npm-packages-and-uses-icp-canister-as-control-surface",
+        "resumo": "CanisterWorm malware wipes Iranian machines for no apparent reason"
+    },
+    {
+        "titulo": "Aegon publishes Integrated Annual Report 2025",
+        "fonte": "GlobeNewswire",
+        "autor": "Aegon Ltd.",
+        "data": "2026-03-26T07:00:00Z",
+        "url": "https://www.globenewswire.com/news-release/2026/03/26/3262745/0/en/Aegon-publishes-Integrated-Annual-Report-2025.html",
+        "resumo": "Schiphol, March 26, 2026 - Aegon today publishes its Integrated Annual Report 2025. The report provides an overview of the company’s businesses, strategy and approach to sustainability, as well as its financial and non-financial performance over the past year…"
+    },
+    {
+        "titulo": "WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-03-26T06:53:00Z",
+        "url": "https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html",
+        "resumo": "Cybersecurity researchers have discovered a new payment skimmer that uses WebRTC data channels as a means to receive payloads and exfiltrate data, effectively bypassing security controls.\n\"Instead of the usual HTTP requests or image beacons, this malware uses…"
+    },
+    {
+        "titulo": "India’s Grade A office boom & rapid AI adoption expose resilience gap for commercial real estate landlords",
+        "fonte": "The Times of India",
+        "autor": "Sobia Khan",
+        "data": "2026-03-26T04:37:35Z",
+        "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/indias-grade-a-office-boom-rapid-ai-adoption-expose-resilience-gap-for-commercial-real-estate-landlords/articleshow/129815832.cms",
+        "resumo": "India's office market is booming, fueled by Global Capability Centres and AI. However, buildings struggle to keep pace with demands for constant connectivity and high performance. This infrastructure gap threatens business continuity and tenant experience.  L…"
+    }
+]
