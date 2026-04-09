@@ -1,162 +1,162 @@
 [
     {
-        "titulo": "Bringing the cyber community into the battle against agentic insecurity at RSAC 2026",
-        "fonte": "SiliconANGLE News",
-        "autor": "Jason English",
-        "data": "2026-03-30T18:58:33Z",
-        "url": "https://siliconangle.com/2026/03/30/bringing-cyber-community-battle-agentic-insecurity-rsac-2026/",
-        "resumo": "At the RSAC2026 Conference, practitioners and vendors came together to hear a new story focused less on prevention, and more on adaptation ahead of the inevitability of change brought on by the rapid enterprise adoption of agentic artificial intelligence codi…"
+        "titulo": "Banning New Foreign Routers Mistargets Products to Fix Real Problem",
+        "fonte": "EFF",
+        "autor": "Bill Budington",
+        "data": "2026-04-08T19:24:39Z",
+        "url": "https://www.eff.org/deeplinks/2026/04/banning-new-foreign-routers-mistargets-products-fix-real-problem",
+        "resumo": "On March 23, the FCC issued an update to their Covered List, a list of equipment banned from obtaining regulatory approval necessary for U.S. sale (and thus effectively a ban on sale of new devices), to include all new routers produced in foreign countries un…"
     },
     {
-        "titulo": "Critical Citrix NetScaler memory flaw actively exploited in attacks",
+        "titulo": "CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday",
         "fonte": "BleepingComputer",
-        "autor": "Bill Toulas",
-        "data": "2026-03-30T18:28:37Z",
-        "url": "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/",
-        "resumo": "Hackers are exploiting a critical severity vulnerability, tracked as CVE-2026-3055, in Citrix  NetScaler ADC and NetScaler Gateway appliances to obtain sensitive data. [...]"
+        "autor": "Sergiu Gatlan",
+        "data": "2026-04-08T18:15:27Z",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/",
+        "resumo": "CISA has given U.S. government agencies four days to secure their systems against a critical-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) that has been exploited in attacks since January. [...]"
     },
     {
-        "titulo": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-03-30T18:05:00Z",
-        "url": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html",
-        "resumo": "A previously unknown vulnerability in OpenAI ChatGPT allowed sensitive conversation data to be exfiltrated without user knowledge or consent, according to new findings from Check Point.\n\"A single malicious prompt could turn an otherwise ordinary conversation …"
+        "titulo": "Why Anthropic's new AI model has some cybersecurity pros worried about its hacking abilities",
+        "fonte": "Business Insider",
+        "autor": "Robert Scammell",
+        "data": "2026-04-08T17:36:19Z",
+        "url": "https://www.businessinsider.com/claude-mythos-preview-anthropic-cybersecurity-reaction-glasswing-2026-4",
+        "resumo": "Anthropic's Claude Mythos raises cybersecurity concerns with its ability to find and exploit vulnerabilities. Here's what cyber experts think."
     },
     {
-        "titulo": "TeamPCP’s attack spree slows, but threat escalates with ransomware pivot",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-03-30T15:33:41Z",
-        "url": "https://www.helpnetsecurity.com/2026/03/30/teampcp-supply-chain-attacks-ransomware/",
-        "resumo": "TeamPCP’s destructive run of supply chain breaches has stopped, for now: it has been three days since the group published malicious versions of Telnyx’s SDK on PyPI, and there haven’t been reports of new open-source project compromises. Partnership with emerg…"
-    },
-    {
-        "titulo": "It’s a mystery … alleged unpatched Telegram zero-day allows device takeover, but Telegram denies",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-03-30T14:07:27Z",
-        "url": "https://securityaffairs.com/190167/security/its-a-mystery-alleged-unpatched-telegram-zero-day-allows-device-takeover-but-telegram-denies.html",
-        "resumo": "A critical Telegram flaw could allow zero-click remote code execution on devices, but Telegram denies it. Researcher Michael DePlante (@izobashi) of TrendAI Zero Day disclosed a new Telegram vulnerability through Zero Day Initiative (ZDI). The vulnerability, …"
-    },
-    {
-        "titulo": "⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-03-30T13:56:00Z",
-        "url": "https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html",
-        "resumo": "Some weeks are loud. This one was quieter but not in a good way. Long-running operations are finally hitting courtrooms, old attack methods are showing up in new places, and research that stopped being theoretical right around the time defenders stopped payin…"
-    },
-    {
-        "titulo": "OpenAI Codex vulnerability enabled GitHub token theft via command injection, report finds",
-        "fonte": "SiliconANGLE News",
-        "autor": "Duncan Riley",
-        "data": "2026-03-30T13:00:18Z",
-        "url": "https://siliconangle.com/2026/03/30/openai-codex-vulnerability-enabled-github-token-theft-via-command-injection-report-finds/",
-        "resumo": "A critical vulnerability in OpenAI Group PBC’s Codex coding agent could have exposed sensitive GitHub authentication tokens through a command injection flaw, according to a new report out today from Phantom Labs, the research arm of identity and access securi…"
-    },
-    {
-        "titulo": "Everything you need to know about Moltbook",
-        "fonte": "TechRadar",
-        "autor": "ritoban@nutgraf.agency (Ritoban Mukherjee) , Ritoban Mukherjee",
-        "data": "2026-03-30T12:46:29Z",
-        "url": "https://www.techradar.com/pro/everything-you-need-to-know-about-moltbook",
-        "resumo": "Moltbook launched in January 2026 as a Reddit-style platform for OpenClaw AI agents. Meta acquired it six weeks later. Here's what happened, what's been overstated, and why it matters."
-    },
-    {
-        "titulo": "Car hacking! How India’s first vehicle cybersecurity rule AIS 189 may affect the auto industry",
+        "titulo": "Latest Anthropic AI model finds cracks in software defenses",
         "fonte": "The Times of India",
-        "autor": "ET Online",
-        "data": "2026-03-30T12:34:32Z",
-        "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/car-hacking-how-indias-first-vehicle-cybersecurity-rule-ais-189-may-affect-the-auto-industry/articleshow/129901137.cms",
-        "resumo": "India is set to implement AIS 189, its first mandatory vehicle cybersecurity standard, aligning with global regulations like UN R155. This move will require automakers and suppliers to establish robust cybersecurity management systems, impacting vehicle desig…"
+        "autor": "AFP",
+        "data": "2026-04-08T17:28:42Z",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/latest-anthropic-ai-model-finds-cracks-in-software-defenses/articleshow/130120454.cms",
+        "resumo": "Anthropic on Tuesday said its yet-to-be-released artificial intelligence model called Claude Mythos has proven keenly adept at exposing software weaknesses. Software vulnerabilities exposed by Mythos were often subtle and difficult to detect without AI, accor…"
     },
     {
-        "titulo": "Critical Fortinet FortiClient EMS bug under active attack (CVE-2026-21643)",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-03-30T12:19:10Z",
-        "url": "https://www.helpnetsecurity.com/2026/03/30/forticlient-ems-cve-2026-21643-reported-exploitation/",
-        "resumo": "A critical SQL injection vulnerability (CVE-2026-21643) in Fortinet FortiClient Endpoint Management Server (EMS), a management server for FortiClient endpoint agents on various platforms, is under active exploitation. The warning comes from Defused Cyber, whi…"
+        "titulo": "Anthropic lets Apple, Amazon test more powerful Mythos AI model",
+        "fonte": "Financial Post",
+        "autor": "Bloomberg News",
+        "data": "2026-04-08T16:48:34Z",
+        "url": "https://financialpost.com/cybersecurity/anthropic-lets-apple-amazon-test-mythos-ai",
+        "resumo": "Anthropic PBC is letting tech firms access a more powerful, unreleased AI model to help prepare for possible cyberattacks. Read more here"
     },
     {
-        "titulo": "Presentation: Are We Ready for the Next Cyber Security Crisis Like Log4shell?",
-        "fonte": "InfoQ.com",
-        "autor": "Soroosh Khodami",
-        "data": "2026-03-30T12:18:00Z",
-        "url": "https://www.infoq.com/presentations/cyber-security-log4shell/",
-        "resumo": "Soroosh Khodami discusses why we aren't ready for the next Log4Shell. He shares live demos of dependency confusion and compromised builds, explaining how minor oversights gift hackers total system access. He explains the value of Software Bill of Materials (S…"
+        "titulo": "Prioritizing security, privacy, and trust in the AI era | FY25 Purpose Report",
+        "fonte": "Cisco.com",
+        "autor": "Amanda Wolkin",
+        "data": "2026-04-08T14:00:10Z",
+        "url": "https://blogs.cisco.com/our-corporate-purpose/prioritizing-security-privacy-and-trust-in-the-ai-era-fy25-purpose-report",
+        "resumo": "In a world where nearly everything is connected and generating data, technology holds extraordinary promise to solve our greatest challenges. But with this opportunity comes increasing vulnerability if security and privacy are not prioritized.   In a world wh…"
     },
     {
-        "titulo": "Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-03-30T10:59:38Z",
-        "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
-        "resumo": "F5 has reclassified a BIG-IP APM denial-of-service (DoS) vulnerability as a critical-severity remote code execution (RCE) flaw, warning that attackers are exploiting it to deploy webshells on unpatched devices. [...]"
+        "titulo": "Canada’s cybersecurity sector has a pipeline problem — and a glass ceiling",
+        "fonte": "The Conversation Africa",
+        "autor": "Sepideh Borzoo, Postdoctoral Fellow, Toronto Metropolitan University, Atefeh (Atty) Mashatan, Canada Research Chair and Associate Professor, Toronto Metropolitan University, Rupa Banerjee, Canada Research Chair and Associate Professor of Human Resource Management and Organizational Behaviour, Toronto Metropolitan University",
+        "data": "2026-04-08T13:56:25Z",
+        "url": "https://theconversation.com/canadas-cybersecurity-sector-has-a-pipeline-problem-and-a-glass-ceiling-270764",
+        "resumo": "Canada’s cybersecurity labour shortage cannot be solved simply by recruiting skilled immigrants, because systemic barriers — especially for racialized immigrant women — limit their integration, advancement and retention."
     },
     {
-        "titulo": "Share Market Highlights: Sensex, Nifty tumble over 2% as FY26 closes on a weak note",
-        "fonte": "BusinessLine",
-        "autor": "KS Badri Narayanan, Team BL",
-        "data": "2026-03-30T10:56:26Z",
-        "url": "https://www.thehindubusinessline.com/markets/stock-market-highlights-30-march-2026/article70799147.ece",
-        "resumo": "Sensex, Nifty updates on 30 March 2026: Indian markets closed sharply lower in the final session of FY26, dragged by rising crude oil prices, West Asia tensions, and heavy foreign outflows, with Sensex and Nifty falling over 2 per cent each."
+        "titulo": "GreenboneOS: Patch Now! CVE-2026-35616 and CVE-2026-21643: Fortinet EMS Actively Exploited",
+        "fonte": "Greenbone.net",
+        "autor": "Joseph Lee",
+        "data": "2026-04-08T13:46:23Z",
+        "url": "https://www.greenbone.net/en/blog/patch-now-2026-35616-and-cve-2026-21643/",
+        "resumo": "Fortinet FortiClient EMS faces immediate risk from two critical severity CVEs: CVE-2026-35616 in versions 7.4.5-7.4.6 and CVE-2026-21643 in 7.4.4. CVE-2026-35616 (CVSS 9.8) is an actively exploited vulnerability in Fortinet FortiClient Enterprise Management S…"
     },
     {
-        "titulo": "Critical Fortinet FortiClient EMS flaw exploited for Remote Code Execution",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-03-30T10:43:26Z",
-        "url": "https://securityaffairs.com/190158/security/critical-fortinet-forticlient-ems-flaw-exploited-for-remote-code-execution.html",
-        "resumo": "Attackers are exploiting a critical Fortinet FortiClient EMS flaw (CVE-2026-21643) that allows remote code execution via SQL injection. A critical Fortinet FortiClient EMS vulnerability, tracked as CVE-2026-21643 (CVSS score of 9.1), is now being actively exp…"
+        "titulo": "Bugcrowd and Carahsoft Partner to Bring FedRAMP-Authorized Proactive Security and Testing Solutions to the Public Sector",
+        "fonte": "GlobeNewswire",
+        "autor": "Carahsoft Technology Corporation",
+        "data": "2026-04-08T13:36:00Z",
+        "url": "https://www.globenewswire.com/news-release/2026/04/08/3270247/0/en/Bugcrowd-and-Carahsoft-Partner-to-Bring-FedRAMP-Authorized-Proactive-Security-and-Testing-Solutions-to-the-Public-Sector.html",
+        "resumo": "Public Sector Customers Can Preemptively Find and Remediate Vulnerabilities Through Bugcrowd’s Proactive Security Capabilities Public Sector Customers Can Preemptively Find and Remediate Vulnerabilities Through Bugcrowd’s Proactive Security Capabilities"
     },
     {
-        "titulo": "Critical Fortinet Forticlient EMS flaw now exploited in attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-03-30T07:48:17Z",
-        "url": "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/",
-        "resumo": "Attackers are now actively exploiting a critical vulnerability in Fortinet's FortiClient EMS platform, according to threat intelligence company Defused. [...]"
+        "titulo": "Anthropic boasts major AI-enabled cybersecurity breakthrough",
+        "fonte": "TelecomTV",
+        "autor": "Ray Le Maistre",
+        "data": "2026-04-08T12:02:03Z",
+        "url": "https://www.telecomtv.com/content/security/anthropic-boasts-major-ai-enabled-cybersecurity-breakthrough-55256/",
+        "resumo": "AI developer says its Claude Mythos model has capabilities that could ‘reshape cybersecurity’It has formed Project Glasswing with big name partners, such as AW…"
     },
     {
-        "titulo": "ShipSec Studio brings open-source workflow orchestration to security operations",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-03-30T05:00:50Z",
-        "url": "https://www.helpnetsecurity.com/2026/03/30/shipsec-studio-security-workflow-automation-platform/",
-        "resumo": "Security teams have long relied on a mix of shell scripts, cron jobs, and loosely connected tools to chain reconnaissance and vulnerability scanning work together. ShipSec Studio, an open-source security workflow automation platform from ShipSec AI, aims to r…"
+        "titulo": "Anthropic Launches Project Glasswing to Use AI to Find and Fix Critical Software Vulnerabilities",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Danny  Palmer",
+        "data": "2026-04-08T11:30:00Z",
+        "url": "https://www.infosecurity-magazine.com/news/anthropic-launch-project-glasswing/",
+        "resumo": "Anthropic launches Project Glasswing, using its Claude Mythos Preview AI to autonomously identify and fix undiscovered vulnerabilities in critical software"
     },
     {
-        "titulo": "US foreign router ban criticized as ‘industrial policy disguised as cybersecurity’",
+        "titulo": "Always-on AI Agents put everything hackers could ever want behind a single attack surface",
+        "fonte": "TechRadar",
+        "autor": "Mukund Jha",
+        "data": "2026-04-08T10:37:19Z",
+        "url": "https://www.techradar.com/pro/always-on-ai-agents-put-everything-hackers-could-ever-want-behind-a-single-attack-surface",
+        "resumo": "As AI agents gain autonomy, security risks escalate without proper safeguards in place."
+    },
+    {
+        "titulo": "Russia-Linked Hackers Hijack Routers to Steal Passwords, UK Says",
+        "fonte": "Insurance Journal",
+        "autor": "Admin",
+        "data": "2026-04-08T10:32:16Z",
+        "url": "https://www.insurancejournal.com/news/international/2026/04/08/864967.htm",
+        "resumo": "Russian government-linked hackers are compromising popular internet routers to steal passwords for email accounts and other online services, the UK’s National Cyber Security Centre has warned. The hackers, a group known as APT28, are associated with Russia’s …"
+    },
+    {
+        "titulo": "NHS Scotland-linked domains caught serving pr0n and dodgy sports streams",
         "fonte": "Theregister.com",
-        "autor": "Simon Sharwood",
-        "data": "2026-03-30T04:31:17Z",
-        "url": "https://www.theregister.com/2026/03/30/professor_criticizes_fcc_router_ban/",
-        "resumo": "Public policy professor says it will make America less secure but hits Netgear’s lobbying goals The United States’ ban on foreign-made SOHO routers won’t improve security, and only makes sense as “industrial policy disguised as cybersecurity,” according to Mi…"
+        "autor": "Connor Jones",
+        "data": "2026-04-08T10:00:14Z",
+        "url": "https://www.theregister.com/2026/04/08/scotland_nhs_domain_compromised/",
+        "resumo": "Two practice web addresses appear to have been compromised Multiple domains belonging to Scottish healthcare providers have been hijacked and are now pushing links to adult content and illegal sports streams, according to a researcher.…"
     },
     {
-        "titulo": "Urgent Alert: NetScaler bug CVE-2026-3055 probed by attackers could leak sensitive data",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-03-29T13:33:57Z",
-        "url": "https://securityaffairs.com/190131/hacking/urgent-alert-netscaler-bug-cve-2026-3055-probed-by-attackers-could-leak-sensitive-data.html",
-        "resumo": "Attackers are actively probing a critical Citrix NetScaler flaw (CVE-2026-3055) that can leak sensitive data via a memory overread issue. A critical vulnerability, tracked as CVE-2026-3055 (CVSS score of 9.3), in Citrix NetScaler ADC and Gateway is already be…"
+        "titulo": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-04-08T09:16:00Z",
+        "url": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
+        "resumo": "Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative called Project Glasswing that will use a preview version of its new frontier model, Claude Mythos, to find and address security vulnerabilities.\nThe model will be used by …"
     },
     {
-        "titulo": "Iran, Qatar and Trump’s New Gas Order: Was Europe’s Gas the Hidden Target?",
-        "fonte": "Activistpost.com",
-        "autor": "Editor",
-        "data": "2026-03-29T10:00:00Z",
-        "url": "https://www.activistpost.com/iran-qatar-and-trumps-new-gas-order-was-europes-gas-the-hidden-target/",
-        "resumo": "Ras Laffan burns, Hormuz chokes, and Trump’s envoy tells Europe to sign a $750 billion energy pact or lose its lifeline. Documents show this “shock” was structurally prepared in advance. Trump did not need to say the quiet part out loud. His ambassador did it…"
+        "titulo": "Claude Mythos, Anthropic AI capable of hacking any software, joins forces with Google, Apple, AWS & more; Users’ personal data at risk?",
+        "fonte": "The Times of India",
+        "autor": "Trending Desk",
+        "data": "2026-04-08T08:14:26Z",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/claude-mythos-anthropic-ai-capable-of-hacking-any-software-joins-forces-with-google-apple-aws-more-users-personal-data-at-risk/articleshow/130106401.cms",
+        "resumo": "Anthropic has launched Project Glasswing, a major industry collaboration with Apple, Google, Microsoft, NVIDIA and others, using its powerful new model Claude Mythos Preview to find and fix dangerous software vulnerabilities. The initiative aims to strengthen…"
     },
     {
-        "titulo": "Week in review: NIST updates DNS security guidance, compromised LiteLLM PyPI packages",
-        "fonte": "Help Net Security",
-        "autor": "Help Net Security",
-        "data": "2026-03-29T08:00:59Z",
-        "url": "https://www.helpnetsecurity.com/2026/03/29/week-in-review-nist-updates-dns-security-guidance-compromised-litellm-pypi-packages/",
-        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: NIST updates its DNS security guidance for the first time in over a decade DNS infrastructure underpins nearly every network connection an organization makes, ye…"
+        "titulo": "What is Claude Mythos, and why is Anthropic limiting its rollout?",
+        "fonte": "The Indian Express",
+        "autor": "Soumyarendra Barik",
+        "data": "2026-04-08T06:48:48Z",
+        "url": "https://indianexpress.com/article/explained/explained-sci-tech/anthropic-claude-mythos-ai-cybersecurity-risk-10625159/",
+        "resumo": "The decision also highlights a broader dilemma confronting the AI sector: the same systems that can strengthen digital defences can also become powerful tools for hackers"
+    },
+    {
+        "titulo": "Anthropic's Claude Mythos AI has discovered thousands of vulnerabilities in every OS and browser",
+        "fonte": "TweakTown",
+        "autor": "Kosta Andreadis",
+        "data": "2026-04-08T06:26:03Z",
+        "url": "https://www.tweaktown.com/news/110926/anthropics-claude-mythos-ai-has-discovered-thousands-of-vulnerabilities-in-every-os-and-browser/index.html",
+        "resumo": "Anthropic's Claude Mythos AI model is reportedly too powerful and dangerous to release, as it poses a real threat to cybersecurity.Continue reading at TweakTown"
+    },
+    {
+        "titulo": "Anthropic launches Project Glasswing to test advanced AI for cybersecurity",
+        "fonte": "The Indian Express",
+        "autor": "Tech Desk",
+        "data": "2026-04-08T06:09:46Z",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-launches-project-glasswing-to-test-advanced-ai-for-cybersecurity-10625076/",
+        "resumo": "Anthropic has launched Project Glasswing, a cybersecurity initiative that brings together major tech firms to test a powerful, unreleased AI model capable of identifying and addressing software vulnerabilities at scale, amid rising concerns over AI-driven cyb…"
+    },
+    {
+        "titulo": "Risky Business #832 -- Anthropic unveils magical 0day computer God",
+        "fonte": "Risky.biz",
+        "autor": "James Wilson",
+        "data": "2026-04-08T04:59:38Z",
+        "url": "https://risky.biz/RB832/",
+        "resumo": "On this week’s show, Patrick Gray, Adam Boileau and James Wilson discuss the week’s cybersecurity news. They cover:\n\n<ul>\n <li>Anthropic’s new Mythos model hunts bugs and chains exploits together so well that… you cant have it…</li>\n <li>…Unless you’re one of…"
     }
 ]
