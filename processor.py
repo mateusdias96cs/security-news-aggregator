@@ -1,5 +1,6 @@
 import re
 from urllib.parse import urlparse
+from datetime import datetime
 
 
 # ── SANITIZAÇÃO ──
@@ -74,15 +75,26 @@ def sanitizar_fonte(fonte, max_len=80):
 
 
 def sanitizar_data(data):
-    """Valida formato de data ISO 8601."""
     if not data or not isinstance(data, str):
         return ""
-    # Aceita apenas datas no formato esperado
+    data = data.strip()
+    # Tenta formatos conhecidos
+    formatos = [
+        "%Y-%m-%dT%H:%M:%SZ",
+        "%Y-%m-%dT%H:%M:%S%z",
+        "%a, %d %b %Y %H:%M:%S %z",
+        "%a, %d %b %Y %H:%M:%S GMT",
+        "%Y-%m-%d",
+    ]
+    for fmt in formatos:
+        try:
+            dt = datetime.strptime(data[:30], fmt)
+            return dt.strftime("%Y-%m-%d")
+        except ValueError:
+            continue
+    # Fallback: retorna apenas os 10 primeiros caracteres se parecer data ISO
     if re.match(r'^\d{4}-\d{2}-\d{2}', data):
-        return data[:25]
-    # Formato RSS: Thu, 09 Apr 2026 ...
-    if re.match(r'^[A-Za-z]{3}, \d{2} [A-Za-z]{3} \d{4}', data):
-        return data[:30]
+        return data[:10]
     return ""
 
 
@@ -108,7 +120,7 @@ def processar_noticias(artigos):
         # Sanitiza todos os campos
         titulo = sanitizar_texto(titulo_raw, max_len=200)
         fonte = sanitizar_fonte(fonte_nome)
-        autor = sanitizar_texto(artigo.get("author") or "", max_len=100) or "Desconhecido"
+        autor = sanitizar_texto(artigo.get("author") or "", max_len=100)
         data = sanitizar_data(artigo.get("publishedAt") or "")
         url = sanitizar_url(url_raw)
         resumo = sanitizar_texto(artigo.get("description") or "", max_len=300) or "Sem resumo"
