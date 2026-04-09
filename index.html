@@ -2,277 +2,1074 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Security News Aggregator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Outfit:wght@300;400;600;700;800&display=swap" rel="stylesheet">
     <style>
+        :root {
+            --bg: #080a0f;
+            --bg2: #0d1018;
+            --surface: #111520;
+            --border: #1e2535;
+            --accent: #00e5ff;
+            --accent2: #7c3aed;
+            --green: #00ff9d;
+            --text: #c8d0e0;
+            --text-dim: #5a6480;
+            --text-bright: #f0f4ff;
+            --card-w: 380px;
+            --card-h: 520px;
+        }
+
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: 'Segoe UI', sans-serif; background: #0d1117; color: #e6edf3; padding: 2rem; }
-        header { text-align: center; margin-bottom: 2rem; padding: 2rem; border-bottom: 1px solid #30363d; }
-        header h1 { font-size: 2rem; color: #58a6ff; margin-bottom: 0.5rem; }
-        header p { color: #8b949e; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 1.5rem; max-width: 1200px; margin: 0 auto; }
-        .card { background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 1.5rem; transition: border-color 0.2s; }
-        .card:hover { border-color: #58a6ff; }
-        .card-number { font-size: 0.75rem; color: #58a6ff; font-weight: 600; margin-bottom: 0.5rem; }
-        .card h2 { font-size: 1rem; margin-bottom: 0.75rem; line-height: 1.5; }
-        .card-meta { display: flex; gap: 0.5rem; margin-bottom: 0.75rem; flex-wrap: wrap; }
-        .badge { font-size: 0.75rem; padding: 2px 10px; border-radius: 99px; background: #21262d; color: #8b949e; border: 1px solid #30363d; }
-        .badge.fonte { color: #58a6ff; border-color: #58a6ff55; }
-        .badge.data { color: #3fb950; border-color: #3fb95055; }
-        .resumo { font-size: 0.85rem; color: #8b949e; line-height: 1.6; margin-bottom: 1rem; }
-        .card a { font-size: 0.8rem; color: #58a6ff; text-decoration: none; }
-        .card a:hover { text-decoration: underline; }
+
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: 'Outfit', sans-serif;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            inset: 0;
+            background:
+                radial-gradient(ellipse 60% 40% at 20% 20%, rgba(0,229,255,0.04) 0%, transparent 60%),
+                radial-gradient(ellipse 50% 50% at 80% 80%, rgba(124,58,237,0.04) 0%, transparent 60%);
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        header {
+            position: relative;
+            z-index: 10;
+            padding: 60px 60px 40px;
+            display: flex;
+            align-items: flex-end;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .header-tag {
+            font-family: 'Space Mono', monospace;
+            font-size: 11px;
+            color: var(--accent);
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .header-tag::before {
+            content: '';
+            display: block;
+            width: 24px;
+            height: 1px;
+            background: var(--accent);
+        }
+
+        h1 {
+            font-size: clamp(36px, 5vw, 64px);
+            font-weight: 800;
+            color: var(--text-bright);
+            letter-spacing: -2px;
+            line-height: 1;
+        }
+
+        h1 span { color: var(--accent); }
+
+        .header-sub {
+            font-size: 15px;
+            color: var(--text-dim);
+            margin-top: 10px;
+            font-weight: 300;
+        }
+
+        .header-right {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+            gap: 8px;
+        }
+
+        .live-badge {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 6px 14px;
+            background: rgba(0,255,157,0.08);
+            border: 1px solid rgba(0,255,157,0.2);
+            border-radius: 20px;
+            font-size: 12px;
+            color: var(--green);
+            font-family: 'Space Mono', monospace;
+        }
+
+        .live-dot {
+            width: 6px;
+            height: 6px;
+            background: var(--green);
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.4; transform: scale(0.8); }
+        }
+
+        .scroll-hint {
+            font-size: 11px;
+            color: var(--text-dim);
+            font-family: 'Space Mono', monospace;
+        }
+
+        .divider {
+            position: relative;
+            z-index: 10;
+            margin: 0 60px 40px;
+            height: 1px;
+            background: linear-gradient(90deg, var(--accent), var(--accent2), transparent);
+            opacity: 0.3;
+        }
+
+        .track-wrap {
+            position: relative;
+            z-index: 10;
+            padding: 20px 60px 60px;
+            overflow-x: scroll;
+            overflow-y: hidden;
+            cursor: grab;
+            user-select: none;
+        }
+
+        .track-wrap:active { cursor: grabbing; }
+
+        .track-wrap::-webkit-scrollbar { height: 4px; }
+        .track-wrap::-webkit-scrollbar-track { background: var(--bg2); }
+        .track-wrap::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+        .track {
+            display: flex;
+            gap: 24px;
+            width: max-content;
+        }
+
+        .card-wrapper {
+            width: var(--card-w);
+            height: var(--card-h);
+            perspective: 1200px;
+            cursor: pointer;
+            flex-shrink: 0;
+        }
+
+        .card-inner {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            transform-style: preserve-3d;
+            transition: transform 0.7s cubic-bezier(0.4, 0, 0.2, 1);
+            border-radius: 16px;
+        }
+
+        .card-wrapper.flipped .card-inner {
+            transform: rotateY(180deg);
+        }
+
+        .card-front,
+        .card-back {
+            position: absolute;
+            inset: 0;
+            backface-visibility: hidden;
+            border-radius: 16px;
+            overflow: hidden;
+            border: 1px solid var(--border);
+            transition: border-color 0.3s, box-shadow 0.3s;
+        }
+
+        .card-wrapper:hover .card-front,
+        .card-wrapper:hover .card-back {
+            border-color: rgba(0,229,255,0.25);
+            box-shadow: 0 0 30px rgba(0,229,255,0.06);
+        }
+
+        .card-front {
+            background: var(--surface);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .card-num {
+            position: absolute;
+            top: 16px;
+            left: 16px;
+            z-index: 3;
+            font-family: 'Space Mono', monospace;
+            font-size: 11px;
+            color: var(--accent);
+            background: rgba(8,10,15,0.8);
+            padding: 4px 8px;
+            border-radius: 4px;
+            border: 1px solid rgba(0,229,255,0.2);
+        }
+
+        .card-img-wrap {
+            position: relative;
+            height: 200px;
+            overflow: hidden;
+            flex-shrink: 0;
+        }
+
+        .card-img-wrap img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.5s ease;
+        }
+
+        .card-wrapper:hover .card-img-wrap img {
+            transform: scale(1.05);
+        }
+
+        .card-img-overlay {
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(to bottom, transparent 40%, var(--surface) 100%);
+        }
+
+        .card-front-content {
+            padding: 20px 22px 22px;
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            gap: 10px;
+        }
+
+        .card-source {
+            font-size: 10px;
+            font-weight: 700;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            color: var(--accent);
+            font-family: 'Space Mono', monospace;
+        }
+
+        .card-title {
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--text-bright);
+            line-height: 1.4;
+            display: -webkit-box;
+            -webkit-line-clamp: 4;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            flex: 1;
+        }
+
+        .card-meta {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .card-date {
+            font-size: 11px;
+            color: var(--text-dim);
+            font-family: 'Space Mono', monospace;
+        }
+
+        .card-author {
+            font-size: 11px;
+            color: var(--text-dim);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-width: 160px;
+        }
+
+        .card-hint {
+            font-size: 11px;
+            color: var(--accent);
+            opacity: 0;
+            transition: opacity 0.3s;
+            font-family: 'Space Mono', monospace;
+        }
+
+        .card-wrapper:hover .card-hint { opacity: 1; }
+
+        .card-back {
+            background: linear-gradient(135deg, #0d1018 0%, #111830 100%);
+            transform: rotateY(180deg);
+            display: flex;
+            flex-direction: column;
+            padding: 30px 26px;
+            gap: 16px;
+            border-color: rgba(0,229,255,0.2);
+        }
+
+        .card-back-source {
+            font-size: 10px;
+            font-weight: 700;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            color: var(--accent);
+            font-family: 'Space Mono', monospace;
+        }
+
+        .card-back-title {
+            font-size: 15px;
+            font-weight: 700;
+            color: var(--text-bright);
+            line-height: 1.4;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .card-back-resumo {
+            font-size: 13px;
+            color: var(--text);
+            line-height: 1.7;
+            flex: 1;
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 8;
+            -webkit-box-orient: vertical;
+        }
+
+        .card-back-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 10px 18px;
+            background: var(--accent);
+            color: var(--bg);
+            font-weight: 700;
+            font-size: 12px;
+            border-radius: 8px;
+            text-decoration: none;
+            transition: all 0.2s;
+            width: fit-content;
+        }
+
+        .card-back-link:hover {
+            background: #00b8cc;
+            transform: translateY(-1px);
+        }
+
+        .card-back-hint {
+            font-size: 10px;
+            color: var(--text-dim);
+            font-family: 'Space Mono', monospace;
+            text-align: center;
+        }
+
+        footer {
+            position: relative;
+            z-index: 10;
+            padding: 24px 60px;
+            border-top: 1px solid var(--border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 12px;
+            color: var(--text-dim);
+            font-family: 'Space Mono', monospace;
+        }
+
+        footer a { color: var(--accent); text-decoration: none; }
+
+        @media (max-width: 768px) {
+            header { padding: 40px 24px 30px; }
+            .divider { margin: 0 24px 30px; }
+            .track-wrap { padding: 10px 24px 40px; }
+            footer { padding: 20px 24px; flex-direction: column; gap: 8px; }
+            :root { --card-w: 300px; --card-h: 480px; }
+        }
     </style>
 </head>
 <body>
+
 <header>
-    <h1>🛡️ Security News Aggregator</h1>
-    <p>Últimas notícias de cibersegurança</p>
+    <div class="header-left">
+        <div class="header-tag">Cybersecurity Intelligence</div>
+        <h1>Security <span>News</span></h1>
+        <p class="header-sub">Monitoramento em tempo real das principais ameaças globais</p>
+    </div>
+    <div class="header-right">
+        <div class="live-badge">
+            <div class="live-dot"></div>
+            Atualizado automaticamente
+        </div>
+        <div class="scroll-hint">← arraste para navegar →</div>
+    </div>
 </header>
-<div class="grid">
 
-    <div class="card">
-        <div class="card-number">#1</div>
-        <h2>Banning New Foreign Routers Mistargets Products to Fix Real Problem</h2>
-        <div class="card-meta">
-            <span class="badge fonte">EFF</span>
-            <span class="badge data">2026-04-08</span>
-            <span class="badge">Bill Budington</span>
-        </div>
-        <p class="resumo">On March 23, the FCC issued an update to their Covered List, a list of equipment banned from obtaining regulatory approval necessary for U.S. sale (an...</p>
-        <a href="https://www.eff.org/deeplinks/2026/04/banning-new-foreign-routers-mistargets-products-fix-real-problem" target="_blank">Ler artigo completo →</a>
-    </div>
-    
-    <div class="card">
-        <div class="card-number">#2</div>
-        <h2>CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday</h2>
-        <div class="card-meta">
-            <span class="badge fonte">BleepingComputer</span>
-            <span class="badge data">2026-04-08</span>
-            <span class="badge">Sergiu Gatlan</span>
-        </div>
-        <p class="resumo">CISA has given U.S. government agencies four days to secure their systems against a critical-severity vulnerability in Ivanti Endpoint Manager Mobile ...</p>
-        <a href="https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/" target="_blank">Ler artigo completo →</a>
-    </div>
-    
-    <div class="card">
-        <div class="card-number">#3</div>
-        <h2>Why Anthropic's new AI model has some cybersecurity pros worried about its hacking abilities</h2>
-        <div class="card-meta">
-            <span class="badge fonte">Business Insider</span>
-            <span class="badge data">2026-04-08</span>
-            <span class="badge">Robert Scammell</span>
-        </div>
-        <p class="resumo">Anthropic's Claude Mythos raises cybersecurity concerns with its ability to find and exploit vulnerabilities. Here's what cyber experts think....</p>
-        <a href="https://www.businessinsider.com/claude-mythos-preview-anthropic-cybersecurity-reaction-glasswing-2026-4" target="_blank">Ler artigo completo →</a>
-    </div>
-    
-    <div class="card">
-        <div class="card-number">#4</div>
-        <h2>Latest Anthropic AI model finds cracks in software defenses</h2>
-        <div class="card-meta">
-            <span class="badge fonte">The Times of India</span>
-            <span class="badge data">2026-04-08</span>
-            <span class="badge">AFP</span>
-        </div>
-        <p class="resumo">Anthropic on Tuesday said its yet-to-be-released artificial intelligence model called Claude Mythos has proven keenly adept at exposing software weakn...</p>
-        <a href="https://economictimes.indiatimes.com/tech/artificial-intelligence/latest-anthropic-ai-model-finds-cracks-in-software-defenses/articleshow/130120454.cms" target="_blank">Ler artigo completo →</a>
-    </div>
-    
-    <div class="card">
-        <div class="card-number">#5</div>
-        <h2>Anthropic lets Apple, Amazon test more powerful Mythos AI model</h2>
-        <div class="card-meta">
-            <span class="badge fonte">Financial Post</span>
-            <span class="badge data">2026-04-08</span>
-            <span class="badge">Bloomberg News</span>
-        </div>
-        <p class="resumo">Anthropic PBC is letting tech firms access a more powerful, unreleased AI model to help prepare for possible cyberattacks. Read more here...</p>
-        <a href="https://financialpost.com/cybersecurity/anthropic-lets-apple-amazon-test-mythos-ai" target="_blank">Ler artigo completo →</a>
-    </div>
-    
-    <div class="card">
-        <div class="card-number">#6</div>
-        <h2>Prioritizing security, privacy, and trust in the AI era | FY25 Purpose Report</h2>
-        <div class="card-meta">
-            <span class="badge fonte">Cisco.com</span>
-            <span class="badge data">2026-04-08</span>
-            <span class="badge">Amanda Wolkin</span>
-        </div>
-        <p class="resumo">In a world where nearly everything is connected and generating data, technology holds extraordinary promise to solve our greatest challenges. But with...</p>
-        <a href="https://blogs.cisco.com/our-corporate-purpose/prioritizing-security-privacy-and-trust-in-the-ai-era-fy25-purpose-report" target="_blank">Ler artigo completo →</a>
-    </div>
-    
-    <div class="card">
-        <div class="card-number">#7</div>
-        <h2>Canada’s cybersecurity sector has a pipeline problem — and a glass ceiling</h2>
-        <div class="card-meta">
-            <span class="badge fonte">The Conversation Africa</span>
-            <span class="badge data">2026-04-08</span>
-            <span class="badge">Sepideh Borzoo, Postdoctoral Fellow, Toronto Metropolitan University, Atefeh (Atty) Mashatan, Canada Research Chair and Associate Professor, Toronto Metropolitan University, Rupa Banerjee, Canada Research Chair and Associate Professor of Human Resource Management and Organizational Behaviour, Toronto Metropolitan University</span>
-        </div>
-        <p class="resumo">Canada’s cybersecurity labour shortage cannot be solved simply by recruiting skilled immigrants, because systemic barriers — especially for racialized...</p>
-        <a href="https://theconversation.com/canadas-cybersecurity-sector-has-a-pipeline-problem-and-a-glass-ceiling-270764" target="_blank">Ler artigo completo →</a>
-    </div>
-    
-    <div class="card">
-        <div class="card-number">#8</div>
-        <h2>GreenboneOS: Patch Now! CVE-2026-35616 and CVE-2026-21643: Fortinet EMS Actively Exploited</h2>
-        <div class="card-meta">
-            <span class="badge fonte">Greenbone.net</span>
-            <span class="badge data">2026-04-08</span>
-            <span class="badge">Joseph Lee</span>
-        </div>
-        <p class="resumo">Fortinet FortiClient EMS faces immediate risk from two critical severity CVEs: CVE-2026-35616 in versions 7.4.5-7.4.6 and CVE-2026-21643 in 7.4.4. CVE...</p>
-        <a href="https://www.greenbone.net/en/blog/patch-now-2026-35616-and-cve-2026-21643/" target="_blank">Ler artigo completo →</a>
-    </div>
-    
-    <div class="card">
-        <div class="card-number">#9</div>
-        <h2>Bugcrowd and Carahsoft Partner to Bring FedRAMP-Authorized Proactive Security and Testing Solutions to the Public Sector</h2>
-        <div class="card-meta">
-            <span class="badge fonte">GlobeNewswire</span>
-            <span class="badge data">2026-04-08</span>
-            <span class="badge">Carahsoft Technology Corporation</span>
-        </div>
-        <p class="resumo">Public Sector Customers Can Preemptively Find and Remediate Vulnerabilities Through Bugcrowd’s Proactive Security Capabilities Public Sector Customers...</p>
-        <a href="https://www.globenewswire.com/news-release/2026/04/08/3270247/0/en/Bugcrowd-and-Carahsoft-Partner-to-Bring-FedRAMP-Authorized-Proactive-Security-and-Testing-Solutions-to-the-Public-Sector.html" target="_blank">Ler artigo completo →</a>
-    </div>
-    
-    <div class="card">
-        <div class="card-number">#10</div>
-        <h2>Anthropic boasts major AI-enabled cybersecurity breakthrough</h2>
-        <div class="card-meta">
-            <span class="badge fonte">TelecomTV</span>
-            <span class="badge data">2026-04-08</span>
-            <span class="badge">Ray Le Maistre</span>
-        </div>
-        <p class="resumo">AI developer says its Claude Mythos model has capabilities that could ‘reshape cybersecurity’It has formed Project Glasswing with big name partners, s...</p>
-        <a href="https://www.telecomtv.com/content/security/anthropic-boasts-major-ai-enabled-cybersecurity-breakthrough-55256/" target="_blank">Ler artigo completo →</a>
-    </div>
-    
-    <div class="card">
-        <div class="card-number">#11</div>
-        <h2>Anthropic Launches Project Glasswing to Use AI to Find and Fix Critical Software Vulnerabilities</h2>
-        <div class="card-meta">
-            <span class="badge fonte">Infosecurity Magazine</span>
-            <span class="badge data">2026-04-08</span>
-            <span class="badge">Danny  Palmer</span>
-        </div>
-        <p class="resumo">Anthropic launches Project Glasswing, using its Claude Mythos Preview AI to autonomously identify and fix undiscovered vulnerabilities in critical sof...</p>
-        <a href="https://www.infosecurity-magazine.com/news/anthropic-launch-project-glasswing/" target="_blank">Ler artigo completo →</a>
-    </div>
-    
-    <div class="card">
-        <div class="card-number">#12</div>
-        <h2>Always-on AI Agents put everything hackers could ever want behind a single attack surface</h2>
-        <div class="card-meta">
-            <span class="badge fonte">TechRadar</span>
-            <span class="badge data">2026-04-08</span>
-            <span class="badge">Mukund Jha</span>
-        </div>
-        <p class="resumo">As AI agents gain autonomy, security risks escalate without proper safeguards in place....</p>
-        <a href="https://www.techradar.com/pro/always-on-ai-agents-put-everything-hackers-could-ever-want-behind-a-single-attack-surface" target="_blank">Ler artigo completo →</a>
-    </div>
-    
-    <div class="card">
-        <div class="card-number">#13</div>
-        <h2>Russia-Linked Hackers Hijack Routers to Steal Passwords, UK Says</h2>
-        <div class="card-meta">
-            <span class="badge fonte">Insurance Journal</span>
-            <span class="badge data">2026-04-08</span>
-            <span class="badge">Admin</span>
-        </div>
-        <p class="resumo">Russian government-linked hackers are compromising popular internet routers to steal passwords for email accounts and other online services, the UK’s ...</p>
-        <a href="https://www.insurancejournal.com/news/international/2026/04/08/864967.htm" target="_blank">Ler artigo completo →</a>
-    </div>
-    
-    <div class="card">
-        <div class="card-number">#14</div>
-        <h2>NHS Scotland-linked domains caught serving pr0n and dodgy sports streams</h2>
-        <div class="card-meta">
-            <span class="badge fonte">Theregister.com</span>
-            <span class="badge data">2026-04-08</span>
-            <span class="badge">Connor Jones</span>
-        </div>
-        <p class="resumo">Two practice web addresses appear to have been compromised Multiple domains belonging to Scottish healthcare providers have been hijacked and are now ...</p>
-        <a href="https://www.theregister.com/2026/04/08/scotland_nhs_domain_compromised/" target="_blank">Ler artigo completo →</a>
-    </div>
-    
-    <div class="card">
-        <div class="card-number">#15</div>
-        <h2>Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems</h2>
-        <div class="card-meta">
-            <span class="badge fonte">Internet</span>
-            <span class="badge data">2026-04-08</span>
-            <span class="badge">info@thehackernews.com (The Hacker News)</span>
-        </div>
-        <p class="resumo">Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative called Project Glasswing that will use a preview version of it...</p>
-        <a href="https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html" target="_blank">Ler artigo completo →</a>
-    </div>
-    
-    <div class="card">
-        <div class="card-number">#16</div>
-        <h2>Claude Mythos, Anthropic AI capable of hacking any software, joins forces with Google, Apple, AWS & more; Users’ personal data at risk?</h2>
-        <div class="card-meta">
-            <span class="badge fonte">The Times of India</span>
-            <span class="badge data">2026-04-08</span>
-            <span class="badge">Trending Desk</span>
-        </div>
-        <p class="resumo">Anthropic has launched Project Glasswing, a major industry collaboration with Apple, Google, Microsoft, NVIDIA and others, using its powerful new mode...</p>
-        <a href="https://economictimes.indiatimes.com/news/new-updates/claude-mythos-anthropic-ai-capable-of-hacking-any-software-joins-forces-with-google-apple-aws-more-users-personal-data-at-risk/articleshow/130106401.cms" target="_blank">Ler artigo completo →</a>
-    </div>
-    
-    <div class="card">
-        <div class="card-number">#17</div>
-        <h2>What is Claude Mythos, and why is Anthropic limiting its rollout?</h2>
-        <div class="card-meta">
-            <span class="badge fonte">The Indian Express</span>
-            <span class="badge data">2026-04-08</span>
-            <span class="badge">Soumyarendra Barik</span>
-        </div>
-        <p class="resumo">The decision also highlights a broader dilemma confronting the AI sector: the same systems that can strengthen digital defences can also become powerf...</p>
-        <a href="https://indianexpress.com/article/explained/explained-sci-tech/anthropic-claude-mythos-ai-cybersecurity-risk-10625159/" target="_blank">Ler artigo completo →</a>
-    </div>
-    
-    <div class="card">
-        <div class="card-number">#18</div>
-        <h2>Anthropic's Claude Mythos AI has discovered thousands of vulnerabilities in every OS and browser</h2>
-        <div class="card-meta">
-            <span class="badge fonte">TweakTown</span>
-            <span class="badge data">2026-04-08</span>
-            <span class="badge">Kosta Andreadis</span>
-        </div>
-        <p class="resumo">Anthropic's Claude Mythos AI model is reportedly too powerful and dangerous to release, as it poses a real threat to cybersecurity.Continue reading at...</p>
-        <a href="https://www.tweaktown.com/news/110926/anthropics-claude-mythos-ai-has-discovered-thousands-of-vulnerabilities-in-every-os-and-browser/index.html" target="_blank">Ler artigo completo →</a>
-    </div>
-    
-    <div class="card">
-        <div class="card-number">#19</div>
-        <h2>Anthropic launches Project Glasswing to test advanced AI for cybersecurity</h2>
-        <div class="card-meta">
-            <span class="badge fonte">The Indian Express</span>
-            <span class="badge data">2026-04-08</span>
-            <span class="badge">Tech Desk</span>
-        </div>
-        <p class="resumo">Anthropic has launched Project Glasswing, a cybersecurity initiative that brings together major tech firms to test a powerful, unreleased AI model cap...</p>
-        <a href="https://indianexpress.com/article/technology/artificial-intelligence/anthropic-launches-project-glasswing-to-test-advanced-ai-for-cybersecurity-10625076/" target="_blank">Ler artigo completo →</a>
-    </div>
-    
-    <div class="card">
-        <div class="card-number">#20</div>
-        <h2>Risky Business #832 -- Anthropic unveils magical 0day computer God</h2>
-        <div class="card-meta">
-            <span class="badge fonte">Risky.biz</span>
-            <span class="badge data">2026-04-08</span>
-            <span class="badge">James Wilson</span>
-        </div>
-        <p class="resumo">On this week’s show, Patrick Gray, Adam Boileau and James Wilson discuss the week’s cybersecurity news. They cover:
+<div class="divider"></div>
 
-<ul>
- <li>Anthropic’s new Mythos ...</p>
-        <a href="https://risky.biz/RB832/" target="_blank">Ler artigo completo →</a>
+<div class="track-wrap" id="trackWrap">
+    <div class="track" id="track">
+        
+        <div class="card-wrapper" onclick="flipCard(this)">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-num">#01</div>
+                    <div class="card-img-wrap">
+                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigi73Eo-lmEoLh8BcTJmWW5GrmLrm49pUkkl8zyxIg1YTEncbgCaY-wXarkWZuipJhJEubcJx-VEiHOv_NrMtPw1BoEU3Ni8gXNcKcbWX4TqBU8pikOAkRdCl-r_XvLz4oXmQ2IpY25bWzLFkXh_hezhx0jgUYiuRvrYVxhW-6x5J7m84HH_VeRtRzTGbW/s1600/vul-app.jpg" alt="EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallets" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjZmY2NjIyJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5USE48L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjZmY2NjIyJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkVuZ2FnZUxhYiBTREsgRmxhdyBFeHBvc2VkIDUwTSBBbmRyPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5vaWQgVS4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyNmZjY2MjInIG9wYWNpdHk9JzAuNSc+VGhlIEhhY2tlciBOZXdzPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <div class="card-img-overlay"></div>
+                    </div>
+                    <div class="card-front-content">
+                        <span class="card-source">The Hacker News</span>
+                        <h2 class="card-title">EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallets</h2>
+                        <div class="card-meta">
+                            <span class="card-date">Thu, 09 Ap</span>
+                            <span class="card-author">Desconhecido</span>
+                        </div>
+                        <div class="card-hint">Clique para ler o resumo →</div>
+                    </div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-source">The Hacker News</div>
+                    <h3 class="card-back-title">EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallets</h3>
+                    <p class="card-back-resumo">Details have emerged about a now-patched security vulnerability in a widely used third-party Android software development kit&amp;nbsp;(SDK) called&amp;nbsp;EngageLab&amp;nbsp;SDK that could have put ...</p>
+                    <a href="https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                        Ler artigo completo →
+                    </a>
+                    <div class="card-back-hint">Clique para voltar</div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper" onclick="flipCard(this)">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-num">#02</div>
+                    <div class="card-img-wrap">
+                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4smwzOHJUhoy2YQYZQpTIp9u5xk7vywCOtewG6WfLl1S3h1EO25k8GY6WSHovGYwTn4vo9uMFcoNX6XDa0-BC0mXJrTdSHtWGJDP1GIXqGvRnlqnqyPwzxxPFyjLx9yxEn1oeWs4r8fqq5xlS__yUA3nwf0DpZBiUh86FUx71PRBGbAP0gaNFAILqYgbT/s1600/phish.jpg" alt="UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjZmY2NjIyJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5USE48L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjZmY2NjIyJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPlVBVC0xMDM2MiBUYXJnZXRzIFRhaXdhbmVzZSBOR09zIHdpPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz50aCBMdS4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyNmZjY2MjInIG9wYWNpdHk9JzAuNSc+VGhlIEhhY2tlciBOZXdzPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <div class="card-img-overlay"></div>
+                    </div>
+                    <div class="card-front-content">
+                        <span class="card-source">The Hacker News</span>
+                        <h2 class="card-title">UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns</h2>
+                        <div class="card-meta">
+                            <span class="card-date">Thu, 09 Ap</span>
+                            <span class="card-author">Desconhecido</span>
+                        </div>
+                        <div class="card-hint">Clique para ler o resumo →</div>
+                    </div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-source">The Hacker News</div>
+                    <h3 class="card-back-title">UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns</h3>
+                    <p class="card-back-resumo">A previously undocumented threat cluster&amp;nbsp;dubbed UAT-10362 has been attributed to spear-phishing campaigns targeting Taiwanese non-governmental organizations (NGOs) and suspected universities ...</p>
+                    <a href="https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                        Ler artigo completo →
+                    </a>
+                    <div class="card-back-hint">Clique para voltar</div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper" onclick="flipCard(this)">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-num">#03</div>
+                    <div class="card-img-wrap">
+                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6d4nK1zoWjzSmbdUmGPSycMwGmzcYM2XRrFH_ueobgO_8j7hwRdv8Ct856gg_k29HqAOw1-HGCtPpxyGDcuQIKY53ATLKb8bQCsJR5b_Jf8VqX1igItYBIe4iQazqSRe5fmFrFXS1fCcKdz6enbI6zYngIztjJ_UI262_ynNGJrd1EB_OUV1ZKYVl04-h/s1600/threatsdays-main.jpg" alt="ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjZmY2NjIyJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5USE48L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjZmY2NjIyJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPlRocmVhdHNEYXkgQnVsbGV0aW46IEh5YnJpZCBQMlAgQm90PC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5uZXQsIC4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyNmZjY2MjInIG9wYWNpdHk9JzAuNSc+VGhlIEhhY2tlciBOZXdzPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <div class="card-img-overlay"></div>
+                    </div>
+                    <div class="card-front-content">
+                        <span class="card-source">The Hacker News</span>
+                        <h2 class="card-title">ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories</h2>
+                        <div class="card-meta">
+                            <span class="card-date">Thu, 09 Ap</span>
+                            <span class="card-author">Desconhecido</span>
+                        </div>
+                        <div class="card-hint">Clique para ler o resumo →</div>
+                    </div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-source">The Hacker News</div>
+                    <h3 class="card-back-title">ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories</h3>
+                    <p class="card-back-resumo">Thursday. Another week, another batch of things that probably should&#x27;ve been caught sooner but&amp;nbsp;weren&#x27;t. This&amp;nbsp;one&#x27;s got some range — old vulnerabilities getting new lif...</p>
+                    <a href="https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                        Ler artigo completo →
+                    </a>
+                    <div class="card-back-hint">Clique para voltar</div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper" onclick="flipCard(this)">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-num">#04</div>
+                    <div class="card-img-wrap">
+                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO6OQHlRJgIjpCieiOfi48Mexu0Puimw_dz6w0h1spC2ZjcqifD2YPod5wd1AtUhr-e7CtAAoZ0bnRGnCH-BZRz4pDlB5Db2hJ4vFqsq5jc42UI4VTGXkxD8gNX1Ods9PpQZL4lk84RNL6EDSeI4YFCdjBgKSqKGimsqcsjekAAmr8CGYr3a2wPkchNYA/s1600/keeper.jpg" alt="The Hidden Security Risks of Shadow AI in Enterprises" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjZmY2NjIyJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5USE48L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjZmY2NjIyJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPlRoZSBIaWRkZW4gU2VjdXJpdHkgUmlza3Mgb2YgU2hhZG93PC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz4gQUkgaS4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyNmZjY2MjInIG9wYWNpdHk9JzAuNSc+VGhlIEhhY2tlciBOZXdzPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <div class="card-img-overlay"></div>
+                    </div>
+                    <div class="card-front-content">
+                        <span class="card-source">The Hacker News</span>
+                        <h2 class="card-title">The Hidden Security Risks of Shadow AI in Enterprises</h2>
+                        <div class="card-meta">
+                            <span class="card-date">Thu, 09 Ap</span>
+                            <span class="card-author">Desconhecido</span>
+                        </div>
+                        <div class="card-hint">Clique para ler o resumo →</div>
+                    </div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-source">The Hacker News</div>
+                    <h3 class="card-back-title">The Hidden Security Risks of Shadow AI in Enterprises</h3>
+                    <p class="card-back-resumo">As&amp;nbsp;AI tools become more accessible, employees are adopting them without formal approval from IT and security teams. While&amp;nbsp;these tools may boost productivity, automate tasks, or fill ...</p>
+                    <a href="https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                        Ler artigo completo →
+                    </a>
+                    <div class="card-back-hint">Clique para voltar</div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper" onclick="flipCard(this)">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-num">#05</div>
+                    <div class="card-img-wrap">
+                        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjYWE0NGZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjYWE0NGZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjYWE0NGZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjYWE0NGZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5IUjwvdGV4dD4KICA8bGluZSB4MT0nMjQnIHkxPSc1MicgeDI9JzEwMCcgeTI9JzUyJyBzdHJva2U9JyNhYTQ0ZmYnIHN0cm9rZS13aWR0aD0nMScgb3BhY2l0eT0nMC40Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzEwMCcgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtc2l6ZT0nMTMnIGZvbnQtd2VpZ2h0PSc2MDAnIGZpbGw9JyNjOGQwZTAnIG9wYWNpdHk9JzAuODUnPgogICAgPHRzcGFuIHg9JzI0JyBkeT0nMCc+QWRvYmUgUmVhZGVyIFplcm8tRGF5IEV4cGxvaXRlZCB0byA8L3RzcGFuPgogICAgPHRzcGFuIHg9JzI0JyBkeT0nMTgnPlN0ZWFsLi4uPC90c3Bhbj4KICA8L3RleHQ+CiAgPHRleHQgeD0nMjQnIHk9JzE3NScgZm9udC1mYW1pbHk9J21vbm9zcGFjZScgZm9udC1zaXplPScxMCcgZmlsbD0nI2FhNDRmZicgb3BhY2l0eT0nMC41Jz5IYWNrUmVhZDwvdGV4dD4KICA8cmVjdCB4PScwJyB5PScxOTAnIHdpZHRoPSczODAnIGhlaWdodD0nMicgZmlsbD0nI2FhNDRmZicgb3BhY2l0eT0nMC4zJy8+Cjwvc3ZnPg==" alt="Adobe Reader Zero-Day Exploited to Steal Data via Malicious PDFs" loading="lazy" >
+                        <div class="card-img-overlay"></div>
+                    </div>
+                    <div class="card-front-content">
+                        <span class="card-source">HackRead</span>
+                        <h2 class="card-title">Adobe Reader Zero-Day Exploited to Steal Data via Malicious PDFs</h2>
+                        <div class="card-meta">
+                            <span class="card-date">Thu, 09 Ap</span>
+                            <span class="card-author">Desconhecido</span>
+                        </div>
+                        <div class="card-hint">Clique para ler o resumo →</div>
+                    </div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-source">HackRead</div>
+                    <h3 class="card-back-title">Adobe Reader Zero-Day Exploited to Steal Data via Malicious PDFs</h3>
+                    <p class="card-back-resumo">An Adobe Reader zero-day vulnerability is being actively exploited via malicious PDFs, allowing hackers to steal data without user interaction, with no patch available.</p>
+                    <a href="https://hackread.com/adobe-reader-zero-day-exploit-data-malicious-pdfs/" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                        Ler artigo completo →
+                    </a>
+                    <div class="card-back-hint">Clique para voltar</div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper" onclick="flipCard(this)">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-num">#06</div>
+                    <div class="card-img-wrap">
+                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwKu6NdwE0kgawNywNJK7cGCEdRfzOKwsH9AeIT7zJ49RPq_KJAG3SyjH44SS8Zsd-gAUFDFKnfdpaFH8sAZT9wevB2fS0QVk-gCp8xg7j1XcwGJzv05xpoMN4O-oiEd1v3U3kuqW8cTGk0QlHPPS5GgifHq5DBgrE9R_6GxqxYb1erEN_qvAnUG6VFkx0/s1600/adobe.jpg" alt="Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjZmY2NjIyJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5USE48L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjZmY2NjIyJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkFkb2JlIFJlYWRlciBaZXJvLURheSBFeHBsb2l0ZWQgdmlhPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz4gTWFsaS4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyNmZjY2MjInIG9wYWNpdHk9JzAuNSc+VGhlIEhhY2tlciBOZXdzPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <div class="card-img-overlay"></div>
+                    </div>
+                    <div class="card-front-content">
+                        <span class="card-source">The Hacker News</span>
+                        <h2 class="card-title">Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025</h2>
+                        <div class="card-meta">
+                            <span class="card-date">Thu, 09 Ap</span>
+                            <span class="card-author">Desconhecido</span>
+                        </div>
+                        <div class="card-hint">Clique para ler o resumo →</div>
+                    </div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-source">The Hacker News</div>
+                    <h3 class="card-back-title">Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025</h3>
+                    <p class="card-back-resumo">Threat actors have been exploiting a previously unknown zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December&amp;nbsp;2025. The finding, detailed by E...</p>
+                    <a href="https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                        Ler artigo completo →
+                    </a>
+                    <div class="card-back-hint">Clique para voltar</div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper" onclick="flipCard(this)">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-num">#07</div>
+                    <div class="card-img-wrap">
+                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlfEPPxKdPdQANFPwRrggWpWL4wPe22B_Hdr5FpqDGHKTwN95xiQVwqqN896q_CkYvn-wrbDTXMl6wZ_aMD0YwEyRAI_9lzSZj_cg9-RhoNXMh-j16cA0n4CIT5y29FkOWFrQoV8oCv5OtZhMlhAKwqcgirImTOXoVzsJY76y6l-EWn86dAJfYNBy1ejW4/s1600/phone-hacking.jpg" alt="Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjZmY2NjIyJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5USE48L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjZmY2NjIyJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkJpdHRlci1MaW5rZWQgSGFjay1mb3ItSGlyZSBDYW1wYWlnPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5uIFRhci4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyNmZjY2MjInIG9wYWNpdHk9JzAuNSc+VGhlIEhhY2tlciBOZXdzPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <div class="card-img-overlay"></div>
+                    </div>
+                    <div class="card-front-content">
+                        <span class="card-source">The Hacker News</span>
+                        <h2 class="card-title">Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region</h2>
+                        <div class="card-meta">
+                            <span class="card-date">Thu, 09 Ap</span>
+                            <span class="card-author">Desconhecido</span>
+                        </div>
+                        <div class="card-hint">Clique para ler o resumo →</div>
+                    </div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-source">The Hacker News</div>
+                    <h3 class="card-back-title">Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region</h3>
+                    <p class="card-back-resumo">An&amp;nbsp;apparent hack-for-hire campaign likely orchestrated by a threat actor with suspected ties to the Indian government targeted journalists, activists, and government officials across the Midd...</p>
+                    <a href="https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                        Ler artigo completo →
+                    </a>
+                    <div class="card-back-hint">Clique para voltar</div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper" onclick="flipCard(this)">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-num">#08</div>
+                    <div class="card-img-wrap">
+                        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjYWE0NGZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjYWE0NGZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjYWE0NGZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjYWE0NGZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5IUjwvdGV4dD4KICA8bGluZSB4MT0nMjQnIHkxPSc1MicgeDI9JzEwMCcgeTI9JzUyJyBzdHJva2U9JyNhYTQ0ZmYnIHN0cm9rZS13aWR0aD0nMScgb3BhY2l0eT0nMC40Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzEwMCcgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtc2l6ZT0nMTMnIGZvbnQtd2VpZ2h0PSc2MDAnIGZpbGw9JyNjOGQwZTAnIG9wYWNpdHk9JzAuODUnPgogICAgPHRzcGFuIHg9JzI0JyBkeT0nMCc+Q2xhdWRlIENvZGUgQ2FuIEJlIE1hbmlwdWxhdGVkIHZpYSA8L3RzcGFuPgogICAgPHRzcGFuIHg9JzI0JyBkeT0nMTgnPkNMQVVELi4uPC90c3Bhbj4KICA8L3RleHQ+CiAgPHRleHQgeD0nMjQnIHk9JzE3NScgZm9udC1mYW1pbHk9J21vbm9zcGFjZScgZm9udC1zaXplPScxMCcgZmlsbD0nI2FhNDRmZicgb3BhY2l0eT0nMC41Jz5IYWNrUmVhZDwvdGV4dD4KICA8cmVjdCB4PScwJyB5PScxOTAnIHdpZHRoPSczODAnIGhlaWdodD0nMicgZmlsbD0nI2FhNDRmZicgb3BhY2l0eT0nMC4zJy8+Cjwvc3ZnPg==" alt="Claude Code Can Be Manipulated via CLAUDE.md to Run SQL Injection Attacks" loading="lazy" >
+                        <div class="card-img-overlay"></div>
+                    </div>
+                    <div class="card-front-content">
+                        <span class="card-source">HackRead</span>
+                        <h2 class="card-title">Claude Code Can Be Manipulated via CLAUDE.md to Run SQL Injection Attacks</h2>
+                        <div class="card-meta">
+                            <span class="card-date">Thu, 09 Ap</span>
+                            <span class="card-author">Desconhecido</span>
+                        </div>
+                        <div class="card-hint">Clique para ler o resumo →</div>
+                    </div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-source">HackRead</div>
+                    <h3 class="card-back-title">Claude Code Can Be Manipulated via CLAUDE.md to Run SQL Injection Attacks</h3>
+                    <p class="card-back-resumo">LayerX researchers have discovered how to bypass Claude Code’s safety rules using the CLAUDE.md file. This exploit allows&amp;#8230;</p>
+                    <a href="https://hackread.com/claude-code-claude-md-sql-injection-attacks/" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                        Ler artigo completo →
+                    </a>
+                    <div class="card-back-hint">Clique para voltar</div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper" onclick="flipCard(this)">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-num">#09</div>
+                    <div class="card-img-wrap">
+                        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjYWE0NGZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjYWE0NGZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjYWE0NGZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjYWE0NGZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5IUjwvdGV4dD4KICA8bGluZSB4MT0nMjQnIHkxPSc1MicgeDI9JzEwMCcgeTI9JzUyJyBzdHJva2U9JyNhYTQ0ZmYnIHN0cm9rZS13aWR0aD0nMScgb3BhY2l0eT0nMC40Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzEwMCcgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtc2l6ZT0nMTMnIGZvbnQtd2VpZ2h0PSc2MDAnIGZpbGw9JyNjOGQwZTAnIG9wYWNpdHk9JzAuODUnPgogICAgPHRzcGFuIHg9JzI0JyBkeT0nMCc+TWFsbG9yeSBMYXVuY2hlcyBBSS1OYXRpdmUgVGhyZWF0IEk8L3RzcGFuPgogICAgPHRzcGFuIHg9JzI0JyBkeT0nMTgnPm50ZWxsLi4uPC90c3Bhbj4KICA8L3RleHQ+CiAgPHRleHQgeD0nMjQnIHk9JzE3NScgZm9udC1mYW1pbHk9J21vbm9zcGFjZScgZm9udC1zaXplPScxMCcgZmlsbD0nI2FhNDRmZicgb3BhY2l0eT0nMC41Jz5IYWNrUmVhZDwvdGV4dD4KICA8cmVjdCB4PScwJyB5PScxOTAnIHdpZHRoPSczODAnIGhlaWdodD0nMicgZmlsbD0nI2FhNDRmZicgb3BhY2l0eT0nMC4zJy8+Cjwvc3ZnPg==" alt="Mallory Launches AI-Native Threat Intelligence Platform, Turning Global Threat Data Into Prioritized Action" loading="lazy" >
+                        <div class="card-img-overlay"></div>
+                    </div>
+                    <div class="card-front-content">
+                        <span class="card-source">HackRead</span>
+                        <h2 class="card-title">Mallory Launches AI-Native Threat Intelligence Platform, Turning Global Threat Data Into Prioritized Action</h2>
+                        <div class="card-meta">
+                            <span class="card-date">Thu, 09 Ap</span>
+                            <span class="card-author">Desconhecido</span>
+                        </div>
+                        <div class="card-hint">Clique para ler o resumo →</div>
+                    </div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-source">HackRead</div>
+                    <h3 class="card-back-title">Mallory Launches AI-Native Threat Intelligence Platform, Turning Global Threat Data Into Prioritized Action</h3>
+                    <p class="card-back-resumo">Austin, Texas, United States, 9th April 2026, CyberNewswire</p>
+                    <a href="https://hackread.com/mallory-launches-ai-native-threat-intelligence-platform-turning-global-threat-data-into-prioritized-action/" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                        Ler artigo completo →
+                    </a>
+                    <div class="card-back-hint">Clique para voltar</div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper" onclick="flipCard(this)">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-num">#10</div>
+                    <div class="card-img-wrap">
+                        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjYWE0NGZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjYWE0NGZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjYWE0NGZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjYWE0NGZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5IUjwvdGV4dD4KICA8bGluZSB4MT0nMjQnIHkxPSc1MicgeDI9JzEwMCcgeTI9JzUyJyBzdHJva2U9JyNhYTQ0ZmYnIHN0cm9rZS13aWR0aD0nMScgb3BhY2l0eT0nMC40Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzEwMCcgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtc2l6ZT0nMTMnIGZvbnQtd2VpZ2h0PSc2MDAnIGZpbGw9JyNjOGQwZTAnIG9wYWNpdHk9JzAuODUnPgogICAgPHRzcGFuIHg9JzI0JyBkeT0nMCc+TmV3IG1hY09TIE1hbHdhcmUgbm90bnVsbE9TWCBUYXJnZXQ8L3RzcGFuPgogICAgPHRzcGFuIHg9JzI0JyBkeT0nMTgnPnMgQ3J5Li4uPC90c3Bhbj4KICA8L3RleHQ+CiAgPHRleHQgeD0nMjQnIHk9JzE3NScgZm9udC1mYW1pbHk9J21vbm9zcGFjZScgZm9udC1zaXplPScxMCcgZmlsbD0nI2FhNDRmZicgb3BhY2l0eT0nMC41Jz5IYWNrUmVhZDwvdGV4dD4KICA8cmVjdCB4PScwJyB5PScxOTAnIHdpZHRoPSczODAnIGhlaWdodD0nMicgZmlsbD0nI2FhNDRmZicgb3BhY2l0eT0nMC4zJy8+Cjwvc3ZnPg==" alt="New macOS Malware notnullOSX Targets Crypto Wallets Over $10K" loading="lazy" >
+                        <div class="card-img-overlay"></div>
+                    </div>
+                    <div class="card-front-content">
+                        <span class="card-source">HackRead</span>
+                        <h2 class="card-title">New macOS Malware notnullOSX Targets Crypto Wallets Over $10K</h2>
+                        <div class="card-meta">
+                            <span class="card-date">Thu, 09 Ap</span>
+                            <span class="card-author">Desconhecido</span>
+                        </div>
+                        <div class="card-hint">Clique para ler o resumo →</div>
+                    </div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-source">HackRead</div>
+                    <h3 class="card-back-title">New macOS Malware notnullOSX Targets Crypto Wallets Over $10K</h3>
+                    <p class="card-back-resumo">macOS Malware notnullOSX targets crypto wallets over $10K, using fake apps, Terminal tricks, and backdoors to steal funds and sensitive data.</p>
+                    <a href="https://hackread.com/macos-malware-notnullosx-crypto-wallets/" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                        Ler artigo completo →
+                    </a>
+                    <div class="card-back-hint">Clique para voltar</div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper" onclick="flipCard(this)">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-num">#11</div>
+                    <div class="card-img-wrap">
+                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjO6ntnqBUePhV2XQEQmTFh-IjdPR64u_T9ODhO3RY_BAv_8YohhRCwMg6OO9UKlvJJCd7rs1c391fbNZ59qDsSujaFJuso3h_94xKo2BX2L5Jj-osBqZ3VglM5kbgzt6OJGtkiNx4Am6NbgzrHtUa7fbdnfei8_xeJao4yvlMp3HkCurz9aNJkg9Xv934/s1600/cloud.jpg" alt="New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjZmY2NjIyJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5USE48L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjZmY2NjIyJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPk5ldyBDaGFvcyBWYXJpYW50IFRhcmdldHMgTWlzY29uZmlnPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz51cmVkIC4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyNmZjY2MjInIG9wYWNpdHk9JzAuNSc+VGhlIEhhY2tlciBOZXdzPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <div class="card-img-overlay"></div>
+                    </div>
+                    <div class="card-front-content">
+                        <span class="card-source">The Hacker News</span>
+                        <h2 class="card-title">New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy</h2>
+                        <div class="card-meta">
+                            <span class="card-date">Wed, 08 Ap</span>
+                            <span class="card-author">Desconhecido</span>
+                        </div>
+                        <div class="card-hint">Clique para ler o resumo →</div>
+                    </div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-source">The Hacker News</div>
+                    <h3 class="card-back-title">New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy</h3>
+                    <p class="card-back-resumo">Cybersecurity researchers have flagged a new variant&amp;nbsp;ofmalware&amp;nbsp;called Chaosthat&#x27;scapable of&amp;nbsp;hitting misconfigured cloud deployments, marking an expansion of the botnet&...</p>
+                    <a href="https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                        Ler artigo completo →
+                    </a>
+                    <div class="card-back-hint">Clique para voltar</div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper" onclick="flipCard(this)">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-num">#12</div>
+                    <div class="card-img-wrap">
+                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVrpJtAgJfASiMYseJhDzJoT1ly7iXa_e_Y_4TBhGIkVGCJ_ZLDM-tGb1Y9NWcOpOcH-xUZUfDiM0fuvUIabEa_5xSbgGjgL8U4FPE99W-V6-oFRAG1ziEZeiJPYrkSZZrwu0jQDjhdUfKsiSxPgZbyZgF1A-cUOqUK3aJpSOQgeSZWogg1X9r77IANDey/s1600/ddos-for-hire.jpg" alt="Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjZmY2NjIyJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5USE48L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjZmY2NjIyJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPk1hc2plc3UgQm90bmV0IEVtZXJnZXMgYXMgRERvUy1mb3ItPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5IaXJlIC4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyNmZjY2MjInIG9wYWNpdHk9JzAuNSc+VGhlIEhhY2tlciBOZXdzPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <div class="card-img-overlay"></div>
+                    </div>
+                    <div class="card-front-content">
+                        <span class="card-source">The Hacker News</span>
+                        <h2 class="card-title">Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices</h2>
+                        <div class="card-meta">
+                            <span class="card-date">Wed, 08 Ap</span>
+                            <span class="card-author">Desconhecido</span>
+                        </div>
+                        <div class="card-hint">Clique para ler o resumo →</div>
+                    </div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-source">The Hacker News</div>
+                    <h3 class="card-back-title">Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices</h3>
+                    <p class="card-back-resumo">Cybersecurity researchers have lifted the curtain on a stealthy botnet that&#x27;s designed for distributed denial-of-service (DDoS)&amp;nbsp;attacks. Called Masjesu, the botnet has been advertised vi...</p>
+                    <a href="https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                        Ler artigo completo →
+                    </a>
+                    <div class="card-back-hint">Clique para voltar</div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper" onclick="flipCard(this)">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-num">#13</div>
+                    <div class="card-img-wrap">
+                        <img src="https://img.helpnetsecurity.com/wp-content/uploads/2026/03/03115429/microsoft-windows-defender-1500.webp" alt="BlueHammer: Windows zero-day exploit leaked" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkJsdWVIYW1tZXI6IFdpbmRvd3MgemVyby1kYXkgZXhwbG9pPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz50IGxlYS4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+SGVscCBOZXQgU2VjdXJpdHk8L3RleHQ+CiAgPHJlY3QgeD0nMCcgeT0nMTkwJyB3aWR0aD0nMzgwJyBoZWlnaHQ9JzInIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuMycvPgo8L3N2Zz4='">
+                        <div class="card-img-overlay"></div>
+                    </div>
+                    <div class="card-front-content">
+                        <span class="card-source">Help Net Security</span>
+                        <h2 class="card-title">BlueHammer: Windows zero-day exploit leaked</h2>
+                        <div class="card-meta">
+                            <span class="card-date">2026-04-08</span>
+                            <span class="card-author">Zeljka Zorz</span>
+                        </div>
+                        <div class="card-hint">Clique para ler o resumo →</div>
+                    </div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-source">Help Net Security</div>
+                    <h3 class="card-back-title">BlueHammer: Windows zero-day exploit leaked</h3>
+                    <p class="card-back-resumo">A buggy but functional proof-of-concept (PoC) exploit for an unpatched Windows local privilege escalation vulnerability dubbed BlueHammer has been published on GitHub by someone who goes by the handle...</p>
+                    <a href="https://www.helpnetsecurity.com/2026/04/08/bluehammer-windows-zero-day-exploit-leaked/" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                        Ler artigo completo →
+                    </a>
+                    <div class="card-back-hint">Clique para voltar</div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper" onclick="flipCard(this)">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-num">#14</div>
+                    <div class="card-img-wrap">
+                        <img src="https://www.eff.org/files/banner_library/smart-home-2b.jpg" alt="Banning New Foreign Routers Mistargets Products to Fix Real Problem" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkJhbm5pbmcgTmV3IEZvcmVpZ24gUm91dGVycyBNaXN0YXJnPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5ldHMgUC4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+RUZGPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <div class="card-img-overlay"></div>
+                    </div>
+                    <div class="card-front-content">
+                        <span class="card-source">EFF</span>
+                        <h2 class="card-title">Banning New Foreign Routers Mistargets Products to Fix Real Problem</h2>
+                        <div class="card-meta">
+                            <span class="card-date">2026-04-08</span>
+                            <span class="card-author">Bill Budington</span>
+                        </div>
+                        <div class="card-hint">Clique para ler o resumo →</div>
+                    </div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-source">EFF</div>
+                    <h3 class="card-back-title">Banning New Foreign Routers Mistargets Products to Fix Real Problem</h3>
+                    <p class="card-back-resumo">On March 23, the FCC issued an update to their Covered List, a list of equipment banned from obtaining regulatory approval necessary for U.S. sale (and thus effectively a ban on sale of new devices), ...</p>
+                    <a href="https://www.eff.org/deeplinks/2026/04/banning-new-foreign-routers-mistargets-products-fix-real-problem" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                        Ler artigo completo →
+                    </a>
+                    <div class="card-back-hint">Clique para voltar</div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper" onclick="flipCard(this)">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-num">#15</div>
+                    <div class="card-img-wrap">
+                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBiilqDko4PDmo2Iu-E-25PRzUJ2LygbHdv1RsdA31AkJBL9QB3AzdxV_4j-jo2Xf9wXwlienf17HO_uJyiue3JOWNfTFdln4gXJcounilzPxOsIXpN5g6imDW3ta0jt4Ck3UYinAmWwHZqfxYhjuaFnOIowTmZbNedv3AmS7Qlze1-tD2gkJBuUxTzSml/s1600/nato.jpg" alt="APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjZmY2NjIyJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5USE48L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjZmY2NjIyJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkFQVDI4IERlcGxveXMgUFJJU01FWCBNYWx3YXJlIGluIENhPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5tcGFpZy4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyNmZjY2MjInIG9wYWNpdHk9JzAuNSc+VGhlIEhhY2tlciBOZXdzPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <div class="card-img-overlay"></div>
+                    </div>
+                    <div class="card-front-content">
+                        <span class="card-source">The Hacker News</span>
+                        <h2 class="card-title">APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies</h2>
+                        <div class="card-meta">
+                            <span class="card-date">Wed, 08 Ap</span>
+                            <span class="card-author">Desconhecido</span>
+                        </div>
+                        <div class="card-hint">Clique para ler o resumo →</div>
+                    </div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-source">The Hacker News</div>
+                    <h3 class="card-back-title">APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies</h3>
+                    <p class="card-back-resumo">The Russian threat actor known&amp;nbsp;as APT28 (aka Forest Blizzard and Pawn Storm) has been linked to a fresh spear-phishing campaign targeting Ukraine and its allies to deploy a previously undocum...</p>
+                    <a href="https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                        Ler artigo completo →
+                    </a>
+                    <div class="card-back-hint">Clique para voltar</div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper" onclick="flipCard(this)">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-num">#16</div>
+                    <div class="card-img-wrap">
+                        <img src="https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg" alt="CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjNGRhNmZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjNGRhNmZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjNGRhNmZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjNGRhNmZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5CQzwvdGV4dD4KICA8bGluZSB4MT0nMjQnIHkxPSc1MicgeDI9JzEwMCcgeTI9JzUyJyBzdHJva2U9JyM0ZGE2ZmYnIHN0cm9rZS13aWR0aD0nMScgb3BhY2l0eT0nMC40Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzEwMCcgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtc2l6ZT0nMTMnIGZvbnQtd2VpZ2h0PSc2MDAnIGZpbGw9JyNjOGQwZTAnIG9wYWNpdHk9JzAuODUnPgogICAgPHRzcGFuIHg9JzI0JyBkeT0nMCc+Q0lTQSBvcmRlcnMgZmVkcyB0byBwYXRjaCBleHBsb2l0ZWQ8L3RzcGFuPgogICAgPHRzcGFuIHg9JzI0JyBkeT0nMTgnPiBJdmFuLi4uPC90c3Bhbj4KICA8L3RleHQ+CiAgPHRleHQgeD0nMjQnIHk9JzE3NScgZm9udC1mYW1pbHk9J21vbm9zcGFjZScgZm9udC1zaXplPScxMCcgZmlsbD0nIzRkYTZmZicgb3BhY2l0eT0nMC41Jz5CbGVlcGluZ0NvbXB1dGVyPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjNGRhNmZmJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <div class="card-img-overlay"></div>
+                    </div>
+                    <div class="card-front-content">
+                        <span class="card-source">BleepingComputer</span>
+                        <h2 class="card-title">CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday</h2>
+                        <div class="card-meta">
+                            <span class="card-date">2026-04-08</span>
+                            <span class="card-author">Sergiu Gatlan</span>
+                        </div>
+                        <div class="card-hint">Clique para ler o resumo →</div>
+                    </div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-source">BleepingComputer</div>
+                    <h3 class="card-back-title">CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday</h3>
+                    <p class="card-back-resumo">CISA has given U.S. government agencies four days to secure their systems against a critical-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) that has been exploited in attacks since Ja...</p>
+                    <a href="https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                        Ler artigo completo →
+                    </a>
+                    <div class="card-back-hint">Clique para voltar</div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper" onclick="flipCard(this)">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-num">#17</div>
+                    <div class="card-img-wrap">
+                        <img src="https://i.insider.com/69d676f01a512d0a63e738c0?width=1200&format=jpeg" alt="Why Anthropic&#x27;s new AI model has some cybersecurity pros worried about its hacking abilities" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPldoeSBBbnRocm9waWMmYW1wOyN4Mjc7cyBuZXcgQUkgbW9kPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5lbCBoYXMgc28uLi48L3RzcGFuPgogIDwvdGV4dD4KICA8dGV4dCB4PScyNCcgeT0nMTc1JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzEwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjUnPkJ1c2luZXNzIEluc2lkZXI8L3RleHQ+CiAgPHJlY3QgeD0nMCcgeT0nMTkwJyB3aWR0aD0nMzgwJyBoZWlnaHQ9JzInIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuMycvPgo8L3N2Zz4='">
+                        <div class="card-img-overlay"></div>
+                    </div>
+                    <div class="card-front-content">
+                        <span class="card-source">Business Insider</span>
+                        <h2 class="card-title">Why Anthropic&#x27;s new AI model has some cybersecurity pros worried about its hacking abilities</h2>
+                        <div class="card-meta">
+                            <span class="card-date">2026-04-08</span>
+                            <span class="card-author">Robert Scammell</span>
+                        </div>
+                        <div class="card-hint">Clique para ler o resumo →</div>
+                    </div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-source">Business Insider</div>
+                    <h3 class="card-back-title">Why Anthropic&#x27;s new AI model has some cybersecurity pros worried about its hacking abilities</h3>
+                    <p class="card-back-resumo">Anthropic&#x27;s Claude Mythos raises cybersecurity concerns with its ability to find and exploit vulnerabilities. Here&#x27;s what cyber experts think.</p>
+                    <a href="https://www.businessinsider.com/claude-mythos-preview-anthropic-cybersecurity-reaction-glasswing-2026-4" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                        Ler artigo completo →
+                    </a>
+                    <div class="card-back-hint">Clique para voltar</div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper" onclick="flipCard(this)">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-num">#18</div>
+                    <div class="card-img-wrap">
+                        <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-17066,resizemode-75,msid-130120454/tech/artificial-intelligence/latest-anthropic-ai-model-finds-cracks-in-software-defenses.jpg" alt="Latest Anthropic AI model finds cracks in software defenses" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkxhdGVzdCBBbnRocm9waWMgQUkgbW9kZWwgZmluZHMgY3JhPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5ja3MgaS4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+VGhlIFRpbWVzIG9mIEluZGlhPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <div class="card-img-overlay"></div>
+                    </div>
+                    <div class="card-front-content">
+                        <span class="card-source">The Times of India</span>
+                        <h2 class="card-title">Latest Anthropic AI model finds cracks in software defenses</h2>
+                        <div class="card-meta">
+                            <span class="card-date">2026-04-08</span>
+                            <span class="card-author">AFP</span>
+                        </div>
+                        <div class="card-hint">Clique para ler o resumo →</div>
+                    </div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-source">The Times of India</div>
+                    <h3 class="card-back-title">Latest Anthropic AI model finds cracks in software defenses</h3>
+                    <p class="card-back-resumo">Anthropic on Tuesday said its yet-to-be-released artificial intelligence model called Claude Mythos has proven keenly adept at exposing software weaknesses. Software vulnerabilities exposed by Mythos ...</p>
+                    <a href="https://economictimes.indiatimes.com/tech/artificial-intelligence/latest-anthropic-ai-model-finds-cracks-in-software-defenses/articleshow/130120454.cms" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                        Ler artigo completo →
+                    </a>
+                    <div class="card-back-hint">Clique para voltar</div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper" onclick="flipCard(this)">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-num">#19</div>
+                    <div class="card-img-wrap">
+                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBk9NZe_ohGdUGAoq15K_dOgD1oLAfVbW296B80LqWpzR3Cal5Zerxl9gJCmrK9g9WROjalAzzvElgqRAm-2WtyxAJLfisSZ7b5S_HwDR4QvJnuO5H3g3W3Qd-_OAG-lcmsjCQ3K0bj5_5BRcY-B8euArXK8_lAvFxJf0h6CyHW0ZfXtCgZPqRA7ShNbU/s1600/orchid.jpg" alt="Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjZmY2NjIyJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5USE48L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjZmY2NjIyJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPlNocmlua2luZyB0aGUgSUFNIEF0dGFjayBTdXJmYWNlIHRoPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5yb3VnaC4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyNmZjY2MjInIG9wYWNpdHk9JzAuNSc+VGhlIEhhY2tlciBOZXdzPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjZmY2NjIyJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <div class="card-img-overlay"></div>
+                    </div>
+                    <div class="card-front-content">
+                        <span class="card-source">The Hacker News</span>
+                        <h2 class="card-title">Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)</h2>
+                        <div class="card-meta">
+                            <span class="card-date">Wed, 08 Ap</span>
+                            <span class="card-author">Desconhecido</span>
+                        </div>
+                        <div class="card-hint">Clique para ler o resumo →</div>
+                    </div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-source">The Hacker News</div>
+                    <h3 class="card-back-title">Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)</h3>
+                    <p class="card-back-resumo">The Fragmented State of Modern Enterprise&amp;nbsp;Identity Enterprise IAM is approaching a breaking point. As&amp;nbsp;organizations scale, identity becomes increasingly fragmented across thousands o...</p>
+                    <a href="https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                        Ler artigo completo →
+                    </a>
+                    <div class="card-back-hint">Clique para voltar</div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper" onclick="flipCard(this)">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-num">#20</div>
+                    <div class="card-img-wrap">
+                        <img src="https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/04/0409-mg-anthropic.jpg" alt="Anthropic lets Apple, Amazon test more powerful Mythos AI model" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkFudGhyb3BpYyBsZXRzIEFwcGxlLCBBbWF6b24gdGVzdCBtPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5vcmUgcC4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+RmluYW5jaWFsIFBvc3Q8L3RleHQ+CiAgPHJlY3QgeD0nMCcgeT0nMTkwJyB3aWR0aD0nMzgwJyBoZWlnaHQ9JzInIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuMycvPgo8L3N2Zz4='">
+                        <div class="card-img-overlay"></div>
+                    </div>
+                    <div class="card-front-content">
+                        <span class="card-source">Financial Post</span>
+                        <h2 class="card-title">Anthropic lets Apple, Amazon test more powerful Mythos AI model</h2>
+                        <div class="card-meta">
+                            <span class="card-date">2026-04-08</span>
+                            <span class="card-author">Bloomberg News</span>
+                        </div>
+                        <div class="card-hint">Clique para ler o resumo →</div>
+                    </div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-source">Financial Post</div>
+                    <h3 class="card-back-title">Anthropic lets Apple, Amazon test more powerful Mythos AI model</h3>
+                    <p class="card-back-resumo">Anthropic PBC is letting tech firms access a more powerful, unreleased AI model to help prepare for possible cyberattacks. Read more here</p>
+                    <a href="https://financialpost.com/cybersecurity/anthropic-lets-apple-amazon-test-mythos-ai" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                        Ler artigo completo →
+                    </a>
+                    <div class="card-back-hint">Clique para voltar</div>
+                </div>
+            </div>
+        </div>
     </div>
-    
 </div>
+
+<footer>
+    <span>Security News Aggregator — Mateus Camara Dias</span>
+    <span>Dados via NewsAPI · Atualização diária automática</span>
+</footer>
+
+<script>
+    function flipCard(el) {
+        el.classList.toggle('flipped');
+    }
+
+    const wrap = document.getElementById('trackWrap');
+    let isDragging = false;
+    let startX = 0;
+    let scrollLeft = 0;
+    let moved = false;
+
+    wrap.addEventListener('mousedown', (e) => {
+        isDragging = true;
+        moved = false;
+        startX = e.pageX;
+        scrollLeft = wrap.scrollLeft;
+        wrap.style.cursor = 'grabbing';
+    });
+
+    wrap.addEventListener('mousemove', (e) => {
+        if (!isDragging) return;
+        const dx = e.pageX - startX;
+        if (Math.abs(dx) > 5) moved = true;
+        wrap.scrollLeft = scrollLeft - dx;
+    });
+
+    wrap.addEventListener('mouseup', () => {
+        isDragging = false;
+        wrap.style.cursor = 'grab';
+    });
+
+    wrap.addEventListener('mouseleave', () => {
+        isDragging = false;
+        wrap.style.cursor = 'grab';
+    });
+
+    wrap.addEventListener('click', (e) => {
+        if (moved) e.stopPropagation();
+    }, true);
+
+    let touchStartX = 0;
+    let touchScrollLeft = 0;
+
+    wrap.addEventListener('touchstart', (e) => {
+        touchStartX = e.touches[0].pageX;
+        touchScrollLeft = wrap.scrollLeft;
+    }, { passive: true });
+
+    wrap.addEventListener('touchmove', (e) => {
+        const dx = e.touches[0].pageX - touchStartX;
+        wrap.scrollLeft = touchScrollLeft - dx;
+    }, { passive: true });
+
+    const cards = document.querySelectorAll('.card-wrapper');
+    cards.forEach((card, i) => {
+        card.style.opacity = '0';
+        card.style.transform = 'translateY(30px)';
+        card.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+        setTimeout(() => {
+            card.style.opacity = '1';
+            card.style.transform = 'translateY(0)';
+        }, 100 + i * 60);
+    });
+</script>
+
 </body>
 </html>
