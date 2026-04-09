@@ -1,20 +1,32 @@
-[README-security-news-aggregator.md](https://github.com/user-attachments/files/26387889/README-security-news-aggregator.md)
 # 🛡️ Security News Aggregator
 
-> Agregador automático de notícias de cibersegurança em tempo real — desenvolvido em Python com geração de interface HTML dinâmica.
+> Agregador automático de notícias de cibersegurança em tempo real — Python + HTML com deploy automatizado via GitHub Actions.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Funcional-00ff41?style=for-the-badge)
-![Fontes](https://img.shields.io/badge/Fontes-10+-blue?style=for-the-badge)
+
+**🌐 [Ver ao vivo](https://mateusdias96cs.github.io/security-news-aggregator/)**
 
 ---
 
 ## 📋 Sobre o Projeto
 
-O **Security News Aggregator** é uma ferramenta desenvolvida em Python que coleta, processa e exibe automaticamente as últimas notícias de cibersegurança das principais fontes do mundo. Ao executar o programa, um arquivo HTML é gerado e atualizado com as notícias mais recentes, organizadas em cards interativos com título, fonte, data, autor e link para o artigo completo.
+O **Security News Aggregator** coleta, processa e exibe automaticamente as últimas notícias de cibersegurança das principais fontes do mundo. A interface é gerada em HTML com cards interativos — ao clicar em um card ele vira e exibe o resumo da notícia. O conteúdo é atualizado automaticamente todo dia via GitHub Actions, sem nenhuma intervenção manual.
 
-Projeto desenvolvido como iniciativa pessoal para acompanhar o cenário de ameaças e vulnerabilidades em tempo real.
+Projeto desenvolvido como iniciativa pessoal para acompanhamento do cenário de ameaças e vulnerabilidades em tempo real.
+
+---
+
+## ✨ Funcionalidades
+
+- **Cards interativos** com efeito flip — frente exibe a thumbnail e título, verso exibe o resumo
+- **Scroll horizontal com drag** — arraste os cards com o mouse ou toque
+- **Thumbnails dinâmicas por fonte** — cada portal tem gradiente e identidade visual própria quando não há imagem
+- **Atualização automática diária** via GitHub Actions (todo dia às 8h UTC)
+- **Sanitização contra XSS** — todos os dados externos são sanitizados antes de entrar no HTML
+- **Deploy no GitHub Pages** — acessível publicamente sem precisar rodar nada localmente
 
 ---
 
@@ -22,16 +34,12 @@ Projeto desenvolvido como iniciativa pessoal para acompanhar o cenário de amea�
 
 | Fonte | Tipo | Foco |
 |---|---|---|
-| 🔴 **BleepingComputer** | Portal especializado | Malware, vulnerabilidades, incidentes |
+| 🔵 **BleepingComputer** | Portal especializado | Malware, vulnerabilidades, incidentes |
 | 🔴 **The Hacker News** | Portal especializado | Segurança ofensiva e defensiva |
-| 🔴 **CISA.gov** | Governo americano | CVEs e alertas oficiais |
-| 🔵 **Talos Intelligence** | Cisco | Threat intelligence |
-| 🔵 **Infosecurity Magazine** | Revista especializada | Tendências e análises |
-| 🔵 **HackRead** | Portal especializado | Hacking e privacidade |
-| 🟢 **TechRadar** | Portal de tecnologia | Segurança e tecnologia |
-| 🟢 **SiliconANGLE** | Portal de tecnologia | Enterprise security |
-| 🟢 **Tom's Hardware** | Portal de tecnologia | Hardware e segurança |
-| 🟢 **Science Daily** | Ciência | Pesquisa em segurança |
+| 🟣 **HackRead** | Portal especializado | Hacking e privacidade |
+| 🟢 **Infosecurity Magazine** | Revista especializada | Tendências e análises |
+| 🟡 **SecurityWeek** | Portal especializado | Ameaças e análises de mercado |
+| ⚪ **NewsAPI** | Agregador | Fontes diversas em tempo real |
 
 ---
 
@@ -40,15 +48,22 @@ Projeto desenvolvido como iniciativa pessoal para acompanhar o cenário de amea�
 ```
 security-news-aggregator/
 │
-├── main.py          # Orquestrador principal — executa o pipeline completo
-├── fetcher.py       # Coleta as notícias via RSS/scraping das fontes
-├── processor.py     # Processa e normaliza os dados coletados
-├── storage.py       # Armazena os dados em noticias.json
-├── display.py       # Lógica de exibição dos dados
-├── gerar_html.py    # Gera o arquivo index.html com os cards de notícias
-├── index.html       # Interface HTML gerada automaticamente
-├── noticias.json    # Banco de dados local das notícias
-└── requirements.txt # Dependências do projeto
+├── main.py               # Orquestrador — executa o pipeline completo
+├── fetcher.py            # Coleta notícias via RSS e NewsAPI
+├── processor.py          # Sanitiza e normaliza os dados coletados
+├── storage.py            # Salva os dados em noticias.json
+├── display.py            # Exibe top 10 no terminal
+├── gerar_html.py         # Gera index.html com interface de cards
+├── index.html            # Interface gerada automaticamente
+├── static/
+│   ├── style.css         # (legado — estilos agora inline no gerar_html.py)
+│   └── placeholder.svg   # Fallback de imagem
+├── .github/
+│   └── workflows/
+│       └── update-news.yml  # Workflow de atualização automática
+├── .gitignore
+├── requirements.txt
+└── README.md
 ```
 
 ### Fluxo de execução
@@ -56,37 +71,41 @@ security-news-aggregator/
 ```
 main.py
    │
-   ├── fetcher.py    → Busca notícias nas fontes (RSS/HTTP)
+   ├── fetcher.py    → Coleta notícias (RSS + NewsAPI)
    │
-   ├── processor.py  → Normaliza título, data, autor, fonte, link
+   ├── processor.py  → Sanitiza e normaliza dados
    │
    ├── storage.py    → Salva em noticias.json
    │
-   └── gerar_html.py → Gera index.html com interface em cards
+   └── gerar_html.py → Gera index.html com cards interativos
                               │
-                              └── index.html  ← Abre no navegador
+                              └── GitHub Pages ← deploy automático
 ```
 
 ---
 
-## 🚀 Como usar
+## 🚀 Como usar localmente
 
 ### Pré-requisitos
 
-- Python 3.8+
+- Python 3.10+
 - pip
+- Chave da [NewsAPI](https://newsapi.org/)
 
 ### Instalação
 
 ```bash
-# Clone o repositório
 git clone https://github.com/mateusdias96cs/security-news-aggregator.git
-
-# Acesse a pasta
 cd security-news-aggregator
-
-# Instale as dependências
 pip install -r requirements.txt
+```
+
+### Configuração
+
+Cria um arquivo `.env` na raiz do projeto:
+
+```
+NEWS_API_KEY=sua_chave_aqui
 ```
 
 ### Execução
@@ -95,31 +114,37 @@ pip install -r requirements.txt
 python main.py
 ```
 
-Após a execução, abra o arquivo `index.html` no navegador para visualizar as notícias atualizadas.
+Abre o `index.html` gerado no navegador para visualizar as notícias.
 
 ---
 
-## 🖥️ Interface
+## 🤖 Atualização Automática
 
-A interface exibe os artigos em formato de cards contendo:
+O projeto usa **GitHub Actions** para atualizar as notícias automaticamente todo dia às 8h UTC (5h horário de Brasília). O workflow roda o `main.py` na nuvem, gera um novo `index.html` e faz commit automaticamente — o GitHub Pages é atualizado em seguida.
 
-- **Número** do artigo na listagem
-- **Título** clicável que abre o artigo original
-- **Fonte** — nome do portal de origem
-- **Data** de publicação
-- **Autor** (quando disponível)
-- **Resumo** do conteúdo
-- **Link** para leitura completa
+Para rodar manualmente: **Actions → Update Security News → Run workflow**
+
+A chave da NewsAPI é armazenada como **GitHub Secret** e nunca fica exposta no código.
+
+---
+
+## 🔒 Segurança
+
+Todos os dados externos são sanitizados antes de entrar no HTML:
+
+- Tags HTML removidas de títulos, resumos e autores
+- Caracteres perigosos escapados (`<`, `>`, `"`, `'`, `&`)
+- URLs validadas — aceita apenas `http://` e `https://`
+- Bloqueio de `javascript:`, `data:` e `vbscript:` URIs
+- Datas normalizadas para formato `YYYY-MM-DD`
 
 ---
 
 ## 🔧 Melhorias Planejadas
 
-- [ ] Frontend com atualização automática (sem precisar rodar o script manualmente)
-- [ ] Filtro por categoria (malware, CVE, pentest, etc.)
+- [ ] Filtro por fonte ou categoria
 - [ ] Busca por palavra-chave
-- [ ] Agendamento automático com `cron` ou `Task Scheduler`
-- [ ] Deploy em servidor web
+- [ ] Modo claro/escuro
 - [ ] Notificações para alertas críticos da CISA
 
 ---
