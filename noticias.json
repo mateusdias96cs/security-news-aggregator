@@ -1,5 +1,41 @@
 [
     {
+        "titulo": "Acrobat Reader zero-day exploited in the wild for many months",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-04-09",
+        "url": "https://www.helpnetsecurity.com/2026/04/09/acrobat-reader-zero-day-exploited/",
+        "resumo": "Unknown attackers have exploited a zero-day Adobe Acrobat Reader vulnerability since November 2025 and possibly even earlier, security researcher Haifei Li has discovered. PDF files carry the exploit Haifei Li is one of the creators of EXPMON, a sandbox-based…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/04/09125518/pdf-danger-1500.webp"
+    },
+    {
+        "titulo": "Aligning cybersecurity with ESG goals: A guide for IT leaders",
+        "fonte": "Techtarget.com",
+        "autor": "Damon Garn",
+        "data": "2026-04-09",
+        "url": "https://www.techtarget.com/sustainability/tip/Aligning-cybersecurity-with-ESG-goals-A-guide-for-IT-leaders",
+        "resumo": "An aligned cybersecurity with ESG strategy can improve sustainability, governance and risk management while addressing regulatory scrutiny and balancing environmental impacts.",
+        "imagem": "https://www.techtarget.com/rms/onlineimages/telecommunications_g1092964846.jpg"
+    },
+    {
+        "titulo": "What is the Claude Mythos AI model by Anthropic and why is this strongest-ever AI model sparking global cybersecurity fears and massive concern worldwide?",
+        "fonte": "The Times of India",
+        "autor": "Piyush Shukla",
+        "data": "2026-04-09",
+        "url": "https://economictimes.indiatimes.com/news/international/us/what-is-the-claude-mythos-ai-model-by-anthropic-and-why-is-this-strongest-ever-ai-model-sparking-global-cybersecurity-fears-and-massive-concern-worldwide/articleshow/130139294.cms",
+        "resumo": "A major leak revealed the Claude Mythos AI model, instantly raising global cybersecurity concerns. Developed by Anthropic, this strongest-ever AI model shows powerful real-world capabilities. The Claude Mythos AI model can identify and exploit zero-day vulner…",
+        "imagem": "https://img.etimg.com/thumb/msid-130139576,width-1200,height-630,imgsize-1416468,overlay-economictimes/articleshow.jpg"
+    },
+    {
+        "titulo": "From the field to the report and back again: How incident responders can use the Year in Review",
+        "fonte": "Talosintelligence.com",
+        "autor": "Jerzy ‘Yuri’ Kramarz",
+        "data": "2026-04-09",
+        "url": "https://blog.talosintelligence.com/from-the-field-to-the-report-and-back-again-how-incident-responders-can-use-the-year-in-review/",
+        "resumo": "The Year in Review distills Talos IR&#x27;s observations into structured intelligence, but defenders should also be feeding this report back into their own preparation cycles. Here&#x27;s how.",
+        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/04/2025YiR-topic_IR.jpg"
+    },
+    {
         "titulo": "Iranian cyber warfare escalates: U.S. critical infrastructure under attack as IRGC hackers exploit weak industrial defenses",
         "fonte": "Naturalnews.com",
         "autor": "Belle Carter",
@@ -7,6 +43,15 @@
         "url": "https://www.naturalnews.com/2026-04-09-irgc-hackers-exploit-weak-industrial-defenses-critical-infrastructure.html",
         "resumo": "Iranian-affiliated hackers (linked to the IRGC) are exploiting vulnerabilities in Rockwell Automation PLCs, disrupting water utilities, energy and government services. Attacks manipulate human-machine interfaces (HMIs), causing operational disruptions and fin…",
         "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/04/hacker.jpg"
+    },
+    {
+        "titulo": "U.S. Public Sector Under Siege: Threat Intelligence for Q1 2026",
+        "fonte": "Trendmicro.com",
+        "autor": "Jon Clay",
+        "data": "2026-04-09",
+        "url": "https://www.trendmicro.com/en_us/research/26/d/us-public-sector-under-siege.html",
+        "resumo": "Discover how TrendAI Vision One™ empowers government agencies and educational institutions with advanced visibility, intelligence, and automation to stay ahead of evolving public sector threats.",
+        "imagem": "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/thumbnails/26/us-public-sector-under-siege.jpg"
     },
     {
         "titulo": "Why Anthropic won&#x27;t release its new Claude Mythos AI model to the public",
@@ -133,50 +178,5 @@
         "url": "https://www.greenbone.net/en/blog/patch-now-2026-35616-and-cve-2026-21643/",
         "resumo": "Fortinet FortiClient EMS faces immediate risk from two critical severity CVEs: CVE-2026-35616 in versions 7.4.5-7.4.6 and CVE-2026-21643 in 7.4.4. CVE-2026-35616 (CVSS 9.8) is an actively exploited vulnerability in Fortinet FortiClient Enterprise Management S…",
         "imagem": ""
-    },
-    {
-        "titulo": "Bugcrowd and Carahsoft Partner to Bring FedRAMP-Authorized Proactive Security and Testing Solutions to the Public Sector",
-        "fonte": "GlobeNewswire",
-        "autor": "Carahsoft Technology Corporation",
-        "data": "2026-04-08",
-        "url": "https://www.globenewswire.com/news-release/2026/04/08/3270247/0/en/Bugcrowd-and-Carahsoft-Partner-to-Bring-FedRAMP-Authorized-Proactive-Security-and-Testing-Solutions-to-the-Public-Sector.html",
-        "resumo": "Public Sector Customers Can Preemptively Find and Remediate Vulnerabilities Through Bugcrowd’s Proactive Security Capabilities Public Sector Customers Can Preemptively Find and Remediate Vulnerabilities Through Bugcrowd’s Proactive Security Capabilities",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/ee2f2b02-4089-4a15-93fa-0956daf4ad82"
-    },
-    {
-        "titulo": "Anthropic boasts major AI-enabled cybersecurity breakthrough",
-        "fonte": "TelecomTV",
-        "autor": "Ray Le Maistre",
-        "data": "2026-04-08",
-        "url": "https://www.telecomtv.com/content/security/anthropic-boasts-major-ai-enabled-cybersecurity-breakthrough-55256/",
-        "resumo": "AI developer says its Claude Mythos model has capabilities that could ‘reshape cybersecurity’It has formed Project Glasswing with big name partners, such as AW…",
-        "imagem": "https://assets.telecomtv.com/assets/telecomtv/project-glasswing-source-anthropic-22258.jpg?w=1200"
-    },
-    {
-        "titulo": "Anthropic Launches Project Glasswing to Use AI to Find and Fix Critical Software Vulnerabilities",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Danny Palmer",
-        "data": "2026-04-08",
-        "url": "https://www.infosecurity-magazine.com/news/anthropic-launch-project-glasswing/",
-        "resumo": "Anthropic launches Project Glasswing, using its Claude Mythos Preview AI to autonomously identify and fix undiscovered vulnerabilities in critical software",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/53d4acc9-748a-4790-8a0a-3abef2c63387.jpg"
-    },
-    {
-        "titulo": "Always-on AI Agents put everything hackers could ever want behind a single attack surface",
-        "fonte": "TechRadar",
-        "autor": "Mukund Jha",
-        "data": "2026-04-08",
-        "url": "https://www.techradar.com/pro/always-on-ai-agents-put-everything-hackers-could-ever-want-behind-a-single-attack-surface",
-        "resumo": "As AI agents gain autonomy, security risks escalate without proper safeguards in place.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/jt92kXfBXVXUWwnKBmDJLn-2560-80.jpg"
-    },
-    {
-        "titulo": "Russia-Linked Hackers Hijack Routers to Steal Passwords, UK Says",
-        "fonte": "Insurance Journal",
-        "autor": "Admin",
-        "data": "2026-04-08",
-        "url": "https://www.insurancejournal.com/news/international/2026/04/08/864967.htm",
-        "resumo": "Russian government-linked hackers are compromising popular internet routers to steal passwords for email accounts and other online services, the UK’s National Cyber Security Centre has warned. The hackers, a group known as APT28, are associated with Russia’s …",
-        "imagem": "https://www.insurancejournal.com/app/uploads/2026/04/laptop-with-russian-english-cyrillic-character-key-bloomberg-scaled.jpg"
     }
 ]
