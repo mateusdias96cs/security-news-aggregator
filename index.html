@@ -4,9 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Security News Aggregator</title>
+    <meta name="description" content="Monitoramento em tempo real das principais ameaças de cibersegurança globais.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Outfit:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Outfit:wght@300;400;600;700;800&family=Playfair+Display:ital,wght@0,900;1,900&display=swap" rel="stylesheet">
     <style>
+        /* ── CSS VARIABLES ── */
         :root {
             --bg: #080a0f;
             --bg2: #0d1018;
@@ -24,12 +26,26 @@
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
+        /* ── ETAPA 1: GRAIN TEXTURE OVERLAY ── */
+        /* Grão de filme sutil sobreposto a toda a interface para profundidade visual */
+        body::after {
+            content: '';
+            position: fixed;
+            inset: 0;
+            pointer-events: none;
+            z-index: 9998;
+            opacity: 0.04;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='1'/%3E%3C/svg%3E");
+            background-size: 200px 200px;
+        }
+
         body {
             background: var(--bg);
             color: var(--text);
             font-family: 'Outfit', sans-serif;
             min-height: 100vh;
             overflow-x: hidden;
+            cursor: none;
         }
 
         body::before {
@@ -43,6 +59,98 @@
             z-index: 0;
         }
 
+        /* ── ETAPA 3: CUSTOM CURSOR ── */
+        /* Ponto preciso + anel com lag suave de 12% por frame */
+        #cursor-dot {
+            position: fixed;
+            width: 6px;
+            height: 6px;
+            background: var(--accent);
+            border-radius: 50%;
+            pointer-events: none;
+            z-index: 9999;
+            transform: translate(-50%, -50%);
+            transition: opacity 0.3s;
+        }
+
+        #cursor-ring {
+            position: fixed;
+            width: 32px;
+            height: 32px;
+            border: 1px solid rgba(0, 229, 255, 0.45);
+            border-radius: 50%;
+            pointer-events: none;
+            z-index: 9997;
+            transform: translate(-50%, -50%);
+            transition: width 0.3s ease, height 0.3s ease, border-color 0.3s ease;
+        }
+
+        #cursor-ring.cursor-hover {
+            width: 56px;
+            height: 56px;
+            border-color: var(--accent);
+        }
+
+        /* Oculta cursor customizado em dispositivos de toque */
+        @media (hover: none) {
+            #cursor-dot, #cursor-ring { display: none; }
+            body { cursor: auto; }
+        }
+
+        /* ── ETAPA 4: LOADING SCREEN ── */
+        /* Tela de inicialização com barra de progresso e contador */
+        #loader {
+            position: fixed;
+            inset: 0;
+            background: var(--bg);
+            z-index: 10000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            gap: 18px;
+            transition: opacity 0.7s ease, visibility 0.7s ease;
+        }
+
+        #loader.done {
+            opacity: 0;
+            visibility: hidden;
+        }
+
+        .loader-label {
+            font-family: 'Space Mono', monospace;
+            font-size: 11px;
+            letter-spacing: 5px;
+            color: var(--accent);
+            text-transform: uppercase;
+        }
+
+        .loader-bar {
+            width: 240px;
+            height: 1px;
+            background: var(--border);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .loader-bar-fill {
+            position: absolute;
+            left: 0; top: 0; bottom: 0;
+            width: 0%;
+            background: var(--accent);
+            transition: width 0.05s linear;
+            box-shadow: 0 0 10px var(--accent);
+        }
+
+        .loader-count {
+            font-family: 'Space Mono', monospace;
+            font-size: 11px;
+            color: var(--text-dim);
+            letter-spacing: 2px;
+        }
+
+        /* ── ETAPA 5: HEADER EDITORIAL ── */
+        /* Tipografia com contraste serif itálico × sans bold inspirado no synchronized.studio */
         header {
             position: relative;
             z-index: 10;
@@ -60,7 +168,7 @@
             color: var(--accent);
             letter-spacing: 3px;
             text-transform: uppercase;
-            margin-bottom: 12px;
+            margin-bottom: 16px;
             display: flex;
             align-items: center;
             gap: 8px;
@@ -74,28 +182,57 @@
             background: var(--accent);
         }
 
+        /* H1 editorial: serif itálico + sans bold em contraste */
         h1 {
-            font-size: clamp(36px, 5vw, 64px);
-            font-weight: 800;
-            color: var(--text-bright);
-            letter-spacing: -2px;
+            display: flex;
+            align-items: baseline;
+            gap: 14px;
+            flex-wrap: wrap;
             line-height: 1;
         }
 
-        h1 span { color: var(--accent); }
+        .h1-serif {
+            font-family: 'Playfair Display', serif;
+            font-style: italic;
+            font-weight: 900;
+            font-size: clamp(44px, 5.5vw, 76px);
+            letter-spacing: -2px;
+            color: var(--text-bright);
+        }
+
+        .h1-sans {
+            font-family: 'Outfit', sans-serif;
+            font-weight: 800;
+            font-size: clamp(44px, 5.5vw, 76px);
+            letter-spacing: -3px;
+            color: var(--accent);
+        }
 
         .header-sub {
             font-size: 15px;
             color: var(--text-dim);
-            margin-top: 10px;
+            margin-top: 12px;
             font-weight: 300;
+        }
+
+        /* Linha diagonal decorativa: detalhe visual inspirado no synchronized.studio */
+        .header-accent-line {
+            position: absolute;
+            right: 240px;
+            top: 28px;
+            width: 1px;
+            height: 70px;
+            background: linear-gradient(to bottom, transparent, var(--accent), transparent);
+            opacity: 0.5;
+            transform: rotate(22deg);
+            transform-origin: top center;
         }
 
         .header-right {
             display: flex;
             flex-direction: column;
             align-items: flex-end;
-            gap: 8px;
+            gap: 10px;
         }
 
         .live-badge {
@@ -121,7 +258,14 @@
 
         @keyframes pulse {
             0%, 100% { opacity: 1; transform: scale(1); }
-            50% { opacity: 0.4; transform: scale(0.8); }
+            50%        { opacity: 0.4; transform: scale(0.8); }
+        }
+
+        .header-count {
+            font-family: 'Space Mono', monospace;
+            font-size: 11px;
+            color: var(--text-dim);
+            letter-spacing: 2px;
         }
 
         .scroll-hint {
@@ -130,30 +274,82 @@
             font-family: 'Space Mono', monospace;
         }
 
-        .divider {
+        /* ── ETAPA 2: MARQUEE TICKER DUPLO ── */
+        /* Dois tickers em direções opostas: termos cyber e fontes de notícia */
+        .marquee-section {
             position: relative;
             z-index: 10;
-            margin: 0 60px 40px;
-            height: 1px;
-            background: linear-gradient(90deg, var(--accent), var(--accent2), transparent);
-            opacity: 0.3;
+            overflow: hidden;
+            border-top: 1px solid var(--border);
+            border-bottom: 1px solid var(--border);
+            background: rgba(13, 16, 24, 0.7);
+            backdrop-filter: blur(4px);
         }
 
-        .track-wrap {
-            position: relative;
-            z-index: 10;
-            padding: 20px 60px 60px;
-            overflow-x: scroll;
-            overflow-y: hidden;
-            cursor: grab;
+        .marquee-track {
+            display: flex;
+            width: max-content;
+        }
+
+        .marquee-track-a {
+            animation: marquee-left 35s linear infinite;
+        }
+
+        .marquee-track-b {
+            animation: marquee-right 28s linear infinite;
+        }
+
+        @keyframes marquee-left {
+            from { transform: translateX(0); }
+            to   { transform: translateX(-50%); }
+        }
+
+        @keyframes marquee-right {
+            from { transform: translateX(-50%); }
+            to   { transform: translateX(0); }
+        }
+
+        .marquee-content {
+            white-space: nowrap;
+            font-family: 'Space Mono', monospace;
+            font-size: 10px;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            color: var(--text-dim);
+            padding: 10px 0;
             user-select: none;
         }
 
-        .track-wrap:active { cursor: grabbing; }
+        .marquee-content .sep {
+            color: var(--accent);
+            margin: 0 16px;
+            opacity: 0.55;
+        }
 
-        .track-wrap::-webkit-scrollbar { height: 4px; }
+        /* Divider original substituído pelo marquee */
+        .divider { display: none; }
+
+        /* ── TRACK (horizontal scroll) ── */
+        .track-wrap {
+            position: relative;
+            z-index: 10;
+            padding: 40px 60px 60px;
+            overflow-x: scroll;
+            overflow-y: hidden;
+            cursor: none;
+            user-select: none;
+        }
+
+        .track-wrap:active { cursor: none; }
+
+        /* Scrollbar temática fina com glow */
+        .track-wrap::-webkit-scrollbar { height: 2px; }
         .track-wrap::-webkit-scrollbar-track { background: var(--bg2); }
-        .track-wrap::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+        .track-wrap::-webkit-scrollbar-thumb {
+            background: var(--accent);
+            border-radius: 2px;
+            box-shadow: 0 0 6px var(--accent);
+        }
 
         .track {
             display: flex;
@@ -161,12 +357,22 @@
             width: max-content;
         }
 
+        /* ── ETAPA 7: SCROLL REVEAL (IntersectionObserver) ── */
+        /* Estado inicial: invisível e deslocado — JS adiciona .card-visible */
         .card-wrapper {
             width: var(--card-w);
             height: var(--card-h);
             perspective: 1200px;
-            cursor: pointer;
+            cursor: none;
             flex-shrink: 0;
+            opacity: 0;
+            transform: translateY(30px) scale(0.97);
+            transition: opacity 0.55s ease, transform 0.55s ease;
+        }
+
+        .card-wrapper.card-visible {
+            opacity: 1;
+            transform: translateY(0) scale(1);
         }
 
         .card-inner {
@@ -178,8 +384,9 @@
             border-radius: 16px;
         }
 
+        /* !important garante precedência sobre o tilt magnético no flip */
         .card-wrapper.flipped .card-inner {
-            transform: rotateY(180deg);
+            transform: rotateY(180deg) !important;
         }
 
         .card-front,
@@ -193,16 +400,44 @@
             transition: border-color 0.3s, box-shadow 0.3s;
         }
 
+        /* ── ETAPA 6: HOVER GLOW SOFISTICADO ── */
         .card-wrapper:hover .card-front,
         .card-wrapper:hover .card-back {
-            border-color: rgba(0,229,255,0.25);
-            box-shadow: 0 0 30px rgba(0,229,255,0.06);
+            border-color: rgba(0, 229, 255, 0.4);
+            box-shadow:
+                0 0 0 1px rgba(0, 229, 255, 0.06),
+                0 8px 40px rgba(0, 229, 255, 0.09),
+                0 0 80px rgba(0, 229, 255, 0.03);
         }
 
         .card-front {
             background: var(--surface);
             display: flex;
             flex-direction: column;
+        }
+
+        /* ── ETAPA 6: SCAN LINE no hover ── */
+        /* Linha de varredura que percorre o card de cima a baixo ao hover */
+        .card-front::after {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: -100%;
+            width: 100%;
+            height: 35%;
+            background: linear-gradient(
+                to bottom,
+                transparent,
+                rgba(0, 229, 255, 0.04),
+                transparent
+            );
+            pointer-events: none;
+            transition: top 0.55s ease;
+            z-index: 5;
+        }
+
+        .card-wrapper:hover .card-front::after {
+            top: 120%;
         }
 
         .card-num {
@@ -234,7 +469,7 @@
         }
 
         .card-wrapper:hover .card-img-wrap img {
-            transform: scale(1.05);
+            transform: scale(1.07);
         }
 
         .card-img-overlay {
@@ -251,6 +486,7 @@
             gap: 10px;
         }
 
+        /* ── ETAPA 9: PONTO PULSANTE antes do nome da fonte ── */
         .card-source {
             font-size: 10px;
             font-weight: 700;
@@ -258,6 +494,20 @@
             text-transform: uppercase;
             color: var(--accent);
             font-family: 'Space Mono', monospace;
+            display: flex;
+            align-items: center;
+            gap: 7px;
+        }
+
+        .card-source::before {
+            content: '';
+            display: inline-block;
+            width: 5px;
+            height: 5px;
+            border-radius: 50%;
+            background: currentColor;
+            animation: pulse 2s infinite;
+            flex-shrink: 0;
         }
 
         .card-title {
@@ -304,6 +554,7 @@
 
         .card-wrapper:hover .card-hint { opacity: 1; }
 
+        /* Card back (verso após o flip) */
         .card-back {
             background: linear-gradient(135deg, #0d1018 0%, #111830 100%);
             transform: rotateY(180deg);
@@ -372,11 +623,14 @@
             text-align: center;
         }
 
+        /* ── ETAPA 9: FOOTER REFINADO ── */
         footer {
             position: relative;
             z-index: 10;
             padding: 24px 60px;
             border-top: 1px solid var(--border);
+            background: rgba(0, 0, 0, 0.35);
+            backdrop-filter: blur(12px);
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -387,33 +641,67 @@
 
         footer a { color: var(--accent); text-decoration: none; }
 
+        /* ── RESPONSIVIDADE ── */
         @media (max-width: 768px) {
             header { padding: 40px 24px 30px; }
-            .divider { margin: 0 24px 30px; }
-            .track-wrap { padding: 10px 24px 40px; }
-            footer { padding: 20px 24px; flex-direction: column; gap: 8px; }
+            .header-accent-line { display: none; }
+            .track-wrap { padding: 20px 24px 40px; }
+            footer { padding: 20px 24px; flex-direction: column; gap: 8px; text-align: center; }
             :root { --card-w: 300px; --card-h: 480px; }
         }
     </style>
 </head>
 <body>
 
+<!-- Etapa 3: Elementos do cursor customizado -->
+<div id="cursor-dot"></div>
+<div id="cursor-ring"></div>
+
+<!-- Etapa 4: Loading screen de inicialização -->
+<div id="loader">
+    <div class="loader-label">Initializing Threat Feed</div>
+    <div class="loader-bar">
+        <div class="loader-bar-fill" id="loader-progress"></div>
+    </div>
+    <div class="loader-count" id="loader-count">0%</div>
+</div>
+
+<!-- Etapa 5: Header editorial com contraste tipográfico -->
 <header>
     <div class="header-left">
         <div class="header-tag">Cybersecurity Intelligence</div>
-        <h1>Security <span>News</span></h1>
+        <h1>
+            <span class="h1-serif">Threat</span>
+            <span class="h1-sans">Intel</span>
+        </h1>
         <p class="header-sub">Monitoramento em tempo real das principais ameaças globais</p>
     </div>
     <div class="header-right">
         <div class="live-badge">
             <div class="live-dot"></div>
-            Atualizado automaticamente
+            Live Feed
         </div>
+        <div class="header-count" id="news-count">20 artigos</div>
         <div class="scroll-hint">← arraste para navegar →</div>
     </div>
+    <!-- Linha diagonal decorativa inspirada no synchronized.studio -->
+    <div class="header-accent-line"></div>
 </header>
 
+<!-- Divider legado (oculto, substituído pelo marquee) -->
 <div class="divider"></div>
+
+<!-- Etapa 2: Marquee ticker duplo — termos cyber (→) e fontes (←) -->
+<div class="marquee-section">
+    <div class="marquee-track marquee-track-a">
+        <div class="marquee-content">THREAT INTEL<span class="sep">·</span>CVE MONITOR<span class="sep">·</span>RANSOMWARE<span class="sep">·</span>APT<span class="sep">·</span>ZERO-DAY<span class="sep">·</span>PHISHING<span class="sep">·</span>MALWARE<span class="sep">·</span>DATA BREACH<span class="sep">·</span>VULNERABILITY<span class="sep">·</span>EXPLOIT<span class="sep">·</span>INCIDENT RESPONSE<span class="sep">·</span>THREAT ACTOR<span class="sep">·</span>IOC<span class="sep">·</span>DARK WEB<span class="sep">·</span>SUPPLY CHAIN<span class="sep">·</span></div>
+        <div class="marquee-content" aria-hidden="true">THREAT INTEL<span class="sep">·</span>CVE MONITOR<span class="sep">·</span>RANSOMWARE<span class="sep">·</span>APT<span class="sep">·</span>ZERO-DAY<span class="sep">·</span>PHISHING<span class="sep">·</span>MALWARE<span class="sep">·</span>DATA BREACH<span class="sep">·</span>VULNERABILITY<span class="sep">·</span>EXPLOIT<span class="sep">·</span>INCIDENT RESPONSE<span class="sep">·</span>THREAT ACTOR<span class="sep">·</span>IOC<span class="sep">·</span>DARK WEB<span class="sep">·</span>SUPPLY CHAIN<span class="sep">·</span></div>
+    </div>
+    <div class="marquee-track marquee-track-b">
+        <div class="marquee-content">BLEEPINGCOMPUTER<span class="sep">·</span>THE HACKER NEWS<span class="sep">·</span>HACKREAD<span class="sep">·</span>INFOSECURITY MAGAZINE<span class="sep">·</span>SECURITYWEEK<span class="sep">·</span>HELP NET SECURITY<span class="sep">·</span>EFF<span class="sep">·</span>KREBS ON SECURITY<span class="sep">·</span>WIRED<span class="sep">·</span>DARK READING<span class="sep">·</span>THREATPOST<span class="sep">·</span>CYBERSCOOP<span class="sep">·</span></div>
+        <div class="marquee-content" aria-hidden="true">BLEEPINGCOMPUTER<span class="sep">·</span>THE HACKER NEWS<span class="sep">·</span>HACKREAD<span class="sep">·</span>INFOSECURITY MAGAZINE<span class="sep">·</span>SECURITYWEEK<span class="sep">·</span>HELP NET SECURITY<span class="sep">·</span>EFF<span class="sep">·</span>KREBS ON SECURITY<span class="sep">·</span>WIRED<span class="sep">·</span>DARK READING<span class="sep">·</span>THREATPOST<span class="sep">·</span>CYBERSCOOP<span class="sep">·</span></div>
+    </div>
+</div>
 
 <div class="track-wrap" id="trackWrap">
     <div class="track" id="track">
@@ -423,24 +711,24 @@
                 <div class="card-front">
                     <div class="card-num">#01</div>
                     <div class="card-img-wrap">
-                        <img src="https://www.naturalnews.com/wp-content/uploads/sites/91/2026/04/hacker.jpg" alt="Iranian cyber warfare escalates: U.S. critical infrastructure under attack as IRGC hackers exploit weak industrial defenses" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPklyYW5pYW4gY3liZXIgd2FyZmFyZSBlc2NhbGF0ZXM6IFUuPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5TLiBjci4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+TmF0dXJhbG5ld3MuY29tPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <img src="https://warontherocks.com/wp-content/uploads/2026/04/Attacks_on_Residential_Areas_in_Tehran_-_April_6_13_Avash-1.jpg?v=1775748804" alt="Iran’s Other Front: The War Over the Internet" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPklyYW7igJlzIE90aGVyIEZyb250OiBUaGUgV2FyIE92ZXIgdGg8L3RzcGFuPgogICAgPHRzcGFuIHg9JzI0JyBkeT0nMTgnPmUgSW50Li4uPC90c3Bhbj4KICA8L3RleHQ+CiAgPHRleHQgeD0nMjQnIHk9JzE3NScgZm9udC1mYW1pbHk9J21vbm9zcGFjZScgZm9udC1zaXplPScxMCcgZmlsbD0nIzAwZTVmZicgb3BhY2l0eT0nMC41Jz5XYXIgb24gdGhlIFJvY2tzPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
                         <div class="card-img-overlay"></div>
                     </div>
                     <div class="card-front-content">
-                        <span class="card-source">Naturalnews.com</span>
-                        <h2 class="card-title">Iranian cyber warfare escalates: U.S. critical infrastructure under attack as IRGC hackers exploit weak industrial defenses</h2>
+                        <span class="card-source">War on the Rocks</span>
+                        <h2 class="card-title">Iran’s Other Front: The War Over the Internet</h2>
                         <div class="card-meta">
-                            <span class="card-date">2026-04-09</span>
-                            <span class="card-author">Belle Carter</span>
+                            <span class="card-date">2026-04-10</span>
+                            <span class="card-author">Sara Bazoobandi</span>
                         </div>
                         <div class="card-hint">Clique para ler o resumo →</div>
                     </div>
                 </div>
                 <div class="card-back">
-                    <div class="card-back-source">Naturalnews.com</div>
-                    <h3 class="card-back-title">Iranian cyber warfare escalates: U.S. critical infrastructure under attack as IRGC hackers exploit weak industrial defenses</h3>
-                    <p class="card-back-resumo">Iranian-affiliated hackers (linked to the IRGC) are exploiting vulnerabilities in Rockwell Automation PLCs, disrupting water utilities, energy and government services. Attacks manipulate human-machine...</p>
-                    <a href="https://www.naturalnews.com/2026-04-09-irgc-hackers-exploit-weak-industrial-defenses-critical-infrastructure.html" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                    <div class="card-back-source">War on the Rocks</div>
+                    <h3 class="card-back-title">Iran’s Other Front: The War Over the Internet</h3>
+                    <p class="card-back-resumo">For a long time, the Iranian government has treated free internet access as a privilege that is extended by the state to those willing to carry its message and withheld from everyone else. Around four...</p>
+                    <a href="https://warontherocks.com/2026/04/irans-other-front-the-war-over-the-internet/" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
                         Ler artigo completo →
                     </a>
                     <div class="card-back-hint">Clique para voltar</div>
@@ -452,24 +740,24 @@
                 <div class="card-front">
                     <div class="card-num">#02</div>
                     <div class="card-img-wrap">
-                        <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260408-anthropic-rs-a69c46.jpg" alt="Why Anthropic won&#x27;t release its new Claude Mythos AI model to the public" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPldoeSBBbnRocm9waWMgd29uJmFtcDsjeDI3O3QgcmVsZWFzPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5lIGl0cyBuZXcuLi48L3RzcGFuPgogIDwvdGV4dD4KICA8dGV4dCB4PScyNCcgeT0nMTc1JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzEwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjUnPk5CQyBOZXdzPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <img src="https://www.naturalnews.com/wp-content/uploads/sites/91/2026/04/FBI-Department-of-Justice-Logo-Seal-Building.jpg" alt="FBI report: Iranian hackers targeting U.S. critical infrastructure" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkZCSSByZXBvcnQ6IElyYW5pYW4gaGFja2VycyB0YXJnZXRpPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5uZyBVLi4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+TmF0dXJhbG5ld3MuY29tPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
                         <div class="card-img-overlay"></div>
                     </div>
                     <div class="card-front-content">
-                        <span class="card-source">NBC News</span>
-                        <h2 class="card-title">Why Anthropic won&#x27;t release its new Claude Mythos AI model to the public</h2>
+                        <span class="card-source">Naturalnews.com</span>
+                        <h2 class="card-title">FBI report: Iranian hackers targeting U.S. critical infrastructure</h2>
                         <div class="card-meta">
-                            <span class="card-date">2026-04-08</span>
-                            <span class="card-author">Jared Perlo, Kevin Collier</span>
+                            <span class="card-date">2026-04-10</span>
+                            <span class="card-author">Willow Tohi</span>
                         </div>
                         <div class="card-hint">Clique para ler o resumo →</div>
                     </div>
                 </div>
                 <div class="card-back">
-                    <div class="card-back-source">NBC News</div>
-                    <h3 class="card-back-title">Why Anthropic won&#x27;t release its new Claude Mythos AI model to the public</h3>
-                    <p class="card-back-resumo">Claude Mythos Preview can identify and exploit software vulnerabilities with unprecedented accuracy, the company says.</p>
-                    <a href="https://www.nbcnews.com/tech/security/anthropic-project-glasswing-mythos-preview-claude-gets-limited-release-rcna267234" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                    <div class="card-back-source">Naturalnews.com</div>
+                    <h3 class="card-back-title">FBI report: Iranian hackers targeting U.S. critical infrastructure</h3>
+                    <p class="card-back-resumo">A federal advisory reveals Iranian-linked hackers disrupted U.S. oil, gas, and water infrastructure by targeting critical industrial control systems. The cyber campaign, which caused operational and f...</p>
+                    <a href="https://www.naturalnews.com/2026-04-10-iranian-hackers-targeting-u-s-critical-infrastructure.html" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
                         Ler artigo completo →
                     </a>
                     <div class="card-back-hint">Clique para voltar</div>
@@ -481,24 +769,24 @@
                 <div class="card-front">
                     <div class="card-num">#03</div>
                     <div class="card-img-wrap">
-                        <img src="https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg" alt="U.S. CISA adds a flaw in Ivanti EPMM to its Known Exploited Vulnerabilities catalog" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPlUuUy4gQ0lTQSBhZGRzIGEgZmxhdyBpbiBJdmFudGkgRVBNPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5NIHRvIC4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+U2VjdXJpdHlhZmZhaXJzLmNvbTwvdGV4dD4KICA8cmVjdCB4PScwJyB5PScxOTAnIHdpZHRoPSczODAnIGhlaWdodD0nMicgZmlsbD0nIzAwZTVmZicgb3BhY2l0eT0nMC4zJy8+Cjwvc3ZnPg=='">
+                        <img src="https://www.c-sharpcorner.com/images/csharp-corner-new.png" alt="Anthropic’s Claude Mythos AI Model Too Dangerous" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkFudGhyb3BpY+KAmXMgQ2xhdWRlIE15dGhvcyBBSSBNb2RlbCA8L3RzcGFuPgogICAgPHRzcGFuIHg9JzI0JyBkeT0nMTgnPlRvbyBELi4uPC90c3Bhbj4KICA8L3RleHQ+CiAgPHRleHQgeD0nMjQnIHk9JzE3NScgZm9udC1mYW1pbHk9J21vbm9zcGFjZScgZm9udC1zaXplPScxMCcgZmlsbD0nIzAwZTVmZicgb3BhY2l0eT0nMC41Jz5DLXNoYXJwY29ybmVyLmNvbTwvdGV4dD4KICA8cmVjdCB4PScwJyB5PScxOTAnIHdpZHRoPSczODAnIGhlaWdodD0nMicgZmlsbD0nIzAwZTVmZicgb3BhY2l0eT0nMC4zJy8+Cjwvc3ZnPg=='">
                         <div class="card-img-overlay"></div>
                     </div>
                     <div class="card-front-content">
-                        <span class="card-source">Securityaffairs.com</span>
-                        <h2 class="card-title">U.S. CISA adds a flaw in Ivanti EPMM to its Known Exploited Vulnerabilities catalog</h2>
+                        <span class="card-source">C-sharpcorner.com</span>
+                        <h2 class="card-title">Anthropic’s Claude Mythos AI Model Too Dangerous</h2>
                         <div class="card-meta">
-                            <span class="card-date">2026-04-08</span>
-                            <span class="card-author">Pierluigi Paganini</span>
+                            <span class="card-date">2026-04-10</span>
+                            <span class="card-author">noreply@c-sharpcorner.com (Mah</span>
                         </div>
                         <div class="card-hint">Clique para ler o resumo →</div>
                     </div>
                 </div>
                 <div class="card-back">
-                    <div class="card-back-source">Securityaffairs.com</div>
-                    <h3 class="card-back-title">U.S. CISA adds a flaw in Ivanti EPMM to its Known Exploited Vulnerabilities catalog</h3>
-                    <p class="card-back-resumo">The U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a flaw in Ivanti EPMM to its Known Exploited Vulnerabilities catalog The U.S. Cybersecurity and Infrastructure Security Agency (CI...</p>
-                    <a href="https://securityaffairs.com/190519/security/u-s-cisa-adds-a-flaw-in-ivanti-epmm-to-its-known-exploited-vulnerabilities-catalog-2.html" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                    <div class="card-back-source">C-sharpcorner.com</div>
+                    <h3 class="card-back-title">Anthropic’s Claude Mythos AI Model Too Dangerous</h3>
+                    <p class="card-back-resumo">Anthropic’s latest AI model exposes thousands of vulnerabilities and signals a new era of AI driven cyber threats. Learn what this means for developers and enterprises.</p>
+                    <a href="https://www.c-sharpcorner.com/news/anthropics-claude-mythos-ai-model-too-dangerous" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
                         Ler artigo completo →
                     </a>
                     <div class="card-back-hint">Clique para voltar</div>
@@ -510,24 +798,24 @@
                 <div class="card-front">
                     <div class="card-num">#04</div>
                     <div class="card-img-wrap">
-                        <img src="https://cdn.nextgov.com/media/img/cd/2026/04/08/040826GlasswingNG/open-graph.jpg" alt="Anthropic’s Glasswing initiative raises questions for US cyber operations" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkFudGhyb3BpY+KAmXMgR2xhc3N3aW5nIGluaXRpYXRpdmUgcmE8L3RzcGFuPgogICAgPHRzcGFuIHg9JzI0JyBkeT0nMTgnPmlzZXMgLi4uPC90c3Bhbj4KICA8L3RleHQ+CiAgPHRleHQgeD0nMjQnIHk9JzE3NScgZm9udC1mYW1pbHk9J21vbm9zcGFjZScgZm9udC1zaXplPScxMCcgZmlsbD0nIzAwZTVmZicgb3BhY2l0eT0nMC41Jz5OZXh0Z292PC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <img src="https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/CyberAv3ngers-targeting-critical-infrastructure.jpg?itok=162Gi_-B" alt="What to Know About CyberAv3ngers: The IRGC-Linked Group Targeting Critical Infrastructure" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPldoYXQgdG8gS25vdyBBYm91dCBDeWJlckF2M25nZXJzOiBUPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5oZSBJUi4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+VGVuYWJsZS5jb208L3RleHQ+CiAgPHJlY3QgeD0nMCcgeT0nMTkwJyB3aWR0aD0nMzgwJyBoZWlnaHQ9JzInIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuMycvPgo8L3N2Zz4='">
                         <div class="card-img-overlay"></div>
                     </div>
                     <div class="card-front-content">
-                        <span class="card-source">Nextgov</span>
-                        <h2 class="card-title">Anthropic’s Glasswing initiative raises questions for US cyber operations</h2>
+                        <span class="card-source">Tenable.com</span>
+                        <h2 class="card-title">What to Know About CyberAv3ngers: The IRGC-Linked Group Targeting Critical Infrastructure</h2>
                         <div class="card-meta">
-                            <span class="card-date">2026-04-08</span>
-                            <span class="card-author">Patrick Tucker, Alexandra Kell</span>
+                            <span class="card-date">2026-04-09</span>
+                            <span class="card-author">Research Special Operations</span>
                         </div>
                         <div class="card-hint">Clique para ler o resumo →</div>
                     </div>
                 </div>
                 <div class="card-back">
-                    <div class="card-back-source">Nextgov</div>
-                    <h3 class="card-back-title">Anthropic’s Glasswing initiative raises questions for US cyber operations</h3>
-                    <p class="card-back-resumo">Intelligence officials and industry are weighing how Claude Mythos Preview could reshape hacking and cyberdefense. The company has also briefed senior officials on the AI model it says has already unc...</p>
-                    <a href="https://www.nextgov.com/cybersecurity/2026/04/anthropics-glasswing-initiative-raises-questions-us-cyber-operations/412721/" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                    <div class="card-back-source">Tenable.com</div>
+                    <h3 class="card-back-title">What to Know About CyberAv3ngers: The IRGC-Linked Group Targeting Critical Infrastructure</h3>
+                    <p class="card-back-resumo">An Iran-affiliated threat group has evolved from defacing water utility displays to deploying custom ICS malware and exploiting Rockwell Automation PLCs across multiple U.S. critical infrastructure se...</p>
+                    <a href="https://www.tenable.com/blog/what-to-know-about-cyberav3ngers-the-irgc-linked-group-targeting-critical-infrastructure" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
                         Ler artigo completo →
                     </a>
                     <div class="card-back-hint">Clique para voltar</div>
@@ -539,24 +827,24 @@
                 <div class="card-front">
                     <div class="card-num">#05</div>
                     <div class="card-img-wrap">
-                        <img src="https://go.forrester.com/wp-content/uploads/2026/04/glasswing-EN-WP1.jpg" alt="Project Glasswing Shows That AI Will Break The Vulnerability Management Playbook" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPlByb2plY3QgR2xhc3N3aW5nIFNob3dzIFRoYXQgQUkgV2lsPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5sIEJyZS4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+Rm9ycmVzdGVyLmNvbTwvdGV4dD4KICA8cmVjdCB4PScwJyB5PScxOTAnIHdpZHRoPSczODAnIGhlaWdodD0nMicgZmlsbD0nIzAwZTVmZicgb3BhY2l0eT0nMC4zJy8+Cjwvc3ZnPg=='">
+                        <img src="https://a.fsdn.com/sd/topics/security_64.png" alt="OpenAI To Limit New Model Release On Cybersecurity Fears" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPk9wZW5BSSBUbyBMaW1pdCBOZXcgTW9kZWwgUmVsZWFzZSBPPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5uIEN5Yi4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+U2xhc2hkb3Qub3JnPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
                         <div class="card-img-overlay"></div>
                     </div>
                     <div class="card-front-content">
-                        <span class="card-source">Forrester.com</span>
-                        <h2 class="card-title">Project Glasswing Shows That AI Will Break The Vulnerability Management Playbook</h2>
+                        <span class="card-source">Slashdot.org</span>
+                        <h2 class="card-title">OpenAI To Limit New Model Release On Cybersecurity Fears</h2>
                         <div class="card-meta">
-                            <span class="card-date">2026-04-08</span>
-                            <span class="card-author">Erik Nost</span>
+                            <span class="card-date">2026-04-09</span>
+                            <span class="card-author">BeauHD</span>
                         </div>
                         <div class="card-hint">Clique para ler o resumo →</div>
                     </div>
                 </div>
                 <div class="card-back">
-                    <div class="card-back-source">Forrester.com</div>
-                    <h3 class="card-back-title">Project Glasswing Shows That AI Will Break The Vulnerability Management Playbook</h3>
-                    <p class="card-back-resumo">Anthropic, along with 11 other companies, recently announced Project Glasswing, an initiative that aims to secure software in the wake of advances in AI capabilities, most notably Anthropic’s Claude M...</p>
-                    <a href="https://www.forrester.com/blogs/project-glasswing-shows-that-ai-will-break-the-vulnerability-management-playbook/" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                    <div class="card-back-source">Slashdot.org</div>
+                    <h3 class="card-back-title">OpenAI To Limit New Model Release On Cybersecurity Fears</h3>
+                    <p class="card-back-resumo">OpenAI is reportedly preparing a new cybersecurity product for a small group of partners, out of concern that a broader rollout could wreak havoc if it were released more widely. If that move sounds f...</p>
+                    <a href="https://it.slashdot.org/story/26/04/09/194221/openai-to-limit-new-model-release-on-cybersecurity-fears" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
                         Ler artigo completo →
                     </a>
                     <div class="card-back-hint">Clique para voltar</div>
@@ -568,24 +856,24 @@
                 <div class="card-front">
                     <div class="card-num">#06</div>
                     <div class="card-img-wrap">
-                        <img src="https://ml.globenewswire.com/Resource/Download/e10d1bfc-a129-4ecb-a8d1-7a1d339f22eb" alt="XMax Advances AI Strategy Through Development and Deployment of An AI Inference Platform" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPlhNYXggQWR2YW5jZXMgQUkgU3RyYXRlZ3kgVGhyb3VnaCBEPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5ldmVsby4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+R2xvYmVOZXdzd2lyZTwvdGV4dD4KICA8cmVjdCB4PScwJyB5PScxOTAnIHdpZHRoPSczODAnIGhlaWdodD0nMicgZmlsbD0nIzAwZTVmZicgb3BhY2l0eT0nMC4zJy8+Cjwvc3ZnPg=='">
+                        <img src="https://securityaffairs.com/wp-content/uploads/2015/03/adobe-patch.jpg" alt="Malicious PDF reveals active Adobe Reader zero-day in the wild" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPk1hbGljaW91cyBQREYgcmV2ZWFscyBhY3RpdmUgQWRvYmUgPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5SZWFkZS4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+U2VjdXJpdHlhZmZhaXJzLmNvbTwvdGV4dD4KICA8cmVjdCB4PScwJyB5PScxOTAnIHdpZHRoPSczODAnIGhlaWdodD0nMicgZmlsbD0nIzAwZTVmZicgb3BhY2l0eT0nMC4zJy8+Cjwvc3ZnPg=='">
                         <div class="card-img-overlay"></div>
                     </div>
                     <div class="card-front-content">
-                        <span class="card-source">GlobeNewswire</span>
-                        <h2 class="card-title">XMax Advances AI Strategy Through Development and Deployment of An AI Inference Platform</h2>
+                        <span class="card-source">Securityaffairs.com</span>
+                        <h2 class="card-title">Malicious PDF reveals active Adobe Reader zero-day in the wild</h2>
                         <div class="card-meta">
-                            <span class="card-date">2026-04-08</span>
-                            <span class="card-author">Nova Lifestyle, Inc</span>
+                            <span class="card-date">2026-04-09</span>
+                            <span class="card-author">Pierluigi Paganini</span>
                         </div>
                         <div class="card-hint">Clique para ler o resumo →</div>
                     </div>
                 </div>
                 <div class="card-back">
-                    <div class="card-back-source">GlobeNewswire</div>
-                    <h3 class="card-back-title">XMax Advances AI Strategy Through Development and Deployment of An AI Inference Platform</h3>
-                    <p class="card-back-resumo">LOS ANGELES, April 08, 2026 (GLOBE NEWSWIRE) -- XMax Inc. (NASDAQ: XWIN) (“XMax” or the “Company”) today announced a key milestone in its artificial intelligence (“AI”) strategy with the deployment of...</p>
-                    <a href="https://www.globenewswire.com/news-release/2026/04/08/3270540/37029/en/XMax-Advances-AI-Strategy-Through-Development-and-Deployment-of-An-AI-Inference-Platform.html" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                    <div class="card-back-source">Securityaffairs.com</div>
+                    <h3 class="card-back-title">Malicious PDF reveals active Adobe Reader zero-day in the wild</h3>
+                    <p class="card-back-resumo">Hackers used an Adobe Reader zero-day for months. Researcher Haifei Li found a malicious PDF and asks the community to help analyze it. Hackers used an Adobe Reader zero-day for months to deliver a so...</p>
+                    <a href="https://securityaffairs.com/190558/hacking/malicious-pdf-reveals-active-adobe-reader-zero-day-in-the-wild.html" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
                         Ler artigo completo →
                     </a>
                     <div class="card-back-hint">Clique para voltar</div>
@@ -597,24 +885,24 @@
                 <div class="card-front">
                     <div class="card-num">#07</div>
                     <div class="card-img-wrap">
-                        <img src="https://img.helpnetsecurity.com/wp-content/uploads/2026/03/03115429/microsoft-windows-defender-1500.webp" alt="BlueHammer: Windows zero-day exploit leaked" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkJsdWVIYW1tZXI6IFdpbmRvd3MgemVyby1kYXkgZXhwbG9pPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz50IGxlYS4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+SGVscCBOZXQgU2VjdXJpdHk8L3RleHQ+CiAgPHJlY3QgeD0nMCcgeT0nMTkwJyB3aWR0aD0nMzgwJyBoZWlnaHQ9JzInIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuMycvPgo8L3N2Zz4='">
+                        <img src="https://alltoc.com/cdn/1046/og.png" alt="Anthropic’s Mythos Preview escaped its sandbox #tech" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkFudGhyb3BpY+KAmXMgTXl0aG9zIFByZXZpZXcgZXNjYXBlZCA8L3RzcGFuPgogICAgPHRzcGFuIHg9JzI0JyBkeT0nMTgnPml0cyBzLi4uPC90c3Bhbj4KICA8L3RleHQ+CiAgPHRleHQgeD0nMjQnIHk9JzE3NScgZm9udC1mYW1pbHk9J21vbm9zcGFjZScgZm9udC1zaXplPScxMCcgZmlsbD0nIzAwZTVmZicgb3BhY2l0eT0nMC41Jz5BbGx0b2MuY29tPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
                         <div class="card-img-overlay"></div>
                     </div>
                     <div class="card-front-content">
-                        <span class="card-source">Help Net Security</span>
-                        <h2 class="card-title">BlueHammer: Windows zero-day exploit leaked</h2>
+                        <span class="card-source">Alltoc.com</span>
+                        <h2 class="card-title">Anthropic’s Mythos Preview escaped its sandbox #tech</h2>
                         <div class="card-meta">
-                            <span class="card-date">2026-04-08</span>
-                            <span class="card-author">Zeljka Zorz</span>
+                            <span class="card-date">2026-04-09</span>
+                            <span class="card-author">AllToc</span>
                         </div>
                         <div class="card-hint">Clique para ler o resumo →</div>
                     </div>
                 </div>
                 <div class="card-back">
-                    <div class="card-back-source">Help Net Security</div>
-                    <h3 class="card-back-title">BlueHammer: Windows zero-day exploit leaked</h3>
-                    <p class="card-back-resumo">A buggy but functional proof-of-concept (PoC) exploit for an unpatched Windows local privilege escalation vulnerability dubbed BlueHammer has been published on GitHub by someone who goes by the handle...</p>
-                    <a href="https://www.helpnetsecurity.com/2026/04/08/bluehammer-windows-zero-day-exploit-leaked/" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                    <div class="card-back-source">Alltoc.com</div>
+                    <h3 class="card-back-title">Anthropic’s Mythos Preview escaped its sandbox #tech</h3>
+                    <p class="card-back-resumo">What happened Anthropic introduced Claude Mythos Preview as a cybersecurity oriented AI model intended to help find software vulnerabilities. But multiple reports describe a failure in containment dur...</p>
+                    <a href="https://alltoc.com/tech/anthropics-mythos-preview-escaped-its-sandbox" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
                         Ler artigo completo →
                     </a>
                     <div class="card-back-hint">Clique para voltar</div>
@@ -626,24 +914,24 @@
                 <div class="card-front">
                     <div class="card-num">#08</div>
                     <div class="card-img-wrap">
-                        <img src="https://www.eff.org/files/banner_library/smart-home-2b.jpg" alt="Banning New Foreign Routers Mistargets Products to Fix Real Problem" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkJhbm5pbmcgTmV3IEZvcmVpZ24gUm91dGVycyBNaXN0YXJnPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5ldHMgUC4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+RUZGPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <img src="https://alltoc.com/cdn/1046/og.png" alt="Mythos found a 27-year OpenBSD TCP bug #tech" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPk15dGhvcyBmb3VuZCBhIDI3LXllYXIgT3BlbkJTRCBUQ1AgPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5idWcgIy4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+QWxsdG9jLmNvbTwvdGV4dD4KICA8cmVjdCB4PScwJyB5PScxOTAnIHdpZHRoPSczODAnIGhlaWdodD0nMicgZmlsbD0nIzAwZTVmZicgb3BhY2l0eT0nMC4zJy8+Cjwvc3ZnPg=='">
                         <div class="card-img-overlay"></div>
                     </div>
                     <div class="card-front-content">
-                        <span class="card-source">EFF</span>
-                        <h2 class="card-title">Banning New Foreign Routers Mistargets Products to Fix Real Problem</h2>
+                        <span class="card-source">Alltoc.com</span>
+                        <h2 class="card-title">Mythos found a 27-year OpenBSD TCP bug #tech</h2>
                         <div class="card-meta">
-                            <span class="card-date">2026-04-08</span>
-                            <span class="card-author">Bill Budington</span>
+                            <span class="card-date">2026-04-09</span>
+                            <span class="card-author">AllToc</span>
                         </div>
                         <div class="card-hint">Clique para ler o resumo →</div>
                     </div>
                 </div>
                 <div class="card-back">
-                    <div class="card-back-source">EFF</div>
-                    <h3 class="card-back-title">Banning New Foreign Routers Mistargets Products to Fix Real Problem</h3>
-                    <p class="card-back-resumo">On March 23, the FCC issued an update to their Covered List, a list of equipment banned from obtaining regulatory approval necessary for U.S. sale (and thus effectively a ban on sale of new devices), ...</p>
-                    <a href="https://www.eff.org/deeplinks/2026/04/banning-new-foreign-routers-mistargets-products-fix-real-problem" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                    <div class="card-back-source">Alltoc.com</div>
+                    <h3 class="card-back-title">Mythos found a 27-year OpenBSD TCP bug #tech</h3>
+                    <p class="card-back-resumo">What happened A new report describes a cybersecurity system that autonomously exploited vulnerabilities that had survived decades of scrutiny. The most notable example involves a 27 year old bug insid...</p>
+                    <a href="https://alltoc.com/tech/mythos-found-a-27-year-openbsd-tcp-bug" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
                         Ler artigo completo →
                     </a>
                     <div class="card-back-hint">Clique para voltar</div>
@@ -655,24 +943,24 @@
                 <div class="card-front">
                     <div class="card-num">#09</div>
                     <div class="card-img-wrap">
-                        <img src="https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg" alt="CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjNGRhNmZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjNGRhNmZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjNGRhNmZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjNGRhNmZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5CQzwvdGV4dD4KICA8bGluZSB4MT0nMjQnIHkxPSc1MicgeDI9JzEwMCcgeTI9JzUyJyBzdHJva2U9JyM0ZGE2ZmYnIHN0cm9rZS13aWR0aD0nMScgb3BhY2l0eT0nMC40Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzEwMCcgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtc2l6ZT0nMTMnIGZvbnQtd2VpZ2h0PSc2MDAnIGZpbGw9JyNjOGQwZTAnIG9wYWNpdHk9JzAuODUnPgogICAgPHRzcGFuIHg9JzI0JyBkeT0nMCc+Q0lTQSBvcmRlcnMgZmVkcyB0byBwYXRjaCBleHBsb2l0ZWQ8L3RzcGFuPgogICAgPHRzcGFuIHg9JzI0JyBkeT0nMTgnPiBJdmFuLi4uPC90c3Bhbj4KICA8L3RleHQ+CiAgPHRleHQgeD0nMjQnIHk9JzE3NScgZm9udC1mYW1pbHk9J21vbm9zcGFjZScgZm9udC1zaXplPScxMCcgZmlsbD0nIzRkYTZmZicgb3BhY2l0eT0nMC41Jz5CbGVlcGluZ0NvbXB1dGVyPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjNGRhNmZmJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <img src="https://cdn.theatlantic.com/thumbor/noVu2OT-b_bXsB1WLLkm8i6Q2zI=/0x32:1498x812/1200x625/media/img/mt/2026/04/2026_03_07_Ai_mpg/original.gif" alt="Claude Mythos Is Everyone’s Problem" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkNsYXVkZSBNeXRob3MgSXMgRXZlcnlvbmXigJlzIFByb2JsZW08L3RzcGFuPgogICAgPHRzcGFuIHg9JzI0JyBkeT0nMTgnPjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+VGhlIEF0bGFudGljPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
                         <div class="card-img-overlay"></div>
                     </div>
                     <div class="card-front-content">
-                        <span class="card-source">BleepingComputer</span>
-                        <h2 class="card-title">CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday</h2>
+                        <span class="card-source">The Atlantic</span>
+                        <h2 class="card-title">Claude Mythos Is Everyone’s Problem</h2>
                         <div class="card-meta">
-                            <span class="card-date">2026-04-08</span>
-                            <span class="card-author">Sergiu Gatlan</span>
+                            <span class="card-date">2026-04-09</span>
+                            <span class="card-author">Matteo Wong</span>
                         </div>
                         <div class="card-hint">Clique para ler o resumo →</div>
                     </div>
                 </div>
                 <div class="card-back">
-                    <div class="card-back-source">BleepingComputer</div>
-                    <h3 class="card-back-title">CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday</h3>
-                    <p class="card-back-resumo">CISA has given U.S. government agencies four days to secure their systems against a critical-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) that has been exploited in attacks since Ja...</p>
-                    <a href="https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                    <div class="card-back-source">The Atlantic</div>
+                    <h3 class="card-back-title">Claude Mythos Is Everyone’s Problem</h3>
+                    <p class="card-back-resumo">What happens when AI can hack everything?</p>
+                    <a href="https://www.theatlantic.com/technology/2026/04/claude-mythos-hacking/686746/" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
                         Ler artigo completo →
                     </a>
                     <div class="card-back-hint">Clique para voltar</div>
@@ -684,24 +972,24 @@
                 <div class="card-front">
                     <div class="card-num">#10</div>
                     <div class="card-img-wrap">
-                        <img src="https://i.insider.com/69d676f01a512d0a63e738c0?width=1200&format=jpeg" alt="Why Anthropic&#x27;s new AI model has some cybersecurity pros worried about its hacking abilities" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPldoeSBBbnRocm9waWMmYW1wOyN4Mjc7cyBuZXcgQUkgbW9kPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5lbCBoYXMgc28uLi48L3RzcGFuPgogIDwvdGV4dD4KICA8dGV4dCB4PScyNCcgeT0nMTc1JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzEwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjUnPkJ1c2luZXNzIEluc2lkZXI8L3RleHQ+CiAgPHJlY3QgeD0nMCcgeT0nMTkwJyB3aWR0aD0nMzgwJyBoZWlnaHQ9JzInIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuMycvPgo8L3N2Zz4='">
+                        <img src="https://www.theblaze.com/media-library/anthropic-says-its-own-new-model-is-too-dangerous-for-the-public-but-not-these-big-tech-companies.png?id=65493422&width=1200&height=600&coordinates=0%2C29%2C0%2C30" alt="Anthropic says its own new model is too dangerous for the public — but not these Big Tech companies" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkFudGhyb3BpYyBzYXlzIGl0cyBvd24gbmV3IG1vZGVsIGlzPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz4gdG9vIC4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+VGhlQmxhemU8L3RleHQ+CiAgPHJlY3QgeD0nMCcgeT0nMTkwJyB3aWR0aD0nMzgwJyBoZWlnaHQ9JzInIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuMycvPgo8L3N2Zz4='">
                         <div class="card-img-overlay"></div>
                     </div>
                     <div class="card-front-content">
-                        <span class="card-source">Business Insider</span>
-                        <h2 class="card-title">Why Anthropic&#x27;s new AI model has some cybersecurity pros worried about its hacking abilities</h2>
+                        <span class="card-source">TheBlaze</span>
+                        <h2 class="card-title">Anthropic says its own new model is too dangerous for the public — but not these Big Tech companies</h2>
                         <div class="card-meta">
-                            <span class="card-date">2026-04-08</span>
-                            <span class="card-author">Robert Scammell</span>
+                            <span class="card-date">2026-04-09</span>
+                            <span class="card-author">Andrew Chapados</span>
                         </div>
                         <div class="card-hint">Clique para ler o resumo →</div>
                     </div>
                 </div>
                 <div class="card-back">
-                    <div class="card-back-source">Business Insider</div>
-                    <h3 class="card-back-title">Why Anthropic&#x27;s new AI model has some cybersecurity pros worried about its hacking abilities</h3>
-                    <p class="card-back-resumo">Anthropic&#x27;s Claude Mythos raises cybersecurity concerns with its ability to find and exploit vulnerabilities. Here&#x27;s what cyber experts think.</p>
-                    <a href="https://www.businessinsider.com/claude-mythos-preview-anthropic-cybersecurity-reaction-glasswing-2026-4" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                    <div class="card-back-source">TheBlaze</div>
+                    <h3 class="card-back-title">Anthropic says its own new model is too dangerous for the public — but not these Big Tech companies</h3>
+                    <p class="card-back-resumo">Anthropic is sending out a warning that its artificial intelligence model is sophisticated enough to undo decades of research.The company operates Claude, the AI chatbot that has been ripped off and t...</p>
+                    <a href="https://www.theblaze.com/news/anthropic-claude-is-too-dangerous" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
                         Ler artigo completo →
                     </a>
                     <div class="card-back-hint">Clique para voltar</div>
@@ -713,24 +1001,24 @@
                 <div class="card-front">
                     <div class="card-num">#11</div>
                     <div class="card-img-wrap">
-                        <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-17066,resizemode-75,msid-130120454/tech/artificial-intelligence/latest-anthropic-ai-model-finds-cracks-in-software-defenses.jpg" alt="Latest Anthropic AI model finds cracks in software defenses" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkxhdGVzdCBBbnRocm9waWMgQUkgbW9kZWwgZmluZHMgY3JhPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5ja3MgaS4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+VGhlIFRpbWVzIG9mIEluZGlhPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <img src="https://www.skudonet.com/wp-content/uploads/2026/04/Featured-Blog-Post-1-1.jpg" alt="ZEVENET: How to Choose a Cybersecurity Provider in 2026: Why Most Can’t Be Trusted" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPlpFVkVORVQ6IEhvdyB0byBDaG9vc2UgYSBDeWJlcnNlY3VyPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5pdHkgUC4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+U2t1ZG9uZXQuY29tPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
                         <div class="card-img-overlay"></div>
                     </div>
                     <div class="card-front-content">
-                        <span class="card-source">The Times of India</span>
-                        <h2 class="card-title">Latest Anthropic AI model finds cracks in software defenses</h2>
+                        <span class="card-source">Skudonet.com</span>
+                        <h2 class="card-title">ZEVENET: How to Choose a Cybersecurity Provider in 2026: Why Most Can’t Be Trusted</h2>
                         <div class="card-meta">
-                            <span class="card-date">2026-04-08</span>
-                            <span class="card-author">AFP</span>
+                            <span class="card-date">2026-04-09</span>
+                            
                         </div>
                         <div class="card-hint">Clique para ler o resumo →</div>
                     </div>
                 </div>
                 <div class="card-back">
-                    <div class="card-back-source">The Times of India</div>
-                    <h3 class="card-back-title">Latest Anthropic AI model finds cracks in software defenses</h3>
-                    <p class="card-back-resumo">Anthropic on Tuesday said its yet-to-be-released artificial intelligence model called Claude Mythos has proven keenly adept at exposing software weaknesses. Software vulnerabilities exposed by Mythos ...</p>
-                    <a href="https://economictimes.indiatimes.com/tech/artificial-intelligence/latest-anthropic-ai-model-finds-cracks-in-software-defenses/articleshow/130120454.cms" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                    <div class="card-back-source">Skudonet.com</div>
+                    <h3 class="card-back-title">ZEVENET: How to Choose a Cybersecurity Provider in 2026: Why Most Can’t Be Trusted</h3>
+                    <p class="card-back-resumo">Cybersecurity is no longer just a technical problem. It’s a trust problem. Only 5% of IT decision-makers say that both they and their organization fully trust their cybersecurity providers, according ...</p>
+                    <a href="https://www.skudonet.com/blog/how-to-choose-cybersecurity-provider/" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
                         Ler artigo completo →
                     </a>
                     <div class="card-back-hint">Clique para voltar</div>
@@ -742,24 +1030,24 @@
                 <div class="card-front">
                     <div class="card-num">#12</div>
                     <div class="card-img-wrap">
-                        <img src="https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/04/0409-mg-anthropic.jpg" alt="Anthropic lets Apple, Amazon test more powerful Mythos AI model" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkFudGhyb3BpYyBsZXRzIEFwcGxlLCBBbWF6b24gdGVzdCBtPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5vcmUgcC4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+RmluYW5jaWFsIFBvc3Q8L3RleHQ+CiAgPHJlY3QgeD0nMCcgeT0nMTkwJyB3aWR0aD0nMzgwJyBoZWlnaHQ9JzInIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuMycvPgo8L3N2Zz4='">
+                        <img src="https://regmedia.co.uk/2022/03/09/microsoft.jpg" alt="Microsoft locks out VeraCrypt and WireGuard devs, blames verification process" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPk1pY3Jvc29mdCBsb2NrcyBvdXQgVmVyYUNyeXB0IGFuZCBXPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5pcmVHdS4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+VGhlcmVnaXN0ZXIuY29tPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
                         <div class="card-img-overlay"></div>
                     </div>
                     <div class="card-front-content">
-                        <span class="card-source">Financial Post</span>
-                        <h2 class="card-title">Anthropic lets Apple, Amazon test more powerful Mythos AI model</h2>
+                        <span class="card-source">Theregister.com</span>
+                        <h2 class="card-title">Microsoft locks out VeraCrypt and WireGuard devs, blames verification process</h2>
                         <div class="card-meta">
-                            <span class="card-date">2026-04-08</span>
-                            <span class="card-author">Bloomberg News</span>
+                            <span class="card-date">2026-04-09</span>
+                            <span class="card-author">Connor Jones</span>
                         </div>
                         <div class="card-hint">Clique para ler o resumo →</div>
                     </div>
                 </div>
                 <div class="card-back">
-                    <div class="card-back-source">Financial Post</div>
-                    <h3 class="card-back-title">Anthropic lets Apple, Amazon test more powerful Mythos AI model</h3>
-                    <p class="card-back-resumo">Anthropic PBC is letting tech firms access a more powerful, unreleased AI model to help prepare for possible cyberattacks. Read more here</p>
-                    <a href="https://financialpost.com/cybersecurity/anthropic-lets-apple-amazon-test-mythos-ai" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                    <div class="card-back-source">Theregister.com</div>
+                    <h3 class="card-back-title">Microsoft locks out VeraCrypt and WireGuard devs, blames verification process</h3>
+                    <p class="card-back-resumo">No emails, no warnings, no humans – just bots, catch-22s, and a 60-day appeals queue Microsoft says that it will work on how it communicates with developers after two leading open source figures were ...</p>
+                    <a href="https://www.theregister.com/2026/04/09/microsoft_dev_account_deactivations/" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
                         Ler artigo completo →
                     </a>
                     <div class="card-back-hint">Clique para voltar</div>
@@ -771,24 +1059,24 @@
                 <div class="card-front">
                     <div class="card-num">#13</div>
                     <div class="card-img-wrap">
-                        <img src="https://blogs.cisco.com/gcs/ciscoblogs/1/2026/04/Picture3-scaled.jpg" alt="Prioritizing security, privacy, and trust in the AI era | FY25 Purpose Report" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPlByaW9yaXRpemluZyBzZWN1cml0eSwgcHJpdmFjeSwgYW5kPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz4gdHJ1cy4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+Q2lzY28uY29tPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <img src="https://img.helpnetsecurity.com/wp-content/uploads/2023/11/21122152/apache_activemq.jpg" alt="Claude helps researcher dig up decade-old Apache ActiveMQ RCE vulnerability (CVE-2026-34197)" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkNsYXVkZSBoZWxwcyByZXNlYXJjaGVyIGRpZyB1cCBkZWNhPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5kZS1vbC4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+SGVscCBOZXQgU2VjdXJpdHk8L3RleHQ+CiAgPHJlY3QgeD0nMCcgeT0nMTkwJyB3aWR0aD0nMzgwJyBoZWlnaHQ9JzInIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuMycvPgo8L3N2Zz4='">
                         <div class="card-img-overlay"></div>
                     </div>
                     <div class="card-front-content">
-                        <span class="card-source">Cisco.com</span>
-                        <h2 class="card-title">Prioritizing security, privacy, and trust in the AI era | FY25 Purpose Report</h2>
+                        <span class="card-source">Help Net Security</span>
+                        <h2 class="card-title">Claude helps researcher dig up decade-old Apache ActiveMQ RCE vulnerability (CVE-2026-34197)</h2>
                         <div class="card-meta">
-                            <span class="card-date">2026-04-08</span>
-                            <span class="card-author">Amanda Wolkin</span>
+                            <span class="card-date">2026-04-09</span>
+                            <span class="card-author">Zeljka Zorz</span>
                         </div>
                         <div class="card-hint">Clique para ler o resumo →</div>
                     </div>
                 </div>
                 <div class="card-back">
-                    <div class="card-back-source">Cisco.com</div>
-                    <h3 class="card-back-title">Prioritizing security, privacy, and trust in the AI era | FY25 Purpose Report</h3>
-                    <p class="card-back-resumo">In a world where nearly everything is connected and generating data, technology holds extraordinary promise to solve our greatest challenges. But with this opportunity comes increasing vulnerability i...</p>
-                    <a href="https://blogs.cisco.com/our-corporate-purpose/prioritizing-security-privacy-and-trust-in-the-ai-era-fy25-purpose-report" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                    <div class="card-back-source">Help Net Security</div>
+                    <h3 class="card-back-title">Claude helps researcher dig up decade-old Apache ActiveMQ RCE vulnerability (CVE-2026-34197)</h3>
+                    <p class="card-back-resumo">In the latest demonstration of how AI assistants can help with bug hunting, Horizon3.ai researcher Naveen Sunkavally used Claude to unearth CVE-2026-34197, a remote code execution vulnerability in Apa...</p>
+                    <a href="https://www.helpnetsecurity.com/2026/04/09/apache-activemq-rce-vulnerability-cve-2026-34197-claude/" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
                         Ler artigo completo →
                     </a>
                     <div class="card-back-hint">Clique para voltar</div>
@@ -800,24 +1088,24 @@
                 <div class="card-front">
                     <div class="card-num">#14</div>
                     <div class="card-img-wrap">
-                        <img src="https://images.theconversation.com/files/725303/original/file-20260320-71-n1q1kr.jpg?ixlib=rb-4.1.0&rect=0%2C384%2C6000%2C3000&q=45&auto=format&w=1356&h=668&fit=crop" alt="Canada’s cybersecurity sector has a pipeline problem — and a glass ceiling" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkNhbmFkYeKAmXMgY3liZXJzZWN1cml0eSBzZWN0b3IgaGFzIGE8L3RzcGFuPgogICAgPHRzcGFuIHg9JzI0JyBkeT0nMTgnPiBwaXBlLi4uPC90c3Bhbj4KICA8L3RleHQ+CiAgPHRleHQgeD0nMjQnIHk9JzE3NScgZm9udC1mYW1pbHk9J21vbm9zcGFjZScgZm9udC1zaXplPScxMCcgZmlsbD0nIzAwZTVmZicgb3BhY2l0eT0nMC41Jz5UaGUgQ29udmVyc2F0aW9uIEFmcmljYTwvdGV4dD4KICA8cmVjdCB4PScwJyB5PScxOTAnIHdpZHRoPSczODAnIGhlaWdodD0nMicgZmlsbD0nIzAwZTVmZicgb3BhY2l0eT0nMC4zJy8+Cjwvc3ZnPg=='">
+                        <img src="https://nextbigfuture.s3.amazonaws.com/uploads/2026/04/ai-native-threat-intelligence-platform_1775675721DIuoj4t7BR.jpg" alt="Mallory Launches AI-Native Threat Intelligence Platform, Turning Global Threat Data Into Prioritized Action" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPk1hbGxvcnkgTGF1bmNoZXMgQUktTmF0aXZlIFRocmVhdCBJPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5udGVsbC4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+TmV4dCBCaWcgRnV0dXJlPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
                         <div class="card-img-overlay"></div>
                     </div>
                     <div class="card-front-content">
-                        <span class="card-source">The Conversation Africa</span>
-                        <h2 class="card-title">Canada’s cybersecurity sector has a pipeline problem — and a glass ceiling</h2>
+                        <span class="card-source">Next Big Future</span>
+                        <h2 class="card-title">Mallory Launches AI-Native Threat Intelligence Platform, Turning Global Threat Data Into Prioritized Action</h2>
                         <div class="card-meta">
-                            <span class="card-date">2026-04-08</span>
-                            <span class="card-author">Sepideh Borzoo, Postdoctoral F</span>
+                            <span class="card-date">2026-04-09</span>
+                            <span class="card-author">cybernewswire</span>
                         </div>
                         <div class="card-hint">Clique para ler o resumo →</div>
                     </div>
                 </div>
                 <div class="card-back">
-                    <div class="card-back-source">The Conversation Africa</div>
-                    <h3 class="card-back-title">Canada’s cybersecurity sector has a pipeline problem — and a glass ceiling</h3>
-                    <p class="card-back-resumo">Canada’s cybersecurity labour shortage cannot be solved simply by recruiting skilled immigrants, because systemic barriers — especially for racialized immigrant women — limit their integration, advanc...</p>
-                    <a href="https://theconversation.com/canadas-cybersecurity-sector-has-a-pipeline-problem-and-a-glass-ceiling-270764" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                    <div class="card-back-source">Next Big Future</div>
+                    <h3 class="card-back-title">Mallory Launches AI-Native Threat Intelligence Platform, Turning Global Threat Data Into Prioritized Action</h3>
+                    <p class="card-back-resumo">Austin, Texas, United States, 9th April 2026, CyberNewswire</p>
+                    <a href="https://www.nextbigfuture.com/2026/04/mallory-launches-ai-native-threat-intelligence-platform-turning-global-threat-data-into-prioritized-action.html" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
                         Ler artigo completo →
                     </a>
                     <div class="card-back-hint">Clique para voltar</div>
@@ -829,24 +1117,24 @@
                 <div class="card-front">
                     <div class="card-num">#15</div>
                     <div class="card-img-wrap">
-                        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkdyZWVuYm9uZU9TOiBQYXRjaCBOb3chIENWRS0yMDI2LTM1PC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz42MTYgYS4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+R3JlZW5ib25lLm5ldDwvdGV4dD4KICA8cmVjdCB4PScwJyB5PScxOTAnIHdpZHRoPSczODAnIGhlaWdodD0nMicgZmlsbD0nIzAwZTVmZicgb3BhY2l0eT0nMC4zJy8+Cjwvc3ZnPg==" alt="GreenboneOS: Patch Now! CVE-2026-35616 and CVE-2026-21643: Fortinet EMS Actively Exploited" loading="lazy" >
+                        <img src="https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp" alt="Mallory brings contextual threat intelligence to security operations" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPk1hbGxvcnkgYnJpbmdzIGNvbnRleHR1YWwgdGhyZWF0IGluPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz50ZWxsaS4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+SGVscCBOZXQgU2VjdXJpdHk8L3RleHQ+CiAgPHJlY3QgeD0nMCcgeT0nMTkwJyB3aWR0aD0nMzgwJyBoZWlnaHQ9JzInIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuMycvPgo8L3N2Zz4='">
                         <div class="card-img-overlay"></div>
                     </div>
                     <div class="card-front-content">
-                        <span class="card-source">Greenbone.net</span>
-                        <h2 class="card-title">GreenboneOS: Patch Now! CVE-2026-35616 and CVE-2026-21643: Fortinet EMS Actively Exploited</h2>
+                        <span class="card-source">Help Net Security</span>
+                        <h2 class="card-title">Mallory brings contextual threat intelligence to security operations</h2>
                         <div class="card-meta">
-                            <span class="card-date">2026-04-08</span>
-                            <span class="card-author">Joseph Lee</span>
+                            <span class="card-date">2026-04-09</span>
+                            <span class="card-author">Industry News</span>
                         </div>
                         <div class="card-hint">Clique para ler o resumo →</div>
                     </div>
                 </div>
                 <div class="card-back">
-                    <div class="card-back-source">Greenbone.net</div>
-                    <h3 class="card-back-title">GreenboneOS: Patch Now! CVE-2026-35616 and CVE-2026-21643: Fortinet EMS Actively Exploited</h3>
-                    <p class="card-back-resumo">Fortinet FortiClient EMS faces immediate risk from two critical severity CVEs: CVE-2026-35616 in versions 7.4.5-7.4.6 and CVE-2026-21643 in 7.4.4. CVE-2026-35616 (CVSS 9.8) is an actively exploited vu...</p>
-                    <a href="https://www.greenbone.net/en/blog/patch-now-2026-35616-and-cve-2026-21643/" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                    <div class="card-back-source">Help Net Security</div>
+                    <h3 class="card-back-title">Mallory brings contextual threat intelligence to security operations</h3>
+                    <p class="card-back-resumo">Mallory is launching an AI-native threat intelligence platform, purpose-built to answer the questions CISOs and their teams are asking every day: What are the real threat vectors for our organization?...</p>
+                    <a href="https://www.helpnetsecurity.com/2026/04/09/mallory-ai-native-threat-intelligence-platform/" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
                         Ler artigo completo →
                     </a>
                     <div class="card-back-hint">Clique para voltar</div>
@@ -858,24 +1146,24 @@
                 <div class="card-front">
                     <div class="card-num">#16</div>
                     <div class="card-img-wrap">
-                        <img src="https://ml.globenewswire.com/Resource/Download/ee2f2b02-4089-4a15-93fa-0956daf4ad82" alt="Bugcrowd and Carahsoft Partner to Bring FedRAMP-Authorized Proactive Security and Testing Solutions to the Public Sector" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkJ1Z2Nyb3dkIGFuZCBDYXJhaHNvZnQgUGFydG5lciB0byBCPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5yaW5nIC4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+R2xvYmVOZXdzd2lyZTwvdGV4dD4KICA8cmVjdCB4PScwJyB5PScxOTAnIHdpZHRoPSczODAnIGhlaWdodD0nMicgZmlsbD0nIzAwZTVmZicgb3BhY2l0eT0nMC4zJy8+Cjwvc3ZnPg=='">
+                        <img src="https://hackread.com/wp-content/uploads/2026/04/ai-native-threat-intelligence-platform_1775675721DIuoj4t7BR.jpg" alt="Mallory Launches AI-Native Threat Intelligence Platform, Turning Global Threat Data Into Prioritized Action" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjYWE0NGZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjYWE0NGZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjYWE0NGZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjYWE0NGZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5IUjwvdGV4dD4KICA8bGluZSB4MT0nMjQnIHkxPSc1MicgeDI9JzEwMCcgeTI9JzUyJyBzdHJva2U9JyNhYTQ0ZmYnIHN0cm9rZS13aWR0aD0nMScgb3BhY2l0eT0nMC40Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzEwMCcgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtc2l6ZT0nMTMnIGZvbnQtd2VpZ2h0PSc2MDAnIGZpbGw9JyNjOGQwZTAnIG9wYWNpdHk9JzAuODUnPgogICAgPHRzcGFuIHg9JzI0JyBkeT0nMCc+TWFsbG9yeSBMYXVuY2hlcyBBSS1OYXRpdmUgVGhyZWF0IEk8L3RzcGFuPgogICAgPHRzcGFuIHg9JzI0JyBkeT0nMTgnPm50ZWxsLi4uPC90c3Bhbj4KICA8L3RleHQ+CiAgPHRleHQgeD0nMjQnIHk9JzE3NScgZm9udC1mYW1pbHk9J21vbm9zcGFjZScgZm9udC1zaXplPScxMCcgZmlsbD0nI2FhNDRmZicgb3BhY2l0eT0nMC41Jz5IYWNrUmVhZDwvdGV4dD4KICA8cmVjdCB4PScwJyB5PScxOTAnIHdpZHRoPSczODAnIGhlaWdodD0nMicgZmlsbD0nI2FhNDRmZicgb3BhY2l0eT0nMC4zJy8+Cjwvc3ZnPg=='">
                         <div class="card-img-overlay"></div>
                     </div>
                     <div class="card-front-content">
-                        <span class="card-source">GlobeNewswire</span>
-                        <h2 class="card-title">Bugcrowd and Carahsoft Partner to Bring FedRAMP-Authorized Proactive Security and Testing Solutions to the Public Sector</h2>
+                        <span class="card-source">HackRead</span>
+                        <h2 class="card-title">Mallory Launches AI-Native Threat Intelligence Platform, Turning Global Threat Data Into Prioritized Action</h2>
                         <div class="card-meta">
-                            <span class="card-date">2026-04-08</span>
-                            <span class="card-author">Carahsoft Technology Corporati</span>
+                            <span class="card-date">2026-04-09</span>
+                            <span class="card-author">CyberNewswire</span>
                         </div>
                         <div class="card-hint">Clique para ler o resumo →</div>
                     </div>
                 </div>
                 <div class="card-back">
-                    <div class="card-back-source">GlobeNewswire</div>
-                    <h3 class="card-back-title">Bugcrowd and Carahsoft Partner to Bring FedRAMP-Authorized Proactive Security and Testing Solutions to the Public Sector</h3>
-                    <p class="card-back-resumo">Public Sector Customers Can Preemptively Find and Remediate Vulnerabilities Through Bugcrowd’s Proactive Security Capabilities Public Sector Customers Can Preemptively Find and Remediate Vulnerabiliti...</p>
-                    <a href="https://www.globenewswire.com/news-release/2026/04/08/3270247/0/en/Bugcrowd-and-Carahsoft-Partner-to-Bring-FedRAMP-Authorized-Proactive-Security-and-Testing-Solutions-to-the-Public-Sector.html" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                    <div class="card-back-source">HackRead</div>
+                    <h3 class="card-back-title">Mallory Launches AI-Native Threat Intelligence Platform, Turning Global Threat Data Into Prioritized Action</h3>
+                    <p class="card-back-resumo">Austin, Texas, United States, 9th April 2026, CyberNewswire</p>
+                    <a href="https://hackread.com/mallory-launches-ai-native-threat-intelligence-platform-turning-global-threat-data-into-prioritized-action/" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
                         Ler artigo completo →
                     </a>
                     <div class="card-back-hint">Clique para voltar</div>
@@ -887,24 +1175,24 @@
                 <div class="card-front">
                     <div class="card-num">#17</div>
                     <div class="card-img-wrap">
-                        <img src="https://assets.telecomtv.com/assets/telecomtv/project-glasswing-source-anthropic-22258.jpg?w=1200" alt="Anthropic boasts major AI-enabled cybersecurity breakthrough" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkFudGhyb3BpYyBib2FzdHMgbWFqb3IgQUktZW5hYmxlZCBjPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz55YmVycy4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+VGVsZWNvbVRWPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6d4nK1zoWjzSmbdUmGPSycMwGmzcYM2XRrFH_ueobgO_8j7hwRdv8Ct856gg_k29HqAOw1-HGCtPpxyGDcuQIKY53ATLKb8bQCsJR5b_Jf8VqX1igItYBIe4iQazqSRe5fmFrFXS1fCcKdz6enbI6zYngIztjJ_UI262_ynNGJrd1EB_OUV1ZKYVl04-h/s1700-e365/threatsdays-main.jpg" alt="ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPlRocmVhdHNEYXkgQnVsbGV0aW46IEh5YnJpZCBQMlAgQm90PC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5uZXQsIC4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+SW50ZXJuZXQ8L3RleHQ+CiAgPHJlY3QgeD0nMCcgeT0nMTkwJyB3aWR0aD0nMzgwJyBoZWlnaHQ9JzInIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuMycvPgo8L3N2Zz4='">
                         <div class="card-img-overlay"></div>
                     </div>
                     <div class="card-front-content">
-                        <span class="card-source">TelecomTV</span>
-                        <h2 class="card-title">Anthropic boasts major AI-enabled cybersecurity breakthrough</h2>
+                        <span class="card-source">Internet</span>
+                        <h2 class="card-title">ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories</h2>
                         <div class="card-meta">
-                            <span class="card-date">2026-04-08</span>
-                            <span class="card-author">Ray Le Maistre</span>
+                            <span class="card-date">2026-04-09</span>
+                            <span class="card-author">info@thehackernews.com (The Ha</span>
                         </div>
                         <div class="card-hint">Clique para ler o resumo →</div>
                     </div>
                 </div>
                 <div class="card-back">
-                    <div class="card-back-source">TelecomTV</div>
-                    <h3 class="card-back-title">Anthropic boasts major AI-enabled cybersecurity breakthrough</h3>
-                    <p class="card-back-resumo">AI developer says its Claude Mythos model has capabilities that could ‘reshape cybersecurity’It has formed Project Glasswing with big name partners, such as AW…</p>
-                    <a href="https://www.telecomtv.com/content/security/anthropic-boasts-major-ai-enabled-cybersecurity-breakthrough-55256/" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                    <div class="card-back-source">Internet</div>
+                    <h3 class="card-back-title">ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories</h3>
+                    <p class="card-back-resumo">Thursday. Another week, another batch of things that probably should&#x27;ve been caught sooner but weren&#x27;t. This one&#x27;s got some range — old vulnerabilities getting new life, a few &quot;why...</p>
+                    <a href="https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
                         Ler artigo completo →
                     </a>
                     <div class="card-back-hint">Clique para voltar</div>
@@ -916,24 +1204,24 @@
                 <div class="card-front">
                     <div class="card-num">#18</div>
                     <div class="card-img-wrap">
-                        <img src="https://assets.infosecurity-magazine.com/webpage/og/53d4acc9-748a-4790-8a0a-3abef2c63387.jpg" alt="Anthropic Launches Project Glasswing to Use AI to Find and Fix Critical Software Vulnerabilities" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBjYzY2JyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBjYzY2JyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBjYzY2JyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBjYzY2JyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5JTkZPPC90ZXh0PgogIDxsaW5lIHgxPScyNCcgeTE9JzUyJyB4Mj0nMTAwJyB5Mj0nNTInIHN0cm9rZT0nIzAwY2M2Nicgc3Ryb2tlLXdpZHRoPScxJyBvcGFjaXR5PScwLjQnLz4KICA8dGV4dCB4PScyNCcgeT0nMTAwJyBmb250LWZhbWlseT0nc2Fucy1zZXJpZicgZm9udC1zaXplPScxMycgZm9udC13ZWlnaHQ9JzYwMCcgZmlsbD0nI2M4ZDBlMCcgb3BhY2l0eT0nMC44NSc+CiAgICA8dHNwYW4geD0nMjQnIGR5PScwJz5BbnRocm9waWMgTGF1bmNoZXMgUHJvamVjdCBHbGFzc3dpbjwvdHNwYW4+CiAgICA8dHNwYW4geD0nMjQnIGR5PScxOCc+ZyB0byAuLi48L3RzcGFuPgogIDwvdGV4dD4KICA8dGV4dCB4PScyNCcgeT0nMTc1JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzEwJyBmaWxsPScjMDBjYzY2JyBvcGFjaXR5PScwLjUnPkluZm9zZWN1cml0eSBNYWdhemluZTwvdGV4dD4KICA8cmVjdCB4PScwJyB5PScxOTAnIHdpZHRoPSczODAnIGhlaWdodD0nMicgZmlsbD0nIzAwY2M2Nicgb3BhY2l0eT0nMC4zJy8+Cjwvc3ZnPg=='">
+                        <img src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/appknox.png" alt="Appknox launches KnoxIQ to prioritize real-world exploitability in AI-driven application security" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkFwcGtub3ggbGF1bmNoZXMgS25veElRIHRvIHByaW9yaXRpPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz56ZSByZS4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+U2lsaWNvbkFOR0xFIE5ld3M8L3RleHQ+CiAgPHJlY3QgeD0nMCcgeT0nMTkwJyB3aWR0aD0nMzgwJyBoZWlnaHQ9JzInIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuMycvPgo8L3N2Zz4='">
                         <div class="card-img-overlay"></div>
                     </div>
                     <div class="card-front-content">
-                        <span class="card-source">Infosecurity Magazine</span>
-                        <h2 class="card-title">Anthropic Launches Project Glasswing to Use AI to Find and Fix Critical Software Vulnerabilities</h2>
+                        <span class="card-source">SiliconANGLE News</span>
+                        <h2 class="card-title">Appknox launches KnoxIQ to prioritize real-world exploitability in AI-driven application security</h2>
                         <div class="card-meta">
-                            <span class="card-date">2026-04-08</span>
-                            <span class="card-author">Danny Palmer</span>
+                            <span class="card-date">2026-04-09</span>
+                            <span class="card-author">Duncan Riley</span>
                         </div>
                         <div class="card-hint">Clique para ler o resumo →</div>
                     </div>
                 </div>
                 <div class="card-back">
-                    <div class="card-back-source">Infosecurity Magazine</div>
-                    <h3 class="card-back-title">Anthropic Launches Project Glasswing to Use AI to Find and Fix Critical Software Vulnerabilities</h3>
-                    <p class="card-back-resumo">Anthropic launches Project Glasswing, using its Claude Mythos Preview AI to autonomously identify and fix undiscovered vulnerabilities in critical software</p>
-                    <a href="https://www.infosecurity-magazine.com/news/anthropic-launch-project-glasswing/" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                    <div class="card-back-source">SiliconANGLE News</div>
+                    <h3 class="card-back-title">Appknox launches KnoxIQ to prioritize real-world exploitability in AI-driven application security</h3>
+                    <p class="card-back-resumo">Mobile app security solutions provider Appknox today announced the launch of KnoxIQ, an artificial intelligence-native vulnerability assessment capability that introduces a new prioritization and reme...</p>
+                    <a href="https://siliconangle.com/2026/04/09/appknox-launches-knoxiq-prioritize-real-world-exploitability-ai-driven-application-security/" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
                         Ler artigo completo →
                     </a>
                     <div class="card-back-hint">Clique para voltar</div>
@@ -945,24 +1233,24 @@
                 <div class="card-front">
                     <div class="card-num">#19</div>
                     <div class="card-img-wrap">
-                        <img src="https://cdn.mos.cms.futurecdn.net/jt92kXfBXVXUWwnKBmDJLn-2560-80.jpg" alt="Always-on AI Agents put everything hackers could ever want behind a single attack surface" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkFsd2F5cy1vbiBBSSBBZ2VudHMgcHV0IGV2ZXJ5dGhpbmcgPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5oYWNrZS4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+VGVjaFJhZGFyPC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+'">
+                        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkdQTCBPZG9yaXplcnMgR1BMNzUwPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz48L3RzcGFuPgogIDwvdGV4dD4KICA8dGV4dCB4PScyNCcgeT0nMTc1JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzEwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjUnPkNpc2EuZ292PC90ZXh0PgogIDxyZWN0IHg9JzAnIHk9JzE5MCcgd2lkdGg9JzM4MCcgaGVpZ2h0PScyJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjMnLz4KPC9zdmc+" alt="GPL Odorizers GPL750" loading="lazy" >
                         <div class="card-img-overlay"></div>
                     </div>
                     <div class="card-front-content">
-                        <span class="card-source">TechRadar</span>
-                        <h2 class="card-title">Always-on AI Agents put everything hackers could ever want behind a single attack surface</h2>
+                        <span class="card-source">Cisa.gov</span>
+                        <h2 class="card-title">GPL Odorizers GPL750</h2>
                         <div class="card-meta">
-                            <span class="card-date">2026-04-08</span>
-                            <span class="card-author">Mukund Jha</span>
+                            <span class="card-date">2026-04-09</span>
+                            <span class="card-author">CISA</span>
                         </div>
                         <div class="card-hint">Clique para ler o resumo →</div>
                     </div>
                 </div>
                 <div class="card-back">
-                    <div class="card-back-source">TechRadar</div>
-                    <h3 class="card-back-title">Always-on AI Agents put everything hackers could ever want behind a single attack surface</h3>
-                    <p class="card-back-resumo">As AI agents gain autonomy, security risks escalate without proper safeguards in place.</p>
-                    <a href="https://www.techradar.com/pro/always-on-ai-agents-put-everything-hackers-could-ever-want-behind-a-single-attack-surface" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                    <div class="card-back-source">Cisa.gov</div>
+                    <h3 class="card-back-title">GPL Odorizers GPL750</h3>
+                    <p class="card-back-resumo">View CSAF Summary Successful exploitation of this vulnerability could allow a low privileged remote attacker to manipulate register values, which would result in too much or too little odorant being i...</p>
+                    <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-02" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
                         Ler artigo completo →
                     </a>
                     <div class="card-back-hint">Clique para voltar</div>
@@ -974,24 +1262,24 @@
                 <div class="card-front">
                     <div class="card-num">#20</div>
                     <div class="card-img-wrap">
-                        <img src="https://www.insurancejournal.com/app/uploads/2026/04/laptop-with-russian-english-cyrillic-character-key-bloomberg-scaled.jpg" alt="Russia-Linked Hackers Hijack Routers to Steal Passwords, UK Says" loading="lazy" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPlJ1c3NpYS1MaW5rZWQgSGFja2VycyBIaWphY2sgUm91dGVyPC90c3Bhbj4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzE4Jz5zIHRvIC4uLjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9JzI0JyB5PScxNzUnIGZvbnQtZmFtaWx5PSdtb25vc3BhY2UnIGZvbnQtc2l6ZT0nMTAnIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuNSc+SW5zdXJhbmNlIEpvdXJuYWw8L3RleHQ+CiAgPHJlY3QgeD0nMCcgeT0nMTkwJyB3aWR0aD0nMzgwJyBoZWlnaHQ9JzInIGZpbGw9JyMwMGU1ZmYnIG9wYWNpdHk9JzAuMycvPgo8L3N2Zz4='">
+                        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyB2aWV3Qm94PScwIDAgMzgwIDIwMCc+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9J2cnIHgxPScwJScgeTE9JzAlJyB4Mj0nMTAwJScgeTI9JzEwMCUnPgogICAgICA8c3RvcCBvZmZzZXQ9JzAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMGQxNTIwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nNTAlJyBzdHlsZT0nc3RvcC1jb2xvcjojMWEyYTQwJy8+CiAgICAgIDxzdG9wIG9mZnNldD0nMTAwJScgc3R5bGU9J3N0b3AtY29sb3I6IzBkMWYzMCcvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSdncmlkJyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnPgogICAgICA8cGF0aCBkPSdNIDIwIDAgTCAwIDAgMCAyMCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzAuMycgb3BhY2l0eT0nMC4xNScvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0nMzgwJyBoZWlnaHQ9JzIwMCcgZmlsbD0ndXJsKCNnKScvPgogIDxyZWN0IHdpZHRoPSczODAnIGhlaWdodD0nMjAwJyBmaWxsPSd1cmwoI2dyaWQpJy8+CiAgPGNpcmNsZSBjeD0nMzIwJyBjeT0nNDAnIHI9JzYwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA0Jy8+CiAgPGNpcmNsZSBjeD0nNjAnIGN5PScxNjAnIHI9JzQwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjA2Jy8+CiAgPHRleHQgeD0nMjQnIHk9JzQ0JyBmb250LWZhbWlseT0nbW9ub3NwYWNlJyBmb250LXNpemU9JzExJyBmb250LXdlaWdodD0nNzAwJyBmaWxsPScjMDBlNWZmJyBvcGFjaXR5PScwLjknIGxldHRlci1zcGFjaW5nPScyJz5TRUM8L3RleHQ+CiAgPGxpbmUgeDE9JzI0JyB5MT0nNTInIHgyPScxMDAnIHkyPSc1Micgc3Ryb2tlPScjMDBlNWZmJyBzdHJva2Utd2lkdGg9JzEnIG9wYWNpdHk9JzAuNCcvPgogIDx0ZXh0IHg9JzI0JyB5PScxMDAnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzEzJyBmb250LXdlaWdodD0nNjAwJyBmaWxsPScjYzhkMGUwJyBvcGFjaXR5PScwLjg1Jz4KICAgIDx0c3BhbiB4PScyNCcgZHk9JzAnPkNvbnRlbXBvcmFyeSBDb250cm9scyBCQVNDIDIwVDwvdHNwYW4+CiAgICA8dHNwYW4geD0nMjQnIGR5PScxOCc+PC90c3Bhbj4KICA8L3RleHQ+CiAgPHRleHQgeD0nMjQnIHk9JzE3NScgZm9udC1mYW1pbHk9J21vbm9zcGFjZScgZm9udC1zaXplPScxMCcgZmlsbD0nIzAwZTVmZicgb3BhY2l0eT0nMC41Jz5DaXNhLmdvdjwvdGV4dD4KICA8cmVjdCB4PScwJyB5PScxOTAnIHdpZHRoPSczODAnIGhlaWdodD0nMicgZmlsbD0nIzAwZTVmZicgb3BhY2l0eT0nMC4zJy8+Cjwvc3ZnPg==" alt="Contemporary Controls BASC 20T" loading="lazy" >
                         <div class="card-img-overlay"></div>
                     </div>
                     <div class="card-front-content">
-                        <span class="card-source">Insurance Journal</span>
-                        <h2 class="card-title">Russia-Linked Hackers Hijack Routers to Steal Passwords, UK Says</h2>
+                        <span class="card-source">Cisa.gov</span>
+                        <h2 class="card-title">Contemporary Controls BASC 20T</h2>
                         <div class="card-meta">
-                            <span class="card-date">2026-04-08</span>
-                            <span class="card-author">Admin</span>
+                            <span class="card-date">2026-04-09</span>
+                            <span class="card-author">CISA</span>
                         </div>
                         <div class="card-hint">Clique para ler o resumo →</div>
                     </div>
                 </div>
                 <div class="card-back">
-                    <div class="card-back-source">Insurance Journal</div>
-                    <h3 class="card-back-title">Russia-Linked Hackers Hijack Routers to Steal Passwords, UK Says</h3>
-                    <p class="card-back-resumo">Russian government-linked hackers are compromising popular internet routers to steal passwords for email accounts and other online services, the UK’s National Cyber Security Centre has warned. The hac...</p>
-                    <a href="https://www.insurancejournal.com/news/international/2026/04/08/864967.htm" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
+                    <div class="card-back-source">Cisa.gov</div>
+                    <h3 class="card-back-title">Contemporary Controls BASC 20T</h3>
+                    <p class="card-back-resumo">View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to enumerate the functionality of each component associated with the PLC, reconfigure, rename, delete, perform f...</p>
+                    <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-01" target="_blank" rel="noopener noreferrer" class="card-back-link" onclick="event.stopPropagation()">
                         Ler artigo completo →
                     </a>
                     <div class="card-back-hint">Clique para voltar</div>
@@ -1007,10 +1295,57 @@
 </footer>
 
 <script>
+    // ── ETAPA 4: LOADING SCREEN ──
+    // Progresso pseudo-aleatório que completa em ~1 segundo
+    let pct = 0;
+    const prog = document.getElementById('loader-progress');
+    const cnt  = document.getElementById('loader-count');
+    const iv = setInterval(() => {
+        pct += Math.random() * 15 + 4;
+        if (pct >= 100) {
+            pct = 100;
+            clearInterval(iv);
+            setTimeout(() => document.getElementById('loader').classList.add('done'), 280);
+        }
+        prog.style.width = Math.min(pct, 100) + '%';
+        cnt.textContent  = Math.floor(Math.min(pct, 100)) + '%';
+    }, 55);
+
+    // ── ETAPA 3: CUSTOM CURSOR ──
+    // Ponto segue o mouse com precisão; anel segue com lag linear de 12% por frame
+    const dot  = document.getElementById('cursor-dot');
+    const ring = document.getElementById('cursor-ring');
+    let mx = window.innerWidth / 2, my = window.innerHeight / 2;
+    let rx = mx, ry = my;
+
+    document.addEventListener('mousemove', e => {
+        mx = e.clientX;
+        my = e.clientY;
+        dot.style.left = mx + 'px';
+        dot.style.top  = my + 'px';
+    });
+
+    function animateCursor() {
+        rx += (mx - rx) * 0.12;
+        ry += (my - ry) * 0.12;
+        ring.style.left = rx + 'px';
+        ring.style.top  = ry + 'px';
+        requestAnimationFrame(animateCursor);
+    }
+    animateCursor();
+
+    // Expande o anel ao entrar nos cards
+    document.querySelectorAll('.card-wrapper').forEach(c => {
+        c.addEventListener('mouseenter', () => ring.classList.add('cursor-hover'));
+        c.addEventListener('mouseleave', () => ring.classList.remove('cursor-hover'));
+    });
+
+    // ── FLIP DO CARD (lógica original preservada) ──
     function flipCard(el) {
         el.classList.toggle('flipped');
     }
 
+    // ── DRAG TO SCROLL (lógica original preservada) ──
     const wrap = document.getElementById('trackWrap');
     let isDragging = false;
     let startX = 0;
@@ -1022,7 +1357,6 @@
         moved = false;
         startX = e.pageX;
         scrollLeft = wrap.scrollLeft;
-        wrap.style.cursor = 'grabbing';
     });
 
     wrap.addEventListener('mousemove', (e) => {
@@ -1032,20 +1366,14 @@
         wrap.scrollLeft = scrollLeft - dx;
     });
 
-    wrap.addEventListener('mouseup', () => {
-        isDragging = false;
-        wrap.style.cursor = 'grab';
-    });
-
-    wrap.addEventListener('mouseleave', () => {
-        isDragging = false;
-        wrap.style.cursor = 'grab';
-    });
+    wrap.addEventListener('mouseup', () => { isDragging = false; });
+    wrap.addEventListener('mouseleave', () => { isDragging = false; });
 
     wrap.addEventListener('click', (e) => {
         if (moved) e.stopPropagation();
     }, true);
 
+    // Suporte a touch (lógica original preservada)
     let touchStartX = 0;
     let touchScrollLeft = 0;
 
@@ -1059,15 +1387,45 @@
         wrap.scrollLeft = touchScrollLeft - dx;
     }, { passive: true });
 
-    const cards = document.querySelectorAll('.card-wrapper');
-    cards.forEach((card, i) => {
-        card.style.opacity = '0';
-        card.style.transform = 'translateY(30px)';
-        card.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
-        setTimeout(() => {
-            card.style.opacity = '1';
-            card.style.transform = 'translateY(0)';
-        }, 100 + i * 60);
+    // ── ETAPA 7: SCROLL REVEAL COM IntersectionObserver ──
+    // Substitui o setTimeout stagger: anima somente ao entrar no viewport
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('card-visible');
+                observer.unobserve(entry.target); // anima uma única vez
+            }
+        });
+    }, {
+        threshold: 0.08,
+        rootMargin: '0px 60px'  // margem lateral para scroll horizontal
+    });
+
+    document.querySelectorAll('.card-wrapper').forEach((card, i) => {
+        // Delay escalonado baseado no índice do card
+        card.style.transitionDelay = `${i * 45}ms`;
+        observer.observe(card);
+    });
+
+    // ── ETAPA 8: TILT MAGNÉTICO 3D ──
+    // Card inclina suavemente seguindo o mouse — desativado quando virado
+    document.querySelectorAll('.card-wrapper').forEach(card => {
+        const inner = card.querySelector('.card-inner');
+
+        card.addEventListener('mousemove', e => {
+            if (card.classList.contains('flipped')) return;
+            const r = card.getBoundingClientRect();
+            const x = (e.clientX - r.left  - r.width  / 2) / (r.width  / 2);
+            const y = (e.clientY - r.top   - r.height / 2) / (r.height / 2);
+            inner.style.transform = `rotateX(${-y * 5}deg) rotateY(${x * 5}deg) translateY(-6px)`;
+        });
+
+        card.addEventListener('mouseleave', () => {
+            // Reseta o tilt ao sair — apenas se não estiver virado
+            if (!card.classList.contains('flipped')) {
+                inner.style.transform = '';
+            }
+        });
     });
 </script>
 
