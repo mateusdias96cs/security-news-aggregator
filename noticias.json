@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Iran’s Other Front: The War Over the Internet",
-        "fonte": "War on the Rocks",
-        "autor": "Sara Bazoobandi",
-        "data": "2026-04-10",
-        "url": "https://warontherocks.com/2026/04/irans-other-front-the-war-over-the-internet/",
-        "resumo": "For a long time, the Iranian government has treated free internet access as a privilege that is extended by the state to those willing to carry its message and withheld from everyone else. Around four hours after Israeli and American strikes began, internet t…",
-        "imagem": "https://warontherocks.com/wp-content/uploads/2026/04/Attacks_on_Residential_Areas_in_Tehran_-_April_6_13_Avash-1.jpg?v=1775748804"
+        "titulo": "Anthropic’s Claude Mythos AI fears trigger $2 trillion wipeout in IT stocks; JPMorgan CEO Jamie Dimon warns &#x27;AI will likely worsen...&#x27;",
+        "fonte": "The Times of India",
+        "autor": "Trending Desk",
+        "data": "2026-04-11",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/anthropics-claude-mythos-ai-fears-triggers-2-trillion-wipeout-in-it-stocks-jpmorgan-ceo-jamie-dimon-warns-ai-will-likely-/articleshow/130187154.cms",
+        "resumo": "Anthropic’s powerful new AI model, Claude Mythos Preview, has triggered a $2 trillion selloff in enterprise software stocks and prompted an emergency meeting at the US Treasury with top bank CEOs. The model’s ability to find and exploit software vulnerabiliti…",
+        "imagem": "https://img.etimg.com/thumb/msid-130187260,width-1200,height-630,imgsize-729275,overlay-economictimes/articleshow.jpg"
     },
     {
-        "titulo": "FBI report: Iranian hackers targeting U.S. critical infrastructure",
-        "fonte": "Naturalnews.com",
-        "autor": "Willow Tohi",
-        "data": "2026-04-10",
-        "url": "https://www.naturalnews.com/2026-04-10-iranian-hackers-targeting-u-s-critical-infrastructure.html",
-        "resumo": "A federal advisory reveals Iranian-linked hackers disrupted U.S. oil, gas, and water infrastructure by targeting critical industrial control systems. The cyber campaign, which caused operational and financial damage, is assessed to have escalated in response …",
-        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/04/FBI-Department-of-Justice-Logo-Seal-Building.jpg"
-    },
-    {
-        "titulo": "Anthropic’s Claude Mythos AI Model Too Dangerous",
-        "fonte": "C-sharpcorner.com",
-        "autor": "noreply@c-sharpcorner.com (Mahesh Chand)",
-        "data": "2026-04-10",
-        "url": "https://www.c-sharpcorner.com/news/anthropics-claude-mythos-ai-model-too-dangerous",
-        "resumo": "Anthropic’s latest AI model exposes thousands of vulnerabilities and signals a new era of AI driven cyber threats. Learn what this means for developers and enterprises.",
-        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
-    },
-    {
-        "titulo": "What to Know About CyberAv3ngers: The IRGC-Linked Group Targeting Critical Infrastructure",
-        "fonte": "Tenable.com",
-        "autor": "Research Special Operations",
-        "data": "2026-04-09",
-        "url": "https://www.tenable.com/blog/what-to-know-about-cyberav3ngers-the-irgc-linked-group-targeting-critical-infrastructure",
-        "resumo": "An Iran-affiliated threat group has evolved from defacing water utility displays to deploying custom ICS malware and exploiting Rockwell Automation PLCs across multiple U.S. critical infrastructure sectors.Key takeaways: CyberAv3ngers is a state-dire…",
-        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/CyberAv3ngers-targeting-critical-infrastructure.jpg?itok=162Gi_-B"
-    },
-    {
-        "titulo": "OpenAI To Limit New Model Release On Cybersecurity Fears",
-        "fonte": "Slashdot.org",
-        "autor": "BeauHD",
-        "data": "2026-04-09",
-        "url": "https://it.slashdot.org/story/26/04/09/194221/openai-to-limit-new-model-release-on-cybersecurity-fears",
-        "resumo": "OpenAI is reportedly preparing a new cybersecurity product for a small group of partners, out of concern that a broader rollout could wreak havoc if it were released more widely. If that move sounds familiar, it&#x27;s because Anthropic took a similar limited-rele…",
-        "imagem": "https://a.fsdn.com/sd/topics/security_64.png"
-    },
-    {
-        "titulo": "Malicious PDF reveals active Adobe Reader zero-day in the wild",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-04-09",
-        "url": "https://securityaffairs.com/190558/hacking/malicious-pdf-reveals-active-adobe-reader-zero-day-in-the-wild.html",
-        "resumo": "Hackers used an Adobe Reader zero-day for months. Researcher Haifei Li found a malicious PDF and asks the community to help analyze it. Hackers used an Adobe Reader zero-day for months to deliver a sophisticated PDF exploit. Cybersecurity researcher Haifei Li…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/adobe-patch.jpg"
-    },
-    {
-        "titulo": "Anthropic’s Mythos Preview escaped its sandbox #tech",
+        "titulo": "How did Anthropic’s Mythos raise cybersecurity concerns? #world",
         "fonte": "Alltoc.com",
         "autor": "AllToc",
-        "data": "2026-04-09",
-        "url": "https://alltoc.com/tech/anthropics-mythos-preview-escaped-its-sandbox",
-        "resumo": "What happened Anthropic introduced Claude Mythos Preview as a cybersecurity oriented AI model intended to help find software vulnerabilities. But multiple reports describe a failure in containment during testing: the model was able to escape a sandbox after b…",
+        "data": "2026-04-11",
+        "url": "https://alltoc.com/world/how-did-anthropics-mythos-raise-cybersecurity-concerns",
+        "resumo": "Anthropic withheld its Mythos model amid cyber risk worries Anthropic’s new AI model, Mythos , became a focus for cybersecurity officials and financial sector leaders after the company said it was withholding the model from broad release due to concerns about…",
         "imagem": "https://alltoc.com/cdn/1046/og.png"
     },
     {
-        "titulo": "Mythos found a 27-year OpenBSD TCP bug #tech",
-        "fonte": "Alltoc.com",
-        "autor": "AllToc",
-        "data": "2026-04-09",
-        "url": "https://alltoc.com/tech/mythos-found-a-27-year-openbsd-tcp-bug",
-        "resumo": "What happened A new report describes a cybersecurity system that autonomously exploited vulnerabilities that had survived decades of scrutiny. The most notable example involves a 27 year old bug inside OpenBSD’s TCP stack that persisted through the normal cyc…",
-        "imagem": "https://alltoc.com/cdn/1046/og.png"
+        "titulo": "OpenAI MYTHOS, Gemini Agents &amp; Anthropic’s New Strategy Explained",
+        "fonte": "Geeky Gadgets",
+        "autor": "Julian Horsey",
+        "data": "2026-04-11",
+        "url": "https://www.geeky-gadgets.com/openai-mythos-model/",
+        "resumo": "OpenAI’s latest advancements, as highlighted by Universe of AI, showcase a growing emphasis on security and integrated functionality in artificial intelligence. Among these developments is the MYTHOS model, a restricted AI system designed exclusively for cybe…",
+        "imagem": "https://www.geeky-gadgets.com/wp-content/uploads/2026/04/google-gemini-agent-mode-schedules-skills-tab.jpg"
     },
     {
-        "titulo": "Claude Mythos Is Everyone’s Problem",
-        "fonte": "The Atlantic",
-        "autor": "Matteo Wong",
-        "data": "2026-04-09",
-        "url": "https://www.theatlantic.com/technology/2026/04/claude-mythos-hacking/686746/",
-        "resumo": "What happens when AI can hack everything?",
-        "imagem": "https://cdn.theatlantic.com/thumbor/noVu2OT-b_bXsB1WLLkm8i6Q2zI=/0x32:1498x812/1200x625/media/img/mt/2026/04/2026_03_07_Ai_mpg/original.gif"
+        "titulo": "Mythos AI alarm bells: Fair warning or marketing hype?",
+        "fonte": "The Times of India",
+        "autor": "AFP",
+        "data": "2026-04-11",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mythos-ai-alarm-bells-fair-warning-or-marketing-hype/articleshow/130184691.cms",
+        "resumo": "Anthropic postponing the release of its new AI model Claude Mythos, said to be so skilled at coding it could be a wicked weapon for hackers, has encountered a mix of alarm and skepticism. Meyers saw embedding a tiny AI model directly into malicious code infec…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-24646,resizemode-75,msid-130184691/tech/artificial-intelligence/mythos-ai-alarm-bells-fair-warning-or-marketing-hype.jpg"
     },
     {
-        "titulo": "Anthropic says its own new model is too dangerous for the public — but not these Big Tech companies",
-        "fonte": "TheBlaze",
-        "autor": "Andrew Chapados",
-        "data": "2026-04-09",
-        "url": "https://www.theblaze.com/news/anthropic-claude-is-too-dangerous",
-        "resumo": "Anthropic is sending out a warning that its artificial intelligence model is sophisticated enough to undo decades of research.The company operates Claude, the AI chatbot that has been ripped off and turned into a free, public model, and is hoping to get toget…",
-        "imagem": "https://www.theblaze.com/media-library/anthropic-says-its-own-new-model-is-too-dangerous-for-the-public-but-not-these-big-tech-companies.png?id=65493422&width=1200&height=600&coordinates=0%2C29%2C0%2C30"
+        "titulo": "Ranjan Roy: AI marketing hype often overshadows substance, concerns about AI exploiting software vulnerabilities, and the significance of scaling laws in model performance | Big Technology",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-04-11",
+        "url": "https://cryptobriefing.com/ranjan-roy-ai-marketing-hype-often-overshadows-substance-concerns-about-ai-exploiting-software-vulnerabilities-and-the-significance-of-scaling-laws-in-model-performance-big-technology/",
+        "resumo": "AI model hype often overshadows real security concerns, urging skepticism in evaluating technological breakthroughs. The post Ranjan Roy: AI marketing hype often overshadows substance, concerns about AI exploiting software vulnerabilities, and the significanc…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/03/03013851/podcast-cover-big-technology-800x420.jpg"
     },
     {
-        "titulo": "ZEVENET: How to Choose a Cybersecurity Provider in 2026: Why Most Can’t Be Trusted",
-        "fonte": "Skudonet.com",
-        "autor": "",
-        "data": "2026-04-09",
-        "url": "https://www.skudonet.com/blog/how-to-choose-cybersecurity-provider/",
-        "resumo": "Cybersecurity is no longer just a technical problem. It’s a trust problem. Only 5% of IT decision-makers say that both they and their organization fully trust their cybersecurity providers, according to the Cybersecurity Trust Reality 2026 report by Sophos, b…",
-        "imagem": "https://www.skudonet.com/wp-content/uploads/2026/04/Featured-Blog-Post-1-1.jpg"
+        "titulo": "Brad Gerstner: Detachment from desires fosters personal achievement, Anthropic’s Mythos reveals critical vulnerabilities, and proactive AI measures are essential for cybersecurity | All-In Podcast",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-04-11",
+        "url": "https://cryptobriefing.com/brad-gerstner-detachment-from-desires-fosters-personal-achievement-anthropics-mythos-reveals-critical-vulnerabilities-and-proactive-ai-measures-are-essential-for-cybersecurity-all-in-podcast/",
+        "resumo": "Anthropic&#x27;s AI model exposes critical software vulnerabilities, urging companies to act before AI capabilities become mainstream. The post Brad Gerstner: Detachment from desires fosters personal achievement, Anthropic’s Mythos reveals critical vulnerabilities…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/01/23154746/all-in-800x421.jpg"
     },
     {
-        "titulo": "Microsoft locks out VeraCrypt and WireGuard devs, blames verification process",
-        "fonte": "Theregister.com",
-        "autor": "Connor Jones",
-        "data": "2026-04-09",
-        "url": "https://www.theregister.com/2026/04/09/microsoft_dev_account_deactivations/",
-        "resumo": "No emails, no warnings, no humans – just bots, catch-22s, and a 60-day appeals queue Microsoft says that it will work on how it communicates with developers after two leading open source figures were suddenly locked out of their accounts, leaving them unable …",
-        "imagem": "https://regmedia.co.uk/2022/03/09/microsoft.jpg"
+        "titulo": "Defend Network – Free AI-powered daily threat briefings for cybersecurity teams",
+        "fonte": "Betalist.com",
+        "autor": "BetaList",
+        "data": "2026-04-10",
+        "url": "https://betalist.com/startups/defend-network",
+        "resumo": "Free AI-powered daily threat briefings for cybersecurity teams",
+        "imagem": "https://resize.imagekit.co/TYrKoY-WF64dWohh0uCZHiCHIjMavSOL9yvZRx3b64k/plain/s3://betalist-production/8ncp3twx2itedbumsp7jij9wghb5"
     },
     {
-        "titulo": "Claude helps researcher dig up decade-old Apache ActiveMQ RCE vulnerability (CVE-2026-34197)",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-04-09",
-        "url": "https://www.helpnetsecurity.com/2026/04/09/apache-activemq-rce-vulnerability-cve-2026-34197-claude/",
-        "resumo": "In the latest demonstration of how AI assistants can help with bug hunting, Horizon3.ai researcher Naveen Sunkavally used Claude to unearth CVE-2026-34197, a remote code execution vulnerability in Apache ActiveMQ that’s been introduced in the codebase 13 year…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/11/21122152/apache_activemq.jpg"
+        "titulo": "Project Glasswing: The Ten Consequences Nobody’s Writing About Yet",
+        "fonte": "Forrester.com",
+        "autor": "Jeff Pollard",
+        "data": "2026-04-10",
+        "url": "https://www.forrester.com/?p=294578",
+        "resumo": "Anthropic’s Project Glasswing and Claude Mythos Preview prove autonomous zero-day discovery now operates at scale. This post outlines the immediate, medium-term, and structural consequences for security teams, vendors, insurers, regulators, and careers.",
+        "imagem": "https://go.forrester.com/wp-content/uploads/2026/04/JP-WP1.jpg"
     },
     {
-        "titulo": "Mallory Launches AI-Native Threat Intelligence Platform, Turning Global Threat Data Into Prioritized Action",
-        "fonte": "Next Big Future",
-        "autor": "cybernewswire",
-        "data": "2026-04-09",
-        "url": "https://www.nextbigfuture.com/2026/04/mallory-launches-ai-native-threat-intelligence-platform-turning-global-threat-data-into-prioritized-action.html",
-        "resumo": "Austin, Texas, United States, 9th April 2026, CyberNewswire",
-        "imagem": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/04/ai-native-threat-intelligence-platform_1775675721DIuoj4t7BR.jpg"
+        "titulo": "Project Glasswing: The Ten Consequences Nobody’s Writing About Yet",
+        "fonte": "Forrester.com",
+        "autor": "Jeff Pollard",
+        "data": "2026-04-10",
+        "url": "https://www.forrester.com/blogs/project-glasswing-the-ten-consequences-nobodys-writing-about-yet/",
+        "resumo": "Anthropic’s Project Glasswing and Claude Mythos Preview prove autonomous zero-day discovery now operates at scale. This post outlines the immediate, medium-term, and structural consequences for security teams, vendors, insurers, regulators, and careers.",
+        "imagem": "https://go.forrester.com/wp-content/uploads/2026/04/JP-WP1.jpg"
     },
     {
-        "titulo": "Mallory brings contextual threat intelligence to security operations",
-        "fonte": "Help Net Security",
-        "autor": "Industry News",
-        "data": "2026-04-09",
-        "url": "https://www.helpnetsecurity.com/2026/04/09/mallory-ai-native-threat-intelligence-platform/",
-        "resumo": "Mallory is launching an AI-native threat intelligence platform, purpose-built to answer the questions CISOs and their teams are asking every day: What are the real threat vectors for our organization? What’s actually exploitable in our environment right now? …",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp"
+        "titulo": "Project Glasswing: The 10 Consequences Nobody’s Writing About Yet",
+        "fonte": "Forrester.com",
+        "autor": "Jeff Pollard",
+        "data": "2026-04-10",
+        "url": "https://www.forrester.com/blogs/project-glasswing-the-10-consequences-nobodys-writing-about-yet/",
+        "resumo": "Anthropic’s Project Glasswing and Claude Mythos Preview prove that autonomous zero-day discovery now operates at scale. This post outlines the immediate, medium-term, and structural consequences for security teams, vendors, insurers, regulators, and careers.",
+        "imagem": "https://go.forrester.com/wp-content/uploads/2026/04/Project-Glasswing-Blog.png"
     },
     {
-        "titulo": "Mallory Launches AI-Native Threat Intelligence Platform, Turning Global Threat Data Into Prioritized Action",
-        "fonte": "HackRead",
-        "autor": "CyberNewswire",
-        "data": "2026-04-09",
-        "url": "https://hackread.com/mallory-launches-ai-native-threat-intelligence-platform-turning-global-threat-data-into-prioritized-action/",
-        "resumo": "Austin, Texas, United States, 9th April 2026, CyberNewswire",
-        "imagem": "https://hackread.com/wp-content/uploads/2026/04/ai-native-threat-intelligence-platform_1775675721DIuoj4t7BR.jpg"
+        "titulo": "Data is a strategic asset and a strategic vulnerability",
+        "fonte": "Nextgov",
+        "autor": "Riccardo Di Blasio",
+        "data": "2026-04-10",
+        "url": "https://www.nextgov.com/ideas/2026/04/data-strategic-asset-and-strategic-vulnerability/412766/",
+        "resumo": "COMMENTARY | Treating data a strategic asset and defending it accordingly isn&#x27;t simply a matter of technology policy; it&#x27;s a fundamental component of national resilience.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/04/10/GettyImages_2233776792_1/open-graph.jpg"
     },
     {
-        "titulo": "ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-04-09",
-        "url": "https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html",
-        "resumo": "Thursday. Another week, another batch of things that probably should&#x27;ve been caught sooner but weren&#x27;t. This one&#x27;s got some range — old vulnerabilities getting new life, a few &quot;why was that even possible&quot; moments, attackers leaning on platforms and tools you&#x27;…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6d4nK1zoWjzSmbdUmGPSycMwGmzcYM2XRrFH_ueobgO_8j7hwRdv8Ct856gg_k29HqAOw1-HGCtPpxyGDcuQIKY53ATLKb8bQCsJR5b_Jf8VqX1igItYBIe4iQazqSRe5fmFrFXS1fCcKdz6enbI6zYngIztjJ_UI262_ynNGJrd1EB_OUV1ZKYVl04-h/s1700-e365/threatsdays-main.jpg"
+        "titulo": "Kain Warwick: AI will initially increase hacks in DeFi, Uniswap’s security is overestimated, and the trade-offs of blockchain immutability | Unchained",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-04-10",
+        "url": "https://cryptobriefing.com/kain-warwick-ai-will-initially-increase-hacks-in-defi-uniswaps-security-is-overestimated-and-the-trade-offs-of-blockchain-immutability-unchained/",
+        "resumo": "AI advancements may initially increase DeFi hacks, but blockchain&#x27;s immutability poses long-term security challenges. The post Kain Warwick: AI will initially increase hacks in DeFi, Uniswap’s security is overestimated, and the trade-offs of blockchain immuta…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2025/12/24141205/unchained-podcast-featured-800x420.png"
     },
     {
-        "titulo": "Appknox launches KnoxIQ to prioritize real-world exploitability in AI-driven application security",
+        "titulo": "The FCC says foreign routers are a security risk, but still allows firmware updates to the ones you already own",
+        "fonte": "XDA Developers",
+        "autor": "Adam Conway",
+        "data": "2026-04-10",
+        "url": "https://www.xda-developers.com/fcc-says-foreign-routers-security-risk-allows-firmware-updates/",
+        "resumo": "The foreign router ban is filled with contradictions.",
+        "imagem": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/01/asus-zenwifi-gaming-router-window-1.jpg?w=1600&h=900&fit=crop"
+    },
+    {
+        "titulo": "The AI that found 27-year-old vulnerabilities no human ever caught before just forced an emergency meeting with every major Wall Street CEO",
+        "fonte": "Fortune",
+        "autor": "Jake Angelo",
+        "data": "2026-04-10",
+        "url": "https://fortune.com/2026/04/10/bessent-powell-anthropic-mythos-ai-model-cyber-risk/",
+        "resumo": "Treasury Secretary Scott Bessent and Fed chair Jerome Powell reportedly convened Wall Street leaders in an emergency meeting addressing Anthropic’s latest model release.",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2266397512-e1775840951498.jpg?resize=1200,600"
+    },
+    {
+        "titulo": "News brief: Iranian cyberattacks target U.S. water, energy",
+        "fonte": "Techtarget.com",
+        "autor": "Staff report",
+        "data": "2026-04-10",
+        "url": "https://www.techtarget.com/searchsecurity/news/366641657/News-brief-Iranian-cyberattacks-target-US-water-energy",
+        "resumo": "Check out the latest security news from TechTarget SearchSecurity&#x27;s sister sites, Cybersecurity Dive and Dark Reading.",
+        "imagem": "https://www.techtarget.com/rms/onlineimages/iot_g956109394.jpg"
+    },
+    {
+        "titulo": "US push to counter hackers draws industry deeper into offensive cyber debate",
+        "fonte": "Nextgov",
+        "autor": "David DiMolfetta",
+        "data": "2026-04-10",
+        "url": "https://www.nextgov.com/cybersecurity/2026/04/us-push-counter-hackers-draws-industry-deeper-offensive-cyber-debate/412770/",
+        "resumo": "The White House is expanding the market for offensive cyber capabilities — and drawing more of the private sector into that ecosystem — even as policy boundaries around their use remain unclear.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/04/10/041026hackNG/open-graph.jpg"
+    },
+    {
+        "titulo": "Powell, Bessent Warn Banks About Security Risks From Anthropic&#x27;s Mythos AI: Bloomberg",
+        "fonte": "Decrypt",
+        "autor": "Jason Nelson",
+        "data": "2026-04-10",
+        "url": "https://decrypt.co/363927/powell-bessent-warn-banks-security-anthropic-mythos-ai",
+        "resumo": "Treasury and Federal Reserve officials reportedly alerted banks to cybersecurity risks tied to Anthropic’s advanced new Mythos AI model.",
+        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/J-Powell-2-gID_7.png"
+    },
+    {
+        "titulo": "Anthropic tries to keep its new AI model away from cyberattackers as enterprises look to tame AI chaos",
         "fonte": "SiliconANGLE News",
-        "autor": "Duncan Riley",
-        "data": "2026-04-09",
-        "url": "https://siliconangle.com/2026/04/09/appknox-launches-knoxiq-prioritize-real-world-exploitability-ai-driven-application-security/",
-        "resumo": "Mobile app security solutions provider Appknox today announced the launch of KnoxIQ, an artificial intelligence-native vulnerability assessment capability that introduces a new prioritization and remediation layer that sits between detection and development. …",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/appknox.png"
+        "autor": "Robert Hof",
+        "data": "2026-04-10",
+        "url": "https://siliconangle.com/2026/04/10/anthropic-tries-keep-new-ai-model-away-cyberattackers-enterprises-look-tame-ai-chaos/",
+        "resumo": "Sure, at some point quantum computing may break data encryption — but well before that, artificial intelligence models already seem likely to wreak havoc. That became starkly apparent this week when Anthropic announced a new model called Claude Mythos that it…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Claude-Mythos-Fortress-3.png"
     },
     {
-        "titulo": "GPL Odorizers GPL750",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-04-09",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-02",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow a low privileged remote attacker to manipulate register values, which would result in too much or too little odorant being injected into a gas line. The following versions of GPL Odor…",
-        "imagem": ""
+        "titulo": "Anthropic is limiting access to its latest AI model, Mythos. The real risks may already be out there",
+        "fonte": "Fortune",
+        "autor": "Beatrice Nolan",
+        "data": "2026-04-10",
+        "url": "https://fortune.com/2026/04/10/anthropic-mythos-ai-driven-cybersecurity-risks-already-here/",
+        "resumo": "Anthropic is limiting access to its latest model, but similar capabilities may already be within reach.",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2198823007-e1775833075255.jpg?resize=1200,600"
     },
     {
-        "titulo": "Contemporary Controls BASC 20T",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-04-09",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-01",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to enumerate the functionality of each component associated with the PLC, reconfigure, rename, delete, perform file transfers, and make remote procedure calls. The followi…",
-        "imagem": ""
+        "titulo": "Anthropic’s Mythos is changing everything we knew about AI – Alarm over cyberattacks, what banks and Wall Street fear",
+        "fonte": "Protothema.gr",
+        "autor": "admin",
+        "data": "2026-04-10",
+        "url": "https://en.protothema.gr/2026/04/10/anthropics-mythos-is-changing-everything-we-knew-about-ai-alarm-over-cyberattacks-what-banks-and-wall-street-fear/",
+        "resumo": "The software managed to identify vulnerabilities that no one had found for decades in systems known for their security – An unprecedented risk of cyberattacks if it falls into the wrong hands The post Anthropic’s Mythos is changing everything we knew about AI…",
+        "imagem": "https://en.protothema.gr/wp-content/uploads/2026/04/anthropic-ipa-mak1-1.jpg-1.jpg"
     }
 ]
