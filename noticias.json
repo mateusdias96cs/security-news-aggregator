@@ -1,5 +1,50 @@
 [
     {
+        "titulo": "Claude Mythos and Project Glasswing: why an AI superhacker has the tech world on alert",
+        "fonte": "The Conversation Africa",
+        "autor": "Stan Karanasios, Professor in Information Systems, The University of Queensland, Saeed Akhlaghpour,",
+        "data": "2026-04-13",
+        "url": "https://theconversation.com/claude-mythos-and-project-glasswing-why-an-ai-superhacker-has-the-tech-world-on-alert-280374",
+        "resumo": "A new AI model could automate the process of searching for cybersecurity bugs and flaws – for better or worse.",
+        "imagem": "https://images.theconversation.com/files/729483/original/file-20260413-57-qwrrza.jpg?ixlib=rb-4.1.0&rect=0%2C287%2C3000%2C1500&q=45&auto=format&w=1356&h=668&fit=crop"
+    },
+    {
+        "titulo": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-04-13",
+        "url": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html",
+        "resumo": "OpenAI revealed a GitHub Actions workflow used to sign its macOS apps, which downloaded the malicious Axios library on March 31, but noted that no user data or internal system was compromised. &quot;Out of an abundance of caution, we are taking steps to protect th…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE5gb0KURzHAgdXMKzxbNFW1AJ8G2ezWXrHrLReEmbX6BKaG3-tIjiDVcjk-4nIZ3Kg2_564qiWXVVGcERIi4vaUvjqG-BuENXb7i6P3M2rdOHz-S9DOcKIHZ-pa1odUyUdTI-lLify_9CRXYcZu3hyY2LXeTMp1wMRr7mnu7yQdIIjGrFXCAecG4-XVpS/s1700-e365/openai.jpg"
+    },
+    {
+        "titulo": "Anthropic Releases Claude Mythos Preview with Cybersecurity Capabilities but Withholds Public Access",
+        "fonte": "InfoQ.com",
+        "autor": "Daniel Curtis",
+        "data": "2026-04-13",
+        "url": "https://www.infoq.com/news/2026/04/anthropic-claude-mythos/",
+        "resumo": "Anthropic has introduced Claude Mythos Preview, its most advanced AI model, improving significantly in reasoning, coding, and cybersecurity. Unlike previous releases, it will not be publicly available. Access is limited to a consortium of tech companies throu…",
+        "imagem": "https://res.infoq.com/news/2026/04/anthropic-claude-mythos/en/headerimage/generatedHeaderImage-1775828239509.jpg"
+    },
+    {
+        "titulo": "Pak used Chinese CCTV network to access live Indian strategic asset info for potential Israel-like strikes",
+        "fonte": "BusinessLine",
+        "autor": "Dalip Singh",
+        "data": "2026-04-12",
+        "url": "https://www.thehindubusinessline.com/news/national/pak-used-chinese-cctv-network-to-access-live-indian-strategic-asset-info-for-potential-israel-like-strikes/article70854019.ece",
+        "resumo": "Pakistan&#x27;s ISI reportedly hacked Chinese CCTV systems to monitor Indian military assets, raising national security concerns.",
+        "imagem": "https://bl-i.thgim.com/public/news/u2l85s/article70854367.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-12%20at%2019.27.36.jpeg"
+    },
+    {
+        "titulo": "How does Anthropic Mythos increase cyber risk? #tech",
+        "fonte": "Alltoc.com",
+        "autor": "AllToc",
+        "data": "2026-04-12",
+        "url": "https://alltoc.com/tech/how-does-anthropic-mythos-increase-cyber-risk",
+        "resumo": "Anthropic’s Mythos sparks a new cybersecurity discussion Anthropic’s Claude Mythos is being positioned as a major leap in capability, but the security angle around it is the focus of recent reporting. Anthropic limited the model’s release to a smaller set of …",
+        "imagem": "https://alltoc.com/cdn/1046/og.png"
+    },
+    {
         "titulo": "Security Affairs newsletter Round 572 by Pierluigi Paganini – INTERNATIONAL EDITION",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
@@ -133,50 +178,5 @@
         "url": "https://economictimes.indiatimes.com/news/new-updates/anthropics-claude-mythos-ai-fears-triggers-2-trillion-wipeout-in-it-stocks-jpmorgan-ceo-jamie-dimon-warns-ai-will-likely-/articleshow/130187154.cms",
         "resumo": "Anthropic’s powerful new AI model, Claude Mythos Preview, has triggered a $2 trillion selloff in enterprise software stocks and prompted an emergency meeting at the US Treasury with top bank CEOs. The model’s ability to find and exploit software vulnerabiliti…",
         "imagem": "https://img.etimg.com/thumb/msid-130187260,width-1200,height-630,imgsize-729275,overlay-economictimes/articleshow.jpg"
-    },
-    {
-        "titulo": "How did Anthropic’s Mythos raise cybersecurity concerns? #world",
-        "fonte": "Alltoc.com",
-        "autor": "AllToc",
-        "data": "2026-04-11",
-        "url": "https://alltoc.com/world/how-did-anthropics-mythos-raise-cybersecurity-concerns",
-        "resumo": "Anthropic withheld its Mythos model amid cyber risk worries Anthropic’s new AI model, Mythos , became a focus for cybersecurity officials and financial sector leaders after the company said it was withholding the model from broad release due to concerns about…",
-        "imagem": "https://alltoc.com/cdn/1046/og.png"
-    },
-    {
-        "titulo": "OpenAI MYTHOS, Gemini Agents &amp; Anthropic’s New Strategy Explained",
-        "fonte": "Geeky Gadgets",
-        "autor": "Julian Horsey",
-        "data": "2026-04-11",
-        "url": "https://www.geeky-gadgets.com/openai-mythos-model/",
-        "resumo": "OpenAI’s latest advancements, as highlighted by Universe of AI, showcase a growing emphasis on security and integrated functionality in artificial intelligence. Among these developments is the MYTHOS model, a restricted AI system designed exclusively for cybe…",
-        "imagem": "https://www.geeky-gadgets.com/wp-content/uploads/2026/04/google-gemini-agent-mode-schedules-skills-tab.jpg"
-    },
-    {
-        "titulo": "Mythos AI alarm bells: Fair warning or marketing hype?",
-        "fonte": "The Times of India",
-        "autor": "AFP",
-        "data": "2026-04-11",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mythos-ai-alarm-bells-fair-warning-or-marketing-hype/articleshow/130184691.cms",
-        "resumo": "Anthropic postponing the release of its new AI model Claude Mythos, said to be so skilled at coding it could be a wicked weapon for hackers, has encountered a mix of alarm and skepticism. Meyers saw embedding a tiny AI model directly into malicious code infec…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-24646,resizemode-75,msid-130184691/tech/artificial-intelligence/mythos-ai-alarm-bells-fair-warning-or-marketing-hype.jpg"
-    },
-    {
-        "titulo": "Ranjan Roy: AI marketing hype often overshadows substance, concerns about AI exploiting software vulnerabilities, and the significance of scaling laws in model performance | Big Technology",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-04-11",
-        "url": "https://cryptobriefing.com/ranjan-roy-ai-marketing-hype-often-overshadows-substance-concerns-about-ai-exploiting-software-vulnerabilities-and-the-significance-of-scaling-laws-in-model-performance-big-technology/",
-        "resumo": "AI model hype often overshadows real security concerns, urging skepticism in evaluating technological breakthroughs. The post Ranjan Roy: AI marketing hype often overshadows substance, concerns about AI exploiting software vulnerabilities, and the significanc…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/03/03013851/podcast-cover-big-technology-800x420.jpg"
-    },
-    {
-        "titulo": "Brad Gerstner: Detachment from desires fosters personal achievement, Anthropic’s Mythos reveals critical vulnerabilities, and proactive AI measures are essential for cybersecurity | All-In Podcast",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-04-11",
-        "url": "https://cryptobriefing.com/brad-gerstner-detachment-from-desires-fosters-personal-achievement-anthropics-mythos-reveals-critical-vulnerabilities-and-proactive-ai-measures-are-essential-for-cybersecurity-all-in-podcast/",
-        "resumo": "Anthropic&#x27;s AI model exposes critical software vulnerabilities, urging companies to act before AI capabilities become mainstream. The post Brad Gerstner: Detachment from desires fosters personal achievement, Anthropic’s Mythos reveals critical vulnerabilities…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/01/23154746/all-in-800x421.jpg"
     }
 ]
