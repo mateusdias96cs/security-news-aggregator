@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Claude Mythos and Project Glasswing: why an AI superhacker has the tech world on alert",
-        "fonte": "The Conversation Africa",
-        "autor": "Stan Karanasios, Professor in Information Systems, The University of Queensland, Saeed Akhlaghpour,",
-        "data": "2026-04-13",
-        "url": "https://theconversation.com/claude-mythos-and-project-glasswing-why-an-ai-superhacker-has-the-tech-world-on-alert-280374",
-        "resumo": "A new AI model could automate the process of searching for cybersecurity bugs and flaws – for better or worse.",
-        "imagem": "https://images.theconversation.com/files/729483/original/file-20260413-57-qwrrza.jpg?ixlib=rb-4.1.0&rect=0%2C287%2C3000%2C1500&q=45&auto=format&w=1356&h=668&fit=crop"
-    },
-    {
-        "titulo": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-04-13",
-        "url": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html",
-        "resumo": "OpenAI revealed a GitHub Actions workflow used to sign its macOS apps, which downloaded the malicious Axios library on March 31, but noted that no user data or internal system was compromised. &quot;Out of an abundance of caution, we are taking steps to protect th…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE5gb0KURzHAgdXMKzxbNFW1AJ8G2ezWXrHrLReEmbX6BKaG3-tIjiDVcjk-4nIZ3Kg2_564qiWXVVGcERIi4vaUvjqG-BuENXb7i6P3M2rdOHz-S9DOcKIHZ-pa1odUyUdTI-lLify_9CRXYcZu3hyY2LXeTMp1wMRr7mnu7yQdIIjGrFXCAecG4-XVpS/s1700-e365/openai.jpg"
-    },
-    {
-        "titulo": "Anthropic Releases Claude Mythos Preview with Cybersecurity Capabilities but Withholds Public Access",
-        "fonte": "InfoQ.com",
-        "autor": "Daniel Curtis",
-        "data": "2026-04-13",
-        "url": "https://www.infoq.com/news/2026/04/anthropic-claude-mythos/",
-        "resumo": "Anthropic has introduced Claude Mythos Preview, its most advanced AI model, improving significantly in reasoning, coding, and cybersecurity. Unlike previous releases, it will not be publicly available. Access is limited to a consortium of tech companies throu…",
-        "imagem": "https://res.infoq.com/news/2026/04/anthropic-claude-mythos/en/headerimage/generatedHeaderImage-1775828239509.jpg"
-    },
-    {
-        "titulo": "Pak used Chinese CCTV network to access live Indian strategic asset info for potential Israel-like strikes",
-        "fonte": "BusinessLine",
-        "autor": "Dalip Singh",
-        "data": "2026-04-12",
-        "url": "https://www.thehindubusinessline.com/news/national/pak-used-chinese-cctv-network-to-access-live-indian-strategic-asset-info-for-potential-israel-like-strikes/article70854019.ece",
-        "resumo": "Pakistan&#x27;s ISI reportedly hacked Chinese CCTV systems to monitor Indian military assets, raising national security concerns.",
-        "imagem": "https://bl-i.thgim.com/public/news/u2l85s/article70854367.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-12%20at%2019.27.36.jpeg"
-    },
-    {
-        "titulo": "How does Anthropic Mythos increase cyber risk? #tech",
-        "fonte": "Alltoc.com",
-        "autor": "AllToc",
-        "data": "2026-04-12",
-        "url": "https://alltoc.com/tech/how-does-anthropic-mythos-increase-cyber-risk",
-        "resumo": "Anthropic’s Mythos sparks a new cybersecurity discussion Anthropic’s Claude Mythos is being positioned as a major leap in capability, but the security angle around it is the focus of recent reporting. Anthropic limited the model’s release to a smaller set of …",
-        "imagem": "https://alltoc.com/cdn/1046/og.png"
-    },
-    {
-        "titulo": "Security Affairs newsletter Round 572 by Pierluigi Paganini – INTERNATIONAL EDITION",
+        "titulo": "Attackers target unpatched ShowDoc servers via CVE-2025-0520",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
-        "data": "2026-04-12",
-        "url": "https://securityaffairs.com/190662/security/security-affairs-newsletter-round-572-by-pierluigi-paganini-international-edition.html",
-        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Censys f…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
+        "data": "2026-04-14",
+        "url": "https://securityaffairs.com/190790/uncategorized/attackers-target-unpatched-showdoc-servers-via-cve-2025-0520.html",
+        "resumo": "A critical RCE flaw, tracked as CVE-2025-0520, in ShowDoc is being actively exploited, putting unpatched servers at serious risk. A critical remote code execution flaw, tracked as CVE-2025-0520 (CVSS score of 9.4), affecting ShowDoc is under active exploitati…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2014/05/russia-and-ukraine.jpg"
     },
     {
-        "titulo": "Week in review: Windows zero-day exploit leaked, Patch Tuesday forecast",
-        "fonte": "Help Net Security",
-        "autor": "Help Net Security",
-        "data": "2026-04-12",
-        "url": "https://www.helpnetsecurity.com/2026/04/12/week-in-review-windows-zero-day-exploit-leaked-patch-tuesday-forecast/",
-        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Cloudflare moves up its post-quantum deadline as researchers narrow the path to Q-Day Cloudflare announced it is targeting 2029 to complete post-quantum security…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124834/cybersecurity-week-review-3-1500.webp"
+        "titulo": "Attackers target unpatched ShowDoc servers via CVE-2025-0520",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-04-14",
+        "url": "https://securityaffairs.com/190790/hacking/attackers-target-unpatched-showdoc-servers-via-cve-2025-0520.html",
+        "resumo": "A critical RCE flaw, tracked as CVE-2025-0520, in ShowDoc is being actively exploited, putting unpatched servers at serious risk. A critical remote code execution flaw, tracked as CVE-2025-0520 (CVSS score of 9.4), affecting ShowDoc is under active exploitati…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2014/05/russia-and-ukraine.jpg"
     },
     {
-        "titulo": "How did Anthropic’s Mythos change cyber risk? #tech",
-        "fonte": "Alltoc.com",
-        "autor": "AllToc",
-        "data": "2026-04-11",
-        "url": "https://alltoc.com/tech/how-did-anthropics-mythos-change-cyber-risk",
-        "resumo": "Mythos raises the bar for model security Anthropic’s newly public model—described in coverage as “Mythos”—has become a focal point for cybersecurity because researchers say it can find vulnerabilities that other systems miss. In related reporting, Anthropic’s…",
-        "imagem": "https://alltoc.com/cdn/1046/og.png"
-    },
-    {
-        "titulo": "Can Anthropic Mythos AI detect hidden financial cyber threats before attacks, and how Wall Street banks test next-gen cybersecurity defense systems today",
-        "fonte": "The Times of India",
-        "autor": "Piyush Shukla",
-        "data": "2026-04-11",
-        "url": "https://economictimes.indiatimes.com/news/international/us/can-anthropic-mythos-ai-detect-hidden-financial-cyber-threats-before-attacks-and-how-wall-street-banks-test-next-gen-cybersecurity-defense-systems-today/articleshow/130196083.cms",
-        "resumo": "Anthropic Mythos AI is now reshaping Wall Street cybersecurity at an unprecedented scale. Banks are testing this advanced AI to detect hidden financial cyber threats early. Reports show thousands of zero-day vulnerabilities already uncovered across major syst…",
-        "imagem": "https://img.etimg.com/thumb/msid-130196249,width-1200,height-630,imgsize-26120,overlay-economictimes/articleshow.jpg"
-    },
-    {
-        "titulo": "&#x27;$15K bill destroyed a solo developer’s startup&#x27;: How hackers are using leaked Google API keys to ‘go wild’ with Gemini AI for free",
+        "titulo": "What 2025 taught us about the importance of resilience in retail",
         "fonte": "TechRadar",
-        "autor": "Efosa Udinmwen",
-        "data": "2026-04-11",
-        "url": "https://www.techradar.com/pro/security/usd15k-bill-destroyed-a-solo-developers-startup-how-hackers-are-using-leaked-google-api-keys-to-go-wild-with-gemini-ai-for-free",
-        "resumo": "Developers’ public API keys now function as live Gemini AI credentials, enabling attackers to run costly and unauthorized operations.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/uYnxgWng4QVkKznALtuUTQ-1920-80.jpg"
+        "autor": "Nadir Izrael",
+        "data": "2026-04-14",
+        "url": "https://www.techradar.com/pro/what-2025-taught-us-about-the-importance-of-resilience-in-retail",
+        "resumo": "In retail and beyond, reactive security is limited. Exposure-led resilience is now essential.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-80.jpg"
     },
     {
-        "titulo": "Small models also found the vulnerabilities that Mythos found",
-        "fonte": "Aisle.com",
+        "titulo": "Governing the hidden risks of generative AI in the enterprise",
+        "fonte": "TechRadar",
+        "autor": "Ian Jeffs",
+        "data": "2026-04-14",
+        "url": "https://www.techradar.com/pro/governing-the-hidden-risks-of-generative-ai-in-the-enterprise",
+        "resumo": "With the right governance, organizations can scale generative AI securely and build lasting trust.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg"
+    },
+    {
+        "titulo": "The Map Is Not the Territory: What Cyber Threat Maps Really Show",
+        "fonte": "Cloudtweaks.com",
+        "autor": "Randy Ferguson",
+        "data": "2026-04-14",
+        "url": "https://cloudtweaks.com/2026/04/cyber-threat-maps-show/",
+        "resumo": "What Cyber Threat Maps Really Show When CloudTweaks first covered live threat maps 10 years ago, the category felt genuinely new. A handful of vendors had built public-facing visualisations showing cyber attacks as animated arcs crossing a darkened globe, and…",
+        "imagem": "https://cloudtweaks.com/wp-content/uploads/2023/10/author-randy.webp"
+    },
+    {
+        "titulo": "Cyber Risk Ratings Fade Out; Actionable Intelligence Takes The Spotlight",
+        "fonte": "Forrester.com",
+        "autor": "Paul McKay",
+        "data": "2026-04-14",
+        "url": "https://www.forrester.com/blogs/cyber-risk-ratings-fade-out-actionable-intelligence-takes-the-spotlight/",
+        "resumo": "In musical notation, “al niente” means fading until sound is barely perceptible, usually to end a significant piece of music, such as the ending of Tchaikovsky’s reflective and somber 6th Symphony. And that is how the Cybersecurity Risk Ratings market is like…",
+        "imagem": "https://go.forrester.com/wp-content/uploads/2026/04/Slide1-1.jpg"
+    },
+    {
+        "titulo": "U.S. CISA adds Adobe, Fortinet, Microsoft Exchange Server, and Microsoft Windows flaws to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-04-14",
+        "url": "https://securityaffairs.com/190775/security/u-s-cisa-adds-adobe-fortinet-microsoft-windows-microsoft-exchange-server-and-microsoft-windows-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Adobe, Fortinet, Microsoft Exchange Server, and Microsoft Windows flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Ap…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-04-14",
+        "url": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The list of vulnerabilities is as follows - CVE-2026-21…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkkewWzrjyqzejet7cyCWdTUMfgjGZgkDpis6rUlh7qnyPpmcN1k_vVdKvziAZq2cOkFQDrJNM8E6WE8Cl7oPNdq94MOXJLa0nkbEmAFCB_MnjLQzTy-WjHGa6yuLhm7dPzuW3YEQeFIfOT1Tr25NgALeTL6vFDhzmJrCRMLL0GBpOhkwQm_Zirk_9aNjr/s1700-e365/warning.jpg"
+    },
+    {
+        "titulo": "Cybersecurity jobs available right now: April 14, 2026",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-04-14",
+        "url": "https://www.helpnetsecurity.com/2026/04/14/cybersecurity-jobs-available-right-now-april-14-2026/",
+        "resumo": "Cyber Security Engineer/Application Security Specialist Tecnots | India | On-site – View job details As a Cyber Security Engineer/Application Security Specialist, you will integrate security into the SDLC, perform application security reviews, and support sec…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140407/cybersecurity_jobs-3-1500.webp"
+    },
+    {
+        "titulo": "AI-boosted hacks with Anthropic&#x27;s Mythos could have dire consequences for banks",
+        "fonte": "The Times of India",
+        "autor": "Reuters",
+        "data": "2026-04-14",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-boosted-hacks-with-anthropics-mythos-could-have-dire-consequences-for-banks/articleshow/130249883.cms",
+        "resumo": "The model, announced April 7, is the company&#x27;s &quot;most capable yet for coding and agentic tasks,&quot; the company said in a blog post, referring to the model&#x27;s ability to act autonomously. Its capabilities to code at a high level have given it a potentially unprece…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-33306,resizemode-75,msid-130249883/tech/artificial-intelligence/ai-boosted-hacks-with-anthropics-mythos-could-have-dire-consequences-for-banks.jpg"
+    },
+    {
+        "titulo": "India Inc stares at a reckoning as Mythos rewires cybersecurity",
+        "fonte": "The Times of India",
+        "autor": "Tanya Pandey, Suraksha P",
+        "data": "2026-04-14",
+        "url": "https://economictimes.indiatimes.com/tech/technology/anthropics-mythos-ai-raises-cybersecurity-alarms-for-indian-enterprises/articleshow/130241342.cms",
+        "resumo": "Indian enterprises could be facing a structural cybersecurity risk after the release of the advanced AI model Mythos by Anthropic. As Mythos begins finding software vulnerabilities in hours, far faster than companies can fix them, experts said this could leav…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2140845,resizemode-75,msid-130241342/tech/technology/anthropics-mythos-ai-raises-cybersecurity-alarms-for-indian-enterprises.jpg"
+    },
+    {
+        "titulo": "Anthropic’s Mythos AI raises cybersecurity alarms for Indian enterprises",
+        "fonte": "The Times of India",
+        "autor": "Tanya Pandey, Suraksha P",
+        "data": "2026-04-14",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-mythos-ai-raises-cybersecurity-alarms-for-indian-enterprises/articleshow/130241365.cms",
+        "resumo": "Indian enterprises could be facing a structural cybersecurity risk after the release of the advanced AI model Mythos by Anthropic. As Mythos begins finding software vulnerabilities in hours, far faster than companies can fix them, experts said this could leav…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2140845,resizemode-75,msid-130241365/tech/artificial-intelligence/anthropics-mythos-ai-raises-cybersecurity-alarms-for-indian-enterprises.jpg"
+    },
+    {
+        "titulo": "Indian companies turn to outsourced cybersecurity to bridge talent gap",
+        "fonte": "The Times of India",
+        "autor": "Tanya Pandey",
+        "data": "2026-04-14",
+        "url": "https://economictimes.indiatimes.com/tech/technology/cybersecurity-outsourcing-booms-amid-talent-squeeze-rising-costs/articleshow/130241176.cms",
+        "resumo": "India’s cybersecurity outsourcing market is growing as companies adopt SOC-as-a-service due to talent shortages, high costs, and complex threats. Mid-sized firms lead demand, especially in BFSI, telecom, and IT. Hybrid models dominate, with AI-driven automati…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-857480,resizemode-75,msid-130241176/tech/technology/cybersecurity-outsourcing-booms-amid-talent-squeeze-rising-costs.jpg"
+    },
+    {
+        "titulo": "AI Is Cracking Open Banking Before Quantum Gets the Chance",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-04-14",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/ai-is-cracking-open-banking-before-quantum-gets-the-chance/",
+        "resumo": "The constraints of human expertise were what traditionally created a natural ceiling on the pace of cyber threats. Even elite security researchers typically can require weeks or months to uncover subtle flaws in complex systems or discover zero-day vulnerabil…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/04/Claude-Mythos-AI-zero-day-1.jpg"
+    },
+    {
+        "titulo": "Irish cybersecurity watchdog issues update on Anthropic",
+        "fonte": "RTE",
+        "autor": "Brian O&#x27;Donovan",
+        "data": "2026-04-13",
+        "url": "https://www.rte.ie/news/2026/0413/1568069-anthropic-ireland/",
+        "resumo": "Ireland&#x27;s National Cyber Security Centre (NCSC) said it has reviewed the published technical material relating to a powerful new artificial intelligence model from AI company Anthropic.",
+        "imagem": "https://www.rte.ie/images/002402aa-1600.jpg"
+    },
+    {
+        "titulo": "Your AI-Generated Code Isn&#x27;t Secure - Here&#x27;s What We Find Every Time",
+        "fonte": "Rockingtech.co.uk",
+        "autor": "Anatoly Silko",
+        "data": "2026-04-13",
+        "url": "https://rockingtech.co.uk/blog/ai-generated-code-security-what-we-find",
+        "resumo": "Independent security firms tested 150+ AI models. 45% of generated code fails basic OWASP checks. Six predictable vulnerabilities appear in nearly every vibe-coded app — and most can be checked in 30 minutes.",
+        "imagem": "https://rockingtech.co.uk/blog-images/ai-generated-code-security-what-we-find.webp"
+    },
+    {
+        "titulo": "AI-boosted hacks with Anthropic’s Mythos could have dire consequences for banks",
+        "fonte": "iTnews",
         "autor": "",
-        "data": "2026-04-11",
-        "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-        "resumo": "Why the moat is the system, not the model",
-        "imagem": "https://aisle.com/api/media/file/freepik_create-this_2743478282-1200x630.webp"
+        "data": "2026-04-13",
+        "url": "https://www.itnews.com.au/news/ai-boosted-hacks-with-anthropics-mythos-could-have-dire-consequences-for-banks-625020?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+        "resumo": "Researchers and experts warn.",
+        "imagem": "https://i.nextmedia.com.au/News/2026-04-13T181129Z_1_LYNXMPEM3C154_RTROPTP_4_USA-ANTHROPIC-BANKING.JPG"
     },
     {
-        "titulo": "Project Glasswing: AI That Can Hack and Save Coding Hacks",
-        "fonte": "C-sharpcorner.com",
-        "autor": "noreply@c-sharpcorner.com (Mahesh Chand)",
-        "data": "2026-04-11",
-        "url": "https://www.c-sharpcorner.com/article/project-glasswing-ai-that-can-hack-and-save-coding-hacks/",
-        "resumo": "Learn how Anthropic Project Glasswing and Claude Mythos are reshaping cybersecurity using AI to detect vulnerabilities and prevent cyberattacks at scale",
-        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+        "titulo": "AI-boosted hacks with Anthropic’s Mythos could have dire consequences for banks",
+        "fonte": "iTnews",
+        "autor": "",
+        "data": "2026-04-13",
+        "url": "https://www.itnews.com.au/news/ai-boosted-hacks-with-anthropics-mythos-could-have-dire-consequences-for-banks-625020?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed",
+        "resumo": "Researchers and experts warn.",
+        "imagem": "https://i.nextmedia.com.au/News/2026-04-13T181129Z_1_LYNXMPEM3C154_RTROPTP_4_USA-ANTHROPIC-BANKING.JPG"
     },
     {
-        "titulo": "The &#x27;Vulnpocalypse&#x27;: Why experts fear AI could tip the scales toward hackers",
-        "fonte": "NBC News",
-        "autor": "Kevin Collier",
-        "data": "2026-04-11",
-        "url": "https://www.nbcnews.com/tech/security/anthropic-claude-mythos-ai-hackers-cybersecurity-vulnerabilities-rcna273673",
-        "resumo": "Anthropic is withholding its most advanced model over hacking concerns. Experts say it may only be a matter of time before similar tools are widely available.",
-        "imagem": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260410-anthropic-mn-1615-67ad21.jpg"
+        "titulo": "AI-boosted hacks with Anthropic’s Mythos could have dire consequences for banks",
+        "fonte": "iTnews",
+        "autor": "",
+        "data": "2026-04-13",
+        "url": "https://www.itnews.com.au/news/ai-boosted-hacks-with-anthropics-mythos-could-have-dire-consequences-for-banks-625020?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Security+feed",
+        "resumo": "Researchers and experts warn.",
+        "imagem": "https://i.nextmedia.com.au/News/2026-04-13T181129Z_1_LYNXMPEM3C154_RTROPTP_4_USA-ANTHROPIC-BANKING.JPG"
     },
     {
-        "titulo": "Claude Mythos Preview access goes to Big Tech first: Who’s on the list and why it matters",
-        "fonte": "The Times of India",
-        "autor": "ETtech",
-        "data": "2026-04-11",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/claude-mythos-preview-access-goes-to-big-tech-first-whos-on-the-list-and-why-it-matters/articleshow/130190070.cms",
-        "resumo": "Claude Mythos Preview can autonomously detect and chain software vulnerabilities at a scale that exceeds human capability, with internal testing reportedly uncovering thousands of high-severity flaws across operating systems, browsers, and core internet softw…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-17066,resizemode-75,msid-130190070/tech/artificial-intelligence/claude-mythos-preview-access-goes-to-big-tech-first-whos-on-the-list-and-why-it-matters.jpg"
-    },
-    {
-        "titulo": "Android Flaw Leaves 30 Million Crypto Wallets Open To Attack: Microsoft Analysts",
-        "fonte": "Bitcoinist",
-        "autor": "Christian Encila",
-        "data": "2026-04-11",
-        "url": "https://bitcoinist.com/android-flaw-leaves-30-million-crypto-wallets-open-to-attack-microsoft-analysts/",
-        "resumo": "A patch has been available for nearly a year, but millions of Android users may still be running vulnerable crypto wallet apps — leaving their funds and private keys exposed to a known security flaw. Related Reading: Japan Moves Crypto Under Financial Law, To…",
-        "imagem": "https://bitcoinist.com/wp-content/uploads/2026/04/a_c31d30.jpg"
-    },
-    {
-        "titulo": "Adobe Reader Zero-Day Exploit Uses Fake PDF Files To Steal User Data",
-        "fonte": "Ubergizmo",
-        "autor": "Paulo Montenegro",
-        "data": "2026-04-11",
-        "url": "https://www.ubergizmo.com/2026/04/adobe-reader-zero-day-exploit/",
-        "resumo": "A critical security vulnerability in Adobe Reader is being actively exploited by cybercriminals through a sophisticated and evolving phishing campaign. The attack relies on social engineering techniques, where victims receive emails containing malicious PDF a…",
-        "imagem": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2026/04/pdf-phishing.png"
-    },
-    {
-        "titulo": "Why Fed and Treasury leaders Powell, Bessent just rushed into a critical cyber-risk meeting",
-        "fonte": "CryptoSlate",
-        "autor": "Gino Matos",
-        "data": "2026-04-11",
-        "url": "https://cryptoslate.com/why-fed-and-treasury-leaders-powell-bessent-just-rushed-into-a-critical-cyber-risk-meeting/",
-        "resumo": "Treasury Secretary Scott Bessent and Fed Chair Jerome Powell convened an urgent meeting with Wall Street leaders this week, bypassing the routine briefing cadence and pulling bank CEOs into a direct conversation about AI-driven cyber risk. Reports noted that …",
-        "imagem": "https://cryptoslate.com/wp-content/uploads/2026/04/fed-banks-emergency-meeting.jpg"
-    },
-    {
-        "titulo": "Show HN: Cyber Pulse. AI pipeline for triage and alerting on cyber news/intel",
-        "fonte": "Google News",
-        "autor": "kozi93",
-        "data": "2026-04-11",
-        "url": "https://play.google.com/store/apps/details?id=com.cyberpulse.cyber_pulse&amp;hl=en_US",
-        "resumo": "I work in cyber security and built this android app to help me keep up to date with the latest news stories and summarise the most important information. It provides two executive summaries per day and alerts for critical news throughout.I’m using Gemini Pro …",
-        "imagem": ""
-    },
-    {
-        "titulo": "How AI is getting better at finding security holes",
-        "fonte": "NPR",
-        "autor": "Huo Jingnan",
-        "data": "2026-04-11",
-        "url": "https://www.npr.org/2026/04/11/nx-s1-5778508/anthropic-project-glasswing-ai-cybersecurity-mythos-preview",
-        "resumo": "Anthropic announced this week that its new model found security flaws in &quot;every major operating system and web browser.&quot; Even before the news, AI models had gotten dramatically better at finding bugs.",
-        "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F08%2F6a%2F8c56ef0d4550b4a474c2abe4f42a%2Fap26057633599982.jpg"
-    },
-    {
-        "titulo": "Anthropic’s Claude Mythos AI fears trigger $2 trillion wipeout in IT stocks; JPMorgan CEO Jamie Dimon warns &#x27;AI will likely worsen...&#x27;",
-        "fonte": "The Times of India",
-        "autor": "Trending Desk",
-        "data": "2026-04-11",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/anthropics-claude-mythos-ai-fears-triggers-2-trillion-wipeout-in-it-stocks-jpmorgan-ceo-jamie-dimon-warns-ai-will-likely-/articleshow/130187154.cms",
-        "resumo": "Anthropic’s powerful new AI model, Claude Mythos Preview, has triggered a $2 trillion selloff in enterprise software stocks and prompted an emergency meeting at the US Treasury with top bank CEOs. The model’s ability to find and exploit software vulnerabiliti…",
-        "imagem": "https://img.etimg.com/thumb/msid-130187260,width-1200,height-630,imgsize-729275,overlay-economictimes/articleshow.jpg"
+        "titulo": "AI-boosted hacks with Anthropic’s Mythos could have dire consequences for banks",
+        "fonte": "iTnews",
+        "autor": "",
+        "data": "2026-04-13",
+        "url": "https://www.itnews.com.au/news/ai-boosted-hacks-with-anthropics-mythos-could-have-dire-consequences-for-banks-625020?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed",
+        "resumo": "Researchers and experts warn.",
+        "imagem": "https://i.nextmedia.com.au/News/2026-04-13T181129Z_1_LYNXMPEM3C154_RTROPTP_4_USA-ANTHROPIC-BANKING.JPG"
     }
 ]
