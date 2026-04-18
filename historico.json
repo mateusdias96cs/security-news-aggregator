@@ -6,7 +6,8 @@
         "data": "2026-04-09",
         "url": "https://www.helpnetsecurity.com/2026/04/09/apache-activemq-rce-vulnerability-cve-2026-34197-claude/",
         "resumo": "In the latest demonstration of how AI assistants can help with bug hunting, Horizon3.ai researcher Naveen Sunkavally used Claude to unearth CVE-2026-34197, a remote code execution vulnerability in Apache ActiveMQ that’s been introduced in the codebase 13 year…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/11/21122152/apache_activemq.jpg"
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/11/21122152/apache_activemq.jpg",
+        "salvo_em": "2026-04-10"
     },
     {
         "titulo": "Mallory Launches AI-Native Threat Intelligence Platform, Turning Global Threat Data Into Prioritized Action",
@@ -15,7 +16,8 @@
         "data": "2026-04-09",
         "url": "https://www.nextbigfuture.com/2026/04/mallory-launches-ai-native-threat-intelligence-platform-turning-global-threat-data-into-prioritized-action.html",
         "resumo": "Austin, Texas, United States, 9th April 2026, CyberNewswire",
-        "imagem": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/04/ai-native-threat-intelligence-platform_1775675721DIuoj4t7BR.jpg"
+        "imagem": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/04/ai-native-threat-intelligence-platform_1775675721DIuoj4t7BR.jpg",
+        "salvo_em": "2026-04-10"
     },
     {
         "titulo": "Mallory brings contextual threat intelligence to security operations",
@@ -24,7 +26,8 @@
         "data": "2026-04-09",
         "url": "https://www.helpnetsecurity.com/2026/04/09/mallory-ai-native-threat-intelligence-platform/",
         "resumo": "Mallory is launching an AI-native threat intelligence platform, purpose-built to answer the questions CISOs and their teams are asking every day: What are the real threat vectors for our organization? What’s actually exploitable in our environment right now? …",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp"
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
+        "salvo_em": "2026-04-10"
     },
     {
         "titulo": "Mallory Launches AI-Native Threat Intelligence Platform, Turning Global Threat Data Into Prioritized Action",
@@ -33,7 +36,8 @@
         "data": "2026-04-09",
         "url": "https://hackread.com/mallory-launches-ai-native-threat-intelligence-platform-turning-global-threat-data-into-prioritized-action/",
         "resumo": "Austin, Texas, United States, 9th April 2026, CyberNewswire",
-        "imagem": "https://hackread.com/wp-content/uploads/2026/04/ai-native-threat-intelligence-platform_1775675721DIuoj4t7BR.jpg"
+        "imagem": "https://hackread.com/wp-content/uploads/2026/04/ai-native-threat-intelligence-platform_1775675721DIuoj4t7BR.jpg",
+        "salvo_em": "2026-04-10"
     },
     {
         "titulo": "ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories",
@@ -42,7 +46,8 @@
         "data": "2026-04-09",
         "url": "https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html",
         "resumo": "Thursday. Another week, another batch of things that probably should&#x27;ve been caught sooner but weren&#x27;t. This one&#x27;s got some range — old vulnerabilities getting new life, a few &quot;why was that even possible&quot; moments, attackers leaning on platforms and tools you&#x27;…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6d4nK1zoWjzSmbdUmGPSycMwGmzcYM2XRrFH_ueobgO_8j7hwRdv8Ct856gg_k29HqAOw1-HGCtPpxyGDcuQIKY53ATLKb8bQCsJR5b_Jf8VqX1igItYBIe4iQazqSRe5fmFrFXS1fCcKdz6enbI6zYngIztjJ_UI262_ynNGJrd1EB_OUV1ZKYVl04-h/s1700-e365/threatsdays-main.jpg"
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6d4nK1zoWjzSmbdUmGPSycMwGmzcYM2XRrFH_ueobgO_8j7hwRdv8Ct856gg_k29HqAOw1-HGCtPpxyGDcuQIKY53ATLKb8bQCsJR5b_Jf8VqX1igItYBIe4iQazqSRe5fmFrFXS1fCcKdz6enbI6zYngIztjJ_UI262_ynNGJrd1EB_OUV1ZKYVl04-h/s1700-e365/threatsdays-main.jpg",
+        "salvo_em": "2026-04-10"
     },
     {
         "titulo": "Appknox launches KnoxIQ to prioritize real-world exploitability in AI-driven application security",
@@ -51,16 +56,8 @@
         "data": "2026-04-09",
         "url": "https://siliconangle.com/2026/04/09/appknox-launches-knoxiq-prioritize-real-world-exploitability-ai-driven-application-security/",
         "resumo": "Mobile app security solutions provider Appknox today announced the launch of KnoxIQ, an artificial intelligence-native vulnerability assessment capability that introduces a new prioritization and remediation layer that sits between detection and development. …",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/appknox.png"
-    },
-    {
-        "titulo": "GPL Odorizers GPL750",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-04-09",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-02",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow a low privileged remote attacker to manipulate register values, which would result in too much or too little odorant being injected into a gas line. The following versions of GPL Odor…",
-        "imagem": ""
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/appknox.png",
+        "salvo_em": "2026-04-10"
     },
     {
         "titulo": "Contemporary Controls BASC 20T",
@@ -69,7 +66,18 @@
         "data": "2026-04-09",
         "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-01",
         "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to enumerate the functionality of each component associated with the PLC, reconfigure, rename, delete, perform file transfers, and make remote procedure calls. The followi…",
-        "imagem": ""
+        "imagem": "",
+        "salvo_em": "2026-04-10"
+    },
+    {
+        "titulo": "GPL Odorizers GPL750",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-04-09",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-02",
+        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow a low privileged remote attacker to manipulate register values, which would result in too much or too little odorant being injected into a gas line. The following versions of GPL Odor…",
+        "imagem": "",
+        "salvo_em": "2026-04-10"
     },
     {
         "titulo": "Acrobat Reader zero-day exploited in the wild for many months",
@@ -78,7 +86,8 @@
         "data": "2026-04-09",
         "url": "https://www.helpnetsecurity.com/2026/04/09/acrobat-reader-zero-day-exploited/",
         "resumo": "Unknown attackers have exploited a zero-day Adobe Acrobat Reader vulnerability since November 2025 and possibly even earlier, security researcher Haifei Li has discovered. PDF files carry the exploit Haifei Li is one of the creators of EXPMON, a sandbox-based…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/04/09125518/pdf-danger-1500.webp"
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/04/09125518/pdf-danger-1500.webp",
+        "salvo_em": "2026-04-10"
     },
     {
         "titulo": "Aligning cybersecurity with ESG goals: A guide for IT leaders",
@@ -87,7 +96,8 @@
         "data": "2026-04-09",
         "url": "https://www.techtarget.com/sustainability/tip/Aligning-cybersecurity-with-ESG-goals-A-guide-for-IT-leaders",
         "resumo": "An aligned cybersecurity with ESG strategy can improve sustainability, governance and risk management while addressing regulatory scrutiny and balancing environmental impacts.",
-        "imagem": "https://www.techtarget.com/rms/onlineimages/telecommunications_g1092964846.jpg"
+        "imagem": "https://www.techtarget.com/rms/onlineimages/telecommunications_g1092964846.jpg",
+        "salvo_em": "2026-04-10"
     },
     {
         "titulo": "What is the Claude Mythos AI model by Anthropic and why is this strongest-ever AI model sparking global cybersecurity fears and massive concern worldwide?",
@@ -96,7 +106,8 @@
         "data": "2026-04-09",
         "url": "https://economictimes.indiatimes.com/news/international/us/what-is-the-claude-mythos-ai-model-by-anthropic-and-why-is-this-strongest-ever-ai-model-sparking-global-cybersecurity-fears-and-massive-concern-worldwide/articleshow/130139294.cms",
         "resumo": "A major leak revealed the Claude Mythos AI model, instantly raising global cybersecurity concerns. Developed by Anthropic, this strongest-ever AI model shows powerful real-world capabilities. The Claude Mythos AI model can identify and exploit zero-day vulner…",
-        "imagem": "https://img.etimg.com/thumb/msid-130139576,width-1200,height-630,imgsize-1416468,overlay-economictimes/articleshow.jpg"
+        "imagem": "https://img.etimg.com/thumb/msid-130139576,width-1200,height-630,imgsize-1416468,overlay-economictimes/articleshow.jpg",
+        "salvo_em": "2026-04-10"
     },
     {
         "titulo": "From the field to the report and back again: How incident responders can use the Year in Review",
@@ -105,7 +116,8 @@
         "data": "2026-04-09",
         "url": "https://blog.talosintelligence.com/from-the-field-to-the-report-and-back-again-how-incident-responders-can-use-the-year-in-review/",
         "resumo": "The Year in Review distills Talos IR&#x27;s observations into structured intelligence, but defenders should also be feeding this report back into their own preparation cycles. Here&#x27;s how.",
-        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/04/2025YiR-topic_IR.jpg"
+        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/04/2025YiR-topic_IR.jpg",
+        "salvo_em": "2026-04-10"
     },
     {
         "titulo": "Iranian cyber warfare escalates: U.S. critical infrastructure under attack as IRGC hackers exploit weak industrial defenses",
@@ -114,7 +126,8 @@
         "data": "2026-04-09",
         "url": "https://www.naturalnews.com/2026-04-09-irgc-hackers-exploit-weak-industrial-defenses-critical-infrastructure.html",
         "resumo": "Iranian-affiliated hackers (linked to the IRGC) are exploiting vulnerabilities in Rockwell Automation PLCs, disrupting water utilities, energy and government services. Attacks manipulate human-machine interfaces (HMIs), causing operational disruptions and fin…",
-        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/04/hacker.jpg"
+        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/04/hacker.jpg",
+        "salvo_em": "2026-04-10"
     },
     {
         "titulo": "U.S. Public Sector Under Siege: Threat Intelligence for Q1 2026",
@@ -123,7 +136,8 @@
         "data": "2026-04-09",
         "url": "https://www.trendmicro.com/en_us/research/26/d/us-public-sector-under-siege.html",
         "resumo": "Discover how TrendAI Vision One™ empowers government agencies and educational institutions with advanced visibility, intelligence, and automation to stay ahead of evolving public sector threats.",
-        "imagem": "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/thumbnails/26/us-public-sector-under-siege.jpg"
+        "imagem": "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/thumbnails/26/us-public-sector-under-siege.jpg",
+        "salvo_em": "2026-04-10"
     },
     {
         "titulo": "Why Anthropic won&#x27;t release its new Claude Mythos AI model to the public",
@@ -132,7 +146,8 @@
         "data": "2026-04-08",
         "url": "https://www.nbcnews.com/tech/security/anthropic-project-glasswing-mythos-preview-claude-gets-limited-release-rcna267234",
         "resumo": "Claude Mythos Preview can identify and exploit software vulnerabilities with unprecedented accuracy, the company says.",
-        "imagem": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260408-anthropic-rs-a69c46.jpg"
+        "imagem": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260408-anthropic-rs-a69c46.jpg",
+        "salvo_em": "2026-04-10"
     },
     {
         "titulo": "U.S. CISA adds a flaw in Ivanti EPMM to its Known Exploited Vulnerabilities catalog",
@@ -141,7 +156,8 @@
         "data": "2026-04-08",
         "url": "https://securityaffairs.com/190519/security/u-s-cisa-adds-a-flaw-in-ivanti-epmm-to-its-known-exploited-vulnerabilities-catalog-2.html",
         "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a flaw in Ivanti EPMM to its Known Exploited Vulnerabilities catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a flaw in Ivanti EPMM, tracked as CVE-2026-1340 (…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+        "salvo_em": "2026-04-10"
     },
     {
         "titulo": "Anthropic’s Glasswing initiative raises questions for US cyber operations",
@@ -150,7 +166,8 @@
         "data": "2026-04-08",
         "url": "https://www.nextgov.com/cybersecurity/2026/04/anthropics-glasswing-initiative-raises-questions-us-cyber-operations/412721/",
         "resumo": "Intelligence officials and industry are weighing how Claude Mythos Preview could reshape hacking and cyberdefense. The company has also briefed senior officials on the AI model it says has already uncovered thousands of cyber vulnerabilities.",
-        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/04/08/040826GlasswingNG/open-graph.jpg"
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/04/08/040826GlasswingNG/open-graph.jpg",
+        "salvo_em": "2026-04-10"
     },
     {
         "titulo": "Project Glasswing Shows That AI Will Break The Vulnerability Management Playbook",
@@ -159,7 +176,8 @@
         "data": "2026-04-08",
         "url": "https://www.forrester.com/blogs/project-glasswing-shows-that-ai-will-break-the-vulnerability-management-playbook/",
         "resumo": "Anthropic, along with 11 other companies, recently announced Project Glasswing, an initiative that aims to secure software in the wake of advances in AI capabilities, most notably Anthropic’s Claude Mythos Preview frontier model. Project Glasswing is made up …",
-        "imagem": "https://go.forrester.com/wp-content/uploads/2026/04/glasswing-EN-WP1.jpg"
+        "imagem": "https://go.forrester.com/wp-content/uploads/2026/04/glasswing-EN-WP1.jpg",
+        "salvo_em": "2026-04-10"
     },
     {
         "titulo": "XMax Advances AI Strategy Through Development and Deployment of An AI Inference Platform",
@@ -168,7 +186,8 @@
         "data": "2026-04-08",
         "url": "https://www.globenewswire.com/news-release/2026/04/08/3270540/37029/en/XMax-Advances-AI-Strategy-Through-Development-and-Deployment-of-An-AI-Inference-Platform.html",
         "resumo": "LOS ANGELES, April 08, 2026 (GLOBE NEWSWIRE) -- XMax Inc. (NASDAQ: XWIN) (“XMax” or the “Company”) today announced a key milestone in its artificial intelligence (“AI”) strategy with the deployment of an AI inference platform, further advancing its expansion …",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/e10d1bfc-a129-4ecb-a8d1-7a1d339f22eb"
+        "imagem": "https://ml.globenewswire.com/Resource/Download/e10d1bfc-a129-4ecb-a8d1-7a1d339f22eb",
+        "salvo_em": "2026-04-10"
     },
     {
         "titulo": "BlueHammer: Windows zero-day exploit leaked",
@@ -177,6 +196,7 @@
         "data": "2026-04-08",
         "url": "https://www.helpnetsecurity.com/2026/04/08/bluehammer-windows-zero-day-exploit-leaked/",
         "resumo": "A buggy but functional proof-of-concept (PoC) exploit for an unpatched Windows local privilege escalation vulnerability dubbed BlueHammer has been published on GitHub by someone who goes by the handle Chaotic Eclipse and Nightmare Eclipse. Several security re…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/03/03115429/microsoft-windows-defender-1500.webp"
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/03/03115429/microsoft-windows-defender-1500.webp",
+        "salvo_em": "2026-04-10"
     }
 ]
