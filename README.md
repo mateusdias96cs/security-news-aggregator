@@ -62,3 +62,59 @@ O **Security News Aggregator** coleta, processa e exibe automaticamente as últi
 | CISO Advisor | Alertas CVE e threat intel |
 | Boletim Sec | Boletim semanal de segurança |
 | Security Leaders | Maior plataforma cyber do Brasil |
+
+### Execução
+
+```bash
+python3 main.py
+xdg-open index.html
+```
+
+---
+
+## 🤖 Atualização Automática
+
+O projeto usa GitHub Actions para atualizar as notícias todo dia às 8h UTC (5h Brasília). O workflow roda o main.py, gera novo index.html e faz commit automaticamente.
+
+Para rodar manualmente: Actions → Update Security News → Run workflow
+
+A chave da NewsAPI fica como GitHub Secret — nunca exposta no código.
+
+---
+
+## 🔒 Segurança
+
+- Tags HTML removidas de títulos, resumos e autores
+- Caracteres perigosos escapados
+- URLs validadas — apenas http e https
+- Bloqueio de javascript, data e vbscript URIs
+- Datas normalizadas para YYYY-MM-DD
+
+---
+
+## 🔧 Roadmap
+
+- [x] Filtro por tema com sistema de tags
+- [x] Seção brasileira com fontes especializadas via RSS
+- [x] Histórico semanal automático
+- [x] Design editorial premium com Three.js
+- [x] Thumbnails reais via og:image scraping
+- [x] Navbar de navegação por seção
+- [ ] Busca por palavra-chave
+- [ ] Notificações para alertas críticos da CISA
+- [ ] Modo claro
+
+---
+
+## 👨‍💻 Autor
+
+**Mateus Camara Dias**
+Estudante de Cibersegurança — SENAC | Hackers do Bem — SENAI
+
+[![GitHub](https://img.shields.io/badge/GitHub-mateusdias96cs-0d1117?style=flat&logo=github)](https://github.com/mateusdias96cs)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-mateusdias96cs-212C42?style=flat&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/mateusdias96cs)
+
+---
+
+> Projeto desenvolvido para fins educacionais e acompanhamento do cenário de ameaças em cibersegurança.
+ENDOFFILE
