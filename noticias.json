@@ -1,5 +1,32 @@
 [
     {
+        "titulo": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-04-18",
+        "url": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html",
+        "resumo": "Threat actors are exploiting security flaws in TBK DVR and end‑of‑life (EoL) TP-Link Wi-Fi routers to deploy Mirai-botnet variants on compromised devices, according to findings from Fortinet FortiGuard Labs and Palo Alto Networks Unit 42. The attack targeting…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6cxZZMfiWctk3Me9QO6UlzVRFab0SPGMTzThjpcPHCXm49bQ0rRvtG2W6gicJw4Mi1QUuv-yTDMK5GKJju3QicyjYJwdbA86Ok8w2oU5Vg28l4s0HAVv7_c03dStaM7OPd4Yq0khmm9MeQVUYnCYThMx4JvkCnZZ5PEtCXAA90vKfsAumsMAIw085JIsz/s1700-e365/botnet-ddos.jpg"
+    },
+    {
+        "titulo": "The Boy That Cried Mythos: Verification is Collapsing Trust in Anthropic | flyingpenguin",
+        "fonte": "Flyingpenguin.com",
+        "autor": "adragomir",
+        "data": "2026-04-18",
+        "url": "https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/",
+        "resumo": "Sem resumo",
+        "imagem": ""
+    },
+    {
+        "titulo": "Show HN: Agentic Dev – AI dev-tools news, curated daily by Claude",
+        "fonte": "Agenticdev.blog",
+        "autor": "beeswaxpat",
+        "data": "2026-04-18",
+        "url": "https://agenticdev.blog/",
+        "resumo": "AI dev tools news curated by AI agents. 161 articles from 16 sources this week — Claude, Cursor, Copilot, MCP, CLI agents, and more. Free daily email.",
+        "imagem": "https://agenticdev.blog/static/og-image.png"
+    },
+    {
         "titulo": "NIST Limits CVE Enrichment After 263% Surge In Vulnerability Submissions",
         "fonte": "Slashdot.org",
         "autor": "BeauHD",
@@ -151,32 +178,5 @@
         "url": "https://www.fortinet.com/blog/threat-research/tracking-mirai-variant-nexcorium-a-vulnerability-driven-iot-botnet-campaign",
         "resumo": "TBK DVRs targeted by Nexcorium: exploiting, persisting, brute-force attacks, and multi-architecture Mirai-style DDoS in a single campaign. From CVE-2024-3721 exploitation to CVE-2017-17215 reuse, this botnet demonstrates how quickly IoT threats continue to ev…",
         "imagem": ""
-    },
-    {
-        "titulo": "Researcher drops two more Microsoft Defender zero-days, all three now exploited in the wild",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-04-17",
-        "url": "https://www.helpnetsecurity.com/2026/04/17/microsoft-defender-zero-days-exploited/",
-        "resumo": "The security researcher who earlier this month published a proof-of-concept (PoC) exploit for a zero-day privilege escalation vulnerability in Microsoft Defender is back with two more. The first, dubbed “RedSun,” is another privilege escalation flaw in the sa…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/03/03115429/microsoft-windows-defender-1500.webp"
-    },
-    {
-        "titulo": "CISA flags Apache ActiveMQ flaw as actively exploited in attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-04-17",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/",
-        "resumo": "CISA warned that attackers are now exploiting a high-severity Apache ActiveMQ vulnerability, which was patched earlier this month after going undetected for 13 years. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/04/17/Apache.jpg"
-    },
-    {
-        "titulo": "U.S. CISA adds a flaw in Apache ActiveMQ to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-04-17",
-        "url": "https://securityaffairs.com/190917/security/u-s-cisa-adds-a-flaw-in-apache-activemq-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a flaw in Apache ActiveMQ to its Known Exploited Vulnerabilities catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a flaw in Apache ActiveMQ, tracked as CVE-202…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
     }
 ]
