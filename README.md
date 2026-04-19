@@ -4,6 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Funcional-00ff41?style=for-the-badge)
 
@@ -13,150 +14,51 @@
 
 ## 📋 Sobre o Projeto
 
-O **Security News Aggregator** coleta, processa e exibe automaticamente as últimas notícias de cibersegurança das principais fontes do mundo. A interface é gerada em HTML com cards interativos — ao clicar em um card ele vira e exibe o resumo da notícia. O conteúdo é atualizado automaticamente todo dia via GitHub Actions, sem nenhuma intervenção manual.
-
-Projeto desenvolvido como iniciativa pessoal para acompanhamento do cenário de ameaças e vulnerabilidades em tempo real.
+O **Security News Aggregator** coleta, processa e exibe automaticamente as últimas notícias de cibersegurança das principais fontes internacionais e brasileiras. A interface foi completamente redesenhada com estética editorial premium — animações 3D via Three.js, scroll vertical fluido, tipografia expressiva e experiência visual imersiva. O conteúdo é atualizado automaticamente todo dia via GitHub Actions.
 
 ---
 
 ## ✨ Funcionalidades
 
-- **Cards interativos** com efeito flip — frente exibe a thumbnail e título, verso exibe o resumo
-- **Scroll horizontal com drag** — arraste os cards com o mouse ou toque
-- **Thumbnails dinâmicas por fonte** — cada portal tem gradiente e identidade visual própria quando não há imagem
-- **Atualização automática diária** via GitHub Actions (todo dia às 8h UTC)
-- **Sanitização contra XSS** — todos os dados externos são sanitizados antes de entrar no HTML
-- **Deploy no GitHub Pages** — acessível publicamente sem precisar rodar nada localmente
+### Interface e Design
+- Design editorial premium com paleta escura e acento verde-limão
+- Animações 3D via Three.js — rede de nós conectados e escudo wireframe como fundo interativo
+- Cursor personalizado com ponto e anel animado
+- Loading screen estilo terminal com contador 000 a 100
+- Marquee duplo com termos de cibersegurança e nomes das fontes
+- Scroll vertical fluido com layout editorial — thumbnail à esquerda, texto à direita
+- Navbar fixa com navegação entre Internacional, Brasil e Arquivo Semanal
+- Scroll reveal com animação ao entrar no viewport
+- Grain texture sutil para profundidade visual
+
+### Conteúdo
+- 20 notícias internacionais atualizadas diariamente via NewsAPI
+- Seção brasileira com notícias de portais 100% especializados em cibersegurança via RSS
+- Arquivo semanal com histórico dos últimos 7 dias sem duplicatas
+- Thumbnails reais extraídas via og:image scraping
+- SVG placeholder temático gerado automaticamente como fallback
+
+### Filtragem e Navegação
+- Sistema de tags — filtre por RANSOMWARE, PHISHING, ZERO-DAY, APT, MALWARE, VULNERABILIDADE, INCIDENTE, IA e SEGURANÇA, GOVERNO, INFRAESTRUTURA CRÍTICA
+- Numeração editorial (#01, #02 / BR#01, BR#02)
+- Botão Ler artigo visível diretamente sem interação adicional
 
 ---
 
 ## 🌐 Fontes Monitoradas
 
-| Fonte | Tipo | Foco |
-|---|---|---|
-| 🔵 **BleepingComputer** | Portal especializado | Malware, vulnerabilidades, incidentes |
-| 🔴 **The Hacker News** | Portal especializado | Segurança ofensiva e defensiva |
-| 🟣 **HackRead** | Portal especializado | Hacking e privacidade |
-| 🟢 **Infosecurity Magazine** | Revista especializada | Tendências e análises |
-| 🟡 **SecurityWeek** | Portal especializado | Ameaças e análises de mercado |
-| ⚪ **NewsAPI** | Agregador | Fontes diversas em tempo real |
+### Internacionais via NewsAPI
+| Fonte | Foco |
+|---|---|
+| BleepingComputer | Malware, vulnerabilidades, incidentes |
+| The Hacker News | Segurança ofensiva e defensiva |
+| HackRead | Hacking e privacidade |
+| Infosecurity Magazine | Tendências e análises |
+| SecurityWeek | Ameaças e análises de mercado |
 
----
-
-## ⚙️ Arquitetura do Projeto
-
-```
-security-news-aggregator/
-│
-├── main.py               # Orquestrador — executa o pipeline completo
-├── fetcher.py            # Coleta notícias via RSS e NewsAPI
-├── processor.py          # Sanitiza e normaliza os dados coletados
-├── storage.py            # Salva os dados em noticias.json
-├── display.py            # Exibe top 10 no terminal
-├── gerar_html.py         # Gera index.html com interface de cards
-├── index.html            # Interface gerada automaticamente
-├── static/
-│   ├── style.css         # (legado — estilos agora inline no gerar_html.py)
-│   └── placeholder.svg   # Fallback de imagem
-├── .github/
-│   └── workflows/
-│       └── update-news.yml  # Workflow de atualização automática
-├── .gitignore
-├── requirements.txt
-└── README.md
-```
-
-### Fluxo de execução
-
-```
-main.py
-   │
-   ├── fetcher.py    → Coleta notícias (RSS + NewsAPI)
-   │
-   ├── processor.py  → Sanitiza e normaliza dados
-   │
-   ├── storage.py    → Salva em noticias.json
-   │
-   └── gerar_html.py → Gera index.html com cards interativos
-                              │
-                              └── GitHub Pages ← deploy automático
-```
-
----
-
-## 🚀 Como usar localmente
-
-### Pré-requisitos
-
-- Python 3.10+
-- pip
-- Chave da [NewsAPI](https://newsapi.org/)
-
-### Instalação
-
-```bash
-git clone https://github.com/mateusdias96cs/security-news-aggregator.git
-cd security-news-aggregator
-pip install -r requirements.txt
-```
-
-### Configuração
-
-Cria um arquivo `.env` na raiz do projeto:
-
-```
-NEWS_API_KEY=sua_chave_aqui
-```
-
-### Execução
-
-```bash
-python main.py
-```
-
-Abre o `index.html` gerado no navegador para visualizar as notícias.
-
----
-
-## 🤖 Atualização Automática
-
-O projeto usa **GitHub Actions** para atualizar as notícias automaticamente todo dia às 8h UTC (5h horário de Brasília). O workflow roda o `main.py` na nuvem, gera um novo `index.html` e faz commit automaticamente — o GitHub Pages é atualizado em seguida.
-
-Para rodar manualmente: **Actions → Update Security News → Run workflow**
-
-A chave da NewsAPI é armazenada como **GitHub Secret** e nunca fica exposta no código.
-
----
-
-## 🔒 Segurança
-
-Todos os dados externos são sanitizados antes de entrar no HTML:
-
-- Tags HTML removidas de títulos, resumos e autores
-- Caracteres perigosos escapados (`<`, `>`, `"`, `'`, `&`)
-- URLs validadas — aceita apenas `http://` e `https://`
-- Bloqueio de `javascript:`, `data:` e `vbscript:` URIs
-- Datas normalizadas para formato `YYYY-MM-DD`
-
----
-
-## 🔧 Melhorias Planejadas
-
-- [ ] Filtro por fonte ou categoria
-- [ ] Busca por palavra-chave
-- [ ] Modo claro/escuro
-- [ ] Notificações para alertas críticos da CISA
-
----
-
-## 👨‍💻 Autor
-
-**Mateus Camara Dias**
-Estudante de Cibersegurança — SENAC | Hackers do Bem — SENAI
-
-[![GitHub](https://img.shields.io/badge/GitHub-mateusdias96cs-0d1117?style=flat&logo=github)](https://github.com/mateusdias96cs)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-mateusdias96cs-212C42?style=flat&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/mateusdias96cs)
-
----
-
-> *Projeto desenvolvido para fins educacionais e acompanhamento do cenário de ameaças em cibersegurança.*
+### Brasileiras via RSS direto
+| Fonte | Foco |
+|---|---|
+| CISO Advisor | Alertas CVE e threat intel |
+| Boletim Sec | Boletim semanal de segurança |
+| Security Leaders | Maior plataforma cyber do Brasil |
