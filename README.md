@@ -117,4 +117,3 @@ Estudante de Cibersegurança — SENAC | Hackers do Bem — SENAI
 ---
 
 > Projeto desenvolvido para fins educacionais e acompanhamento do cenário de ameaças em cibersegurança.
-ENDOFFILE
