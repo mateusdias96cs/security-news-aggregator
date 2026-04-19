@@ -1,5 +1,14 @@
 [
     {
+        "titulo": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
+        "fonte": "Wired",
+        "autor": "Dell Cameron, Maddy Varner, Andy Greenberg, Andrew Couts",
+        "data": "2026-04-18",
+        "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+        "resumo": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
+        "imagem": "https://media.wired.com/photos/69e297a5b6d175715986c107/191:100/w_1280,c_limit/security_EU_Age_Getty_1.jpg"
+    },
+    {
         "titulo": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
@@ -169,14 +178,5 @@
         "url": "https://www.infosecurity-magazine.com/news/ai-models-rapid-gains/",
         "resumo": "AI models are making rapid gains in vulnerability research and exploit development, raising new cybersecurity risks, a Forescout study finds",
         "imagem": "https://assets.infosecurity-magazine.com/webpage/og/17cde6aa-9990-4da6-b222-72ee2f608443.jpg"
-    },
-    {
-        "titulo": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "fonte": "Fortinet.com",
-        "autor": "Vincent Li",
-        "data": "2026-04-17",
-        "url": "https://www.fortinet.com/blog/threat-research/tracking-mirai-variant-nexcorium-a-vulnerability-driven-iot-botnet-campaign",
-        "resumo": "TBK DVRs targeted by Nexcorium: exploiting, persisting, brute-force attacks, and multi-architecture Mirai-style DDoS in a single campaign. From CVE-2024-3721 exploitation to CVE-2017-17215 reuse, this botnet demonstrates how quickly IoT threats continue to ev…",
-        "imagem": ""
     }
 ]
