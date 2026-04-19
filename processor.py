@@ -104,6 +104,11 @@ def processar_noticias(artigos):
     noticias = []
 
     for artigo in artigos:
+        # Artigo já processado (vindo do RSS)
+        if "titulo" in artigo:
+            noticias.append(artigo)
+            continue
+
         # Valida estrutura mínima
         fonte_raw = artigo.get("source", {})
         if not isinstance(fonte_raw, dict):

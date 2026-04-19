@@ -26,7 +26,7 @@ def main():
         print(f"✅ {len(noticias_br)} notícias BR salvas")
 
     mostrar_top10(noticias)
-    subprocess.run(["python", "gerar_html.py"])
+    subprocess.run(["python3", "gerar_html.py"])
 
 if __name__ == "__main__":
     main()
