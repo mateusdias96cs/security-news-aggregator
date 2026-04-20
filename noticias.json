@@ -1,5 +1,14 @@
 [
     {
+        "titulo": "Week in review: Acrobat Reader flaw exploited, Claude Mythos offensive capabilities and limits",
+        "fonte": "Help Net Security",
+        "autor": "Help Net Security",
+        "data": "2026-04-19",
+        "url": "https://www.helpnetsecurity.com/2026/04/19/week-in-review-acrobat-reader-flaw-exploited-claude-mythos-offensive-capabilities-and-limits/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Bringing governance and visibility to machine and AI identities In this Help Net Security interview, Archit Lohokare, CEO of AppViewX, explains how the rise of A…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01112506/cybersecurity_week_in_review2.jpg"
+    },
+    {
         "titulo": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
         "fonte": "Wired",
         "autor": "Dell Cameron, Maddy Varner, Andy Greenberg, Andrew Couts",
@@ -169,14 +178,5 @@
         "url": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html",
         "resumo": "Huntress is warning that threat actors are exploiting three recently disclosed security flaws in Microsoft Defender to gain elevated privileges in compromised systems. The activity involves the exploitation of three vulnerabilities that are codenamed BlueHamm…",
         "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ8x3Yg0CYomOu1IpHfhfmiqJtgaMSnnoE2tJR6RdXGIy1rLRTORge-ukCLYkEj6xzeGTvmuy-68qfU4me_nG7pvwZi21h7ycQFwY3OXCH1_p_g35BAYeaHdz3uRKJD2mQCjUIcxha2WzMePpup2VHarxZVxy3QNtaRAjET-2FK7GemiuvyI8MpNPFVyEQ/s1700-e365/defender.jpg"
-    },
-    {
-        "titulo": "Commercial AI Models Show Rapid Gains in Vulnerability Research",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Beth Maundrill",
-        "data": "2026-04-17",
-        "url": "https://www.infosecurity-magazine.com/news/ai-models-rapid-gains/",
-        "resumo": "AI models are making rapid gains in vulnerability research and exploit development, raising new cybersecurity risks, a Forescout study finds",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/17cde6aa-9990-4da6-b222-72ee2f608443.jpg"
     }
 ]
