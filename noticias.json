@@ -1,5 +1,41 @@
 [
     {
+        "titulo": "$62.31 Bn Automotive Cybersecurity Market, 2026-2040: Continental Stands out with Its End-to-end Portfolio, Encompassing Secure Gateway Solutions Customized for OEMs Like BMW and Ford",
+        "fonte": "GlobeNewswire",
+        "autor": "Research and Markets",
+        "data": "2026-04-20",
+        "url": "https://www.globenewswire.com/news-release/2026/04/20/3276748/28124/en/62-31-Bn-Automotive-Cybersecurity-Market-2026-2040-Continental-Stands-out-with-Its-End-to-end-Portfolio-Encompassing-Secure-Gateway-Solutions-Customized-for-OEMs-Like-BMW-and-Ford.html",
+        "resumo": "Key market opportunities in automotive cybersecurity emerge from increased vehicle connectivity, autonomous driving, and software-defined vehicles, demanding AI-powered defenses and secure V2X communication. Regulatory compliance and growing consumer awarenes…",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/15443a53-6a59-47c0-89ce-52a436311f1d"
+    },
+    {
+        "titulo": "Lagos unveils framework to protect businesses from cybercrime",
+        "fonte": "The Punch",
+        "autor": "Punch Newspapers",
+        "data": "2026-04-20",
+        "url": "https://punchng.com/?p=2121441",
+        "resumo": "Lagos State has unveiled a new cybersecurity framework to tackle digital threats. Learn how these new guidelines aim to protect businesses and residents. Read More: https://punchng.com/lagos-unveils-framework-to-protect-businesses-from-cybercrime/",
+        "imagem": "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png"
+    },
+    {
+        "titulo": "SmokedMeat: Open-source tool shows what attackers do inside CI/CD pipelines",
+        "fonte": "Help Net Security",
+        "autor": "Mirko Zorz",
+        "data": "2026-04-20",
+        "url": "https://www.helpnetsecurity.com/2026/04/20/smokedmeat-ci-cd-pipeline-attacks/",
+        "resumo": "Boost Security has released SmokedMeat, an open-source framework that runs attack chains against CI/CD infrastructure so engineering and security teams can see what an attacker would do in their specific environment. What the tool does SmokedMeat takes a flag…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/04/16194738/smokedmeat-1500.webp"
+    },
+    {
+        "titulo": "Using Data and Data Analytics to Improve Cyber Resilience",
+        "fonte": "Carnegie Mellon University",
+        "autor": "Patsy Bulisco",
+        "data": "2026-04-20",
+        "url": "https://www.sei.cmu.edu/blog/using-data-and-data-analytics-to-improve-cyber-resilience/",
+        "resumo": "Our post highlights the use of data analytics as a force multiplier for cyber resilience as well as best practices to help organizations gain situational awareness on their current security posture.",
+        "imagem": "https://www.sei.cmu.edu/media/images/Bulisco_Pat_540_240530.max-1200x630.format-webp.webp"
+    },
+    {
         "titulo": "Week in review: Acrobat Reader flaw exploited, Claude Mythos offensive capabilities and limits",
         "fonte": "Help Net Security",
         "autor": "Help Net Security",
@@ -142,41 +178,5 @@
         "url": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
         "resumo": "The latest edition of the Seriously Risky Business cybersecurity newsletter, now on Lawfare.",
         "imagem": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/world-map-cybersecurity.jpg?sfvrsn=5d9bbb64_4"
-    },
-    {
-        "titulo": "We Reproduced Anthropic&#x27;s Mythos Findings with Public Models",
-        "fonte": "Vidocsecurity.com",
-        "autor": "Dawid Moczadło, Klaudia Kloc, Marek Lewandowski, Amadeusz Lisiecki, Jakub Sienkiewicz, Mikołaj Palki",
-        "data": "2026-04-17",
-        "url": "https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models",
-        "resumo": "Anthropic framed Mythos and Project Glasswing as proof that frontier AI vulnerability research now needs gated access. We tested the public, patched cases with GPT-5.4 and Claude Opus 4.6 and found that the key building blocks are already accessible outside G…",
-        "imagem": "https://blog.vidocsecurity.com/og/we-reproduced-anthropics-mythos-findings-with-public-models"
-    },
-    {
-        "titulo": "AI + quantum, Amazon vs. Starlink and the wide-open US-China internet battle",
-        "fonte": "SiliconANGLE News",
-        "autor": "Robert Hof",
-        "data": "2026-04-17",
-        "url": "https://siliconangle.com/2026/04/17/ai-quantum-amazon-vs-starlink-wide-open-us-china-internet-battle/",
-        "resumo": "Quantum computing keeps gaining momentum even though practically it’s years away from wide commercialization, and World Quantum Day April 14 provided an excuse for a lot of announcements. Among them: Nvidia unveiled AI models for quantum error correction. Dav…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Quantum-Computer-_-AI-Figures-2.png"
-    },
-    {
-        "titulo": "New Mirai Variant Nexcorium Hijacks DVR Devices for DDoS Attacks",
-        "fonte": "HackRead",
-        "autor": "Deeba Ahmed",
-        "data": "2026-04-17",
-        "url": "https://hackread.com/mirai-variant-nexcorium-dvr-devices-ddos-attacks/",
-        "resumo": "Cybersecurity researchers at Fortinet have discovered Nexcorium, a new Mirai-based malware targeting TBK DVR systems to turn them into a botnet for DDoS attacks.",
-        "imagem": "https://hackread.com/wp-content/uploads/2026/04/mirai-nexcorium-malware-security-cameras-ddos-attacks.jpg"
-    },
-    {
-        "titulo": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-04-17",
-        "url": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html",
-        "resumo": "Huntress is warning that threat actors are exploiting three recently disclosed security flaws in Microsoft Defender to gain elevated privileges in compromised systems. The activity involves the exploitation of three vulnerabilities that are codenamed BlueHamm…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ8x3Yg0CYomOu1IpHfhfmiqJtgaMSnnoE2tJR6RdXGIy1rLRTORge-ukCLYkEj6xzeGTvmuy-68qfU4me_nG7pvwZi21h7ycQFwY3OXCH1_p_g35BAYeaHdz3uRKJD2mQCjUIcxha2WzMePpup2VHarxZVxy3QNtaRAjET-2FK7GemiuvyI8MpNPFVyEQ/s1700-e365/defender.jpg"
     }
 ]
