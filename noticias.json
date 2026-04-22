@@ -1,5 +1,176 @@
 [
     {
+        "titulo": "The Human Aspect of Red Teams - Brian Fox, Tom Tovar, T. Gwyddon &#x27;Data&#x27; Owen - ASW #379",
+        "fonte": "Libsyn.com",
+        "autor": "",
+        "data": "2026-04-21",
+        "url": "https://securityweeklytv.libsyn.com/the-human-aspect-of-red-teams-brian-fox-tom-tovar-t-gwyddon-data-owen-asw-379",
+        "resumo": "Red team exercises set goals to see if a particular outcome can be accomplished through a simulated attack, but the ultimate outcome should be educating the org about how to improve tools and processes that make attacks more difficult to succeed. Gwyddon &quot;Dat…",
+        "imagem": "http://assets.libsyn.com/content/201002465?height=250&width=250&overlay=true"
+    },
+    {
+        "titulo": "Inside the &#x27;fake police raid&#x27; that forced a $1M Bitcoin transfer",
+        "fonte": "Cointelegraph",
+        "autor": "Cointelegraph by Dilip Kumar Patairya",
+        "data": "2026-04-21",
+        "url": "https://cointelegraph.com/features/crypto-coercion-attack-fake-police-raid",
+        "resumo": "A fake police raid enabled a $1 million Bitcoin robbery, exposing the rise of wrench attacks and the shift from digital hacks to physical crypto threats.",
+        "imagem": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019daed0-ebae-75c1-b249-6585df1beb15.jpg"
+    },
+    {
+        "titulo": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-04-21",
+        "url": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including three flaws impacting Cisco Catalyst SD-WAN Manager, citing evidence of active exploitat…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzjZ6Llk3l-F3OFNRpNKvTziH1GObU6niwTMke4hEeI5bVXCcILs3kb25Dehkk1VCBf8NzEEPMLxElgbqLzAq0I1GuFAsDojdbVw-R6CGW6-qMXPaeiKXzQqn9JUL-VoPCVMx8h7FrOXIovnLwLv7T-O2wLdc4kIDA0bftbBDp9kwoDmqq6iYYlaZF6Qaz/s1700-e365/cisa-kev.jpg"
+    },
+    {
+        "titulo": "Ripple wants the XRP Ledger to be quantum-proof by 2028. Here is its plan",
+        "fonte": "CoinDesk",
+        "autor": "Omkar Godbole",
+        "data": "2026-04-21",
+        "url": "https://www.coindesk.com/markets/2026/04/21/ripple-wants-the-xrp-ledger-to-be-quantum-proof-by-2028-here-is-its-plan",
+        "resumo": "Ripple has laid out a four-phase plan to make the XRP Ledger quantum-resistant by 2028.",
+        "imagem": "https://cdn.sanity.io/images/s3y3vcno/production/260b57a4fe560b018cc5f2eb91b9df196b57dc92-3773x2122.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+    },
+    {
+        "titulo": "Sparrow to Demonstrate AI-Driven Security and SBOM Management at Black Hat Asia 2026",
+        "fonte": "PR Newswire UK",
+        "autor": "",
+        "data": "2026-04-21",
+        "url": "https://www.prnewswire.co.uk/news-releases/sparrow-to-demonstrate-ai-driven-security-and-sbom-management-at-black-hat-asia-2026-302747000.html",
+        "resumo": "SINGAPORE, April 21, 2026 /PRNewswire/ -- Sparrow Co., Ltd., a provider of application security testing and software supply chain protection, has announced its participation in Black Hat Asia 2026, taking place April 21–24 at the Marina Bay Sands Expo and Con…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Cybersecurity jobs available right now: April 21, 2026",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-04-21",
+        "url": "https://www.helpnetsecurity.com/2026/04/21/cybersecurity-jobs-available-right-now-april-21-2026/",
+        "resumo": "Application Security Engineer (DevSecOps / Azure DevOps) BEWAHARVEST | Philippines | Hybrid – View job details As an Application Security Engineer (DevSecOps / Azure DevOps), you will embed security across the SDLC by working with engineering and DevOps teams…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140416/cybersecurity_jobs-1-1500.webp"
+    },
+    {
+        "titulo": "LASG unveils cybersecurity guidelines to boost digital safety",
+        "fonte": "The Punch",
+        "autor": "Punch Newspapers",
+        "data": "2026-04-20",
+        "url": "https://punchng.com/lasg-unveils-cybersecurity-guidelines-to-boost-digital-safety/",
+        "resumo": "Lagos State has released new cybersecurity guidelines to enhance digital safety for businesses and residents, aiming to build trust in its digital economy. Read More: https://punchng.com/lasg-unveils-cybersecurity-guidelines-to-boost-digital-safety/",
+        "imagem": "https://cdn.punchng.com/wp-content/uploads/2025/05/15045454/download-17.jpeg"
+    },
+    {
+        "titulo": "ODIN EMF Faraday Bag Claims Evaluated: Advanced Full Spectrum Signal-Blocking Cage for Phones, Tablets &amp; Key Fobs",
+        "fonte": "GlobeNewswire",
+        "autor": "ODIN EMF",
+        "data": "2026-04-20",
+        "url": "https://www.globenewswire.com/news-release/2026/04/20/3277486/0/en/ODIN-EMF-Faraday-Bag-Claims-Evaluated-Advanced-Full-Spectrum-Signal-Blocking-Cage-for-Phones-Tablets-Key-Fobs.html",
+        "resumo": "2026 overview of the ODIN EMF Faraday Bag&#x27;s signal-blocking design, relay theft prevention use case, shielding specs, and key consumer details....",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/2f00bcba-c486-4a8c-860c-f333abee3990"
+    },
+    {
+        "titulo": "Vulnerability Summary for the Week of April 13, 2026",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-04-20",
+        "url": "https://www.cisa.gov/news-events/bulletins/sb26-110",
+        "resumo": "High Vulnerabilities PrimaryVendor -- Product Description Published CVSS Score Source Info Patch Info Grafana--Pyroscope Pyroscope is an open-source continuous p…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Mythos: An AI tool too powerful for public release",
+        "fonte": "Malwarebytes.com",
+        "autor": "Pieter Arntz",
+        "data": "2026-04-20",
+        "url": "https://www.malwarebytes.com/blog/news/2026/04/mythos-an-ai-tool-too-powerful-for-public-release",
+        "resumo": "Anthropic is keeping Mythos out of public hands, with limited access for select organizations over fears it could be misused.",
+        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/04/ai-explosion.jpg"
+    },
+    {
+        "titulo": "⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge &amp; More",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-04-20",
+        "url": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
+        "resumo": "Monday’s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Browser extensions act normally while pulling data and running code. …",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirkQSoHlNZvcdjrevc7r-D8mPj49i3XRimQjk-HtEVDYVX4vKEcW4JLiTblV5oI8MtUib2Q5iFerdt0x4_mGDvMJqsDd2wX6QNQxM25Wnrq-MRYADw1YuJly5yoSTIz_ToqlWsAKA2hLwru4Crx8aSguTETpDl4mjRfrCg0G8Cca5Rk0Am6FCwRCNPIqBy/s1700-e365/recap-april.jpg"
+    },
+    {
+        "titulo": "Supercharged Security: Security in the Time of Mythos",
+        "fonte": "Fortinet.com",
+        "autor": "Carl Windsor",
+        "data": "2026-04-20",
+        "url": "https://www.fortinet.com/blog/ciso-collective/supercharged-security-security-in-the-time-of-mythos",
+        "resumo": "As AI has turned cybersecurity into an arms race, learn how Fortinet stands apart by combining long standing AI expertise, secure by design products, and the fastest path from discovery to mitigation, without sacrificing trust.",
+        "imagem": ""
+    },
+    {
+        "titulo": "&quot;The vault is solid, the delivery truck is not&quot; — strong key storage, shaky transfer: why this Windows Recall feature raises new security questions",
+        "fonte": "Windows Central",
+        "autor": "kevinokemwa@outlook.com (Kevin Okemwa) , Kevin Okemwa",
+        "data": "2026-04-20",
+        "url": "https://www.windowscentral.com/microsoft/windows-11/why-this-windows-recall-feature-raises-real-security-questions",
+        "resumo": "A security researcher&#x27;s TotalRecall Reloaded tool finds a way to sidestep Windows 11&#x27;s security features for Windows Recall, granting it access to sensitive data even without Windows Hello authentication.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/cER8HboCTdExdVJYMGDvse-2560-80.jpg"
+    },
+    {
+        "titulo": "GreenboneOS: Fortinet RCE Vulnerabilities 2026 – Critical vulnerabilities in FortiSandbox",
+        "fonte": "Greenbone.net",
+        "autor": "Joseph Lee",
+        "data": "2026-04-20",
+        "url": "https://www.greenbone.net/en/blog/fortinet-rce-vulnerabilities-2026-critical-vulnerabilities-in-fortisandbox/",
+        "resumo": "On April 14th and 15th, Fortinet disclosed 27 new vulnerabilities affecting a wide range of its products. The most severe of the new flaws, CVE-2026-39808 (CVSS 9.8) and CVE-2026-39813 (CVSS 9.8) allow unauthenticated remote code execution (RCE) on the FortiS…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Kaspersky ICS CERT experts present vulnerability in Qualcomm chips at Black Hat Asia",
+        "fonte": "Kaspersky.com",
+        "autor": "",
+        "data": "2026-04-20",
+        "url": "https://ics-cert.kaspersky.com/events/kaspersky-ics-cert-experts-present-vulnerability-in-qualcomm-chips-at-black-hat-asia/",
+        "resumo": "The details of a vulnerability research will be presented",
+        "imagem": ""
+    },
+    {
+        "titulo": "52M-Download protobuf.js Library Hit by RCE in Schema Handling",
+        "fonte": "HackRead",
+        "autor": "Deeba Ahmed",
+        "data": "2026-04-20",
+        "url": "https://hackread.com/52m-download-protobuf-js-library-rce-schema-handle/",
+        "resumo": "Critical RCE flaw in protobuf.js lets attackers execute code via malicious schemas. Learn who is at risk, affected versions, and how to fix it.",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/04/protobuf-js-library-rce-schema-handle.png"
+    },
+    {
+        "titulo": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-04-20",
+        "url": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
+        "resumo": "Cybersecurity researchers have discovered a critical &quot;by design&quot; weakness in the Model Context Protocol&#x27;s (MCP) architecture that could pave the way for remote code execution and have a cascading effect on the artificial intelligence (AI) supply chain. &quot;This …",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbUnokdbuoiv9j36ekgZbT7VQVSUJBbB4xzoXJKD8iTTO76tSRyhXGdOk2aZKX-RU_WeGyRzHfAf0zwva_cSY7JL5a7Fhmrtzjd-p-kg6JK75nE-nQiSESaDAHlyTN8be1iUFxp9xCq94-1JwZ16pwYZJkKxIFwqa8vNmfxZl8OCXRWnT0GKWOpYVPgbMb/s1700-e365/mcp.jpg"
+    },
+    {
+        "titulo": "EU’s “safe by design” age-verification app cracked in minutes, raising data security fears",
+        "fonte": "MediaNama.com",
+        "autor": "Ann Mary Peter",
+        "data": "2026-04-20",
+        "url": "https://www.medianama.com/2026/04/223-eu-age-verification-app-hacked-data-security-fears/",
+        "resumo": "A security consultant demonstrated how, by editing local configuration files, hackers can reset the PIN protections of the EU age verification app and access stored credentials. The post EU’s “safe by design” age-verification app cracked in minutes, raising …",
+        "imagem": "https://www.medianama.com/wp-content/uploads/2022/06/hacking-malware-.jpg"
+    },
+    {
+        "titulo": "NCSC Outlines Coordinated Plan to Boost NHS Cyber Resilience",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Phil Muncaster",
+        "data": "2026-04-20",
+        "url": "https://www.infosecurity-magazine.com/news/ncsc-plan-boost-nhs-cyber/",
+        "resumo": "The National Cyber Security Centre has shared an update of its resilience-building efforts for the NHS",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/a052b03d-d18b-4539-a0b8-77232a5dcfa2.jpg"
+    },
+    {
         "titulo": "$62.31 Bn Automotive Cybersecurity Market, 2026-2040: Continental Stands out with Its End-to-end Portfolio, Encompassing Secure Gateway Solutions Customized for OEMs Like BMW and Ford",
         "fonte": "GlobeNewswire",
         "autor": "Research and Markets",
@@ -7,176 +178,5 @@
         "url": "https://www.globenewswire.com/news-release/2026/04/20/3276748/28124/en/62-31-Bn-Automotive-Cybersecurity-Market-2026-2040-Continental-Stands-out-with-Its-End-to-end-Portfolio-Encompassing-Secure-Gateway-Solutions-Customized-for-OEMs-Like-BMW-and-Ford.html",
         "resumo": "Key market opportunities in automotive cybersecurity emerge from increased vehicle connectivity, autonomous driving, and software-defined vehicles, demanding AI-powered defenses and secure V2X communication. Regulatory compliance and growing consumer awarenes…",
         "imagem": "https://ml.globenewswire.com/Resource/Download/15443a53-6a59-47c0-89ce-52a436311f1d"
-    },
-    {
-        "titulo": "Lagos unveils framework to protect businesses from cybercrime",
-        "fonte": "The Punch",
-        "autor": "Punch Newspapers",
-        "data": "2026-04-20",
-        "url": "https://punchng.com/?p=2121441",
-        "resumo": "Lagos State has unveiled a new cybersecurity framework to tackle digital threats. Learn how these new guidelines aim to protect businesses and residents. Read More: https://punchng.com/lagos-unveils-framework-to-protect-businesses-from-cybercrime/",
-        "imagem": "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png"
-    },
-    {
-        "titulo": "SmokedMeat: Open-source tool shows what attackers do inside CI/CD pipelines",
-        "fonte": "Help Net Security",
-        "autor": "Mirko Zorz",
-        "data": "2026-04-20",
-        "url": "https://www.helpnetsecurity.com/2026/04/20/smokedmeat-ci-cd-pipeline-attacks/",
-        "resumo": "Boost Security has released SmokedMeat, an open-source framework that runs attack chains against CI/CD infrastructure so engineering and security teams can see what an attacker would do in their specific environment. What the tool does SmokedMeat takes a flag…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/04/16194738/smokedmeat-1500.webp"
-    },
-    {
-        "titulo": "Using Data and Data Analytics to Improve Cyber Resilience",
-        "fonte": "Carnegie Mellon University",
-        "autor": "Patsy Bulisco",
-        "data": "2026-04-20",
-        "url": "https://www.sei.cmu.edu/blog/using-data-and-data-analytics-to-improve-cyber-resilience/",
-        "resumo": "Our post highlights the use of data analytics as a force multiplier for cyber resilience as well as best practices to help organizations gain situational awareness on their current security posture.",
-        "imagem": "https://www.sei.cmu.edu/media/images/Bulisco_Pat_540_240530.max-1200x630.format-webp.webp"
-    },
-    {
-        "titulo": "Week in review: Acrobat Reader flaw exploited, Claude Mythos offensive capabilities and limits",
-        "fonte": "Help Net Security",
-        "autor": "Help Net Security",
-        "data": "2026-04-19",
-        "url": "https://www.helpnetsecurity.com/2026/04/19/week-in-review-acrobat-reader-flaw-exploited-claude-mythos-offensive-capabilities-and-limits/",
-        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Bringing governance and visibility to machine and AI identities In this Help Net Security interview, Archit Lohokare, CEO of AppViewX, explains how the rise of A…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01112506/cybersecurity_week_in_review2.jpg"
-    },
-    {
-        "titulo": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
-        "fonte": "Wired",
-        "autor": "Dell Cameron, Maddy Varner, Andy Greenberg, Andrew Couts",
-        "data": "2026-04-18",
-        "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
-        "resumo": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
-        "imagem": "https://media.wired.com/photos/69e297a5b6d175715986c107/191:100/w_1280,c_limit/security_EU_Age_Getty_1.jpg"
-    },
-    {
-        "titulo": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-04-18",
-        "url": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html",
-        "resumo": "Threat actors are exploiting security flaws in TBK DVR and end‑of‑life (EoL) TP-Link Wi-Fi routers to deploy Mirai-botnet variants on compromised devices, according to findings from Fortinet FortiGuard Labs and Palo Alto Networks Unit 42. The attack targeting…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6cxZZMfiWctk3Me9QO6UlzVRFab0SPGMTzThjpcPHCXm49bQ0rRvtG2W6gicJw4Mi1QUuv-yTDMK5GKJju3QicyjYJwdbA86Ok8w2oU5Vg28l4s0HAVv7_c03dStaM7OPd4Yq0khmm9MeQVUYnCYThMx4JvkCnZZ5PEtCXAA90vKfsAumsMAIw085JIsz/s1700-e365/botnet-ddos.jpg"
-    },
-    {
-        "titulo": "The Boy That Cried Mythos: Verification is Collapsing Trust in Anthropic | flyingpenguin",
-        "fonte": "Flyingpenguin.com",
-        "autor": "adragomir",
-        "data": "2026-04-18",
-        "url": "https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/",
-        "resumo": "Sem resumo",
-        "imagem": ""
-    },
-    {
-        "titulo": "Show HN: Agentic Dev – AI dev-tools news, curated daily by Claude",
-        "fonte": "Agenticdev.blog",
-        "autor": "beeswaxpat",
-        "data": "2026-04-18",
-        "url": "https://agenticdev.blog/",
-        "resumo": "AI dev tools news curated by AI agents. 161 articles from 16 sources this week — Claude, Cursor, Copilot, MCP, CLI agents, and more. Free daily email.",
-        "imagem": "https://agenticdev.blog/static/og-image.png"
-    },
-    {
-        "titulo": "NIST Limits CVE Enrichment After 263% Surge In Vulnerability Submissions",
-        "fonte": "Slashdot.org",
-        "autor": "BeauHD",
-        "data": "2026-04-17",
-        "url": "https://it.slashdot.org/story/26/04/17/2127243/nist-limits-cve-enrichment-after-263-surge-in-vulnerability-submissions",
-        "resumo": "NIST is narrowing how it handles CVEs in the National Vulnerability Database (NVD), saying it will only automatically enrich higher-priority vulnerabilities. &quot;CVEs that do not meet those criteria will still be listed in the NVD but will not automatically be e…",
-        "imagem": "https://a.fsdn.com/sd/topics/security_64.png"
-    },
-    {
-        "titulo": "Time for government, business leaders to figure out AI cybersecurity regulation",
-        "fonte": "Harvard School of Engineering and Applied Sciences",
-        "autor": "Terry Murphy",
-        "data": "2026-04-17",
-        "url": "https://news.harvard.edu/gazette/story/2026/04/time-for-government-business-leaders-to-figure-out-ai-cybersecurity-regulation/",
-        "resumo": "Experts say capabilities of agentic AI rising, along with risk to personal data, economy, national security.",
-        "imagem": "https://news.harvard.edu/wp-content/uploads/2026/04/040326_Risk_Cybersecurity_0357.jpg"
-    },
-    {
-        "titulo": "Payouts King ransomware uses QEMU VMs to bypass endpoint security",
-        "fonte": "BleepingComputer",
-        "autor": "Bill Toulas",
-        "data": "2026-04-17",
-        "url": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
-        "resumo": "The Payouts King ransomware is using the QEMU emulator as a reverse SSH backdoor to run hidden virtual machines on compromised systems and bypass endpoint security. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2024/05/07/hacker-box.jpg"
-    },
-    {
-        "titulo": "Rejected By Microsoft, 3 Defender Zero-Days Are Now Actively Exploited",
-        "fonte": "Hot Hardware",
-        "autor": "Chris Harper",
-        "data": "2026-04-17",
-        "url": "https://hothardware.com/news/angry-researcher-drops-a-windows-defender-zero-day-after-microsoft-rejects-bug-report",
-        "resumo": "A cyber security expert that goes by the name Nightmare-Eclipse attempted to disclose three zero days to Microsoft, but the first attempt reportedly ended in failure, so he elected to release it into the wild. That first exploit was dubbed &quot;BlueHammer&quot;. Short…",
-        "imagem": "https://hothardware.com/contentimages/NewsItem/70366/content/16x9_2133x1200_highres-windef-redsun.jpg"
-    },
-    {
-        "titulo": "Hackers are abusing unpatched Windows security flaws to hack into organizations | TechCrunch",
-        "fonte": "TechCrunch",
-        "autor": "Lorenzo Franceschi-bicchierai",
-        "data": "2026-04-17",
-        "url": "https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/",
-        "resumo": "A security researcher published details of three security vulnerabilities in Windows Defender, and the code used to exploit them. Now, hackers are taking advantage of the vulnerabilities in real-life attacks, according to a cybersecurity firm.",
-        "imagem": "https://techcrunch.com/wp-content/uploads/2025/07/photo-mosh-getty-windows-logo.jpg?resize=1200,675"
-    },
-    {
-        "titulo": "CISA tells feds to patch 13-year-old Apache ActiveMQ bug under active attack",
-        "fonte": "Theregister.com",
-        "autor": "Carly Page",
-        "data": "2026-04-17",
-        "url": "https://www.theregister.com/2026/04/17/cisa_tells_feds_to_patch/",
-        "resumo": "Bug hiding in plain sight for over a decade lands on KEV list CISA is sounding the alarm on a newly-exploited Apache ActiveMQ bug, ordering federal agencies to patch within two weeks as attackers circle a flaw that&#x27;s been quietly lurking for more than a decad…",
-        "imagem": "https://regmedia.co.uk/2015/06/16/angle_grinder_image_via_shutterstock.jpg"
-    },
-    {
-        "titulo": "At RSAC 2026, AI optimism and anxiety -- and an MIA U.S. government",
-        "fonte": "Techtarget.com",
-        "autor": "",
-        "data": "2026-04-17",
-        "url": "https://www.techtarget.com/searchsecurity/video/At-RSAC-2026-AI-optimism-and-anxiety-and-an-MIA-US-government",
-        "resumo": "Depending on whom you ask, AI could mean the end of the world as we know it, or the beginning of a new era of ease and enlightenment in the SOC. Learn more in this video discussion.",
-        "imagem": ""
-    },
-    {
-        "titulo": "NIST gives up enriching most CVEs",
-        "fonte": "Risky.biz",
-        "autor": "Catalin Cimpanu",
-        "data": "2026-04-17",
-        "url": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
-        "resumo": "The US National Institute of Standards and Technology announced on Wednesday a new policy regarding the US National Vulnerability Database [Read More]",
-        "imagem": "https://risky.biz/static/img/RB-OG-Social.jpg"
-    },
-    {
-        "titulo": "News brief: Microsoft security vulnerabilities revealed",
-        "fonte": "Techtarget.com",
-        "autor": "Staff report",
-        "data": "2026-04-17",
-        "url": "https://www.techtarget.com/searchsecurity/news/366641824/News-brief-Microsoft-security-vulnerabilities-revealed",
-        "resumo": "Check out the latest security news from TechTarget SearchSecurity&#x27;s sister sites, Cybersecurity Dive and Dark Reading.",
-        "imagem": "https://www.techtarget.com/rms/onlineimages/security_g1192070289.jpg"
-    },
-    {
-        "titulo": "What is Mythos and why are experts worried about Anthropic’s AI model",
-        "fonte": "Scientific American",
-        "autor": "Chris Stokel-Walker",
-        "data": "2026-04-17",
-        "url": "https://www.scientificamerican.com/article/what-is-mythos-and-why-are-experts-worried-about-anthropics-ai-model/",
-        "resumo": "The company says Mythos is too dangerous to release publicly. Cybersecurity experts agree the model&#x27;s capabilities matter, but not all of them are buying the most alarming claims",
-        "imagem": "https://static.scientificamerican.com/dam/asset/6b0b9d18-678d-4aa6-9911-7a734fa665d2/Anthropic-Mythos-Project-Glasswing.jpg?m=1776372286.189&w=1200"
-    },
-    {
-        "titulo": "It Is Time to Ban the Sale of Precise Geolocation",
-        "fonte": "Lawfaremedia.org",
-        "autor": "",
-        "data": "2026-04-17",
-        "url": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
-        "resumo": "The latest edition of the Seriously Risky Business cybersecurity newsletter, now on Lawfare.",
-        "imagem": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/world-map-cybersecurity.jpg?sfvrsn=5d9bbb64_4"
     }
 ]
