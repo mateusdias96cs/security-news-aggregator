@@ -1,182 +1,173 @@
 [
     {
-        "titulo": "The Human Aspect of Red Teams - Brian Fox, Tom Tovar, T. Gwyddon &#x27;Data&#x27; Owen - ASW #379",
-        "fonte": "Libsyn.com",
-        "autor": "",
-        "data": "2026-04-21",
-        "url": "https://securityweeklytv.libsyn.com/the-human-aspect-of-red-teams-brian-fox-tom-tovar-t-gwyddon-data-owen-asw-379",
-        "resumo": "Red team exercises set goals to see if a particular outcome can be accomplished through a simulated attack, but the ultimate outcome should be educating the org about how to improve tools and processes that make attacks more difficult to succeed. Gwyddon &quot;Dat…",
-        "imagem": "http://assets.libsyn.com/content/201002465?height=250&width=250&overlay=true"
+        "titulo": "Risky Business #834 -- Vercel gets owned, Mozilla dumps hundreds of Mythos bugs",
+        "fonte": "Risky.biz",
+        "autor": "James Wilson",
+        "data": "2026-04-22",
+        "url": "https://risky.biz/RB834/",
+        "resumo": "On this week’s show, Patrick Gray and James Wilson are joined by special guest The Grugq. They discuss the week’s cybersecurity news, including: Vercel got owned, and there’s a few infostealer and compromised employee dots to connect Mozi…",
+        "imagem": "https://risky.biz/static/img/RB-OG-Social.jpg"
     },
     {
-        "titulo": "Inside the &#x27;fake police raid&#x27; that forced a $1M Bitcoin transfer",
-        "fonte": "Cointelegraph",
-        "autor": "Cointelegraph by Dilip Kumar Patairya",
-        "data": "2026-04-21",
-        "url": "https://cointelegraph.com/features/crypto-coercion-attack-fake-police-raid",
-        "resumo": "A fake police raid enabled a $1 million Bitcoin robbery, exposing the rise of wrench attacks and the shift from digital hacks to physical crypto threats.",
-        "imagem": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019daed0-ebae-75c1-b249-6585df1beb15.jpg"
+        "titulo": "Default BitLocker configuration isn’t enough: Defending endpoints against physical attacks",
+        "fonte": "TechRadar",
+        "autor": "Ian Pratt",
+        "data": "2026-04-22",
+        "url": "https://www.techradar.com/pro/default-bitlocker-configuration-isnt-enough-defending-endpoints-against-physical-attacks",
+        "resumo": "Physical access attacks are no longer edge cases, they are a risk that organizations must actively plan for.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/5rDPr5xYvLwnkP7ZvpR2w3-2122-80.jpg"
     },
     {
-        "titulo": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-04-21",
-        "url": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including three flaws impacting Cisco Catalyst SD-WAN Manager, citing evidence of active exploitat…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzjZ6Llk3l-F3OFNRpNKvTziH1GObU6niwTMke4hEeI5bVXCcILs3kb25Dehkk1VCBf8NzEEPMLxElgbqLzAq0I1GuFAsDojdbVw-R6CGW6-qMXPaeiKXzQqn9JUL-VoPCVMx8h7FrOXIovnLwLv7T-O2wLdc4kIDA0bftbBDp9kwoDmqq6iYYlaZF6Qaz/s1700-e365/cisa-kev.jpg"
+        "titulo": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-04-22",
+        "url": "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/",
+        "resumo": "Over 1,300 Microsoft SharePoint servers exposed online remain unpatched against a spoofing vulnerability that was exploited as a zero-day and is still being abused in ongoing attacks. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/03/19/Microsoft-Sharepoint.jpg"
     },
     {
-        "titulo": "Ripple wants the XRP Ledger to be quantum-proof by 2028. Here is its plan",
-        "fonte": "CoinDesk",
-        "autor": "Omkar Godbole",
-        "data": "2026-04-21",
-        "url": "https://www.coindesk.com/markets/2026/04/21/ripple-wants-the-xrp-ledger-to-be-quantum-proof-by-2028-here-is-its-plan",
-        "resumo": "Ripple has laid out a four-phase plan to make the XRP Ledger quantum-resistant by 2028.",
-        "imagem": "https://cdn.sanity.io/images/s3y3vcno/production/260b57a4fe560b018cc5f2eb91b9df196b57dc92-3773x2122.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+        "titulo": "Anthropic&#x27;s Mythos model accessed by unauthorised users: Bloomberg",
+        "fonte": "The Times of India",
+        "autor": "Reuters",
+        "data": "2026-04-22",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-mythos-model-accessed-by-unauthorised-users-bloomberg/articleshow/130433765.cms",
+        "resumo": "Unauthorized users reportedly gained access to Anthropic&#x27;s new Mythos AI model via a private online forum on the same day the company announced plans for limited testing. Anthropic is investigating the alleged breach through a third-party vendor environment. …",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-30616,resizemode-75,msid-130433765/tech/artificial-intelligence/anthropics-mythos-model-accessed-by-unauthorised-users-bloomberg.jpg"
     },
     {
-        "titulo": "Sparrow to Demonstrate AI-Driven Security and SBOM Management at Black Hat Asia 2026",
-        "fonte": "PR Newswire UK",
-        "autor": "",
-        "data": "2026-04-21",
-        "url": "https://www.prnewswire.co.uk/news-releases/sparrow-to-demonstrate-ai-driven-security-and-sbom-management-at-black-hat-asia-2026-302747000.html",
-        "resumo": "SINGAPORE, April 21, 2026 /PRNewswire/ -- Sparrow Co., Ltd., a provider of application security testing and software supply chain protection, has announced its participation in Black Hat Asia 2026, taking place April 21–24 at the Marina Bay Sands Expo and Con…",
-        "imagem": ""
+        "titulo": "A tsunami of flaws: When frontier AI and Patch Tuesday collide",
+        "fonte": "ComputerWeekly.com",
+        "autor": "Alex Scroxton",
+        "data": "2026-04-22",
+        "url": "https://www.computerweekly.com/news/366641789/A-tsunami-of-flaws-When-frontier-AI-and-Patch-Tuesday-collide",
+        "resumo": "Microsoft’s April Patch Tuesday drop was the second-largest in history, falling just shy of an October 2025 record. What is behind the spike in vulnerability disclosures, and is there a connection to Anthropic’s bug-hunting Claude Mythos AI model?",
+        "imagem": "https://www.computerweekly.com/visuals/German/article/cloud-service-outage-adobe.jpg"
     },
     {
-        "titulo": "Cybersecurity jobs available right now: April 21, 2026",
+        "titulo": "Why did Mozilla patch 271 Firefox bugs? #tech",
+        "fonte": "Alltoc.com",
+        "autor": "AllToc",
+        "data": "2026-04-22",
+        "url": "https://alltoc.com/tech/why-did-mozilla-patch-271-firefox-bugs",
+        "resumo": "Mozilla fixed 271 Firefox vulnerabilities with Mythos Mozilla says it used an early access version of Anthropic’s Claude Mythos Preview to help comb through Firefox code and find security issues. The effort resulted in fixes for 271 vulnerabilities that were …",
+        "imagem": "https://alltoc.com/cdn/1046/og.png"
+    },
+    {
+        "titulo": "What happened with Anthropic’s Mythos access? #tech",
+        "fonte": "Alltoc.com",
+        "autor": "AllToc",
+        "data": "2026-04-22",
+        "url": "https://alltoc.com/tech/what-happened-with-anthropics-mythos-access",
+        "resumo": "Unauthorized users accessed Mythos Anthropic confirmed reports that an unauthorized group had gained access to its cybersecurity model Mythos, months/episodes into Mythos’ early rollout as a powerful tool for finding and fixing vulnerabilities. The reporting …",
+        "imagem": "https://alltoc.com/cdn/1046/og.png"
+    },
+    {
+        "titulo": "PentAGI: Open-source autonomous AI penetration testing system",
         "fonte": "Help Net Security",
         "autor": "Anamarija Pogorelec",
-        "data": "2026-04-21",
-        "url": "https://www.helpnetsecurity.com/2026/04/21/cybersecurity-jobs-available-right-now-april-21-2026/",
-        "resumo": "Application Security Engineer (DevSecOps / Azure DevOps) BEWAHARVEST | Philippines | Hybrid – View job details As an Application Security Engineer (DevSecOps / Azure DevOps), you will embed security across the SDLC by working with engineering and DevOps teams…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140416/cybersecurity_jobs-1-1500.webp"
+        "data": "2026-04-22",
+        "url": "https://www.helpnetsecurity.com/2026/04/22/pentagi-autonomous-ai-penetration-testing/",
+        "resumo": "Penetration testers have long relied on collections of specialized tools, manual coordination, and documented runbooks to work through a target assessment. PentAGI, an open-source project from VXControl, attempts to automate that entire workflow using a multi…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/04/16131911/pentagi-1400.webp"
     },
     {
-        "titulo": "LASG unveils cybersecurity guidelines to boost digital safety",
+        "titulo": "Mozilla reveals AI model detected 271 vulnerabilities in Firefox",
+        "fonte": "Nextbigwhat.com",
+        "autor": "Editorial Team",
+        "data": "2026-04-22",
+        "url": "https://nextbigwhat.com/mozilla-reveals-ai-model-detected-271-vulnerabilities-in-firefox/",
+        "resumo": "Mozilla&#x27;s CTO announced that Anthropic&#x27;s AI model, Mythos, identified 271 zero-day vulnerabilities in Firefox 150. This achievement highlights the capabilities of AI in cybersecurity, claiming it matches the expertise of top human security researchers. The fi…",
+        "imagem": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9uZXh0Ymlnd2hhdC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC82OTc0Yy1uZXh0Ymlnd2hhdC1sb2dvLnBuZz9maXQ9MTA2OCUyQzMwMSZzc2w9MSIsInR4dCI6Ik5leHRCaWdXaGF0IiwidGVtcGxhdGUiOiJlZGdlIiwiZm9udCI6IiIsImJsb2dfaWQiOjIxMzc5NDAxM30.vQKvxzKickmO33DelB2jg4vHNf7Tipk9MGSbojqVuT4MQ"
+    },
+    {
+        "titulo": "Securing air-gapped environments with Elastic on Google Distributed Cloud",
+        "fonte": "Elastic.co",
+        "autor": "Jason Pappalexis",
+        "data": "2026-04-22",
+        "url": "https://www.elastic.co/blog/google-distributed-cloud-air-gapped-environments",
+        "resumo": "Elastic Security is now a native, embedded security layer for GDC air-gapped environments — bringing its agentic SecOps platform to government, defense, finance, and telecom teams running workloads disconnected from the public internet.",
+        "imagem": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt1e8406c893cbc8bc/69e8397519f2ad8178baf83c/getty-images-aSidViLxHpQ-unsplash.jpg"
+    },
+    {
+        "titulo": "Mozilla says it patched 271 Firefox vulnerabilities thanks to Anthropic&#x27;s Claude Mythos",
+        "fonte": "Slashdot.org",
+        "autor": "feedfeeder",
+        "data": "2026-04-21",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181838108",
+        "resumo": "Anthropic&#x27;s buzzy announcement about using AI to improve cybersecurity earlier this month was met with plenty of skepticism. However, Mozilla shared some details that support use of the company&#x27;s special Claude Mythos Preview model as a way to protect critica…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Anthropic just made AI scarier",
+        "fonte": "Vox",
+        "autor": "dustin-desoto, Sean Rameswaram",
+        "data": "2026-04-21",
+        "url": "https://www.vox.com/podcasts/486336/anthropic-claude-mythos-preview-cybersecurity-hacking-glasswing",
+        "resumo": "How powerful is AI? Enough that Anthropic, a leading AI company, announced earlier this month that its latest AI model, Claude Mythos Preview, would be available only to a limited number of businesses due to security concerns — at least for now. Claude Mythos…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Google Fixes AI Coding Tool Flaw That Let Attackers Execute Malicious Code: Report",
+        "fonte": "Decrypt",
+        "autor": "Jason Nelson",
+        "data": "2026-04-21",
+        "url": "https://decrypt.co/365068/google-fixes-ai-coding-tool-flaw-attackers-execute-malicious-code",
+        "resumo": "Researchers say a prompt injection bug in Google&#x27;s Antigravity AI coding tool could have let attackers run commands, despite safeguards.",
+        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/crypto-crime-decrypt-style-02-gID_7.jpg"
+    },
+    {
+        "titulo": "Lawyers Without Borders raises the alarm over CAC data breach",
         "fonte": "The Punch",
         "autor": "Punch Newspapers",
-        "data": "2026-04-20",
-        "url": "https://punchng.com/lasg-unveils-cybersecurity-guidelines-to-boost-digital-safety/",
-        "resumo": "Lagos State has released new cybersecurity guidelines to enhance digital safety for businesses and residents, aiming to build trust in its digital economy. Read More: https://punchng.com/lasg-unveils-cybersecurity-guidelines-to-boost-digital-safety/",
-        "imagem": "https://cdn.punchng.com/wp-content/uploads/2025/05/15045454/download-17.jpeg"
+        "data": "2026-04-21",
+        "url": "https://punchng.com/lawyers-without-borders-raises-the-alarm-over-cac-data-breach/",
+        "resumo": "Lawyers Without Borders raises concern over the recent CAC data breach, warning that it undermines the privacy rights of Nigerian entrepreneurs. Read More: https://punchng.com/lawyers-without-borders-raises-the-alarm-over-cac-data-breach/",
+        "imagem": "https://cdn.punchng.com/wp-content/uploads/2025/07/20165826/IMG_0943.jpeg"
     },
     {
-        "titulo": "ODIN EMF Faraday Bag Claims Evaluated: Advanced Full Spectrum Signal-Blocking Cage for Phones, Tablets &amp; Key Fobs",
-        "fonte": "GlobeNewswire",
-        "autor": "ODIN EMF",
-        "data": "2026-04-20",
-        "url": "https://www.globenewswire.com/news-release/2026/04/20/3277486/0/en/ODIN-EMF-Faraday-Bag-Claims-Evaluated-Advanced-Full-Spectrum-Signal-Blocking-Cage-for-Phones-Tablets-Key-Fobs.html",
-        "resumo": "2026 overview of the ODIN EMF Faraday Bag&#x27;s signal-blocking design, relay theft prevention use case, shielding specs, and key consumer details....",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/2f00bcba-c486-4a8c-860c-f333abee3990"
-    },
-    {
-        "titulo": "Vulnerability Summary for the Week of April 13, 2026",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-04-20",
-        "url": "https://www.cisa.gov/news-events/bulletins/sb26-110",
-        "resumo": "High Vulnerabilities PrimaryVendor -- Product Description Published CVSS Score Source Info Patch Info Grafana--Pyroscope Pyroscope is an open-source continuous p…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Mythos: An AI tool too powerful for public release",
-        "fonte": "Malwarebytes.com",
-        "autor": "Pieter Arntz",
-        "data": "2026-04-20",
-        "url": "https://www.malwarebytes.com/blog/news/2026/04/mythos-an-ai-tool-too-powerful-for-public-release",
-        "resumo": "Anthropic is keeping Mythos out of public hands, with limited access for select organizations over fears it could be misused.",
-        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/04/ai-explosion.jpg"
-    },
-    {
-        "titulo": "⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge &amp; More",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-04-20",
-        "url": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
-        "resumo": "Monday’s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Browser extensions act normally while pulling data and running code. …",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirkQSoHlNZvcdjrevc7r-D8mPj49i3XRimQjk-HtEVDYVX4vKEcW4JLiTblV5oI8MtUib2Q5iFerdt0x4_mGDvMJqsDd2wX6QNQxM25Wnrq-MRYADw1YuJly5yoSTIz_ToqlWsAKA2hLwru4Crx8aSguTETpDl4mjRfrCg0G8Cca5Rk0Am6FCwRCNPIqBy/s1700-e365/recap-april.jpg"
-    },
-    {
-        "titulo": "Supercharged Security: Security in the Time of Mythos",
-        "fonte": "Fortinet.com",
-        "autor": "Carl Windsor",
-        "data": "2026-04-20",
-        "url": "https://www.fortinet.com/blog/ciso-collective/supercharged-security-security-in-the-time-of-mythos",
-        "resumo": "As AI has turned cybersecurity into an arms race, learn how Fortinet stands apart by combining long standing AI expertise, secure by design products, and the fastest path from discovery to mitigation, without sacrificing trust.",
-        "imagem": ""
-    },
-    {
-        "titulo": "&quot;The vault is solid, the delivery truck is not&quot; — strong key storage, shaky transfer: why this Windows Recall feature raises new security questions",
-        "fonte": "Windows Central",
-        "autor": "kevinokemwa@outlook.com (Kevin Okemwa) , Kevin Okemwa",
-        "data": "2026-04-20",
-        "url": "https://www.windowscentral.com/microsoft/windows-11/why-this-windows-recall-feature-raises-real-security-questions",
-        "resumo": "A security researcher&#x27;s TotalRecall Reloaded tool finds a way to sidestep Windows 11&#x27;s security features for Windows Recall, granting it access to sensitive data even without Windows Hello authentication.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/cER8HboCTdExdVJYMGDvse-2560-80.jpg"
-    },
-    {
-        "titulo": "GreenboneOS: Fortinet RCE Vulnerabilities 2026 – Critical vulnerabilities in FortiSandbox",
-        "fonte": "Greenbone.net",
-        "autor": "Joseph Lee",
-        "data": "2026-04-20",
-        "url": "https://www.greenbone.net/en/blog/fortinet-rce-vulnerabilities-2026-critical-vulnerabilities-in-fortisandbox/",
-        "resumo": "On April 14th and 15th, Fortinet disclosed 27 new vulnerabilities affecting a wide range of its products. The most severe of the new flaws, CVE-2026-39808 (CVSS 9.8) and CVE-2026-39813 (CVSS 9.8) allow unauthenticated remote code execution (RCE) on the FortiS…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Kaspersky ICS CERT experts present vulnerability in Qualcomm chips at Black Hat Asia",
-        "fonte": "Kaspersky.com",
+        "titulo": "Waller, Modernizing Federal Reserve Operations in the 21st Century",
+        "fonte": "Federalreserve.gov",
         "autor": "",
-        "data": "2026-04-20",
-        "url": "https://ics-cert.kaspersky.com/events/kaspersky-ics-cert-experts-present-vulnerability-in-qualcomm-chips-at-black-hat-asia/",
-        "resumo": "The details of a vulnerability research will be presented",
-        "imagem": ""
+        "data": "2026-04-21",
+        "url": "https://www.federalreserve.gov/newsevents/speech/waller20260421a.htm",
+        "resumo": "Thank you, David and thank you to Brookings for having me speak today. 1 Whenever anyone hears the words &quot;Federal Reserve&quot; they immediately think about mo",
+        "imagem": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg"
     },
     {
-        "titulo": "52M-Download protobuf.js Library Hit by RCE in Schema Handling",
-        "fonte": "HackRead",
-        "autor": "Deeba Ahmed",
-        "data": "2026-04-20",
-        "url": "https://hackread.com/52m-download-protobuf-js-library-rce-schema-handle/",
-        "resumo": "Critical RCE flaw in protobuf.js lets attackers execute code via malicious schemas. Learn who is at risk, affected versions, and how to fix it.",
-        "imagem": "https://hackread.com/wp-content/uploads/2026/04/protobuf-js-library-rce-schema-handle.png"
+        "titulo": "Mozilla Used Anthropic’s Mythos to Find and Fix 151 Bugs in Firefox",
+        "fonte": "Wired",
+        "autor": "Lily Hay Newman",
+        "data": "2026-04-21",
+        "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
+        "resumo": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
+        "imagem": "https://media.wired.com/photos/69e6df06b405035df7b7ce2e/191:100/w_1280,c_limit/security_GettyImages-2214075816.jpg"
     },
     {
-        "titulo": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-04-20",
-        "url": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
-        "resumo": "Cybersecurity researchers have discovered a critical &quot;by design&quot; weakness in the Model Context Protocol&#x27;s (MCP) architecture that could pave the way for remote code execution and have a cascading effect on the artificial intelligence (AI) supply chain. &quot;This …",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbUnokdbuoiv9j36ekgZbT7VQVSUJBbB4xzoXJKD8iTTO76tSRyhXGdOk2aZKX-RU_WeGyRzHfAf0zwva_cSY7JL5a7Fhmrtzjd-p-kg6JK75nE-nQiSESaDAHlyTN8be1iUFxp9xCq94-1JwZ16pwYZJkKxIFwqa8vNmfxZl8OCXRWnT0GKWOpYVPgbMb/s1700-e365/mcp.jpg"
+        "titulo": "More Cisco SD-WAN bugs battered in attacks",
+        "fonte": "Theregister.com",
+        "autor": "Jessica Lyons",
+        "data": "2026-04-21",
+        "url": "https://www.theregister.com/2026/04/21/cisco_sdwan_bugs_kev/",
+        "resumo": "CISA gives federal agencies 4 days to patch America&#x27;s lead cyber-defense agency has warned that three Cisco Catalyst SD-WAN Manager bugs are under attack, and given federal agencies just four days to patch the security holes.…",
+        "imagem": "https://regmedia.co.uk/2021/02/05/cisco_shutterstock_editorial_only.jpg"
     },
     {
-        "titulo": "EU’s “safe by design” age-verification app cracked in minutes, raising data security fears",
-        "fonte": "MediaNama.com",
-        "autor": "Ann Mary Peter",
-        "data": "2026-04-20",
-        "url": "https://www.medianama.com/2026/04/223-eu-age-verification-app-hacked-data-security-fears/",
-        "resumo": "A security consultant demonstrated how, by editing local configuration files, hackers can reset the PIN protections of the EU age verification app and access stored credentials. The post EU’s “safe by design” age-verification app cracked in minutes, raising …",
-        "imagem": "https://www.medianama.com/wp-content/uploads/2022/06/hacking-malware-.jpg"
+        "titulo": "SUSE sees open architectures redefining resilience and digital sovereignty",
+        "fonte": "SiliconANGLE News",
+        "autor": "Ryan Stevens",
+        "data": "2026-04-21",
+        "url": "https://siliconangle.com/2026/04/21/digital-sovereignty-drives-open-architecture-shift-susecon/",
+        "resumo": "Resilience and digital sovereignty are emerging as defining priorities in enterprise IT amid rising multicloud complexity and AI adoption. In response, organizations are betting on open, modular architectures and partner ecosystems to reclaim flexibility and …",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/DSC01025-e1776784138524.jpg"
     },
     {
-        "titulo": "NCSC Outlines Coordinated Plan to Boost NHS Cyber Resilience",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Phil Muncaster",
-        "data": "2026-04-20",
-        "url": "https://www.infosecurity-magazine.com/news/ncsc-plan-boost-nhs-cyber/",
-        "resumo": "The National Cyber Security Centre has shared an update of its resilience-building efforts for the NHS",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/a052b03d-d18b-4539-a0b8-77232a5dcfa2.jpg"
-    },
-    {
-        "titulo": "$62.31 Bn Automotive Cybersecurity Market, 2026-2040: Continental Stands out with Its End-to-end Portfolio, Encompassing Secure Gateway Solutions Customized for OEMs Like BMW and Ford",
-        "fonte": "GlobeNewswire",
-        "autor": "Research and Markets",
-        "data": "2026-04-20",
-        "url": "https://www.globenewswire.com/news-release/2026/04/20/3276748/28124/en/62-31-Bn-Automotive-Cybersecurity-Market-2026-2040-Continental-Stands-out-with-Its-End-to-end-Portfolio-Encompassing-Secure-Gateway-Solutions-Customized-for-OEMs-Like-BMW-and-Ford.html",
-        "resumo": "Key market opportunities in automotive cybersecurity emerge from increased vehicle connectivity, autonomous driving, and software-defined vehicles, demanding AI-powered defenses and secure V2X communication. Regulatory compliance and growing consumer awarenes…",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/15443a53-6a59-47c0-89ce-52a436311f1d"
+        "titulo": "$80M film leak hits Paramount+ as explosive report reveals Hollywood is terrifyingly exposed to hackers",
+        "fonte": "Page Six",
+        "autor": "mliss1578",
+        "data": "2026-04-21",
+        "url": "https://pagesix.com/2026/04/21/hollywood/80m-film-leak-hits-paramount-as-explosive-report-reveals-hollywood-is-terrifyingly-exposed-to-hackers/",
+        "resumo": "It’s been a little more than a decade since the Sony hack unleashed the email inboxes of top executives and saw multiple finished movies dropped into the public domain exposing cybersecurity as one of Hollywood&#x27;s Achilles&#x27; heels. And according to a new report…",
+        "imagem": "https://pagesix.com/wp-content/uploads/sites/3/2026/04/newspress-collage-ohggu1tfj-1776737150448.jpg?quality=75&strip=all&1776722946&w=1200"
     }
 ]
