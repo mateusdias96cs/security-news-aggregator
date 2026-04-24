@@ -1,173 +1,182 @@
 [
     {
-        "titulo": "Risky Business #834 -- Vercel gets owned, Mozilla dumps hundreds of Mythos bugs",
-        "fonte": "Risky.biz",
-        "autor": "James Wilson",
-        "data": "2026-04-22",
-        "url": "https://risky.biz/RB834/",
-        "resumo": "On this week’s show, Patrick Gray and James Wilson are joined by special guest The Grugq. They discuss the week’s cybersecurity news, including: Vercel got owned, and there’s a few infostealer and compromised employee dots to connect Mozi…",
-        "imagem": "https://risky.biz/static/img/RB-OG-Social.jpg"
+        "titulo": "U.S. CISA adds a flaw in Microsoft Defender to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-04-23",
+        "url": "https://securityaffairs.com/191164/hacking/u-s-cisa-adds-a-flaw-in-microsoft-defender-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a flaw in Microsoft Defender to its Known Exploited Vulnerabilities catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a flaw in Microsoft Defender, tracked as C…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
     },
     {
-        "titulo": "Default BitLocker configuration isn’t enough: Defending endpoints against physical attacks",
+        "titulo": "AI-generated passwords aren&#x27;t as secure as they appear",
         "fonte": "TechRadar",
-        "autor": "Ian Pratt",
-        "data": "2026-04-22",
-        "url": "https://www.techradar.com/pro/default-bitlocker-configuration-isnt-enough-defending-endpoints-against-physical-attacks",
-        "resumo": "Physical access attacks are no longer edge cases, they are a risk that organizations must actively plan for.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/5rDPr5xYvLwnkP7ZvpR2w3-2122-80.jpg"
+        "autor": "Chris Skipworth",
+        "data": "2026-04-23",
+        "url": "https://www.techradar.com/pro/ai-generated-passwords-arent-as-secure-as-they-appear",
+        "resumo": "That AI-generated password looks strong, but pattern recognition and training data make it far less random than you think.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg"
     },
     {
-        "titulo": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-04-22",
-        "url": "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/",
-        "resumo": "Over 1,300 Microsoft SharePoint servers exposed online remain unpatched against a spoofing vulnerability that was exploited as a zero-day and is still being abused in ongoing attacks. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/03/19/Microsoft-Sharepoint.jpg"
+        "titulo": "How Poetry Is Diabolically Being Used In Everyday Prompts To Get AI To Do Things It Isn’t Supposed To Do",
+        "fonte": "Forbes",
+        "autor": "Lance Eliot, Contributor, Lance Eliot, Contributor https://www.forbes.com/sites/lanceeliot/",
+        "data": "2026-04-23",
+        "url": "https://www.forbes.com/sites/lanceeliot/2026/04/23/how-poetry-is-diabolically-being-used-in-everyday-prompts-to-get-ai-to-do-things-it-isnt-supposed-to-do/",
+        "resumo": "Hackers and evildoers are using adversarial poetry to jailbreak AI. The trick involves writing poems as prompts. AI safeguards can be averted. An AI Insider scoop.",
+        "imagem": "https://imageio.forbes.com/specials-images/imageserve/69e7e466a87ac568da61cb04/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
     },
     {
-        "titulo": "Anthropic&#x27;s Mythos model accessed by unauthorised users: Bloomberg",
-        "fonte": "The Times of India",
-        "autor": "Reuters",
-        "data": "2026-04-22",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-mythos-model-accessed-by-unauthorised-users-bloomberg/articleshow/130433765.cms",
-        "resumo": "Unauthorized users reportedly gained access to Anthropic&#x27;s new Mythos AI model via a private online forum on the same day the company announced plans for limited testing. Anthropic is investigating the alleged breach through a third-party vendor environment. …",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-30616,resizemode-75,msid-130433765/tech/artificial-intelligence/anthropics-mythos-model-accessed-by-unauthorised-users-bloomberg.jpg"
+        "titulo": "EY and IIF: Four in Five CROs Rank Cyber Among Top Risks",
+        "fonte": "Insurance Journal",
+        "autor": "Allen Laman",
+        "data": "2026-04-23",
+        "url": "https://www.insurancejournal.com/news/national/2026/04/23/866980.htm",
+        "resumo": "Eighty percent of insurance chief risk officers rank cyber among their top five risks, according to a new report from EY and the Institute of International Finance. That was up 14 percentage points year over year. The third annual EY–IIF …",
+        "imagem": "https://www.insurancejournal.com/app/uploads/2025/05/cyber-scaled.jpg"
     },
     {
-        "titulo": "A tsunami of flaws: When frontier AI and Patch Tuesday collide",
-        "fonte": "ComputerWeekly.com",
-        "autor": "Alex Scroxton",
-        "data": "2026-04-22",
-        "url": "https://www.computerweekly.com/news/366641789/A-tsunami-of-flaws-When-frontier-AI-and-Patch-Tuesday-collide",
-        "resumo": "Microsoft’s April Patch Tuesday drop was the second-largest in history, falling just shy of an October 2025 record. What is behind the spike in vulnerability disclosures, and is there a connection to Anthropic’s bug-hunting Claude Mythos AI model?",
-        "imagem": "https://www.computerweekly.com/visuals/German/article/cloud-service-outage-adobe.jpg"
+        "titulo": "North Korean hackers target financial firms with macOS malware using AppleScript",
+        "fonte": "Crypto Briefing",
+        "autor": "Estefano Gomez",
+        "data": "2026-04-23",
+        "url": "https://cryptobriefing.com/north-korean-hackers-target-financial-firms-with-macos-malware-using-applescript/",
+        "resumo": "The evolving tactics of North Korean hackers highlight the persistent vulnerability of financial systems, urging enhanced cybersecurity measures. The post North Korean hackers target financial firms with macOS malware using AppleScript appeared first on Crypt…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/04/22210751/major-crypto-exchange-hack-in-2025-ORGzX0UPEKc1-8-800x450.jpg"
     },
     {
-        "titulo": "Why did Mozilla patch 271 Firefox bugs? #tech",
-        "fonte": "Alltoc.com",
-        "autor": "AllToc",
-        "data": "2026-04-22",
-        "url": "https://alltoc.com/tech/why-did-mozilla-patch-271-firefox-bugs",
-        "resumo": "Mozilla fixed 271 Firefox vulnerabilities with Mythos Mozilla says it used an early access version of Anthropic’s Claude Mythos Preview to help comb through Firefox code and find security issues. The effort resulted in fixes for 271 vulnerabilities that were …",
-        "imagem": "https://alltoc.com/cdn/1046/og.png"
-    },
-    {
-        "titulo": "What happened with Anthropic’s Mythos access? #tech",
-        "fonte": "Alltoc.com",
-        "autor": "AllToc",
-        "data": "2026-04-22",
-        "url": "https://alltoc.com/tech/what-happened-with-anthropics-mythos-access",
-        "resumo": "Unauthorized users accessed Mythos Anthropic confirmed reports that an unauthorized group had gained access to its cybersecurity model Mythos, months/episodes into Mythos’ early rollout as a powerful tool for finding and fixing vulnerabilities. The reporting …",
-        "imagem": "https://alltoc.com/cdn/1046/og.png"
-    },
-    {
-        "titulo": "PentAGI: Open-source autonomous AI penetration testing system",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-04-22",
-        "url": "https://www.helpnetsecurity.com/2026/04/22/pentagi-autonomous-ai-penetration-testing/",
-        "resumo": "Penetration testers have long relied on collections of specialized tools, manual coordination, and documented runbooks to work through a target assessment. PentAGI, an open-source project from VXControl, attempts to automate that entire workflow using a multi…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/04/16131911/pentagi-1400.webp"
-    },
-    {
-        "titulo": "Mozilla reveals AI model detected 271 vulnerabilities in Firefox",
-        "fonte": "Nextbigwhat.com",
-        "autor": "Editorial Team",
-        "data": "2026-04-22",
-        "url": "https://nextbigwhat.com/mozilla-reveals-ai-model-detected-271-vulnerabilities-in-firefox/",
-        "resumo": "Mozilla&#x27;s CTO announced that Anthropic&#x27;s AI model, Mythos, identified 271 zero-day vulnerabilities in Firefox 150. This achievement highlights the capabilities of AI in cybersecurity, claiming it matches the expertise of top human security researchers. The fi…",
-        "imagem": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9uZXh0Ymlnd2hhdC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC82OTc0Yy1uZXh0Ymlnd2hhdC1sb2dvLnBuZz9maXQ9MTA2OCUyQzMwMSZzc2w9MSIsInR4dCI6Ik5leHRCaWdXaGF0IiwidGVtcGxhdGUiOiJlZGdlIiwiZm9udCI6IiIsImJsb2dfaWQiOjIxMzc5NDAxM30.vQKvxzKickmO33DelB2jg4vHNf7Tipk9MGSbojqVuT4MQ"
-    },
-    {
-        "titulo": "Securing air-gapped environments with Elastic on Google Distributed Cloud",
-        "fonte": "Elastic.co",
-        "autor": "Jason Pappalexis",
-        "data": "2026-04-22",
-        "url": "https://www.elastic.co/blog/google-distributed-cloud-air-gapped-environments",
-        "resumo": "Elastic Security is now a native, embedded security layer for GDC air-gapped environments — bringing its agentic SecOps platform to government, defense, finance, and telecom teams running workloads disconnected from the public internet.",
-        "imagem": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt1e8406c893cbc8bc/69e8397519f2ad8178baf83c/getty-images-aSidViLxHpQ-unsplash.jpg"
-    },
-    {
-        "titulo": "Mozilla says it patched 271 Firefox vulnerabilities thanks to Anthropic&#x27;s Claude Mythos",
-        "fonte": "Slashdot.org",
-        "autor": "feedfeeder",
-        "data": "2026-04-21",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181838108",
-        "resumo": "Anthropic&#x27;s buzzy announcement about using AI to improve cybersecurity earlier this month was met with plenty of skepticism. However, Mozilla shared some details that support use of the company&#x27;s special Claude Mythos Preview model as a way to protect critica…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Anthropic just made AI scarier",
-        "fonte": "Vox",
-        "autor": "dustin-desoto, Sean Rameswaram",
-        "data": "2026-04-21",
-        "url": "https://www.vox.com/podcasts/486336/anthropic-claude-mythos-preview-cybersecurity-hacking-glasswing",
-        "resumo": "How powerful is AI? Enough that Anthropic, a leading AI company, announced earlier this month that its latest AI model, Claude Mythos Preview, would be available only to a limited number of businesses due to security concerns — at least for now. Claude Mythos…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Google Fixes AI Coding Tool Flaw That Let Attackers Execute Malicious Code: Report",
-        "fonte": "Decrypt",
-        "autor": "Jason Nelson",
-        "data": "2026-04-21",
-        "url": "https://decrypt.co/365068/google-fixes-ai-coding-tool-flaw-attackers-execute-malicious-code",
-        "resumo": "Researchers say a prompt injection bug in Google&#x27;s Antigravity AI coding tool could have let attackers run commands, despite safeguards.",
-        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/crypto-crime-decrypt-style-02-gID_7.jpg"
-    },
-    {
-        "titulo": "Lawyers Without Borders raises the alarm over CAC data breach",
-        "fonte": "The Punch",
-        "autor": "Punch Newspapers",
-        "data": "2026-04-21",
-        "url": "https://punchng.com/lawyers-without-borders-raises-the-alarm-over-cac-data-breach/",
-        "resumo": "Lawyers Without Borders raises concern over the recent CAC data breach, warning that it undermines the privacy rights of Nigerian entrepreneurs. Read More: https://punchng.com/lawyers-without-borders-raises-the-alarm-over-cac-data-breach/",
-        "imagem": "https://cdn.punchng.com/wp-content/uploads/2025/07/20165826/IMG_0943.jpeg"
-    },
-    {
-        "titulo": "Waller, Modernizing Federal Reserve Operations in the 21st Century",
-        "fonte": "Federalreserve.gov",
+        "titulo": "Botnet Alert - Mirai Botnet Targets End-of-Life D-Link Routers",
+        "fonte": "Hkcert.org",
         "autor": "",
-        "data": "2026-04-21",
-        "url": "https://www.federalreserve.gov/newsevents/speech/waller20260421a.htm",
-        "resumo": "Thank you, David and thank you to Brookings for having me speak today. 1 Whenever anyone hears the words &quot;Federal Reserve&quot; they immediately think about mo",
-        "imagem": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg"
+        "data": "2026-04-23",
+        "url": "https://www.hkcert.org/security-bulletin/botnet-alert-mirai-botnet-targets-end-of-life-d-link-routers_20260423",
+        "resumo": "HKCERT has recently noted reports indicating that a new variant of the Mirai botnet is exploiting vulnerabilities to attack D-Link DIR-823X routers that have reached end-of-life and are no longer supported. The vulnerability is a remote arbitrary code exe",
+        "imagem": "https://www.hkcert.org/assets/img/botnet.jpg"
     },
     {
-        "titulo": "Mozilla Used Anthropic’s Mythos to Find and Fix 151 Bugs in Firefox",
-        "fonte": "Wired",
-        "autor": "Lily Hay Newman",
-        "data": "2026-04-21",
-        "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
-        "resumo": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
-        "imagem": "https://media.wired.com/photos/69e6df06b405035df7b7ce2e/191:100/w_1280,c_limit/security_GettyImages-2214075816.jpg"
+        "titulo": "What is happening with Anthropic Mythos access? #tech",
+        "fonte": "Alltoc.com",
+        "autor": "AllToc",
+        "data": "2026-04-23",
+        "url": "https://alltoc.com/tech/what-is-happening-with-anthropic-mythos-access",
+        "resumo": "Unauthorized access to Anthropic’s Mythos sparks security concerns Anthropic’s Claude Mythos cybersecurity model—touted internally and externally as a powerful tool for finding and exploiting security flaws—has been the subject of escalating access issues. Af…",
+        "imagem": "https://alltoc.com/cdn/1046/og.png"
     },
     {
-        "titulo": "More Cisco SD-WAN bugs battered in attacks",
+        "titulo": "Anthropic&#x27;s super-scary bug hunting model Mythos is shaping up to be a nothingburger",
         "fonte": "Theregister.com",
         "autor": "Jessica Lyons",
-        "data": "2026-04-21",
-        "url": "https://www.theregister.com/2026/04/21/cisco_sdwan_bugs_kev/",
-        "resumo": "CISA gives federal agencies 4 days to patch America&#x27;s lead cyber-defense agency has warned that three Cisco Catalyst SD-WAN Manager bugs are under attack, and given federal agencies just four days to patch the security holes.…",
-        "imagem": "https://regmedia.co.uk/2021/02/05/cisco_shutterstock_editorial_only.jpg"
+        "data": "2026-04-22",
+        "url": "https://www.theregister.com/2026/04/22/anthropic_mythos_hype_nothingburger/",
+        "resumo": "And that unauthorized access? &#x27;A nothing burger,&#x27; hacking startup CEO tells El Reg Anthropic&#x27;s Mythos model is purportedly so good at finding vulnerabilities that the Claude-maker is afraid to make it available to the general public for fear that criminals wi…",
+        "imagem": "https://regmedia.co.uk/2026/04/22/nothingburger.jpg"
     },
     {
-        "titulo": "SUSE sees open architectures redefining resilience and digital sovereignty",
-        "fonte": "SiliconANGLE News",
-        "autor": "Ryan Stevens",
-        "data": "2026-04-21",
-        "url": "https://siliconangle.com/2026/04/21/digital-sovereignty-drives-open-architecture-shift-susecon/",
-        "resumo": "Resilience and digital sovereignty are emerging as defining priorities in enterprise IT amid rising multicloud complexity and AI adoption. In response, organizations are betting on open, modular architectures and partner ecosystems to reclaim flexibility and …",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/DSC01025-e1776784138524.jpg"
+        "titulo": "New AI threat looms but Australian firms don&#x27;t have access needed to prepare",
+        "fonte": "ABC News (AU)",
+        "autor": "Daniel Ziffer",
+        "data": "2026-04-22",
+        "url": "https://www.abc.net.au/news/2026-04-23/powerful-ai-tools-posing-cybersecurity-risks-australia-lagging/106584436",
+        "resumo": "Local banks, power providers and infrastructure firms do not have access to test their systems against a powerful new AI cybersecurity risk, Anthropic&#x27;s Mythos, which has not been made public.",
+        "imagem": "https://live-production.wcms.abc-cdn.net.au/47185d43cf26e3cbf0af304e2ee4344f?impolicy=wcms_watermark_news&cropH=1969&cropW=3500&xPos=0&yPos=183&width=862&height=485&imformat=generic"
     },
     {
-        "titulo": "$80M film leak hits Paramount+ as explosive report reveals Hollywood is terrifyingly exposed to hackers",
-        "fonte": "Page Six",
-        "autor": "mliss1578",
-        "data": "2026-04-21",
-        "url": "https://pagesix.com/2026/04/21/hollywood/80m-film-leak-hits-paramount-as-explosive-report-reveals-hollywood-is-terrifyingly-exposed-to-hackers/",
-        "resumo": "It’s been a little more than a decade since the Sony hack unleashed the email inboxes of top executives and saw multiple finished movies dropped into the public domain exposing cybersecurity as one of Hollywood&#x27;s Achilles&#x27; heels. And according to a new report…",
-        "imagem": "https://pagesix.com/wp-content/uploads/sites/3/2026/04/newspress-collage-ohggu1tfj-1776737150448.jpg?quality=75&strip=all&1776722946&w=1200"
+        "titulo": "Mozilla patched 271 Firefox bugs found by Anthropic’s Mythos, and says the zero-day era has an expiration date",
+        "fonte": "The Next Web",
+        "autor": "Ana Maria Constantin",
+        "data": "2026-04-22",
+        "url": "https://thenextweb.com/news/mozilla-firefox-claude-mythos-271-vulnerabilities/",
+        "resumo": "Summary: Mozilla released Firefox 150 with fixes for 271 security vulnerabilities identified by Anthropic’s Claude Mythos Preview, an unreleased frontier AI model distributed under the restricted Project Glasswing programme. The collaboration began with Claud…",
+        "imagem": "https://media.thenextweb.com/2026/04/mozilla-firefox-claude-mythos-271-vulnerabilities.avif"
+    },
+    {
+        "titulo": "Latest shot on Anthropic’s Mythos—China’s cybersecurity giant Qihoo 360 finds 1,000 software vulnerabilities fast, raising global zero-day risks",
+        "fonte": "The Times of India",
+        "autor": "Piyush Shukla",
+        "data": "2026-04-22",
+        "url": "https://economictimes.indiatimes.com/news/international/us/latest-shot-on-anthropics-mythos-chinas-cybersecurity-giant-qihoo-360-finds-1000-software-vulnerabilities-fast-raising-global-zero-day-risks/articleshow/130445658.cms",
+        "resumo": "China’s Qihoo 360 has flagged nearly 1,000 software vulnerabilities using AI in record time. This is a major cybersecurity shift. AI vulnerability scanning is now faster than ever. It is changing global cyber defense rules. The findings come soon after advanc…",
+        "imagem": "https://img.etimg.com/thumb/msid-130445730,width-1200,height-630,imgsize-62858,overlay-economictimes/articleshow.jpg"
+    },
+    {
+        "titulo": "Bitcoin Could Strengthen US National Security, Top Military Commander Says",
+        "fonte": "Bitcoinist",
+        "autor": "Christian Encila",
+        "data": "2026-04-22",
+        "url": "https://bitcoinist.com/bitcoin-could-strengthen-us-national-security-top-military-commander-says/",
+        "resumo": "US lawmakers are pushing to bring Bitcoin mining equipment manufacturing back to American soil — a move driven by growing concern that the country’s dependence on foreign-made hardware puts national security at risk. Related Reading: Crypto Extortion Hits Str…",
+        "imagem": "https://bitcoinist.com/wp-content/uploads/2026/04/conceptual-image-combining-bitcoin-and-us-military.jpeg"
+    },
+    {
+        "titulo": "Microsoft to test third-party AI models for incorporation in its security offerings",
+        "fonte": "Nextgov",
+        "autor": "Alexandra Kelley",
+        "data": "2026-04-22",
+        "url": "https://www.nextgov.com/artificial-intelligence/2026/04/microsoft-test-third-party-ai-models-incorporation-its-security-offerings/413036/",
+        "resumo": "The announcement follows Anthropic’s debut of its leading-edge Mythos model, which the company says has already found thousands of high-severity vulnerabilities.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/04/22/042226MicrosoftNG/open-graph.jpg"
+    },
+    {
+        "titulo": "AI-powered defense for an AI-accelerated threat landscape",
+        "fonte": "Microsoft.com",
+        "autor": "Ales Holecek",
+        "data": "2026-04-22",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/04/22/ai-powered-defense-for-an-ai-accelerated-threat-landscape/",
+        "resumo": "Read how Microsoft is partnering with Anthropic and broader industry to use leading models, paired with our platforms and expertise, to turn AI-driven discovery into protection at scale. The post AI-powered defense for an AI-accelerated threat landscape appea…",
+        "imagem": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/04/Security-now-1.jpg"
+    },
+    {
+        "titulo": "New Firefox update patches a whopping 271 bugs, thanks to Claude Mythos",
+        "fonte": "ZDNet",
+        "autor": "Lance Whitney",
+        "data": "2026-04-22",
+        "url": "https://www.zdnet.com/home-and-office/networking/firefox-new-features-271-security-bug-fixes/",
+        "resumo": "Firefox 150 enhances split view, tab sharing, and other helpful features and patches 271 security vulnerabilities - update now.",
+        "imagem": "https://www.zdnet.com/a/img/resize/b9581d6a062471240a24d7d300153dcd587d9774/2026/04/22/57b6e6d7-16fc-4ea6-8b7c-38f8c4f6c244/firefox-new-split-view-enhancement.jpg?auto=webp&fit=crop&height=675&width=1200"
+    },
+    {
+        "titulo": "A technical walkthrough of multicloud full-stack security using AWS Security Hub Extended",
+        "fonte": "Amazon.com",
+        "autor": "Matt Meck",
+        "data": "2026-04-22",
+        "url": "https://aws.amazon.com/blogs/security/a-technical-walkthrough-of-multicloud-full-stack-security-using-aws-security-hub-extended/",
+        "resumo": "Building on our recent announcement of AWS Security Hub Extended —our full-stack enterprise security offering — we want to show you how we’re simplifying security procurement and operations for your multicloud environments. Whether you’re a security architect…",
+        "imagem": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/12/26/aws-security-hub-icon.png"
+    },
+    {
+        "titulo": "Anthropic investigates unauthorized access to Mythos AI model after contractor credentials compromised",
+        "fonte": "Crypto Briefing",
+        "autor": "Estefano Gomez",
+        "data": "2026-04-22",
+        "url": "https://cryptobriefing.com/anthropic-mythos-unauthorized-access-investigation/",
+        "resumo": "The Mythos breach highlights urgent AI governance challenges, emphasizing the need for robust security measures and regulatory frameworks. The post Anthropic investigates unauthorized access to Mythos AI model after contractor credentials compromised appeared…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/04/22111348/aa9fb41c-a4fd-4f00-9d7f-2686092d096e-1-800x420.jpg"
+    },
+    {
+        "titulo": "Claude Mythos finds 271 Firefox flaws, Mozilla believes zero-days are numbered",
+        "fonte": "Help Net Security",
+        "autor": "Sinisa Markovic",
+        "data": "2026-04-22",
+        "url": "https://www.helpnetsecurity.com/2026/04/22/claude-mythos-mozilla-vulnerabilities-scanning/",
+        "resumo": "The Mozilla Foundation tested Claude Mythos, an Anthropic AI model that has stirred debate in the cybersecurity community. Before granting access to Mythos, Mozilla scanned Firefox using Opus 4.6, which led to fixes for 22 security-sensitive bugs in Firefox 1…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/16184414/firefox-2023.jpg"
+    },
+    {
+        "titulo": "Infosys Announces Strategic Collaboration with OpenAI to Accelerate Enterprise AI Transformation and Unlock AI Value at Scale",
+        "fonte": "BusinessLine",
+        "autor": "",
+        "data": "2026-04-22",
+        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/infosys-announces-strategic-collaboration-with-openai-to-accelerate-enterprise-ai-transformation-and-unlock-ai-value-at-scale/article70892638.ece",
+        "resumo": "Infosys Announces Strategic Collaboration with OpenAI to Accelerate Enterprise AI Transformation and Unlock AI Value at Scale",
+        "imagem": "https://th-i.thgim.com/public/brandhub/pr-release/jsxqrx/article70892630.ece/alternates/LANDSCAPE_1200/Infosys_Logo.jpg"
+    },
+    {
+        "titulo": "New Mirai variants target routers and DVRs in parallel campaigns",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-04-22",
+        "url": "https://www.helpnetsecurity.com/2026/04/22/new-mirai-variants-target-routers-and-dvrs-via-old-flaws/",
+        "resumo": "Hidden inside newly discovered botnet malware is an unusual message from its creator: “AI.NEEDS.TO.DIE”. Dubbed “tuxnokill” by researchers at Akamai, the malware is one of two fresh Mirai botnet variants documented this month by major cybersecurity firms and,…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/09/23124652/attack-ddos-threat-1500.webp"
     }
 ]
