@@ -1,5 +1,68 @@
 [
     {
+        "titulo": "Security Affairs newsletter Round 574 by Pierluigi Paganini – INTERNATIONAL EDITION",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-04-26",
+        "url": "https://securityaffairs.com/191305/breaking-news/security-affairs-newsletter-round-574-by-pierluigi-paganini-international-edition.html",
+        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. U.S. CIS…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
+    },
+    {
+        "titulo": "Security fears as Chinese electric car BYD records everywhere you’ve been",
+        "fonte": "New Zealand Herald",
+        "autor": "Daily Telegraph UK",
+        "data": "2026-04-25",
+        "url": "https://www.nzherald.co.nz/world/security-fears-as-chinese-electric-car-byd-records-everywhere-youve-been/WXGPQPADIVFBHGGHBEOQDVHMWI/",
+        "resumo": "The vehicle stores location data about every journey ever taken.",
+        "imagem": "https://www.nzherald.co.nz/resizer/v2/M35LBLMAAFG2TEHHVSCTGPU4R4.jpg?auth=fff2b25cb6f496b42de60d1e138e669ed88124e61a92294dfadb8a5d3fe49dc1&width=1200&height=675&quality=70&focal=521%2C325&smart=false"
+    },
+    {
+        "titulo": "U.S. CISA adds SimpleHelp, Samsung, and D-Link flaws to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-04-25",
+        "url": "https://securityaffairs.com/191281/security/u-s-cisa-adds-simplehelp-samsung-and-d-link-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds SimpleHelp, Samsung, and D-Link flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added SimpleHelp, Samsung, and D-Link flaw…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "Anthropic&#x27;s Mythos AI found over 2,000 unknown software vulnerabilities in just seven weeks of testing",
+        "fonte": "Fox News",
+        "autor": "",
+        "data": "2026-04-25",
+        "url": "https://www.foxnews.com/tech/anthropics-mythos-ai-found-2000-unknown-software-vulnerabilities-seven-weeks-testing",
+        "resumo": "Anthropic&#x27;s Mythos AI discovered over 2,000 unknown software vulnerabilities in seven weeks, prompting the company to restrict its release to the public.",
+        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/anthropic-mythos-ai-fox-news-001.jpeg"
+    },
+    {
+        "titulo": "Racial discrimination factors into reducing sentence for double shooting in Porsche",
+        "fonte": "National Post",
+        "autor": "Chris Lambie",
+        "data": "2026-04-25",
+        "url": "https://nationalpost.com/news/canada/racial-discrimination-factors-into-sentencing-for-double-shooting-in-porsche",
+        "resumo": "‘Mr. Sheikh felt discriminated against and felt various stereotypes in varying situations. For example, when in school, there may have been some comments about his religion’",
+        "imagem": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/04/Ontario-Superior-Court-1.jpg"
+    },
+    {
+        "titulo": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
+        "fonte": "Wired",
+        "autor": "Matt Burgess, Lily Hay Newman, Andy Greenberg",
+        "data": "2026-04-25",
+        "url": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
+        "resumo": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
+        "imagem": "https://media.wired.com/photos/69ebf499d9b235ed1b8f0693/191:100/w_1280,c_limit/Security-News-This-Week-Discord-Group-Reportedly-Guessed-Its-Way-Into-Anthropic-Mythos-Security.jpg"
+    },
+    {
+        "titulo": "Finance Minister advocates ‘anticipatory’ regulation in capital markets",
+        "fonte": "BusinessLine",
+        "autor": "BL Mumbai Bureau",
+        "data": "2026-04-25",
+        "url": "https://www.thehindubusinessline.com/markets/finance-minister-advocates-anticipatory-regulation-in-capital-markets/article70904989.ece",
+        "resumo": "Finance Minister Nirmala Sitharaman advocates for anticipatory regulation in capital markets to enhance investor trust and adapt to technological changes.",
+        "imagem": "https://bl-i.thgim.com/public/incoming/uuk77a/article70900703.ece/alternates/LANDSCAPE_1200/2026-03-13T094626Z_113198866_RC2T6HADKZ77_RTRMADP_3_INDIA-ECONOMY.JPG"
+    },
+    {
         "titulo": "Taken-for-granted separation between economics &amp; strategy has collapsed in 21st Century: Pradeep Mehta",
         "fonte": "The Times of India",
         "autor": "Dipanjan Roy Chaudhury",
@@ -115,68 +178,5 @@
         "url": "https://www.techradar.com/vpn/vpn-privacy-security/the-eus-age-verification-app-has-a-privacy-problem-and-it-may-be-more-than-just-a-bug-in-an-app",
         "resumo": "The European Commission promises its app is a secure and private solution to let citizens prove their age without exposing their sensitive data. While it&#x27;s an improvement compared to many, security experts aren&#x27;t convinced.",
         "imagem": "https://cdn.mos.cms.futurecdn.net/M7FVdu9oyrifMi6MTNz5wi-1920-80.jpg"
-    },
-    {
-        "titulo": "In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device",
-        "fonte": "Securityweek.com",
-        "autor": "SecurityWeek News",
-        "data": "2026-04-24",
-        "url": "https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/",
-        "resumo": "Other noteworthy stories that might have slipped under the radar: Supreme Court hacker sentenced, Lovable exposed user data, Google expands enterprise security. The post In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Sec…",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg"
-    },
-    {
-        "titulo": "Show HN: The why and how of TurboPentest for the Agentic Era",
-        "fonte": "Integsec.com",
-        "autor": "integsec",
-        "data": "2026-04-24",
-        "url": "https://integsec.com/blog/the-genesis-of-turbopentest.com-bridging-the-gap-in-an-ai-code-explosion-era",
-        "resumo": "Here is the story of why/how I built TurboPentest. TurboPentest was designed for the AI era and to address the large volume of code now produced by coding assistants and the associated security vulnerabilities it introduces. Comments URL: https://news.ycombi…",
-        "imagem": "https://integsec.com/hubfs/AI-Generated%20Media/Images/Modern%20Workspace%20with%20Dusk%20Cityscape%20and%20Tech%20Displays-1.png"
-    },
-    {
-        "titulo": "Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-04-24",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/",
-        "resumo": "Over 10,000 Zimbra Collaboration Suite (ZCS) instances exposed online are vulnerable to ongoing attacks exploiting a cross-site scripting (XSS) security flaw. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/04/24/Zimbra.jpg"
-    },
-    {
-        "titulo": "Mythos access by Discord group reveals real danger of AI-powered hacking",
-        "fonte": "Fortune",
-        "autor": "Stefanie Schappert",
-        "data": "2026-04-24",
-        "url": "https://fortune.com/2026/04/24/technology-anthropic-mythos-discord-breach-ai-cybersecurity-vulnerability-patch-window/",
-        "resumo": "The unauthorized access to Anthropic&#x27;s Mythos cybersecurity model wasn&#x27;t just a breach.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2261514463-e1777007686438.jpg?resize=1200,600"
-    },
-    {
-        "titulo": "FCC router rule raises questions about future updates",
-        "fonte": "Fox News",
-        "autor": "",
-        "data": "2026-04-24",
-        "url": "https://www.foxnews.com/tech/fcc-router-rule-raises-questions-future-updates",
-        "resumo": "The FCC&#x27;s new router policy targets future device approvals over national security concerns, but the real risk involves long-term software updates.",
-        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/fcc-router-rule-1.jpeg"
-    },
-    {
-        "titulo": "Europe&#x27;s markets watchdog warns cyber threats are growing as AI speeds up risks",
-        "fonte": "The Times of India",
-        "autor": "Reuters",
-        "data": "2026-04-24",
-        "url": "https://economictimes.indiatimes.com/tech/technology/europes-markets-watchdog-warns-cyber-threats-are-growing-as-ai-speeds-up-risks/articleshow/130491598.cms",
-        "resumo": "Europe&#x27;s top securities watchdog highlights escalating cyber threats due to fast-advancing AI. Regulators are boosting defenses and expertise to oversee critical tech providers. High market valuations and potential sell-offs are under close watch. Policing…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-134620,resizemode-75,msid-130491598/tech/technology/europes-markets-watchdog-warns-cyber-threats-are-growing-as-ai-speeds-up-risks.jpg"
-    },
-    {
-        "titulo": "Europe’s markets watchdog warns cyber threats are growing as AI speeds up risks",
-        "fonte": "CNA",
-        "autor": "",
-        "data": "2026-04-24",
-        "url": "https://www.channelnewsasia.com/business/europes-markets-watchdog-warns-cyber-threats-are-growing-ai-speeds-up-risks-6078916",
-        "resumo": "PARIS, April 24 : The chief of Europe’s securities regulator said the risks from and potential speed of cyberattacks are growing, joining a chorus of warnings from financial supervisors on the threats posed by artificial intelligence models that are evolving …",
-        "imagem": "https://dam.mediacorp.sg/image/upload/s--bPoZeS5H--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-24T105126Z_1_LYNXMPEM3N0M6_RTROPTP_3_CYBER-ATTACK.JPG?itok=HW14DzoS"
     }
 ]
