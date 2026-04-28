@@ -1,5 +1,32 @@
 [
     {
+        "titulo": "Flowtriq Detects 48.3 Gbps Multi-Vector DDoS Attack in Under One Second",
+        "fonte": "Associated Press",
+        "autor": "",
+        "data": "2026-04-27",
+        "url": "https://apnews.com/press-release/ein-presswire-newsmatics/flowtriq-detects-48-3-gbps-multi-vector-ddos-attack-in-under-one-second-b4e14969206f90e8dc5d1a944b8261a8",
+        "resumo": "Canadian cybersecurity startup stops multi-vector attack during live training event with zero service disruption",
+        "imagem": "https://dims.apnews.com/dims4/default/ecc4697/2147483647/strip/true/crop/941x627+130+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F28%2F04%2F7859283160d0df45e8951490bddd%2F748aadf4b5704c5a9e9a39dc527a36e0"
+    },
+    {
+        "titulo": "Microsoft Entra Agent ID Flaw Enabled Tenant Takeover via Privilege Escalation",
+        "fonte": "HackRead",
+        "autor": "Deeba Ahmed",
+        "data": "2026-04-26",
+        "url": "https://hackread.com/microsoft-entra-agent-id-flaw-tenant-takeover/",
+        "resumo": "Microsoft Entra Agent ID flaw allowed privilege escalation and tenant takeover via Service Principal abuse, now fully patched by Microsoft.",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/04/microsoft-entra-agent-id-flaw-tenant-takeover.jpg"
+    },
+    {
+        "titulo": "Critical bug in CrowdStrike LogScale let attackers access files",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-04-26",
+        "url": "https://securityaffairs.com/191343/hacking/critical-bug-in-crowdstrike-logscale-let-attackers-access-files.html",
+        "resumo": "CrowdStrike fixed CVE-2026-40050 in LogScale self-hosted, a critical flaw allowing unauthenticated file access via path traversal. CrowdStrike recently disclosed a critical vulnerability, tracked as CVE-2026-40050, affecting its LogScale self-hosted product. …",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2024/07/image-22.png"
+    },
+    {
         "titulo": "Security Affairs newsletter Round 574 by Pierluigi Paganini – INTERNATIONAL EDITION",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
@@ -151,32 +178,5 @@
         "url": "https://economictimes.indiatimes.com/news/economy/policy/govt-forms-panel-under-sbi-chief-c-s-setty-to-assess-mythos-related-risks/articleshow/130500515.cms",
         "resumo": "Union Finance Minister Nirmala Sitharaman announced a panel led by SBI Chairman C S Setty to assess risks from AI platform Mythos and devise mitigation strategies. Banks will collaborate to understand threats and identify investment needs for countering AI-dr…",
         "imagem": "https://img.etimg.com/thumb/msid-130500562,width-1200,height-630,imgsize-137552,overlay-economictimes/articleshow.jpg"
-    },
-    {
-        "titulo": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-04-24",
-        "url": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed federal civilian agency&#x27;s Cisco Firepower device running Adaptive Security Appliance (ASA) software was compromised in September 2025 with malware called FIRESTARTER…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL39ca_K84pnKcPSv77aXouF3t3HCOjjL1zFVEdeDE64LiUxQ2Het8xQeTeO0JZRHZE56SbG87psVmhYCbSyu5PE3FZiHrAIzm0zp8nfGKk7XwVTUUjpeZ7zDEZwuJaQkZp6Cl20WF7qkWDAuaOQW5-OtTQ1ZvjW4xhHB9HrC2O-C6pPPnE94gLqp1GZrI/s1700-e365/cisco.jpg"
-    },
-    {
-        "titulo": "CISA puts US government agencies on two-week deadline to patch Microsoft Defender BlueHammer zero-day exploit",
-        "fonte": "TechRadar",
-        "autor": "Sead Fadilpašić",
-        "data": "2026-04-24",
-        "url": "https://www.techradar.com/pro/security/cisa-puts-us-government-agencies-on-two-week-deadline-to-patch-microsoft-defender-bluehammer-zero-day-exploit",
-        "resumo": "BlueHammer was disclosed in early April, together with two additional bugs, by a disgruntled researcher.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/x4SmwpYXk8yGgDmYCVeckL-2560-80.jpg"
-    },
-    {
-        "titulo": "The EU’s age verification app has a privacy problem — and it may be more than just a &#x27;bug in an app&#x27;",
-        "fonte": "TechRadar",
-        "autor": "chiara.castro@futurenet.com (Chiara Castro) , Chiara Castro",
-        "data": "2026-04-24",
-        "url": "https://www.techradar.com/vpn/vpn-privacy-security/the-eus-age-verification-app-has-a-privacy-problem-and-it-may-be-more-than-just-a-bug-in-an-app",
-        "resumo": "The European Commission promises its app is a secure and private solution to let citizens prove their age without exposing their sensitive data. While it&#x27;s an improvement compared to many, security experts aren&#x27;t convinced.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/M7FVdu9oyrifMi6MTNz5wi-1920-80.jpg"
     }
 ]
