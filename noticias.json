@@ -1,182 +1,173 @@
 [
     {
-        "titulo": "Claude Mythos Preview and the new rules of cybersecurity",
-        "fonte": "Techtarget.com",
-        "autor": "Kinza Yasar",
-        "data": "2026-04-28",
-        "url": "https://www.techtarget.com/searchenterpriseai/news/366642478/Claude-Mythos-Preview-and-the-new-rules-of-cybersecurity",
-        "resumo": "AI is reshaping cybersecurity. Anthropic&#x27;s Claude Mythos Preview exposes a new era of rapid, autonomous vulnerability discovery and the governance challenges ahead.",
-        "imagem": "https://www.techtarget.com/rms/onlineimages/security_a252808758.jpg"
+        "titulo": "AI-powered honeypots: Turning the tables on malicious AI agents",
+        "fonte": "Talosintelligence.com",
+        "autor": "Martin Lee",
+        "data": "2026-04-29",
+        "url": "https://blog.talosintelligence.com/ai-powered-honeypots-turning-the-tables-on-malicious-ai-agents/",
+        "resumo": "Just as AI brings time-saving advantages to our lives, it brings similar advantages to threat actors. We can take the advantage back. This blog shows how generative AI can be used to rapidly deploy adaptive honeypot systems.",
+        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/04/tool_talk.jpg"
     },
     {
-        "titulo": "The unknown unknown: An asymmetry we cannot afford to ignore",
-        "fonte": "The Times of India",
-        "autor": "Ipsita Gauba",
-        "data": "2026-04-28",
-        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/the-unknown-unknown-an-asymmetry-we-cannot-afford-to-ignore/articleshow/130574915.cms",
-        "resumo": "India is being left behind in understanding advanced AI threats. Anthropic&#x27;s new AI model, Mythos, is being tested by select global organizations, excluding India. This creates a significant information gap for Indian regulators and financial institutions. Ea…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-40058,resizemode-75,msid-130574915/opinion/et-commentary/the-unknown-unknown-an-asymmetry-we-cannot-afford-to-ignore.jpg"
+        "titulo": "The Next Frontier: Autonomous Security and RSAC Interviews from Quantro &amp; SandboxAQ - Mark Hughes, Mehul Revankar, Marc Manzano - BSW #445",
+        "fonte": "Libsyn.com",
+        "autor": "",
+        "data": "2026-04-29",
+        "url": "https://securityweeklytv.libsyn.com/the-next-frontier-autonomous-security-and-rsac-interviews-from-quantro-sandboxaq-mark-hughes-mehul-revankar-marc-manzano-bsw-445",
+        "resumo": "Attackers are increasingly weaponizing frontier models to accelerate the entire attack lifecycle, with current and emerging models reducing the time and expertise needed to start disruptive attacks. As offensive capabilities become more automated and agentic,…",
+        "imagem": "http://assets.libsyn.com/content/201295155?height=250&width=250&overlay=true"
     },
     {
-        "titulo": "Digital lenders wary of small biz; Mythos’ biggest security risk",
-        "fonte": "The Times of India",
-        "autor": "ETtech",
-        "data": "2026-04-28",
-        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/digital-lenders-wary-of-small-biz-mythos-biggest-security-risk/articleshow/130567022.cms",
-        "resumo": "Happy Tuesday! Digital lending firms are turning cautious on term loan exposure to small businesses. This and more in today’s ETtech Morning Dispatch.",
-        "imagem": "https://img.etimg.com/thumb/msid-130567022,width-1070,height-580,imgsize-1159041,overlay-ettech/editionshow.jpg"
+        "titulo": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-04-29",
+        "url": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The …",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifGMiUJH-3-Yk7Hnve0k2mPxHZecIbCTTN7z_CosJp8GhI7hira6707ALIDB4skUc8UbRdmWtbhz4n9fe8T-h3OGzul9awiw8DFsnsSORkjKfXr4dgEGX_ncQ7dWBYGAhyU3Efo8-z_YPCEFC_bUDH8eYeX_w6QcDrOWTnpRXqOF_IATm0t-xxMJp6uYWc/s1700-e365/windows-logo.jpg"
     },
     {
-        "titulo": "Anthropic Mythos: Firms with access to model say speed of response, not uncovering flaws, is key",
-        "fonte": "The Times of India",
-        "autor": "Tanya Pandey",
-        "data": "2026-04-28",
-        "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-mythos-shrinks-vulnerability-exploit-window-indian-companies-at-risk/articleshow/130560442.cms",
-        "resumo": "A new AI model, Mythos, drastically shrinks the time between discovering and exploiting software vulnerabilities, creating a critical &quot;kill zone&quot; for companies. Indian firms, with slow patching cycles, face significant risk as AI-driven attacks become faster …",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2568288,resizemode-75,msid-130560442/tech/technology/anthropic-mythos-shrinks-vulnerability-exploit-window-indian-companies-at-risk.jpg"
+        "titulo": "Your Passwords Are Probably Screwed",
+        "fonte": "Freerepublic.com",
+        "autor": "The New York Times",
+        "data": "2026-04-29",
+        "url": "https://freerepublic.com/focus/f-chat/4376839/posts",
+        "resumo": "Mr. Goldstein is a professor at Vanderbilt University who specializes in cybersecurity and artificial intelligenceAnthropic recently sent a shock wave through the cybersecurity world when it said its new artificial intelligence model, Claude Mythos, had exhib…",
+        "imagem": ""
     },
     {
-        "titulo": "Anthropic Mythos shrinks vulnerability exploit window, Indian companies at risk",
-        "fonte": "The Times of India",
-        "autor": "Tanya Pandey",
-        "data": "2026-04-28",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-mythos-shrinks-vulnerability-exploit-window-indian-companies-at-risk/articleshow/130560443.cms",
-        "resumo": "A new AI model, Mythos, drastically shrinks the time between discovering and exploiting software vulnerabilities, creating a critical &quot;kill zone&quot; for companies. Indian firms, with slow patching cycles, face significant risk as AI-driven attacks become faster …",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2568288,resizemode-75,msid-130560443/tech/artificial-intelligence/anthropic-mythos-shrinks-vulnerability-exploit-window-indian-companies-at-risk.jpg"
+        "titulo": "20 Mac malware threats Apple users should know about",
+        "fonte": "Intego.com",
+        "autor": "Kamso Oguejiofor-Abugu",
+        "data": "2026-04-29",
+        "url": "https://www.intego.com/mac-security-blog/20-top-apple-malware-threats/",
+        "resumo": "Mac malware rarely announces itself as malware. It usually shows up as something ordinary: a free app download, a browser update, a sponsored search result, a cracked version of paid software, or a permission prompt you’re asked to approve before moving on. T…",
+        "imagem": "https://www.intego.com/mac-security-blog/wp-content/uploads/2023/01/Mac-malware-threats.png"
     },
     {
-        "titulo": "Ongoing supply-chain attack &#x27;explicitly targeting&#x27; security, dev tools",
-        "fonte": "Theregister.com",
-        "autor": "Jessica Lyons",
-        "data": "2026-04-27",
-        "url": "https://www.theregister.com/2026/04/27/supply_chain_campaign_targets_security/",
-        "resumo": "Vendor confirms repo data exposure after Lapsus$ claims source code, secrets dump Software security testing outfit Checkmarx has become the latest organization caught up in an ongoing attack on security-tool providers. The biz said data posted online appears …",
-        "imagem": "https://regmedia.co.uk/2024/07/30/shutetrstock_wow.jpg"
-    },
-    {
-        "titulo": "How to fix cybersecurity&#x27;s agentic AI identity crisis",
-        "fonte": "Techtarget.com",
-        "autor": "Matthew Smith",
-        "data": "2026-04-27",
-        "url": "https://www.techtarget.com/searchsecurity/tip/Cybersecuritys-agentic-AI-identity-crisis-and-how-to-fix-it",
-        "resumo": "AI agents are transforming enterprise operations, but their autonomy poses critical security challenges. Learn how to secure these powerful digital actors.",
-        "imagem": "https://www.techtarget.com/visuals/LeMagIT/hero_article/Hero-Danger-by-InfiniteFlow-Adobe-10.jpg"
-    },
-    {
-        "titulo": "How AI is accelerating vulnerability discovery and exploitation",
-        "fonte": "Digital Journal",
-        "autor": "Dr. Tim Sandle",
-        "data": "2026-04-27",
-        "url": "https://www.digitaljournal.com/tech-science/how-ai-is-accelerating-vulnerability-discovery-and-exploitation/article",
-        "resumo": "This escalates the threat landscape for organizations, as the gap between vulnerability discovery and potential exploitation continues to narrow. The post How AI is accelerating vulnerability discovery and exploitation appeared first on Digital Journal.",
-        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2024/12/cab36fc1fc998b763e8e9250861ed77422bc18b4.jpg"
-    },
-    {
-        "titulo": "Malicious Web Pages Are Hijacking AI Agents, And Some Are Going After Your PayPal",
-        "fonte": "Decrypt",
-        "autor": "Jose Antonio Lanz",
-        "data": "2026-04-27",
-        "url": "https://decrypt.co/365677/google-prompt-injection-ai-agents-paypal-enterprise",
-        "resumo": "Google&#x27;s security team scanned billions of web pages and found real payloads designed to trick AI agents into sending money, deleting files, and leaking credentials.",
-        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png"
-    },
-    {
-        "titulo": "What is Claude Mythos: a new technological revolution or a marketing myth?",
-        "fonte": "Mezha.ua",
-        "autor": "Bohdan Shumskyi",
-        "data": "2026-04-27",
-        "url": "https://mezha.ua/en/articles/shcho-take-claude-mythos-nova-tehnologichna-revolyuciya-chi-marketingoviy-mif-310721/",
-        "resumo": "What is Claude Mythos: a new technological revolution or a marketing myth?mezha.ua",
-        "imagem": "https://img.mezha.ua/mezhaprod/images/doc/d/1/306210/d12799ed3fb7c44384b820ded0de5718.jpeg?w=1200&q=85&stamp=1777306585"
-    },
-    {
-        "titulo": "Attack of the killer script kiddies",
-        "fonte": "The Verge",
-        "autor": "Yael Grauer",
-        "data": "2026-04-27",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
-        "resumo": "Last August, some of the best cybersecurity teams in the business gathered in Las Vegas to demonstrate the strength of their AI bug-finding systems at DARPA&#x27;s Artificial Intelligence Cyber Challenge (AIxCC). The tools had scanned 54 million lines of actual so…",
-        "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/rogers-script-kiddies-Lede-STATIC.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-        "titulo": "Webinar: Spotting cyberattacks before they begin",
-        "fonte": "BleepingComputer",
-        "autor": "BleepingComputer",
-        "data": "2026-04-27",
-        "url": "https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/",
-        "resumo": "On Thursday, April 30 at 2:00 PM ET, BleepingComputer will host a live webinar with threat intelligence company Flare and threat intelligence researcher Tammy Harper, exploring how security teams can identify early warning signs of attacks before they escalat…",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2023/09/29/person-working-on-computers-cybersecurity.jpg"
-    },
-    {
-        "titulo": "What Is Crypto Cybersecurity? The Ultimate Guide to Protecting Digital Assets",
-        "fonte": "Bitcoinfoundation.org",
-        "autor": "Yevheny Serhiienko",
-        "data": "2026-04-27",
-        "url": "https://bitcoinfoundation.org/news/crimes-and-fraud-news/what-is-crypto-cybersecurity-the-ultimate-guide-to-protecting-digital-assets/",
-        "resumo": "What Is Crypto Cybersecurity? Definition of Crypto Cybersecurity Beginning with the most basic definition, answering the question of what crypto cybersecurity means entails understanding the... The post What Is Crypto Cybersecurity? The Ultimate Guide to Prot…",
-        "imagem": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/1-1777298249.webp"
-    },
-    {
-        "titulo": "LINKEDIN BROWSERGATE",
+        "titulo": "U.S. CISA adds Microsoft Windows Shell and ConnectWise ScreenConnect flaws to its Known Exploited Vulnerabilities catalog",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
-        "data": "2026-04-27",
-        "url": "https://securityaffairs.com/191383/security/linkedin-browsergate.html",
-        "resumo": "BrowserGate claims LinkedIn secretly fingerprints users via extensions and device data, sending encrypted results to third parties for tracking. BrowserGate is an investigation conducted by Fairlinked (https://browsergate.eu/), an association of commercial Li…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2016/11/linkedin-2.jpg"
+        "data": "2026-04-29",
+        "url": "https://securityaffairs.com/191442/security/u-s-cisa-adds-microsoft-windows-shell-and-connectwise-screenconnect-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Windows Shell and ConnectWise ScreenConnect flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Windows Shell and Connec…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
     },
     {
-        "titulo": "Claude Mythos puts India on alert: CERT-In, telcos, banks assess unprecedented cyber risks",
-        "fonte": "MediaNama.com",
-        "autor": "Aakriti Bansal",
-        "data": "2026-04-27",
-        "url": "https://www.medianama.com/2026/04/223-claude-mythos-india-cert-in-telcos-banks-cyber-risks/",
-        "resumo": "Anthropic&#x27;s Claude Mythos Preview has identified thousands of zero-day vulnerabilities in web browsers &amp; operating systems, triggering CERT-In, banks and telcos like Airtel &amp; Vi to assess cyber risks. The post Claude Mythos puts India on alert: CERT-In, telc…",
-        "imagem": "https://www.medianama.com/wp-content/uploads/2025/03/cybercrime-8878481_1280.png"
+        "titulo": "Risky Business #835 -- Why the Fast16 malware is badass",
+        "fonte": "Risky.biz",
+        "autor": "James Wilson",
+        "data": "2026-04-29",
+        "url": "https://risky.biz/RB835/",
+        "resumo": "On this week’s show, Patrick Gray and James Wilson are joined by special guest-host Dmitri Alperovitch. They discuss the week’s cybersecurity news, including: The US government is mad as hell about Chinese firms stealing American AI technology…",
+        "imagem": "https://risky.biz/static/img/RB-OG-Social.jpg"
     },
     {
-        "titulo": "OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years",
-        "fonte": "Securityweek.com",
-        "autor": "Ionut Arghire",
-        "data": "2026-04-27",
-        "url": "https://www.securityweek.com/openssh-flaw-allowing-full-root-shell-access-lurked-for-15-years/",
-        "resumo": "A code reuse issue enabled comma characters in certificate principals to be interpreted as list separators. The post OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2024/04/vulnerability.jpeg"
+        "titulo": "How India should prepare for the Mythos era",
+        "fonte": "The Indian Express",
+        "autor": "Bharath Reddy, Shobhankita Reddy",
+        "data": "2026-04-29",
+        "url": "https://indianexpress.com/article/opinion/columns/anthropic-claude-how-india-should-prepare-for-the-mythos-era-10661497/",
+        "resumo": "India&#x27;s task is neither to dismiss the alarm nor to buy into the hype, but to build cybersecurity resilience at every layer",
+        "imagem": "https://images.indianexpress.com/2026/04/Anthropic-3col_20260429043300.jpg"
     },
     {
-        "titulo": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren&#x27;t Ready for the Remediation Side",
+        "titulo": "Smart Firms Treat Vendor Risk Like Their Own",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-04-28",
+        "url": "https://www.pymnts.com/cybersecurity/2026/smart-firms-treat-vendor-risk-like-their-own/",
+        "resumo": "Artificial intelligence has opened up Pandora’s box for enterprise cybersecurity. And what it found was that the modern enterprise is no longer a closed system. It is a web of dependencies, stitched together by software vendors, cloud providers, and outsource…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/04/third-party-cyber-risk1.jpg"
+    },
+    {
+        "titulo": "New Report from the MPA’s Content Security Initiative Links Control Failures to Content Security Incidents Across the Entertainment Industry",
+        "fonte": "Financial Post",
+        "autor": "GlobeNewswire",
+        "data": "2026-04-28",
+        "url": "https://financialpost.com/globe-newswire/new-report-from-the-mpas-content-security-initiative-links-control-failures-to-content-security-incidents-across-the-entertainment-industry",
+        "resumo": "First-of-its-Kind Industry Analysis from the Trusted Partner Network Reveals Concerning Trends Across Global Entertainment Supply Chain LOS ANGELES, April 28, 2026 (GLOBE NEWSWIRE) — The Trusted Partner Network (TPN), the global content security initiative po…",
+        "imagem": ""
+    },
+    {
+        "titulo": "New Report from the MPA’s Content Security Initiative Links Control Failures to Content Security Incidents Across the Entertainment Industry",
+        "fonte": "GlobeNewswire",
+        "autor": "Motion Picture Association",
+        "data": "2026-04-28",
+        "url": "https://www.globenewswire.com/news-release/2026/04/28/3283338/0/en/New-Report-from-the-MPA-s-Content-Security-Initiative-Links-Control-Failures-to-Content-Security-Incidents-Across-the-Entertainment-Industry.html",
+        "resumo": "New TPN Report Reveals Root Cause of Entertainment Security Incidents...",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/4d0796b5-e74a-4b23-b74b-b13042e66e83"
+    },
+    {
+        "titulo": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-04-27",
-        "url": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html",
-        "resumo": "Anthropic’s Claude Mythos Preview has dominated security discussions since its April 7 announcement. Early reporting describes a powerful cybersecurity-focused AI system capable of identifying vulnerabilities at scale and raising serious questions about how q…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR-gtpmKWvXoC5M5eOQM8k01yoiVjMDTYwRePtuLtpEPMevNdUs3BrVGykkop3OgF-DGCjpXB5T_AS84khCvVv7J-4W-7aE2ND0VuYbnyD8B6l1DUk_TVi96ab977o9i81hIIubY3l5F2A7_Qe4P4-qMTMzwnrvoXYC3cRhBU0X1VpG4F_MwstEGUQYHg/s1700-e365/unnamed.png"
+        "data": "2026-04-28",
+        "url": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
+        "resumo": "Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could allow an authenticated user to obtain remote code execution with a single &quot;git push&quot; command. The flaw, tracked …",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztlzahKA2HwUQiNDerhbX2l415JinNIW5jaU5tgskPVHqpMhba_NorYL9SSWRzLdSPjSnsxZKQic97f8H2Bx2G0Dsjb58dcdFuZoL0c5Gno3BVvYa4vi62_PNr1Qh-kBYED7YbTPw3fqQklMmnoPV0b1KYaienKHzIAtBuktMqyVCxGU0u8Hkd-zzYeNU/s1700-e365/github.jpg"
     },
     {
-        "titulo": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
+        "titulo": "Tenable Accelerates Exposure Management Adoption with New Flexible Pricing for the AI Era",
+        "fonte": "Tenable.com",
+        "autor": "Shannon O&#x27;Dowd",
+        "data": "2026-04-28",
+        "url": "https://www.tenable.com/press-releases/tenable-accelerates-exposure-management-adoption-with-new-flexible-pricing-for-the-ai-era",
+        "resumo": "Tenable® Holdings, Inc. (NASDAQ: TENB), the exposure management company, today announced new flexible pricing and packaging for new customers of the Tenable One Exposure Management Platform. The new model gives organizations the flexibility to start where the…",
+        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/press-releases/tenable-logo-1280.png?itok=XSLqrsUB"
+    },
+    {
+        "titulo": "Facial recognition data is a key to your identity – if stolen, you can’t just change the locks",
+        "fonte": "The Conversation Africa",
+        "autor": "Jonathan S. Weissman, Principal Lecturer of Cybersecurity, Rochester Institute of Technology",
+        "data": "2026-04-28",
+        "url": "https://theconversation.com/facial-recognition-data-is-a-key-to-your-identity-if-stolen-you-cant-just-change-the-locks-278289",
+        "resumo": "You can change a stolen password or credit card, but you can’t reset your face when your biometric data is breached.",
+        "imagem": "https://images.theconversation.com/files/731768/original/file-20260422-57-r5otw4.jpg?ixlib=rb-4.1.0&rect=0%2C269%2C3266%2C1633&q=45&auto=format&w=1356&h=668&fit=crop"
+    },
+    {
+        "titulo": "NSA GRASSMARLIN",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-04-28",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-118-01",
+        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to disclose sensitive information. The following versions of NSA GRASSMARLIN are affected: GRASSMARLIN vers:all/* CVSS Vend…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-04-27",
-        "url": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
-        "resumo": "A pro-Ukrainian hacktivist group called PhantomCore has been attributed to attacks actively targeting servers running TrueConf video conferencing software in Russia since September 2025. That&#x27;s according to a report published by Positive Technologies, which f…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi02vvwkoYlj343usA-GYXcQHZKIceJufKYFzZNyHlsGQ6lCPD8H8bHEWtzBnJsWmnlQsGq0fBLgyKTdnOoEi83L3kQ8V3EOou_vlAmMhnMDFU5P5LxA-Sz1agVhDmFrd2qKHGnYZituJuoAEsHp0ExFR4pw6VCf9VNESl7C4q5Wkefh6_8rN2MDK96yh_a/s1700-e365/russian-cyberattack.jpg"
+        "data": "2026-04-28",
+        "url": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
+        "resumo": "Every security program is betting on the same assumption: once a system is connected, the problem is solved. Open a ticket, stand up a gateway, push the data through. Done. That assumption is wrong. It is also a major reason Zero Trust programs stall. New res…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrVD0Q_dTvO3tooHYWKp7i_lkLd6h30GSv_DDv4jIb_KZDY5heV39R01GFN6MWEq1JsilHFrd7EtDOBkmlkvXYAb7-w51A1SDN3AAiEAbuq7ZnNREakyHouZPVBMNhk_HnEOK8D7H5m51A2zcUvAvDjmPnrrzeZI_nQHFao1QbljV4ortyzuqbXsNR35c/s1700-e365/everfox.jpg"
     },
     {
-        "titulo": "Europe’s Markets Watchdog Warns Cyber Threats Are Growing as AI Speeds Up Risks",
-        "fonte": "Insurance Journal",
-        "autor": "Admin",
-        "data": "2026-04-27",
-        "url": "https://www.insurancejournal.com/news/international/2026/04/27/867321.htm",
-        "resumo": "The chief of Europe’s securities regulator said the risks from and potential speed of cyberattacks are growing, joining a chorus of warnings from financial supervisors on the threats posed by artificial intelligence models that are evolving quickly. Geopoliti…",
-        "imagem": "https://www.insurancejournal.com/app/uploads/2025/08/cybersecurity-concept-with-lock-619733649-AdobeStock-scaled.jpeg"
+        "titulo": "New Linux FIRESTARTER Backdoor Targets Cisco Firepower Devices",
+        "fonte": "HackRead",
+        "autor": "Deeba Ahmed",
+        "data": "2026-04-28",
+        "url": "https://hackread.com/linux-firestarter-backdoor-cisco-firepower-devices/",
+        "resumo": "CISA and NCSC warn that FIRESTARTER, a Linux-based backdoor, targets Cisco Firepower devices, evades patches, and enables persistent access even after firmware updates.",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/04/cisco-firewalls-hit-by-stealthy-firestarter-backdoor.jpg"
     },
     {
-        "titulo": "Flowtriq Detects 48.3 Gbps Multi-Vector DDoS Attack in Under One Second",
-        "fonte": "Associated Press",
-        "autor": "",
-        "data": "2026-04-27",
-        "url": "https://apnews.com/press-release/ein-presswire-newsmatics/flowtriq-detects-48-3-gbps-multi-vector-ddos-attack-in-under-one-second-b4e14969206f90e8dc5d1a944b8261a8",
-        "resumo": "Canadian cybersecurity startup stops multi-vector attack during live training event with zero service disruption",
-        "imagem": "https://dims.apnews.com/dims4/default/ecc4697/2147483647/strip/true/crop/941x627+130+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F28%2F04%2F7859283160d0df45e8951490bddd%2F748aadf4b5704c5a9e9a39dc527a36e0"
+        "titulo": "MITRE Warns Cloud-Based Medical Devices Face Cascading Ransomware Risk Across Health Systems",
+        "fonte": "Healthsystemcio.com",
+        "autor": "Anthony Guerra",
+        "data": "2026-04-28",
+        "url": "https://healthsystemcio.com/2026/04/28/medical-device-cybersecurity-cloud-mitre/",
+        "resumo": "When cloud-based medical devices fail, the failure travels. A new MITRE analysis maps the cascade route, traces it through AI and quantum risk, and identifies the governance gaps that decide whether health systems can absorb the next outage. Source: MITRE War…",
+        "imagem": "https://healthsystemcio.com/wp-content/uploads/2026/04/white-paper-200.png"
+    },
+    {
+        "titulo": "ZetaChain Halts Cross-Chain Operations After 300K Exploit",
+        "fonte": "Bitcoinfoundation.org",
+        "autor": "Nana K.",
+        "data": "2026-04-28",
+        "url": "https://bitcoinfoundation.org/news/crimes-and-fraud-news/zetachain-hack/",
+        "resumo": "On April 27, layer-1 blockchain ZetaChain suffered an attack on its GatewayEVM smart contract. ZetaChain developers quickly suspended all cross-chain transactions on the mainnet to... The post ZetaChain Halts Cross-Chain Operations After 300K Exploit appeare…",
+        "imagem": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/ChatGPT-Image-28-апр.-2026-г.-14_15_51-1.webp"
     }
 ]
