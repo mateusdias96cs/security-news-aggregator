@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "New Linux &#x27;Copy Fail&#x27; Vulnerability Enables Root Access on Major Distributions",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-04-30",
-        "url": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
-        "resumo": "Cybersecurity researchers have disclosed details of a Linux local privilege escalation (LPE) flaw that could allow an unprivileged local user to obtain root. The high-severity vulnerability tracked as CVE-2026-31431 (CVSS score: 7.8) has been codenamed Copy F…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYpnBkrLNj-dAKcwAbvRIvfXg8YDXoO3yfrl3vvXBOBwo2zga2asWZ0at4FLcLbiqQ1N7BsYA2szKbuqeVLBkrD80tMqYguBbqvrhEude6Fe9ayQpNs-meP8h4-f6ReWVeIU0zYp31XU7K-Kgxm5OKdI77HPQWgTx41al_WH3gYkMjEoROl6zvXF8HPRf5/s1700-e365/root.jpg"
+        "titulo": "Anthropic’s Mythos is moving between governments faster than regulators can agree on what to do with it",
+        "fonte": "The Next Web",
+        "autor": "Ana-Maria Stanciuc",
+        "data": "2026-05-01",
+        "url": "https://thenextweb.com/news/nthropic-mythos-geopolitical-government-control/",
+        "resumo": "Anthropic’s most controversial product has spent its first three weeks moving between state actors who cannot agree on whether it is theirs to use, theirs to block, or someone else’s problem entirely. On Wednesday morning, an unnamed Trump administration offi…",
+        "imagem": "https://media.thenextweb.com/2026/04/Anthropic.avif"
     },
     {
-        "titulo": "World Cup 2026: how mobile networks can avoid cybersecurity chaos at kick-off",
-        "fonte": "TechRadar",
-        "autor": "H. Khuong Nguyen Quan",
-        "data": "2026-04-30",
-        "url": "https://www.techradar.com/pro/world-cup-2026-how-mobile-networks-can-avoid-cybersecurity-chaos-at-kick-off",
-        "resumo": "Short-term defenses help operators boost security ahead of World Cup",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX-2560-80.jpg"
-    },
-    {
-        "titulo": "9-Year-Old Linux Kernel Vulnerability “Copy Fail” Enables Full Root Access",
-        "fonte": "HackRead",
-        "autor": "Deeba Ahmed",
-        "data": "2026-04-30",
-        "url": "https://hackread.com/linux-kernel-vulnerability-copy-fail-full-root-access/",
-        "resumo": "Theori researchers reveal a decade-old Linux kernel flaw that allows hackers to gain root access by corrupting system memory with a simple Python script.",
-        "imagem": "https://hackread.com/wp-content/uploads/2026/04/linux-kernel-vulnerability-copy-fail-full-root-access.jpg"
-    },
-    {
-        "titulo": "Australian banks warned frontier AI could create larger, faster cyber attacks",
-        "fonte": "The Times of India",
-        "autor": "Reuters",
-        "data": "2026-04-30",
-        "url": "https://economictimes.indiatimes.com/tech/technology/australian-banks-warned-frontier-ai-could-create-larger-faster-cyber-attacks/articleshow/130621679.cms",
-        "resumo": "Australia&#x27;s banking regulators, APRA, are sounding the alarm over escalating cyber threats. Advanced AI tools like Anthropic&#x27;s Claude Mythos may equip hackers with unprecedented capabilities. Current cybersecurity measures within banks are trailing behind the…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1953825,resizemode-75,msid-130621679/tech/technology/australian-banks-warned-frontier-ai-could-create-larger-faster-cyber-attacks.jpg"
-    },
-    {
-        "titulo": "Wiz finds AI has moved from tool to infrastructure, broadening the attack surface",
-        "fonte": "SiliconANGLE News",
-        "autor": "Duncan Riley",
-        "data": "2026-04-29",
-        "url": "https://siliconangle.com/2026/04/29/wiz-finds-ai-moved-tool-infrastructure-broadening-attack-surface/",
-        "resumo": "A new report out today from Google LLC-owned cloud security company Wiz Inc. finds that artificial intelligence has shifted from experimental tooling to default cloud infrastructure, with 81% of observed environments running managed AI services and 90% runnin…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/wizaisecreport.png"
-    },
-    {
-        "titulo": "Microsoft&#x27;s patch for a 0-day exploited by Russian spies fell short. Another Windows flaw is under attack",
-        "fonte": "Theregister.com",
-        "autor": "Jessica Lyons",
-        "data": "2026-04-29",
-        "url": "https://www.theregister.com/2026/04/29/microsoft_zero_click_exploit/",
-        "resumo": "Second try&#x27;s a charm? Microsoft and the US Cybersecurity and Infrastructure Security Agency (CISA) warned that attackers are exploiting a zero-click Windows flaw that can expose sensitive information on vulnerable systems.…&lt;!--#include virtual=&#x27;/data_centre/_…",
-        "imagem": "https://regmedia.co.uk/2022/03/18/russian_bear_shutterstock.jpg"
-    },
-    {
-        "titulo": "Re: SEC Consult SA-20260427-0 :: Missing TLS Certificate Validation leading to RCE in DeskTime Time Tracking App",
-        "fonte": "Seclists.org",
-        "autor": "",
-        "data": "2026-04-29",
-        "url": "https://seclists.org/fulldisclosure/2026/Apr/21",
-        "resumo": "Posted by SEC Consult Vulnerability Lab via Fulldisclosure on Apr 29*Update 2026-04-28:* The vendor contacted us and now provides a patched version v1.3.674 which can be obtained at the following URL: https://desktime.com/download",
-        "imagem": "https://seclists.org/images/fulldisclosure-img.png"
-    },
-    {
-        "titulo": "SEC Consult SA-20260427-0 :: Missing TLS Certificate Validation leading to RCE in DeskTime Time Tracking App",
-        "fonte": "Seclists.org",
-        "autor": "",
-        "data": "2026-04-29",
-        "url": "https://seclists.org/fulldisclosure/2026/Apr/20",
-        "resumo": "Posted by SEC Consult Vulnerability Lab via Fulldisclosure on Apr 29SEC Consult Vulnerability Lab Security Advisory ======================================================================= title: Missing TLS Certificate Validation leading to RCE product: De…",
-        "imagem": "https://seclists.org/images/fulldisclosure-img.png"
-    },
-    {
-        "titulo": "Editorial. Challenge of Mythos",
-        "fonte": "BusinessLine",
-        "autor": "",
-        "data": "2026-04-29",
-        "url": "https://www.thehindubusinessline.com/opinion/editorial/editorial-challenge-of-mythos/article70920902.ece",
-        "resumo": "Cyber security, regulation might have changed forever",
-        "imagem": "https://bl-i.thgim.com/public/incoming/hm4gpl/article70921771.ece/alternates/LANDSCAPE_1200/454512412.jpg"
-    },
-    {
-        "titulo": "8 best practices for CISOs conducting risk reviews",
-        "fonte": "Microsoft.com",
-        "autor": "Rico Mariani",
-        "data": "2026-04-29",
-        "url": "https://www.microsoft.com/en-us/security/blog/2026/04/29/8-best-practices-for-cisos-conducting-risk-reviews/",
-        "resumo": "Embracing strong proactive security is something we can all do to mitigate our increased exposure to security threats. The post 8 best practices for CISOs conducting risk reviews appeared first on Microsoft Security Blog.",
-        "imagem": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/04/dCISO_Mariani.jpg"
-    },
-    {
-        "titulo": "CISA flags data-theft bug in NSA-built OT networking tool",
-        "fonte": "Theregister.com",
-        "autor": "Connor Jones",
-        "data": "2026-04-29",
-        "url": "https://www.theregister.com/2026/04/29/cisa_flags_datatheft_bug_in/",
-        "resumo": "GrassMarlin leaks sensitive information, provided your targeting phishing skills are sharp enough The Cybersecurity and Infrastructure Security Agency (CISA) is warning anyone who uses GrassMarlin, a tool developed by the National Security Agency (NSA), about…",
-        "imagem": "https://regmedia.co.uk/2024/05/07/data_shutterstock.jpg"
-    },
-    {
-        "titulo": "India buckles up for Mythos AI’s double-edged weapon",
-        "fonte": "BusinessLine",
-        "autor": "KV Kurmanath &amp; K Ram Kumar",
-        "data": "2026-04-29",
-        "url": "https://www.thehindubusinessline.com/info-tech/india-buckles-up-for-mythos-ais-double-edged-weapon/article70921080.ece",
-        "resumo": "India faces potential cybersecurity threats from Mythos AI, prompting cautious evaluations from experts across various sectors.",
-        "imagem": "https://bl-i.thgim.com/public/incoming/lyn5cv/article70921332.ece/alternates/LANDSCAPE_1200/2026-04-29T093535Z_973353287_RC2WYKAYW4I4_RTRMADP_3_EUROPE-BANKS-MYTHOS.JPG"
-    },
-    {
-        "titulo": "Why scaling connectivity is imperative to continue meeting demand",
-        "fonte": "TechRadar",
-        "autor": "Paul Taylor (Vodafone)",
-        "data": "2026-04-29",
-        "url": "https://www.techradar.com/pro/why-scaling-connectivity-is-imperative-to-continue-meeting-demand",
-        "resumo": "If the UK is serious about digital inclusion, it must confront a simple truth: without connectivity, inclusion fails.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/GwfBA5FJJWQSsrqCuLz3gL-2560-80.jpg"
-    },
-    {
-        "titulo": "Social friction vs. cognitive efficiency: A comparative analysis of help-seeking behaviors in human communities and generative AI",
-        "fonte": "Plos.org",
-        "autor": "Li Qi, Lanlan Zhao",
-        "data": "2026-04-29",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348441",
-        "resumo": "Generative AI agents (e.g., ChatGPT) provide a private, low-latency environment for knowledge acquisition, distinct from public online communities where social evaluation is prevalent. This study investigates how the removal of social evaluation threats in AI…",
-        "imagem": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0348441.g007&size=inline"
-    },
-    {
-        "titulo": "Microsoft won’t patch PhantomRPC: Feature or bug?",
-        "fonte": "Malwarebytes.com",
-        "autor": "Pieter Arntz",
-        "data": "2026-04-29",
-        "url": "https://www.malwarebytes.com/blog/news/2026/04/microsoft-wont-patch-phantomrpc-feature-or-bug",
-        "resumo": "A researcher has detailed five ways to exploit PhantomRPC, which Microsoft rates “moderate” and does not plan to fix.",
-        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/04/Phantom_of_the_opera.png"
-    },
-    {
-        "titulo": "Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure",
+        "titulo": "1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom",
         "fonte": "Securityweek.com",
         "autor": "Ionut Arghire",
-        "data": "2026-04-29",
-        "url": "https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/",
-        "resumo": "The vulnerability allows attackers to read data from a LiteLLM proxy’s database and potentially modify it. The post Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/04/Artificial-intelligence-AI.jpeg"
+        "data": "2026-05-01",
+        "url": "https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/",
+        "resumo": "The compromised Lightning and Intercom packages have a combined monthly download count of nearly 10 million. The post 1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2025/11/NPM-code-software-development.jpeg"
     },
     {
-        "titulo": "Picus Security Hosts 2026 Autonomous Validation Summit",
-        "fonte": "GlobeNewswire",
-        "autor": "Picus Security",
-        "data": "2026-04-29",
-        "url": "https://www.globenewswire.com/news-release/2026/04/29/3283836/0/en/Picus-Security-Hosts-2026-Autonomous-Validation-Summit.html",
-        "resumo": "Picus Security is hosting a free, virtual summit to offer security leaders and teams practical strategies for continuous, autonomous validation....",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/f86a8a55-0c0f-4460-86d9-4b577ed8cc28"
+        "titulo": "Show HN: Capture the Flag game where LLMs are the only players",
+        "fonte": "Github.com",
+        "autor": "megapixel99",
+        "data": "2026-04-30",
+        "url": "https://github.com/Megapixel99/capture-the-flag",
+        "resumo": "Set up a small R&amp;D project which pit different LLMs against each other in a game of Capture the Flag. Each LLM has 30 seconds to prepare any defenses and 5 minutes to capture other flags while defending their own. All of the models run on top of Ollama (https…",
+        "imagem": "https://opengraph.githubassets.com/ed1f8370f6b1082193e8b668f68b4017c82c9a6473aeb191c4bedb19f18bbab3/Megapixel99/capture-the-flag"
     },
     {
-        "titulo": "Auvik launches Aurora AI agents to speed ticket resolution and prevent outages",
+        "titulo": "Hackers are actively exploiting a bug in cPanel, used by millions of websites | TechCrunch",
+        "fonte": "TechCrunch",
+        "autor": "Zack Whittaker",
+        "data": "2026-04-30",
+        "url": "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/",
+        "resumo": "Web hosts are scrambling to fix the bug under active attack by hackers. One company said hackers have been abusing the bug for months.",
+        "imagem": "https://techcrunch.com/wp-content/uploads/2026/04/cpanel-security-flaw-bug.jpeg?resize=1200,784"
+    },
+    {
+        "titulo": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too | TechCrunch",
+        "fonte": "TechCrunch",
+        "autor": "Julie Bort",
+        "data": "2026-04-30",
+        "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+        "resumo": "OpenAI will begin rolling out it cybersecurity testing tool, GPT-5.5 Cyber only &quot;to critical cyber defenders&quot; at first.",
+        "imagem": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783"
+    },
+    {
+        "titulo": "Mythos legend ups cybersecurity stakes",
+        "fonte": "The Times of India",
+        "autor": "ET Bureau",
+        "data": "2026-04-30",
+        "url": "https://economictimes.indiatimes.com/opinion/et-editorial/mythos-legend-ups-cybersecurity-stakes/articleshow/130650835.cms",
+        "resumo": "India is seeking access to Anthropic&#x27;s powerful AI tool, Mythos. This AI can find software security flaws quickly. India believes its digital infrastructure needs this protection. The government is discussing access with the US administration. This move aims …",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-365386,resizemode-75,msid-130650835/opinion/et-editorial/mythos-legend-ups-cybersecurity-stakes.jpg"
+    },
+    {
+        "titulo": "OpenAI now lets you lock your ChatGPT account with a hardware key. Here is why it thinks you should.",
+        "fonte": "The Next Web",
+        "autor": "Ana Maria Constantin",
+        "data": "2026-04-30",
+        "url": "https://thenextweb.com/news/openai-chatgpt-advanced-security-yubico-passkeys/",
+        "resumo": "OpenAI has released a security feature for ChatGPT accounts that treats them the way banks treat online banking: hardware keys, no passwords, no email recovery, and no help from customer support if you lose access. The feature, called Advanced Account Securit…",
+        "imagem": "https://media.thenextweb.com/2026/04/Yubico-openai.avif"
+    },
+    {
+        "titulo": "Anthropic launches Claude Security in public beta for enterprise customers",
+        "fonte": "The Times of India",
+        "autor": "ETtech",
+        "data": "2026-04-30",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-claude-security-in-public-beta-for-enterprise-customers/articleshow/130649889.cms",
+        "resumo": "Anthropic has launched Claude Security in public beta, an AI-powered tool for enterprise security teams to scan codebases for vulnerabilities and generate patches. Powered by Claude Opus 4.7, the product reasons through code like a human researcher, tracing d…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-83812,resizemode-75,msid-130649889/tech/artificial-intelligence/anthropic-launches-claude-security-in-public-beta-for-enterprise-customers.jpg"
+    },
+    {
+        "titulo": "A cybersecurity harbinger: Oracle front-runs AI model threat with new customer security advisory",
         "fonte": "SiliconANGLE News",
-        "autor": "Duncan Riley",
-        "data": "2026-04-29",
-        "url": "https://siliconangle.com/2026/04/29/auvik-launches-aurora-ai-agents-speed-ticket-resolution-prevent-outages/",
-        "resumo": "Information technology management software provider Auvik Networks Inc. today announced the launch of Auvik Aurora: artificial intelligence-powered IT agents that are designed to help IT professionals proactively manage, troubleshoot and optimize their networ…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/auvik.png"
+        "autor": "Dave Vellante",
+        "data": "2026-04-30",
+        "url": "https://siliconangle.com/2026/04/30/cybersecurity-harbinger-oracle-front-runs-ai-model-threat-new-customer-security-advisory/",
+        "resumo": "SiliconANGLE was able to review an Oracle Corp. security alert that went out to customers this week. We believe it was a direct response to Anthropic PBC’s new Mythos artificial intelligence model, and other frontier models, that significantly lower the cost …",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/ChatGPT-Image-Apr-29-2026-02_41_30-PM.png"
     },
     {
-        "titulo": "GitHub fixes RCE flaw that gave access to millions of private repos",
+        "titulo": "Europe’s finance ministers are about to discuss an AI model none of them can access",
+        "fonte": "The Next Web",
+        "autor": "Alina Maria Stan",
+        "data": "2026-04-30",
+        "url": "https://thenextweb.com/news/eu-finance-ministers-mythos-anthropic-cybersecurity/",
+        "resumo": "Euro-area finance ministers will discuss Anthropic’s Mythos AI model with banking supervisors on Monday, according to a senior EU official. The technology that will be on the agenda is one that no government in the European Union has access to, built by a com…",
+        "imagem": "https://media.thenextweb.com/2026/04/eu-finance-ministers-mythos-anthropic-cybersecurity.avif"
+    },
+    {
+        "titulo": "Great responsibility, without great power",
+        "fonte": "Talosintelligence.com",
+        "autor": "Hazel Burton",
+        "data": "2026-04-30",
+        "url": "https://blog.talosintelligence.com/great-responsibility-without-great-power/",
+        "resumo": "In this week’s newsletter, Hazel uses International Superhero Day as a springboard to explore why empathy — rather than just technical prowess — is the most essential, underrated superpower for navigating the human side of cybersecurity.",
+        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/04/threat_source-4.jpg"
+    },
+    {
+        "titulo": "AI won’t fix broken systems: India needs secure-by-design approach",
+        "fonte": "The Times of India",
+        "autor": "Subhashis Banerjee, Debayan Gupta",
+        "data": "2026-04-30",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/ai-wont-fix-broken-systems-india-needs-secure-by-design-approach/articleshow/130646449.cms",
+        "resumo": "India&#x27;s digital infrastructure faces a critical challenge. While AI accelerates attacks, the core issue is weak system design. Security requires building systems to be inherently secure, not just detecting breaches. Formal verification and layered threat m…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-71756,resizemode-75,msid-130646449/opinion/et-commentary/ai-wont-fix-broken-systems-india-needs-secure-by-design-approach.jpg"
+    },
+    {
+        "titulo": "Claude Security is now in public beta | Claude",
+        "fonte": "Claude.com",
+        "autor": "",
+        "data": "2026-04-30",
+        "url": "https://claude.com/blog/claude-security-public-beta",
+        "resumo": "Claude Security is now available in public beta to Claude Enterprise customers. AI cybersecurity capabilities are advancing fast. Today’s models are already highly effective at finding flaws in software code; the next generation will be more capable still, an…",
+        "imagem": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/69f398245c0b3933c7940d49_og_claude-security-public-beta%20(1).jpg"
+    },
+    {
+        "titulo": "Anthropic announces Claude Security public beta to find and fix software vulnerabilities",
+        "fonte": "SiliconANGLE News",
+        "autor": "Kyt Dotson",
+        "data": "2026-04-30",
+        "url": "https://siliconangle.com/2026/04/30/anthropic-announces-claude-security-public-beta-find-fix-software-vulnerabilities/",
+        "resumo": "Anthropic PBC announced the launch of Claude Security in public beta mode today to help cybersecurity teams scan their codebases for vulnerabilities and generate patches. Part of Claude Enterprise, the company’s subscription model aimed at large organization…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Anthropic.png"
+    },
+    {
+        "titulo": "Anthropic&#x27;s new Claude Security tool scans your codebase for flaws - and helps you decide what to fix first",
+        "fonte": "ZDNet",
+        "autor": "David Gewirtz",
+        "data": "2026-04-30",
+        "url": "https://www.zdnet.com/article/anthropic-claude-security-ai-tool-scans-codebase-for-flaws/",
+        "resumo": "It uses Opus 4.7 to scan, validate, and generate patches, helping fix dangerous flaws before they can be exploited.",
+        "imagem": "https://www.zdnet.com/a/img/resize/b812c2ac285d2b5c8ffb0a577aa3a7e757aab1cb/2026/04/30/21eaa3bd-0347-4dbb-b857-b0757d960c7d/claude-security-2.jpg?auto=webp&fit=crop&height=675&width=1200"
+    },
+    {
+        "titulo": "Copy Fail (CVE-2026-31431): Frequently asked questions about Linux kernel privilege escalation vulnerability",
+        "fonte": "Tenable.com",
+        "autor": "Satnam Narang",
+        "data": "2026-04-30",
+        "url": "https://www.tenable.com/blog/copy-fail-cve-2026-31431-frequently-asked-questions-about-linux-kernel-privilege-escalation",
+        "resumo": "A flaw in the Linux kernel present since 2017 allows a local user to gain root access on virtually every major Linux distribution. A public exploit is available and reported to work reliably.Key Takeaways CVE-2026-31431 is a high severity local privi…",
+        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/FAQ-Copy-Fail_0.png?itok=iiDRiSN2"
+    },
+    {
+        "titulo": "Dental practice software maker fixes bug that exposed patients&#x27; medical records | TechCrunch",
+        "fonte": "TechCrunch",
+        "autor": "Zack Whittaker",
+        "data": "2026-04-30",
+        "url": "https://techcrunch.com/2026/04/30/dental-practice-software-maker-fixes-bug-that-exposed-patients-medical-records/",
+        "resumo": "Exclusive: The security bug is now fixed, but the patient who found it said it was challenging to alert the software company about the issue.",
+        "imagem": "https://techcrunch.com/wp-content/uploads/2026/04/dentist-office-1252046775.jpg?resize=1200,798"
+    },
+    {
+        "titulo": "Jan Lane illuminates the cybersecurity illusion leaders can no longer afford",
+        "fonte": "The Next Web",
+        "autor": "Callum Turner",
+        "data": "2026-04-30",
+        "url": "https://thenextweb.com/news/cybersecurity-ai-threats-leadership-risk/",
+        "resumo": "Summary: AI-driven threats are accelerating as security stacks grow louder. Jan Lane argues that leadership clarity, AI integration, workforce awareness and diligence now determine cyber resilience. Rising cybersecurity budgets suggest preparedness, yet outco…",
+        "imagem": "https://media.thenextweb.com/2026/04/cybersecurity-ai-threats-leadership-risk.avif"
+    },
+    {
+        "titulo": "New Linux ‘Copy Fail’ flaw gives hackers root on major distros",
         "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-04-29",
-        "url": "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
-        "resumo": "In early March, GitHub patched a critical remote code execution vulnerability (CVE-2026-3854) that could have allowed attackers to access millions of private repositories. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/04/29/GitHub.jpg"
+        "autor": "Bill Toulas",
+        "data": "2026-04-30",
+        "url": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/",
+        "resumo": "An exploit has been published for a local privilege escalation vulnerability dubbed &quot;Copy Fail&quot; that impacts Linux kernels released since 2017, allowing an unprivileged local attacker to gain root permissions. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/04/30/Linux-Tux.jpg"
     },
     {
-        "titulo": "SecureAuth Opens Industry-First Agent Trust Registry to the Public as AI Agents Pose Escalating Enterprise Security Threat",
-        "fonte": "GlobeNewswire",
-        "autor": "SecureAuth Corporation",
-        "data": "2026-04-29",
-        "url": "https://www.globenewswire.com/news-release/2026/04/29/3283736/0/en/SecureAuth-Opens-Industry-First-Agent-Trust-Registry-to-the-Public-as-AI-Agents-Pose-Escalating-Enterprise-Security-Threat.html",
-        "resumo": "SecureAuth&#x27;s opens industry-first Agent Trust Registry Registry to the public to deliver verified identity, trust scores, and governance metadata...",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/9c55d93d-2c6f-455a-bcc7-122a52061d07"
+        "titulo": "Empowering the Amazon: Cisco Networking Academy",
+        "fonte": "Cisco.com",
+        "autor": "Kevin Delaney",
+        "data": "2026-04-30",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m04/empowering-the-amazon-cisco-networking-academy.html",
+        "resumo": "Cisco has brought networking and security skills to more than one million Brazilians. With its vast untapped wealth of talent, the Amazon is a critical focus. More RSS Feeds: https://newsroom.cisco.com/c/r/newsroom/en/us/rss-feeds.html",
+        "imagem": "https://newsroom.cisco.com/c/dam/r/newsroom/en/us/assets/a/y2026/m04/BBC_Cisco_Thumb.jpeg"
     }
 ]
