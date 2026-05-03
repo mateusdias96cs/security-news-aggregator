@@ -1,5 +1,149 @@
 [
     {
+        "titulo": "CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments",
+        "fonte": "Microsoft.com",
+        "autor": "Microsoft Defender Security Research Team",
+        "data": "2026-05-02",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/",
+        "resumo": "A high-severity Linux vulnerability, “Copy Fail” (CVE-2026-31431), enables root privilege escalation across cloud environments and Kubernetes workloads. With a working exploit already in the wild, organizations should act quickly to detect, mitigate, and redu…",
+        "imagem": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/04/MS_Actional-Insights_Rapid-response.jpg"
+    },
+    {
+        "titulo": "The 2026 Federal 100",
+        "fonte": "Nextgov",
+        "autor": "Nextgov/FCW Staff",
+        "data": "2026-05-01",
+        "url": "https://www.nextgov.com/people/2026/05/2026-federal-100/413266/",
+        "resumo": "Meet the outstanding individuals being honored for their exceptional contributions to federal IT.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/05/01/102725Fed100NG/open-graph.png"
+    },
+    {
+        "titulo": "Security posture improvement in the AI era",
+        "fonte": "Amazon.com",
+        "autor": "Celeste Bishop",
+        "data": "2026-05-01",
+        "url": "https://aws.amazon.com/blogs/security/security-posture-improvement-in-the-ai-era/",
+        "resumo": "It’s only been a few weeks since Anthropic announced the Claude Mythos Preview model and launched Project Glasswing with AWS and other leading organizations. This has generated a lot of discussion about the future of cybersecurity and what the ever-increasing…",
+        "imagem": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/05/01/Security-posture-improvement-AI-era.jpeg"
+    },
+    {
+        "titulo": "FEDS Note: Banks in the Age of Stablecoins: Lessons from Their Historical Responses to Financial Innovations",
+        "fonte": "Federalreserve.gov",
+        "autor": "",
+        "data": "2026-05-01",
+        "url": "https://www.federalreserve.gov/econres/notes/feds-notes/banks-in-the-age-of-stablecoins-lessons-from-their-historical-responses-to-financial-innovations-20260501.html",
+        "resumo": "Sam Hempel, JP Perez-Sangimino, and Jessie Jiaxu WangThe expansion of stablecoins has moved digital payment tokens from the periphery of financial markets to the center of policy discussions. With a global market capitalization in the mid-hundreds of billions…",
+        "imagem": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg"
+    },
+    {
+        "titulo": "Hackers Are Actively Exploiting a Bug In cPanel, Used By Millions of Websites",
+        "fonte": "Slashdot.org",
+        "autor": "BeauHD",
+        "data": "2026-05-01",
+        "url": "https://it.slashdot.org/story/26/05/01/0631257/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites",
+        "resumo": "Hackers are actively exploiting a critical cPanel and WHM vulnerability, tracked as CVE-2026-41940, that allows remote attackers to bypass the login screen and gain full administrative access to affected web servers. Major hosts including Namecheap, HostGator…",
+        "imagem": "https://a.fsdn.com/sd/topics/bug_64.png"
+    },
+    {
+        "titulo": "FBI says hackers are making millions from stolen cargo - losses &#x27;surged&#x27; to nearly $725 million in 2025",
+        "fonte": "TechRadar",
+        "autor": "Craig Hale",
+        "data": "2026-05-01",
+        "url": "https://www.techradar.com/pro/security/fbi-says-hackers-are-making-millions-from-stolen-cargo-losses-surged-to-nearly-usd725-million-in-2025",
+        "resumo": "Cybercriminals are infiltrating digital shipping supply chains to reroute cargo and use it to fund other crimes.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/82Zyie4jRoZdohT4CLDFyY-1920-80.jpg"
+    },
+    {
+        "titulo": "From &#x27;encryption backdoor&#x27; to &#x27;lawful access&#x27; — is a compromise between privacy, security, and law enforcement needs actually possible?",
+        "fonte": "TechRadar",
+        "autor": "chiara.castro@futurenet.com (Chiara Castro) , Chiara Castro",
+        "data": "2026-05-01",
+        "url": "https://www.techradar.com/vpn/vpn-privacy-security/from-encryption-backdoor-to-lawful-access-is-a-compromise-between-privacy-security-and-law-enforcement-needs-actually-possible",
+        "resumo": "After ongoing attempts in Europe, Canada is the latest country pushing for &quot;lawful access&quot; to data for law enforcement. This, despite cybersecurity experts warning that breaking encryption would threaten everyone&#x27;s privacy and security.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/9kTjCEy37gh8ucdaDhrVoU-2153-80.jpg"
+    },
+    {
+        "titulo": "AI lifts clouds even higher, AWS moves up the stack, and Elon and Sam battle in court",
+        "fonte": "SiliconANGLE News",
+        "autor": "Robert Hof",
+        "data": "2026-05-01",
+        "url": "https://siliconangle.com/2026/05/01/ai-lifts-clouds-even-higher-aws-moves-stack-elon-sam-battle-court/",
+        "resumo": "If anyone thought artificial intelligence was running into a slow patch, let alone running into any fundamental technical or financial hurdles, this week quieted the doubters — at least for now. In a blockbuster week of Big Tech earnings, Alphabet, Amazon, Mi…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/AI-Rocket-Boost-Tech-Giants.png"
+    },
+    {
+        "titulo": "First reports come in of victims of critical cPanel vuln as &#x27;millions&#x27; of sites potentially exposed",
+        "fonte": "Theregister.com",
+        "autor": "Carly Page",
+        "data": "2026-05-01",
+        "url": "https://www.theregister.com/2026/05/01/critical_cpanel_vuln_hits_cisa/",
+        "resumo": "Exploitation was underway before patches landed, at least one victim reports ransomware demand CISA has added a critical cPanel bug to its known-exploited list, confirming that attackers are already poking holes in one of the internet&#x27;s most widely used hosti…",
+        "imagem": "https://regmedia.co.uk/2017/05/04/bouncer.jpg"
+    },
+    {
+        "titulo": "Manufacturing Industry Top Target of Costly Cyberattacks: Report",
+        "fonte": "Carriermanagement.com",
+        "autor": "admin",
+        "data": "2026-05-01",
+        "url": "https://www.carriermanagement.com/news/2026/04/30/287384.htm",
+        "resumo": "A review of five years’ of proprietary claims data revealed just how vulnerable manufacturers are to cyberattacks and the high cost of disruptions, according to Resilience, which found more than 90% of total incurred losses in its manufacturing portfolio were…",
+        "imagem": "https://www.insurancejournal.com/app/uploads/2026/05/shutterstock_82383217_cybersecurity.jpg"
+    },
+    {
+        "titulo": "Securonix partners with AI SPERA to bring Criminal IP intelligence to ThreatQ",
+        "fonte": "SiliconANGLE News",
+        "autor": "Duncan Riley",
+        "data": "2026-05-01",
+        "url": "https://siliconangle.com/2026/05/01/securonix-partners-ai-spera-bring-criminal-ip-intelligence-threatq/",
+        "resumo": "Cybersecurity company Securonix Inc. today announced a new partnership with cyberthreat intelligence company AI SPERA Inc. to deliver integrated threat intelligence enrichment through its ThreatQ Platform. The partnership sees the integration of Securonix’s T…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/securonixaispera.png"
+    },
+    {
+        "titulo": "Vulnerability remediation: Match CVEs to asset owners in seconds with Tenable Hexa AI",
+        "fonte": "Tenable.com",
+        "autor": "Sean Jennings",
+        "data": "2026-05-01",
+        "url": "https://www.tenable.com/blog/vulnerability-remediation-match-cves-to-asset-owners-in-seconds-with-tenable",
+        "resumo": "Detecting a vulnerability is easy. Finding the person responsible for fixing it is where remediation programs often break down. See how Tenable Hexa AI uses MCP to connect your exposure data to your identity provider — automating the hunt for asset owners in …",
+        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/Vulnerability%20remediation.%20Match%20CVEs%20to%20asset%20owners%20in%20seconds%20with%20Tenable%20Hexa%20AI.jpeg?itok=HtMPr91Y"
+    },
+    {
+        "titulo": "Anthropic Rolls Out Claude Security for AI Vulnerability Scanning",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Beth Maundrill",
+        "data": "2026-05-01",
+        "url": "https://www.infosecurity-magazine.com/news/anthropic-claude-security-for-ai/",
+        "resumo": "Claude Security enters public beta, giving enterprises AI driven code scanning with no API integration or custom agents required",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/8183e380-733f-4b0a-85b4-2b9d2f389e75.jpg"
+    },
+    {
+        "titulo": "Critical cPanel Vulnerability Lets Attackers Bypass Login, Gain Root Access",
+        "fonte": "HackRead",
+        "autor": "Deeba Ahmed",
+        "data": "2026-05-01",
+        "url": "https://hackread.com/cpanel-vulnerability-attacker-bypass-login-root-access/",
+        "resumo": "A critical cPanel vulnerability lets attackers bypass login and gain root access, with active exploitation reported before patches were released.",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/05/cpanel-vulnerability-attacker-bypass-login-root-access.jpg"
+    },
+    {
+        "titulo": "AI tools have made vulnerability exploitation faster and easier",
+        "fonte": "TechRadar",
+        "autor": "Ronald Lewis",
+        "data": "2026-05-01",
+        "url": "https://www.techradar.com/pro/ai-tools-have-made-vulnerability-exploitation-faster-and-easier",
+        "resumo": "“That world no longer exists”: AI has terminated the &quot;grace period&quot; for closing security vulnerabilities, here&#x27;s what you need to know.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg"
+    },
+    {
+        "titulo": "Actively exploited cPanel bug exposes millions of websites to takeover",
+        "fonte": "Malwarebytes.com",
+        "autor": "Pieter Arntz",
+        "data": "2026-05-01",
+        "url": "https://www.malwarebytes.com/blog/news/2026/05/actively-exploited-cpanel-bug-exposes-millions-of-websites-to-takeover",
+        "resumo": "A vulnerability in the cPanel/WHM admin interface lets attackers access websites without a username and password.",
+        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/05/compromised_server_room.png"
+    },
+    {
         "titulo": "Anthropic’s Mythos is moving between governments faster than regulators can agree on what to do with it",
         "fonte": "The Next Web",
         "autor": "Ana-Maria Stanciuc",
@@ -18,6 +162,15 @@
         "imagem": "https://www.securityweek.com/wp-content/uploads/2025/11/NPM-code-software-development.jpeg"
     },
     {
+        "titulo": "New infosec products of the month: April 2026",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-05-01",
+        "url": "https://www.helpnetsecurity.com/2026/05/01/new-infosec-products-of-the-month-april-2026/",
+        "resumo": "Here’s a look at the most interesting products from the past month, featuring releases from Advenica, Aptori, Axonius, Broadcom, GlobalSign, Intruder, IP Fabric, Mallory, Secureframe, Siemens, Sitehop, and Virtue AI. Mallory brings contextual threat intellige…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/28092100/infosec-month-1200.webp"
+    },
+    {
         "titulo": "Show HN: Capture the Flag game where LLMs are the only players",
         "fonte": "Github.com",
         "autor": "megapixel99",
@@ -25,158 +178,5 @@
         "url": "https://github.com/Megapixel99/capture-the-flag",
         "resumo": "Set up a small R&amp;D project which pit different LLMs against each other in a game of Capture the Flag. Each LLM has 30 seconds to prepare any defenses and 5 minutes to capture other flags while defending their own. All of the models run on top of Ollama (https…",
         "imagem": "https://opengraph.githubassets.com/ed1f8370f6b1082193e8b668f68b4017c82c9a6473aeb191c4bedb19f18bbab3/Megapixel99/capture-the-flag"
-    },
-    {
-        "titulo": "Hackers are actively exploiting a bug in cPanel, used by millions of websites | TechCrunch",
-        "fonte": "TechCrunch",
-        "autor": "Zack Whittaker",
-        "data": "2026-04-30",
-        "url": "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/",
-        "resumo": "Web hosts are scrambling to fix the bug under active attack by hackers. One company said hackers have been abusing the bug for months.",
-        "imagem": "https://techcrunch.com/wp-content/uploads/2026/04/cpanel-security-flaw-bug.jpeg?resize=1200,784"
-    },
-    {
-        "titulo": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too | TechCrunch",
-        "fonte": "TechCrunch",
-        "autor": "Julie Bort",
-        "data": "2026-04-30",
-        "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-        "resumo": "OpenAI will begin rolling out it cybersecurity testing tool, GPT-5.5 Cyber only &quot;to critical cyber defenders&quot; at first.",
-        "imagem": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783"
-    },
-    {
-        "titulo": "Mythos legend ups cybersecurity stakes",
-        "fonte": "The Times of India",
-        "autor": "ET Bureau",
-        "data": "2026-04-30",
-        "url": "https://economictimes.indiatimes.com/opinion/et-editorial/mythos-legend-ups-cybersecurity-stakes/articleshow/130650835.cms",
-        "resumo": "India is seeking access to Anthropic&#x27;s powerful AI tool, Mythos. This AI can find software security flaws quickly. India believes its digital infrastructure needs this protection. The government is discussing access with the US administration. This move aims …",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-365386,resizemode-75,msid-130650835/opinion/et-editorial/mythos-legend-ups-cybersecurity-stakes.jpg"
-    },
-    {
-        "titulo": "OpenAI now lets you lock your ChatGPT account with a hardware key. Here is why it thinks you should.",
-        "fonte": "The Next Web",
-        "autor": "Ana Maria Constantin",
-        "data": "2026-04-30",
-        "url": "https://thenextweb.com/news/openai-chatgpt-advanced-security-yubico-passkeys/",
-        "resumo": "OpenAI has released a security feature for ChatGPT accounts that treats them the way banks treat online banking: hardware keys, no passwords, no email recovery, and no help from customer support if you lose access. The feature, called Advanced Account Securit…",
-        "imagem": "https://media.thenextweb.com/2026/04/Yubico-openai.avif"
-    },
-    {
-        "titulo": "Anthropic launches Claude Security in public beta for enterprise customers",
-        "fonte": "The Times of India",
-        "autor": "ETtech",
-        "data": "2026-04-30",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-claude-security-in-public-beta-for-enterprise-customers/articleshow/130649889.cms",
-        "resumo": "Anthropic has launched Claude Security in public beta, an AI-powered tool for enterprise security teams to scan codebases for vulnerabilities and generate patches. Powered by Claude Opus 4.7, the product reasons through code like a human researcher, tracing d…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-83812,resizemode-75,msid-130649889/tech/artificial-intelligence/anthropic-launches-claude-security-in-public-beta-for-enterprise-customers.jpg"
-    },
-    {
-        "titulo": "A cybersecurity harbinger: Oracle front-runs AI model threat with new customer security advisory",
-        "fonte": "SiliconANGLE News",
-        "autor": "Dave Vellante",
-        "data": "2026-04-30",
-        "url": "https://siliconangle.com/2026/04/30/cybersecurity-harbinger-oracle-front-runs-ai-model-threat-new-customer-security-advisory/",
-        "resumo": "SiliconANGLE was able to review an Oracle Corp. security alert that went out to customers this week. We believe it was a direct response to Anthropic PBC’s new Mythos artificial intelligence model, and other frontier models, that significantly lower the cost …",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/ChatGPT-Image-Apr-29-2026-02_41_30-PM.png"
-    },
-    {
-        "titulo": "Europe’s finance ministers are about to discuss an AI model none of them can access",
-        "fonte": "The Next Web",
-        "autor": "Alina Maria Stan",
-        "data": "2026-04-30",
-        "url": "https://thenextweb.com/news/eu-finance-ministers-mythos-anthropic-cybersecurity/",
-        "resumo": "Euro-area finance ministers will discuss Anthropic’s Mythos AI model with banking supervisors on Monday, according to a senior EU official. The technology that will be on the agenda is one that no government in the European Union has access to, built by a com…",
-        "imagem": "https://media.thenextweb.com/2026/04/eu-finance-ministers-mythos-anthropic-cybersecurity.avif"
-    },
-    {
-        "titulo": "Great responsibility, without great power",
-        "fonte": "Talosintelligence.com",
-        "autor": "Hazel Burton",
-        "data": "2026-04-30",
-        "url": "https://blog.talosintelligence.com/great-responsibility-without-great-power/",
-        "resumo": "In this week’s newsletter, Hazel uses International Superhero Day as a springboard to explore why empathy — rather than just technical prowess — is the most essential, underrated superpower for navigating the human side of cybersecurity.",
-        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/04/threat_source-4.jpg"
-    },
-    {
-        "titulo": "AI won’t fix broken systems: India needs secure-by-design approach",
-        "fonte": "The Times of India",
-        "autor": "Subhashis Banerjee, Debayan Gupta",
-        "data": "2026-04-30",
-        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/ai-wont-fix-broken-systems-india-needs-secure-by-design-approach/articleshow/130646449.cms",
-        "resumo": "India&#x27;s digital infrastructure faces a critical challenge. While AI accelerates attacks, the core issue is weak system design. Security requires building systems to be inherently secure, not just detecting breaches. Formal verification and layered threat m…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-71756,resizemode-75,msid-130646449/opinion/et-commentary/ai-wont-fix-broken-systems-india-needs-secure-by-design-approach.jpg"
-    },
-    {
-        "titulo": "Claude Security is now in public beta | Claude",
-        "fonte": "Claude.com",
-        "autor": "",
-        "data": "2026-04-30",
-        "url": "https://claude.com/blog/claude-security-public-beta",
-        "resumo": "Claude Security is now available in public beta to Claude Enterprise customers. AI cybersecurity capabilities are advancing fast. Today’s models are already highly effective at finding flaws in software code; the next generation will be more capable still, an…",
-        "imagem": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/69f398245c0b3933c7940d49_og_claude-security-public-beta%20(1).jpg"
-    },
-    {
-        "titulo": "Anthropic announces Claude Security public beta to find and fix software vulnerabilities",
-        "fonte": "SiliconANGLE News",
-        "autor": "Kyt Dotson",
-        "data": "2026-04-30",
-        "url": "https://siliconangle.com/2026/04/30/anthropic-announces-claude-security-public-beta-find-fix-software-vulnerabilities/",
-        "resumo": "Anthropic PBC announced the launch of Claude Security in public beta mode today to help cybersecurity teams scan their codebases for vulnerabilities and generate patches. Part of Claude Enterprise, the company’s subscription model aimed at large organization…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Anthropic.png"
-    },
-    {
-        "titulo": "Anthropic&#x27;s new Claude Security tool scans your codebase for flaws - and helps you decide what to fix first",
-        "fonte": "ZDNet",
-        "autor": "David Gewirtz",
-        "data": "2026-04-30",
-        "url": "https://www.zdnet.com/article/anthropic-claude-security-ai-tool-scans-codebase-for-flaws/",
-        "resumo": "It uses Opus 4.7 to scan, validate, and generate patches, helping fix dangerous flaws before they can be exploited.",
-        "imagem": "https://www.zdnet.com/a/img/resize/b812c2ac285d2b5c8ffb0a577aa3a7e757aab1cb/2026/04/30/21eaa3bd-0347-4dbb-b857-b0757d960c7d/claude-security-2.jpg?auto=webp&fit=crop&height=675&width=1200"
-    },
-    {
-        "titulo": "Copy Fail (CVE-2026-31431): Frequently asked questions about Linux kernel privilege escalation vulnerability",
-        "fonte": "Tenable.com",
-        "autor": "Satnam Narang",
-        "data": "2026-04-30",
-        "url": "https://www.tenable.com/blog/copy-fail-cve-2026-31431-frequently-asked-questions-about-linux-kernel-privilege-escalation",
-        "resumo": "A flaw in the Linux kernel present since 2017 allows a local user to gain root access on virtually every major Linux distribution. A public exploit is available and reported to work reliably.Key Takeaways CVE-2026-31431 is a high severity local privi…",
-        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/FAQ-Copy-Fail_0.png?itok=iiDRiSN2"
-    },
-    {
-        "titulo": "Dental practice software maker fixes bug that exposed patients&#x27; medical records | TechCrunch",
-        "fonte": "TechCrunch",
-        "autor": "Zack Whittaker",
-        "data": "2026-04-30",
-        "url": "https://techcrunch.com/2026/04/30/dental-practice-software-maker-fixes-bug-that-exposed-patients-medical-records/",
-        "resumo": "Exclusive: The security bug is now fixed, but the patient who found it said it was challenging to alert the software company about the issue.",
-        "imagem": "https://techcrunch.com/wp-content/uploads/2026/04/dentist-office-1252046775.jpg?resize=1200,798"
-    },
-    {
-        "titulo": "Jan Lane illuminates the cybersecurity illusion leaders can no longer afford",
-        "fonte": "The Next Web",
-        "autor": "Callum Turner",
-        "data": "2026-04-30",
-        "url": "https://thenextweb.com/news/cybersecurity-ai-threats-leadership-risk/",
-        "resumo": "Summary: AI-driven threats are accelerating as security stacks grow louder. Jan Lane argues that leadership clarity, AI integration, workforce awareness and diligence now determine cyber resilience. Rising cybersecurity budgets suggest preparedness, yet outco…",
-        "imagem": "https://media.thenextweb.com/2026/04/cybersecurity-ai-threats-leadership-risk.avif"
-    },
-    {
-        "titulo": "New Linux ‘Copy Fail’ flaw gives hackers root on major distros",
-        "fonte": "BleepingComputer",
-        "autor": "Bill Toulas",
-        "data": "2026-04-30",
-        "url": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/",
-        "resumo": "An exploit has been published for a local privilege escalation vulnerability dubbed &quot;Copy Fail&quot; that impacts Linux kernels released since 2017, allowing an unprivileged local attacker to gain root permissions. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/04/30/Linux-Tux.jpg"
-    },
-    {
-        "titulo": "Empowering the Amazon: Cisco Networking Academy",
-        "fonte": "Cisco.com",
-        "autor": "Kevin Delaney",
-        "data": "2026-04-30",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m04/empowering-the-amazon-cisco-networking-academy.html",
-        "resumo": "Cisco has brought networking and security skills to more than one million Brazilians. With its vast untapped wealth of talent, the Amazon is a critical focus. More RSS Feeds: https://newsroom.cisco.com/c/r/newsroom/en/us/rss-feeds.html",
-        "imagem": "https://newsroom.cisco.com/c/dam/r/newsroom/en/us/assets/a/y2026/m04/BBC_Cisco_Thumb.jpeg"
     }
 ]
