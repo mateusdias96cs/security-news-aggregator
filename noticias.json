@@ -1,5 +1,59 @@
 [
     {
+        "titulo": "Google Revamps Bug Bounty Programs: Android Rewards Rise, Chrome Payouts Drop in the Age of AI",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-05-03",
+        "url": "https://securityaffairs.com/191600/security/google-revamps-bug-bounty-programs-android-rewards-rise-chrome-payouts-drop-in-the-age-of-ai.html",
+        "resumo": "Google revamps bug bounties: Android rewards rise to $1.5M, Chrome payouts drop, shifting focus to high-impact, AI-resistant vulnerabilities. Google has announced a major overhaul of its Vulnerability Reward Programs (VRP) for Android and Chrome, marking a st…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2025/11/Google-logo.jpg"
+    },
+    {
+        "titulo": "Week in review: High-severity LPE vulnerability in the Linux kernel, cPanel 0-day exploited for months",
+        "fonte": "Help Net Security",
+        "autor": "Help Net Security",
+        "data": "2026-05-03",
+        "url": "https://www.helpnetsecurity.com/2026/05/03/week-in-review-high-severity-lpe-vulnerability-in-the-linux-kernel-cpanel-0-day-exploited-for-months/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: The AI criminal mastermind is already hiring on gig platforms Labor-hire platforms let anyone with a credit card post a task and pay a stranger to complete it. T…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124830/cybersecurity-week-review-1-1500.webp"
+    },
+    {
+        "titulo": "Public sector banks looks to scale up IT spend in view of cyber threat posed by Anthropic Mythos",
+        "fonte": "BusinessLine",
+        "autor": "PTI",
+        "data": "2026-05-03",
+        "url": "https://www.thehindubusinessline.com/money-and-banking/public-sector-banks-looks-to-scale-up-it-spend-in-view-of-cyber-threat-posed-by-anthropic-mythos/article70934575.ece",
+        "resumo": "Mythos&#x27; advanced coding capabilities give it an unprecedented potential to detect cybersecurity weaknesses and develop methods to exploit them, sparking concerns that it could be used to disrupt banking systems",
+        "imagem": "https://bl-i.thgim.com/public/incoming/y8nv3f/article70934583.ece/alternates/LANDSCAPE_1200/2026-04-29T093530Z_403772238_RC2LU7AIGT8Y_RTRMADP_3_EUROPE-BANKS-MYTHOS.JPG"
+    },
+    {
+        "titulo": "Public sector banks to ramp up IT spend amid cyber risks from Anthropic&#x27;s Mythos",
+        "fonte": "The Times of India",
+        "autor": "PTI",
+        "data": "2026-05-03",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/public-sector-banks-to-ramp-up-it-spend-amid-cyber-risks-from-anthropics-mythos/articleshow/130728416.cms",
+        "resumo": "Indian banks are boosting IT investments to protect customer data and financial systems. Advanced AI tools like Claude Mythos pose new cybersecurity risks. Banks are enhancing defenses to counter potential cyberattacks. A government panel is assessing these A…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-30616,resizemode-75,msid-130728416/tech/artificial-intelligence/public-sector-banks-to-ramp-up-it-spend-amid-cyber-risks-from-anthropics-mythos.jpg"
+    },
+    {
+        "titulo": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-05-03",
+        "url": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibNApjovicg4aFV0VPiue9cUMmH_D-GkLlWwgXunP_-fUi8cRWaNM6Kl2TV99eBRKKVdXNq-0iQ2EJLotLO_TAvIA3xW-mE-tS5BDHSKrUmTgGuGEbAp4ek6uFJk4yRTsgJu6LStR3BqJkIm4fyXgZiBKxNGI0YBLiiAneTRvem-Ydh3gbIVsz8O0VBUQy/s1700-e365/linux-root.jpg"
+    },
+    {
+        "titulo": "US CISA adds ‘insane’ Linux Copy Fail flaw to watch list",
+        "fonte": "Cointelegraph",
+        "autor": "Cointelegraph by Ciaran Lyons",
+        "data": "2026-05-02",
+        "url": "https://cointelegraph.com/news/linux-copy-fail-a-trivially-exploitable-bug",
+        "resumo": "Malicious actors with code execution capability may gain root access on Linux systems using as few as 10 lines of Python, according to a researcher.",
+        "imagem": "https://payload.cointelegraph.com/api/article-covers/file/HI%20Bithumb%20Hack%20-%20what%20is%20known%20(1).jpg?prefix=media%2Farticle-covers"
+    },
+    {
         "titulo": "CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments",
         "fonte": "Microsoft.com",
         "autor": "Microsoft Defender Security Research Team",
@@ -124,59 +178,5 @@
         "url": "https://hackread.com/cpanel-vulnerability-attacker-bypass-login-root-access/",
         "resumo": "A critical cPanel vulnerability lets attackers bypass login and gain root access, with active exploitation reported before patches were released.",
         "imagem": "https://hackread.com/wp-content/uploads/2026/05/cpanel-vulnerability-attacker-bypass-login-root-access.jpg"
-    },
-    {
-        "titulo": "AI tools have made vulnerability exploitation faster and easier",
-        "fonte": "TechRadar",
-        "autor": "Ronald Lewis",
-        "data": "2026-05-01",
-        "url": "https://www.techradar.com/pro/ai-tools-have-made-vulnerability-exploitation-faster-and-easier",
-        "resumo": "“That world no longer exists”: AI has terminated the &quot;grace period&quot; for closing security vulnerabilities, here&#x27;s what you need to know.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg"
-    },
-    {
-        "titulo": "Actively exploited cPanel bug exposes millions of websites to takeover",
-        "fonte": "Malwarebytes.com",
-        "autor": "Pieter Arntz",
-        "data": "2026-05-01",
-        "url": "https://www.malwarebytes.com/blog/news/2026/05/actively-exploited-cpanel-bug-exposes-millions-of-websites-to-takeover",
-        "resumo": "A vulnerability in the cPanel/WHM admin interface lets attackers access websites without a username and password.",
-        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/05/compromised_server_room.png"
-    },
-    {
-        "titulo": "Anthropic’s Mythos is moving between governments faster than regulators can agree on what to do with it",
-        "fonte": "The Next Web",
-        "autor": "Ana-Maria Stanciuc",
-        "data": "2026-05-01",
-        "url": "https://thenextweb.com/news/nthropic-mythos-geopolitical-government-control/",
-        "resumo": "Anthropic’s most controversial product has spent its first three weeks moving between state actors who cannot agree on whether it is theirs to use, theirs to block, or someone else’s problem entirely. On Wednesday morning, an unnamed Trump administration offi…",
-        "imagem": "https://media.thenextweb.com/2026/04/Anthropic.avif"
-    },
-    {
-        "titulo": "1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom",
-        "fonte": "Securityweek.com",
-        "autor": "Ionut Arghire",
-        "data": "2026-05-01",
-        "url": "https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/",
-        "resumo": "The compromised Lightning and Intercom packages have a combined monthly download count of nearly 10 million. The post 1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2025/11/NPM-code-software-development.jpeg"
-    },
-    {
-        "titulo": "New infosec products of the month: April 2026",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-05-01",
-        "url": "https://www.helpnetsecurity.com/2026/05/01/new-infosec-products-of-the-month-april-2026/",
-        "resumo": "Here’s a look at the most interesting products from the past month, featuring releases from Advenica, Aptori, Axonius, Broadcom, GlobalSign, Intruder, IP Fabric, Mallory, Secureframe, Siemens, Sitehop, and Virtue AI. Mallory brings contextual threat intellige…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/28092100/infosec-month-1200.webp"
-    },
-    {
-        "titulo": "Show HN: Capture the Flag game where LLMs are the only players",
-        "fonte": "Github.com",
-        "autor": "megapixel99",
-        "data": "2026-04-30",
-        "url": "https://github.com/Megapixel99/capture-the-flag",
-        "resumo": "Set up a small R&amp;D project which pit different LLMs against each other in a game of Capture the Flag. Each LLM has 30 seconds to prepare any defenses and 5 minutes to capture other flags while defending their own. All of the models run on top of Ollama (https…",
-        "imagem": "https://opengraph.githubassets.com/ed1f8370f6b1082193e8b668f68b4017c82c9a6473aeb191c4bedb19f18bbab3/Megapixel99/capture-the-flag"
     }
 ]
