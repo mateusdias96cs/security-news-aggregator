@@ -1,5 +1,104 @@
 [
     {
+        "titulo": "OpenAI Rolls Out Advanced Security for ChatGPT Accounts",
+        "fonte": "Securityweek.com",
+        "autor": "Eduard Kovacs",
+        "data": "2026-05-04",
+        "url": "https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/",
+        "resumo": "Advanced Account Security provides stronger login methods, more secure account recovery, shorter sessions, and training exclusion. The post OpenAI Rolls Out Advanced Security for ChatGPT Accounts appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2025/11/OpenAI.jpeg"
+    },
+    {
+        "titulo": "AI speeds flaw discovery, forcing rapid updates, UK NCSC warns",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-05-04",
+        "url": "https://securityaffairs.com/191657/security/ai-speeds-flaw-discovery-forcing-rapid-updates-uk-ncsc-warns.html",
+        "resumo": "The UK cyber agency NCSC warns AI is speeding up vulnerability discovery, likely causing a “patch wave” of urgent software updates to fix exposed flaws. The UK’s National Cyber Security Centre (NCSC) warns that AI is rapidly accelerating the discovery of soft…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/09/ncsc.png"
+    },
+    {
+        "titulo": "Over 40,000 Servers Compromised in Ongoing cPanel Exploitation",
+        "fonte": "Securityweek.com",
+        "autor": "Ionut Arghire",
+        "data": "2026-05-04",
+        "url": "https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/",
+        "resumo": "The attacks likely target CVE-2026-41940, a recently patched zero-day leading to administrative access. The post Over 40,000 Servers Compromised in Ongoing cPanel Exploitation appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2024/09/update-patch-exploited.jpeg"
+    },
+    {
+        "titulo": "OpenAI To Extend Cyber Program to Government Agencies",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Kevin Poireault",
+        "data": "2026-05-04",
+        "url": "https://www.infosecurity-magazine.com/news/openai-extend-cyber-program/",
+        "resumo": "OpenAI announced its intention to expand the Trusted Access for Cyber program for cyber defenders at the federal, state and local government levels",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/4c976b2e-aab6-4087-93a9-41b33d40b3da.jpg"
+    },
+    {
+        "titulo": "Amnezia VPN rolls out major bug fixes, a crucial security patch, and new features in latest app update",
+        "fonte": "TechRadar",
+        "autor": "Rene Millman",
+        "data": "2026-05-04",
+        "url": "https://www.techradar.com/vpn/vpn-services/amnezia-vpn-rolls-out-major-bug-fixes-a-crucial-security-patch-and-new-features-in-latest-app-update",
+        "resumo": "Amnezia VPN just rolled out its 4.8.15 update. Here is everything you need to know about the new features, bug fixes, and critical security patches keeping your devices safe.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/FZXG9NvfqHs8G35HgcsRX6-900-80.jpg"
+    },
+    {
+        "titulo": "KelpDAO exploit highlights DeFi vulnerability amid $1.2B crypto hack concerns for 2026",
+        "fonte": "Crypto Briefing",
+        "autor": "Estefano Gomez",
+        "data": "2026-05-04",
+        "url": "https://cryptobriefing.com/kelpdao-exploit-highlights-defi-vulnerability-amid-12b-crypto-hack-concerns-for/",
+        "resumo": "The KelpDAO exploit underscores the urgent need for enhanced security measures in DeFi, potentially reshaping future crypto regulations. The post KelpDAO exploit highlights DeFi vulnerability amid $1.2B crypto hack concerns for 2026 appeared first on Crypto B…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/04012443/BTCfullsize-66-457x457.png"
+    },
+    {
+        "titulo": "Instructure confirms data breach, ShinyHunters claims attack",
+        "fonte": "BleepingComputer",
+        "autor": "Lawrence Abrams",
+        "data": "2026-05-03",
+        "url": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
+        "resumo": "Educational tech giant Instructure has confirmed that data was stolen in a cyberattack, with the ShinyHunters extortion gang claiming responsibility. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/05/03/instructure-canvas.jpg"
+    },
+    {
+        "titulo": "UK cyber security agency warns of AI-driven &#x27;patch wave&#x27;",
+        "fonte": "iTnews",
+        "autor": "",
+        "data": "2026-05-03",
+        "url": "https://www.itnews.com.au/news/uk-cyber-security-agency-warns-of-ai-driven-patch-wave-625555",
+        "resumo": "Overhaul software update processes or risk being overwhelmed.",
+        "imagem": "https://i.nextmedia.com.au/News/CRN-corporate-business-telstra-optus-enterprise-government.jpg"
+    },
+    {
+        "titulo": "UK cyber security agency warns of AI-driven &#x27;patch wave&#x27;",
+        "fonte": "iTnews",
+        "autor": "",
+        "data": "2026-05-03",
+        "url": "https://www.itnews.com.au/news/uk-cyber-security-agency-warns-of-ai-driven-patch-wave-625555",
+        "resumo": "Overhaul software update processes or risk being overwhelmed.",
+        "imagem": "https://i.nextmedia.com.au/News/CRN-corporate-business-telstra-optus-enterprise-government.jpg"
+    },
+    {
+        "titulo": "U.S. CISA adds a flaw in WebPros cPanel to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-05-03",
+        "url": "https://securityaffairs.com/191613/hacking/u-s-cisa-adds-a-flaw-in-webpros-cpanel-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a flaw in WebPros cPanel to its Known Exploited Vulnerabilities catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a flaw in Microsoft Defender, tracked as CVE-2…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "3 easy-to-miss cybersecurity risks for small businesses",
+        "fonte": "Malwarebytes.com",
+        "autor": "Malwarebytes Labs",
+        "data": "2026-05-03",
+        "url": "https://www.malwarebytes.com/blog/how-to/2026/05/3-easy-to-miss-cybersecurity-risks-for-small-businesses",
+        "resumo": "Small business owners should be sure to fix these three non-technical risks that require little cybersecurity expertise.",
+        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/04/Bike-Shop-Owner.jpg"
+    },
+    {
         "titulo": "Google Revamps Bug Bounty Programs: Android Rewards Rise, Chrome Payouts Drop in the Age of AI",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
@@ -79,104 +178,5 @@
         "url": "https://aws.amazon.com/blogs/security/security-posture-improvement-in-the-ai-era/",
         "resumo": "It’s only been a few weeks since Anthropic announced the Claude Mythos Preview model and launched Project Glasswing with AWS and other leading organizations. This has generated a lot of discussion about the future of cybersecurity and what the ever-increasing…",
         "imagem": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/05/01/Security-posture-improvement-AI-era.jpeg"
-    },
-    {
-        "titulo": "FEDS Note: Banks in the Age of Stablecoins: Lessons from Their Historical Responses to Financial Innovations",
-        "fonte": "Federalreserve.gov",
-        "autor": "",
-        "data": "2026-05-01",
-        "url": "https://www.federalreserve.gov/econres/notes/feds-notes/banks-in-the-age-of-stablecoins-lessons-from-their-historical-responses-to-financial-innovations-20260501.html",
-        "resumo": "Sam Hempel, JP Perez-Sangimino, and Jessie Jiaxu WangThe expansion of stablecoins has moved digital payment tokens from the periphery of financial markets to the center of policy discussions. With a global market capitalization in the mid-hundreds of billions…",
-        "imagem": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg"
-    },
-    {
-        "titulo": "Hackers Are Actively Exploiting a Bug In cPanel, Used By Millions of Websites",
-        "fonte": "Slashdot.org",
-        "autor": "BeauHD",
-        "data": "2026-05-01",
-        "url": "https://it.slashdot.org/story/26/05/01/0631257/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites",
-        "resumo": "Hackers are actively exploiting a critical cPanel and WHM vulnerability, tracked as CVE-2026-41940, that allows remote attackers to bypass the login screen and gain full administrative access to affected web servers. Major hosts including Namecheap, HostGator…",
-        "imagem": "https://a.fsdn.com/sd/topics/bug_64.png"
-    },
-    {
-        "titulo": "FBI says hackers are making millions from stolen cargo - losses &#x27;surged&#x27; to nearly $725 million in 2025",
-        "fonte": "TechRadar",
-        "autor": "Craig Hale",
-        "data": "2026-05-01",
-        "url": "https://www.techradar.com/pro/security/fbi-says-hackers-are-making-millions-from-stolen-cargo-losses-surged-to-nearly-usd725-million-in-2025",
-        "resumo": "Cybercriminals are infiltrating digital shipping supply chains to reroute cargo and use it to fund other crimes.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/82Zyie4jRoZdohT4CLDFyY-1920-80.jpg"
-    },
-    {
-        "titulo": "From &#x27;encryption backdoor&#x27; to &#x27;lawful access&#x27; — is a compromise between privacy, security, and law enforcement needs actually possible?",
-        "fonte": "TechRadar",
-        "autor": "chiara.castro@futurenet.com (Chiara Castro) , Chiara Castro",
-        "data": "2026-05-01",
-        "url": "https://www.techradar.com/vpn/vpn-privacy-security/from-encryption-backdoor-to-lawful-access-is-a-compromise-between-privacy-security-and-law-enforcement-needs-actually-possible",
-        "resumo": "After ongoing attempts in Europe, Canada is the latest country pushing for &quot;lawful access&quot; to data for law enforcement. This, despite cybersecurity experts warning that breaking encryption would threaten everyone&#x27;s privacy and security.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/9kTjCEy37gh8ucdaDhrVoU-2153-80.jpg"
-    },
-    {
-        "titulo": "AI lifts clouds even higher, AWS moves up the stack, and Elon and Sam battle in court",
-        "fonte": "SiliconANGLE News",
-        "autor": "Robert Hof",
-        "data": "2026-05-01",
-        "url": "https://siliconangle.com/2026/05/01/ai-lifts-clouds-even-higher-aws-moves-stack-elon-sam-battle-court/",
-        "resumo": "If anyone thought artificial intelligence was running into a slow patch, let alone running into any fundamental technical or financial hurdles, this week quieted the doubters — at least for now. In a blockbuster week of Big Tech earnings, Alphabet, Amazon, Mi…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/AI-Rocket-Boost-Tech-Giants.png"
-    },
-    {
-        "titulo": "First reports come in of victims of critical cPanel vuln as &#x27;millions&#x27; of sites potentially exposed",
-        "fonte": "Theregister.com",
-        "autor": "Carly Page",
-        "data": "2026-05-01",
-        "url": "https://www.theregister.com/2026/05/01/critical_cpanel_vuln_hits_cisa/",
-        "resumo": "Exploitation was underway before patches landed, at least one victim reports ransomware demand CISA has added a critical cPanel bug to its known-exploited list, confirming that attackers are already poking holes in one of the internet&#x27;s most widely used hosti…",
-        "imagem": "https://regmedia.co.uk/2017/05/04/bouncer.jpg"
-    },
-    {
-        "titulo": "Manufacturing Industry Top Target of Costly Cyberattacks: Report",
-        "fonte": "Carriermanagement.com",
-        "autor": "admin",
-        "data": "2026-05-01",
-        "url": "https://www.carriermanagement.com/news/2026/04/30/287384.htm",
-        "resumo": "A review of five years’ of proprietary claims data revealed just how vulnerable manufacturers are to cyberattacks and the high cost of disruptions, according to Resilience, which found more than 90% of total incurred losses in its manufacturing portfolio were…",
-        "imagem": "https://www.insurancejournal.com/app/uploads/2026/05/shutterstock_82383217_cybersecurity.jpg"
-    },
-    {
-        "titulo": "Securonix partners with AI SPERA to bring Criminal IP intelligence to ThreatQ",
-        "fonte": "SiliconANGLE News",
-        "autor": "Duncan Riley",
-        "data": "2026-05-01",
-        "url": "https://siliconangle.com/2026/05/01/securonix-partners-ai-spera-bring-criminal-ip-intelligence-threatq/",
-        "resumo": "Cybersecurity company Securonix Inc. today announced a new partnership with cyberthreat intelligence company AI SPERA Inc. to deliver integrated threat intelligence enrichment through its ThreatQ Platform. The partnership sees the integration of Securonix’s T…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/securonixaispera.png"
-    },
-    {
-        "titulo": "Vulnerability remediation: Match CVEs to asset owners in seconds with Tenable Hexa AI",
-        "fonte": "Tenable.com",
-        "autor": "Sean Jennings",
-        "data": "2026-05-01",
-        "url": "https://www.tenable.com/blog/vulnerability-remediation-match-cves-to-asset-owners-in-seconds-with-tenable",
-        "resumo": "Detecting a vulnerability is easy. Finding the person responsible for fixing it is where remediation programs often break down. See how Tenable Hexa AI uses MCP to connect your exposure data to your identity provider — automating the hunt for asset owners in …",
-        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/Vulnerability%20remediation.%20Match%20CVEs%20to%20asset%20owners%20in%20seconds%20with%20Tenable%20Hexa%20AI.jpeg?itok=HtMPr91Y"
-    },
-    {
-        "titulo": "Anthropic Rolls Out Claude Security for AI Vulnerability Scanning",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Beth Maundrill",
-        "data": "2026-05-01",
-        "url": "https://www.infosecurity-magazine.com/news/anthropic-claude-security-for-ai/",
-        "resumo": "Claude Security enters public beta, giving enterprises AI driven code scanning with no API integration or custom agents required",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/8183e380-733f-4b0a-85b4-2b9d2f389e75.jpg"
-    },
-    {
-        "titulo": "Critical cPanel Vulnerability Lets Attackers Bypass Login, Gain Root Access",
-        "fonte": "HackRead",
-        "autor": "Deeba Ahmed",
-        "data": "2026-05-01",
-        "url": "https://hackread.com/cpanel-vulnerability-attacker-bypass-login-root-access/",
-        "resumo": "A critical cPanel vulnerability lets attackers bypass login and gain root access, with active exploitation reported before patches were released.",
-        "imagem": "https://hackread.com/wp-content/uploads/2026/05/cpanel-vulnerability-attacker-bypass-login-root-access.jpg"
     }
 ]
