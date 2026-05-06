@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "OpenAI Rolls Out Advanced Security for ChatGPT Accounts",
-        "fonte": "Securityweek.com",
-        "autor": "Eduard Kovacs",
-        "data": "2026-05-04",
-        "url": "https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/",
-        "resumo": "Advanced Account Security provides stronger login methods, more secure account recovery, shorter sessions, and training exclusion. The post OpenAI Rolls Out Advanced Security for ChatGPT Accounts appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2025/11/OpenAI.jpeg"
-    },
-    {
-        "titulo": "AI speeds flaw discovery, forcing rapid updates, UK NCSC warns",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-05-04",
-        "url": "https://securityaffairs.com/191657/security/ai-speeds-flaw-discovery-forcing-rapid-updates-uk-ncsc-warns.html",
-        "resumo": "The UK cyber agency NCSC warns AI is speeding up vulnerability discovery, likely causing a “patch wave” of urgent software updates to fix exposed flaws. The UK’s National Cyber Security Centre (NCSC) warns that AI is rapidly accelerating the discovery of soft…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/09/ncsc.png"
-    },
-    {
-        "titulo": "Over 40,000 Servers Compromised in Ongoing cPanel Exploitation",
-        "fonte": "Securityweek.com",
-        "autor": "Ionut Arghire",
-        "data": "2026-05-04",
-        "url": "https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/",
-        "resumo": "The attacks likely target CVE-2026-41940, a recently patched zero-day leading to administrative access. The post Over 40,000 Servers Compromised in Ongoing cPanel Exploitation appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2024/09/update-patch-exploited.jpeg"
-    },
-    {
-        "titulo": "OpenAI To Extend Cyber Program to Government Agencies",
+        "titulo": "NCSC Warns of an AI-Fuelled “Vulnerability Patch Wave”",
         "fonte": "Infosecurity Magazine",
-        "autor": "Kevin Poireault",
-        "data": "2026-05-04",
-        "url": "https://www.infosecurity-magazine.com/news/openai-extend-cyber-program/",
-        "resumo": "OpenAI announced its intention to expand the Trusted Access for Cyber program for cyber defenders at the federal, state and local government levels",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/4c976b2e-aab6-4087-93a9-41b33d40b3da.jpg"
+        "autor": "Phil Muncaster",
+        "data": "2026-05-05",
+        "url": "https://www.infosecurity-magazine.com/news/ncsc-warns-aifuelled-vulnerability/",
+        "resumo": "The UK&#x27;s National Cyber Security Centre is urging organizations to prepare for glut of new software updates",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/41e314d5-b121-47f2-8d51-3dfdfa982357.jpg"
     },
     {
-        "titulo": "Amnezia VPN rolls out major bug fixes, a crucial security patch, and new features in latest app update",
+        "titulo": "NHS to close-source hundreds of GitHub repos over AI, security concerns",
+        "fonte": "Theregister.com",
+        "autor": "Connor Jones",
+        "data": "2026-05-05",
+        "url": "https://www.theregister.com/2026/05/05/nhs_to_closesource_hundreds_of_repos/",
+        "resumo": "Healthcare giant&#x27;s maintainers handed May deadline to enact the change The UK&#x27;s National Health Service (NHS) is ordering all of its technology leaders to temporarily wall off the organization&#x27;s open source projects over concerns relating to advanced AI and A…",
+        "imagem": "https://regmedia.co.uk/2024/09/03/shutterstock_nhslogogeneric.jpg"
+    },
+    {
+        "titulo": "NHS to close-source hundreds of GitHub repos over AI, security concerns",
+        "fonte": "Theregister.com",
+        "autor": "Connor Jones",
+        "data": "2026-05-05",
+        "url": "https://www.theregister.com/software/2026/05/05/nhs-to-close-source-github-repos-over-ai-security-concerns/5224392",
+        "resumo": ": Healthcare giant&#x27;s maintainers handed May deadline to enact the change",
+        "imagem": "https://image.theregister.com/260005.jpg?imageId=260005&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683"
+    },
+    {
+        "titulo": "76% of UK organizations have faced deepfake attacks. Most weren’t ready",
         "fonte": "TechRadar",
-        "autor": "Rene Millman",
-        "data": "2026-05-04",
-        "url": "https://www.techradar.com/vpn/vpn-services/amnezia-vpn-rolls-out-major-bug-fixes-a-crucial-security-patch-and-new-features-in-latest-app-update",
-        "resumo": "Amnezia VPN just rolled out its 4.8.15 update. Here is everything you need to know about the new features, bug fixes, and critical security patches keeping your devices safe.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/FZXG9NvfqHs8G35HgcsRX6-900-80.jpg"
+        "autor": "Mike Riemer",
+        "data": "2026-05-05",
+        "url": "https://www.techradar.com/pro/76-percent-of-uk-organizations-have-faced-deepfake-attacks-most-werent-ready",
+        "resumo": "As AI-driven attacks surge, organizations struggle to keep pace with growing threat complexity.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/x4SmwpYXk8yGgDmYCVeckL-2560-80.jpg"
     },
     {
-        "titulo": "KelpDAO exploit highlights DeFi vulnerability amid $1.2B crypto hack concerns for 2026",
-        "fonte": "Crypto Briefing",
-        "autor": "Estefano Gomez",
-        "data": "2026-05-04",
-        "url": "https://cryptobriefing.com/kelpdao-exploit-highlights-defi-vulnerability-amid-12b-crypto-hack-concerns-for/",
-        "resumo": "The KelpDAO exploit underscores the urgent need for enhanced security measures in DeFi, potentially reshaping future crypto regulations. The post KelpDAO exploit highlights DeFi vulnerability amid $1.2B crypto hack concerns for 2026 appeared first on Crypto B…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/04012443/BTCfullsize-66-457x457.png"
-    },
-    {
-        "titulo": "Instructure confirms data breach, ShinyHunters claims attack",
-        "fonte": "BleepingComputer",
-        "autor": "Lawrence Abrams",
-        "data": "2026-05-03",
-        "url": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
-        "resumo": "Educational tech giant Instructure has confirmed that data was stolen in a cyberattack, with the ShinyHunters extortion gang claiming responsibility. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/05/03/instructure-canvas.jpg"
-    },
-    {
-        "titulo": "UK cyber security agency warns of AI-driven &#x27;patch wave&#x27;",
-        "fonte": "iTnews",
-        "autor": "",
-        "data": "2026-05-03",
-        "url": "https://www.itnews.com.au/news/uk-cyber-security-agency-warns-of-ai-driven-patch-wave-625555",
-        "resumo": "Overhaul software update processes or risk being overwhelmed.",
-        "imagem": "https://i.nextmedia.com.au/News/CRN-corporate-business-telstra-optus-enterprise-government.jpg"
-    },
-    {
-        "titulo": "UK cyber security agency warns of AI-driven &#x27;patch wave&#x27;",
-        "fonte": "iTnews",
-        "autor": "",
-        "data": "2026-05-03",
-        "url": "https://www.itnews.com.au/news/uk-cyber-security-agency-warns-of-ai-driven-patch-wave-625555",
-        "resumo": "Overhaul software update processes or risk being overwhelmed.",
-        "imagem": "https://i.nextmedia.com.au/News/CRN-corporate-business-telstra-optus-enterprise-government.jpg"
-    },
-    {
-        "titulo": "U.S. CISA adds a flaw in WebPros cPanel to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-05-03",
-        "url": "https://securityaffairs.com/191613/hacking/u-s-cisa-adds-a-flaw-in-webpros-cpanel-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a flaw in WebPros cPanel to its Known Exploited Vulnerabilities catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a flaw in Microsoft Defender, tracked as CVE-2…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "3 easy-to-miss cybersecurity risks for small businesses",
-        "fonte": "Malwarebytes.com",
-        "autor": "Malwarebytes Labs",
-        "data": "2026-05-03",
-        "url": "https://www.malwarebytes.com/blog/how-to/2026/05/3-easy-to-miss-cybersecurity-risks-for-small-businesses",
-        "resumo": "Small business owners should be sure to fix these three non-technical risks that require little cybersecurity expertise.",
-        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/04/Bike-Shop-Owner.jpg"
-    },
-    {
-        "titulo": "Google Revamps Bug Bounty Programs: Android Rewards Rise, Chrome Payouts Drop in the Age of AI",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-05-03",
-        "url": "https://securityaffairs.com/191600/security/google-revamps-bug-bounty-programs-android-rewards-rise-chrome-payouts-drop-in-the-age-of-ai.html",
-        "resumo": "Google revamps bug bounties: Android rewards rise to $1.5M, Chrome payouts drop, shifting focus to high-impact, AI-resistant vulnerabilities. Google has announced a major overhaul of its Vulnerability Reward Programs (VRP) for Android and Chrome, marking a st…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2025/11/Google-logo.jpg"
-    },
-    {
-        "titulo": "Week in review: High-severity LPE vulnerability in the Linux kernel, cPanel 0-day exploited for months",
-        "fonte": "Help Net Security",
-        "autor": "Help Net Security",
-        "data": "2026-05-03",
-        "url": "https://www.helpnetsecurity.com/2026/05/03/week-in-review-high-severity-lpe-vulnerability-in-the-linux-kernel-cpanel-0-day-exploited-for-months/",
-        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: The AI criminal mastermind is already hiring on gig platforms Labor-hire platforms let anyone with a credit card post a task and pay a stranger to complete it. T…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124830/cybersecurity-week-review-1-1500.webp"
-    },
-    {
-        "titulo": "Public sector banks looks to scale up IT spend in view of cyber threat posed by Anthropic Mythos",
-        "fonte": "BusinessLine",
-        "autor": "PTI",
-        "data": "2026-05-03",
-        "url": "https://www.thehindubusinessline.com/money-and-banking/public-sector-banks-looks-to-scale-up-it-spend-in-view-of-cyber-threat-posed-by-anthropic-mythos/article70934575.ece",
-        "resumo": "Mythos&#x27; advanced coding capabilities give it an unprecedented potential to detect cybersecurity weaknesses and develop methods to exploit them, sparking concerns that it could be used to disrupt banking systems",
-        "imagem": "https://bl-i.thgim.com/public/incoming/y8nv3f/article70934583.ece/alternates/LANDSCAPE_1200/2026-04-29T093530Z_403772238_RC2LU7AIGT8Y_RTRMADP_3_EUROPE-BANKS-MYTHOS.JPG"
-    },
-    {
-        "titulo": "Public sector banks to ramp up IT spend amid cyber risks from Anthropic&#x27;s Mythos",
-        "fonte": "The Times of India",
-        "autor": "PTI",
-        "data": "2026-05-03",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/public-sector-banks-to-ramp-up-it-spend-amid-cyber-risks-from-anthropics-mythos/articleshow/130728416.cms",
-        "resumo": "Indian banks are boosting IT investments to protect customer data and financial systems. Advanced AI tools like Claude Mythos pose new cybersecurity risks. Banks are enhancing defenses to counter potential cyberattacks. A government panel is assessing these A…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-30616,resizemode-75,msid-130728416/tech/artificial-intelligence/public-sector-banks-to-ramp-up-it-spend-amid-cyber-risks-from-anthropics-mythos.jpg"
-    },
-    {
-        "titulo": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
+        "titulo": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-05-03",
-        "url": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibNApjovicg4aFV0VPiue9cUMmH_D-GkLlWwgXunP_-fUi8cRWaNM6Kl2TV99eBRKKVdXNq-0iQ2EJLotLO_TAvIA3xW-mE-tS5BDHSKrUmTgGuGEbAp4ek6uFJk4yRTsgJu6LStR3BqJkIm4fyXgZiBKxNGI0YBLiiAneTRvem-Ydh3gbIVsz8O0VBUQy/s1700-e365/linux-root.jpg"
+        "data": "2026-05-05",
+        "url": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html",
+        "resumo": "A critical security vulnerability in Weaver (Fanwei) E-cology, an enterprise office automation (OA) and collaboration platform, has come under active exploitation in the wild. The vulnerability (CVE-2026-22679, CVSS score: 9.8) relates to a case of unauthenti…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1jDJPLahWSAtaecpFMUCFQvqRj4uVR8js9Fh_awxf84YnfBOfN_hPeVhdNAZEJZGh7hGtuT_RjThlb_R6mYKf0WMpsf-AEkDIb6jYGqq-Gg4WQ2Sban7RZY6oV4MCCAkA8AXEI-4ItHk9jo5DpfoBTHWdVQIuI97MEaGYgc9xlojHS7eMq23Huhl0K7qg/s1700-e365/weaver.jpg"
     },
     {
-        "titulo": "US CISA adds ‘insane’ Linux Copy Fail flaw to watch list",
-        "fonte": "Cointelegraph",
-        "autor": "Cointelegraph by Ciaran Lyons",
-        "data": "2026-05-02",
-        "url": "https://cointelegraph.com/news/linux-copy-fail-a-trivially-exploitable-bug",
-        "resumo": "Malicious actors with code execution capability may gain root access on Linux systems using as few as 10 lines of Python, according to a researcher.",
-        "imagem": "https://payload.cointelegraph.com/api/article-covers/file/HI%20Bithumb%20Hack%20-%20what%20is%20known%20(1).jpg?prefix=media%2Farticle-covers"
+        "titulo": "Delta Dental Insurers to Pay New York $2.25M Over Cybersecurity Incident",
+        "fonte": "Insurance Journal",
+        "autor": "admin",
+        "data": "2026-05-05",
+        "url": "https://www.insurancejournal.com/news/east/2026/05/05/868416.htm",
+        "resumo": "Delta Dental Insurance Co. (DDIC) and Delta Dental of New York, Inc. (DDNY) will pay a $2.25 million penalty for violations of New York’s cybersecurity regulation, the Department of Financial Services (DFS) reported. Acting DFS Superintendent Kaitlin Asrow sa…",
+        "imagem": "https://www.insurancejournal.com/app/uploads/2024/09/email-fraud-pic-scaled.jpeg"
     },
     {
-        "titulo": "CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments",
-        "fonte": "Microsoft.com",
-        "autor": "Microsoft Defender Security Research Team",
-        "data": "2026-05-02",
-        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/",
-        "resumo": "A high-severity Linux vulnerability, “Copy Fail” (CVE-2026-31431), enables root privilege escalation across cloud environments and Kubernetes workloads. With a working exploit already in the wild, organizations should act quickly to detect, mitigate, and redu…",
-        "imagem": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/04/MS_Actional-Insights_Rapid-response.jpg"
+        "titulo": "White House considers pre-release reviews for Anthropic’s AI model Mythos",
+        "fonte": "Crypto Briefing",
+        "autor": "Estefano Gomez",
+        "data": "2026-05-05",
+        "url": "https://cryptobriefing.com/white-house-considers-pre-release-reviews-for-anthropics-ai-model-mythos/",
+        "resumo": "Increased regulatory scrutiny on AI models like Mythos could delay government deployment, impacting market confidence and future AI policies. The post White House considers pre-release reviews for Anthropic’s AI model Mythos appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/04235015/will-anthropic-make-a-deal-with-the-pentagon-YBNX_vm2AXXV-15-686x457.jpg"
     },
     {
-        "titulo": "The 2026 Federal 100",
+        "titulo": "Someone Built an Open-Source &#x27;Theoretical Mythos&#x27; to Reverse-Engineer Anthropic&#x27;s Most Dangerous AI",
+        "fonte": "Decrypt",
+        "autor": "Jose Antonio Lanz",
+        "data": "2026-05-04",
+        "url": "https://decrypt.co/366745/openmythos-claude-mythos-architecture-open-source-reconstruction",
+        "resumo": "OpenMythos is a from-scratch attempt to reconstruct the architecture behind Claude Mythos, the cyber-capable model Anthropic refuses to release. It&#x27;s speculation in code form.",
+        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png"
+    },
+    {
+        "titulo": "U.S. government warns of severe CopyFail bug affecting major versions of Linux | TechCrunch",
+        "fonte": "TechCrunch",
+        "autor": "Zack Whittaker",
+        "data": "2026-05-04",
+        "url": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
+        "resumo": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux.",
+        "imagem": "https://techcrunch.com/wp-content/uploads/2026/05/lukas-NLSXFjl_nhc-unsplash.jpg?resize=1200,975"
+    },
+    {
+        "titulo": "IBM Bob AI coding agent ships, HashiCorp AIOps previewed",
+        "fonte": "Techtarget.com",
+        "autor": "Beth Pariseau",
+        "data": "2026-05-04",
+        "url": "https://www.techtarget.com/searchitoperations/news/366642799/IBM-Bob-AI-coding-agent-ships-HashiCorp-AIOps-previewed",
+        "resumo": "IBM Bob adds a new kind of interface for IBM systems as the vendor begins integrating AI automation components from multiple acquisitions.",
+        "imagem": "https://www.techtarget.com/rms/onlineimages/code_g1019737194.jpg"
+    },
+    {
+        "titulo": "MOVEit automation flaws could enable full system compromise",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-05-04",
+        "url": "https://securityaffairs.com/191681/security/moveit-automation-flaws-could-enable-full-system-compromise.html",
+        "resumo": "Progress fixes critical MOVEit Automation flaws, including an authentication bypass bug that could let attackers gain unauthorized access to systems. Progress Software addressed two vulnerabilities in MOVEit Automation, a critical authentication bypass flaw t…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2023/07/MOVEit-Transfer-2.jpg"
+    },
+    {
+        "titulo": "Operational technology providers are feeling ‘annoyance’ at exclusion from Anthropic’s Mythos rollout, sources say",
         "fonte": "Nextgov",
-        "autor": "Nextgov/FCW Staff",
-        "data": "2026-05-01",
-        "url": "https://www.nextgov.com/people/2026/05/2026-federal-100/413266/",
-        "resumo": "Meet the outstanding individuals being honored for their exceptional contributions to federal IT.",
-        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/05/01/102725Fed100NG/open-graph.png"
+        "autor": "David DiMolfetta",
+        "data": "2026-05-04",
+        "url": "https://www.nextgov.com/cybersecurity/2026/05/operational-technology-providers-are-feeling-annoyance-exclusion-anthropics-mythos-rollout-sources-say/413309/",
+        "resumo": "That disconnect highlights challenges in building an industrywide push to patch cyber vulnerabilities.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/05/04/050426MythosNG/open-graph.jpg"
     },
     {
-        "titulo": "Security posture improvement in the AI era",
-        "fonte": "Amazon.com",
-        "autor": "Celeste Bishop",
-        "data": "2026-05-01",
-        "url": "https://aws.amazon.com/blogs/security/security-posture-improvement-in-the-ai-era/",
-        "resumo": "It’s only been a few weeks since Anthropic announced the Claude Mythos Preview model and launched Project Glasswing with AWS and other leading organizations. This has generated a lot of discussion about the future of cybersecurity and what the ever-increasing…",
-        "imagem": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/05/01/Security-posture-improvement-AI-era.jpeg"
+        "titulo": "Hackers target governments and MSPs via critical cPanel flaw CVE-2026-41940",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-05-04",
+        "url": "https://securityaffairs.com/191666/breaking-news/hackers-target-governments-and-msps-via-critical-cpanel-flaw-cve-2026-41940.html",
+        "resumo": "Attackers exploit a critical cPanel flaw to target government and MSP networks across Southeast Asia and several countries, including the U.S. and Canada. A threat actor is exploiting critical cPanel vulnerability CVE-2026-41940 to target government and milit…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/11/cpanel-vector-logo.png"
+    },
+    {
+        "titulo": "Hackers are still exploiting the cPanel bug to gain control of thousands of websites | TechCrunch",
+        "fonte": "TechCrunch",
+        "autor": "Lorenzo Franceschi-bicchierai",
+        "data": "2026-05-04",
+        "url": "https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/",
+        "resumo": "Days after the disclosure of a critical vulnerability in popular web hosting software cPanel and WHM, hackers keep targeting and hacking websites.",
+        "imagem": "https://techcrunch.com/wp-content/uploads/2022/02/scanning-computer-group.jpg?resize=1200,675"
+    },
+    {
+        "titulo": "The EU built the world’s most comprehensive AI regulation. It does not give Europe access to the AI that matters most.",
+        "fonte": "The Next Web",
+        "autor": "Alina Maria Stan",
+        "data": "2026-05-04",
+        "url": "https://thenextweb.com/news/europe-mythos-anthropic-cybersecurity-access-crisis/",
+        "resumo": "Euro-area finance ministers met in Brussels on Monday to discuss a problem none of their regulations were designed to solve: a single American company has built an AI model that can find and exploit zero-day vulnerabilities in every major operating system and…",
+        "imagem": "https://media.thenextweb.com/2026/05/europe-mythos-anthropic-cybersecurity-access-crisis-.avif"
+    },
+    {
+        "titulo": "Wiz ZeroDay.Cloud Event Reveals 20-Year-Old PostgreSQL Vulnerabilities",
+        "fonte": "HackRead",
+        "autor": "Waqas",
+        "data": "2026-05-04",
+        "url": "https://hackread.com/wiz-zeroday-cloud-event-postgresql-vulnerabilities/",
+        "resumo": "Researchers revealed 20-year-old PostgreSQL flaws at Wiz ZeroDay.Cloud event, exposing critical bugs in pgcrypto and prompting urgent patches for database security.",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/05/wiz-zeroday-cloud-event-postgresql-vulnerabilities.png"
+    },
+    {
+        "titulo": "Cyberattacks are raising your prices (Lock and Code S07E09)",
+        "fonte": "Malwarebytes.com",
+        "autor": "Malwarebytes Labs",
+        "data": "2026-05-04",
+        "url": "https://www.malwarebytes.com/blog/podcast/2026/05/cyberattacks-are-raising-your-prices-lock-and-code-s07e09",
+        "resumo": "This week on the Lock and Code podcast, we speak with Eva Velasquez about small business cyberattacks and the &quot;cyber tax&quot; coming for us all.",
+        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/05/S07E09-Blog-Image.png"
+    },
+    {
+        "titulo": "Critical MOVEit Automation auth bypass vulnerability fixed (CVE-2026-4670)",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-05-04",
+        "url": "https://www.helpnetsecurity.com/2026/05/04/critical-moveit-automation-auth-bypass-vulnerability-fixed-cve-2026-4670/",
+        "resumo": "Progress Software has fixed a critical authentication bypass (CVE-2026-4670) and a privilege escalation (CVE-2026-5174) vulnerability in MOVEit Automation, exploitation of which “may lead to unauthorized access, administrative control, and data exposure.” The…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/06/25191718/progress-moveit-1500.webp"
+    },
+    {
+        "titulo": "CISA flags actively exploited ‘Copy Fail’ Linux kernel flaw enabling root takeover across major distros — unpatched systems may remain vulnerable to attack",
+        "fonte": "Toms Hardware UK",
+        "autor": "Etiido Uko",
+        "data": "2026-05-04",
+        "url": "https://www.tomshardware.com/software/linux/cisa-flags-actively-exploited-copy-fail-linux-kernel-flaw-enabling-root-takeover-across-major-distros-unpatched-systems-may-remain-vulnerable-to-attack",
+        "resumo": "CISA warns of the actively exploited “Copy Fail” Linux flaw (CVE-2026-31431), enabling root access, with a public exploit released before patches were ready.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/Nhs4yvdLbHSMdgjnZmv4wn-1024-80.jpg"
+    },
+    {
+        "titulo": "⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE &amp; More",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-05-04",
+        "url": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html",
+        "resumo": "This week, the shadows moved faster than the patches. While most teams were still triaging last month’s alerts, attackers had already turned control panels into kill switches, kernels into open doors, and open-source pipelines into silent delivery systems. Th…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_j3mVDqxMVjGlF1qpGV3nSUfIhHsxGDl7Nt6QQFwRUA-qOtj22zKVcE7B7UTCcjLdUrsjLPB5N7TiX8Hzjx8Hq8LPy_GdAfcO_AqMwDDWRyQ6dWdeXzFOQa1KYm8rUUDCgwCbR9kN7OCheQyc0Ijz2MuXGkY6bsqHwlBtV34Q6xH2VAPRDUjFFThKk46X/s1700-e365/CYBERRECAP.jpg"
     }
 ]
