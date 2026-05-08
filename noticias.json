@@ -1,5 +1,68 @@
 [
     {
+        "titulo": "U.S. CISA adds a flaw in Palo Alto Networks PAN-OS to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-05-07",
+        "url": "https://securityaffairs.com/191780/security/u-s-cisa-adds-a-flaw-in-palo-alto-networks-pan-os-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a flaw in Palo Alto Networks PAN-OS to its Known Exploited Vulnerabilities catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a flaw in the Palo Alto Networks PA…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "Taiwan High-Speed Rail Emergency Braking Hack: How a Student Stopped the Trains and Exposed a Major Security Gap",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-05-06",
+        "url": "https://securityaffairs.com/191785/hacking/taiwan-high-speed-rail-emergency-braking-hack-how-a-student-stopped-the-trains-and-exposed-a-major-security-gap.html",
+        "resumo": "Taiwan high‑speed rail was disrupted after a 23‑year‑old student spoofed signals and triggered an emergency alarm, stopping four trains for nearly an hour. Taiwan high‑speed rail system, one of the most important pieces of national infrastructure, was thrown …",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/05/image-15.png"
+    },
+    {
+        "titulo": "ShinyHunters’ Instructure Canvas LMS and Vimeo Breaches Impact Millions of Users",
+        "fonte": "HackRead",
+        "autor": "Deeba Ahmed",
+        "data": "2026-05-06",
+        "url": "https://hackread.com/shinyhunters-instructure-canvas-lms-vimeo-data-breach/",
+        "resumo": "ShinyHunters breached Instructure and Vimeo, exposing millions of student and user records through direct and supply chain attacks.",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/05/shinyhunters-hackers-instructure-canvas-vimeo-data-breaches.png"
+    },
+    {
+        "titulo": "Mythos is the best cybersecurity news in a decade",
+        "fonte": "Sfstandard.com",
+        "autor": "littlexsparkee",
+        "data": "2026-05-06",
+        "url": "https://sfstandard.com/opinion/2026/05/06/mythos-cybersecurity-ai/",
+        "resumo": "Article URL: https://sfstandard.com/opinion/2026/05/06/mythos-cybersecurity-ai/ Comments URL: https://news.ycombinator.com/item?id=48036650 Points: 4 # Comments: 8",
+        "imagem": "https://assets.sfstandard.com/image/994911177489/image_57u968qs4d0gv7u0unqhfcdl0m/-S1200x630-FPNG"
+    },
+    {
+        "titulo": "Anthropic’s CEO warns the “moment of danger” is real. But most are looking in the wrong place.",
+        "fonte": "Tenable.com",
+        "autor": "Vlad Korsunsky",
+        "data": "2026-05-06",
+        "url": "https://www.tenable.com/blog/anthropic-ceo-dario-amodei-cybersecurity",
+        "resumo": "Anthropic CEO Dario Amodei warns that AI’s rapid evolution is outpacing safety frameworks. Learn why the pace of vulnerability discovery isn&#x27;t the real problem, why exposure management is now a strategic necessity, and how it can help you prioritize and remed…",
+        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/AdobeStock_212461189.jpeg?itok=czPRWnSK"
+    },
+    {
+        "titulo": "GreenboneOS: April 2026 Threat Report: Mythos or Reality? Time to Find Out",
+        "fonte": "Greenbone.net",
+        "autor": "Joseph Lee",
+        "data": "2026-05-06",
+        "url": "https://www.greenbone.net/en/blog/april-2026-threat-report/",
+        "resumo": "In April 2026, the cyber security landscape was flooded with news about Anthropic’s new Mythos bug-hunting AI and Project Glasswing. The rose-colored takeaway is that one year from now, software will be free from vulnerabilities because AI will find all of th…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Four key areas in cybersecurity that need fresh thinking and actionable steps in 2026",
+        "fonte": "TechRadar",
+        "autor": "Sheetal Mehta",
+        "data": "2026-05-06",
+        "url": "https://www.techradar.com/pro/four-key-areas-in-cybersecurity-that-need-fresh-thinking-and-actionable-steps-in-2026",
+        "resumo": "Cybersecurity must be reimagined with AI technologies, strong governance and operational discipline, and rapid skill and capability development in 2026.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/5rDPr5xYvLwnkP7ZvpR2w3-2122-80.jpg"
+    },
+    {
         "titulo": "SEBI forms task force, orders immediate cybersecurity overhaul amid Claude Mythos concerns",
         "fonte": "MediaNama.com",
         "autor": "Aakriti Bansal",
@@ -115,68 +178,5 @@
         "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indias-markets-regulator-sets-up-task-force-to-tackle-ai-driven-cyber-threats/articleshow/130833315.cms",
         "resumo": "India&#x27;s market regulator, SEBI, has issued a new advisory. It warns about emerging AI tools for detecting vulnerabilities. These tools could create new cybersecurity risks for regulated entities. SEBI has formed a task force to study these AI-based models. Th…",
         "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-177994,resizemode-75,msid-130833315/tech/artificial-intelligence/indias-markets-regulator-sets-up-task-force-to-tackle-ai-driven-cyber-threats.jpg"
-    },
-    {
-        "titulo": "India&#x27;s markets regulator sets up task force to tackle AI-driven cyber threats",
-        "fonte": "CNA",
-        "autor": "",
-        "data": "2026-05-05",
-        "url": "https://www.channelnewsasia.com/business/indias-markets-regulator-sets-up-task-force-tackle-ai-driven-cyber-threats-6101641",
-        "resumo": "May 5 : India&#x27;s markets regulator on Tuesday issued an advisory on emerging AI-driven vulnerability detection tools, warning that their use could introduce new cybersecurity risks for regulated entities.Here are some details: • The Securities and Exchange Boa…",
-        "imagem": "https://dam.mediacorp.sg/image/upload/s--flvZ9gFr--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-05T154141Z_1_LYNXMPEM4412K_RTROPTP_3_INDIA-SEBI-IPO.JPG?itok=mc3yN0Mz"
-    },
-    {
-        "titulo": "US Government Warns of Severe CopyFail Bug Affecting Major Versions of Linux",
-        "fonte": "Slashdot.org",
-        "autor": "Anonymous Coward",
-        "data": "2026-05-05",
-        "url": "https://slashdot.org/submission/17347026/us-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux",
-        "resumo": "A severe security vulnerability affecting almost every version of the Linux operating system has caught defenders off-guard and scrambling to patch after security researchers publicly released exploit code that allows attackers to take complete control of vul…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Not every security vulnerability means you need to update right now — here&#x27;s how to know which ones do",
-        "fonte": "MakeUseOf",
-        "autor": "Afam Onyimadu",
-        "data": "2026-05-05",
-        "url": "https://www.makeuseof.com/not-every-security-vulnerability-means-you-need-to-update-right-now/",
-        "resumo": "Two simple signals separate urgent patches from routine security noise.",
-        "imagem": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/05/known-exploited-vulnerabilities-catalog-home-page.jpg?w=1600&h=900&fit=crop"
-    },
-    {
-        "titulo": "Dark Sky Technology, Inc. and Carahsoft Partner to Deliver Advanced Software Supply Chain Risk Management Solutions to Government Agencies",
-        "fonte": "GlobeNewswire",
-        "autor": "Carahsoft Technology Corporation",
-        "data": "2026-05-05",
-        "url": "https://www.globenewswire.com/news-release/2026/05/05/3287846/0/en/Dark-Sky-Technology-Inc-and-Carahsoft-Partner-to-Deliver-Advanced-Software-Supply-Chain-Risk-Management-Solutions-to-Government-Agencies.html",
-        "resumo": "Bulletproof Trust Platform Now Available to the Public Sector Bulletproof Trust Platform Now Available to the Public Sector",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/ee2f2b02-4089-4a15-93fa-0956daf4ad82"
-    },
-    {
-        "titulo": "AI in Real-World Applications: How Different Industries Are Using AI",
-        "fonte": "C-sharpcorner.com",
-        "autor": "noreply@c-sharpcorner.com (Nidhi Sharma)",
-        "data": "2026-05-05",
-        "url": "https://www.c-sharpcorner.com/article/ai-in-real-world-applications-how-different-industries-are-using-ai/",
-        "resumo": "Explore real-world AI applications across industries like healthcare, finance, and manufacturing. Discover how AI drives efficiency, innovation, and developer opportunities.",
-        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
-    },
-    {
-        "titulo": "ABB B&amp;R PVI",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-05-05",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-02",
-        "resumo": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is now available that addresses and remediates the vulnerability. An attacker who successfully exploited this vulnerability could read se…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Hitachi Energy PCM600",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-05-05",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-01",
-        "resumo": "View CSAF Summary Hitachi Energy is aware of a vulnerability that affects the Hitachi Energy PCM600 product versions listed in this document. An attacker successfully exploiting this vulnerability can impact integrity of the product. Please refer to the Recom…",
-        "imagem": ""
     }
 ]
