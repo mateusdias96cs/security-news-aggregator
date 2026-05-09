@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "U.S. CISA adds a flaw in Palo Alto Networks PAN-OS to its Known Exploited Vulnerabilities catalog",
+        "titulo": "&#x27;We are not at war, but we’re not at peace either,&#x27; warns German cyber chief",
+        "fonte": "CBC News",
+        "autor": "",
+        "data": "2026-05-08",
+        "url": "https://www.cbc.ca/news/politics/cyber-attack-germany-canada-industry-9.7192058",
+        "resumo": "Germany’s cyber warfare commander says allied nations face relentless digital attacks from Russia and other adversaries as rearmament accelerates across Europe and North America. Vice-Admiral Thomas Daum told CBC News that cyber intrusions increasingly target…",
+        "imagem": "https://i.cbc.ca/ais/ed2ce7ac-0585-4ba7-b81a-258f94d32dee,1778198857342/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C54%2C1224%2C688%29%3BResize%3D620"
+    },
+    {
+        "titulo": "Canvas Learning Platform Paralyzed for Hours by Cyberattack as Finals Week Chaos Hits Millions of Students",
+        "fonte": "Ibtimes.com.au",
+        "autor": "George Anton",
+        "data": "2026-05-08",
+        "url": "https://www.ibtimes.com.au/canvas-learning-platform-paralyzed-hours-cyberattack-finals-week-chaos-hits-millions-students-1868398",
+        "resumo": "SALT LAKE CITY — The widely used Canvas learning management system was knocked offline for several hours Thursday in a brazen cyberattack claimed by the hacking group ShinyHunters, disrupting coursework, assignments and exam preparations for millions of stude…",
+        "imagem": "https://d.ibtimes.com.au/en/full/1894271/canvas-learning-platform-paralyzed-hours-cyberattack-finals.jpg"
+    },
+    {
+        "titulo": "New Linux &#x27;Dirty Frag&#x27; zero-day gives root on all major distros",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-05-08",
+        "url": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
+        "resumo": "A new Linux zero-day vulnerability, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/05/08/Dirty-Frag-Linux.jpg"
+    },
+    {
+        "titulo": "Beyond Bank Runs: The OCC Warns Of A More Complex Financial Threat",
+        "fonte": "Forbes",
+        "autor": "Mayra Rodriguez Valladares, Senior Contributor, Mayra Rodriguez Valladares, Senior Contributor https",
+        "data": "2026-05-07",
+        "url": "https://www.forbes.com/sites/mayrarodriguezvalladares/2026/05/07/beyond-bank-runs-the-occ-warns-of-a-more-complex-financial-threat/",
+        "resumo": "The banking system remains resilient. However, financial, technological, and operational risks are becoming inseparable and can catch the market off guard.",
+        "imagem": "https://imageio.forbes.com/specials-images/imageserve/69fd08f998d5dadb2db455cc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+        "titulo": "OpenAI rolls out new model for cybersecurity teams a month after Anthropic&#x27;s Mythos debut",
+        "fonte": "CNBC",
+        "autor": "Ashley Capoot",
+        "data": "2026-05-07",
+        "url": "https://www.cnbc.com/2026/05/07/openai-rolls-out-new-gpt-5point5-cyber-to-vetted-cybersecurity-teams.html",
+        "resumo": "OpenAI said GPT-5.5-Cyber, a variation of its latest AI model, is rolling out in a limited preview capacity to vetted cybersecurity teams.",
+        "imagem": "https://image.cnbcfm.com/api/v1/image/108276814-1773254522162-gettyimages-2265991644-0d6a8221_0m2z4cha.jpeg?v=1776066514&w=1920&h=1080"
+    },
+    {
+        "titulo": "Nation-state actors exploit Palo Alto PAN-OS zero-day for weeks",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
         "data": "2026-05-07",
-        "url": "https://securityaffairs.com/191780/security/u-s-cisa-adds-a-flaw-in-palo-alto-networks-pan-os-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a flaw in Palo Alto Networks PAN-OS to its Known Exploited Vulnerabilities catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a flaw in the Palo Alto Networks PA…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "Taiwan High-Speed Rail Emergency Braking Hack: How a Student Stopped the Trains and Exposed a Major Security Gap",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-05-06",
-        "url": "https://securityaffairs.com/191785/hacking/taiwan-high-speed-rail-emergency-braking-hack-how-a-student-stopped-the-trains-and-exposed-a-major-security-gap.html",
-        "resumo": "Taiwan high‑speed rail was disrupted after a 23‑year‑old student spoofed signals and triggered an emergency alarm, stopping four trains for nearly an hour. Taiwan high‑speed rail system, one of the most important pieces of national infrastructure, was thrown …",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/05/image-15.png"
-    },
-    {
-        "titulo": "ShinyHunters’ Instructure Canvas LMS and Vimeo Breaches Impact Millions of Users",
-        "fonte": "HackRead",
-        "autor": "Deeba Ahmed",
-        "data": "2026-05-06",
-        "url": "https://hackread.com/shinyhunters-instructure-canvas-lms-vimeo-data-breach/",
-        "resumo": "ShinyHunters breached Instructure and Vimeo, exposing millions of student and user records through direct and supply chain attacks.",
-        "imagem": "https://hackread.com/wp-content/uploads/2026/05/shinyhunters-hackers-instructure-canvas-vimeo-data-breaches.png"
-    },
-    {
-        "titulo": "Mythos is the best cybersecurity news in a decade",
-        "fonte": "Sfstandard.com",
-        "autor": "littlexsparkee",
-        "data": "2026-05-06",
-        "url": "https://sfstandard.com/opinion/2026/05/06/mythos-cybersecurity-ai/",
-        "resumo": "Article URL: https://sfstandard.com/opinion/2026/05/06/mythos-cybersecurity-ai/ Comments URL: https://news.ycombinator.com/item?id=48036650 Points: 4 # Comments: 8",
-        "imagem": "https://assets.sfstandard.com/image/994911177489/image_57u968qs4d0gv7u0unqhfcdl0m/-S1200x630-FPNG"
-    },
-    {
-        "titulo": "Anthropic’s CEO warns the “moment of danger” is real. But most are looking in the wrong place.",
-        "fonte": "Tenable.com",
-        "autor": "Vlad Korsunsky",
-        "data": "2026-05-06",
-        "url": "https://www.tenable.com/blog/anthropic-ceo-dario-amodei-cybersecurity",
-        "resumo": "Anthropic CEO Dario Amodei warns that AI’s rapid evolution is outpacing safety frameworks. Learn why the pace of vulnerability discovery isn&#x27;t the real problem, why exposure management is now a strategic necessity, and how it can help you prioritize and remed…",
-        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/AdobeStock_212461189.jpeg?itok=czPRWnSK"
-    },
-    {
-        "titulo": "GreenboneOS: April 2026 Threat Report: Mythos or Reality? Time to Find Out",
-        "fonte": "Greenbone.net",
-        "autor": "Joseph Lee",
-        "data": "2026-05-06",
-        "url": "https://www.greenbone.net/en/blog/april-2026-threat-report/",
-        "resumo": "In April 2026, the cyber security landscape was flooded with news about Anthropic’s new Mythos bug-hunting AI and Project Glasswing. The rose-colored takeaway is that one year from now, software will be free from vulnerabilities because AI will find all of th…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Four key areas in cybersecurity that need fresh thinking and actionable steps in 2026",
-        "fonte": "TechRadar",
-        "autor": "Sheetal Mehta",
-        "data": "2026-05-06",
-        "url": "https://www.techradar.com/pro/four-key-areas-in-cybersecurity-that-need-fresh-thinking-and-actionable-steps-in-2026",
-        "resumo": "Cybersecurity must be reimagined with AI technologies, strong governance and operational discipline, and rapid skill and capability development in 2026.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/5rDPr5xYvLwnkP7ZvpR2w3-2122-80.jpg"
-    },
-    {
-        "titulo": "SEBI forms task force, orders immediate cybersecurity overhaul amid Claude Mythos concerns",
-        "fonte": "MediaNama.com",
-        "autor": "Aakriti Bansal",
-        "data": "2026-05-06",
-        "url": "https://www.medianama.com/2026/05/223-sebi-claude-mythos-circular-orders-cybersecurity-overhaul/",
-        "resumo": "SEBI has named Anthropic&#x27;s Claude Mythos in a cybersecurity circular, directing all regulated financial entities to urgently strengthen cyber defences. The post SEBI forms task force, orders immediate cybersecurity overhaul amid Claude Mythos concerns appeare…",
-        "imagem": "https://www.medianama.com/wp-content/uploads/2023/07/pexels-pixabay-60504-scaled-1.jpg"
-    },
-    {
-        "titulo": "Palo Alto Networks PAN-OS flaw exploited for remote code execution",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-05-06",
-        "url": "https://securityaffairs.com/191748/security/palo-alto-networks-pan-os-flaw-exploited-for-remote-code-execution.html",
-        "resumo": "Palo Alto Networks warns of a critical PAN-OS flaw (CVE-2026-0300) that is under active attack, allowing unauthenticated remote code execution. Palo Alto Networks has warned that a critical PAN-OS vulnerability, tracked as CVE-2026-0300 (CVSS score of 9.3), i…",
+        "url": "https://securityaffairs.com/191831/security/nation-state-actors-exploit-palo-alto-pan-os-zero-day-for-weeks.html",
+        "resumo": "Palo Alto says hackers exploited PAN-OS zero-day CVE-2026-0300 for weeks, gaining root access to exposed firewalls and hiding traces. Palo Alto Networks warned that suspected state-sponsored hackers have been exploiting the critical PAN-OS zero-day CVE-2026-0…",
         "imagem": "https://securityaffairs.com/wp-content/uploads/2020/05/Palo-Alto-Networks.png"
     },
     {
-        "titulo": "Google’s top differential-privacy scientist tells the EU its data-sharing plan can be reversed in two hours",
-        "fonte": "The Next Web",
-        "autor": "Ana-Maria Stanciuc",
-        "data": "2026-05-06",
-        "url": "https://thenextweb.com/news/googles-top-differential-privacy-scientist-tells-the-eu-its-data-sharing-plan-can-be-reversed-in-two-hours/",
-        "resumo": "Sergei Vassilvitskii, distinguished scientist at Google since 2012, has written to Brussels warning that the Commission’s proposed anonymisation scheme for forced search-data sharing is, by his red team’s own demonstration, breakable in 120 minutes. The decis…",
-        "imagem": "https://media.thenextweb.com/2026/04/google-cloud-750m-partner-fund-agentic-ai.avif"
+        "titulo": "KLA Corporation Announces Ten-to-One Stock Split and Quarterly Cash Dividend Payment",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-05-07",
+        "url": "https://www.prnewswire.com/news-releases/kla-corporation-announces-ten-to-one-stock-split-and-quarterly-cash-dividend-payment-302766137.html",
+        "resumo": "MILPITAS, Calif., May 7, 2026 /PRNewswire/ -- KLA Corporation (NASDAQ: KLAC) today announced that its board of directors approved a Ten‑for‑One forward stock split of the company&#x27;s outstanding shares of common stock—enhancing share accessibility and reinforci…",
+        "imagem": "https://mma.prnewswire.com/media/2746447/KLA_Logo.jpg?p=facebook"
     },
     {
-        "titulo": "Open Source is the Tip of the Iceberg: Why Proprietary Software, Hardware and Protocols Face Greater AI-Driven Security Risk",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Igor Seletskiy",
-        "data": "2026-05-06",
-        "url": "https://www.infosecurity-magazine.com/blogs/why-software-faces-ai-driven/",
-        "resumo": "Project Glasswing scans open-source code for vulnerabilities. But open source was already the most scrutinized software on earth. The real exposure is everywhere else",
+        "titulo": "Gen Crosses $5B in FY26 Revenue with Growth Accelerating to Double-Digits",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-05-07",
+        "url": "https://www.prnewswire.com/news-releases/gen-crosses-5b-in-fy26-revenue-with-growth-accelerating-to-double-digits-302766086.html",
+        "resumo": "Company Raises FY27 Guidance for Revenue and EPS TEMPE, Ariz. and PRAGUE, May 7, 2026 /PRNewswire/ -- Gen Digital Inc. (NASDAQ: GEN), a global leader dedicated to powering Digital Freedom, released its results for fiscal year 2026 fourth quarter and full year…",
+        "imagem": "https://mma.prnewswire.com/media/2974469/Gen_Digital_Inc_Q4_FY26_One_Page_Graphic.jpg?p=facebook"
+    },
+    {
+        "titulo": "Microsoft Issues Warning About Linux &#x27;Copy Fail&#x27; Vulnerability",
+        "fonte": "Slashdot.org",
+        "autor": "BeauHD",
+        "data": "2026-05-07",
+        "url": "https://it.slashdot.org/story/26/05/07/1925210/microsoft-issues-warning-about-linux-copy-fail-vulnerability",
+        "resumo": "joshuark shares a report from Linux Magazine: Microsoft has issued a warning that a vulnerability with a CVSS score of 7.8 has been found in the Linux kernel. The vulnerability in question is tagged CVE-2026-31431 and, according to the Cybersecurity and Infra…",
+        "imagem": "https://a.fsdn.com/sd/topics/security_64.png"
+    },
+    {
+        "titulo": "Hackers hack victims hacked by other hackers | TechCrunch",
+        "fonte": "TechCrunch",
+        "autor": "Lorenzo Franceschi-bicchierai",
+        "data": "2026-05-07",
+        "url": "https://techcrunch.com/2026/05/07/hackers-hack-victims-hacked-by-other-hackers/",
+        "resumo": "An unknown group of hackers is breaking into systems previously breached by the cybercrime group TeamPCP. Once inside, the hackers immediately kick out TeamPCP and remove its hacking tools from the victims’ systems.",
+        "imagem": "https://techcrunch.com/wp-content/uploads/2023/09/crypto-hack-mixin.jpg?resize=1200,800"
+    },
+    {
+        "titulo": "U.S. CISA adds a flaw in Ivanti Endpoint Manager Mobile (EPMM) to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-05-07",
+        "url": "https://securityaffairs.com/191822/security/u-s-cisa-adds-a-flaw-in-ivanti-endpoint-manager-mobile-epmm-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a flaw in Ivanti Endpoint Manager Mobile (EPMM) to its Known Exploited Vulnerabilities catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a flaw in the Ivanti En…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "Unplug your way to better code",
+        "fonte": "Talosintelligence.com",
+        "autor": "Amy Ciminnisi",
+        "data": "2026-05-07",
+        "url": "https://blog.talosintelligence.com/unplug-your-way-to-better-code/",
+        "resumo": "Cybersecurity concepts — logs, packets, DNS exfiltration, and more — are usually intangible, and its practitioners are prone to mental fatigue, Amy takes a second to yell at you to go touch grass.",
+        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/05/threat_source.jpg"
+    },
+    {
+        "titulo": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-05-07",
+        "url": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
+        "resumo": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of improper input validation affecting EPMM befor…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-v9Rdn-UppGqdbm0oFYXNg6myRCPn8r-d4BXVN0e2r2hqrYbGPUwOKafMbwKlojjbck4C8Ez6dxZ7WcLF45PNphvCo1K4OGhXl0u9fWanVMbO62iZoWMQJrplTa6VaXfI2rhQL40PoDK0ZNh2jqDJGBc9LylbIE92LWSNEIkVUhSpkGyAfV7g-DVZlU1/s1700-e365/ivanti.jpg"
+    },
+    {
+        "titulo": "Microsoft Issues Warning About Linux Vulnerability",
+        "fonte": "Slashdot.org",
+        "autor": "joshuark",
+        "data": "2026-05-07",
+        "url": "https://slashdot.org/submission/17347100/microsoft-issues-warning-about-linux-vulnerability",
+        "resumo": "Linux Magazine reports that Microsoft has issued a warning that a vulnerability with a CVSS score of 7.8 has been found in the Linux kernel. The vulnerability in question is tagged CVE-2026-31431 and, according to the Cybersecurity and Infrastructure Security…",
         "imagem": ""
     },
     {
-        "titulo": "Should You Be Worried About Copy Fail Linux Exploitation?",
-        "fonte": "Itsfoss.com",
-        "autor": "Sourav Rudra",
-        "data": "2026-05-06",
-        "url": "https://itsfoss.com/news/copy-fail-linux-exploit/",
-        "resumo": "It&#x27;s been patched, but cloud and container users should update sooner than later.",
-        "imagem": "https://itsfoss.com/content/images/2026/05/copy-fail-linux-exploit-banner.png"
+        "titulo": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-05-07",
+        "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
+        "resumo": "Ivanti warned customers today to patch a high-severity remote code execution vulnerability in Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Ivanti-headpic.jpg"
     },
     {
-        "titulo": "India orders infosec red alert in case Mythos sparks crime spree",
-        "fonte": "Theregister.com",
-        "autor": "Simon Sharwood",
-        "data": "2026-05-06",
-        "url": "https://www.theregister.com/security/2026/05/06/india-orders-infosec-red-alert-in-case-mythos-sparks-crime/5224961",
-        "resumo": ": Securities regulator urges market players to develop new strategies and nail cyber-basics before AI models fuel mass attacks",
-        "imagem": "https://image.theregister.com/257475.jpg?imageId=257475&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683"
+        "titulo": "SentinelOne (S) Launches Wayfinder Frontier AI for Proactive Security",
+        "fonte": "Yahoo Entertainment",
+        "autor": "Maham Fatima",
+        "data": "2026-05-07",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/sentinelone-launches-wayfinder-frontier-ai-145847677.html",
+        "resumo": "SentinelOne Inc. (NYSE:S) is one of the best AI stocks under $50 to buy right now. On April 30, SentinelOne announced Wayfinder Frontier AI Services, a...",
+        "imagem": "https://s.yimg.com/os/en/insidermonkey.com/d653eb35ca56fb085471502a418a1a7e"
     },
     {
-        "titulo": "India orders infosec red alert in case Mythos sparks crime spree",
-        "fonte": "Theregister.com",
-        "autor": "Simon Sharwood",
-        "data": "2026-05-06",
-        "url": "https://www.theregister.com/2026/05/06/india_seb_mythos_infosec_advice/",
-        "resumo": "Securities regulator urges market players to develop new strategies and nail cyber-basics before AI models fuel mass attacks India’s Securities and Exchange Board has advised participants in the nation’s equities industry to immediately revisit their informat…",
-        "imagem": "https://regmedia.co.uk/2021/11/09/shutterstock_india_infosec.jpg"
+        "titulo": "Claude Mythos changes the AI security threat matrix",
+        "fonte": "Techtarget.com",
+        "autor": "",
+        "data": "2026-05-07",
+        "url": "https://www.techtarget.com/searchsecurity/video/Claude-Mythos-changes-the-AI-security-threat-matrix",
+        "resumo": "Learn why meeting the AI security threat has become more complicated with news that Anthropic&#x27;s Claude Mythos can uncover zero-days at unprecedented scale.",
+        "imagem": ""
     },
     {
-        "titulo": "Indian cyber firms deploy AI agents to fend off threats",
-        "fonte": "The Times of India",
-        "autor": "Alenjith K Johny, Tanya Pandey",
-        "data": "2026-05-06",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indian-cyber-firms-deploy-ai-agents-to-fend-off-threats/articleshow/130836950.cms",
-        "resumo": "Indian cybersecurity firms are leveraging in-house AI agents built on LLMs to drastically reduce software vulnerability detection and remediation times from days to hours. This acceleration is crucial as attackers operate at machine speed, with the window for…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2596675,resizemode-75,msid-130836950/tech/artificial-intelligence/indian-cyber-firms-deploy-ai-agents-to-fend-off-threats.jpg"
+        "titulo": "U.S. Admiral Highlights Bitcoin’s Cybersecurity Applications in Senate Testimony",
+        "fonte": "Activistpost.com",
+        "autor": "Editor",
+        "data": "2026-05-07",
+        "url": "https://www.activistpost.com/u-s-admiral-highlights-bitcoins-cybersecurity-applications-in-senate-testimony/",
+        "resumo": "WASHINGTON — U.S. Navy Admiral Samuel Paparo called Bitcoin a “valuable computer science tool” for U.S. “power projection,” stating its proof-of-work technology has “really important” applications for cybersecurity, according to testimony delivered during a S…",
+        "imagem": "https://www.activistpost.com/wp-content/uploads/2026/05/bitcoin-cybersecurity-proof-of-work-1087-original.jpg"
     },
     {
-        "titulo": "Supporting the National Cyber Strategy: How TrendAI™ Helps",
-        "fonte": "Trendmicro.com",
-        "autor": "Jon Clay",
-        "data": "2026-05-06",
-        "url": "https://www.trendmicro.com/en_us/research/26/e/national-cyber-strategy.html",
-        "resumo": "A deeper look at the first three pillars and outlining how our capabilities directly support government agencies working to bring this strategy to life.",
-        "imagem": "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/thumbnails/26/supporting-the-national-cyber-strategy-blog.jpg"
+        "titulo": "AI Execs are Running a 1948 Circus Trick… Summary with assessment of accuracy and plausibility",
+        "fonte": "Freerepublic.com",
+        "autor": "youtube.com",
+        "data": "2026-05-07",
+        "url": "https://freerepublic.com/focus/f-chat/4378103/posts",
+        "resumo": "The video “AI Execs are Running a 1948 Circus Trick…” by Brendan Dell argues that AI companies are utilizing the **Barnum Effect**—a psychological phenomenon where individuals believe generic descriptions are highly specific to them—to inflate their valuation…",
+        "imagem": ""
     },
     {
-        "titulo": "Archrock Reports First Quarter 2026 Results",
-        "fonte": "GlobeNewswire",
-        "autor": "Archrock",
-        "data": "2026-05-05",
-        "url": "https://www.globenewswire.com/news-release/2026/05/05/3288283/0/en/Archrock-Reports-First-Quarter-2026-Results.html",
-        "resumo": "HOUSTON, May 05, 2026 (GLOBE NEWSWIRE) -- Archrock, Inc. (NYSE: AROC) (“Archrock” or the “Company”) today reported results for the first quarter 2026. ...",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/e10d337c-42e2-4d12-81d6-f4411a97f96e"
-    },
-    {
-        "titulo": "US Government Warns of Severe CopyFail Bug Affecting Major Versions of Linux",
-        "fonte": "Slashdot.org",
-        "autor": "BeauHD",
-        "data": "2026-05-05",
-        "url": "https://linux.slashdot.org/story/26/05/05/1535209/us-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux",
-        "resumo": "An anonymous reader quotes a report from TechCrunch: A severe security vulnerability affecting almost every version of the Linux operating system has caught defenders off-guard and scrambling to patch after security researchers publicly released exploit code …",
-        "imagem": "https://a.fsdn.com/sd/topics/bug_64.png"
-    },
-    {
-        "titulo": "Sebi cautions market players on risks from AI tools like Mythos; sets up task force",
-        "fonte": "The Times of India",
-        "autor": "PTI",
-        "data": "2026-05-05",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-cautions-market-players-on-risks-from-ai-tools-like-mythos-sets-up-task-force/articleshow/130834453.cms",
-        "resumo": "India&#x27;s market regulator Sebi has issued a warning about advanced AI tools used for finding system weaknesses. These tools, including Anthropic&#x27;s Mythos, pose new cybersecurity risks. Sebi has formed a task force called cyber-suraksha.ai to address these conc…",
-        "imagem": "https://img.etimg.com/thumb/msid-130834621,width-1200,height-630,imgsize-33312,overlay-etmarkets/articleshow.jpg"
-    },
-    {
-        "titulo": "India&#x27;s markets regulator sets up task force to tackle AI-driven cyber threats",
-        "fonte": "The Times of India",
-        "autor": "Reuters",
-        "data": "2026-05-05",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indias-markets-regulator-sets-up-task-force-to-tackle-ai-driven-cyber-threats/articleshow/130833315.cms",
-        "resumo": "India&#x27;s market regulator, SEBI, has issued a new advisory. It warns about emerging AI tools for detecting vulnerabilities. These tools could create new cybersecurity risks for regulated entities. SEBI has formed a task force to study these AI-based models. Th…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-177994,resizemode-75,msid-130833315/tech/artificial-intelligence/indias-markets-regulator-sets-up-task-force-to-tackle-ai-driven-cyber-threats.jpg"
+        "titulo": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-05-07",
+        "url": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html",
+        "resumo": "Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026. The vulnerability in question is CVE-2026-0300 (CVSS score: 9.3/8.7), a buffer overflow vul…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA-FbTXMB7fJu_4ZxIlvKU2wHShSiMZaCQBah-p33256FjWEUsO0kd4s-LXOT_YQoS39Mj5f7nhj-ERtNF2EPNU9WG91ZWJXpl4cwYFoWz8npaMpVWzAhYjVVB-JnPyoycvPmik7Y5IsihIDXp7_mHvh4DYUz9vqkkVRYgylDqKeezcDEwqRJNs4F_2scA/s1700-e365/paloalto-rce.jpg"
     }
 ]
