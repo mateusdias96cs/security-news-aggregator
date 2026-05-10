@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "&#x27;We are not at war, but we’re not at peace either,&#x27; warns German cyber chief",
-        "fonte": "CBC News",
-        "autor": "",
-        "data": "2026-05-08",
-        "url": "https://www.cbc.ca/news/politics/cyber-attack-germany-canada-industry-9.7192058",
-        "resumo": "Germany’s cyber warfare commander says allied nations face relentless digital attacks from Russia and other adversaries as rearmament accelerates across Europe and North America. Vice-Admiral Thomas Daum told CBC News that cyber intrusions increasingly target…",
-        "imagem": "https://i.cbc.ca/ais/ed2ce7ac-0585-4ba7-b81a-258f94d32dee,1778198857342/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C54%2C1224%2C688%29%3BResize%3D620"
+        "titulo": "Mythos &#x27;Discovered&#x27; a CVE in Its Training Data and That&#x27;s Still Worrying",
+        "fonte": "Rival.security",
+        "autor": "speckx",
+        "data": "2026-05-09",
+        "url": "https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying",
+        "resumo": "Article URL: https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying Comments URL: https://news.ycombinator.com/item?id=48072671 Points: 4 # Comments: 0",
+        "imagem": "https://cdn.prod.website-files.com/68580e61cb772959e1160a80/69f9ca6879cc60c4152ad5ab_1ae15fb9-e4c9-4d6d-a65c-18ef08fac5e2.png"
     },
     {
-        "titulo": "Canvas Learning Platform Paralyzed for Hours by Cyberattack as Finals Week Chaos Hits Millions of Students",
-        "fonte": "Ibtimes.com.au",
-        "autor": "George Anton",
-        "data": "2026-05-08",
-        "url": "https://www.ibtimes.com.au/canvas-learning-platform-paralyzed-hours-cyberattack-finals-week-chaos-hits-millions-students-1868398",
-        "resumo": "SALT LAKE CITY — The widely used Canvas learning management system was knocked offline for several hours Thursday in a brazen cyberattack claimed by the hacking group ShinyHunters, disrupting coursework, assignments and exam preparations for millions of stude…",
-        "imagem": "https://d.ibtimes.com.au/en/full/1894271/canvas-learning-platform-paralyzed-hours-cyberattack-finals.jpg"
+        "titulo": "Federal Reserve Spring 2026 survey highlights geopolitical risks, AI concerns as top threats to financial stability",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-05-09",
+        "url": "https://cryptobriefing.com/fed-spring-2026-geopolitical-ai-risks/",
+        "resumo": "Geopolitical tensions and AI risks could destabilize global markets, affecting energy supplies, cybersecurity, and employment dynamics. The post Federal Reserve Spring 2026 survey highlights geopolitical risks, AI concerns as top threats to financial stabilit…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/08221726/jefferson-20251121-slide4-800x452.png"
     },
     {
-        "titulo": "New Linux &#x27;Dirty Frag&#x27; zero-day gives root on all major distros",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-05-08",
-        "url": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
-        "resumo": "A new Linux zero-day vulnerability, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/05/08/Dirty-Frag-Linux.jpg"
+        "titulo": "Canvas outage causes students anxiety during stressful finals week",
+        "fonte": "KPBS",
+        "autor": "Alexander Nguyen",
+        "data": "2026-05-09",
+        "url": "https://www.kpbs.org/news/education/2026/05/08/canvas-outage-causes-students-anxiety-during-stressful-finals-week",
+        "resumo": "In San Diego, the outage affected students at all levels, from community colleges and UC San Diego to California State University campuses and the San Diego Unified School District, among others.",
+        "imagem": "https://cdn.kpbs.org/dims4/default/068b08e/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2F33%2F40%2Febde7d324f12bfe4affd8d328334%2Fmdamron-4400-mxf-09-51-09-10-still001.jpg"
     },
     {
-        "titulo": "Beyond Bank Runs: The OCC Warns Of A More Complex Financial Threat",
+        "titulo": "Agentic AI: Navigating The Evolving Frontier",
         "fonte": "Forbes",
-        "autor": "Mayra Rodriguez Valladares, Senior Contributor, Mayra Rodriguez Valladares, Senior Contributor https",
-        "data": "2026-05-07",
-        "url": "https://www.forbes.com/sites/mayrarodriguezvalladares/2026/05/07/beyond-bank-runs-the-occ-warns-of-a-more-complex-financial-threat/",
-        "resumo": "The banking system remains resilient. However, financial, technological, and operational risks are becoming inseparable and can catch the market off guard.",
-        "imagem": "https://imageio.forbes.com/specials-images/imageserve/69fd08f998d5dadb2db455cc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        "autor": "Chuck Brooks",
+        "data": "2026-05-09",
+        "url": "https://www.forbes.com/sites/chuckbrooks/2026/05/08/agentic-ai-navigating-the-evolving-frontier/",
+        "resumo": "Agentic AI is increasingly establishing itself as the standard decision-making framework in critical systems",
+        "imagem": "https://imageio.forbes.com/specials-images/imageserve/69fe6ede40462ff9a3c4d454/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+        "titulo": "OpenAI introduces GPT‑5.5‑Cyber for high-impact cybersecurity research",
+        "fonte": "SiliconANGLE News",
+        "autor": "Maria Deutscher",
+        "data": "2026-05-08",
+        "url": "https://siliconangle.com/2026/05/08/openai-introduces-gpt%e2%80%915-5%e2%80%91cyber-high-impact-cybersecurity-research/",
+        "resumo": "OpenAI Group PBC has developed a version of GPT-5.5 that is specifically optimized for cybersecurity research. GPT‑5.5‑Cyber, as the model is called, made its debut on Thursday. It’s available in limited preview through a program called Trusted Access for Cyb…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/OpenAI.png"
+    },
+    {
+        "titulo": "Hackers breached five Polish water treatment plants. The attack vector was default passwords. Seventy per cent of American water utilities fail the same test.",
+        "fonte": "The Next Web",
+        "autor": "Alina Maria Stan",
+        "data": "2026-05-08",
+        "url": "https://thenextweb.com/news/poland-water-treatment-cyberattack-russia-us/",
+        "resumo": "Hackers breached five Polish water treatment plants in 2025, gaining access to the industrial control systems that regulate pumps, filters, and chemical dosing. In some facilities, the attackers could have altered the operational parameters of equipment that …",
+        "imagem": "https://media.thenextweb.com/2026/05/poland-water-treatment-cyberattack-russia-us.avif"
+    },
+    {
+        "titulo": "Unleashing AI across the US government: The data security challenge holding back decision advantage",
+        "fonte": "Nextgov",
+        "autor": "Terry Halvorsen",
+        "data": "2026-05-08",
+        "url": "https://www.nextgov.com/ideas/2026/05/unleashing-ai-across-us-government-data-security-challenge-holding-back-decision-advantage/413428/",
+        "resumo": "COMMENTARY | Agencies are making significant investments in AI, but those efforts will be wasted if they can&#x27;t secure the sensitive data that the emerging capabilities need to provide real value.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/05/08/GettyImages_2214959014/open-graph.jpg"
+    },
+    {
+        "titulo": "Canvas is back online, but questions — and final exam disruptions — linger",
+        "fonte": "NPR",
+        "autor": "Rachel Treisman",
+        "data": "2026-05-08",
+        "url": "https://www.npr.org/2026/05/08/nx-s1-5815956/canvas-data-breach-school-finals",
+        "resumo": "Some schools are warning users not to log back into Canvas yet, after a ransomware group claimed credit for a data breach. Half of North America&#x27;s higher education institutions use the platform.",
+        "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3213x1807+0+75/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd7%2F1b%2Fe72afec44f72b41dbf22511f9129%2Fap26128482777577.jpg"
+    },
+    {
+        "titulo": "AI Is Making Cyberattacks Cheaper, Faster and More Dangerous, IMF Warns",
+        "fonte": "OilPrice.com",
+        "autor": "OilPrice.com",
+        "data": "2026-05-08",
+        "url": "https://oilprice.com/Energy/Energy-General/AI-Is-Making-Cyberattacks-Cheaper-Faster-and-More-Dangerous-IMF-Warns.html",
+        "resumo": "Evermore sophisticated AI-powered cyberattacks could threaten the stability of the global financial system, The International Monetary Fund (IMF) has warned, as regulators race to contain a new generation of threats. In their new report, the IMF said extreme …",
+        "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-05-08_1aqrcxhloz.jpg"
+    },
+    {
+        "titulo": "IMF Recommends New Resilience Standards to Counter AI Cyberattacks",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-05-08",
+        "url": "https://www.pymnts.com/cybersecurity/2026/imf-recommends-new-resilience-standards-to-counter-ai-cyberattacks/",
+        "resumo": "At a time of rapidly accelerating cyber risk driven by artificial intelligence, cybersecurity is a core financial stability issue and should be treated as such by policymakers, the International Monetary Fund (IMF) said in a Thursday (May 7) blog post. Becaus…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2023/04/International-Monetary-Fund.jpg"
+    },
+    {
+        "titulo": "Canvas breach disrupts schools nationwide: 6 steps to take now",
+        "fonte": "ZDNet",
+        "autor": "Charlie Osborne",
+        "data": "2026-05-08",
+        "url": "https://www.zdnet.com/article/canvas-breach-disrupts-schools-nationwide-6-steps-to-take-now/",
+        "resumo": "A ransomware group behind the attacks claims to have stolen 275 million records connected to students, teachers, and staff. Here&#x27;s how to deal with it.",
+        "imagem": "https://www.zdnet.com/a/img/resize/47df3bf23f2affffcc8d26cae79db57439bcc7d6/2026/05/08/9c25110c-6f9a-4b32-ae0f-61f1285a50a6/abstractdatasgettyimages-2256422659.jpg?auto=webp&fit=crop&height=675&width=1200"
+    },
+    {
+        "titulo": "1 Campaign, 2 Targets: China’s Cyber Operations Hit Asian Governments and Dissidents Abroad",
+        "fonte": "The Diplomat",
+        "autor": "Gerald Mako",
+        "data": "2026-05-08",
+        "url": "https://thediplomat.com/2026/05/1-campaign-2-targets-chinas-cyber-operations-hit-asian-governments-and-dissidents-abroad/",
+        "resumo": "One track pursued traditional intelligence collection against Asian governments and defense entities; the other sought to surveil and silence overseas critics.",
+        "imagem": "https://thediplomat.com/wp-content/uploads/2019/03/sizes/td-story-s-2/thediplomat-china-flag-cyber2.jpg"
+    },
+    {
+        "titulo": "Mozilla says Anthropic&#x27;s Mythos Preview and other AI models helped it identify and ship 423 Firefox security bug fixes in just one month",
+        "fonte": "TechRadar",
+        "autor": "benedict.collins@futurenet.com (Benedict Collins) , Benedict Collins",
+        "data": "2026-05-08",
+        "url": "https://www.techradar.com/pro/security/mozilla-says-anthropics-mythos-preview-and-other-ai-models-helped-it-identify-and-ship-423-firefox-security-bug-fixes-in-just-one-month",
+        "resumo": "Mozilla has patched over 400 bugs using Anthropic Mythos, but it wasn&#x27;t a silver bullet.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/ekFDjsuTuJ9dBnwffa3qQ-1920-80.jpg"
     },
     {
         "titulo": "OpenAI rolls out new model for cybersecurity teams a month after Anthropic&#x27;s Mythos debut",
+        "fonte": "TechRadar",
+        "autor": "Sead Fadilpašić",
+        "data": "2026-05-08",
+        "url": "https://www.techradar.com/pro/security/openai-rolls-out-new-model-for-cybersecurity-teams-a-month-after-anthropics-mythos-debut",
+        "resumo": "GPT-5.5-Cyber is now available to TAC members, but it&#x27;s a slight upgrade from 5.4.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/DVffQnnibMWmNpx2Wfb5Se-1920-80.jpg"
+    },
+    {
+        "titulo": "ClaudeBleed Vulnerability Lets Hackers Hijack Claude Chrome Extension to Steal Data",
+        "fonte": "HackRead",
+        "autor": "Deeba Ahmed",
+        "data": "2026-05-08",
+        "url": "https://hackread.com/claudebleed-vulnerability-hackers-claude-chrome-extension/",
+        "resumo": "The ClaudeBleed vulnerability allows hackers to bypass Claude for Chrome guardrails to exfiltrate private Google Drive and Gmail data.",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/05/claudebleed-vulnerability-hackers-claude-chrome-extension.jpg"
+    },
+    {
+        "titulo": "Anthropic&#x27;s Mythos set off a cybersecurity &#x27;hysteria.&#x27; Experts say the threat was already here",
         "fonte": "CNBC",
-        "autor": "Ashley Capoot",
-        "data": "2026-05-07",
-        "url": "https://www.cnbc.com/2026/05/07/openai-rolls-out-new-gpt-5point5-cyber-to-vetted-cybersecurity-teams.html",
-        "resumo": "OpenAI said GPT-5.5-Cyber, a variation of its latest AI model, is rolling out in a limited preview capacity to vetted cybersecurity teams.",
-        "imagem": "https://image.cnbcfm.com/api/v1/image/108276814-1773254522162-gettyimages-2265991644-0d6a8221_0m2z4cha.jpeg?v=1776066514&w=1920&h=1080"
+        "autor": "Hugh Son, Samantha Subin",
+        "data": "2026-05-08",
+        "url": "https://www.cnbc.com/2026/05/08/anthropic-mythos-ai-cybersecurity-banks.html",
+        "resumo": "The arrival of Anthropic&#x27;s Mythos jolted banks, software giants and governments into reckoning with a new era of cyber attacks. But the threat is already here.",
+        "imagem": "https://image.cnbcfm.com/api/v1/image/108269269-1771956501574-gettyimages-2261852583-INDIA_AI_SUMMIT.jpeg?v=1774360265&w=1920&h=1080"
     },
     {
-        "titulo": "Nation-state actors exploit Palo Alto PAN-OS zero-day for weeks",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-05-07",
-        "url": "https://securityaffairs.com/191831/security/nation-state-actors-exploit-palo-alto-pan-os-zero-day-for-weeks.html",
-        "resumo": "Palo Alto says hackers exploited PAN-OS zero-day CVE-2026-0300 for weeks, gaining root access to exposed firewalls and hiding traces. Palo Alto Networks warned that suspected state-sponsored hackers have been exploiting the critical PAN-OS zero-day CVE-2026-0…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/05/Palo-Alto-Networks.png"
+        "titulo": "Why the approaching flood of vulnerabilities changes everything — and what to do about it",
+        "fonte": "Tenable.com",
+        "autor": "Raymond Carney",
+        "data": "2026-05-08",
+        "url": "https://www.tenable.com/blog/why-the-approaching-flood-of-vulnerabilities-changes-everything-and-what-to-do-about-it",
+        "resumo": "AI-driven discovery, NIST’s retreat from universal enrichment, and the end of “good enough” vulnerability managementKey takeaways AI-driven discovery tools are accelerating CVE volume, resulting in an expected deluge of 59,000 disclosed vulnerabiliti…",
+        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/Why%20the%20approaching%20flood%20of%20vulnerabilities%20changes%20everything%20%E2%80%94%20and%20what%20to%20do%20about%20it.png?itok=bDDhlJKm"
     },
     {
-        "titulo": "KLA Corporation Announces Ten-to-One Stock Split and Quarterly Cash Dividend Payment",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-05-07",
-        "url": "https://www.prnewswire.com/news-releases/kla-corporation-announces-ten-to-one-stock-split-and-quarterly-cash-dividend-payment-302766137.html",
-        "resumo": "MILPITAS, Calif., May 7, 2026 /PRNewswire/ -- KLA Corporation (NASDAQ: KLAC) today announced that its board of directors approved a Ten‑for‑One forward stock split of the company&#x27;s outstanding shares of common stock—enhancing share accessibility and reinforci…",
-        "imagem": "https://mma.prnewswire.com/media/2746447/KLA_Logo.jpg?p=facebook"
+        "titulo": "Is Canvas still hacked - what is a data breach? The shocking Canvas cyberattack timeline",
+        "fonte": "The Times of India",
+        "autor": "Piyush Shukla",
+        "data": "2026-05-08",
+        "url": "https://economictimes.indiatimes.com/news/international/us/is-canvas-still-hacked-what-is-a-data-breach-the-shocking-canvas-cyberattack-timeline/articleshow/130959315.cms",
+        "resumo": "What really happened in the Canvas data breach? Hackers allegedly accessed 275 million student records, exposing education’s dangerous hidden digital weakness worldwide. The massive Canvas cyberattack shook schools, universities, and online learning systems a…",
+        "imagem": "https://img.etimg.com/thumb/msid-130959550,width-1200,height-630,imgsize-18950,overlay-economictimes/articleshow.jpg"
     },
     {
-        "titulo": "Gen Crosses $5B in FY26 Revenue with Growth Accelerating to Double-Digits",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-05-07",
-        "url": "https://www.prnewswire.com/news-releases/gen-crosses-5b-in-fy26-revenue-with-growth-accelerating-to-double-digits-302766086.html",
-        "resumo": "Company Raises FY27 Guidance for Revenue and EPS TEMPE, Ariz. and PRAGUE, May 7, 2026 /PRNewswire/ -- Gen Digital Inc. (NASDAQ: GEN), a global leader dedicated to powering Digital Freedom, released its results for fiscal year 2026 fourth quarter and full year…",
-        "imagem": "https://mma.prnewswire.com/media/2974469/Gen_Digital_Inc_Q4_FY26_One_Page_Graphic.jpg?p=facebook"
-    },
-    {
-        "titulo": "Microsoft Issues Warning About Linux &#x27;Copy Fail&#x27; Vulnerability",
-        "fonte": "Slashdot.org",
-        "autor": "BeauHD",
-        "data": "2026-05-07",
-        "url": "https://it.slashdot.org/story/26/05/07/1925210/microsoft-issues-warning-about-linux-copy-fail-vulnerability",
-        "resumo": "joshuark shares a report from Linux Magazine: Microsoft has issued a warning that a vulnerability with a CVSS score of 7.8 has been found in the Linux kernel. The vulnerability in question is tagged CVE-2026-31431 and, according to the Cybersecurity and Infra…",
-        "imagem": "https://a.fsdn.com/sd/topics/security_64.png"
-    },
-    {
-        "titulo": "Hackers hack victims hacked by other hackers | TechCrunch",
-        "fonte": "TechCrunch",
-        "autor": "Lorenzo Franceschi-bicchierai",
-        "data": "2026-05-07",
-        "url": "https://techcrunch.com/2026/05/07/hackers-hack-victims-hacked-by-other-hackers/",
-        "resumo": "An unknown group of hackers is breaking into systems previously breached by the cybercrime group TeamPCP. Once inside, the hackers immediately kick out TeamPCP and remove its hacking tools from the victims’ systems.",
-        "imagem": "https://techcrunch.com/wp-content/uploads/2023/09/crypto-hack-mixin.jpg?resize=1200,800"
-    },
-    {
-        "titulo": "U.S. CISA adds a flaw in Ivanti Endpoint Manager Mobile (EPMM) to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-05-07",
-        "url": "https://securityaffairs.com/191822/security/u-s-cisa-adds-a-flaw-in-ivanti-endpoint-manager-mobile-epmm-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a flaw in Ivanti Endpoint Manager Mobile (EPMM) to its Known Exploited Vulnerabilities catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a flaw in the Ivanti En…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "Unplug your way to better code",
-        "fonte": "Talosintelligence.com",
-        "autor": "Amy Ciminnisi",
-        "data": "2026-05-07",
-        "url": "https://blog.talosintelligence.com/unplug-your-way-to-better-code/",
-        "resumo": "Cybersecurity concepts — logs, packets, DNS exfiltration, and more — are usually intangible, and its practitioners are prone to mental fatigue, Amy takes a second to yell at you to go touch grass.",
-        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/05/threat_source.jpg"
-    },
-    {
-        "titulo": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-05-07",
-        "url": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
-        "resumo": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of improper input validation affecting EPMM befor…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-v9Rdn-UppGqdbm0oFYXNg6myRCPn8r-d4BXVN0e2r2hqrYbGPUwOKafMbwKlojjbck4C8Ez6dxZ7WcLF45PNphvCo1K4OGhXl0u9fWanVMbO62iZoWMQJrplTa6VaXfI2rhQL40PoDK0ZNh2jqDJGBc9LylbIE92LWSNEIkVUhSpkGyAfV7g-DVZlU1/s1700-e365/ivanti.jpg"
-    },
-    {
-        "titulo": "Microsoft Issues Warning About Linux Vulnerability",
-        "fonte": "Slashdot.org",
-        "autor": "joshuark",
-        "data": "2026-05-07",
-        "url": "https://slashdot.org/submission/17347100/microsoft-issues-warning-about-linux-vulnerability",
-        "resumo": "Linux Magazine reports that Microsoft has issued a warning that a vulnerability with a CVSS score of 7.8 has been found in the Linux kernel. The vulnerability in question is tagged CVE-2026-31431 and, according to the Cybersecurity and Infrastructure Security…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
+        "titulo": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
         "fonte": "BleepingComputer",
         "autor": "Sergiu Gatlan",
-        "data": "2026-05-07",
-        "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
-        "resumo": "Ivanti warned customers today to patch a high-severity remote code execution vulnerability in Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Ivanti-headpic.jpg"
+        "data": "2026-05-08",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
+        "resumo": "CISA has given U.S. federal agencies four days to secure their networks against a high-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Ivanti.jpg"
     },
     {
-        "titulo": "SentinelOne (S) Launches Wayfinder Frontier AI for Proactive Security",
-        "fonte": "Yahoo Entertainment",
-        "autor": "Maham Fatima",
-        "data": "2026-05-07",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/sentinelone-launches-wayfinder-frontier-ai-145847677.html",
-        "resumo": "SentinelOne Inc. (NYSE:S) is one of the best AI stocks under $50 to buy right now. On April 30, SentinelOne announced Wayfinder Frontier AI Services, a...",
-        "imagem": "https://s.yimg.com/os/en/insidermonkey.com/d653eb35ca56fb085471502a418a1a7e"
-    },
-    {
-        "titulo": "Claude Mythos changes the AI security threat matrix",
-        "fonte": "Techtarget.com",
-        "autor": "",
-        "data": "2026-05-07",
-        "url": "https://www.techtarget.com/searchsecurity/video/Claude-Mythos-changes-the-AI-security-threat-matrix",
-        "resumo": "Learn why meeting the AI security threat has become more complicated with news that Anthropic&#x27;s Claude Mythos can uncover zero-days at unprecedented scale.",
-        "imagem": ""
-    },
-    {
-        "titulo": "U.S. Admiral Highlights Bitcoin’s Cybersecurity Applications in Senate Testimony",
-        "fonte": "Activistpost.com",
-        "autor": "Editor",
-        "data": "2026-05-07",
-        "url": "https://www.activistpost.com/u-s-admiral-highlights-bitcoins-cybersecurity-applications-in-senate-testimony/",
-        "resumo": "WASHINGTON — U.S. Navy Admiral Samuel Paparo called Bitcoin a “valuable computer science tool” for U.S. “power projection,” stating its proof-of-work technology has “really important” applications for cybersecurity, according to testimony delivered during a S…",
-        "imagem": "https://www.activistpost.com/wp-content/uploads/2026/05/bitcoin-cybersecurity-proof-of-work-1087-original.jpg"
-    },
-    {
-        "titulo": "AI Execs are Running a 1948 Circus Trick… Summary with assessment of accuracy and plausibility",
-        "fonte": "Freerepublic.com",
-        "autor": "youtube.com",
-        "data": "2026-05-07",
-        "url": "https://freerepublic.com/focus/f-chat/4378103/posts",
-        "resumo": "The video “AI Execs are Running a 1948 Circus Trick…” by Brendan Dell argues that AI companies are utilizing the **Barnum Effect**—a psychological phenomenon where individuals believe generic descriptions are highly specific to them—to inflate their valuation…",
-        "imagem": ""
-    },
-    {
-        "titulo": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-05-07",
-        "url": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html",
-        "resumo": "Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026. The vulnerability in question is CVE-2026-0300 (CVSS score: 9.3/8.7), a buffer overflow vul…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA-FbTXMB7fJu_4ZxIlvKU2wHShSiMZaCQBah-p33256FjWEUsO0kd4s-LXOT_YQoS39Mj5f7nhj-ERtNF2EPNU9WG91ZWJXpl4cwYFoWz8npaMpVWzAhYjVVB-JnPyoycvPmik7Y5IsihIDXp7_mHvh4DYUz9vqkkVRYgylDqKeezcDEwqRJNs4F_2scA/s1700-e365/paloalto-rce.jpg"
+        "titulo": "Make It Make Sense: My Appearance Before the Standing Committee on Public Safety and National Security on Bill C-22’s Lawful Access Plan",
+        "fonte": "Michaelgeist.ca",
+        "autor": "Michael Geist",
+        "data": "2026-05-08",
+        "url": "https://www.michaelgeist.ca/2026/05/make-it-make-sense-my-appearance-before-the-standing-committee-on-public-safety-and-national-security-on-bill-c-22s-lawful-access-plan/",
+        "resumo": "Fresh off appearing before a Senate committee on AI on Wednesday, yesterday I provided expert testimony to the Standing Committee on Public Safety and National Security as part of its study on Bill C-22, the government’s latest lawful access plan. Appearing a…",
+        "imagem": "https://www.michaelgeist.ca/wp-content/uploads/2026/05/ChatGPT-Image-May-7-2026-11_01_34-PM.png"
     }
 ]
