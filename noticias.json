@@ -1,5 +1,77 @@
 [
     {
+        "titulo": "Security Affairs newsletter Round 576 by Pierluigi Paganini – INTERNATIONAL EDITION",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-05-10",
+        "url": "https://securityaffairs.com/191908/breaking-news/security-affairs-newsletter-round-576-by-pierluigi-paganini-international-edition.html",
+        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Quasar L…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
+    },
+    {
+        "titulo": "Beware, OpenAI: China Is Building World’s Fastest-Growing AI Cybersecurity Powerhouse",
+        "fonte": "Sputnikglobe.com",
+        "autor": "Sputnik International",
+        "data": "2026-05-10",
+        "url": "https://sputnikglobe.com/20260510/beware-openai-china-is-building-worlds-fastest-growing-ai-cybersecurity-powerhouse-1124107005.html",
+        "resumo": "Backed by double‑digit market growth and the State Council&#x27;s Artificial Intelligence+ action plan, China’s AI security models are evolving at breakneck speed.",
+        "imagem": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124107005.jpg?11235356251778399962"
+    },
+    {
+        "titulo": "Instructure Confirms Major Hack Affecting Canvas Users Across Thousands of Schools",
+        "fonte": "Legalinsurrection.com",
+        "autor": "Leslie Eastman",
+        "data": "2026-05-09",
+        "url": "https://legalinsurrection.com/2026/05/instructure-confirms-major-hack-affecting-canvas-users-across-thousands-of-schools/",
+        "resumo": "Perhaps it is time to return to the Blue Book. The post Instructure Confirms Major Hack Affecting Canvas Users Across Thousands of Schools first appeared on Le·gal In·sur·rec·tion.",
+        "imagem": "https://legalinsurrection.com/wp-content/uploads/2024/10/LI-035-Chinese-Hackers.png"
+    },
+    {
+        "titulo": "Yanik Guillemette: The Economic Imperative of Digital Privacy in an Era of Surveillance",
+        "fonte": "Financial Post",
+        "autor": "GlobeNewswire",
+        "data": "2026-05-09",
+        "url": "https://financialpost.com/globe-newswire/yanik-guillemette-the-economic-imperative-of-digital-privacy-in-an-era-of-surveillance",
+        "resumo": "MONTREAL, May 09, 2026 (GLOBE NEWSWIRE) — As Canada debates the future of its digital sovereignty, tech entrepreneur and investor Yanik Guillemette is emerging as a critical voice for civil liberties. In this interview, Guillemette analyzes the systemic risks…",
+        "imagem": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/05/yanik-guillemette-in-dubai.jpeg"
+    },
+    {
+        "titulo": "JDownloader site hacked to replace installers with Python RAT malware",
+        "fonte": "BleepingComputer",
+        "autor": "Lawrence Abrams",
+        "data": "2026-05-09",
+        "url": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
+        "resumo": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access trojan. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/05/09/jdownloader-header.jpg"
+    },
+    {
+        "titulo": "Why a 2017 Linux bug is now a major concern for the crypto industry",
+        "fonte": "Cointelegraph",
+        "autor": "Cointelegraph by Dilip Kumar Patairya",
+        "data": "2026-05-09",
+        "url": "https://cointelegraph.com/features/copy-fail-linux-vulnerability-crypto-security",
+        "resumo": "The “Copy Fail” Linux bug could impact crypto infrastructure that relies on Linux servers, highlighting growing cybersecurity risks in the digital asset industry. Format: Explained",
+        "imagem": "https://s3-images.ctmedia.io/media/article-covers/pcvirusmalware1.jpg"
+    },
+    {
+        "titulo": "A manual pentest costs 50,000 dollars. Intruder built an AI that does it in minutes.",
+        "fonte": "The Next Web",
+        "autor": "Cristian Dina",
+        "data": "2026-05-09",
+        "url": "https://thenextweb.com/news/intruder-ai-pentesting-cybersecurity-knowbe4/",
+        "resumo": "A manual penetration test costs between 10,000 and 50,000 dollars. It takes weeks to schedule, days to execute, and produces a report that is out of date before the ink dries. Intruder, a London-based cybersecurity company that graduated from GCHQ’s Cyber Acc…",
+        "imagem": "https://media.thenextweb.com/2026/05/intruder-ai-pentesting-cybersecurity-knowbe4.avif"
+    },
+    {
+        "titulo": "Anthropic’s Mythos found thousands of zero-day vulnerabilities. The Fed chair called the banks.",
+        "fonte": "The Next Web",
+        "autor": "Ana Maria Constantin",
+        "data": "2026-05-09",
+        "url": "https://thenextweb.com/news/anthropic-mythos-cybersecurity-banks-vulnerability/",
+        "resumo": "Anthropic built an AI model that found thousands of zero-day vulnerabilities in every major operating system and web browser. The Federal Reserve chair and the Treasury secretary called bank CEOs to discuss it. The company says there is a six-to-twelve month …",
+        "imagem": "https://media.thenextweb.com/2026/04/anthropic-amodei-wiles-mythos-white-house-pentagon-cybersecurity.avif"
+    },
+    {
         "titulo": "Mythos &#x27;Discovered&#x27; a CVE in Its Training Data and That&#x27;s Still Worrying",
         "fonte": "Rival.security",
         "autor": "speckx",
@@ -7,6 +79,15 @@
         "url": "https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying",
         "resumo": "Article URL: https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying Comments URL: https://news.ycombinator.com/item?id=48072671 Points: 4 # Comments: 0",
         "imagem": "https://cdn.prod.website-files.com/68580e61cb772959e1160a80/69f9ca6879cc60c4152ad5ab_1ae15fb9-e4c9-4d6d-a65c-18ef08fac5e2.png"
+    },
+    {
+        "titulo": "Chair&#x27;s statement of the 48th Asean summit",
+        "fonte": "Red Voltaire",
+        "autor": "Voltaire Network",
+        "data": "2026-05-09",
+        "url": "https://www.voltairenet.org/article224476.html",
+        "resumo": "1. We, the Member States of the Association of Southeast Asian Nations (ASEAN), gathered in Cebu, Philippines, on 8 May 2026, for the 48th ASEAN Summit under the Chairship of the Republic of the Philippines. The Summit was chaired by H.E. Ferdinand R. Marcos …",
+        "imagem": "https://www.voltairenet.org/IMG/logo/400_-_1-727.jpg?1778407348"
     },
     {
         "titulo": "Federal Reserve Spring 2026 survey highlights geopolitical risks, AI concerns as top threats to financial stability",
@@ -97,86 +178,5 @@
         "url": "https://www.zdnet.com/article/canvas-breach-disrupts-schools-nationwide-6-steps-to-take-now/",
         "resumo": "A ransomware group behind the attacks claims to have stolen 275 million records connected to students, teachers, and staff. Here&#x27;s how to deal with it.",
         "imagem": "https://www.zdnet.com/a/img/resize/47df3bf23f2affffcc8d26cae79db57439bcc7d6/2026/05/08/9c25110c-6f9a-4b32-ae0f-61f1285a50a6/abstractdatasgettyimages-2256422659.jpg?auto=webp&fit=crop&height=675&width=1200"
-    },
-    {
-        "titulo": "1 Campaign, 2 Targets: China’s Cyber Operations Hit Asian Governments and Dissidents Abroad",
-        "fonte": "The Diplomat",
-        "autor": "Gerald Mako",
-        "data": "2026-05-08",
-        "url": "https://thediplomat.com/2026/05/1-campaign-2-targets-chinas-cyber-operations-hit-asian-governments-and-dissidents-abroad/",
-        "resumo": "One track pursued traditional intelligence collection against Asian governments and defense entities; the other sought to surveil and silence overseas critics.",
-        "imagem": "https://thediplomat.com/wp-content/uploads/2019/03/sizes/td-story-s-2/thediplomat-china-flag-cyber2.jpg"
-    },
-    {
-        "titulo": "Mozilla says Anthropic&#x27;s Mythos Preview and other AI models helped it identify and ship 423 Firefox security bug fixes in just one month",
-        "fonte": "TechRadar",
-        "autor": "benedict.collins@futurenet.com (Benedict Collins) , Benedict Collins",
-        "data": "2026-05-08",
-        "url": "https://www.techradar.com/pro/security/mozilla-says-anthropics-mythos-preview-and-other-ai-models-helped-it-identify-and-ship-423-firefox-security-bug-fixes-in-just-one-month",
-        "resumo": "Mozilla has patched over 400 bugs using Anthropic Mythos, but it wasn&#x27;t a silver bullet.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/ekFDjsuTuJ9dBnwffa3qQ-1920-80.jpg"
-    },
-    {
-        "titulo": "OpenAI rolls out new model for cybersecurity teams a month after Anthropic&#x27;s Mythos debut",
-        "fonte": "TechRadar",
-        "autor": "Sead Fadilpašić",
-        "data": "2026-05-08",
-        "url": "https://www.techradar.com/pro/security/openai-rolls-out-new-model-for-cybersecurity-teams-a-month-after-anthropics-mythos-debut",
-        "resumo": "GPT-5.5-Cyber is now available to TAC members, but it&#x27;s a slight upgrade from 5.4.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/DVffQnnibMWmNpx2Wfb5Se-1920-80.jpg"
-    },
-    {
-        "titulo": "ClaudeBleed Vulnerability Lets Hackers Hijack Claude Chrome Extension to Steal Data",
-        "fonte": "HackRead",
-        "autor": "Deeba Ahmed",
-        "data": "2026-05-08",
-        "url": "https://hackread.com/claudebleed-vulnerability-hackers-claude-chrome-extension/",
-        "resumo": "The ClaudeBleed vulnerability allows hackers to bypass Claude for Chrome guardrails to exfiltrate private Google Drive and Gmail data.",
-        "imagem": "https://hackread.com/wp-content/uploads/2026/05/claudebleed-vulnerability-hackers-claude-chrome-extension.jpg"
-    },
-    {
-        "titulo": "Anthropic&#x27;s Mythos set off a cybersecurity &#x27;hysteria.&#x27; Experts say the threat was already here",
-        "fonte": "CNBC",
-        "autor": "Hugh Son, Samantha Subin",
-        "data": "2026-05-08",
-        "url": "https://www.cnbc.com/2026/05/08/anthropic-mythos-ai-cybersecurity-banks.html",
-        "resumo": "The arrival of Anthropic&#x27;s Mythos jolted banks, software giants and governments into reckoning with a new era of cyber attacks. But the threat is already here.",
-        "imagem": "https://image.cnbcfm.com/api/v1/image/108269269-1771956501574-gettyimages-2261852583-INDIA_AI_SUMMIT.jpeg?v=1774360265&w=1920&h=1080"
-    },
-    {
-        "titulo": "Why the approaching flood of vulnerabilities changes everything — and what to do about it",
-        "fonte": "Tenable.com",
-        "autor": "Raymond Carney",
-        "data": "2026-05-08",
-        "url": "https://www.tenable.com/blog/why-the-approaching-flood-of-vulnerabilities-changes-everything-and-what-to-do-about-it",
-        "resumo": "AI-driven discovery, NIST’s retreat from universal enrichment, and the end of “good enough” vulnerability managementKey takeaways AI-driven discovery tools are accelerating CVE volume, resulting in an expected deluge of 59,000 disclosed vulnerabiliti…",
-        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/Why%20the%20approaching%20flood%20of%20vulnerabilities%20changes%20everything%20%E2%80%94%20and%20what%20to%20do%20about%20it.png?itok=bDDhlJKm"
-    },
-    {
-        "titulo": "Is Canvas still hacked - what is a data breach? The shocking Canvas cyberattack timeline",
-        "fonte": "The Times of India",
-        "autor": "Piyush Shukla",
-        "data": "2026-05-08",
-        "url": "https://economictimes.indiatimes.com/news/international/us/is-canvas-still-hacked-what-is-a-data-breach-the-shocking-canvas-cyberattack-timeline/articleshow/130959315.cms",
-        "resumo": "What really happened in the Canvas data breach? Hackers allegedly accessed 275 million student records, exposing education’s dangerous hidden digital weakness worldwide. The massive Canvas cyberattack shook schools, universities, and online learning systems a…",
-        "imagem": "https://img.etimg.com/thumb/msid-130959550,width-1200,height-630,imgsize-18950,overlay-economictimes/articleshow.jpg"
-    },
-    {
-        "titulo": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-05-08",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
-        "resumo": "CISA has given U.S. federal agencies four days to secure their networks against a high-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Ivanti.jpg"
-    },
-    {
-        "titulo": "Make It Make Sense: My Appearance Before the Standing Committee on Public Safety and National Security on Bill C-22’s Lawful Access Plan",
-        "fonte": "Michaelgeist.ca",
-        "autor": "Michael Geist",
-        "data": "2026-05-08",
-        "url": "https://www.michaelgeist.ca/2026/05/make-it-make-sense-my-appearance-before-the-standing-committee-on-public-safety-and-national-security-on-bill-c-22s-lawful-access-plan/",
-        "resumo": "Fresh off appearing before a Senate committee on AI on Wednesday, yesterday I provided expert testimony to the Standing Committee on Public Safety and National Security as part of its study on Bill C-22, the government’s latest lawful access plan. Appearing a…",
-        "imagem": "https://www.michaelgeist.ca/wp-content/uploads/2026/05/ChatGPT-Image-May-7-2026-11_01_34-PM.png"
     }
 ]
