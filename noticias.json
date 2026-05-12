@@ -1,5 +1,104 @@
 [
     {
+        "titulo": "The Real AI Security Risk Isn&#x27;t Data Leakage. It&#x27;s What Your Agents Can Do",
+        "fonte": "Forbes",
+        "autor": "Güney Yıldız, Contributor, Güney Yıldız, Contributor https://www.forbes.com/sites/guneyyildiz/",
+        "data": "2026-05-11",
+        "url": "https://www.forbes.com/sites/guneyyildiz/2026/05/11/the-real-ai-security-risk-isnt-data-leakage-its-what-your-agents-can-do/",
+        "resumo": "Agentic AI has moved the threat boundary inside the enterprise. Mindgard&#x27;s Aaron Portnoy explains why authority, not access, is now the primary vulnerability.",
+        "imagem": "https://imageio.forbes.com/specials-images/imageserve/69fdd35426a1a6237b9b4cc7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+        "titulo": "ShinyHunters Escalates Canvas Extortion with School by School Ransom Campaign",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Beth Maundrill",
+        "data": "2026-05-11",
+        "url": "https://www.infosecurity-magazine.com/news/shinyhunters-escalates-canvas/",
+        "resumo": "ShinyHunters has escalated its Canvas extortion campaign, defacing hundreds of school login pages and threatening to leak stolen data unless institutions negotiate",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/ebb34ece-f135-4339-862c-fe80a6e1de00.jpg"
+    },
+    {
+        "titulo": "Georgia Tech builds network sandbox to test hospital cyber defenses",
+        "fonte": "Techtarget.com",
+        "autor": "Jill Hughes",
+        "data": "2026-05-11",
+        "url": "https://www.techtarget.com/healthtechsecurity/feature/Georgia-Tech-builds-network-sandbox-to-test-hospital-cyber-defenses",
+        "resumo": "With ARPA-H funding, Georgia Tech researchers are building a platform that emulates a hospital&#x27;s network, enabling them to identify and fix vulnerabilities without risking patient care.",
+        "imagem": "https://www.techtarget.com/rms/onlineimages/security_a135187239.jpg"
+    },
+    {
+        "titulo": "U.S. CISA adds a flaw in BerriAI LiteLLM to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-05-11",
+        "url": "https://securityaffairs.com/191964/security/u-s-cisa-adds-a-flaw-in-berriai-litellm-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a flaw in BerriAI LiteLLM to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a flaw in BerriAI LiteLLM, tracked as CVE-20…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "How Developers Used Claude Code to Stop a Live DDoS Attack",
+        "fonte": "Geeky Gadgets",
+        "autor": "Julian Horsey",
+        "data": "2026-05-11",
+        "url": "https://www.geeky-gadgets.com/claude-code-stops-ddos-attack/",
+        "resumo": "A Distributed Denial of Service (DDoS) attack recently targeted BridgeMind’s API, flooding it with millions of requests and disrupting services. To mitigate the issue, the team relied on Claude Code, an AI-based system, to analyze AWS logs and identify the ma…",
+        "imagem": "https://www.geeky-gadgets.com/wp-content/uploads/2026/05/claude-code-analysis.jpg"
+    },
+    {
+        "titulo": "Whitehat returns $190K to Renegade hours after hacking the protocol",
+        "fonte": "Cointelegraph",
+        "autor": "Cointelegraph by Brayden Lindrea",
+        "data": "2026-05-11",
+        "url": "https://cointelegraph.com/news/whitehat-returns-190k-renegade-hours-after-hacking-the-protocol",
+        "resumo": "A whitehat hacker has returned $190,000 to Arbitrum-based dark pool protocol Renegade hours after breaching one of its deployment smart contracts.",
+        "imagem": "https://s3-images.ctmedia.io/media/article-covers/crimes-code-tweezers-theft-hack-hacker-green.jpg"
+    },
+    {
+        "titulo": "Some College Finals Delayed After Canvas Online Platform Hacked",
+        "fonte": "Insurance Journal",
+        "autor": "Admin",
+        "data": "2026-05-11",
+        "url": "https://www.insurancejournal.com/news/national/2026/05/11/869229.htm",
+        "resumo": "Disruptions for college students are set to drag into the weekend after hackers briefly took down an online platform used by thousands of schools around the world, from Princeton University in the US to the University of Manchester in the …",
+        "imagem": "https://www.insurancejournal.com/app/uploads/2026/05/lecture-college-laptop-Bloomberg-scaled.jpg"
+    },
+    {
+        "titulo": "New cPanel vulnerabilities could allow file access and remote code execution",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-05-10",
+        "url": "https://securityaffairs.com/191931/security/new-cpanel-vulnerabilities-could-allow-file-access-and-remote-code-execution.html",
+        "resumo": "cPanel fixed three flaws that could allow file reads, code execution, and privilege escalation. No active exploitation has been reported yet. cPanel has released security updates to fix three vulnerabilities affecting cPanel &amp; WHM that could allow attackers t…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/11/cpanel-vector-logo.png"
+    },
+    {
+        "titulo": "Is KeyBank Down Today? Online Banking and App Hit by Widespread Outage on Busy Weekend",
+        "fonte": "Ibtimes.com.au",
+        "autor": "Joe Green",
+        "data": "2026-05-10",
+        "url": "https://www.ibtimes.com.au/keybank-down-today-online-banking-app-hit-widespread-outage-busy-weekend-1868511",
+        "resumo": "CLEVELAND — KeyBank customers across the United States encountered significant disruptions Saturday as the regional bank&#x27;s online banking platform and mobile app experienced a widespread outage, preventing many from accessing accounts, making transfers or com…",
+        "imagem": "https://d.ibtimes.com.au/en/full/1893901/navitas-semiconductor-website-down-user-experiences-brief-outage-amid.png"
+    },
+    {
+        "titulo": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-05-10",
+        "url": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
+        "resumo": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory. The out-of-bounds read flaw, which likely impacts over 300,…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92eUjjTTMJPizvUJGwq7Ych7nrXHwGRNt3hS9yjNGRJk5d3pdIKjeZhQDVuFp0DnKjP4qoieGWFjswm7nHDLBaxWC3DxFIfLfRjMSEXd0Ta04vcTrbCpS9PEXebUUbMBxBt0VOb-PKVk-7Cq0FjuMXl4VtKneb5a3ujCo872goPN22GBFFhReJtWsQJLK/s1700-e365/oll.jpg"
+    },
+    {
+        "titulo": "ChatGPT 5.5 Instant Launches : Navigating Its Strengths and Weaknesses",
+        "fonte": "Geeky Gadgets",
+        "autor": "Julian Horsey",
+        "data": "2026-05-10",
+        "url": "https://www.geeky-gadgets.com/openai-gpt-5-5-instant-review/",
+        "resumo": "OpenAI’s ChatGPT 5.5 Instant has been designed to deliver near-instantaneous responses while maintaining a high degree of accuracy, making it particularly useful for real-time applications. According to Two Minute Papers, one of the model’s standout achieveme…",
+        "imagem": "https://www.geeky-gadgets.com/wp-content/uploads/2026/05/openai-gpt-instant.jpg"
+    },
+    {
         "titulo": "Security Affairs newsletter Round 576 by Pierluigi Paganini – INTERNATIONAL EDITION",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
@@ -79,104 +178,5 @@
         "url": "https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying",
         "resumo": "Article URL: https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying Comments URL: https://news.ycombinator.com/item?id=48072671 Points: 4 # Comments: 0",
         "imagem": "https://cdn.prod.website-files.com/68580e61cb772959e1160a80/69f9ca6879cc60c4152ad5ab_1ae15fb9-e4c9-4d6d-a65c-18ef08fac5e2.png"
-    },
-    {
-        "titulo": "Chair&#x27;s statement of the 48th Asean summit",
-        "fonte": "Red Voltaire",
-        "autor": "Voltaire Network",
-        "data": "2026-05-09",
-        "url": "https://www.voltairenet.org/article224476.html",
-        "resumo": "1. We, the Member States of the Association of Southeast Asian Nations (ASEAN), gathered in Cebu, Philippines, on 8 May 2026, for the 48th ASEAN Summit under the Chairship of the Republic of the Philippines. The Summit was chaired by H.E. Ferdinand R. Marcos …",
-        "imagem": "https://www.voltairenet.org/IMG/logo/400_-_1-727.jpg?1778407348"
-    },
-    {
-        "titulo": "Federal Reserve Spring 2026 survey highlights geopolitical risks, AI concerns as top threats to financial stability",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-05-09",
-        "url": "https://cryptobriefing.com/fed-spring-2026-geopolitical-ai-risks/",
-        "resumo": "Geopolitical tensions and AI risks could destabilize global markets, affecting energy supplies, cybersecurity, and employment dynamics. The post Federal Reserve Spring 2026 survey highlights geopolitical risks, AI concerns as top threats to financial stabilit…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/08221726/jefferson-20251121-slide4-800x452.png"
-    },
-    {
-        "titulo": "Canvas outage causes students anxiety during stressful finals week",
-        "fonte": "KPBS",
-        "autor": "Alexander Nguyen",
-        "data": "2026-05-09",
-        "url": "https://www.kpbs.org/news/education/2026/05/08/canvas-outage-causes-students-anxiety-during-stressful-finals-week",
-        "resumo": "In San Diego, the outage affected students at all levels, from community colleges and UC San Diego to California State University campuses and the San Diego Unified School District, among others.",
-        "imagem": "https://cdn.kpbs.org/dims4/default/068b08e/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2F33%2F40%2Febde7d324f12bfe4affd8d328334%2Fmdamron-4400-mxf-09-51-09-10-still001.jpg"
-    },
-    {
-        "titulo": "Agentic AI: Navigating The Evolving Frontier",
-        "fonte": "Forbes",
-        "autor": "Chuck Brooks",
-        "data": "2026-05-09",
-        "url": "https://www.forbes.com/sites/chuckbrooks/2026/05/08/agentic-ai-navigating-the-evolving-frontier/",
-        "resumo": "Agentic AI is increasingly establishing itself as the standard decision-making framework in critical systems",
-        "imagem": "https://imageio.forbes.com/specials-images/imageserve/69fe6ede40462ff9a3c4d454/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-    },
-    {
-        "titulo": "OpenAI introduces GPT‑5.5‑Cyber for high-impact cybersecurity research",
-        "fonte": "SiliconANGLE News",
-        "autor": "Maria Deutscher",
-        "data": "2026-05-08",
-        "url": "https://siliconangle.com/2026/05/08/openai-introduces-gpt%e2%80%915-5%e2%80%91cyber-high-impact-cybersecurity-research/",
-        "resumo": "OpenAI Group PBC has developed a version of GPT-5.5 that is specifically optimized for cybersecurity research. GPT‑5.5‑Cyber, as the model is called, made its debut on Thursday. It’s available in limited preview through a program called Trusted Access for Cyb…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/OpenAI.png"
-    },
-    {
-        "titulo": "Hackers breached five Polish water treatment plants. The attack vector was default passwords. Seventy per cent of American water utilities fail the same test.",
-        "fonte": "The Next Web",
-        "autor": "Alina Maria Stan",
-        "data": "2026-05-08",
-        "url": "https://thenextweb.com/news/poland-water-treatment-cyberattack-russia-us/",
-        "resumo": "Hackers breached five Polish water treatment plants in 2025, gaining access to the industrial control systems that regulate pumps, filters, and chemical dosing. In some facilities, the attackers could have altered the operational parameters of equipment that …",
-        "imagem": "https://media.thenextweb.com/2026/05/poland-water-treatment-cyberattack-russia-us.avif"
-    },
-    {
-        "titulo": "Unleashing AI across the US government: The data security challenge holding back decision advantage",
-        "fonte": "Nextgov",
-        "autor": "Terry Halvorsen",
-        "data": "2026-05-08",
-        "url": "https://www.nextgov.com/ideas/2026/05/unleashing-ai-across-us-government-data-security-challenge-holding-back-decision-advantage/413428/",
-        "resumo": "COMMENTARY | Agencies are making significant investments in AI, but those efforts will be wasted if they can&#x27;t secure the sensitive data that the emerging capabilities need to provide real value.",
-        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/05/08/GettyImages_2214959014/open-graph.jpg"
-    },
-    {
-        "titulo": "Canvas is back online, but questions — and final exam disruptions — linger",
-        "fonte": "NPR",
-        "autor": "Rachel Treisman",
-        "data": "2026-05-08",
-        "url": "https://www.npr.org/2026/05/08/nx-s1-5815956/canvas-data-breach-school-finals",
-        "resumo": "Some schools are warning users not to log back into Canvas yet, after a ransomware group claimed credit for a data breach. Half of North America&#x27;s higher education institutions use the platform.",
-        "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3213x1807+0+75/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd7%2F1b%2Fe72afec44f72b41dbf22511f9129%2Fap26128482777577.jpg"
-    },
-    {
-        "titulo": "AI Is Making Cyberattacks Cheaper, Faster and More Dangerous, IMF Warns",
-        "fonte": "OilPrice.com",
-        "autor": "OilPrice.com",
-        "data": "2026-05-08",
-        "url": "https://oilprice.com/Energy/Energy-General/AI-Is-Making-Cyberattacks-Cheaper-Faster-and-More-Dangerous-IMF-Warns.html",
-        "resumo": "Evermore sophisticated AI-powered cyberattacks could threaten the stability of the global financial system, The International Monetary Fund (IMF) has warned, as regulators race to contain a new generation of threats. In their new report, the IMF said extreme …",
-        "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-05-08_1aqrcxhloz.jpg"
-    },
-    {
-        "titulo": "IMF Recommends New Resilience Standards to Counter AI Cyberattacks",
-        "fonte": "pymnts.com",
-        "autor": "PYMNTS",
-        "data": "2026-05-08",
-        "url": "https://www.pymnts.com/cybersecurity/2026/imf-recommends-new-resilience-standards-to-counter-ai-cyberattacks/",
-        "resumo": "At a time of rapidly accelerating cyber risk driven by artificial intelligence, cybersecurity is a core financial stability issue and should be treated as such by policymakers, the International Monetary Fund (IMF) said in a Thursday (May 7) blog post. Becaus…",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2023/04/International-Monetary-Fund.jpg"
-    },
-    {
-        "titulo": "Canvas breach disrupts schools nationwide: 6 steps to take now",
-        "fonte": "ZDNet",
-        "autor": "Charlie Osborne",
-        "data": "2026-05-08",
-        "url": "https://www.zdnet.com/article/canvas-breach-disrupts-schools-nationwide-6-steps-to-take-now/",
-        "resumo": "A ransomware group behind the attacks claims to have stolen 275 million records connected to students, teachers, and staff. Here&#x27;s how to deal with it.",
-        "imagem": "https://www.zdnet.com/a/img/resize/47df3bf23f2affffcc8d26cae79db57439bcc7d6/2026/05/08/9c25110c-6f9a-4b32-ae0f-61f1285a50a6/abstractdatasgettyimages-2256422659.jpg?auto=webp&fit=crop&height=675&width=1200"
     }
 ]
