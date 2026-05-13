@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "The Real AI Security Risk Isn&#x27;t Data Leakage. It&#x27;s What Your Agents Can Do",
-        "fonte": "Forbes",
-        "autor": "Güney Yıldız, Contributor, Güney Yıldız, Contributor https://www.forbes.com/sites/guneyyildiz/",
-        "data": "2026-05-11",
-        "url": "https://www.forbes.com/sites/guneyyildiz/2026/05/11/the-real-ai-security-risk-isnt-data-leakage-its-what-your-agents-can-do/",
-        "resumo": "Agentic AI has moved the threat boundary inside the enterprise. Mindgard&#x27;s Aaron Portnoy explains why authority, not access, is now the primary vulnerability.",
-        "imagem": "https://imageio.forbes.com/specials-images/imageserve/69fdd35426a1a6237b9b4cc7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        "titulo": "Google just blocked a zero-day exploit made with AI",
+        "fonte": "Android Authority",
+        "autor": "Shimul Sood",
+        "data": "2026-05-12",
+        "url": "https://www.androidauthority.com/google-ai-made-zero-day-exploit-3665858/",
+        "resumo": "Google says AI is rapidly becoming a much bigger cybersecurity threat than most people realize. Here&#x27;s everything you need to know.",
+        "imagem": "https://www.androidauthority.com/wp-content/uploads/2020/11/Encryption-security.jpg"
     },
     {
-        "titulo": "ShinyHunters Escalates Canvas Extortion with School by School Ransom Campaign",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Beth Maundrill",
-        "data": "2026-05-11",
-        "url": "https://www.infosecurity-magazine.com/news/shinyhunters-escalates-canvas/",
-        "resumo": "ShinyHunters has escalated its Canvas extortion campaign, defacing hundreds of school login pages and threatening to leak stolen data unless institutions negotiate",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/ebb34ece-f135-4339-862c-fe80a6e1de00.jpg"
+        "titulo": "CLARITY Act’s final draft has been released ahead of May 14 markup – What’s in it?",
+        "fonte": "CryptoSlate",
+        "autor": "Oluwapelumi Adejumo",
+        "data": "2026-05-12",
+        "url": "https://cryptoslate.com/clarity-acts-final-draft-has-been-released-ahead-of-may-14-markup-whats-in-it/",
+        "resumo": "On May 12, the Senate Banking Committee released updated text of the CLARITY Act ahead of a scheduled May 14 markup. The bill would establish new rules for digital asset intermediaries, define how certain network tokens are treated, expand the role of federal…",
+        "imagem": "https://cryptoslate.com/wp-content/uploads/2026/05/clarityAct-final-draft.jpg"
     },
     {
-        "titulo": "Georgia Tech builds network sandbox to test hospital cyber defenses",
-        "fonte": "Techtarget.com",
-        "autor": "Jill Hughes",
-        "data": "2026-05-11",
-        "url": "https://www.techtarget.com/healthtechsecurity/feature/Georgia-Tech-builds-network-sandbox-to-test-hospital-cyber-defenses",
-        "resumo": "With ARPA-H funding, Georgia Tech researchers are building a platform that emulates a hospital&#x27;s network, enabling them to identify and fix vulnerabilities without risking patient care.",
-        "imagem": "https://www.techtarget.com/rms/onlineimages/security_a135187239.jpg"
+        "titulo": "AI security startup Grego AI debuts, claims record $250,000 bounty for AI-found exploit",
+        "fonte": "SiliconANGLE News",
+        "autor": "Duncan Riley",
+        "data": "2026-05-12",
+        "url": "https://siliconangle.com/2026/05/12/ai-security-startup-grego-ai-debuts-claims-record-250000-bounty-ai-found-exploit/",
+        "resumo": "Artificial intelligence cybersecurity startup Grego AI formally launched today with a claimed method of using existing AI models to find critical software vulnerabilities that human auditors and other automated tools routinely miss. Founded in 2024, the compa…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/gregoai.png"
     },
     {
-        "titulo": "U.S. CISA adds a flaw in BerriAI LiteLLM to its Known Exploited Vulnerabilities catalog",
+        "titulo": "WannaCry, the ransomware attack that changed the history of cybersecurity",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
-        "data": "2026-05-11",
-        "url": "https://securityaffairs.com/191964/security/u-s-cisa-adds-a-flaw-in-berriai-litellm-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a flaw in BerriAI LiteLLM to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a flaw in BerriAI LiteLLM, tracked as CVE-20…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+        "data": "2026-05-12",
+        "url": "https://securityaffairs.com/192015/malware/wannacry-the-ransomware-attack-that-changed-the-history-of-cybersecurity.html",
+        "resumo": "WannaCry showed how unpatched flaws and leaked cyber tools can cripple global systems, reshaping cybersecurity defenses worldwide. In memory of the day the digital world was shaken, but learned to fight back. The WannaCry ransomware attack represents one of t…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2017/05/WannaCrypt-ransomware.jpg"
     },
     {
-        "titulo": "How Developers Used Claude Code to Stop a Live DDoS Attack",
-        "fonte": "Geeky Gadgets",
-        "autor": "Julian Horsey",
-        "data": "2026-05-11",
-        "url": "https://www.geeky-gadgets.com/claude-code-stops-ddos-attack/",
-        "resumo": "A Distributed Denial of Service (DDoS) attack recently targeted BridgeMind’s API, flooding it with millions of requests and disrupting services. To mitigate the issue, the team relied on Claude Code, an AI-based system, to analyze AWS logs and identify the ma…",
-        "imagem": "https://www.geeky-gadgets.com/wp-content/uploads/2026/05/claude-code-analysis.jpg"
+        "titulo": "‘Daybreak’: OpenAI’s Answer to Anthropic’s Project Glasswing Has Arrived",
+        "fonte": "Gizmodo.com",
+        "autor": "Mike Pearl",
+        "data": "2026-05-12",
+        "url": "https://gizmodo.com/daybreak-openais-answer-to-anthropics-project-glasswing-has-arrived-2000757349",
+        "resumo": "OpenAI seems to be trying for a much less scary vibe than Anthropic&#x27;s.",
+        "imagem": "https://gizmodo.com/app/uploads/2026/05/daybreak-1200x675.jpg"
     },
     {
-        "titulo": "Whitehat returns $190K to Renegade hours after hacking the protocol",
-        "fonte": "Cointelegraph",
-        "autor": "Cointelegraph by Brayden Lindrea",
-        "data": "2026-05-11",
-        "url": "https://cointelegraph.com/news/whitehat-returns-190k-renegade-hours-after-hacking-the-protocol",
-        "resumo": "A whitehat hacker has returned $190,000 to Arbitrum-based dark pool protocol Renegade hours after breaching one of its deployment smart contracts.",
-        "imagem": "https://s3-images.ctmedia.io/media/article-covers/crimes-code-tweezers-theft-hack-hacker-green.jpg"
+        "titulo": "Building Secure AI Applications in the Era of Autonomous Systems",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (Saurav Kumar)",
+        "data": "2026-05-12",
+        "url": "https://www.c-sharpcorner.com/article/building-secure-ai-applications-in-the-era-of-autonomous-systems/",
+        "resumo": "Explore AI security in autonomous systems. Learn to mitigate risks like prompt injection, data poisoning, and insecure plugins. Secure your AI applications now!",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
     },
     {
-        "titulo": "Some College Finals Delayed After Canvas Online Platform Hacked",
-        "fonte": "Insurance Journal",
-        "autor": "Admin",
-        "data": "2026-05-11",
-        "url": "https://www.insurancejournal.com/news/national/2026/05/11/869229.htm",
-        "resumo": "Disruptions for college students are set to drag into the weekend after hackers briefly took down an online platform used by thousands of schools around the world, from Princeton University in the US to the University of Manchester in the …",
-        "imagem": "https://www.insurancejournal.com/app/uploads/2026/05/lecture-college-laptop-Bloomberg-scaled.jpg"
+        "titulo": "Agentic Workflows Explained: The Next Evolution of AI Automation",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (Saurav Kumar)",
+        "data": "2026-05-12",
+        "url": "https://www.c-sharpcorner.com/article/agentic-workflows-explained-the-next-evolution-of-ai-automation/",
+        "resumo": "Explore agentic workflows: the future of AI automation. Learn how AI agents reason, adapt, and collaborate to revolutionize industries. Discover use cases and benefits!",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
     },
     {
-        "titulo": "New cPanel vulnerabilities could allow file access and remote code execution",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-05-10",
-        "url": "https://securityaffairs.com/191931/security/new-cpanel-vulnerabilities-could-allow-file-access-and-remote-code-execution.html",
-        "resumo": "cPanel fixed three flaws that could allow file reads, code execution, and privilege escalation. No active exploitation has been reported yet. cPanel has released security updates to fix three vulnerabilities affecting cPanel &amp; WHM that could allow attackers t…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/11/cpanel-vector-logo.png"
+        "titulo": "How Enterprises Are Deploying Secure AI Agents at Scale",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (Saurav Kumar)",
+        "data": "2026-05-12",
+        "url": "https://www.c-sharpcorner.com/article/how-enterprises-are-deploying-secure-ai-agents-at-scale/",
+        "resumo": "Explore secure AI agent deployment at scale for enterprises. Learn about architecture, security challenges, and strategies for governance and compliance.",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
     },
     {
-        "titulo": "Is KeyBank Down Today? Online Banking and App Hit by Widespread Outage on Busy Weekend",
-        "fonte": "Ibtimes.com.au",
-        "autor": "Joe Green",
-        "data": "2026-05-10",
-        "url": "https://www.ibtimes.com.au/keybank-down-today-online-banking-app-hit-widespread-outage-busy-weekend-1868511",
-        "resumo": "CLEVELAND — KeyBank customers across the United States encountered significant disruptions Saturday as the regional bank&#x27;s online banking platform and mobile app experienced a widespread outage, preventing many from accessing accounts, making transfers or com…",
-        "imagem": "https://d.ibtimes.com.au/en/full/1893901/navitas-semiconductor-website-down-user-experiences-brief-outage-amid.png"
+        "titulo": "AI-Driven Malware and Autonomous Hacking Explained",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (Riya Patel)",
+        "data": "2026-05-12",
+        "url": "https://www.c-sharpcorner.com/article/ai-driven-malware-and-autonomous-hacking-explained/",
+        "resumo": "Explore the rise of AI-driven malware and autonomous hacking. Understand the technologies, risks, defenses, and future of cybersecurity in the age of intelligent attacks.",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
     },
     {
-        "titulo": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
+        "titulo": "The Future of Software Engineering in the Age of AI Agents",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (Riya Patel)",
+        "data": "2026-05-12",
+        "url": "https://www.c-sharpcorner.com/article/the-future-of-software-engineering-in-the-age-of-ai-agents/",
+        "resumo": "Explore how AI agents are revolutionizing software engineering! Discover the future of development, AI&#x27;s impact on roles, and how to prepare for autonomous engineering.",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+    },
+    {
+        "titulo": "AI Agents in Cybersecurity: Threat Detection and Automated Defense",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (Riya Patel)",
+        "data": "2026-05-12",
+        "url": "https://www.c-sharpcorner.com/article/ai-agents-in-cybersecurity-threat-detection-and-automated-defense/",
+        "resumo": "Explore how AI agents revolutionize cybersecurity with automated threat detection, incident response, and proactive defense. Learn about real-world applications and benefits.",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+    },
+    {
+        "titulo": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-05-10",
-        "url": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
-        "resumo": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory. The out-of-bounds read flaw, which likely impacts over 300,…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92eUjjTTMJPizvUJGwq7Ych7nrXHwGRNt3hS9yjNGRJk5d3pdIKjeZhQDVuFp0DnKjP4qoieGWFjswm7nHDLBaxWC3DxFIfLfRjMSEXd0Ta04vcTrbCpS9PEXebUUbMBxBt0VOb-PKVk-7Cq0FjuMXl4VtKneb5a3ujCo872goPN22GBFFhReJtWsQJLK/s1700-e365/oll.jpg"
+        "data": "2026-05-12",
+        "url": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html",
+        "resumo": "American educational technology company Instructure, the parent company of Canvas, said it reached an &quot;agreement&quot; with a decentralized cybercrime extortion group after it breached its network and threatened to leak stolen information from thousands of schools…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq_FVhPeK2Y77CmHxc0azDelzWwpgSb4m8GZPLeJlsr2QvCZU5ChGQK37bJ_2XsGQRaNszalreV1iNyYDzeLt1I8iqafNTvFCPFQ0czKwX3Q6Q23TqdavunyJJsy6X8vxG_jSz__X5BnFZc4AIIqr-kd0XiNcYgx3UnYaahiViFKAywuQ98a7bbtCPnwgo/s1700-e365/ransom-breach.jpg"
     },
     {
-        "titulo": "ChatGPT 5.5 Instant Launches : Navigating Its Strengths and Weaknesses",
-        "fonte": "Geeky Gadgets",
-        "autor": "Julian Horsey",
-        "data": "2026-05-10",
-        "url": "https://www.geeky-gadgets.com/openai-gpt-5-5-instant-review/",
-        "resumo": "OpenAI’s ChatGPT 5.5 Instant has been designed to deliver near-instantaneous responses while maintaining a high degree of accuracy, making it particularly useful for real-time applications. According to Two Minute Papers, one of the model’s standout achieveme…",
-        "imagem": "https://www.geeky-gadgets.com/wp-content/uploads/2026/05/openai-gpt-instant.jpg"
+        "titulo": "Lyrie.ai Deploys Real-Time Zero-Day Tracking Across Global Enterprise Infrastructure",
+        "fonte": "Next Big Future",
+        "autor": "Brian Wang",
+        "data": "2026-05-12",
+        "url": "https://www.nextbigfuture.com/2026/05/lyrie-ai-deploys-real-time-zero-day-tracking-across-global-enterprise-infrastructure.html",
+        "resumo": "DUBAI, UAE, May 11th, 2026, TechnologyWire OTT Cybersecurity LLC, the company behind Lyrie.ai, today announced several milestones that together position the company as foundational security infrastructure for the agentic AI era: the deployment of a real-time …",
+        "imagem": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/05/Screenshot-2026-05-12-at-12.23.23-AM.jpg"
     },
     {
-        "titulo": "Security Affairs newsletter Round 576 by Pierluigi Paganini – INTERNATIONAL EDITION",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-05-10",
-        "url": "https://securityaffairs.com/191908/breaking-news/security-affairs-newsletter-round-576-by-pierluigi-paganini-international-edition.html",
-        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Quasar L…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
+        "titulo": "Google Discovers The First Known Case Of Hackers Using AI To Create A Zero-Day Exploit",
+        "fonte": "BGR",
+        "autor": "staff@bgr.com (Yoni Heisler)",
+        "data": "2026-05-12",
+        "url": "https://www.bgr.com/2170488/google-first-case-hackers-ai-create-zero-day-exploit/",
+        "resumo": "GTIG identified an AI-made zero-day exploit targeting 2FA in Python. The code was caught by a hallucinated CVSS score before a planned mass exploitation.",
+        "imagem": "https://www.bgr.com/img/gallery/google-discovers-the-first-known-case-of-hackers-using-ai-to-create-a-zero-day-exploit/l-intro-1778569898.jpg"
     },
     {
-        "titulo": "Beware, OpenAI: China Is Building World’s Fastest-Growing AI Cybersecurity Powerhouse",
-        "fonte": "Sputnikglobe.com",
-        "autor": "Sputnik International",
-        "data": "2026-05-10",
-        "url": "https://sputnikglobe.com/20260510/beware-openai-china-is-building-worlds-fastest-growing-ai-cybersecurity-powerhouse-1124107005.html",
-        "resumo": "Backed by double‑digit market growth and the State Council&#x27;s Artificial Intelligence+ action plan, China’s AI security models are evolving at breakneck speed.",
-        "imagem": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124107005.jpg?11235356251778399962"
+        "titulo": "Half of Campus Tech Leaders Question AI’s ROI",
+        "fonte": "Inside Higher Ed",
+        "autor": "kathryn.palmer@insidehighered.com",
+        "data": "2026-05-12",
+        "url": "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/05/12/half-campus-tech-leaders-question-ais-roi",
+        "resumo": "Half of Campus Tech Leaders Question AI’s ROI kathryn.palmer… Tue, 05/12/2026 - 03:00 AM Our annual survey of CTOs found growing institutional reliance on artificial intelligence, coupled with concerns about value, cybersecurity and more. Byline(…",
+        "imagem": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-05/GettyImages-1502441951.jpg?itok=lumZMKL-"
     },
     {
-        "titulo": "Instructure Confirms Major Hack Affecting Canvas Users Across Thousands of Schools",
-        "fonte": "Legalinsurrection.com",
-        "autor": "Leslie Eastman",
-        "data": "2026-05-09",
-        "url": "https://legalinsurrection.com/2026/05/instructure-confirms-major-hack-affecting-canvas-users-across-thousands-of-schools/",
-        "resumo": "Perhaps it is time to return to the Blue Book. The post Instructure Confirms Major Hack Affecting Canvas Users Across Thousands of Schools first appeared on Le·gal In·sur·rec·tion.",
-        "imagem": "https://legalinsurrection.com/wp-content/uploads/2024/10/LI-035-Chinese-Hackers.png"
+        "titulo": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-05-12",
+        "url": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
+        "resumo": "OpenAI has launched Daybreak, a new cybersecurity initiative that brings together frontier artificial intelligence (AI) model capabilities and Codex Security to help organizations identify and patch vulnerabilities before attackers find a way in using the sam…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLWuBkkGzJLNmcxzqkKdh6dI6X-juFjpMWr-k6VGVTL6G1XZUH1sna06RS5PQY0e4A1VpUjvR-dpWMCx0yQJBdjFyjnoyOek-ysMpU7cgWBkUHChyADdRozT1XHNIvUhU_ibCkggQaGESD7St4aCfyx4SWOfLjUSuoeWiJQmmb1EkimfKA27g_tVHdV-G-/s1700-e365/openai-daybreak.jpg"
     },
     {
-        "titulo": "Yanik Guillemette: The Economic Imperative of Digital Privacy in an Era of Surveillance",
-        "fonte": "Financial Post",
-        "autor": "GlobeNewswire",
-        "data": "2026-05-09",
-        "url": "https://financialpost.com/globe-newswire/yanik-guillemette-the-economic-imperative-of-digital-privacy-in-an-era-of-surveillance",
-        "resumo": "MONTREAL, May 09, 2026 (GLOBE NEWSWIRE) — As Canada debates the future of its digital sovereignty, tech entrepreneur and investor Yanik Guillemette is emerging as a critical voice for civil liberties. In this interview, Guillemette analyzes the systemic risks…",
-        "imagem": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/05/yanik-guillemette-in-dubai.jpeg"
+        "titulo": "How Hackers Are Using AI to Exploit Zero-Day Vulnerabilities",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (Ananya Desai)",
+        "data": "2026-05-12",
+        "url": "https://www.c-sharpcorner.com/article/how-hackers-are-using-ai-to-exploit-zero-day-vulnerabilities/",
+        "resumo": "AI is weaponized! Learn how hackers exploit zero-day vulnerabilities with AI, the risks, and how developers can defend against these advanced cyberattacks.",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
     },
     {
-        "titulo": "JDownloader site hacked to replace installers with Python RAT malware",
-        "fonte": "BleepingComputer",
-        "autor": "Lawrence Abrams",
-        "data": "2026-05-09",
-        "url": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
-        "resumo": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access trojan. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/05/09/jdownloader-header.jpg"
+        "titulo": "Google Down Today: Massive Search Outage Hits Millions Worldwide on May 12 2026",
+        "fonte": "Ibtimes.com.au",
+        "autor": "George Anton",
+        "data": "2026-05-12",
+        "url": "https://www.ibtimes.com.au/google-down-today-massive-search-outage-hits-millions-worldwide-may-12-2026-1868617",
+        "resumo": "NEW YORK — Google Search, the world&#x27;s most-used internet tool, suffered a widespread outage Tuesday, leaving millions of users staring at &quot;500 Internal Server Error&quot; messages and blank result pages as engineers scrambled to restore service.",
+        "imagem": "https://d.ibtimes.com.au/en/full/1893032/google.png"
     },
     {
-        "titulo": "Why a 2017 Linux bug is now a major concern for the crypto industry",
-        "fonte": "Cointelegraph",
-        "autor": "Cointelegraph by Dilip Kumar Patairya",
-        "data": "2026-05-09",
-        "url": "https://cointelegraph.com/features/copy-fail-linux-vulnerability-crypto-security",
-        "resumo": "The “Copy Fail” Linux bug could impact crypto infrastructure that relies on Linux servers, highlighting growing cybersecurity risks in the digital asset industry. Format: Explained",
-        "imagem": "https://s3-images.ctmedia.io/media/article-covers/pcvirusmalware1.jpg"
+        "titulo": "Building Production-Ready AI Agents Using Multi-Agent Architecture",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (Aarav Patel)",
+        "data": "2026-05-12",
+        "url": "https://www.c-sharpcorner.com/article/building-production-ready-ai-agents-using-multi-agent-architecture/",
+        "resumo": "Explore multi-agent architecture for building production-ready AI agents. Learn about system design, orchestration, memory, and real-world enterprise use cases.",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
     },
     {
-        "titulo": "A manual pentest costs 50,000 dollars. Intruder built an AI that does it in minutes.",
-        "fonte": "The Next Web",
-        "autor": "Cristian Dina",
-        "data": "2026-05-09",
-        "url": "https://thenextweb.com/news/intruder-ai-pentesting-cybersecurity-knowbe4/",
-        "resumo": "A manual penetration test costs between 10,000 and 50,000 dollars. It takes weeks to schedule, days to execute, and produces a report that is out of date before the ink dries. Intruder, a London-based cybersecurity company that graduated from GCHQ’s Cyber Acc…",
-        "imagem": "https://media.thenextweb.com/2026/05/intruder-ai-pentesting-cybersecurity-knowbe4.avif"
-    },
-    {
-        "titulo": "Anthropic’s Mythos found thousands of zero-day vulnerabilities. The Fed chair called the banks.",
-        "fonte": "The Next Web",
-        "autor": "Ana Maria Constantin",
-        "data": "2026-05-09",
-        "url": "https://thenextweb.com/news/anthropic-mythos-cybersecurity-banks-vulnerability/",
-        "resumo": "Anthropic built an AI model that found thousands of zero-day vulnerabilities in every major operating system and web browser. The Federal Reserve chair and the Treasury secretary called bank CEOs to discuss it. The company says there is a six-to-twelve month …",
-        "imagem": "https://media.thenextweb.com/2026/04/anthropic-amodei-wiles-mythos-white-house-pentagon-cybersecurity.avif"
-    },
-    {
-        "titulo": "Mythos &#x27;Discovered&#x27; a CVE in Its Training Data and That&#x27;s Still Worrying",
-        "fonte": "Rival.security",
-        "autor": "speckx",
-        "data": "2026-05-09",
-        "url": "https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying",
-        "resumo": "Article URL: https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying Comments URL: https://news.ycombinator.com/item?id=48072671 Points: 4 # Comments: 0",
-        "imagem": "https://cdn.prod.website-files.com/68580e61cb772959e1160a80/69f9ca6879cc60c4152ad5ab_1ae15fb9-e4c9-4d6d-a65c-18ef08fac5e2.png"
+        "titulo": "AI Agents Explained: Architecture, Workflow, and Real-World Examples",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (Aarav Patel)",
+        "data": "2026-05-12",
+        "url": "https://www.c-sharpcorner.com/article/ai-agents-explained-architecture-workflow-and-real-world-examples/",
+        "resumo": "Explore AI Agents: architecture, workflow, and real-world examples. Learn how they reason, plan, and automate tasks, revolutionizing software development.",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
     }
 ]
