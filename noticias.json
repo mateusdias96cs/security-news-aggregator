@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Google just blocked a zero-day exploit made with AI",
-        "fonte": "Android Authority",
-        "autor": "Shimul Sood",
-        "data": "2026-05-12",
-        "url": "https://www.androidauthority.com/google-ai-made-zero-day-exploit-3665858/",
-        "resumo": "Google says AI is rapidly becoming a much bigger cybersecurity threat than most people realize. Here&#x27;s everything you need to know.",
-        "imagem": "https://www.androidauthority.com/wp-content/uploads/2020/11/Encryption-security.jpg"
+        "titulo": "Breaking things to keep them safe with Philippe Laulheret",
+        "fonte": "Talosintelligence.com",
+        "autor": "Amy Ciminnisi",
+        "data": "2026-05-13",
+        "url": "https://blog.talosintelligence.com/breaking-things-to-keep-them-safe-with-philippe-laulheret/",
+        "resumo": "Philippe shares his unique journey from French engineering school to the front lines of cybersecurity, explaining how his lifelong love for solving puzzles helps him uncover critical security flaws before they can be exploited.",
+        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/05/humans_of_talos.jpg"
     },
     {
-        "titulo": "CLARITY Act’s final draft has been released ahead of May 14 markup – What’s in it?",
-        "fonte": "CryptoSlate",
-        "autor": "Oluwapelumi Adejumo",
-        "data": "2026-05-12",
-        "url": "https://cryptoslate.com/clarity-acts-final-draft-has-been-released-ahead-of-may-14-markup-whats-in-it/",
-        "resumo": "On May 12, the Senate Banking Committee released updated text of the CLARITY Act ahead of a scheduled May 14 markup. The bill would establish new rules for digital asset intermediaries, define how certain network tokens are treated, expand the role of federal…",
-        "imagem": "https://cryptoslate.com/wp-content/uploads/2026/05/clarityAct-final-draft.jpg"
+        "titulo": "Mythos goes to Tokyo: Japanese banks to get Anthropic’s vulnerability-hunting AI",
+        "fonte": "The Next Web",
+        "autor": "Ana-Maria Stanciuc",
+        "data": "2026-05-13",
+        "url": "https://thenextweb.com/news/anthropic-mythos-japan-megabanks-access/",
+        "resumo": "MUFG, Mizuho, and SMFG would be the first Japanese institutions added to Anthropic’s restricted Project Glasswing rollout, a source familiar with the matter told Reuters Japan’s three megabanks are set to gain access to Claude Mythos, Anthropic’s vulnerabilit…",
+        "imagem": "https://media.thenextweb.com/2026/04/workday-cto-bailis-anthropic-member-technical-staff.avif"
     },
     {
-        "titulo": "AI security startup Grego AI debuts, claims record $250,000 bounty for AI-found exploit",
-        "fonte": "SiliconANGLE News",
-        "autor": "Duncan Riley",
-        "data": "2026-05-12",
-        "url": "https://siliconangle.com/2026/05/12/ai-security-startup-grego-ai-debuts-claims-record-250000-bounty-ai-found-exploit/",
-        "resumo": "Artificial intelligence cybersecurity startup Grego AI formally launched today with a claimed method of using existing AI models to find critical software vulnerabilities that human auditors and other automated tools routinely miss. Founded in 2024, the compa…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/gregoai.png"
+        "titulo": "AI data centers in Nepal: Implications and opportunities",
+        "fonte": "Peoplesreview.com.np",
+        "autor": "People&#x27;s Review",
+        "data": "2026-05-13",
+        "url": "https://peoplesreview.com.np/2026/05/13/ai-data-centers-in-nepal-implications-and-opportunities/",
+        "resumo": "By Santosh Kumar Dhakal The expansion of artificial intelligence has driven unprecedented growth in data center infrastructure globally. These facilities, often described as the physical backbone of digital economies, consume significant amounts of electricit…",
+        "imagem": "https://peoplesreview.com.np/wp-content/uploads/2026/04/Gen-Santosh-K-Dhakal.jpg"
     },
     {
-        "titulo": "WannaCry, the ransomware attack that changed the history of cybersecurity",
+        "titulo": "Top Cybersecurity Threats Developers Must Prepare for in 2026",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (Saurav Kumar)",
+        "data": "2026-05-13",
+        "url": "https://www.c-sharpcorner.com/article/top-cybersecurity-threats-developers-must-prepare-for-in-2026/",
+        "resumo": "Prepare for 2026&#x27;s top cybersecurity threats! Developers must master AI security, supply chain defense, cloud protection, and DevSecOps for resilient apps.",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+    },
+    {
+        "titulo": "The Evolution of Modern Development: From Coding to Managing AI Agents",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (Saurav Kumar)",
+        "data": "2026-05-13",
+        "url": "https://www.c-sharpcorner.com/article/the-evolution-of-modern-development-from-coding-to-managing-ai-agents/",
+        "resumo": "Explore the shift from coding to AI agent management in software development. Learn how AI is transforming workflows, roles, and the future of engineering.",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+    },
+    {
+        "titulo": "Secure AI Development: Best Practices for Enterprise Software Teams",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (Saurav Kumar)",
+        "data": "2026-05-13",
+        "url": "https://www.c-sharpcorner.com/article/secure-ai-development-best-practices-for-enterprise-software-teams/",
+        "resumo": "Explore secure AI development best practices for enterprise software teams. Learn to mitigate risks like prompt injection, data leakage, and supply chain vulnerabilities.",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+    },
+    {
+        "titulo": "AI Tools for Developers: Productivity Boost or Security Risk?",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (Riya Patel)",
+        "data": "2026-05-13",
+        "url": "https://www.c-sharpcorner.com/article/ai-tools-for-developers-productivity-boost-or-security-risk/",
+        "resumo": "Explore AI tools for developers: a productivity revolution or a security minefield? Learn to navigate the benefits and risks of AI-assisted software development.",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+    },
+    {
+        "titulo": "Microsoft’s Latest .NET Updates: Performance, Security, and AI Enhancements",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (Riya Patel)",
+        "data": "2026-05-13",
+        "url": "https://www.c-sharpcorner.com/article/microsofts-latest-net-updates-performance-security-and-ai-enhancements/",
+        "resumo": "Explore Microsoft&#x27;s .NET updates: performance boosts, AI integration in Visual Studio, enhanced security, and cloud-native tools for modern developers. Build smarter!",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+    },
+    {
+        "titulo": "AI in Cybersecurity: How Intelligent Threat Detection Is Evolving",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (Niharika Gupta)",
+        "data": "2026-05-13",
+        "url": "https://www.c-sharpcorner.com/article/ai-in-cybersecurity-how-intelligent-threat-detection-is-evolving/",
+        "resumo": "Explore how AI is revolutionizing cybersecurity! Learn about intelligent threat detection, machine learning, and AI&#x27;s impact on DevSecOps and cloud security. Stay ahead of AI-powered attacks.",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+    },
+    {
+        "titulo": "Quantum-Safe Security in .NET and Visual Studio: What It Means for Developers",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (Niharika Gupta)",
+        "data": "2026-05-13",
+        "url": "https://www.c-sharpcorner.com/article/quantum-safe-security-in-net-and-visual-studio-what-it-means-for-developers/",
+        "resumo": "Prepare for the quantum era! This article explores quantum-safe security in .NET &amp; Visual Studio, its impact on developers, and Microsoft&#x27;s approach to PQC.",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+    },
+    {
+        "titulo": "Cloud Security Trends Every Developer and DevOps Engineer Should Watch",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (Nidhi Sharma)",
+        "data": "2026-05-13",
+        "url": "https://www.c-sharpcorner.com/article/cloud-security-trends-every-developer-and-devops-engineer-should-watch/",
+        "resumo": "Stay ahead of cloud security threats! Explore key trends like Zero Trust, DevSecOps, API security, and AI-driven protection to build resilient cloud-native apps.",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+    },
+    {
+        "titulo": "Critical Fortinet vulnerabilities fixed in FortiSandbox and FortiAuthenticator",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
-        "data": "2026-05-12",
-        "url": "https://securityaffairs.com/192015/malware/wannacry-the-ransomware-attack-that-changed-the-history-of-cybersecurity.html",
-        "resumo": "WannaCry showed how unpatched flaws and leaked cyber tools can cripple global systems, reshaping cybersecurity defenses worldwide. In memory of the day the digital world was shaken, but learned to fight back. The WannaCry ransomware attack represents one of t…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2017/05/WannaCrypt-ransomware.jpg"
+        "data": "2026-05-13",
+        "url": "https://securityaffairs.com/192047/security/critical-fortinet-vulnerabilities-fixed-in-fortisandbox-and-fortiauthenticator.html",
+        "resumo": "Fortinet patched critical flaws in FortiSandbox and FortiAuthenticator that could let attackers remotely execute code on unpatched systems. Fortinet addressed two critical vulnerabilities affecting FortiSandbox and FortiAuthenticator. The flaws could allow at…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2019/11/fortinet-logo.jpg"
     },
     {
-        "titulo": "‘Daybreak’: OpenAI’s Answer to Anthropic’s Project Glasswing Has Arrived",
-        "fonte": "Gizmodo.com",
-        "autor": "Mike Pearl",
-        "data": "2026-05-12",
-        "url": "https://gizmodo.com/daybreak-openais-answer-to-anthropics-project-glasswing-has-arrived-2000757349",
-        "resumo": "OpenAI seems to be trying for a much less scary vibe than Anthropic&#x27;s.",
-        "imagem": "https://gizmodo.com/app/uploads/2026/05/daybreak-1200x675.jpg"
+        "titulo": "OpenAI launches Daybreak, a cybersecurity platform built for defense teams",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-05-13",
+        "url": "https://cryptobriefing.com/openai-launches-daybreak-cybersecurity-platform/",
+        "resumo": "OpenAI&#x27;s Daybreak could redefine cybersecurity strategies, enhancing defense capabilities and potentially shifting industry standards. The post OpenAI launches Daybreak, a cybersecurity platform built for defense teams appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/12233401/openai-introduces-daybreak-cyber-platform-takes-on-anthropic-1-800x420.jpeg"
     },
     {
-        "titulo": "Building Secure AI Applications in the Era of Autonomous Systems",
-        "fonte": "C-sharpcorner.com",
-        "autor": "noreply@c-sharpcorner.com (Saurav Kumar)",
-        "data": "2026-05-12",
-        "url": "https://www.c-sharpcorner.com/article/building-secure-ai-applications-in-the-era-of-autonomous-systems/",
-        "resumo": "Explore AI security in autonomous systems. Learn to mitigate risks like prompt injection, data poisoning, and insecure plugins. Secure your AI applications now!",
-        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+        "titulo": "Google confirms hackers used AI to create zero-day exploit bypassing two-factor authentication",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-05-13",
+        "url": "https://cryptobriefing.com/google-ai-zero-day-exploit-2fa-bypass/",
+        "resumo": "AI-driven exploits lower the barrier for sophisticated cyberattacks, challenging current security measures and necessitating enhanced defenses. The post Google confirms hackers used AI to create zero-day exploit bypassing two-factor authentication appeared fi…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/12200910/hackers-used-ai-to-develop-first-known-zero-day-2fa-bypass-f-1-800x420.jpeg"
     },
     {
-        "titulo": "Agentic Workflows Explained: The Next Evolution of AI Automation",
-        "fonte": "C-sharpcorner.com",
-        "autor": "noreply@c-sharpcorner.com (Saurav Kumar)",
-        "data": "2026-05-12",
-        "url": "https://www.c-sharpcorner.com/article/agentic-workflows-explained-the-next-evolution-of-ai-automation/",
-        "resumo": "Explore agentic workflows: the future of AI automation. Learn how AI agents reason, adapt, and collaborate to revolutionize industries. Discover use cases and benefits!",
-        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+        "titulo": "Why is Anthropic in a massive funding round? #tech",
+        "fonte": "Alltoc.com",
+        "autor": "AllToc",
+        "data": "2026-05-13",
+        "url": "https://alltoc.com/tech/why-is-anthropic-in-a-massive-funding-round",
+        "resumo": "Anthropic’s funding talks target a nearly $1T valuation Anthropic is reportedly in talks to raise an enormous new round that would value the company at up to around $950 billion, with the amount of the potential financing described as somewhere between $30 bi…",
+        "imagem": "https://alltoc.com/cdn/1046/og.png"
     },
     {
-        "titulo": "How Enterprises Are Deploying Secure AI Agents at Scale",
-        "fonte": "C-sharpcorner.com",
-        "autor": "noreply@c-sharpcorner.com (Saurav Kumar)",
+        "titulo": "The End of the Artisanal Hack: How AI Industrialized Cybercrime",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
         "data": "2026-05-12",
-        "url": "https://www.c-sharpcorner.com/article/how-enterprises-are-deploying-secure-ai-agents-at-scale/",
-        "resumo": "Explore secure AI agent deployment at scale for enterprises. Learn about architecture, security challenges, and strategies for governance and compliance.",
-        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+        "url": "https://www.pymnts.com/cybersecurity/2026/end-artisanal-hack-how-ai-industrialized-cybercrime/",
+        "resumo": "The enterprise software industry has long held on to the traditional assumption that while bugs are common, the expertise to exploit them, particularly at scale, is rare. That scarcity has helped keep digital risk manageable, if never fully contained. But a n…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/05/cybersecurity-fraud-AI-software.jpeg"
     },
     {
-        "titulo": "AI-Driven Malware and Autonomous Hacking Explained",
-        "fonte": "C-sharpcorner.com",
-        "autor": "noreply@c-sharpcorner.com (Riya Patel)",
+        "titulo": "AWS Security Agent full repository code scanning feature now available in preview",
+        "fonte": "Amazon.com",
+        "autor": "Ayush Singh",
         "data": "2026-05-12",
-        "url": "https://www.c-sharpcorner.com/article/ai-driven-malware-and-autonomous-hacking-explained/",
-        "resumo": "Explore the rise of AI-driven malware and autonomous hacking. Understand the technologies, risks, defenses, and future of cybersecurity in the age of intelligent attacks.",
-        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+        "url": "https://aws.amazon.com/blogs/security/aws-security-agent-full-repository-code-scanning-feature-now-available-in-preview/",
+        "resumo": "Today, we’re excited to announce the preview release of full repository code review, a new capability in AWS Security Agent that performs deep, context-aware security analysis of your entire code base. AI-driven cybersecurity capabilities are advancing rapidl…",
+        "imagem": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/05/12/Social-code-scan-1260x630.jpg"
     },
     {
-        "titulo": "The Future of Software Engineering in the Age of AI Agents",
-        "fonte": "C-sharpcorner.com",
-        "autor": "noreply@c-sharpcorner.com (Riya Patel)",
+        "titulo": "Google thwarts hacker group’s AI-driven mass exploitation plan",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
         "data": "2026-05-12",
-        "url": "https://www.c-sharpcorner.com/article/the-future-of-software-engineering-in-the-age-of-ai-agents/",
-        "resumo": "Explore how AI agents are revolutionizing software engineering! Discover the future of development, AI&#x27;s impact on roles, and how to prepare for autonomous engineering.",
-        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+        "url": "https://cryptobriefing.com/google-thwarts-ai-driven-hacking-plan/",
+        "resumo": "AI&#x27;s role in cybersecurity is intensifying, necessitating enhanced defenses as attackers leverage AI for rapid, large-scale exploitation. The post Google thwarts hacker group’s AI-driven mass exploitation plan appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/12163538/google-thwarts-effort-hacker-group-use-ai-mass-exploitation--1-800x420.jpeg"
     },
     {
-        "titulo": "AI Agents in Cybersecurity: Threat Detection and Automated Defense",
-        "fonte": "C-sharpcorner.com",
-        "autor": "noreply@c-sharpcorner.com (Riya Patel)",
+        "titulo": "The Pentagon’s cyber rules leave MSPs as an attack vector",
+        "fonte": "Nextgov",
+        "autor": "Amy Edwards and Michael McLaughlin",
         "data": "2026-05-12",
-        "url": "https://www.c-sharpcorner.com/article/ai-agents-in-cybersecurity-threat-detection-and-automated-defense/",
-        "resumo": "Explore how AI agents revolutionize cybersecurity with automated threat detection, incident response, and proactive defense. Learn about real-world applications and benefits.",
-        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+        "url": "https://www.nextgov.com/ideas/2026/05/pentagons-cyber-rules-leave-msps-attack-vector/413495/",
+        "resumo": "COMMENTARY | Who actually holds the keys to military contractor information systems?",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/05/12/GettyImages_1284349529/open-graph.jpg"
     },
     {
-        "titulo": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
+        "titulo": "Healthcare CIOs Now Support 10x More Devices but Lack Unified IT-Biomed Resource Plans, Warns Info-Tech Research Group",
+        "fonte": "PRNewswire",
+        "autor": "",
         "data": "2026-05-12",
-        "url": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html",
-        "resumo": "American educational technology company Instructure, the parent company of Canvas, said it reached an &quot;agreement&quot; with a decentralized cybercrime extortion group after it breached its network and threatened to leak stolen information from thousands of schools…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq_FVhPeK2Y77CmHxc0azDelzWwpgSb4m8GZPLeJlsr2QvCZU5ChGQK37bJ_2XsGQRaNszalreV1iNyYDzeLt1I8iqafNTvFCPFQ0czKwX3Q6Q23TqdavunyJJsy6X8vxG_jSz__X5BnFZc4AIIqr-kd0XiNcYgx3UnYaahiViFKAywuQ98a7bbtCPnwgo/s1700-e365/ransom-breach.jpg"
-    },
-    {
-        "titulo": "Lyrie.ai Deploys Real-Time Zero-Day Tracking Across Global Enterprise Infrastructure",
-        "fonte": "Next Big Future",
-        "autor": "Brian Wang",
-        "data": "2026-05-12",
-        "url": "https://www.nextbigfuture.com/2026/05/lyrie-ai-deploys-real-time-zero-day-tracking-across-global-enterprise-infrastructure.html",
-        "resumo": "DUBAI, UAE, May 11th, 2026, TechnologyWire OTT Cybersecurity LLC, the company behind Lyrie.ai, today announced several milestones that together position the company as foundational security infrastructure for the agentic AI era: the deployment of a real-time …",
-        "imagem": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/05/Screenshot-2026-05-12-at-12.23.23-AM.jpg"
-    },
-    {
-        "titulo": "Google Discovers The First Known Case Of Hackers Using AI To Create A Zero-Day Exploit",
-        "fonte": "BGR",
-        "autor": "staff@bgr.com (Yoni Heisler)",
-        "data": "2026-05-12",
-        "url": "https://www.bgr.com/2170488/google-first-case-hackers-ai-create-zero-day-exploit/",
-        "resumo": "GTIG identified an AI-made zero-day exploit targeting 2FA in Python. The code was caught by a hallucinated CVSS score before a planned mass exploitation.",
-        "imagem": "https://www.bgr.com/img/gallery/google-discovers-the-first-known-case-of-hackers-using-ai-to-create-a-zero-day-exploit/l-intro-1778569898.jpg"
-    },
-    {
-        "titulo": "Half of Campus Tech Leaders Question AI’s ROI",
-        "fonte": "Inside Higher Ed",
-        "autor": "kathryn.palmer@insidehighered.com",
-        "data": "2026-05-12",
-        "url": "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/05/12/half-campus-tech-leaders-question-ais-roi",
-        "resumo": "Half of Campus Tech Leaders Question AI’s ROI kathryn.palmer… Tue, 05/12/2026 - 03:00 AM Our annual survey of CTOs found growing institutional reliance on artificial intelligence, coupled with concerns about value, cybersecurity and more. Byline(…",
-        "imagem": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-05/GettyImages-1502441951.jpg?itok=lumZMKL-"
-    },
-    {
-        "titulo": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-05-12",
-        "url": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
-        "resumo": "OpenAI has launched Daybreak, a new cybersecurity initiative that brings together frontier artificial intelligence (AI) model capabilities and Codex Security to help organizations identify and patch vulnerabilities before attackers find a way in using the sam…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLWuBkkGzJLNmcxzqkKdh6dI6X-juFjpMWr-k6VGVTL6G1XZUH1sna06RS5PQY0e4A1VpUjvR-dpWMCx0yQJBdjFyjnoyOek-ysMpU7cgWBkUHChyADdRozT1XHNIvUhU_ibCkggQaGESD7St4aCfyx4SWOfLjUSuoeWiJQmmb1EkimfKA27g_tVHdV-G-/s1700-e365/openai-daybreak.jpg"
-    },
-    {
-        "titulo": "How Hackers Are Using AI to Exploit Zero-Day Vulnerabilities",
-        "fonte": "C-sharpcorner.com",
-        "autor": "noreply@c-sharpcorner.com (Ananya Desai)",
-        "data": "2026-05-12",
-        "url": "https://www.c-sharpcorner.com/article/how-hackers-are-using-ai-to-exploit-zero-day-vulnerabilities/",
-        "resumo": "AI is weaponized! Learn how hackers exploit zero-day vulnerabilities with AI, the risks, and how developers can defend against these advanced cyberattacks.",
-        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
-    },
-    {
-        "titulo": "Google Down Today: Massive Search Outage Hits Millions Worldwide on May 12 2026",
-        "fonte": "Ibtimes.com.au",
-        "autor": "George Anton",
-        "data": "2026-05-12",
-        "url": "https://www.ibtimes.com.au/google-down-today-massive-search-outage-hits-millions-worldwide-may-12-2026-1868617",
-        "resumo": "NEW YORK — Google Search, the world&#x27;s most-used internet tool, suffered a widespread outage Tuesday, leaving millions of users staring at &quot;500 Internal Server Error&quot; messages and blank result pages as engineers scrambled to restore service.",
-        "imagem": "https://d.ibtimes.com.au/en/full/1893032/google.png"
-    },
-    {
-        "titulo": "Building Production-Ready AI Agents Using Multi-Agent Architecture",
-        "fonte": "C-sharpcorner.com",
-        "autor": "noreply@c-sharpcorner.com (Aarav Patel)",
-        "data": "2026-05-12",
-        "url": "https://www.c-sharpcorner.com/article/building-production-ready-ai-agents-using-multi-agent-architecture/",
-        "resumo": "Explore multi-agent architecture for building production-ready AI agents. Learn about system design, orchestration, memory, and real-world enterprise use cases.",
-        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
-    },
-    {
-        "titulo": "AI Agents Explained: Architecture, Workflow, and Real-World Examples",
-        "fonte": "C-sharpcorner.com",
-        "autor": "noreply@c-sharpcorner.com (Aarav Patel)",
-        "data": "2026-05-12",
-        "url": "https://www.c-sharpcorner.com/article/ai-agents-explained-architecture-workflow-and-real-world-examples/",
-        "resumo": "Explore AI Agents: architecture, workflow, and real-world examples. Learn how they reason, plan, and automate tasks, revolutionizing software development.",
-        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+        "url": "https://www.prnewswire.com/news-releases/healthcare-cios-now-support-10x-more-devices-but-lack-unified-it-biomed-resource-plans-warns-info-tech-research-group-302770034.html",
+        "resumo": "With biomedical, IoT, and imaging systems becoming networked endpoints, many health systems lack the staffing models, inventory visibility, and governance needed to manage risk and maintain clinical uptime. Info-Tech Research Group&#x27;s newly released blueprint,…",
+        "imagem": "https://mma.prnewswire.com/media/2978421/Info_Tech_Research_Group_Healthcare_CIOs_Now_Support_10x_More_De.jpg?p=facebook"
     }
 ]
