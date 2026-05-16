@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
+        "titulo": "Finding the blind spot: How Canonical hunts logic flaws with AI",
+        "fonte": "Ubuntu.com",
+        "autor": "Miha Purg (Miha Purg)",
+        "data": "2026-05-15",
+        "url": "https://ubuntu.com/blog/finding-the-blind-spot-how-canonical-hunts-logic-flaws-with-ai",
+        "resumo": "AI is accelerating and improving how security engineers find and fix vulnerabilities. A new tool developed and used at Canonical, called Redhound, has already uncovered three critical logic vunerabilites, paving the way for a more secure software landscape. […",
+        "imagem": "https://ubuntu.com/wp-content/uploads/9018/redhound_blog.png"
+    },
+    {
+        "titulo": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-05-14",
-        "url": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
-        "resumo": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework (CTFMON). The secur…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXt7ooDl2PwJY4nazAKdW9rmILsmosve2FZaO9usxTk_rkksEEvsLgY-uc_MErXvjvusuWjN7PWRM9KaRXB1OkL75gio7tcqpMsPZxaFNE9XDpYmARH3Dw_gGgddwWXHSt5VUJ-lb56F9bCVzTYghEo7qELWVv8K_W8V1BrWgssgqWkzPJxW6I31i_GyYf/s1700-e365/windowss.jpg"
+        "data": "2026-05-15",
+        "url": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
+        "resumo": "The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCE…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4XG5z00sF3uL0ZbhtZNiergQ9QVaZJydwP1pXEdPh2o29mwvTS2nPKRbxHftwnEJ1pvxMQS9TQknWqbovk-vW7BRPHUSsBhN4yL2iOwJnlmK7lzCdW9tJbKtKLbnfSZSWgfGlWQ6HO807gjR6dP61VylH1zxWtvfo3c7ui8aBecSjVz5miCG0jHoa8rUA/s1700-e365/cisa-exploit.png"
     },
     {
-        "titulo": "Trend Micro Reports Earnings Results for Q1 2026",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-05-14",
-        "url": "https://www.prnewswire.com/news-releases/trend-micro-reports-earnings-results-for-q1-2026-302772200.html",
-        "resumo": "Increase of 9% YoY in total company net sales*, driving U.S. $1.7 Billion in ARR** with operating margin exceeding plan at 21% Increase of 50% YoY in TrendAI Vision One™ annual recurring revenue (ARR), contributing to total enterprise ARR surpassing U.S. $1.3…",
-        "imagem": "https://mma.prnewswire.com/media/1988387/TM_Logo_Primary_2c_1200x255_Logo.jpg?p=facebook"
+        "titulo": "Pwn2Own Berlin 2026, Day One: $523,000 paid out, AI products fall",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-05-15",
+        "url": "https://securityaffairs.com/192183/hacking/pwn2own-berlin-2026-day-one-523000-paid-out-ai-products-fall.html",
+        "resumo": "Pwn2Own Berlin 2026 day one saw 22 entries and 24 zero-days across major software, with researchers earning $523,000 in total rewards. Day one of Pwn2Own Berlin 2026 featured 22 entries targeting widely used technologies, including browsers, operating systems…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/05/image-43.png"
     },
     {
-        "titulo": "ICO Publishes Five-Step Plan to Counter Emerging AI-Powered Attacks",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Phil Muncaster",
-        "data": "2026-05-14",
-        "url": "https://www.infosecurity-magazine.com/news/ico-steps-in-advice-handling-ai/",
-        "resumo": "The Information Commissioner’s Office has released new guidance on how to mitigate the risk of AI-powered attacks",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/bfdcea07-d888-4add-8917-7e8dfca4f037.jpg"
+        "titulo": "Why trust and resilience are foundations of Singapore’s digital maritime future",
+        "fonte": "ComputerWeekly.com",
+        "autor": "Melvin Tan",
+        "data": "2026-05-15",
+        "url": "https://www.computerweekly.com/opinion/Why-trust-and-resilience-are-foundations-of-Singapores-digital-maritime-future",
+        "resumo": "As the maritime industry embraces digitalisation, relying on flat shipboard networks is no longer viable. Here&#x27;s why operators must build ‘digital bulkheads’ to secure IT and OT environments, protect supply chains, and retain maritime talent",
+        "imagem": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/supply-chain-logistics-container-ship-plane-lorry-enanuchit-adobe.jpg"
     },
     {
-        "titulo": "New Fragnesia Linux flaw lets attackers gain root privileges",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-05-14",
-        "url": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
-        "resumo": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300) that allows attackers to run malicious code as root. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/10/31/Linux.jpg"
+        "titulo": "Access to frontier AI will soon be limited by economic and security constraints",
+        "fonte": "Antonleicht.me",
+        "autor": "Anton Leicht",
+        "data": "2026-05-15",
+        "url": "https://writing.antonleicht.me/p/cut-off",
+        "resumo": "Soon, access to frontier AI will be scarce and selective",
+        "imagem": "https://substackcdn.com/image/fetch/$s_!m84U!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae51e8c7-2e50-4488-ba26-cab93af39986_1280x925.jpeg"
     },
     {
-        "titulo": "AI models are getting better at replacing cybersecurity pros on certain tasks",
-        "fonte": "Theregister.com",
-        "autor": "Thomas Claburn",
-        "data": "2026-05-14",
-        "url": "https://www.theregister.com/ai-ml/2026/05/14/ai-models-are-getting-better-at-replacing-cybersecurity-pros-on-certain-tasks/5240065",
-        "resumo": "UK researchers find LLMs are learning to finish jobs faster and improving all the time",
-        "imagem": "https://image.theregister.com/5240104.jpg?imageId=5240104&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-    },
-    {
-        "titulo": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-05-14",
-        "url": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
-        "resumo": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability, discovered by depthfirst, is a heap buffer overflow issue impac…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhCvxtNv7UYYMCITB2HLsBgkN83LdRXcw0wmP9gMAfXeNpmJoOJKNIaQb55b-GLDeQHx-dUBkASGDYgstnvYAE5eFuwyzMSxY804fn56OaTsGlESOab9y-kFHJ-iV5iUlWrc5j27WLduUDhW6nRSjkv5tFMKZjDbbmDdk7_NMZ3y7sipHKy7t4XuMQ9YfG/s1700-e365/nn.gif"
-    },
-    {
-        "titulo": "Caveat Canvas: ShinyHunters Hacks the Education Sector",
-        "fonte": "CounterPunch",
-        "autor": "Binoy Kampmark",
-        "data": "2026-05-14",
-        "url": "https://www.counterpunch.org/2026/05/14/caveat-canvas-shinyhunters-hacks-the-education-sector/",
-        "resumo": "They make you do it – they, in this case, being the folly-fouled leaders of educational institutions – because it’s all in the name of organisational efficiency, productivity and purpose. Engage what is often erroneously called a Learning Management System (…",
-        "imagem": "https://www.counterpunch.org/wp-content/uploads/2026/05/Screenshot-2026-05-13-at-5.52.55-PM.png"
-    },
-    {
-        "titulo": "Adversaries Leverage AI for Vulnerability Exploitation, Augmented Operations, and Initial Access | Google Cloud Blog",
-        "fonte": "Google News",
-        "autor": "noblepayne",
-        "data": "2026-05-14",
-        "url": "https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access",
-        "resumo": "Explore GTIG&#x27;s 2026 report on how adversaries leverage AI for zero-day exploits, autonomous malware, and industrial-scale cyber operations.",
-        "imagem": "https://storage.googleapis.com/gweb-cloudblog-publish/images/03_ThreatIntelligenceWebsiteBannerIdeas_BA.max-2600x2600.png"
-    },
-    {
-        "titulo": "GreenboneOS: New High-Severity Linux Flaws: Copy Fail, Copy Fail 2, and Dirty Frag Offer Local Privilege Escalation to Root",
-        "fonte": "Greenbone.net",
-        "autor": "Joseph Lee",
-        "data": "2026-05-14",
-        "url": "https://www.greenbone.net/en/blog/copy-fail-dirty-frag-linux-lpe/",
-        "resumo": "Three new high-severity local privilege escalation (LPE) vulnerabilities affecting Linux were recently disclosed, creating significant global risk. Although user-level access is a prerequisite for their exploitation, the new CVEs allow command execution as th…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Google warns of first known case of AI-assisted hacking",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-05-13",
-        "url": "https://cryptobriefing.com/google-ai-assisted-hacking-zero-day/",
-        "resumo": "AI-assisted hacking could significantly increase the frequency and scale of cyberattacks, challenging current cybersecurity defenses. The post Google warns of first known case of AI-assisted hacking appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/13192013/ai-assisted-hacking-is-already-here-google-warns-1-800x420.jpeg"
-    },
-    {
-        "titulo": "Microsoft’s agentic security system MDASH uncovers four critical Windows RCE flaws",
+        "titulo": "PwC expands Anthropic alliance, will train 30,000 staff on Claude",
         "fonte": "SiliconANGLE News",
         "autor": "Duncan Riley",
-        "data": "2026-05-13",
-        "url": "https://siliconangle.com/2026/05/13/microsofts-agentic-security-system-mdash-uncovers-four-critical-windows-rce-flaws/",
-        "resumo": "Microsoft Corp. today detailed a new artificial intelligence-powered vulnerability discovery system that uncovered 16 previously unknown flaws in Windows networking and authentication components, including four critical remote code execution bugs patched in t…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/microsoftmdash.png"
+        "data": "2026-05-14",
+        "url": "https://siliconangle.com/2026/05/14/pwc-expands-anthropic-alliance-will-train-30000-staff-claude/",
+        "resumo": "PricewaterhouseCoopers LLP and Anthropic PBC today announced a major expansion of their alliance, with the consulting giant set to roll out Claude Code and Claude Cowork across its workforce and train 30,000 U.S. professionals on the artificial intelligence c…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/pwc.png"
     },
     {
-        "titulo": "Anthropic rejects Chinese request for access to advanced AI model Mythos",
+        "titulo": "Bring out your dead: How agentic AI for cybersecurity helps you rid your cloud of forgotten, risky assets",
+        "fonte": "Tenable.com",
+        "autor": "Brinton Taylor",
+        "data": "2026-05-14",
+        "url": "https://www.tenable.com/blog/agentic-ai-cloud-security-zombie-assets",
+        "resumo": "Tenable Hexa AI eliminates “zombie” cloud infrastructure, helping you reduce risk and make a “killing” on cost reduction.Key takeaways As AI accelerates cloud growth, zombie cloud assets multiply in your environment. You need agentic AI to prevent a …",
+        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/How%20agentic%20AI%20for%20cybersecurity%20helps%20you%20rid%20your%20cloud%20of%20forgotten%2C%20risky%20assets.png?itok=Yh8Wa3wb"
+    },
+    {
+        "titulo": "GregoAI earns $250,000 bounty through autonomous exploit discovery",
         "fonte": "Crypto Briefing",
         "autor": "Editorial Team",
-        "data": "2026-05-13",
-        "url": "https://cryptobriefing.com/anthropic-rejects-china-mythos-ai-access/",
-        "resumo": "The rejection highlights escalating US-China tech tensions, potentially spurring interest in decentralized AI and impacting global cybersecurity dynamics. The post Anthropic rejects Chinese request for access to advanced AI model Mythos appeared first on Cryp…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/13174542/anthropic-says-chinese-ai-firms-used-16-million-claude-queri-1-800x420.jpeg"
+        "data": "2026-05-14",
+        "url": "https://cryptobriefing.com/gregoai-250k-bounty-autonomous-exploit/",
+        "resumo": "AI-driven security tools like GregoAI could revolutionize cybersecurity by autonomously identifying vulnerabilities, reducing human error. The post GregoAI earns $250,000 bounty through autonomous exploit discovery appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14170717/ai-security-startup-grego-ai-debuts-claims-record-250-000-bo-1-800x420.png"
     },
     {
-        "titulo": "New BitLocker vulnerability exposes Windows 11 users to system breach",
-        "fonte": "MakeUseOf",
-        "autor": "Quentyn Kennemer",
-        "data": "2026-05-13",
-        "url": "https://www.makeuseof.com/bitlocker-newly-discovered-backdoor-way-to-protect-your-data-now/",
-        "resumo": "A newly discovered BitLocker exploit, targeting Windows 11, allows attackers to gain unrestricted access to file systems and manipulate system service",
-        "imagem": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/02/manage-bitlocker-on-windows.jpg?w=1600&h=900&fit=crop"
+        "titulo": "You&#x27;re not going to patch your way out of this - PSW #926",
+        "fonte": "Libsyn.com",
+        "autor": "",
+        "data": "2026-05-14",
+        "url": "https://sites.libsyn.com/18678/youre-not-going-to-patch-your-way-out-of-this-psw-926",
+        "resumo": "This week: New Yellowkey bitlocker bypass and what it means for you Hackers can run you over with a robot lawnmower FCC says new things about routers, again Glitching with AI almost no false positives AI t…",
+        "imagem": "http://assets.libsyn.com/content/201963330?height=250&width=250&overlay=true"
     },
     {
-        "titulo": "Making deals with Canvas cyberhackers a dangerous tactic, say experts",
-        "fonte": "ABC News (AU)",
-        "autor": "Monty Jacka",
-        "data": "2026-05-13",
-        "url": "https://www.abc.net.au/news/2026-05-14/instructure-dealing-with-canvas-cyberhackers-dangerous-tactic/106674686",
-        "resumo": "The company that runs Canvas has painted a target on its back for future extortion attempts by making a deal with hackers, according to cybersecurity experts.",
-        "imagem": "https://live-production.wcms.abc-cdn.net.au/0677389f3f44887ee189e80649175743?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=97&width=862&height=485&imformat=generic"
+        "titulo": "Providence’s Ratliff Says Merging Cybersecurity and Emergency Management Builds Stronger Cyber Resiliency",
+        "fonte": "Healthsystemcio.com",
+        "autor": "Anthony Guerra, Anthony Guerra | Veteran Healthcare IT Journalist",
+        "data": "2026-05-14",
+        "url": "https://healthsystemcio.com/2026/05/14/cyber-resiliency-emergency-management/",
+        "resumo": "Third-party attacks against health systems jumped from monthly to weekly, outpacing how most cyber programs are built. Inside: how Providence redesigned the CISO role to absorb emergency management and what shifted when the team walked the NICU floor. Source:…",
+        "imagem": "https://healthsystemcio.com/wp-content/uploads/2026/05/ratliff_mike.jpeg"
     },
     {
-        "titulo": "Microsoft&#x27;s MDASH AI Security System Finds 16 Windows Vulnerabilities",
-        "fonte": "PCMag.com",
-        "autor": "Michael Kan",
-        "data": "2026-05-13",
-        "url": "https://me.pcmag.com/en/ai/37108/microsofts-mdash-ai-security-system-finds-16-windows-vulnerabilities",
-        "resumo": "MDASH relies on more than 100 specialized agents to find software bugs. It&#x27;s being used internally, but Microsoft is also previewing the AI system with select enterprise customers. Microsoft is responding to the rise of AI programs that can hunt down security…",
-        "imagem": "https://sm.pcmag.com/t/pcmag_me/news/m/microsofts/microsofts-mdash-ai-security-system-finds-16-windows-vulnera_n6sb.1200.jpg"
+        "titulo": "YellowKey Tool Bypasses Windows 11 BitLocker Using Only a USB Stick",
+        "fonte": "Hot Hardware",
+        "autor": "Chris Harper",
+        "data": "2026-05-14",
+        "url": "https://hothardware.com/news/yellowkey-tool-bypasses-windows-11-bitlocker-using-only-a-usb-stick",
+        "resumo": "Nightmare-Eclipse, a cybersecurity researcher previously known for a controversial reveal of three Windows Defender zero-day exploits seemingly rejected by Microsoft for petty reasons, has followed up with information regarding a BitLocker bypass vulnerabilit…",
+        "imagem": "https://hothardware.com/contentimages/NewsItem/70604/content/16x9_2133x1200_highres-yellowkey.jpg"
     },
     {
-        "titulo": "Microsoft&#x27;s MDASH AI Security System Finds 16 Windows Vulnerabilities",
-        "fonte": "PCMag.com",
-        "autor": "Michael Kan",
-        "data": "2026-05-13",
-        "url": "https://uk.pcmag.com/ai/164930/microsofts-mdash-ai-security-system-finds-16-windows-vulnerabilities",
-        "resumo": "MDASH relies on more than 100 specialized agents to find software bugs. It&#x27;s being used internally, but Microsoft is also previewing the AI system with select enterprise customers. Microsoft is responding to the rise of AI programs that can hunt down security…",
-        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/m/microsofts/microsofts-mdash-ai-security-system-finds-16-windows-vulnera_d2jz.1200.jpg"
+        "titulo": "U.S. CISA adds a flaw in Cisco Catalyst SD-WAN to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-05-14",
+        "url": "https://securityaffairs.com/192157/hacking/u-s-cisa-adds-a-flaw-in-cisco-catalyst-sd-wan-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a flaw in Cisco Catalyst SD-WAN to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a flaw in Cisco Catalyst SD-WAN, track…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
     },
     {
-        "titulo": "Mistral Plans Cybersecurity Tool for Banks Cut off From Mythos",
+        "titulo": "Untrained AI agents are easy security targets — they don’t know bad people exist, says KnowBe4 CEO",
+        "fonte": "SiliconANGLE News",
+        "autor": "Kelly Knight",
+        "data": "2026-05-14",
+        "url": "https://siliconangle.com/2026/05/14/dual-threat-landscape-evolution-digital-workers-kb4con/",
+        "resumo": "The dual-threat landscape of enterprise AI security is coming into focus. The same autonomous agents transforming workforce productivity are also expanding the attack surface — and most organizations have no governance framework to manage either risk. As a ma…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/IMG_9653.jpg"
+    },
+    {
+        "titulo": "The time of much patching is coming",
+        "fonte": "Talosintelligence.com",
+        "autor": "Martin Lee",
+        "data": "2026-05-14",
+        "url": "https://blog.talosintelligence.com/the-time-of-much-patching-is-coming/",
+        "resumo": "In this week’s newsletter, Martin reflects on what the next iteration of AI tools means for vulnerability discovery and our ability to manage large-scale patch releases.",
+        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/05/threat_source-1.jpg"
+    },
+    {
+        "titulo": "Microsoft Beats Anthropic and OpenAI on Key Cybersecurity Test",
         "fonte": "pymnts.com",
         "autor": "PYMNTS",
-        "data": "2026-05-13",
-        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/mistral-plans-cybersecurity-tool-for-banks-cut-off-from-mythos/",
-        "resumo": "French AI startup Mistral is reportedly working on an alternative to Anthropic’s Mythos. As Bloomberg News reported Wednesday (May 13), the company is in talks with banks in Europe about an answer to the American artificial intelligence (AI) model, which is s…",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2025/12/Mistral-AI1.jpg"
+        "data": "2026-05-14",
+        "url": "https://www.pymnts.com/cybersecurity/2026/microsoft-beats-anthropic-and-openai-on-key-cybersecurity-test/",
+        "resumo": "A new Microsoft artificial intelligence (AI) system has reportedly outperformed Anthropic in a cybersecurity test. The system, dubbed “MDASH,” was introduced this week along with the revelation of 16 new vulnerabilities it uncovered in various versions of Win…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2025/10/Microsoft-.jpg"
     },
     {
-        "titulo": "AI-driven cyberattacks will start to be the &#x27;new norm&#x27; in months, Palo Alto warns",
-        "fonte": "CNBC",
-        "autor": "Samantha Subin",
-        "data": "2026-05-13",
-        "url": "https://www.cnbc.com/2026/05/13/palo-alto-ai-cyberattacks-mythos-gpt.html",
-        "resumo": "The rise of increasingly sophisticated AI models is putting pressure on cybersecurity teams to step up their defenses for newer and faster cyberattacks.",
-        "imagem": "https://image.cnbcfm.com/api/v1/image/108002948-1720495491966-gettyimages-970296524-dsc_1613.jpeg?v=1735199826&w=1920&h=1080"
+        "titulo": "Apple Alerted to macOS Security Vulnerability Uncovered With AI Tool",
+        "fonte": "MacRumors",
+        "autor": "Joe Rossignol",
+        "data": "2026-05-14",
+        "url": "https://www.macrumors.com/2026/05/14/macos-security-vulnerability-found-with-ai/",
+        "resumo": "Anthropic recently announced Project Glasswing, an initiative that enables tech companies like Apple to use its new frontier AI model Claude Mythos Preview to find security vulnerabilities across operating systems and web browsers. The Wall Street Journa…",
+        "imagem": "https://images.macrumors.com/t/MUVkpMi5h9zMuX5jf9TzssgfLf4=/1600x/article-new/2026/04/macOS-Tahoe-and-iPhone.jpg"
     },
     {
-        "titulo": "‘No time to waste’ in prepping governments for AI cyber threats, top Dem lawmaker says",
-        "fonte": "Route-fifty.com",
-        "autor": "Chris Teale",
-        "data": "2026-05-13",
-        "url": "https://www.route-fifty.com/cybersecurity/2026/05/no-time-waste-prepping-governments-ai-cyber-threats-top-dem-lawmaker-says/413512/",
-        "resumo": "Senate Minority Leader Chuck Schumer called on the Department of Homeland Security to work closer with states and localities, and bemoaned the end of federal funding to an information-sharing center.",
-        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/05/13/20260513_Schumer_Anna_Moneymaker-2/open-graph.jpg"
+        "titulo": "BTIG Hikes CrowdStrike Price Target to $621: Platform Consolidation Story Just Got Louder",
+        "fonte": "24/7 Wall St.",
+        "autor": "David Moadel",
+        "data": "2026-05-14",
+        "url": "https://247wallst.com/investing/2026/05/14/btig-hikes-crowdstrike-price-target-to-621-platform-consolidation-story-just-got-louder/",
+        "resumo": "BTIG analyst Gray Powell raised the firm’s price target on CrowdStrike (NASDAQ:CRWD) to $621 from $499, maintaining a Buy rating ahead of the company’s Q1...",
+        "imagem": "https://s.yimg.com/ny/api/res/1.2/zpPTgH7Wjh4Sd_Vs2DpkiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/24_7_wall_st__718/efbf111045ced5fce439f15e13fa081e"
     },
     {
-        "titulo": "OpenAI’s Daybreak Promises To Improve AppSec But Introduces A New Pricing Model: Five Buyer-Side Implications For CISOs",
-        "fonte": "Forrester.com",
-        "autor": "Jeff Pollard",
-        "data": "2026-05-13",
-        "url": "https://www.forrester.com/blogs/openais-daybreak-promises-to-improve-appsec-but-introduces-a-new-pricing-model-five-buyer-side-implications-for-cisos/",
-        "resumo": "OpenAI recently announced Daybreak, its vision for making agentic application security faster and more capable. While is promising, Daybreak will also make security more expensive per unit of work. In this model, customers will pay for tokens and multi-agent …",
-        "imagem": "https://go.forrester.com/wp-content/uploads/2026/05/Blog-daybreak-feat-image-JP-3.jpg"
+        "titulo": "Kazuar: Anatomy of a nation-state botnet",
+        "fonte": "Microsoft.com",
+        "autor": "Microsoft Threat Intelligence",
+        "data": "2026-05-14",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/14/kazuar-anatomy-of-a-nation-state-botnet/",
+        "resumo": "Kazuar, a sophisticated malware family attributed to the Russian state actor Secret Blizzard, has been under constant development for years and continues to evolve in support of espionage-focused operations. Over time, Kazuar has expanded from a relatively tr…",
+        "imagem": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/Kazuar-featured-image-2.png"
+    },
+    {
+        "titulo": "Combating the new wave of AI crimes and threats",
+        "fonte": "Techtarget.com",
+        "autor": "Nihad Hassan",
+        "data": "2026-05-14",
+        "url": "https://www.techtarget.com/searchenterpriseai/tip/Combating-the-new-wave-of-AI-crimes-and-threats",
+        "resumo": "Attackers of any skill level can now use open source tools to target businesses for AI crimes. Here&#x27;s how to cover organizations&#x27; expanded attack surface and prevent disaster.",
+        "imagem": "https://www.techtarget.com/rms/onlineimages/security_a292905838.jpg"
+    },
+    {
+        "titulo": "Fleet launches autonomous endpoint management platform to counter AI-accelerated exploits",
+        "fonte": "SiliconANGLE News",
+        "autor": "Duncan Riley",
+        "data": "2026-05-14",
+        "url": "https://siliconangle.com/2026/05/14/fleet-launches-autonomous-endpoint-management-platform-counter-ai-accelerated-exploits/",
+        "resumo": "Open device management company Fleet Device Management Inc. today announced its new autonomous endpoint management platform. The company says it shrinks enterprise patch cycles from the industry average of 55 to 94 days to under two weeks and, in many cases, …",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/fleet.png"
     }
 ]
