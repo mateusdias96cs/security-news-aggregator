@@ -1,5 +1,50 @@
 [
     {
+        "titulo": "A student with a laptop and a radio stopped four high-speed trains. The crypto keys hadn’t been changed in 19 years.",
+        "fonte": "The Next Web",
+        "autor": "Ana Maria Constantin",
+        "data": "2026-05-17",
+        "url": "https://thenextweb.com/news/taiwan-high-speed-rail-hacked-student-tetra-sdr/",
+        "resumo": "At 23:23 on 5 April, a 23-year-old university student in Taichung transmitted a falsified General Alarm signal into the Taiwan High Speed Rail Corporation’s internal radio system. Four trains travelling at up to 300 km/h received the highest-priority emergenc…",
+        "imagem": "https://media.thenextweb.com/2026/05/taiwan-high-speed-rail-hacked-student-tetra-sdr.avif"
+    },
+    {
+        "titulo": "U.S. CISA adds a flaw in Microsoft Exchange Server to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-05-16",
+        "url": "https://securityaffairs.com/192240/hacking/u-s-cisa-adds-a-flaw-in-microsoft-exchange-server-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a flaw in Microsoft Exchange Server to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a flaw in Microsoft Exchange Serve…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "The Lawful Access Two-Headed Surveillance Monster: How Bill C-22 Went Off the Rails",
+        "fonte": "Michaelgeist.ca",
+        "autor": "Michael Geist",
+        "data": "2026-05-16",
+        "url": "https://www.michaelgeist.ca/2026/05/the-lawful-access-two-headed-surveillance-monster-how-bill-c-22-went-off-the-rails/",
+        "resumo": "The government’s plans for lawful access has gone off the rails. In recent days, Signal has warned it would pull out of the Canadian market rather than comply with Bill C-22. Windscribe, the Toronto-headquartered VPN provider, has said it would relocate its h…",
+        "imagem": "https://www.michaelgeist.ca/wp-content/uploads/2026/05/anandasangaree.png"
+    },
+    {
+        "titulo": "Europe built sovereign clouds to escape US control. Then forgot about the processors",
+        "fonte": "Theregister.com",
+        "autor": "Kim Loohuis",
+        "data": "2026-05-16",
+        "url": "https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735",
+        "resumo": "Intel ME and AMD PSP: The silicon layer nobody certifies",
+        "imagem": "https://image.theregister.com/5237766.jpg?imageId=5237766&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+        "titulo": "Four OpenClaw flaws let attackers steal data, escalate privileges, and plant backdoors through the agent’s own sandbox",
+        "fonte": "The Next Web",
+        "autor": "Ana Maria Constantin",
+        "data": "2026-05-16",
+        "url": "https://thenextweb.com/news/openclaw-claw-chain-vulnerabilities-sandbox-escape/",
+        "resumo": "Cybersecurity researchers at Cyera have disclosed four vulnerabilities in OpenClaw that, when chained together, allow an attacker to steal sensitive data, escalate privileges, and establish persistent control over a compromised host. The flaws, collectively d…",
+        "imagem": "https://media.thenextweb.com/2026/05/openclaw-claw-chain-vulnerabilities-sandbox-escape.avif"
+    },
+    {
         "titulo": "Attack of the AI lawnmowers? Yarbo forced to patch products after experts reveal method to remotely hijack thousands of devices",
         "fonte": "TechRadar",
         "autor": "Efosa Udinmwen",
@@ -133,50 +178,5 @@
         "url": "https://www.techradar.com/pro/ai-is-having-its-ford-t-moment-as-zero-day-assembly-lines-appear",
         "resumo": "How exploits used to be built and how AI is rewriting those rules",
         "imagem": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg"
-    },
-    {
-        "titulo": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-05-15",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
-        "resumo": "On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS) while targeting Outlook on the web users. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/05/15/Microsoft-Exchange.jpg"
-    },
-    {
-        "titulo": "Finding the blind spot: How Canonical hunts logic flaws with AI",
-        "fonte": "Ubuntu.com",
-        "autor": "Miha Purg (Miha Purg)",
-        "data": "2026-05-15",
-        "url": "https://ubuntu.com/blog/finding-the-blind-spot-how-canonical-hunts-logic-flaws-with-ai",
-        "resumo": "AI is accelerating and improving how security engineers find and fix vulnerabilities. A new tool developed and used at Canonical, called Redhound, has already uncovered three critical logic vunerabilites, paving the way for a more secure software landscape. […",
-        "imagem": "https://ubuntu.com/wp-content/uploads/9018/redhound_blog.png"
-    },
-    {
-        "titulo": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-05-15",
-        "url": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
-        "resumo": "The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCE…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4XG5z00sF3uL0ZbhtZNiergQ9QVaZJydwP1pXEdPh2o29mwvTS2nPKRbxHftwnEJ1pvxMQS9TQknWqbovk-vW7BRPHUSsBhN4yL2iOwJnlmK7lzCdW9tJbKtKLbnfSZSWgfGlWQ6HO807gjR6dP61VylH1zxWtvfo3c7ui8aBecSjVz5miCG0jHoa8rUA/s1700-e365/cisa-exploit.png"
-    },
-    {
-        "titulo": "Pwn2Own Berlin 2026, Day One: $523,000 paid out, AI products fall",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-05-15",
-        "url": "https://securityaffairs.com/192183/hacking/pwn2own-berlin-2026-day-one-523000-paid-out-ai-products-fall.html",
-        "resumo": "Pwn2Own Berlin 2026 day one saw 22 entries and 24 zero-days across major software, with researchers earning $523,000 in total rewards. Day one of Pwn2Own Berlin 2026 featured 22 entries targeting widely used technologies, including browsers, operating systems…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/05/image-43.png"
-    },
-    {
-        "titulo": "Why trust and resilience are foundations of Singapore’s digital maritime future",
-        "fonte": "ComputerWeekly.com",
-        "autor": "Melvin Tan",
-        "data": "2026-05-15",
-        "url": "https://www.computerweekly.com/opinion/Why-trust-and-resilience-are-foundations-of-Singapores-digital-maritime-future",
-        "resumo": "As the maritime industry embraces digitalisation, relying on flat shipboard networks is no longer viable. Here&#x27;s why operators must build ‘digital bulkheads’ to secure IT and OT environments, protect supply chains, and retain maritime talent",
-        "imagem": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/supply-chain-logistics-container-ship-plane-lorry-enanuchit-adobe.jpg"
     }
 ]
