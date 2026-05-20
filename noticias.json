@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "$1.98 Bn Penetration Testing as a Service Market Global Forecast to 2031 with NetSPI, Synack, Veracode, Rootshell Security, Intigriti, EdgeScan, GuidePoint Security, InterVision Leading",
-        "fonte": "GlobeNewswire",
-        "autor": "Research and Markets",
-        "data": "2026-05-18",
-        "url": "https://www.globenewswire.com/news-release/2026/05/18/3296455/28124/en/1-98-Bn-Penetration-Testing-as-a-Service-Market-Global-Forecast-to-2031-with-NetSPI-Synack-Veracode-Rootshell-Security-Intigriti-EdgeScan-GuidePoint-Security-InterVision-Leading.html",
-        "resumo": "The Penetration Testing as a Service (PTaaS) market is poised for substantial growth, projected to expand from USD 0.72 billion in 2026 to USD 1.98 billion by 2031, at a CAGR of 22.6%. SMEs are expected to witness a higher growth rate than large enterprises, …",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/b23b2c0f-5e18-4fc4-845d-51e02b2ee8f3"
+        "titulo": "India’s insurance regulator orders firms to strengthen defences against AI-powered attacks by May 22",
+        "fonte": "MediaNama.com",
+        "autor": "Prabhanu Kumar Das",
+        "data": "2026-05-19",
+        "url": "https://www.medianama.com/2026/05/223-irdai-cybersecurity-warning-ai-threats/",
+        "resumo": "IRDAI has directed insurers to review their cybersecurity posture and submit an action taken report on AI cyber readiness by May 22. The post India’s insurance regulator orders firms to strengthen defences against AI-powered attacks by May 22 appeared first o…",
+        "imagem": "https://www.medianama.com/wp-content/uploads/2021/02/Insurance.png"
     },
     {
-        "titulo": "Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE",
-        "fonte": "Securityweek.com",
-        "autor": "Ionut Arghire",
-        "data": "2026-05-18",
-        "url": "https://www.securityweek.com/researcher-drops-miniplasma-windows-exploit-for-unpatched-2020-cve/",
-        "resumo": "The researcher dropped the MiniPlasma exploit that uses the original proof-of-concept (PoC) code targeting the bug. The post Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2024/10/Windows-Kernel-BSOD.jpg"
+        "titulo": "Hackers Actively Exploit ‘Nginx Rift’ Vulnerability Affecting NGINX, F5 Products",
+        "fonte": "HackRead",
+        "autor": "Deeba Ahmed",
+        "data": "2026-05-19",
+        "url": "https://hackread.com/hackers-exploit-nginx-rift-vulnerability-nginx-f5-products/",
+        "resumo": "Hackers are actively exploiting the Nginx Rift vulnerability affecting NGINX and F5 products, exposing servers to denial-of-service attacks.",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/05/hackers-exploit-nginx-rift-vulnerability-nginx-f5-products.jpg"
     },
     {
-        "titulo": "OpenAI and Anthropic are kicking off a mad cybersecurity dash",
-        "fonte": "Business Insider",
-        "autor": "Stephen Council",
-        "data": "2026-05-18",
-        "url": "https://www.businessinsider.com/openai-and-anthropic-kick-off-cybersecurity-frenzy-2026-5",
-        "resumo": "Mythos and GPT-5.5 add to cybersecurity worries that OpenAI and Anthropic had already sparked with AI coding&#x27;s popularity.",
-        "imagem": "https://i.insider.com/6a079f3a94eb4c909fb2d24f?width=1200&format=jpeg"
+        "titulo": "Ubuntu Core 26 targets IoT devices and embedded systems, offers up to 15 years of security maintenance",
+        "fonte": "CNX Software",
+        "autor": "Jean-Luc Aufranc (CNXSoft)",
+        "data": "2026-05-19",
+        "url": "https://www.cnx-software.com/2026/05/19/ubuntu-core-26-targets-iot-devices-and-embedded-systems-offers-up-to-15-years-of-security-maintenance/",
+        "resumo": "Canonical has just introduced Ubuntu Core 26, based on the recently-released Ubuntu 26.04 LTS and designed for IoT devices and embedded systems, with precise Linux builds, optimized OTA updates, live kernel patching, and enhanced hardware-backed protection fo…",
+        "imagem": "https://www.cnx-software.com/wp-content/uploads/2026/05/Ubuntu-Core-26.jpg"
     },
     {
-        "titulo": "Bank of England, FCA and Treasury Raise Alarm Over Frontier AI",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Phil Muncaster",
-        "data": "2026-05-18",
-        "url": "https://www.infosecurity-magazine.com/news/bank-england-fca-treasury-alarm/",
-        "resumo": "The UK’s financial authorities have set expectations for the sector on cybersecurity and operational resilience",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/4ee96e8a-a4e3-4267-b43a-3ad2435c4ec2.jpg"
-    },
-    {
-        "titulo": "Verus-Ethereum Bridge Hacked for $11.6M",
-        "fonte": "Bitcoinfoundation.org",
-        "autor": "Nana K.",
-        "data": "2026-05-18",
-        "url": "https://bitcoinfoundation.org/news/crimes-and-fraud-news/verus-hacked/",
-        "resumo": "Analysts suspect the hacker used a forged cross-chain message or bypassed the verification logic in the contract. The DeFi protocol Verus has suffered an attack... The post Verus-Ethereum Bridge Hacked for $11.6M appeared first on Bitcoin Foundation.",
-        "imagem": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/ChatGPT-Image-24-апр.-2026-г.-14_00_24-1.webp"
-    },
-    {
-        "titulo": "Chaotic Eclipse discloses MiniPlasma zero-day, suggesting a missing or undone 2020 Windows security fix",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-05-18",
-        "url": "https://securityaffairs.com/192325/hacking/chaotic-eclipse-discloses-miniplasma-zero-day-suggesting-a-missing-or-undone-2020-windows-security-fix.html",
-        "resumo": "MiniPlasma: a Windows SYSTEM privilege escalation believed patched in 2020 (CVE-2020-17103) is still fully working on every patched Windows 11. Once again, security researcher Chaotic Eclipse has released a proof-of-concept exploit for a new Windows privilege…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/05/image-51.png"
-    },
-    {
-        "titulo": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-05-18",
-        "url": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
-        "resumo": "A recently patched local privilege escalation vulnerability in the Linux kernel&#x27;s rxgk module now has a proof-of-concept exploit that allows attackers to gain root access on some Linux systems. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2024/05/31/Linux.jpg"
-    },
-    {
-        "titulo": "Mike Milinkovich: Frontier AI and the next phase of software vulnerability defence",
-        "fonte": "Eclipse-foundation.blog",
+        "titulo": "The quest for greater tech independence",
+        "fonte": "We Live Security",
         "autor": "",
-        "data": "2026-05-18",
-        "url": "https://eclipse-foundation.blog/2026/05/18/the-next-phase-of-software-vulnerability-defence/",
-        "resumo": "As advanced AI lowers the cost of discovering and exploiting software vulnerabilities, Europe must treat open source security and rapid patch deployment as critical resilience infrastructure Context. Frontier AI systems have crossed an important threshold …",
-        "imagem": "https://eclipse-foundation.blog/wp-content/uploads/2017/09/c8a6dc4c-19f2-4e84-86c2-6e16cd4b801b.jpg?w=200"
+        "data": "2026-05-19",
+        "url": "https://www.welivesecurity.com/en/cybersecurity/quest-greater-tech-independence/",
+        "resumo": "A complete decoupling from US technology is neither realistic nor necessary, but the changing environment does require nations and companies to reassess their relationships and dependencies",
+        "imagem": "https://web-assets.esetstatic.com/wls/2026/05-26/tech-sovereignty-independence.jpg"
     },
     {
-        "titulo": "Tulane University Data Breach: Edelson Lechtzin LLP Launches Investigation Into Exposure of Personal Information",
+        "titulo": "HDFC AMC notifies cybersecurity incident on IT infrastructure, says unlikely to affect business",
+        "fonte": "MediaNama.com",
+        "autor": "Prabhanu Kumar Das",
+        "data": "2026-05-19",
+        "url": "https://www.medianama.com/2026/05/223-hdfc-amc-notifies-cybersecurity-incident-it-infrastructure-unlikely-affect-business/",
+        "resumo": "HDFC AMC reported a cybersecurity incident to BSE and NSE after an anonymous source claimed access to its IT infrastructure. Operations remain unaffected, even as SEBI tightens cybersecurity rules amid rising AI threats. The post HDFC AMC notifies cybersecuri…",
+        "imagem": "https://www.medianama.com/wp-content/uploads/2024/09/cybersecurity.jpg"
+    },
+    {
+        "titulo": "Project Glasswing partners can now share Mythos findings beyond the programme",
+        "fonte": "The Next Web",
+        "autor": "Ana-Maria Stanciuc",
+        "data": "2026-05-19",
+        "url": "https://thenextweb.com/news/anthropic-mythos-glasswing-partners-share-disclosure/",
+        "resumo": "The Project Glasswing partners can now pass vulnerability findings to other security teams, industry bodies, regulators, open-source maintainers and the press, under responsible-disclosure norms. The defender pool just got wider. Anthropic said on Monday that…",
+        "imagem": "https://media.thenextweb.com/2026/05/Claude-Mythos.avif"
+    },
+    {
+        "titulo": "Cybersecurity jobs available right now: May 19, 2026",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-05-19",
+        "url": "https://www.helpnetsecurity.com/2026/05/19/cybersecurity-jobs-available-right-now-may-19-2026/",
+        "resumo": "CISO DataFence | Israel | Hybrid – View job details As a CISO, you will develop security roadmaps, compliance plans, risk registers, policies, and control implementation plans while leading audit and regulatory compliance activities. You will manage client pr…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140416/cybersecurity_jobs-1-1500.webp"
+    },
+    {
+        "titulo": "South Korean Startup Captures Workers Movement To Train AI",
+        "fonte": "Ponoko.com",
+        "autor": "Robin Mitchell",
+        "data": "2026-05-19",
+        "url": "https://www.ponoko.com/blog/ponoko/south-korean-startup-captures-workers-movement-to-train-ai/",
+        "resumo": "Watching skilled hotel staff fold napkins and polish glassware while wearing motion-capture gear may seem futuristic, yet, it shows a serious shift in modern robotics. South Korea’s RLWRLD is building a real-world data library from experienced workers, aiming…",
+        "imagem": "https://www.ponoko.com/blog/wp-content/uploads/2026/05/0-2.jpg"
+    },
+    {
+        "titulo": "‘The Worst Leak That I’ve Witnessed’: U.S. Cybersecurity Agency Leaves Its Digital Keys Out in Public on GitHub",
+        "fonte": "Gizmodo.com",
+        "autor": "Mike Pearl",
+        "data": "2026-05-19",
+        "url": "https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330",
+        "resumo": "Passwords were stored as plain text in a public GitHub repository.",
+        "imagem": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg"
+    },
+    {
+        "titulo": "Advanced AI models bring government to ‘reflection point,’ CIA official says",
+        "fonte": "Nextgov",
+        "autor": "Frank Konkel",
+        "data": "2026-05-18",
+        "url": "https://www.nextgov.com/artificial-intelligence/2026/05/advanced-ai-models-bring-government-reflection-point-cia-official-says/413621/",
+        "resumo": "New technologies may bring risk and opportunity for the federal government, cyber experts explained.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/05/18/GettyImages_2200850676/open-graph.jpg"
+    },
+    {
+        "titulo": "Mexican government breached by solo user with Claude, 150 GB exfiltrated",
+        "fonte": "Konstantintkachuk.com",
+        "autor": "Konstantin Tkachuk",
+        "data": "2026-05-18",
+        "url": "https://konstantintkachuk.com/writing/the-floor-doesnt-exist/",
+        "resumo": "AI did not invent new attacks. It billed the old ones monthly. Crypto is the only place we can count it, and the early signals are in.",
+        "imagem": "https://konstantintkachuk.com/images/og-default.png"
+    },
+    {
+        "titulo": "TrendAI™ Zero Day Initiative Leads Industry Remediation at Pwn2Own Berlin",
         "fonte": "PRNewswire",
         "autor": "",
         "data": "2026-05-18",
-        "url": "https://www.prnewswire.com/news-releases/tulane-university-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information-302774337.html",
-        "resumo": "National class action firm offering free case evaluations to individuals impacted by the Tulane University cybersecurity incident NEW ORLEANS, May 17, 2026 /PRNewswire/ -- Edelson Lechtzin LLP, a top-rated national class action law firm, is investigating data…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1578016/Edelson_Lechtzin_LLP_Logo.jpg?id=OA2638286&p=facebook"
+        "url": "https://www.prnewswire.com/news-releases/trendai-zero-day-initiative-leads-industry-remediation-at-pwn2own-berlin-302775266.html",
+        "resumo": "Ethical hackers earn over $1.2 million in prizes at event sponsored by NVIDIA DALLAS, May 18, 2026 /PRNewswire/ -- TrendAI™, the enterprise cybersecurity business from Trend Micro Incorporated (TYO: 4704; TSE: 4704), today celebrated the efforts of the global…",
+        "imagem": "https://i.ytimg.com/vi/SqeskOpUPQU/hqdefault.jpg"
     },
     {
-        "titulo": "New Windows &#x27;MiniPlasma&#x27; zero-day exploit gives SYSTEM access, PoC released",
-        "fonte": "BleepingComputer",
-        "autor": "Lawrence Abrams",
-        "data": "2026-05-17",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
-        "resumo": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed &quot;MiniPlasma&quot; that lets attackers gain SYSTEM privileges on fully patched Windows systems. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2021/09/20/Windows.jpg"
+        "titulo": "AI made attackers smarter. Now it’s giving mid-market companies a fighting chance",
+        "fonte": "SiliconANGLE News",
+        "autor": "Kelly Knight",
+        "data": "2026-05-18",
+        "url": "https://siliconangle.com/2026/05/18/intelligent-digital-workers-modern-attack-surface-kb4con/",
+        "resumo": "The rise of intelligent digital workers and autonomous AI agents is compounding an already urgent cybersecurity challenge: attack surfaces expanding faster than security teams can manually assess them. That pressure is exactly why autonomous penetration testi…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/IMG_9739-e1779128376234.jpg"
     },
     {
-        "titulo": "Microsoft Exchange Server Vulnerability Actively Exploited, in a Bad Week for Microsoft",
-        "fonte": "Slashdot.org",
-        "autor": "EditorDavid",
-        "data": "2026-05-17",
-        "url": "https://it.slashdot.org/story/26/05/17/2053257/microsoft-exchange-server-vulnerability-actively-exploited-in-a-bad-week-for-microsoft",
-        "resumo": "Forbes describes it as &quot;definitely already out there, and under active exploitation according to the U.S. Cybersecurity and Infrastructure Security Agency, urging all organizations to prioritize timely remediation as the attack vector poses a significant risk…",
-        "imagem": "https://a.fsdn.com/sd/topics/microsoft_64100.png"
-    },
-    {
-        "titulo": "Show HN: Due Diligence Agents – 13 AI agents for M&amp;A contract analysis",
-        "fonte": "Github.com",
-        "autor": "zoharbabin",
-        "data": "2026-05-17",
-        "url": "https://github.com/zoharbabin/due-diligence-agents",
-        "resumo": "Find what gets buried in the data room. 13 AI agents analyze every contract across 9 domains (Legal, Finance, Commercial, Tech, Cyber, HR, Tax, Regulatory, ESG), cross-reference findings, and trace...",
-        "imagem": "https://repository-images.githubusercontent.com/1164226057/cd433472-b154-408c-bf50-f7a341bc1a94"
-    },
-    {
-        "titulo": "Researchers Claim Anthropic&#x27;s Mythos Helped Crack macOS Security",
-        "fonte": "PCMag.com",
-        "autor": "Will Mccurdy",
-        "data": "2026-05-17",
-        "url": "https://uk.pcmag.com/ai/164988/researchers-claim-anthropics-mythos-helped-crack-macos-security",
-        "resumo": "The macOS exploit took five days to discover, but researchers say it could not have been pulled off by Mythos alone and also required the expertise of its human hackers. Significant media attention has already been given to Anthropic’s can find bugs in existi…",
-        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/r/researcher/researchers-claim-anthropics-mythos-helped-crack-macos-secur_5r8p.1200.jpg"
-    },
-    {
-        "titulo": "Security Affairs newsletter Round 577 by Pierluigi Paganini – INTERNATIONAL EDITION",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-05-17",
-        "url": "https://securityaffairs.com/192269/security/security-affairs-newsletter-round-577-by-pierluigi-paganini-international-edition.html",
-        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Attacker…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
-    },
-    {
-        "titulo": "Researchers Claim Anthropic’s Mythos Helped Crack macOS Security",
-        "fonte": "PCMag.com",
-        "autor": "Will Mccurdy",
-        "data": "2026-05-17",
-        "url": "https://uk.pcmag.com/business-1/164988/researchers-claim-anthropics-mythos-helped-crack-macos-security",
-        "resumo": "Calif, a cybersecurity research firm, said the macOS exploit took five days to discover, but noted that it could not have been pulled off by Anthropic’s Mythos alone and also required the expertise of its human hackers. Significant media attention has already…",
-        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/r/researcher/researchers-claim-anthropics-mythos-helped-crack-macos-secur_vx9e.1200.jpg"
-    },
-    {
-        "titulo": "Researchers Claim Anthropic’s Mythos Helped Crack macOS Security",
-        "fonte": "PCMag.com",
-        "autor": "Will Mccurdy",
-        "data": "2026-05-17",
-        "url": "https://me.pcmag.com/en/old-it-security/37170/researchers-claim-anthropics-mythos-helped-crack-macos-security",
-        "resumo": "Calif, a cybersecurity research firm, said the macOS exploit took five days to discover, but noted that it could not have been pulled off by Anthropic’s Mythos alone and also required the expertise of its human hackers. Significant media attention has already…",
-        "imagem": "https://sm.pcmag.com/t/pcmag_me/news/r/researcher/researchers-claim-anthropics-mythos-helped-crack-macos-secur_dqrx.1200.jpg"
-    },
-    {
-        "titulo": "How Claude&#x27;s AI model may cause security issues for your money",
-        "fonte": "RTE",
-        "autor": "Stephen Treacy",
-        "data": "2026-05-17",
-        "url": "https://www.rte.ie/brainstorm/2026/0517/1572343-claude-ai-model-security-issues-humans-work-information-data/",
-        "resumo": "The biggest lesson from the Claude AI model debate is about what happens when AI becomes deeply embedded within both sides of the cybersecurity equation",
-        "imagem": "https://www.rte.ie/images/00240c1b-1600.jpg"
-    },
-    {
-        "titulo": "A student with a laptop and a radio stopped four high-speed trains. The crypto keys hadn’t been changed in 19 years.",
+        "titulo": "Hackers stole fingerprints and medical data from 1.8 million people in NYC’s largest public hospital breach",
         "fonte": "The Next Web",
-        "autor": "Ana Maria Constantin",
-        "data": "2026-05-17",
-        "url": "https://thenextweb.com/news/taiwan-high-speed-rail-hacked-student-tetra-sdr/",
-        "resumo": "At 23:23 on 5 April, a 23-year-old university student in Taichung transmitted a falsified General Alarm signal into the Taiwan High Speed Rail Corporation’s internal radio system. Four trains travelling at up to 300 km/h received the highest-priority emergenc…",
-        "imagem": "https://media.thenextweb.com/2026/05/taiwan-high-speed-rail-hacked-student-tetra-sdr.avif"
+        "autor": "Darius Popa",
+        "data": "2026-05-18",
+        "url": "https://thenextweb.com/news/nyc-health-hospitals-data-breach-biometrics-fingerprints/",
+        "resumo": "New York City Health and Hospitals, the largest public healthcare system in the United States, has disclosed that hackers stole personal data, medical records, and biometric information, including fingerprints, in a breach affecting at least 1.8 million peopl…",
+        "imagem": "https://media.thenextweb.com/2026/05/nyc-health-hospitals-data-breach-biometrics-fingerprints.avif"
     },
     {
-        "titulo": "U.S. CISA adds a flaw in Microsoft Exchange Server to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-05-16",
-        "url": "https://securityaffairs.com/192240/hacking/u-s-cisa-adds-a-flaw-in-microsoft-exchange-server-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a flaw in Microsoft Exchange Server to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a flaw in Microsoft Exchange Serve…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+        "titulo": "Ethereum Founder Vitalik Buterin Says AI Verification Could Help Secure Crypto Networks",
+        "fonte": "Decrypt",
+        "autor": "Jason Nelson",
+        "data": "2026-05-18",
+        "url": "https://decrypt.co/368226/ethereum-founder-vitalik-buterin-ai-verification-secure-crypto-networks",
+        "resumo": "Vitalik Buterin said mathematically verified software may help protect cryptographic infrastructures as AI improves both code generation and vulnerability discovery.",
+        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg"
     },
     {
-        "titulo": "The Lawful Access Two-Headed Surveillance Monster: How Bill C-22 Went Off the Rails",
-        "fonte": "Michaelgeist.ca",
-        "autor": "Michael Geist",
-        "data": "2026-05-16",
-        "url": "https://www.michaelgeist.ca/2026/05/the-lawful-access-two-headed-surveillance-monster-how-bill-c-22-went-off-the-rails/",
-        "resumo": "The government’s plans for lawful access has gone off the rails. In recent days, Signal has warned it would pull out of the Canadian market rather than comply with Bill C-22. Windscribe, the Toronto-headquartered VPN provider, has said it would relocate its h…",
-        "imagem": "https://www.michaelgeist.ca/wp-content/uploads/2026/05/anandasangaree.png"
+        "titulo": "India is increasingly susceptible to cyberattacks, CBRN threats amid geopolitical tensions: Report",
+        "fonte": "BusinessLine",
+        "autor": "PTI",
+        "data": "2026-05-18",
+        "url": "https://www.thehindubusinessline.com/companies/india-is-increasingly-susceptible-to-cyberattacks-cbrn-threats-amid-geopolitical-tensions-report/article70993727.ece",
+        "resumo": "A report highlights India&#x27;s increasing vulnerability to cyberattacks and CBRN threats, urging enhanced security measures and industry collaboration.",
+        "imagem": "https://bl-i.thgim.com/public/incoming/5q7a7t/article70994617.ece/alternates/LANDSCAPE_1200/IMG_iStock-1326976796_2_1_FVBFNHS2.jpg"
+    },
+    {
+        "titulo": "The iPhone and Mac security Apple spent 5 years building? AI broke it in 5 days.",
+        "fonte": "Cult of Mac",
+        "autor": "Anurag Chawake",
+        "data": "2026-05-18",
+        "url": "https://www.cultofmac.com/news/apple-macbook-pro-mie-claude-mythos-ai-exploit",
+        "resumo": "Researchers used Anthropic’s Mythos AI to help crack Apple’s most secure MIE protection system for the M5 MacBook Pro. (via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+        "imagem": "https://www.cultofmac.com/wp-content/uploads/2026/05/Apple-MacBook-Pro-security-AI.jpg.webp"
+    },
+    {
+        "titulo": "India is increasingly susceptible to cyberattacks, CBRN threats amid geopolitical tensions: Report",
+        "fonte": "BusinessLine",
+        "autor": "PTI",
+        "data": "2026-05-18",
+        "url": "https://www.thehindubusinessline.com/news/india-is-increasingly-susceptible-to-cyberattacks-cbrn-threats-amid-geopolitical-tensions-report/article70993727.ece",
+        "resumo": "A report highlights India&#x27;s increasing vulnerability to cyberattacks and CBRN threats, urging enhanced security measures and industry collaboration.",
+        "imagem": "https://bl-i.thgim.com/public/incoming/5q7a7t/article70994617.ece/alternates/LANDSCAPE_1200/IMG_iStock-1326976796_2_1_FVBFNHS2.jpg"
+    },
+    {
+        "titulo": "⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-05-18",
+        "url": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
+        "resumo": "Monday opens with a trust problem. A mail server flaw is under active use. A network control system was targeted. Trusted packages were poisoned. A fake model page pushed a stealer. Then came the familiar ransom claim: the data was returned and deleted. The p…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFzN7ITW3vwaWKn1m-BGZGI1JicT1T8d5v4LZbTvOTe7m1Xj4pk1pFECjAOvxey4XzXg7vGiU5Xzifs4qkzr9cbg2iPboHfPAHHBmi3O8OIAArhJlbr52gwKMkdqrIuIK77Pq8EzCTQM1hV5MsLuTbV4GXbXzr7miv0jA6o0Bn35RgBjc2cnd6qPq2-0Di/s1700-e365/recapss.jpg"
+    },
+    {
+        "titulo": "The Infosecurity Europe Cyber Startup Competition: Meet the Finalists",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Danny Palmer",
+        "data": "2026-05-18",
+        "url": "https://www.infosecurity-magazine.com/news/infosec-europe-cyber-startup/",
+        "resumo": "New for 2026, the Infosecurity Europe Startup competition will see five finalists pitch their ideas in front of a live audience, including senior industry leaders, investors and buyers",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/25ea3cad-54de-43fb-8ff0-9ce2b7130a68.jpg"
     }
 ]
