@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "India’s insurance regulator orders firms to strengthen defences against AI-powered attacks by May 22",
-        "fonte": "MediaNama.com",
-        "autor": "Prabhanu Kumar Das",
-        "data": "2026-05-19",
-        "url": "https://www.medianama.com/2026/05/223-irdai-cybersecurity-warning-ai-threats/",
-        "resumo": "IRDAI has directed insurers to review their cybersecurity posture and submit an action taken report on AI cyber readiness by May 22. The post India’s insurance regulator orders firms to strengthen defences against AI-powered attacks by May 22 appeared first o…",
-        "imagem": "https://www.medianama.com/wp-content/uploads/2021/02/Insurance.png"
+        "titulo": "Exploit released for new PinTheft Arch Linux root escalation flaw",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-05-20",
+        "url": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
+        "resumo": "PinTheft, a recently patched Linux privilege escalation vulnerability, now has a publicly available proof-of-concept (PoC) exploit that allows local attackers to gain root privileges on Arch Linux systems. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/05/20/linux.jpg"
     },
     {
-        "titulo": "Hackers Actively Exploit ‘Nginx Rift’ Vulnerability Affecting NGINX, F5 Products",
+        "titulo": "Why AI Still Needs the Hacker&#x27;s Mind: DEVCORE Pwns Four Microsoft Products to Win Pwn2Own Berlin 2026",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-05-20",
+        "url": "https://www.prnewswire.com/news-releases/why-ai-still-needs-the-hackers-mind-devcore-pwns-four-microsoft-products-to-win-pwn2own-berlin-2026-302777446.html",
+        "resumo": "TAIPEI, May 20, 2026 /PRNewswire/ -- Pwn2Own Berlin 2026, the world&#x27;s premier vulnerability research competition, concluded on May 16 after three days of intense competition. Amid a new wave of AI-driven vulnerability discovery and fierce contention among the…",
+        "imagem": "https://mma.prnewswire.com/media/2984061/News_Photo_Led_by_Principal_Security_Researcher_Orange_Tsai__the_DEVCORE_Research_Team_finished_the.jpg?p=facebook"
+    },
+    {
+        "titulo": "Shift to Prevention and Enforcement as We Repeat Security Mistakes With AI - Rob Allen - BSW #448",
+        "fonte": "Libsyn.com",
+        "autor": "",
+        "data": "2026-05-20",
+        "url": "https://securityweeklytv.libsyn.com/shift-to-prevention-and-enforcement-as-we-repeat-security-mistakes-with-ai-rob-allen-bsw-448",
+        "resumo": "Over the last decade, cybersecurity heavily invested in EDR, XDR, SIEM, telemetry, and SOC-driven operations. We stopped asking how to stop attacks and started asking how fast we could detect them. However, Mythos and frontier models have changed that paradig…",
+        "imagem": "http://assets.libsyn.com/content/202125030?height=250&width=250&overlay=true"
+    },
+    {
+        "titulo": "Verizon DBIR: Vulnerability Exploits Overtake Credentials as Top Access Vector",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Phil Muncaster",
+        "data": "2026-05-20",
+        "url": "https://www.infosecurity-magazine.com/news/verizon-dbir-exploits-top-access/",
+        "resumo": "Verizon DBIR finds 31% of data breaches began with software flaws last year",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/966f791d-9a81-4ee7-b6e4-90d59e59731d.jpg"
+    },
+    {
+        "titulo": "Microsoft provides mitigation for “YellowKey” BitLocker bypass flaw (CVE-2026-45585)",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-05-20",
+        "url": "https://www.helpnetsecurity.com/2026/05/20/yellowkey-bitlocker-mitigation-cve-2026-45585/",
+        "resumo": "Microsoft is working on a fix for CVE-2026-45585 (aka “Yellowkey”), a vulnerability that can be used by attackers to bypass protections offered by BitLocker, the full-disk encryption feature built into Windows, and access users’ data. In the meantime, the com…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/29223248/access.webp"
+    },
+    {
+        "titulo": "CVE Lite CLI: Open-source dependency vulnerability scanner",
+        "fonte": "Help Net Security",
+        "autor": "Mirko Zorz",
+        "data": "2026-05-20",
+        "url": "https://www.helpnetsecurity.com/2026/05/20/cve-lite-cli-open-source-dependency-vulnerability-scanner/",
+        "resumo": "Dependency vulnerability scanning in JavaScript and TypeScript projects has long sat at the end of the development pipeline. Pull requests get opened, continuous integration runs, and a security scanner returns a list of CVE identifiers that developers then h…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/14134803/cve-lite-cli-1600.webp"
+    },
+    {
+        "titulo": "Risky Business #838 -- GitHub investigates possible breach",
+        "fonte": "Risky.biz",
+        "autor": "James Wilson",
+        "data": "2026-05-20",
+        "url": "https://risky.biz/RB838/",
+        "resumo": "On this week’s show Patrick Gray, Adam Boileau and James Wilson discuss the week’s cybersecurity news. They cover: GitHub announced a possible breach CISO leaks important creds, keys in public repo Awful vulnerability in Bitloc…",
+        "imagem": "https://risky.biz/static/img/RB-OG-Social.jpg"
+    },
+    {
+        "titulo": "Security Now 1079: Daybreak and Codename MDASH",
+        "fonte": "Twit.tv",
+        "autor": "TWiT",
+        "data": "2026-05-20",
+        "url": "https://twit.tv/shows/security-now/episodes/1079",
+        "resumo": "OpenAI, Microsoft, and Google are racing to unleash next-gen AI that hunts for software vulnerabilities and hacks at scale. This episode explores how these advancements could shake up everything we thought we knew about cybersecurity. Microsoft rethi…",
+        "imagem": "https://elroy.twit.tv/sites/default/files/images/episodes/2026/05/861427/hero/SN1079_thumbnail.jpg"
+    },
+    {
+        "titulo": "OPINION: Trust is the product: why Canada’s financial platforms are redefining cybersecurity",
+        "fonte": "Financial Post",
+        "autor": "Canadian Cybersecurity Network",
+        "data": "2026-05-19",
+        "url": "https://financialpost.com/technology/tech-news/opinion-trust-is-the-product-why-canadas-financial-platforms-are-redefining-cybersecurity",
+        "resumo": "In a platform economy, cybersecurity is no longer protection, it is participation",
+        "imagem": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/05/AdobeStock_1577102963.jpg"
+    },
+    {
+        "titulo": "Google expands CodeMender access to compete with Anthropic’s Mythos in AI security race",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-05-19",
+        "url": "https://cryptobriefing.com/google-codemender-anthropic-mythos-ai-security/",
+        "resumo": "Google&#x27;s expanded CodeMender access intensifies AI security competition, potentially reshaping cybersecurity strategies across industries. The post Google expands CodeMender access to compete with Anthropic’s Mythos in AI security race appeared first on Crypt…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/19165020/google-deepmind-launches-codemender-agent-for-ai-code-securi-1-800x420.jpeg"
+    },
+    {
+        "titulo": "Being AI-Native Does Not Mean Being AI-Dependent",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (John Godel)",
+        "data": "2026-05-19",
+        "url": "https://www.c-sharpcorner.com/article/being-ai-native-does-not-mean-being-ai-dependent/",
+        "resumo": "AI-native isn&#x27;t blind reliance. It&#x27;s strategically integrating AI to boost human skills, ownership, and accountability. Master AI for augmented, not delegated, intelligence.",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+    },
+    {
+        "titulo": "Pwn2Own Berlin 2026 Closes With $1.3 Million in Zero-Day Payouts",
         "fonte": "HackRead",
         "autor": "Deeba Ahmed",
         "data": "2026-05-19",
-        "url": "https://hackread.com/hackers-exploit-nginx-rift-vulnerability-nginx-f5-products/",
-        "resumo": "Hackers are actively exploiting the Nginx Rift vulnerability affecting NGINX and F5 products, exposing servers to denial-of-service attacks.",
-        "imagem": "https://hackread.com/wp-content/uploads/2026/05/hackers-exploit-nginx-rift-vulnerability-nginx-f5-products.jpg"
+        "url": "https://hackread.com/pwn2own-berlin-2026-closes-zero-day-payouts/",
+        "resumo": "Cybersecurity researchers successfully demonstrated 47 unique zero-day exploits at Pwn2Own Berlin 2026, targeting major enterprise software and AI platforms.",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/05/pwn2own-berlin-2026-closes-zero-day-payouts-2.jpg"
     },
     {
-        "titulo": "Ubuntu Core 26 targets IoT devices and embedded systems, offers up to 15 years of security maintenance",
-        "fonte": "CNX Software",
-        "autor": "Jean-Luc Aufranc (CNXSoft)",
+        "titulo": "Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation",
+        "fonte": "BleepingComputer",
+        "autor": "Sponsored by BeyondTrust",
         "data": "2026-05-19",
-        "url": "https://www.cnx-software.com/2026/05/19/ubuntu-core-26-targets-iot-devices-and-embedded-systems-offers-up-to-15-years-of-security-maintenance/",
-        "resumo": "Canonical has just introduced Ubuntu Core 26, based on the recently-released Ubuntu 26.04 LTS and designed for IoT devices and embedded systems, with precise Linux builds, optimized OTA updates, live kernel patching, and enhanced hardware-backed protection fo…",
-        "imagem": "https://www.cnx-software.com/wp-content/uploads/2026/05/Ubuntu-Core-26.jpg"
+        "url": "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/",
+        "resumo": "Microsoft&#x27;s total vulnerability count stayed steady in 2025, but critical flaws surged year over year. BeyondTrust breaks down why attackers are increasingly focused on privilege escalation and identity abuse. [...]",
+        "imagem": "https://www.bleepstatic.com/content/posts/2026/05/15/beyondtrust-microsoft-vulnerabilities-report.jpg"
     },
     {
-        "titulo": "The quest for greater tech independence",
-        "fonte": "We Live Security",
-        "autor": "",
+        "titulo": "Purple Announces Urgent Cybersecurity Webinar: Why AI-Driven Attacks Make Traditional Staff Wi-Fi Indefensible",
+        "fonte": "GlobeNewswire",
+        "autor": "Purple",
         "data": "2026-05-19",
-        "url": "https://www.welivesecurity.com/en/cybersecurity/quest-greater-tech-independence/",
-        "resumo": "A complete decoupling from US technology is neither realistic nor necessary, but the changing environment does require nations and companies to reassess their relationships and dependencies",
-        "imagem": "https://web-assets.esetstatic.com/wls/2026/05-26/tech-sovereignty-independence.jpg"
+        "url": "https://www.globenewswire.com/news-release/2026/05/19/3297683/0/en/Purple-Announces-Urgent-Cybersecurity-Webinar-Why-AI-Driven-Attacks-Make-Traditional-Staff-Wi-Fi-Indefensible.html",
+        "resumo": "Industry Leaders to Demonstrate the Future of Identity-Based Network Security Following Multi-Billion Dollar Global Breaches Industry Leaders to Demonstrate the Future of Identity-Based Network Security Following Multi-Billion Dollar Global Breaches",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/9357c9ff-27ac-4154-96eb-74fb9e961821"
     },
     {
-        "titulo": "HDFC AMC notifies cybersecurity incident on IT infrastructure, says unlikely to affect business",
-        "fonte": "MediaNama.com",
-        "autor": "Prabhanu Kumar Das",
-        "data": "2026-05-19",
-        "url": "https://www.medianama.com/2026/05/223-hdfc-amc-notifies-cybersecurity-incident-it-infrastructure-unlikely-affect-business/",
-        "resumo": "HDFC AMC reported a cybersecurity incident to BSE and NSE after an anonymous source claimed access to its IT infrastructure. Operations remain unaffected, even as SEBI tightens cybersecurity rules amid rising AI threats. The post HDFC AMC notifies cybersecuri…",
-        "imagem": "https://www.medianama.com/wp-content/uploads/2024/09/cybersecurity.jpg"
-    },
-    {
-        "titulo": "Project Glasswing partners can now share Mythos findings beyond the programme",
-        "fonte": "The Next Web",
-        "autor": "Ana-Maria Stanciuc",
-        "data": "2026-05-19",
-        "url": "https://thenextweb.com/news/anthropic-mythos-glasswing-partners-share-disclosure/",
-        "resumo": "The Project Glasswing partners can now pass vulnerability findings to other security teams, industry bodies, regulators, open-source maintainers and the press, under responsible-disclosure norms. The defender pool just got wider. Anthropic said on Monday that…",
-        "imagem": "https://media.thenextweb.com/2026/05/Claude-Mythos.avif"
-    },
-    {
-        "titulo": "Cybersecurity jobs available right now: May 19, 2026",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-05-19",
-        "url": "https://www.helpnetsecurity.com/2026/05/19/cybersecurity-jobs-available-right-now-may-19-2026/",
-        "resumo": "CISO DataFence | Israel | Hybrid – View job details As a CISO, you will develop security roadmaps, compliance plans, risk registers, policies, and control implementation plans while leading audit and regulatory compliance activities. You will manage client pr…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140416/cybersecurity_jobs-1-1500.webp"
-    },
-    {
-        "titulo": "South Korean Startup Captures Workers Movement To Train AI",
-        "fonte": "Ponoko.com",
-        "autor": "Robin Mitchell",
-        "data": "2026-05-19",
-        "url": "https://www.ponoko.com/blog/ponoko/south-korean-startup-captures-workers-movement-to-train-ai/",
-        "resumo": "Watching skilled hotel staff fold napkins and polish glassware while wearing motion-capture gear may seem futuristic, yet, it shows a serious shift in modern robotics. South Korea’s RLWRLD is building a real-world data library from experienced workers, aiming…",
-        "imagem": "https://www.ponoko.com/blog/wp-content/uploads/2026/05/0-2.jpg"
-    },
-    {
-        "titulo": "‘The Worst Leak That I’ve Witnessed’: U.S. Cybersecurity Agency Leaves Its Digital Keys Out in Public on GitHub",
-        "fonte": "Gizmodo.com",
-        "autor": "Mike Pearl",
-        "data": "2026-05-19",
-        "url": "https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330",
-        "resumo": "Passwords were stored as plain text in a public GitHub repository.",
-        "imagem": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg"
-    },
-    {
-        "titulo": "Advanced AI models bring government to ‘reflection point,’ CIA official says",
-        "fonte": "Nextgov",
-        "autor": "Frank Konkel",
-        "data": "2026-05-18",
-        "url": "https://www.nextgov.com/artificial-intelligence/2026/05/advanced-ai-models-bring-government-reflection-point-cia-official-says/413621/",
-        "resumo": "New technologies may bring risk and opportunity for the federal government, cyber experts explained.",
-        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/05/18/GettyImages_2200850676/open-graph.jpg"
-    },
-    {
-        "titulo": "Mexican government breached by solo user with Claude, 150 GB exfiltrated",
-        "fonte": "Konstantintkachuk.com",
-        "autor": "Konstantin Tkachuk",
-        "data": "2026-05-18",
-        "url": "https://konstantintkachuk.com/writing/the-floor-doesnt-exist/",
-        "resumo": "AI did not invent new attacks. It billed the old ones monthly. Crypto is the only place we can count it, and the early signals are in.",
-        "imagem": "https://konstantintkachuk.com/images/og-default.png"
-    },
-    {
-        "titulo": "TrendAI™ Zero Day Initiative Leads Industry Remediation at Pwn2Own Berlin",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-05-18",
-        "url": "https://www.prnewswire.com/news-releases/trendai-zero-day-initiative-leads-industry-remediation-at-pwn2own-berlin-302775266.html",
-        "resumo": "Ethical hackers earn over $1.2 million in prizes at event sponsored by NVIDIA DALLAS, May 18, 2026 /PRNewswire/ -- TrendAI™, the enterprise cybersecurity business from Trend Micro Incorporated (TYO: 4704; TSE: 4704), today celebrated the efforts of the global…",
-        "imagem": "https://i.ytimg.com/vi/SqeskOpUPQU/hqdefault.jpg"
-    },
-    {
-        "titulo": "AI made attackers smarter. Now it’s giving mid-market companies a fighting chance",
-        "fonte": "SiliconANGLE News",
-        "autor": "Kelly Knight",
-        "data": "2026-05-18",
-        "url": "https://siliconangle.com/2026/05/18/intelligent-digital-workers-modern-attack-surface-kb4con/",
-        "resumo": "The rise of intelligent digital workers and autonomous AI agents is compounding an already urgent cybersecurity challenge: attack surfaces expanding faster than security teams can manually assess them. That pressure is exactly why autonomous penetration testi…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/IMG_9739-e1779128376234.jpg"
-    },
-    {
-        "titulo": "Hackers stole fingerprints and medical data from 1.8 million people in NYC’s largest public hospital breach",
-        "fonte": "The Next Web",
-        "autor": "Darius Popa",
-        "data": "2026-05-18",
-        "url": "https://thenextweb.com/news/nyc-health-hospitals-data-breach-biometrics-fingerprints/",
-        "resumo": "New York City Health and Hospitals, the largest public healthcare system in the United States, has disclosed that hackers stole personal data, medical records, and biometric information, including fingerprints, in a breach affecting at least 1.8 million peopl…",
-        "imagem": "https://media.thenextweb.com/2026/05/nyc-health-hospitals-data-breach-biometrics-fingerprints.avif"
-    },
-    {
-        "titulo": "Ethereum Founder Vitalik Buterin Says AI Verification Could Help Secure Crypto Networks",
+        "titulo": "AI Slop Floods Bug Bounty Programs as Companies Struggle with Fake Reports",
         "fonte": "Decrypt",
         "autor": "Jason Nelson",
-        "data": "2026-05-18",
-        "url": "https://decrypt.co/368226/ethereum-founder-vitalik-buterin-ai-verification-secure-crypto-networks",
-        "resumo": "Vitalik Buterin said mathematically verified software may help protect cryptographic infrastructures as AI improves both code generation and vulnerability discovery.",
-        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg"
+        "data": "2026-05-19",
+        "url": "https://decrypt.co/368309/ai-slop-floods-bug-bounty-programs-fake-reports",
+        "resumo": "Bug bounty platforms and software companies are struggling to handle a surge of low-quality, AI-generated vulnerability reports.",
+        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png"
     },
     {
-        "titulo": "India is increasingly susceptible to cyberattacks, CBRN threats amid geopolitical tensions: Report",
-        "fonte": "BusinessLine",
-        "autor": "PTI",
-        "data": "2026-05-18",
-        "url": "https://www.thehindubusinessline.com/companies/india-is-increasingly-susceptible-to-cyberattacks-cbrn-threats-amid-geopolitical-tensions-report/article70993727.ece",
-        "resumo": "A report highlights India&#x27;s increasing vulnerability to cyberattacks and CBRN threats, urging enhanced security measures and industry collaboration.",
-        "imagem": "https://bl-i.thgim.com/public/incoming/5q7a7t/article70994617.ece/alternates/LANDSCAPE_1200/IMG_iStock-1326976796_2_1_FVBFNHS2.jpg"
+        "titulo": "Zscaler Partners with Global System Integrators to Launch Project AI-Guardian to Help Accelerate Enterprise AI Adoption",
+        "fonte": "GlobeNewswire",
+        "autor": "Zscaler, Inc.",
+        "data": "2026-05-19",
+        "url": "https://www.globenewswire.com/news-release/2026/05/19/3297665/0/en/Zscaler-Partners-with-Global-System-Integrators-to-Launch-Project-AI-Guardian-to-Help-Accelerate-Enterprise-AI-Adoption.html",
+        "resumo": "New initiative combines Zscaler’s advanced AI security platform with GSI consulting expertise to secure the “agentic world,” helping to provide full visibility, protection, and regulatory compliance for global enterprises New initiative combines Zscaler’s adv…",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/bc212637-6ad5-43b1-9aa5-f998c8fe68ba"
     },
     {
-        "titulo": "The iPhone and Mac security Apple spent 5 years building? AI broke it in 5 days.",
-        "fonte": "Cult of Mac",
-        "autor": "Anurag Chawake",
-        "data": "2026-05-18",
-        "url": "https://www.cultofmac.com/news/apple-macbook-pro-mie-claude-mythos-ai-exploit",
-        "resumo": "Researchers used Anthropic’s Mythos AI to help crack Apple’s most secure MIE protection system for the M5 MacBook Pro. (via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-        "imagem": "https://www.cultofmac.com/wp-content/uploads/2026/05/Apple-MacBook-Pro-security-AI.jpg.webp"
+        "titulo": "Key findings from the Verizon DBIR 2026: Slower vulnerability remediation meets faster exploitation",
+        "fonte": "Tenable.com",
+        "autor": "Scott Caveza",
+        "data": "2026-05-19",
+        "url": "https://www.tenable.com/blog/key-findings-from-the-verizon-dbir-2026",
+        "resumo": "The 2026 Verizon Data Breach Investigations Report (DBIR) reveals a troubling trend: vulnerability exploitation has surged to become the number one initial access vector while remediation rates have worsened.Key takeawaysVulnerability exploitation has…",
+        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/DBIR_2.png?itok=pUzbwc9j"
     },
     {
-        "titulo": "India is increasingly susceptible to cyberattacks, CBRN threats amid geopolitical tensions: Report",
-        "fonte": "BusinessLine",
-        "autor": "PTI",
-        "data": "2026-05-18",
-        "url": "https://www.thehindubusinessline.com/news/india-is-increasingly-susceptible-to-cyberattacks-cbrn-threats-amid-geopolitical-tensions-report/article70993727.ece",
-        "resumo": "A report highlights India&#x27;s increasing vulnerability to cyberattacks and CBRN threats, urging enhanced security measures and industry collaboration.",
-        "imagem": "https://bl-i.thgim.com/public/incoming/5q7a7t/article70994617.ece/alternates/LANDSCAPE_1200/IMG_iStock-1326976796_2_1_FVBFNHS2.jpg"
+        "titulo": "Vulnerability Exploitation Top Breach Entry Point, 2026 Industry-Wide DBIR Finds",
+        "fonte": "GlobeNewswire",
+        "autor": "Verizon Sourcing LLC",
+        "data": "2026-05-19",
+        "url": "https://www.globenewswire.com/news-release/2026/05/19/3297614/0/en/Vulnerability-Exploitation-Top-Breach-Entry-Point-2026-Industry-Wide-DBIR-Finds.html",
+        "resumo": "The 19th edition of the Data Breach Investigations Report (DBIR) confirms AI-driven speed as a new challenge, pushing security strategy toward fundamental resilience The 19th edition of the Data Breach Investigations Report (DBIR) confirms AI-driven speed as …",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/2a0c6c7a-3980-4c97-a719-a463817cf3f6"
     },
     {
-        "titulo": "⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-05-18",
-        "url": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
-        "resumo": "Monday opens with a trust problem. A mail server flaw is under active use. A network control system was targeted. Trusted packages were poisoned. A fake model page pushed a stealer. Then came the familiar ransom claim: the data was returned and deleted. The p…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFzN7ITW3vwaWKn1m-BGZGI1JicT1T8d5v4LZbTvOTe7m1Xj4pk1pFECjAOvxey4XzXg7vGiU5Xzifs4qkzr9cbg2iPboHfPAHHBmi3O8OIAArhJlbr52gwKMkdqrIuIK77Pq8EzCTQM1hV5MsLuTbV4GXbXzr7miv0jA6o0Bn35RgBjc2cnd6qPq2-0Di/s1700-e365/recapss.jpg"
+        "titulo": "Sola Security launches Lumina to cut enterprise security alert noise with contextual AI",
+        "fonte": "SiliconANGLE News",
+        "autor": "Duncan Riley",
+        "data": "2026-05-19",
+        "url": "https://siliconangle.com/2026/05/19/sola-security-launches-lumina-cut-enterprise-security-alert-noise-contextual-ai/",
+        "resumo": "Cybersecurity startup Sola Security Ltd. today announced the launch of Lumina, an autonomous risk intelligence platform that applies contextual artificial intelligence across cloud, identity, software-as-a-service and endpoint environments to deliver prioriti…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/solasecurity.png"
     },
     {
-        "titulo": "The Infosecurity Europe Cyber Startup Competition: Meet the Finalists",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Danny Palmer",
-        "data": "2026-05-18",
-        "url": "https://www.infosecurity-magazine.com/news/infosec-europe-cyber-startup/",
-        "resumo": "New for 2026, the Infosecurity Europe Startup competition will see five finalists pitch their ideas in front of a live audience, including senior industry leaders, investors and buyers",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/25ea3cad-54de-43fb-8ff0-9ce2b7130a68.jpg"
+        "titulo": "Unpatched ChromaDB Vulnerability Can Lead to Server Takeover",
+        "fonte": "Securityweek.com",
+        "autor": "Ionut Arghire",
+        "data": "2026-05-19",
+        "url": "https://www.securityweek.com/unpatched-chromadb-vulnerability-can-lead-to-server-takeover/",
+        "resumo": "The security defect can be exploited remotely, without authentication, to execute arbitrary code and leak sensitive information. The post Unpatched ChromaDB Vulnerability Can Lead to Server Takeover appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2025/11/NPM-code-software-development.jpeg"
     }
 ]
