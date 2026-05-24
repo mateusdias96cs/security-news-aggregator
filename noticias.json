@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "CISA’s new KEV nomination form opens reporting to vendors and researchers",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-05-22",
-        "url": "https://www.helpnetsecurity.com/2026/05/22/cisa-kev-nomination-form/",
-        "resumo": "The Cybersecurity and Infrastructure Security Agency launched a new nomination form that lets researchers, vendors, and industry partners report known exploited vulnerabilities for possible inclusion in its KEV catalog. The form gives outside contributors a d…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/02/13095016/cisa-1500.webp"
-    },
-    {
-        "titulo": "U.S. CISA adds Trend Micro Apex One and Langflow to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-05-22",
-        "url": "https://securityaffairs.com/192529/hacking/u-s-cisa-adds-trend-micro-apex-one-and-langflow-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Trend Micro Apex One and Langflow flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Windows Shell and ConnectWise Scre…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "The Frankenstein problem is old hat—we must grapple with the intelligence substitution paradox of AI",
-        "fonte": "Livemint",
-        "autor": "Vyas Nageswaran",
-        "data": "2026-05-22",
-        "url": "https://www.livemint.com/opinion/online-views/frankenstein-problem-artificial-intelligence-substitution-paradox-anthropic-mythos-11779438207839.html",
-        "resumo": "In a world shaken by Anthropic’s Mythos, the cognitive caution we’d want AI creators to exercise appears to reside in their own creations—whose warnings are going unheeded. This differs from the Frankenstein problem.",
-        "imagem": "https://www.livemint.com/lm-img/img/2026/05/22/1600x900/logo/ANTHROPIC-MYTHOS-36_1777023883124_1777023909928_1779439244751_eaf1e3d2-08d3-425e-b6bd-6249b3dc67fd.jpg"
-    },
-    {
-        "titulo": "TrendAI Patches Apex One Zero-Day Exploited in the Wild",
-        "fonte": "Securityweek.com",
-        "autor": "Eduard Kovacs",
-        "data": "2026-05-22",
-        "url": "https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/",
-        "resumo": "CVE-2026-34926 is a directory traversal flaw that can be exploited against the on-premise version of Apex One. The post TrendAI Patches Apex One Zero-Day Exploited in the Wild appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2025/08/Trend-Micro.jpeg"
-    },
-    {
-        "titulo": "TechD Cybersecurity Launches TECHD ONE: AI-Native Unified Cybersecurity Platform",
-        "fonte": "ANI News",
-        "autor": "Businesswire India",
-        "data": "2026-05-22",
-        "url": "https://www.aninews.in/news/business/techd-cybersecurity-launches-techd-one-ai-native-unified-cybersecurity-platform20260522105327",
-        "resumo": "Ahmedabad (Gujarat) [India], May 22: TechD Cybersecurity Limited (NSE SME: TECHD), a CERT-In empaneled MSSP serving over 500 enterprise clients, today announced the launch of TECHD ONE, AI-native unified cybersecurity platform, now live at techdefence.ai. The…",
-        "imagem": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260522052306-thumbnail-320x180-70.jpg"
-    },
-    {
-        "titulo": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+        "titulo": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-05-22",
-        "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilitie…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi04a_rowIzNPvHHvDTUE34d3bZlOhBeQXtC0UdXyjlf988G4zVE89QKWqSWASKd2LD0T8O2XhkDVgG7UGFIxlpvQWHPx-o_X7vfMK5fH4uSDg3eSUDAaWKtgresEyD9JpINkxtdELWn-qiv6usoLgwSlYNi89xJeVBwYYsCF2y-KKNz0x04KS0PeDPL57J/s1700-e365/cisa-kev-flaws.jpg"
+        "data": "2026-05-23",
+        "url": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability in qu…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKqQ4Uk8lGWwF7f6lrmP6dRHkEmQTJsqFs8xvJ5256xUcHTeWMNVMkPguALNqLPpJWneU9XWIEzi4jSUVTiS2In1QMSl7NEjNDB99yHlGeCjw4OAQ3Lx8jhE5l9RUGMmth_ecUC1GcgierrFk8XKREHXC73mQn3w3jFcqjvJL1UZpPJPP62Uv-IpfBafRI/s1700-e365/cisa-drupal.jpg"
     },
     {
-        "titulo": "Re: Coordinated Disclosure in the LLM Age",
-        "fonte": "Seclists.org",
-        "autor": "",
-        "data": "2026-05-22",
-        "url": "https://seclists.org/oss-sec/2026/q2/660",
-        "resumo": "Posted by Jeffrey Walton on May 21Anthropic has a long article at [0]. If you scroll down beyond the explanations for the vulnerabilities the tool found, you land in a section titled &quot;Suggestions for defenders today&quot;. From that section: Think beyond vulnera…",
-        "imagem": "https://seclists.org/images/oss-sec-img.png"
+        "titulo": "Claiming your inheritance by executing a Will: What legal heirs must know about nominees, probate and asset transfers",
+        "fonte": "The Times of India",
+        "autor": "Suchitra Mandal",
+        "data": "2026-05-23",
+        "url": "https://economictimes.indiatimes.com/wealth/legal/will/claiming-your-inheritance-by-executing-a-will-what-legal-heirs-must-know-about-nominees-probate-and-asset-transfers/articleshow/131272442.cms",
+        "resumo": "Executing a Will in India is often more complex than believed, involving numerous institutions and documentation hurdles. Nominees do not automatically become owners, and digital assets present new challenges. While probate is now voluntary, it remains advisa…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-440364,resizemode-75,msid-131272442/wealth/legal/will/claiming-your-inheritance-by-executing-a-will-what-legal-heirs-must-know-about-nominees-probate-and-asset-transfers.jpg"
     },
     {
-        "titulo": "CrowdStrike integrates Anthropic Claude Compliance API into Falcon for AI governance",
+        "titulo": "Project Glasswing identifies over 10,000 critical vulnerabilities in first month using AI",
         "fonte": "Crypto Briefing",
         "autor": "Editorial Team",
-        "data": "2026-05-21",
-        "url": "https://cryptobriefing.com/crowdstrike-anthropic-claude-falcon-ai-governance/",
-        "resumo": "The integration enhances AI governance, potentially setting a new standard for enterprise security by improving oversight and response capabilities. The post CrowdStrike integrates Anthropic Claude Compliance API into Falcon for AI governance appeared first o…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/21180214/cloudflare-crowdstrike-slide-sharply-after-anthropic-launche-1-800x420.jpeg"
+        "data": "2026-05-23",
+        "url": "https://cryptobriefing.com/project-glasswing-10000-critical-vulnerabilities/",
+        "resumo": "AI-driven vulnerability detection could revolutionize cybersecurity, reducing risks by uncovering long-hidden flaws and enhancing software resilience. The post Project Glasswing identifies over 10,000 critical vulnerabilities in first month using AI appeared …",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/22211209/tech-giants-launch-ai-powered-project-glasswing-to-identify--1-800x420.jpeg"
     },
     {
-        "titulo": "FCC, Github, MiniShai-hulud, Stated of Supply Chain, Itron, CRA, NIS2, and more!! - PSW #927",
-        "fonte": "Libsyn.com",
+        "titulo": "Anthropic plans to make Mythos-class AI models widely available",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-05-23",
+        "url": "https://cryptobriefing.com/anthropic-mythos-ai-models-wider-access/",
+        "resumo": "Anthropic&#x27;s Mythos-class AI models could revolutionize cybersecurity but face political hurdles due to potential misuse risks. The post Anthropic plans to make Mythos-class AI models widely available appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/22210932/why-anthropic-s-most-powerful-ai-model-mythos-preview-is-too-1-800x420.jpeg"
+    },
+    {
+        "titulo": "Tech bills of the week: Mitigating risks to critical infrastructure; incentivizing domestic high-tech manufacturing; and more",
+        "fonte": "Nextgov",
+        "autor": "Alexandra Kelley and Edward Graham",
+        "data": "2026-05-22",
+        "url": "https://www.nextgov.com/policy/2026/05/tech-bills-week-mitigating-risks-critical-infrastructure-incentivizing-domestic-high-tech-manufacturing-and-more/413740/",
+        "resumo": "Tech- and cyber-focused bills rolled out this week include measures to develop a biotech-savvy workforce, support state and local tech modernization efforts and better understand the cyber needs of small businesses.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/05/22/GettyImages_1399560076/open-graph.jpg"
+    },
+    {
+        "titulo": "Here’s the Executive Order on AI That Gave Trump Cold Feet",
+        "fonte": "Gizmodo.com",
+        "autor": "Bruce Gil",
+        "data": "2026-05-22",
+        "url": "https://gizmodo.com/heres-the-executive-order-on-ai-that-gave-trump-cold-feet-2000762751",
+        "resumo": "Earlier this week, Trump&#x27;s coterie of big tech execs was supposed to join him to sign it. Then it got called off.",
+        "imagem": "https://gizmodo.com/app/uploads/2026/03/trump-getty-cabinet-march-26-2026-1200x675.jpg"
+    },
+    {
+        "titulo": "Project Glasswing: An Initial Update",
+        "fonte": "Anthropic.com",
         "autor": "",
-        "data": "2026-05-21",
-        "url": "https://sites.libsyn.com/18678/fcc-github-minishai-hulud-stated-of-supply-chain-itron-cra-nis2-and-more-psw-927",
-        "resumo": "In the security news this week: FCC router bans and the hidden firmware update problem Why extending support timelines actually improves security Github supply chain concerns and the evolving SBOM ecosystem CRA and NIS2 com…",
-        "imagem": "http://assets.libsyn.com/content/202199450?height=250&width=250&overlay=true"
+        "data": "2026-05-22",
+        "url": "https://www.anthropic.com/research/glasswing-initial-update",
+        "resumo": "An early update on what we&#x27;ve learned from Project Glasswing.",
+        "imagem": "https://cdn.sanity.io/images/4zrzovbb/website/8831fc381f1087ce855b4fbb4f080b2685ea38ec-1200x630.jpg"
     },
     {
-        "titulo": "U.S. CISA adds Microsoft and Adobe flaws to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-05-21",
-        "url": "https://securityaffairs.com/192508/security/u-s-cisa-adds-microsoft-and-adobe-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Microsoft and Adobe flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Windows Shell and ConnectWise ScreenConnect flaw…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+        "titulo": "Microsoft confirms two major Defender security issues — so update now or face possible attack",
+        "fonte": "TechRadar",
+        "autor": "Sead Fadilpašić",
+        "data": "2026-05-22",
+        "url": "https://www.techradar.com/pro/security/microsoft-confirms-two-major-defender-security-issues-so-update-now-or-face-possible-attack",
+        "resumo": "CISA confirms two bugs being actively exploited in the wild, as Microsoft releases patches.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/Qv5XQvhYHnM9ejEq2iz2CT-1067-80.jpg"
     },
     {
-        "titulo": "firm-lens added to PyPI",
-        "fonte": "Pypi.org",
-        "autor": "",
-        "data": "2026-05-21",
-        "url": "https://pypi.org/project/firm-lens/",
-        "resumo": "Firmware security analysis tool",
-        "imagem": "https://pypi.org/static/images/twitter.abaf4b19.webp"
+        "titulo": "Verizon 2026 DBIR: 6 key takeaways for CISOs",
+        "fonte": "Techtarget.com",
+        "autor": "Sharon Shea",
+        "data": "2026-05-22",
+        "url": "https://www.techtarget.com/searchsecurity/news/366643420/Verizon-DBIR-Key-takeaways-for-CISOs",
+        "resumo": "The 2026 DBIR -- practically required reading for CISOs -- identifies critical enterprise security trends, from exploit-driven breaches to shadow AI dangers and third-party risks.",
+        "imagem": "https://www.techtarget.com/rms/onlineimages/clock-time14.jpg"
     },
     {
-        "titulo": "The art of being ungovernable",
-        "fonte": "Talosintelligence.com",
-        "autor": "William Largent",
-        "data": "2026-05-21",
-        "url": "https://blog.talosintelligence.com/the-art-of-being-ungovernable/",
-        "resumo": "In this edition of the Threat Source newsletter, William explores the value of being &quot;ungovernable&quot; in a professional setting, sharing how challenging the status quo and seeking out the smartest people in the room can lead to a more fulfilling and successful …",
-        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/05/threat_source-2.jpg"
+        "titulo": "Cisco’s Risk-Based Vulnerability Disclosure in the Age of AI",
+        "fonte": "Cisco.com",
+        "autor": "Russ Smoak",
+        "data": "2026-05-22",
+        "url": "https://blogs.cisco.com/security/ciscos-risk-based-vulnerability-disclosure-in-the-age-of-ai",
+        "resumo": "Discover how Cisco is evolving its vulnerability disclosure practices. We are leveraging AI to prioritize high-risk security issues, helping customers focus on critical patching and remediation efforts.",
+        "imagem": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/05/Qxp4DybL-ecosystem-developers-update-blog-feature.png"
     },
     {
-        "titulo": "Microsoft Defender vulnerabilities are being exploited in the wild",
-        "fonte": "Malwarebytes.com",
-        "autor": "Pieter Arntz",
-        "data": "2026-05-21",
-        "url": "https://www.malwarebytes.com/blog/bugs/2026/05/microsoft-defender-vulnerabilities-are-being-exploited-in-the-wild",
-        "resumo": "CISA added seven known exploited vulnerabilities to its KEV catalog, including two Microsoft Defender flaws.",
-        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/05/Windows_Defender_logo.png"
+        "titulo": "Microsoft Security success stories: How St. Luke’s and ManpowerGroup are securing AI foundations",
+        "fonte": "Microsoft.com",
+        "autor": "Steve Dispensa",
+        "data": "2026-05-22",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-security-success-stories-how-st-lukes-and-manpowergroup-are-securing-ai-foundations/",
+        "resumo": "How Frontier firms secure AI at scale: read how Microsoft customers embed governance, identity, and cloud security to make protection an enabler of AI growth. The post Microsoft Security success stories: How St. Luke’s and ManpowerGroup are securing AI founda…",
+        "imagem": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/Microsoft-Security-success-stories.jpg"
     },
     {
-        "titulo": "Microsoft open-sources tools for designing and testing AI agents",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-05-21",
-        "url": "https://www.helpnetsecurity.com/2026/05/21/microsoft-open-sources-tools-for-designing-and-testing-ai-agents/",
-        "resumo": "Microsoft has open-sourced two tools aimed at bringing security discipline to AI agent development: Clarity, a structured design review tool, and RAMPART, a continuous testing framework. The release comes from Microsoft’s AI Red Team, the company’s internal u…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/10/27095223/ai_agents-1500.webp"
+        "titulo": "This Week in Security: AI Generated Reports, More AI Generated Reports, GitHub Chaos, and More Linux Vulnerabilities",
+        "fonte": "Hackaday",
+        "autor": "Mike Kershaw",
+        "data": "2026-05-22",
+        "url": "https://hackaday.com/2026/05/22/this-week-in-security-ai-generated-reports-more-ai-generated-reports-github-chaos-and-more-linux-vulnerabilities/",
+        "resumo": "Google’s Project Zero demonstrates a new zero-click exploit for the Pixel 10 phones, showing a full escalation from remote to kernel without user interaction. During the investigation Project Zero found …read more",
+        "imagem": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg"
     },
     {
-        "titulo": "Darktrace Named a Leader in the 2026 Gartner® Magic Quadrant™ for Network Detection and Response for Second Consecutive Year",
-        "fonte": "GlobeNewswire",
-        "autor": "Darktrace",
-        "data": "2026-05-21",
-        "url": "https://www.globenewswire.com/news-release/2026/05/21/3299552/0/en/Darktrace-Named-a-Leader-in-the-2026-Gartner-Magic-Quadrant-for-Network-Detection-and-Response-for-Second-Consecutive-Year.html",
-        "resumo": "Cambridge, UK, May 21, 2026 (GLOBE NEWSWIRE) -- Darktrace, a global leader in AI for cybersecurity, today announced it has been recognized as a Leader in the Gartner® Magic Quadrant™ for Network Detection and Response (NDR) for the second consecutive year.",
-        "imagem": ""
+        "titulo": "Cyberattacks in supply chains: A multi-case study",
+        "fonte": "Plos.org",
+        "autor": "Xue Zhang, Xiaoya Ba, Bo Li",
+        "data": "2026-05-22",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350010",
+        "resumo": "Supply chains are increasingly vulnerable to Supply Chain Cyberattacks (SCCAs) that exploit third-party trust and bypass traditional perimeter-based defenses. This study investigates the propagation mechanisms, impacts, and governance of SCCAs through a quali…",
+        "imagem": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0350010.t006&size=inline"
     },
     {
-        "titulo": "Vectra AI Named a Leader in the 2026 Gartner® Magic Quadrant™ for Network Detection and Response",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-05-21",
-        "url": "https://www.prnewswire.com/news-releases/vectra-ai-named-a-leader-in-the-2026-gartner-magic-quadrant-for-network-detection-and-response-302777907.html",
-        "resumo": "Vectra AI is recognized for its Ability to Execute and Completeness of Vision. SAN JOSE, Calif., May 21, 2026 /PRNewswire/ -- Vectra AI, the cybersecurity AI leader in protecting modern networks from modern attacks, today announced it has been named a Leader …",
-        "imagem": "https://mma.prnewswire.com/media/2340742/Vectra_AI_logo.jpg?p=facebook"
+        "titulo": "Technology Short Take 196",
+        "fonte": "Scottlowe.org",
+        "autor": "Scott Lowe",
+        "data": "2026-05-22",
+        "url": "https://blog.scottlowe.org/2026/05/22/technology-short-take-196/",
+        "resumo": "Welcome to Technology Short Take 196! Just in time for the US Memorial Day holiday, I am back with another list of articles related to various data center technologies like networking, security, operating systems, and applications. You will find articles on V…",
+        "imagem": "https://blog.scottlowe.org//public/img/cards/2026-05-22-technology-short-take-196.png"
     },
     {
-        "titulo": "Google Investment Chief Ruth Porat Breaks Down the Tech Giant’s $190B A.I. Bet",
-        "fonte": "Observer",
-        "autor": "Sissi Cao, Sissi Cao",
-        "data": "2026-05-21",
-        "url": "https://observer.com/2026/05/google-chief-investment-officer-ruth-porat-ai-capex/",
-        "resumo": "Google&#x27;s former CFO and current investment chief Ruth Porat says Google’s $190 billion A.I. push is critical to avoid falling behind in a once-in-a-generation platform shift.",
-        "imagem": "https://observer.com/wp-content/uploads/sites/2/2026/05/FC-MIC-Summit-260519-3530.jpg?quality=80"
+        "titulo": "Trump Mobile under fire after customer information was exposed online",
+        "fonte": "Dailymail.com",
+        "autor": "Stacy Liberatore",
+        "data": "2026-05-22",
+        "url": "https://www.dailymail.com/sciencetech/article-15837489/trump-mobile-customer-data-breach.html",
+        "resumo": "Trump Mobile has come under scrutiny following reports that a vulnerability on its website may have exposed customers&#x27; private information online.",
+        "imagem": "https://i.dailymail.com/1s/2026/05/21/14/108777251-0-image-a-16_1779369161107.jpg"
     },
     {
-        "titulo": "OpenSSF Notes Quarter of Growth with New Members, Added AI Security Resources, and Growing Community",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-05-21",
-        "url": "https://www.prnewswire.com/news-releases/openssf-notes-quarter-of-growth-with-new-members-added-ai-security-resources-and-growing-community-302774932.html",
-        "resumo": "Foundation celebrates five additional members, new cyber reasoning sandbox project, and release of v1.0.0 Python Secure Coding Guide to support open source security globally MINNEAPOLIS, May 21, 2026 /PRNewswire/ -- OpenSSF Community Day North America – The O…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1010031/OpenSSF_Logo.jpg?id=OA2638265&p=facebook"
-    },
-    {
-        "titulo": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
+        "titulo": "Trend Micro warns of Apex One zero-day exploited in the wild",
         "fonte": "BleepingComputer",
         "autor": "Sergiu Gatlan",
-        "data": "2026-05-21",
-        "url": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
-        "resumo": "Cisco has released security updates to address a maximum-severity vulnerability in Secure Workload that allows attackers to gain Site Admin privileges. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Cisco.jpg"
+        "data": "2026-05-22",
+        "url": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
+        "resumo": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/05/22/Trend-Micro.jpg"
     },
     {
-        "titulo": "Defending Critical Infrastructure: Why OT Security Demands a Threat-Informed Approach",
-        "fonte": "Fortinet.com",
-        "autor": "Carl Windsor, Aasef Iqbal",
-        "data": "2026-05-21",
-        "url": "https://www.fortinet.com/blog/ciso-collective/defending-critical-infrastructure-why-ot-security-demands-threat-informed-approach",
-        "resumo": "As OT environments face more targeted cyberattacks, CISOs need a threat-informed security strategy built for industrial risk.…",
+        "titulo": "EU makes little progress in talks with Anthropic on Mythos testing",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-05-22",
+        "url": "https://cryptobriefing.com/eu-anthropic-mythos-testing-stalled/",
+        "resumo": "The EU&#x27;s struggle to access Mythos highlights a cybersecurity gap, prompting potential shifts towards AI sovereignty and regulatory changes. The post EU makes little progress in talks with Anthropic on Mythos testing appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg"
+    },
+    {
+        "titulo": "Cycurion Acquires Secuvant, Supercharging AI-Driven Cybersecurity with Automated, Scalable Threat Defense – Perfectly Complements HavenX Platform",
+        "fonte": "Financial Post",
+        "autor": "GlobeNewswire",
+        "data": "2026-05-22",
+        "url": "https://financialpost.com/globe-newswire/cycurion-acquires-secuvant-supercharging-ai-driven-cybersecurity-with-automated-scalable-threat-defense-perfectly-complements-havenx-platform",
+        "resumo": "MCLEAN, Va., May 22, 2026 (GLOBE NEWSWIRE) — Cycurion, Inc. (NASDAQ: CYCU) (“Cycurion” or the “Company”), a leading provider of AI-driven cybersecurity, IT security solutions, and managed services, today announced the acquisition of Secuvant, LLC (“Secuvant”)…",
         "imagem": ""
+    },
+    {
+        "titulo": "Cycurion Acquires Secuvant, Supercharging AI-Driven Cybersecurity with Automated, Scalable Threat Defense – Perfectly Complements HavenX Platform",
+        "fonte": "GlobeNewswire",
+        "autor": "Cycurion",
+        "data": "2026-05-22",
+        "url": "https://www.globenewswire.com/news-release/2026/05/22/3300115/0/en/Cycurion-Acquires-Secuvant-Supercharging-AI-Driven-Cybersecurity-with-Automated-Scalable-Threat-Defense-Perfectly-Complements-HavenX-Platform.html",
+        "resumo": "MCLEAN, Va., May 22, 2026 (GLOBE NEWSWIRE) -- Cycurion, Inc. (NASDAQ: CYCU) (“Cycurion” or the “Company”), a leading provider of AI-driven cybersecurity, IT security solutions, and managed services, today announced the acquisition of Secuvant, LLC (“Secuvant”…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Update Chrome now: Critical bugs could let attackers run code",
+        "fonte": "Malwarebytes.com",
+        "autor": "Pieter Arntz",
+        "data": "2026-05-22",
+        "url": "https://www.malwarebytes.com/blog/bugs/2026/05/update-chrome-now-critical-bugs-could-let-attackers-run-code",
+        "resumo": "This Chrome update fixes critical flaws attackers could exploit through malicious websites, but not the “Browser Fetch” vulnerability.",
+        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2023/11/Chrome-1200.png"
     }
 ]
