@@ -1,5 +1,95 @@
 [
     {
+        "titulo": "Anthropic AI model finds over 10,000 critical bugs across open-source software projects",
+        "fonte": "The Times of India",
+        "autor": "ETtech",
+        "data": "2026-05-24",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ai-model-finds-over-10000-critical-bugs-across-open-source-software-projects/articleshow/131292086.cms",
+        "resumo": "The AI startup said around 50 carefully selected partners, including technology firms and research organisations, were given limited access to the model over recent weeks. Mythos Preview was used to scan more than 1,000 open-source software projects during th…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-101462,resizemode-75,msid-131292086/tech/artificial-intelligence/anthropic-ai-model-finds-over-10000-critical-bugs-across-open-source-software-projects.jpg"
+    },
+    {
+        "titulo": "Week in review: GitHub breached via poisoned VS Code extension, critical NGINX flaw exploited",
+        "fonte": "Help Net Security",
+        "autor": "Help Net Security",
+        "data": "2026-05-24",
+        "url": "https://www.helpnetsecurity.com/2026/05/24/week-in-review-github-breached-via-poisoned-vs-code-extension-critical-nginx-flaw-exploited/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: TeamPCP breached GitHub’s internal codebase via poisoned VS Code extension Following TeamPCP’s claim that they’ve breached GitHub’s own private code repositories…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124832/cybersecurity-week-review-2-1500.webp"
+    },
+    {
+        "titulo": "U.S. CISA adds a flaw in Drupal Core to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-05-24",
+        "url": "https://securityaffairs.com/192566/uncategorized/u-s-cisa-adds-a-flaw-in-drupal-core-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a flaw in Drupal Core to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a flaw in Microsoft Exchange Server, tracked as …",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "Anthropic’s Project Glasswing uncovers over 10,000 software vulnerabilities using AI",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-05-23",
+        "url": "https://cryptobriefing.com/anthropic-glasswing-software-vulnerabilities/",
+        "resumo": "AI&#x27;s rapid vulnerability detection outpaces human patching capabilities, highlighting urgent need for scalable cybersecurity solutions. The post Anthropic’s Project Glasswing uncovers over 10,000 software vulnerabilities using AI appeared first on Crypto Brie…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/23181121/partnering-with-mozilla-to-improve-firefox-s-security-anthro-2-1-800x420.jpeg"
+    },
+    {
+        "titulo": "Anthropic’s Project Glasswing uncovers over 10,000 software vulnerabilities using Claude AI",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-05-23",
+        "url": "https://cryptobriefing.com/anthropic-project-glasswing-software-vulnerabilities/",
+        "resumo": "AI&#x27;s rapid vulnerability detection outpaces human patching capabilities, highlighting urgent need for scalable cybersecurity solutions. The post Anthropic’s Project Glasswing uncovers over 10,000 software vulnerabilities using Claude AI appeared first on Cryp…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/23180431/partnering-with-mozilla-to-improve-firefox-s-security-anthro-1-800x420.jpeg"
+    },
+    {
+        "titulo": "Companies Using Anthropic&#x27;s Mythos AI Uncover 10K+ Serious Software Bugs",
+        "fonte": "PCMag.com",
+        "autor": "Will Mccurdy",
+        "data": "2026-05-23",
+        "url": "https://me.pcmag.com/en/ai/37335/companies-using-anthropics-mythos-ai-uncover-10k-serious-software-bugs",
+        "resumo": "Mythos identified 6,202 high- or critical-severity flaws in 1,000 open-source projects. Anthropic partners have used its bug-hunting Claude Mythos AI to uncover 10,000 &quot;high- or critical-severity vulnerabilities across the most systemically important software…",
+        "imagem": "https://sm.pcmag.com/t/pcmag_me/news/c/companies-/companies-using-anthropics-mythos-ai-uncover-10k-serious-sof_sg5k.1200.jpg"
+    },
+    {
+        "titulo": "Companies Using Anthropic&#x27;s Mythos AI Uncover 10K+ Serious Software Bugs",
+        "fonte": "PCMag.com",
+        "autor": "Will Mccurdy",
+        "data": "2026-05-23",
+        "url": "https://uk.pcmag.com/ai/165147/companies-using-anthropics-mythos-ai-uncover-10k-serious-software-bugs",
+        "resumo": "Mythos identified 6,202 high- or critical-severity flaws in 1,000 open-source projects. Anthropic partners have used its bug-hunting Claude Mythos AI to uncover 10,000 &quot;high- or critical-severity vulnerabilities across the most systemically important software…",
+        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/c/companies-/companies-using-anthropics-mythos-ai-uncover-10k-serious-sof_w6ug.1200.jpg"
+    },
+    {
+        "titulo": "Anthropic’s Claude Mythos found 10,000 critical vulnerabilities in one month. The patches can’t keep up.",
+        "fonte": "The Next Web",
+        "autor": "Ana Maria Constantin",
+        "data": "2026-05-23",
+        "url": "https://thenextweb.com/news/anthropic-glasswing-claude-mythos-10000-vulnerabilities/",
+        "resumo": "Anthropic disclosed on Friday that Project Glasswing, its restricted cybersecurity initiative, has uncovered more than 10,000 high- or critical-severity vulnerability candidates across some of the most systemically important software in the world since the pr…",
+        "imagem": "https://media.thenextweb.com/2026/05/anthropic-glasswing-claude-mythos-10000-vulnerabilities.avif"
+    },
+    {
+        "titulo": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-05-23",
+        "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
+        "resumo": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most &quot;systemically&quot; important software across the world since the cybersecurity initiative went live last mo…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOPcHXcMRS-BJNvy9aeoCz5H2Mmdh6mO6Kl3kM-l216B-3Wc0Iy5wayPkxJ79KtkHx2CGBwDVPMMeuB9E3jQlPXsa-vKqALoAuTwmEwsbH5sK0xs9xb_XWgk4uaGazYAcswrLxdX0QL74k7e85WXfL03rHFQStuxqpJFsJBcAQLOvNXSuX2YNBAScQStvj/s1700-e365/claude-mythos-flaws.jpg"
+    },
+    {
+        "titulo": "RondoDox Botnet Exploits Critical 2018 Vulnerability to Hijack ASUS Routers",
+        "fonte": "HackRead",
+        "autor": "Deeba Ahmed",
+        "data": "2026-05-23",
+        "url": "https://hackread.com/rondodox-botnet-2018-vulnerability-hijack-asus-routers/",
+        "resumo": "Cybersecurity firm VulnCheck reveals hackers are using a critical 2018 vulnerability to bypass authentication and hack over a million ASUS routers.",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/05/rondodox-botnet-2018-vulnerability-hijack-asus-routers-2.jpg"
+    },
+    {
         "titulo": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
@@ -88,95 +178,5 @@
         "url": "https://blogs.cisco.com/security/ciscos-risk-based-vulnerability-disclosure-in-the-age-of-ai",
         "resumo": "Discover how Cisco is evolving its vulnerability disclosure practices. We are leveraging AI to prioritize high-risk security issues, helping customers focus on critical patching and remediation efforts.",
         "imagem": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/05/Qxp4DybL-ecosystem-developers-update-blog-feature.png"
-    },
-    {
-        "titulo": "Microsoft Security success stories: How St. Luke’s and ManpowerGroup are securing AI foundations",
-        "fonte": "Microsoft.com",
-        "autor": "Steve Dispensa",
-        "data": "2026-05-22",
-        "url": "https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-security-success-stories-how-st-lukes-and-manpowergroup-are-securing-ai-foundations/",
-        "resumo": "How Frontier firms secure AI at scale: read how Microsoft customers embed governance, identity, and cloud security to make protection an enabler of AI growth. The post Microsoft Security success stories: How St. Luke’s and ManpowerGroup are securing AI founda…",
-        "imagem": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/Microsoft-Security-success-stories.jpg"
-    },
-    {
-        "titulo": "This Week in Security: AI Generated Reports, More AI Generated Reports, GitHub Chaos, and More Linux Vulnerabilities",
-        "fonte": "Hackaday",
-        "autor": "Mike Kershaw",
-        "data": "2026-05-22",
-        "url": "https://hackaday.com/2026/05/22/this-week-in-security-ai-generated-reports-more-ai-generated-reports-github-chaos-and-more-linux-vulnerabilities/",
-        "resumo": "Google’s Project Zero demonstrates a new zero-click exploit for the Pixel 10 phones, showing a full escalation from remote to kernel without user interaction. During the investigation Project Zero found …read more",
-        "imagem": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg"
-    },
-    {
-        "titulo": "Cyberattacks in supply chains: A multi-case study",
-        "fonte": "Plos.org",
-        "autor": "Xue Zhang, Xiaoya Ba, Bo Li",
-        "data": "2026-05-22",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350010",
-        "resumo": "Supply chains are increasingly vulnerable to Supply Chain Cyberattacks (SCCAs) that exploit third-party trust and bypass traditional perimeter-based defenses. This study investigates the propagation mechanisms, impacts, and governance of SCCAs through a quali…",
-        "imagem": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0350010.t006&size=inline"
-    },
-    {
-        "titulo": "Technology Short Take 196",
-        "fonte": "Scottlowe.org",
-        "autor": "Scott Lowe",
-        "data": "2026-05-22",
-        "url": "https://blog.scottlowe.org/2026/05/22/technology-short-take-196/",
-        "resumo": "Welcome to Technology Short Take 196! Just in time for the US Memorial Day holiday, I am back with another list of articles related to various data center technologies like networking, security, operating systems, and applications. You will find articles on V…",
-        "imagem": "https://blog.scottlowe.org//public/img/cards/2026-05-22-technology-short-take-196.png"
-    },
-    {
-        "titulo": "Trump Mobile under fire after customer information was exposed online",
-        "fonte": "Dailymail.com",
-        "autor": "Stacy Liberatore",
-        "data": "2026-05-22",
-        "url": "https://www.dailymail.com/sciencetech/article-15837489/trump-mobile-customer-data-breach.html",
-        "resumo": "Trump Mobile has come under scrutiny following reports that a vulnerability on its website may have exposed customers&#x27; private information online.",
-        "imagem": "https://i.dailymail.com/1s/2026/05/21/14/108777251-0-image-a-16_1779369161107.jpg"
-    },
-    {
-        "titulo": "Trend Micro warns of Apex One zero-day exploited in the wild",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-05-22",
-        "url": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
-        "resumo": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/05/22/Trend-Micro.jpg"
-    },
-    {
-        "titulo": "EU makes little progress in talks with Anthropic on Mythos testing",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-05-22",
-        "url": "https://cryptobriefing.com/eu-anthropic-mythos-testing-stalled/",
-        "resumo": "The EU&#x27;s struggle to access Mythos highlights a cybersecurity gap, prompting potential shifts towards AI sovereignty and regulatory changes. The post EU makes little progress in talks with Anthropic on Mythos testing appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg"
-    },
-    {
-        "titulo": "Cycurion Acquires Secuvant, Supercharging AI-Driven Cybersecurity with Automated, Scalable Threat Defense – Perfectly Complements HavenX Platform",
-        "fonte": "Financial Post",
-        "autor": "GlobeNewswire",
-        "data": "2026-05-22",
-        "url": "https://financialpost.com/globe-newswire/cycurion-acquires-secuvant-supercharging-ai-driven-cybersecurity-with-automated-scalable-threat-defense-perfectly-complements-havenx-platform",
-        "resumo": "MCLEAN, Va., May 22, 2026 (GLOBE NEWSWIRE) — Cycurion, Inc. (NASDAQ: CYCU) (“Cycurion” or the “Company”), a leading provider of AI-driven cybersecurity, IT security solutions, and managed services, today announced the acquisition of Secuvant, LLC (“Secuvant”)…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Cycurion Acquires Secuvant, Supercharging AI-Driven Cybersecurity with Automated, Scalable Threat Defense – Perfectly Complements HavenX Platform",
-        "fonte": "GlobeNewswire",
-        "autor": "Cycurion",
-        "data": "2026-05-22",
-        "url": "https://www.globenewswire.com/news-release/2026/05/22/3300115/0/en/Cycurion-Acquires-Secuvant-Supercharging-AI-Driven-Cybersecurity-with-Automated-Scalable-Threat-Defense-Perfectly-Complements-HavenX-Platform.html",
-        "resumo": "MCLEAN, Va., May 22, 2026 (GLOBE NEWSWIRE) -- Cycurion, Inc. (NASDAQ: CYCU) (“Cycurion” or the “Company”), a leading provider of AI-driven cybersecurity, IT security solutions, and managed services, today announced the acquisition of Secuvant, LLC (“Secuvant”…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Update Chrome now: Critical bugs could let attackers run code",
-        "fonte": "Malwarebytes.com",
-        "autor": "Pieter Arntz",
-        "data": "2026-05-22",
-        "url": "https://www.malwarebytes.com/blog/bugs/2026/05/update-chrome-now-critical-bugs-could-let-attackers-run-code",
-        "resumo": "This Chrome update fixes critical flaws attackers could exploit through malicious websites, but not the “Browser Fetch” vulnerability.",
-        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2023/11/Chrome-1200.png"
     }
 ]
