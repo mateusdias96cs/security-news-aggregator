@@ -1,182 +1,173 @@
 [
     {
-        "titulo": "Security platformization vs. best-of-breed: Risks and benefits",
-        "fonte": "Techtarget.com",
-        "autor": "Jaikumar Vijayan",
-        "data": "2026-05-26",
-        "url": "https://www.techtarget.com/searchsecurity/feature/Security-platformization-vs-best-of-breed-Risks-and-benefits",
-        "resumo": "With tool sprawl pushing costs and complexity to a breaking point, the choice between unified security platforms and best-of-breed tools has never been more critical.",
-        "imagem": "https://www.techtarget.com/rms/onlineimages/check_g496816315.jpg"
+        "titulo": "CERT-In releases blueprint for defending against AI-assisted cyber threats",
+        "fonte": "MediaNama.com",
+        "autor": "Aakriti Bansal",
+        "data": "2026-05-27",
+        "url": "https://www.medianama.com/2026/05/223-cert-in-releases-blueprint-for-defending-against-ai-assisted-cyber-threats/",
+        "resumo": "CERT-In has released a new blueprint detailing how organisations should defend against AI-assisted cyber threats, including deepfake attacks and AI-generated malware. The post CERT-In releases blueprint for defending against AI-assisted cyber threats appeared…",
+        "imagem": "https://www.medianama.com/wp-content/uploads/2022/06/cyberattack.jpeg"
     },
     {
-        "titulo": "BNP Paribas works with Mistral on a European answer to Anthropic’s Mythos",
-        "fonte": "The Next Web",
-        "autor": "Ana-Maria Stanciuc",
-        "data": "2026-05-26",
-        "url": "https://thenextweb.com/news/bnp-paribas-mistral-mythos-rival-sovereign-ai/",
-        "resumo": "BNP Paribas is working with Mistral AI to prepare for a category of AI cybersecurity tools its US peers already use and its European supervisors cannot reliably get hold of, according to a Bloomberg report on Tuesday. The Paris-based bank, the eurozone’s larg…",
-        "imagem": "https://media.thenextweb.com/2026/05/BNP-Paribas.avif"
+        "titulo": "Synack Named a Leader in G2’s Grid Report and Enterprise Grid Report for Penetration Testing, Summer 2026",
+        "fonte": "GlobeNewswire",
+        "autor": "Synack",
+        "data": "2026-05-27",
+        "url": "https://www.globenewswire.com/news-release/2026/05/27/3301760/0/en/Synack-Named-a-Leader-in-G2-s-Grid-Report-and-Enterprise-Grid-Report-for-Penetration-Testing-Summer-2026.html",
+        "resumo": "Synack Named a Leader in G2&#x27;s Grid® Report and Enterprise Grid® Report for Penetration Testing, Summer 2026...",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/a4d297b6-ecea-49ac-aa47-4bba71fd233f"
     },
     {
-        "titulo": "New TELUS Digital Research Uncovers AI Safety Risks, Offers a Blueprint to Protect Enterprise AI Applications",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-05-26",
-        "url": "https://www.prnewswire.com/news-releases/new-telus-digital-research-uncovers-ai-safety-risks-offers-a-blueprint-to-protect-enterprise-ai-applications-302781234.html",
-        "resumo": "Study of 34 AI models from 10 global providers finds open-source AI models are not less safe, reasoning models are hardest to exploit and smaller models are the most vulnerable VANCOUVER, BC, May 26, 2026 /PRNewswire/ - TELUS Digital, a global technology serv…",
-        "imagem": "https://mma.prnewswire.com/media/2987112/TELUS_Digital_New_TELUS_Digital_Research_Uncovers_AI_Safety_Risk.mp4?p=medium"
+        "titulo": "RevEng.AI raises $15 million to verify the security and integrity of AI-generated software",
+        "fonte": "GlobeNewswire",
+        "autor": "RevEng.AI",
+        "data": "2026-05-27",
+        "url": "https://www.globenewswire.com/news-release/2026/05/27/3301754/0/en/RevEng-AI-raises-15-million-to-verify-the-security-and-integrity-of-AI-generated-software.html",
+        "resumo": "RevEng.AI raises $15 million Series A to verify the security and integrity of AI-generated software....",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/3baf0375-504f-4e8a-b978-997ac0af9e0d"
     },
     {
-        "titulo": "New TELUS Digital Research Uncovers AI Safety Risks, Offers a Blueprint to Protect Enterprise AI Applications",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-05-26",
-        "url": "https://www.prnewswire.com/news-releases/new-telus-digital-research-uncovers-ai-safety-risks-offers-a-blueprint-to-protect-enterprise-ai-applications-847681835.html",
-        "resumo": "Study of 34 AI models from 10 global providers finds open-source AI models are not less safe, reasoning models are hardest to exploit and smaller models are the most vulnerable VANCOUVER, BC, May 26, 2026 /CNW/ - TELUS Digital, a global technology service pro…",
-        "imagem": "https://mma.prnewswire.com/media/2987112/TELUS_Digital_New_TELUS_Digital_Research_Uncovers_AI_Safety_Risk.mp4?p=medium"
-    },
-    {
-        "titulo": "High-severity SharePoint RCE bug patched by Microsoft (CVE-2026-45659)",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-05-26",
-        "url": "https://www.helpnetsecurity.com/2026/05/26/sharepoint-vulnerability-cve-2026-45659/",
-        "resumo": "Microsoft has released patches for a high-severity remote code execution vulnerability (CVE-2026-45659) in SharePoint that may be exploited in low-complexity attacks. It affects the SharePoint Server Subscription Edition, SharePoint Server 2019, and SharePoin…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/07/20231158/microsoft_sharepoint.webp"
-    },
-    {
-        "titulo": "Government should take cybersecurity more seriously, says ethical hacker on CBSE OSM flaws",
-        "fonte": "BusinessLine",
-        "autor": "S Ronendra Singh",
-        "data": "2026-05-26",
-        "url": "https://www.thehindubusinessline.com/news/education/government-should-take-cybersecurity-more-seriously-says-ethical-hacker-on-cbse-osm-flaws/article71024371.ece",
-        "resumo": "Ethical hacker Nisarga Adhikary claims CBSE’s online marking portal had critical flaws that could allow marks tampering and data breaches.",
-        "imagem": "https://bl-i.thgim.com/public/incoming/6ik2jn/article71024663.ece/alternates/LANDSCAPE_1200/2024-12-16T181109Z_649999916_RC2HQBAR2Q01_RTRMADP_3_NIGERIA-CRYPTOCURRENCY-FRAUD.JPG"
-    },
-    {
-        "titulo": "India&#x27;s CERT-In Sets 12-Hour Patch Deadline for Exposed Flaws",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Alessandro Mascellino",
-        "data": "2026-05-26",
-        "url": "https://www.infosecurity-magazine.com/news/cert-in-12-hour-patch-deadline-ai/",
-        "resumo": "CERT-In urges 12-hour patching of exposed flaws as AI compresses exploitation timelines",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/5289db79-407f-40fb-a1be-b72cc6e4eb41.jpg"
-    },
-    {
-        "titulo": "AI shrinks zero-day exploit time from a year to a single day, heading toward one minute — Zero-Day Clock warns security window has collapsed",
-        "fonte": "Toms Hardware UK",
-        "autor": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
-        "data": "2026-05-26",
-        "url": "https://www.tomshardware.com/tech-industry/cyber-security/zero-day-clock-visualizes-and-quantifies-the-effects-of-ai-on-software-security-time-until-exploit-went-from-one-year-to-one-day-and-projected-to-be-one-minute-soon-enough",
-        "resumo": "Zero-Day clock visualizes the effect of AI on software security and predicts that exploits will happen one minute after disclosure in 2027.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/4G5SwapR6Ldgi5PgLpMAjK-2400-80.jpg"
-    },
-    {
-        "titulo": "Exposing Critical Vulnerabilities in CBSE&#x27;s On-Screen Marking Portal",
-        "fonte": "Ni5arga.com",
-        "autor": "Nisarga Adhikary",
-        "data": "2026-05-26",
-        "url": "https://ni5arga.com/blog/posts/hacking-cbse/",
-        "resumo": "thoughts about programming, security &amp; life",
-        "imagem": "https://ni5arga.com/api/og?title=Exposing%20Critical%20Vulnerabilities%20in%20CBSE%E2%80%99s%20On-Screen%20Marking%20Portal%3A%20From%20Authentication%20Bypass%20to%20Full%20Account%20Takeover"
-    },
-    {
-        "titulo": "CERT-In Mandates 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
+        "titulo": "Gitea Vulnerability Exposes Private Container Images without Authentication",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-05-26",
-        "url": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
-        "resumo": "The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12 hours of being flagged where &quot;feasible&quot; to safeguard against potential thr…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9yN2AliOVdy0oCCMNYXnnrLjE6yWRz_eXVGFhiIw9vxnia2BMUxqhMrI8Q23Y2hHcF-hjqbw4aIqJTvO4zDD1k_WlKzEqx_FZ7P45mn8RiQ1UEqNUgqXv4DqrkzyyjjjgjKcPnNjzKHTTX8NIelTf4L_Cbx4XyYK6piDr1oPFfSmtk-59NCbU3cGCQEcQ/s1700-e365/indian-cert.jpg"
+        "data": "2026-05-27",
+        "url": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
+        "resumo": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, pas…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtYSLWixSGb7jW2drND6NlHzXB4eHO0QyZNOovK9iVyaHGS6fSN4eqhWkijIhevhInH56hv03c29ziWCZiH58kY5EBbfuZloLfMP9yGJuFVtIaoJqj31KVFNeImMNVnLGrRHbhcGw7IMVZ8FEH2tK-Bit50KzXfe0F9jEQAO9iy5PNprbqJzgRB2WkI-0i/s1700-e365/gitea-main.jpg"
     },
     {
-        "titulo": "Our survey about vibe coding became a vent session for the AI haters",
-        "fonte": "Business Insider",
-        "autor": "Stephen Council",
-        "data": "2026-05-26",
-        "url": "https://www.businessinsider.com/anthropic-boris-cherny-vibe-coding-readers-weigh-in-2026-5",
-        "resumo": "Business Insider asked readers for terms that could replace &quot;vibe coding,&quot; and they answered with vitriol toward AI.",
-        "imagem": "https://i.insider.com/6a0c98fa7684ba33f7380603?width=1200&format=jpeg"
-    },
-    {
-        "titulo": "CISA faces cuts and diminished role amid rising AI cyber threats",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-05-26",
-        "url": "https://cryptobriefing.com/cisa-cuts-ai-cyber-threats/",
-        "resumo": "CISA&#x27;s reduced capacity amid AI cyber threats risks leaving critical infrastructure and smaller digital platforms vulnerable to sophisticated attacks. The post CISA faces cuts and diminished role amid rising AI cyber threats appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/26045639/cisa-faces-leadership-changes-amidst-staffing-cuts-and-secur-1-800x420.jpeg"
-    },
-    {
-        "titulo": "CISA orders feds to patch actively exploited Drupal vulnerability",
+        "titulo": "CISA gives feds 4 days to patch actively exploited cPanel plugin flaw",
         "fonte": "BleepingComputer",
         "autor": "Sergiu Gatlan",
-        "data": "2026-05-26",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
-        "resumo": "CISA has given U.S. government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as actively exploited. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/05/26/Drupal.jpg"
+        "data": "2026-05-27",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. federal agencies four days to secure their servers against a critical vulnerability in the LiteSpeed cPanel user-end plugin, which is actively being exploited in attacks. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/05/27/cPanel.jpg"
     },
     {
-        "titulo": "Ensuring Collaboration Security and Compliance in the Age of AI: A Roadmap for IT and Security Leaders, Emphasizing That &quot;Set It and Forget It&quot; Security is a Relic of the Past",
+        "titulo": "ECB tells eurozone banks to tighten cyber-security as AI shifts the threat picture",
+        "fonte": "The Next Web",
+        "autor": "Ana-Maria Stanciuc",
+        "data": "2026-05-27",
+        "url": "https://thenextweb.com/news/ecb-eurozone-banks-tighter-cyber-security-ai/",
+        "resumo": "The European Central Bank has formally told eurozone banks they must tighten their cyber-security posture in response to AI-led attack tools, in a follow-up statement issued on Wednesday that turns earlier private guidance into something closer to a superviso…",
+        "imagem": "https://media.thenextweb.com/2026/05/European-Central-Bank.avif"
+    },
+    {
+        "titulo": "Proofpoint Introduces Active Exploits Protection to Help Organizations Prioritize Vulnerability Patching for Real-World Attacks in the AI Era",
         "fonte": "GlobeNewswire",
-        "autor": "Research and Markets",
-        "data": "2026-05-26",
-        "url": "https://www.globenewswire.com/news-release/2026/05/26/3300810/28124/en/Ensuring-Collaboration-Security-and-Compliance-in-the-Age-of-AI-A-Roadmap-for-IT-and-Security-Leaders-Emphasizing-That-Set-It-and-Forget-It-Security-is-a-Relic-of-the-Past.html",
-        "resumo": "Opportunities lie in transforming cybersecurity into a competitive edge by integrating security into innovation from the start, managing multi-vendor environments, and adopting AI security plans with human oversight, as underscored by rising threats in GenAI-…",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7"
+        "autor": "Proofpoint, Inc.",
+        "data": "2026-05-27",
+        "url": "https://www.globenewswire.com/news-release/2026/05/27/3301678/35374/en/Proofpoint-Introduces-Active-Exploits-Protection-to-Help-Organizations-Prioritize-Vulnerability-Patching-for-Real-World-Attacks-in-the-AI-Era.html",
+        "resumo": "New solution reduces exposure to actively exploited vulnerabilities in minutes by turning intelligence into immediate protection across primary attack paths New solution reduces exposure to actively exploited vulnerabilities in minutes by turning intelligence…",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/5c97f3d3-aee5-4cc1-87c0-1cef1b628f18"
     },
     {
-        "titulo": "Cybersecurity jobs available right now: May 26, 2026",
+        "titulo": "European Central Bank urges banks to boost cyber security investments as AI threats accelerate",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-05-27",
+        "url": "https://cryptobriefing.com/ecb-banks-cybersecurity-ai-threats/",
+        "resumo": "The ECB&#x27;s call for enhanced cybersecurity investments highlights the urgent need for banks to adapt to evolving AI-driven cyber threats. The post European Central Bank urges banks to boost cyber security investments as AI threats accelerate appeared first on …",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/27043202/ecb-pushes-banks-toward-ai-compliance-amid-mythos-threat-ai--1-800x420.jpeg"
+    },
+    {
+        "titulo": "Shadow AI bigger threat than hackers as cyberattacks accelerate in AI era: Google DeepMind&#x27;s Gupta",
+        "fonte": "The Tribune India",
+        "autor": "Ani",
+        "data": "2026-05-27",
+        "url": "https://www.tribuneindia.com/news/business/shadow-ai-bigger-threat-than-hackers-as-cyberattacks-accelerate-in-ai-era-google-deepminds-gupta/",
+        "resumo": "Shadow AI and unauthorized AI agents operating inside organisations are emerging as a bigger cybersecurity threat than hackers in the rapidly evolving AI era, with cyberattacks becoming faster and more sophisticated than ever before, Manish Gupta, Senior Dire…",
+        "imagem": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYThiNWRjNTEwLTU5OWEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc="
+    },
+    {
+        "titulo": "Microsoft SharePoint Has a New RCE Flaw. If You Haven’t Patched Yet, Go Do That.",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-05-27",
+        "url": "https://securityaffairs.com/192730/security/microsoft-sharepoint-has-a-new-rce-flaw-if-you-havent-patched-yet-go-do-that.html",
+        "resumo": "A critical vulnerability, tracked as CVE-2026-45659, in Microsoft SharePoint can allow attackers to achieve remote code execution with little effort. Microsoft released security updates to patch a high-severity SharePoint vulnerability, tracked as CVE-2026-45…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2019/05/Microsoft-SharePoint.jpg"
+    },
+    {
+        "titulo": "Risky Business #839 -- TeamPCP stole GitHub&#x27;s internal repos",
+        "fonte": "Risky.biz",
+        "autor": "James Wilson",
+        "data": "2026-05-27",
+        "url": "https://risky.biz/RB839/",
+        "resumo": "On this week’s show Patrick Gray, Adam Boileau and James Wilson discuss the week’s cybersecurity news. They cover: TeamPCP breached GitHub’s internal repos. Now what? Some absolute plonker glued Coruna to a hijacked npm package …",
+        "imagem": "https://risky.biz/static/img/RB-OG-Social.jpg"
+    },
+    {
+        "titulo": "Coinflow CISO on crypto payments security under AI pressure",
+        "fonte": "Help Net Security",
+        "autor": "Mirko Zorz",
+        "data": "2026-05-27",
+        "url": "https://www.helpnetsecurity.com/2026/05/27/malcolm-portelli-coinflow-crypto-payments-security/",
+        "resumo": "Crypto payment firms sit near the top of the target list for advanced persistent threat groups, and the workload on their security leaders keeps growing. Malcolm Portelli, CISO at Coinflow, runs the company’s security program from Malta. Coinflow is headquart…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/26121932/malcolm_portelli-2-coinflow.webp"
+    },
+    {
+        "titulo": "Anthropic faces trust challenges as Mythos AI rollout begins",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-05-27",
+        "url": "https://cryptobriefing.com/anthropic-mythos-ai-crypto-security-challenges/",
+        "resumo": "Anthropic&#x27;s AI breach highlights the dual-use dilemma, raising concerns about cybersecurity dependencies and the ethics of advanced AI deployment. The post Anthropic faces trust challenges as Mythos AI rollout begins appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/27011635/what-is-mythos-and-why-are-experts-worried-about-anthropic-s-2-1-800x420.jpeg"
+    },
+    {
+        "titulo": "Vigolium: Open-source vulnerability scanner",
         "fonte": "Help Net Security",
         "autor": "Anamarija Pogorelec",
+        "data": "2026-05-27",
+        "url": "https://www.helpnetsecurity.com/2026/05/27/vigolium-open-source-vulnerability-scanner/",
+        "resumo": "Vigolium, an open-source vulnerability scanner that combines deterministic scanning with AI-driven auditing, launched its initial open-source release this month. The project ships 235+ scanner modules and an in-process agent runtime called olium that handles …",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/26063643/vigolium-1500.webp"
+    },
+    {
+        "titulo": "India stress-tests government and banking software against Anthropic’s Mythos AI model",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-05-27",
+        "url": "https://cryptobriefing.com/india-tests-anthropic-mythos-ai-vulnerabilities/",
+        "resumo": "India&#x27;s proactive cybersecurity measures against AI threats highlight the growing need for global cooperation and regulatory frameworks in tech security. The post India stress-tests government and banking software against Anthropic’s Mythos AI model appeared …",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/27003022/the-mythos-stress-test-can-indian-fintechs-banks-fend-off-ai-1-800x420.jpeg"
+    },
+    {
+        "titulo": "State leaders renew call for cyber grant program’s renewal",
+        "fonte": "Route-fifty.com",
+        "autor": "Chris Teale",
         "data": "2026-05-26",
-        "url": "https://www.helpnetsecurity.com/2026/05/26/cybersecurity-jobs-available-right-now-may-26-2026/",
-        "resumo": "Application Security Engineer IG Group | India | Hybrid – View job details As an Application Security Engineer, you will assess the security of web, mobile, and cloud applications through penetration testing, secure code reviews, threat modeling, and architec…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140410/cybersecurity_jobs-4-1500.webp"
+        "url": "https://www.route-fifty.com/cybersecurity/2026/05/state-leaders-renew-call-cyber-grant-programs-renewal/413758/",
+        "resumo": "The State and Local Cybersecurity Grant Program is facing down a September deadline for reauthorization. Without it, officials warned that current efforts would lose momentum.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/05/26/20260526_SLCGP_HHSC-2/open-graph.png"
     },
     {
-        "titulo": "Google raises concerns over Canada’s Bill C-22, impact on encryption",
-        "fonte": "MobileSyrup",
-        "autor": "Jonathan Lamont",
-        "data": "2026-05-25",
-        "url": "https://mobilesyrup.com/2026/05/25/google-concerns-canada-bill-c-22-weaken-encryption/",
-        "resumo": "Google is the latest big tech company to take a stand against the Canadian government’s Bill C-22, also known as lawful access. In a submission to the House of Commons committee scrutinizing the bill, the search giant said the new laws would risk compromising…",
-        "imagem": "https://production-static.mobilesyrup.com/uploads/2023/10/google-logo-header-08312021-scaled-1.jpg"
+        "titulo": "Apple, Google say lawful access bill could undermine user safety, privacy - National | Globalnews.ca",
+        "fonte": "Global News",
+        "autor": "Sean Boynton",
+        "data": "2026-05-26",
+        "url": "https://globalnews.ca/news/11865152/lawful-access-privacy-apple-google/",
+        "resumo": "The testimony comes amid increasing concerns from privacy experts and technology service providers about the controversial measures in Bill C-22.",
+        "imagem": "https://globalnews.ca/wp-content/uploads/2026/05/apple-store-file-may-26-e1779824191346.jpg?quality=65&strip=all&w=720&h=379&crop=1"
     },
     {
-        "titulo": "Q&amp;A: What is “secured autonomy” and why is it needed?",
-        "fonte": "Digital Journal",
-        "autor": "Dr. Tim Sandle",
-        "data": "2026-05-25",
-        "url": "https://www.digitaljournal.com/tech-science/qa-what-is-secured-autonomy-and-why-is-it-needed/article",
-        "resumo": "Secured Autonomy has three main pillars: platform security, communications and electronic warfare protection, and fleet-level protection. what does this mean for business? The post Q&amp;A: What is “secured autonomy” and why is it needed? appeared first on Digita…",
-        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2026/01/ce60c85b2682e586b404a853b120f56e7c451198.jpg"
+        "titulo": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
+        "fonte": "BleepingComputer",
+        "autor": "Ionut Ilascu",
+        "data": "2026-05-26",
+        "url": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
+        "resumo": "Hackers exploited a critical zero-day vulnerability in a server running the KnowledgeDeliver learning management system (LMS) to deploy the Godzilla web shell. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/03/12/hacker.jpg"
     },
     {
-        "titulo": "The new topography for cybersecurity",
-        "fonte": "iTnews",
-        "autor": "",
-        "data": "2026-05-25",
-        "url": "https://www.itnews.com.au/video/the-new-topography-for-cybersecurity-626120",
-        "resumo": "As AI and cloud technologies reshape work, cybersecurity must shift from blocking change to enabling secure innovation.",
-        "imagem": "https://i.nextmedia.com.au/Videos/thumb_-_2026-05-25T164926.213.jpg"
-    },
-    {
-        "titulo": "Google Slams Ottawa’s New Internet Bill and Refuses to Build Privacy Backdoors",
-        "fonte": "iPhone in Canada",
-        "autor": "John Quintet",
-        "data": "2026-05-25",
-        "url": "https://www.iphoneincanada.ca/2026/05/25/google-slams-canadas-new-internet-bill-and-refuses-to-build-privacy-backdoors/",
-        "resumo": "Google’s official submission to the House of Commons Standing Committee on Public Safety and National Security just dropped, and the tech giant is not holding back on the federal government’s Bill C-22. We’ve already heard from Apple and Meta, and now Google’…",
-        "imagem": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/05/google-phone.jpg"
-    },
-    {
-        "titulo": "Microsoft Introduces MDASH for Large-Scale AI Vulnerability Research",
-        "fonte": "InfoQ.com",
-        "autor": "Robert Krzaczyński",
-        "data": "2026-05-25",
-        "url": "https://www.infoq.com/news/2026/05/microsoft-mdash/",
-        "resumo": "Microsoft has introduced a new AI-driven vulnerability discovery system called MDASH, a multi-model agentic security platform designed to automate large-scale code auditing across Windows and other Microsoft software environments. The system combines more tha…",
-        "imagem": "https://res.infoq.com/news/2026/05/microsoft-mdash/en/headerimage/generatedHeaderImage-1779714731614.jpg"
+        "titulo": "Zscaler Announces Strong Third-Quarter Fiscal 2026 Results",
+        "fonte": "GlobeNewswire",
+        "autor": "Zscaler, Inc.",
+        "data": "2026-05-26",
+        "url": "https://www.globenewswire.com/news-release/2026/05/26/3301454/0/en/Zscaler-Announces-Strong-Third-Quarter-Fiscal-2026-Results.html",
+        "resumo": "Achieves record operating margin and strong revenue growth Achieves record operating margin and strong revenue growth",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/bc212637-6ad5-43b1-9aa5-f998c8fe68ba"
     }
 ]
