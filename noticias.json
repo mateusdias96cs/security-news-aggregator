@@ -1,5 +1,131 @@
 [
     {
+        "titulo": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-05-30",
+        "url": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
+        "resumo": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-0257 (CVSS score: 7.8), refers to a case of authen…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkaW0i4ALAlpWQ_cOjfhoqUlNgMlZysJA6ay0qPViGI_KxEEG-Hh0KdtWLqBXDH42ZBGSONs0ZJuzOqdRF7vbx6Xa9J8HlP60lY45JHy0ivdRQs0exe4wZT2lI3TW4oDO-XXPVz2pek2M3izLqT3ONwq2iuHPN31ZZvK3jl0zIDq_h5XF1CTRk7fUPzjEQ/s1700-e365/panos.jpg"
+    },
+    {
+        "titulo": "UC Faculty Warn Test-Optional Policies Are Failing STEM Students and Hurting Real ‘Equity’",
+        "fonte": "Legalinsurrection.com",
+        "autor": "Leslie Eastman",
+        "data": "2026-05-29",
+        "url": "https://legalinsurrection.com/2026/05/uc-faculty-warn-test-optional-policies-are-failing-stem-students-and-hurting-real-equity/",
+        "resumo": "&quot;The SAT/ACT mathematics requirement is not an obstacle to equity; rather, it is a prerequisite for it. Failing to measure preparation gaps does not remove barriers; it moves them into the classroom, where they become harder to overcome.&quot; The post UC Faculty …",
+        "imagem": "https://legalinsurrection.com/wp-content/uploads/2026/05/LI-116-Math-Professor.png"
+    },
+    {
+        "titulo": "InfoSight&#x27;s New Dashboard Turns Fragmented Threat Data into Executive-Ready Risk Decisions",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-05-29",
+        "url": "https://www.prnewswire.com/news-releases/infosights-new-dashboard-turns-fragmented-threat-data-into-executive-ready-risk-decisions-302786017.html",
+        "resumo": "New dashboard gives CISOs, CSOs, and senior technology leaders a centralized view of current cyber risk posture, active threats, sector-specific intelligence, and recommended remediation actions. MIAMI, May 29, 2026 /PRNewswire/ -- InfoSight, Inc., a leading …",
+        "imagem": "https://mma.prnewswire.com/media/2991073/InfoSight_Inc_Logo.jpg?p=facebook"
+    },
+    {
+        "titulo": "Show HN: Simple news aggregator with source bias meters",
+        "fonte": "Unbiasthenews.com",
+        "autor": "sammy0910",
+        "data": "2026-05-29",
+        "url": "https://unbiasthenews.com",
+        "resumo": "Article URL: https://unbiasthenews.com Comments URL: https://news.ycombinator.com/item?id=48327194 Points: 2 # Comments: 0",
+        "imagem": ""
+    },
+    {
+        "titulo": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-05-29",
+        "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
+        "resumo": "Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant&#x27;s implicit trust in Markdown links and images to trigger prompt injections and open the door to phishing attacks. …",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikkk-MbHPjc5UpAORUC9pUfe-LntIu7A2tsg3EBFPXh3b6WXoiv8HtxvSakdqICfwN1YGSY452zIdjuyafscYfbf7yKnzbE_SxWxmPeX9uBLkTWY7aNyzLK903ts83ThlQGKOPYKNCW6UHg2c7ia4O7cVIwV5p24c-POfHYTJak6tRmL03rbjOWxCfpPYb/s1700-e365/chatgpt-phishing.jpg"
+    },
+    {
+        "titulo": "Bill C-22 Is a Mess of the Government&#x27;s Own Making",
+        "fonte": "Ethanplant.ca",
+        "autor": "ethanplant",
+        "data": "2026-05-29",
+        "url": "https://ethanplant.ca/writing/bill-c22-is-a-mess/",
+        "resumo": "The government’s lawful access bill is no longer merely controversial. It is badly designed, badly explained, badly consulted, and now being rushed anyway.",
+        "imagem": "https://ethanplant.ca/images/profile.jpg"
+    },
+    {
+        "titulo": "Open-source security is a mess - IBM and Red Hat bet $5 billion and 20,000 engineers can fix it",
+        "fonte": "ZDNet",
+        "autor": "Steven Vaughan-Nichols",
+        "data": "2026-05-29",
+        "url": "https://www.zdnet.com/article/open-source-security-is-a-mess-ibm-and-red-hat-bet-5-billion-to-fix-it/",
+        "resumo": "Project Lightwell is an AI‑powered initiative to find and fix vulnerabilities in open-source software at an industrial scale. Here&#x27;s what we know so far.",
+        "imagem": "https://www.zdnet.com/a/img/resize/3baf386028d0b223b8cf512483c0da8b08b13890/2026/05/29/0ffadadd-24d5-4a5a-8f93-73e1d609acec/greenkeys-shutterstock-46170328.jpg?auto=webp&fit=crop&height=675&width=1200"
+    },
+    {
+        "titulo": "In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks",
+        "fonte": "Securityweek.com",
+        "autor": "SecurityWeek News",
+        "data": "2026-05-29",
+        "url": "https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/",
+        "resumo": "Noteworthy stories that might have slipped under the radar: Trump Mobile exposes customer data, phishers target the 2026 FIFA World Cup, CISA responds to recent supply chain attacks. The post In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, …",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg"
+    },
+    {
+        "titulo": "Hardware’s back: AI supercharges server, PC and memory sales",
+        "fonte": "SiliconANGLE News",
+        "autor": "Robert Hof",
+        "data": "2026-05-29",
+        "url": "https://siliconangle.com/2026/05/29/hardwares-back-ai-supercharges-server-pc-memory-sales/",
+        "resumo": "Hardware firms are cleaning up bigtime as enterprises and cloud providers can’t get enough computing power for their artificial intelligence dreams. Dell Technology’s stock rocketed an incredible 31% in morning trading Friday. That’s thanks to an almost unhea…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/aitechstocks-gemini.png"
+    },
+    {
+        "titulo": "First month of Mythos Preview testing exposes 10K flaws",
+        "fonte": "Techtarget.com",
+        "autor": "Phil Sweeney",
+        "data": "2026-05-29",
+        "url": "https://www.techtarget.com/searchsecurity/news/366643606/First-month-of-Mythos-Preview-testing-exposes-10K-flaws",
+        "resumo": "Anthropic&#x27;s Mythos Preview exposed 10,000-plus security flaws at tech giants in one month, revealing both opportunities and risks for the future of cybersecurity.",
+        "imagem": "https://www.techtarget.com/rms/onlineimages/security_a303249453.jpg"
+    },
+    {
+        "titulo": "Girls Who Code CEO: 70% of teen girls want to work in cybersecurity. We’re losing them before they start",
+        "fonte": "Fortune",
+        "autor": "Tarika Barrett",
+        "data": "2026-05-29",
+        "url": "https://fortune.com/2026/05/29/girls-cybersecurity-workforce-gap-ai-tarika-barrett-girls-who-code/",
+        "resumo": "Closing the 4.7-million-person cybersecurity workforce gap starts with one underutilized asset: the girls who are already interested.",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/05/Tarika-Barrett-2.jpg?resize=1200,600"
+    },
+    {
+        "titulo": "New infostealer reaches enterprise devices through FortiClient EMS vulnerability",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-05-29",
+        "url": "https://www.helpnetsecurity.com/2026/05/29/forticlient-ems-vulnerability-infostealer/",
+        "resumo": "Attackers are delivering a broad-spectrum infostealer to enterprise computers by exploiting a known vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS). “The [malicious] payload was presented as a Fortinet endpoint update and exec…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/01/21163939/fortinet-computer-1500.webp"
+    },
+    {
+        "titulo": "63SATS Cybertech gearing up for DPDP compliance services",
+        "fonte": "BusinessLine",
+        "autor": "Our Bureau",
+        "data": "2026-05-29",
+        "url": "https://www.thehindubusinessline.com/news/63sats-cybertech-gearing-up-for-dpdp-compliance-services/article71037008.ece",
+        "resumo": "63SATS Cybertech, the cybersecurity arm of 63 moons technologies, expects a surge in corporate demand for services to comply with the stiff Digital Personal Data Protection (DPDP) Act and AI-powered cybersecurity defences.",
+        "imagem": "https://bl-i.thgim.com/public/incoming/njkcdw/article71037084.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UCJ4CA1BU_R1531754019_0_b4a1fbc4-edb2-4373-b681-d51dfe20dac1.jpg"
+    },
+    {
+        "titulo": "EU Commission meets with Anthropic to discuss AI models and cybersecurity concerns",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-05-29",
+        "url": "https://cryptobriefing.com/eu-commission-anthropic-ai-models-meeting/",
+        "resumo": "The EU&#x27;s engagement with Anthropic highlights the growing need for international cooperation in AI regulation and cybersecurity transparency. The post EU Commission meets with Anthropic to discuss AI models and cybersecurity concerns appeared first on Crypto …",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/29064710/anthropic-talks-to-eu-including-on-its-cyber-security-models-1-800x420.jpeg"
+    },
+    {
         "titulo": "OrsiniAssets&#x27; Commitment to Financial Security and Compliance",
         "fonte": "GlobeNewswire",
         "autor": "OrsiniAssets",
@@ -52,131 +178,5 @@
         "url": "https://sites.libsyn.com/18678/linux-supply-chain-how-to-psw-928",
         "resumo": "This week we have a technical segment focused on Linux! Paul released a script that helps you get a handle on Linux supply chain security, and new features allow you to assess the state of Secure Boot on your Linux systems (that also use MS certificates, iron…",
         "imagem": "http://assets.libsyn.com/content/202392400?height=250&width=250&overlay=true"
-    },
-    {
-        "titulo": "IBM, Red Hat launch $5B Project Lightwell to boost open-source security",
-        "fonte": "SiliconANGLE News",
-        "autor": "Maria Deutscher",
-        "data": "2026-05-28",
-        "url": "https://siliconangle.com/2026/05/28/ibm-red-hat-launch-5b-project-lightwell-boost-open-source-security/",
-        "resumo": "IBM Corp. and its Red Hat subsidiary today launched an initiative called Project Lightwell to improve the security of open-source projects. Project Lightwell is backed by a $5 billion commitment. In addition, IBM and Red Hat will assign more than 20,000 engin…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/ibm.png"
-    },
-    {
-        "titulo": "Microsoft Threatens Researcher Over Bug Reports, Triggers Cybersecurity Uproar",
-        "fonte": "PCMag.com",
-        "autor": "Michael Kan",
-        "data": "2026-05-28",
-        "url": "https://uk.pcmag.com/security/165215/microsoft-threatens-researcher-over-bug-reports-triggers-cybersecurity-uproar",
-        "resumo": "Microsoft says it will coordinate &#x27;as needed with law enforcement&#x27; after a disgruntled researcher exposed Windows bugs without proper coordination. The cybersecurity community is blasting Microsoft for threatening legal action against a disgruntled researcher…",
-        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/m/microsoft-/microsoft-threatens-researcher-over-bug-reports-triggers-cyb_2ma9.1200.jpg"
-    },
-    {
-        "titulo": "Mythos was the critical trigger for IBM&#x27;s open-source cybersecurity push, Krishna says",
-        "fonte": "CNBC",
-        "autor": "Seema Mody",
-        "data": "2026-05-28",
-        "url": "https://www.cnbc.com/2026/05/28/ibm-mythos-open-source-cybersecurity.html",
-        "resumo": "IBM has signed Goldman Sachs, Morgan Stanley, JP Morgan and Bank of America onto its open-source cybersecurity effort called Project Lightwell.",
-        "imagem": "https://image.cnbcfm.com/api/v1/image/108295719-1776887809638-gettyimages-2242088737-TRUMP_DIWALI.jpeg?v=1776888154&w=1920&h=1080"
-    },
-    {
-        "titulo": "Less panic patching, more precision",
-        "fonte": "Talosintelligence.com",
-        "autor": "Thorsten Rosendahl",
-        "data": "2026-05-28",
-        "url": "https://blog.talosintelligence.com/less-panic-patching-more-precision/",
-        "resumo": "In this newsletter, Thor breaks down why you should stop relying solely on CVSS and start using EPSS and GCVE to focus your patching efforts on the threats that actually matter.",
-        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/05/threat_source-3.jpg"
-    },
-    {
-        "titulo": "Claude Opus 4.8 is now available on AWS",
-        "fonte": "Amazon.com",
-        "autor": "Aamna Najmi",
-        "data": "2026-05-28",
-        "url": "https://aws.amazon.com/blogs/machine-learning/claude-opus-4-8-is-now-available-on-aws/",
-        "resumo": "This post covers Opus 4.8&#x27;s improvements and practical guidance for AI engineers integrating the model into agentic systems and production inference workloads on Amazon Bedrock.",
-        "imagem": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/28/21036.png"
-    },
-    {
-        "titulo": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
-        "fonte": "BleepingComputer",
-        "autor": "Bill Toulas",
-        "data": "2026-05-28",
-        "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
-        "resumo": "Hackers are exploiting an authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deliver an undocumented credential stealer called EKZ. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/12/19/Fortinet.jpg"
-    },
-    {
-        "titulo": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-05-28",
-        "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
-        "resumo": "A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions. The security flaw, per Rapid7, is rated 9.4 on the CVSS scoring…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaqRd_3DDSSASg_YzvuUEqv3elhvFWSjk56bXPoqJeNIWVo-K0giuJ3TNEXV-aYpnuVfOv00_VM428vIFVaMiuZzfL0dQdQvz0_xMNFq4CtrppgTZu5dupV0asq1wZjPW3FoMgUnyGMR_RgBpWT2oTnJFuhaldo3Cd3eNP-MOlDNhP9Uu2KDRiDpYHdoeq/s1700-e365/exploit-meta.jpg"
-    },
-    {
-        "titulo": "NCCoE Manufacturing Project Update",
-        "fonte": "Nist.gov",
-        "autor": "Kristina Rigopoulos",
-        "data": "2026-05-28",
-        "url": "https://www.nist.gov/news-events/events/2026/06/nccoe-manufacturing-project-update",
-        "resumo": "Event Date/Time: June 4, 2026 | 1:00 P.M. – 2:00 P.M. The NIST NCCoE will host a virtual event on June 4, 2026, to provide an overview of upcoming guidelines on improving cybersecurity incident response and recovery capabilities for organizations",
-        "imagem": "https://www.nist.gov/themes/custom/nist_www/img/homepage/nist_mark.png"
-    },
-    {
-        "titulo": "CVE-2026-35616: FortiClient EMS Flaw Actively Exploited in Malware Attacks",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-05-28",
-        "url": "https://securityaffairs.com/192817/malware/cve-2026-35616-forticlient-ems-flaw-actively-exploited-in-malware-attacks.html",
-        "resumo": "A critical FortiClient Endpoint Management Server (EMS) vulnerability patched in April has been exploited in fresh attacks to deploy information-stealing malware, Arctic Wolf reports. The flaw, tracked as CVE-2026-35616 (CVSS score of 9.1), can be exploited r…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2019/11/fortinet-logo.jpg"
-    },
-    {
-        "titulo": "Micron and Sandisk aren&#x27;t the only tech stocks booming — take a look at these 3 cybersecurity plays",
-        "fonte": "Yahoo Entertainment",
-        "autor": "Brian Sozzi",
-        "data": "2026-05-28",
-        "url": "https://finance.yahoo.com/markets/stocks/article/micron-and-sandisk-arent-the-only-tech-stocks-booming--take-a-look-at-these-3-cybersecurity-plays-155426756.html",
-        "resumo": "Cybersecurity stocks get another look from investors.",
-        "imagem": "https://s.yimg.com/ny/api/res/1.2/viI9XeMXOMxEvN8_tXUQZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gettyimages-2162047311_2761.jpg"
-    },
-    {
-        "titulo": "Cloudflare&#x27;s AI pivot: Agentic AI risk considerations for IT execs",
-        "fonte": "Techtarget.com",
-        "autor": "Julie Hanson",
-        "data": "2026-05-28",
-        "url": "https://www.techtarget.com/searchcio/feature/Cloudflares-AI-pivot-Agentic-AI-risk-considerations-for-IT-execs",
-        "resumo": "Cloudflare cuts 1,100 jobs despite strong revenue growth, betting big on AI agents to reshape cybersecurity -- but experts warn of hidden risks ahead.",
-        "imagem": "https://www.techtarget.com/rms/onlineimages/ai_g1183318665.jpg"
-    },
-    {
-        "titulo": "Australia’s View of the Evolving Quad",
-        "fonte": "The Diplomat",
-        "autor": "Grant Wyeth",
-        "data": "2026-05-28",
-        "url": "https://thediplomat.com/2026/05/australias-view-of-the-evolving-quad/",
-        "resumo": "Canberra’s position – that Indo-Pacific stability depends not only on military deterrence, but also on the protection of trade flows, energy supplies, critical technologies, and economic sovereignty – has moved to the fore.",
-        "imagem": "https://thediplomat.com/wp-content/uploads/2026/05/sizes/td-story-s-2/thediplomat_2026-05-28-234030.jpg"
-    },
-    {
-        "titulo": "U.S. CISA adds Daemon Tools, TanStack, and Nx Console flaws to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-05-28",
-        "url": "https://securityaffairs.com/192776/security/u-s-cisa-adds-daemon-tools-tanstack-and-nx-console-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Daemon Tools, TanStack, and Nx Console flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Windows Shell and ConnectWise…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "AI is changing everything — but Dell says data remains the enterprise’s crown jewel",
-        "fonte": "SiliconANGLE News",
-        "autor": "Tristan Foster",
-        "data": "2026-05-28",
-        "url": "https://siliconangle.com/2026/05/28/cyber-resilience-age-ai-dells-data-first-approach-delltechworld/",
-        "resumo": "The breakneck expansion of AI is forcing enterprise IT leaders to urgently rethink how infrastructure and cyber resilience work together to protect critical assets. Above all else, securing foundational data is now paramount for enterprises as they forge ahea…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/IMG_0224-e1779971252545.jpg"
     }
 ]
