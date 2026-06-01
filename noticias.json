@@ -1,5 +1,68 @@
 [
     {
+        "titulo": "Week in review: Infostealer dropped via FortiClient EMS flaw, exploited Trend Micro Apex One flaw",
+        "fonte": "Help Net Security",
+        "autor": "Help Net Security",
+        "data": "2026-05-31",
+        "url": "https://www.helpnetsecurity.com/2026/05/31/week-in-review-infostealer-dropped-via-forticlient-ems-flaw-exploited-trend-micro-apex-one-flaw/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Coinflow CISO on crypto payments security under AI pressure Crypto payment firms sit near the top of the target list for advanced persistent threat groups, and t…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01112506/cybersecurity_week_in_review2.jpg"
+    },
+    {
+        "titulo": "&quot;They will ruin my life&quot;: Microsoft threatens to wield &#x27;Digital Crimes Unit&#x27; over zero-day exploit disclosures — causing uproar in the cybersec community",
+        "fonte": "Windows Central",
+        "autor": "jez@windowscentral.com (Jez Corden) , Jez Corden",
+        "data": "2026-05-30",
+        "url": "https://www.windowscentral.com/microsoft/they-will-ruin-my-life-microsoft-threatens-to-wield-digital-crimes-unit-over-zero-day-exploit-disclosures-causing-uproar-in-the-cybersec-community",
+        "resumo": "Microsoft&#x27;s approach to working with security researchers has long been controversial, but some of its recent language has alarmed some commentators.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/XF9dDmwefDZrFZ7Kd2Pqeg-2121-80.jpg"
+    },
+    {
+        "titulo": "Websites Are Spying on Your Solid State Drive",
+        "fonte": "Futurism",
+        "autor": "Joe Wilkins",
+        "data": "2026-05-30",
+        "url": "https://futurism.com/future-society/websites-spying-solid-state-drive",
+        "resumo": "&quot;In principle, it would be possible to train a model on any system activity that reliably generates SSD accesses.&quot; The post Websites Are Spying on Your Solid State Drive appeared first on Futurism.",
+        "imagem": "https://futurism.com/wp-content/uploads/2026/05/websites-spying-solid-state-drive.jpg?quality=85&w=1200"
+    },
+    {
+        "titulo": "Microsoft threatens legal action against researcher Nightmare Eclipse for exploit disclosure",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-05-30",
+        "url": "https://cryptobriefing.com/microsoft-threatens-nightmare-eclipse-exploit-disclosure/",
+        "resumo": "Microsoft&#x27;s legal threats may deter future vulnerability disclosures, risking security research stagnation and increased exploitation risks. The post Microsoft threatens legal action against researcher Nightmare Eclipse for exploit disclosure appeared first o…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/30112320/microsoft-under-fire-for-threatening-security-researcher-wit-800x420.jpeg"
+    },
+    {
+        "titulo": "What Is an AI Prompt Injection Attack? The Hidden Threat Hijacking Your Chatbots",
+        "fonte": "Decrypt",
+        "autor": "Jose Antonio Lanz",
+        "data": "2026-05-30",
+        "url": "https://decrypt.co/resources/what-is-ai-prompt-injection-attack",
+        "resumo": "Hackers can hijack ChatGPT, Claude, and Gemini with nothing but a sentence. OpenAI says the problem may never be fully solved. Here is what it is, how it works, and how to stay safe.",
+        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/05/ai-prompt-injection-learn-gID_4-pID_5.png"
+    },
+    {
+        "titulo": "Why did Microsoft threaten bug hunter prosecution? #tech",
+        "fonte": "Alltoc.com",
+        "autor": "AllToc",
+        "data": "2026-05-30",
+        "url": "https://alltoc.com/tech/why-did-microsoft-threaten-bug-hunter-prosecution",
+        "resumo": "Microsoft’s legal threats roil the bug disclosure community Microsoft has drawn widespread backlash after publishing a blog post concerning a security researcher known as “Nightmare Eclipse,” who publicly disclosed a series of unpatched vulnerabilities and pu…",
+        "imagem": "https://alltoc.com/cdn/1048/og.png"
+    },
+    {
+        "titulo": "Microsoft threatened a security researcher with criminal prosecution. The cybersecurity community is furious.",
+        "fonte": "The Next Web",
+        "autor": "Ana Maria Constantin",
+        "data": "2026-05-30",
+        "url": "https://thenextweb.com/news/microsoft-threatens-security-researcher-nightmare-eclipse/",
+        "resumo": "Microsoft published a blog post on Wednesday criticising a security researcher known as “Nightmare Eclipse” for publicly disclosing a series of unpatched vulnerabilities in Windows Defender and BitLocker. The company then invoked its Digital Crimes Unit, whic…",
+        "imagem": "https://media.thenextweb.com/2026/05/microsoft-threatens-security-researcher-nightmare-eclipse.avif"
+    },
+    {
         "titulo": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
@@ -72,6 +135,15 @@
         "imagem": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg"
     },
     {
+        "titulo": "Claude Opus 4.8 is now available in Microsoft Foundry",
+        "fonte": "Microsoft.com",
+        "autor": "Amar Badal",
+        "data": "2026-05-29",
+        "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367",
+        "resumo": "As AI applications become more complex, teams need models that can handle longer-running work, reason more deeply across complex analysis use tools more reliably across multi-step workflows, and support consistency for production workflows. Claude Opus 4.8 is…",
+        "imagem": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NTIzMzY3LWF0S3NUTQ?revision=2"
+    },
+    {
         "titulo": "Hardware’s back: AI supercharges server, PC and memory sales",
         "fonte": "SiliconANGLE News",
         "autor": "Robert Hof",
@@ -106,77 +178,5 @@
         "url": "https://www.helpnetsecurity.com/2026/05/29/forticlient-ems-vulnerability-infostealer/",
         "resumo": "Attackers are delivering a broad-spectrum infostealer to enterprise computers by exploiting a known vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS). “The [malicious] payload was presented as a Fortinet endpoint update and exec…",
         "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/01/21163939/fortinet-computer-1500.webp"
-    },
-    {
-        "titulo": "63SATS Cybertech gearing up for DPDP compliance services",
-        "fonte": "BusinessLine",
-        "autor": "Our Bureau",
-        "data": "2026-05-29",
-        "url": "https://www.thehindubusinessline.com/news/63sats-cybertech-gearing-up-for-dpdp-compliance-services/article71037008.ece",
-        "resumo": "63SATS Cybertech, the cybersecurity arm of 63 moons technologies, expects a surge in corporate demand for services to comply with the stiff Digital Personal Data Protection (DPDP) Act and AI-powered cybersecurity defences.",
-        "imagem": "https://bl-i.thgim.com/public/incoming/njkcdw/article71037084.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UCJ4CA1BU_R1531754019_0_b4a1fbc4-edb2-4373-b681-d51dfe20dac1.jpg"
-    },
-    {
-        "titulo": "EU Commission meets with Anthropic to discuss AI models and cybersecurity concerns",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-05-29",
-        "url": "https://cryptobriefing.com/eu-commission-anthropic-ai-models-meeting/",
-        "resumo": "The EU&#x27;s engagement with Anthropic highlights the growing need for international cooperation in AI regulation and cybersecurity transparency. The post EU Commission meets with Anthropic to discuss AI models and cybersecurity concerns appeared first on Crypto …",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/29064710/anthropic-talks-to-eu-including-on-its-cyber-security-models-1-800x420.jpeg"
-    },
-    {
-        "titulo": "OrsiniAssets&#x27; Commitment to Financial Security and Compliance",
-        "fonte": "GlobeNewswire",
-        "autor": "OrsiniAssets",
-        "data": "2026-05-29",
-        "url": "https://www.globenewswire.com/news-release/2026/05/29/3303438/0/en/OrsiniAssets-Commitment-to-Financial-Security-and-Compliance.html",
-        "resumo": "Kirkcaldy,Scotland, May 29, 2026 (GLOBE NEWSWIRE) -- - OrsiniAssets employs a rigorous, enterprise-grade cybersecurity architecture designed to provide maximum protection for client assets, transactions, and sensitive financial data. The firm leverages adva…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Closing the security blind spots that are a prime entry point for attacks",
-        "fonte": "TechRadar",
-        "autor": "Yaz Bekkar",
-        "data": "2026-05-29",
-        "url": "https://www.techradar.com/pro/closing-the-security-blind-spots-that-are-a-prime-entry-point-for-attacks",
-        "resumo": "What if the biggest cyber risk isn’t the feared attack, but a hidden, unknown vulnerability?",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/jt92kXfBXVXUWwnKBmDJLn-2560-80.jpg"
-    },
-    {
-        "titulo": "Google Warns Canada’s Bill C-22 Could Create Surveillance Backdoors",
-        "fonte": "Naturalnews.com",
-        "autor": "Edison Reed",
-        "data": "2026-05-29",
-        "url": "https://www.naturalnews.com/2026-05-29-google-warns-canada-bill-could-create-surveillance-backdoors.html",
-        "resumo": "Google has told Canadian lawmakers that Bill C-22, the proposed Lawful Access Act, would build a “surveillance infrastructure” that weakens cybersecurity for everyone, according to a report by Reclaim The Net. The company’s submission to the House of Commons …",
-        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/bill-c-22-surveillance-backdoors-encryption-1758-original.jpg"
-    },
-    {
-        "titulo": "Wipro shares could rally 18% if ADR is an indicator. Here’s why IT major is in focus",
-        "fonte": "The Times of India",
-        "autor": "Veer Sharma",
-        "data": "2026-05-29",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/wipro-shares-could-rally-18-if-adr-is-an-indicator-heres-why-it-major-is-in-focus/articleshow/131380918.cms",
-        "resumo": "Wipro ADRs surged up to 18.5% after the IT major announced an expanded partnership with ServiceNow to scale agentic AI workflows across enterprise functions. The collaboration strengthens automation in IT, HR, procurement and cybersecurity, and could drive po…",
-        "imagem": "https://img.etimg.com/thumb/msid-131380913,width-1200,height-630,imgsize-19522,overlay-etmarkets/articleshow.jpg"
-    },
-    {
-        "titulo": "Linux Supply Chain How-To - PSW #928",
-        "fonte": "Libsyn.com",
-        "autor": "",
-        "data": "2026-05-28",
-        "url": "https://securityweeklytv.libsyn.com/linux-supply-chain-how-to-psw-928",
-        "resumo": "This week we have a technical segment focused on Linux! Paul released a script that helps you get a handle on Linux supply chain security, and new features allow you to assess the state of Secure Boot on your Linux systems (that also use MS certificates, iron…",
-        "imagem": "http://assets.libsyn.com/content/202392230?height=250&width=250&overlay=true"
-    },
-    {
-        "titulo": "Linux Supply Chain How-To - PSW #928",
-        "fonte": "Libsyn.com",
-        "autor": "",
-        "data": "2026-05-28",
-        "url": "https://sites.libsyn.com/18678/linux-supply-chain-how-to-psw-928",
-        "resumo": "This week we have a technical segment focused on Linux! Paul released a script that helps you get a handle on Linux supply chain security, and new features allow you to assess the state of Secure Boot on your Linux systems (that also use MS certificates, iron…",
-        "imagem": "http://assets.libsyn.com/content/202392400?height=250&width=250&overlay=true"
     }
 ]
