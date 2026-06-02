@@ -1,5 +1,158 @@
 [
     {
+        "titulo": "How NIST fumbled management of the National Vulnerability Database",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-06-01",
+        "url": "https://www.helpnetsecurity.com/2026/06/01/nist-nvd-management-problems/",
+        "resumo": "A US federal watchdog has outlined how the National Institute of Standards and Technology (NIST) failed to effectively manage the growing backlog of unprocessed cybersecurity vulnerabilities in the National Vulnerability Database (NVD). How the NVD crisis unf…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/04/03121316/nist_nvd-1500.webp"
+    },
+    {
+        "titulo": "CVE-2026-8732: The WP Maps Pro Flaw That Lets Anyone Create a WordPress Admin Without a Password",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-06-01",
+        "url": "https://securityaffairs.com/192977/hacking/cve-2026-8732-the-wp-maps-pro-flaw-that-lets-anyone-create-a-wordpress-admin-without-a-password.html",
+        "resumo": "CVE-2026-8732 in WP Maps Pro lets unauthenticated attackers create WordPress admin accounts. 2,858 attacks blocked in 24 hours. WP Maps Pro plugin allows WordPress site owners to embed Google Maps and OpenStreetMap with markers, listings, and location search.…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/06/image-2.png"
+    },
+    {
+        "titulo": "Anthropic grants EU access to Mythos AI for advanced vulnerability detection",
+        "fonte": "4sysops.com",
+        "autor": "IT Experts",
+        "data": "2026-06-01",
+        "url": "https://4sysops.com/archives/anthropic-grants-eu-access-to-mythos-ai-for-advanced-vulnerability-detection/",
+        "resumo": "Anthropic has granted the European Union Agency for Cybersecurity (ENISA) access to its advanced Mythos AI model through an initiative known as Project Glasswing. This specialized model is designed to autonomously detect and exploit software vulnerabilities, …",
+        "imagem": "https://4sysops.com/wp-content/uploads/2026/06/anthropic-grants-eu-access-to-mythos-ai-for-advanced-vulnerability-detection.jpg"
+    },
+    {
+        "titulo": "Fake Purchase Order Emails Spread Fileless PureLogs Malware via RAR Archives",
+        "fonte": "HackRead",
+        "autor": "Deeba Ahmed",
+        "data": "2026-06-01",
+        "url": "https://hackread.com/purchase-emails-fileless-purelogs-malware-rar-archives/",
+        "resumo": "Hackers are using fake purchase order emails and process hollowing to deploy fileless PureLogs malware to steal Windows users&#x27; browser, crypto, and Discord data.",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/06/purchase-emails-fileless-purelogs-malware-rar-archives.png"
+    },
+    {
+        "titulo": "Anthropic grants EU cybersecurity agency access to its AI vulnerability scanner Mythos",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-06-01",
+        "url": "https://cryptobriefing.com/anthropic-eu-enisa-mythos-access/",
+        "resumo": "Granting ENISA access to Mythos could reshape EU cybersecurity dynamics, potentially influencing policy and competitive advantages across sectors. The post Anthropic grants EU cybersecurity agency access to its AI vulnerability scanner Mythos appeared first o…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/01064015/the-guardian-view-on-anthropic-s-claude-mythos-when-ai-finds-800x420.jpeg"
+    },
+    {
+        "titulo": "After CBSE, a cybersecurity researcher exposes the NTA re-examination portal’s vulnerabilities",
+        "fonte": "MediaNama.com",
+        "autor": "Azdhan",
+        "data": "2026-06-01",
+        "url": "https://www.medianama.com/2026/06/223-cbse-cybersecurity-nta-re-examination-portal-vulnerabilities/",
+        "resumo": "As per cybersecurity researcher Rylen Anil, the superadmin login bypass gives access to the superadmin dashboard, exposing admin functions like controls to export CSVs, generate appointment letters etc. The post After CBSE, a cybersecurity researcher exposes…",
+        "imagem": "https://www.medianama.com/wp-content/uploads/2020/05/cybersecurity-1.jpg.jpg"
+    },
+    {
+        "titulo": "U.S. CISA adds Palo Alto Networks PAN-OS flaw to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-06-01",
+        "url": "https://securityaffairs.com/192951/security/u-s-cisa-adds-palo-alto-networks-pan-os-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Palo Alto Networks PAN-OS flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Palo Alto Networks PAN-OS flaw, tracked as …",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "Palo Alto Warns High-Severity Bug Is Being Actively Exploited",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Phil Muncaster",
+        "data": "2026-06-01",
+        "url": "https://www.infosecurity-magazine.com/news/palo-alto-highseverity-bug/",
+        "resumo": "A vulnerability in Palo Alto Networks’ PAN-OS software is being exploited in attacks",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/e2898dfe-b640-4cd4-a234-ddfcd819c4ec.jpg"
+    },
+    {
+        "titulo": "Infosecurity Europe: OWASP Forms New Agentic Research Council",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Kevin Poireault",
+        "data": "2026-06-01",
+        "url": "https://www.infosecurity-magazine.com/news/owasp-new-agentic-research-council/",
+        "resumo": "OWASP’s new Agentic Research Council will aim to connect academic work to operational realities on agentic AI security",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/fd6fd7a5-f4f4-4d09-9903-c171c5df179a.jpg"
+    },
+    {
+        "titulo": "&#x27;No critical findings&#x27; — ExpressVPN’s new products get thumbs up from third-party security audit in firm&#x27;s 27th round of independent review",
+        "fonte": "TechRadar",
+        "autor": "Silvia Iacovcich",
+        "data": "2026-06-01",
+        "url": "https://www.techradar.com/vpn/vpn-services/no-critical-findings-expressvpns-new-products-get-thumbs-up-from-third-party-security-audit-in-firms-27th-round-of-independent-review",
+        "resumo": "ExpressVPN has undergone 27 audits, clearing the bar for its ExpressMailGuard and Identity Defender. Here&#x27;s why it matters.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/iWmFET22kJVcqTn4veEtpa-2000-80.png"
+    },
+    {
+        "titulo": "You meet the security standard. Shame no one can see it",
+        "fonte": "iTnews",
+        "autor": "",
+        "data": "2026-06-01",
+        "url": "https://www.itnews.com.au/feature/you-meet-the-security-standard-shame-no-one-can-see-it-626142",
+        "resumo": "Australia&amp;#8217;s new smart device security label will turn cybersecurity into a clear competitive edge.",
+        "imagem": "https://i.nextmedia.com.au/Features/LS_article_3_-_nextmedia.png"
+    },
+    {
+        "titulo": "Advancing AI Infrastructure for Agentic AI with NVIDIA DOCA In-Silicon Security",
+        "fonte": "Nvidia.com",
+        "autor": "Ofir Arkin",
+        "data": "2026-06-01",
+        "url": "https://developer.nvidia.com/blog/advancing-ai-infrastructure-for-agentic-ai-with-nvidia-doca-in-silicon-security/",
+        "resumo": "The AI era is driving a new class of infrastructure: AI factories that transform data into intelligence for autonomous AI agents operating at unprecedented...",
+        "imagem": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/05/server-rack-data-center.webp"
+    },
+    {
+        "titulo": "IEI Showcases Resilient Edge AI Platforms at COMPUTEX 2026: Advancing AI Deployment Across Industrial Applications",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-06-01",
+        "url": "https://www.prnewswire.com/news-releases/iei-showcases-resilient-edge-ai-platforms-at-computex-2026-advancing-ai-deployment-across-industrial-applications-302786476.html",
+        "resumo": "NEW TAIPEI CITY, May 31, 2026 /PRNewswire/ -- IEI Integration Corp. (IEI) announced its COMPUTEX 2026 lineup (TaiNEX 2, Booth #P0114). Under the theme &quot;Resilient Edge AI Platforms: The Backbone for AI Deployment,&quot; IEI highlights how AI computing, real-time co…",
+        "imagem": "https://mma.prnewswire.com/media/2991520/COMPUTEX_2026_IEI.jpg?p=facebook"
+    },
+    {
+        "titulo": "IEI Showcases Resilient Edge AI Platforms at COMPUTEX 2026: Advancing AI Deployment Across Industrial Applications",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-06-01",
+        "url": "https://www.prnewswire.com/news-releases/iei-showcases-resilient-edge-ai-platforms-at-computex-2026-advancing-ai-deployment-across-industrial-applications-302786560.html",
+        "resumo": "NEW TAIPEI CITY, June 1, 2026 /PRNewswire/ -- IEI Integration Corp. (IEI) announced its COMPUTEX 2026 lineup (TaiNEX 2, Booth #P0114). Under the theme &quot;Resilient Edge AI Platforms: The Backbone for AI Deployment,&quot; IEI highlights how AI computing, real-time co…",
+        "imagem": "https://mma.prnewswire.com/media/2991520/COMPUTEX_2026_IEI.jpg?p=facebook"
+    },
+    {
+        "titulo": "CVE-2026-0257: Rapid7 Caught Attackers Abusing Forged VPN Cookies Against Multiple Customers",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-05-31",
+        "url": "https://securityaffairs.com/192933/security/cve-2026-0257-rapid7-caught-attackers-abusing-forged-vpn-cookies-against-multiple-customers.html",
+        "resumo": "CVE-2026-0257 lets attackers forge Palo Alto GlobalProtect auth cookies and bypass VPN login. Exploitation confirmed since May 17. Palo Alto Networks addressed the vulnerability CVE-2026-0257 on May 13. Two weeks later, cybersecurity firm Rapid7 confirmed act…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/05/Palo-Alto-Networks.png"
+    },
+    {
+        "titulo": "Security Affairs newsletter Round 579 by Pierluigi Paganini – INTERNATIONAL EDITION",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-05-31",
+        "url": "https://securityaffairs.com/192918/security/security-affairs-newsletter-round-579-by-pierluigi-paganini-international-edition.html",
+        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. ShinyHun…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
+    },
+    {
+        "titulo": "Luis de Guindos: Interview with Expansión",
+        "fonte": "Europa.eu",
+        "autor": "European Central Bank",
+        "data": "2026-05-31",
+        "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260531~f648dbde70.en.html",
+        "resumo": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+        "imagem": "https://www.ecb.europa.eu/press/inter/shared/img/socialmedia/social-default.jpg?58a9573de993c82d3c9e0b84d422b52a"
+    },
+    {
         "titulo": "Week in review: Infostealer dropped via FortiClient EMS flaw, exploited Trend Micro Apex One flaw",
         "fonte": "Help Net Security",
         "autor": "Help Net Security",
@@ -25,158 +178,5 @@
         "url": "https://futurism.com/future-society/websites-spying-solid-state-drive",
         "resumo": "&quot;In principle, it would be possible to train a model on any system activity that reliably generates SSD accesses.&quot; The post Websites Are Spying on Your Solid State Drive appeared first on Futurism.",
         "imagem": "https://futurism.com/wp-content/uploads/2026/05/websites-spying-solid-state-drive.jpg?quality=85&w=1200"
-    },
-    {
-        "titulo": "Microsoft threatens legal action against researcher Nightmare Eclipse for exploit disclosure",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-05-30",
-        "url": "https://cryptobriefing.com/microsoft-threatens-nightmare-eclipse-exploit-disclosure/",
-        "resumo": "Microsoft&#x27;s legal threats may deter future vulnerability disclosures, risking security research stagnation and increased exploitation risks. The post Microsoft threatens legal action against researcher Nightmare Eclipse for exploit disclosure appeared first o…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/30112320/microsoft-under-fire-for-threatening-security-researcher-wit-800x420.jpeg"
-    },
-    {
-        "titulo": "What Is an AI Prompt Injection Attack? The Hidden Threat Hijacking Your Chatbots",
-        "fonte": "Decrypt",
-        "autor": "Jose Antonio Lanz",
-        "data": "2026-05-30",
-        "url": "https://decrypt.co/resources/what-is-ai-prompt-injection-attack",
-        "resumo": "Hackers can hijack ChatGPT, Claude, and Gemini with nothing but a sentence. OpenAI says the problem may never be fully solved. Here is what it is, how it works, and how to stay safe.",
-        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/05/ai-prompt-injection-learn-gID_4-pID_5.png"
-    },
-    {
-        "titulo": "Why did Microsoft threaten bug hunter prosecution? #tech",
-        "fonte": "Alltoc.com",
-        "autor": "AllToc",
-        "data": "2026-05-30",
-        "url": "https://alltoc.com/tech/why-did-microsoft-threaten-bug-hunter-prosecution",
-        "resumo": "Microsoft’s legal threats roil the bug disclosure community Microsoft has drawn widespread backlash after publishing a blog post concerning a security researcher known as “Nightmare Eclipse,” who publicly disclosed a series of unpatched vulnerabilities and pu…",
-        "imagem": "https://alltoc.com/cdn/1048/og.png"
-    },
-    {
-        "titulo": "Microsoft threatened a security researcher with criminal prosecution. The cybersecurity community is furious.",
-        "fonte": "The Next Web",
-        "autor": "Ana Maria Constantin",
-        "data": "2026-05-30",
-        "url": "https://thenextweb.com/news/microsoft-threatens-security-researcher-nightmare-eclipse/",
-        "resumo": "Microsoft published a blog post on Wednesday criticising a security researcher known as “Nightmare Eclipse” for publicly disclosing a series of unpatched vulnerabilities in Windows Defender and BitLocker. The company then invoked its Digital Crimes Unit, whic…",
-        "imagem": "https://media.thenextweb.com/2026/05/microsoft-threatens-security-researcher-nightmare-eclipse.avif"
-    },
-    {
-        "titulo": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-05-30",
-        "url": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
-        "resumo": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-0257 (CVSS score: 7.8), refers to a case of authen…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkaW0i4ALAlpWQ_cOjfhoqUlNgMlZysJA6ay0qPViGI_KxEEG-Hh0KdtWLqBXDH42ZBGSONs0ZJuzOqdRF7vbx6Xa9J8HlP60lY45JHy0ivdRQs0exe4wZT2lI3TW4oDO-XXPVz2pek2M3izLqT3ONwq2iuHPN31ZZvK3jl0zIDq_h5XF1CTRk7fUPzjEQ/s1700-e365/panos.jpg"
-    },
-    {
-        "titulo": "UC Faculty Warn Test-Optional Policies Are Failing STEM Students and Hurting Real ‘Equity’",
-        "fonte": "Legalinsurrection.com",
-        "autor": "Leslie Eastman",
-        "data": "2026-05-29",
-        "url": "https://legalinsurrection.com/2026/05/uc-faculty-warn-test-optional-policies-are-failing-stem-students-and-hurting-real-equity/",
-        "resumo": "&quot;The SAT/ACT mathematics requirement is not an obstacle to equity; rather, it is a prerequisite for it. Failing to measure preparation gaps does not remove barriers; it moves them into the classroom, where they become harder to overcome.&quot; The post UC Faculty …",
-        "imagem": "https://legalinsurrection.com/wp-content/uploads/2026/05/LI-116-Math-Professor.png"
-    },
-    {
-        "titulo": "InfoSight&#x27;s New Dashboard Turns Fragmented Threat Data into Executive-Ready Risk Decisions",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-05-29",
-        "url": "https://www.prnewswire.com/news-releases/infosights-new-dashboard-turns-fragmented-threat-data-into-executive-ready-risk-decisions-302786017.html",
-        "resumo": "New dashboard gives CISOs, CSOs, and senior technology leaders a centralized view of current cyber risk posture, active threats, sector-specific intelligence, and recommended remediation actions. MIAMI, May 29, 2026 /PRNewswire/ -- InfoSight, Inc., a leading …",
-        "imagem": "https://mma.prnewswire.com/media/2991073/InfoSight_Inc_Logo.jpg?p=facebook"
-    },
-    {
-        "titulo": "Show HN: Simple news aggregator with source bias meters",
-        "fonte": "Unbiasthenews.com",
-        "autor": "sammy0910",
-        "data": "2026-05-29",
-        "url": "https://unbiasthenews.com",
-        "resumo": "Article URL: https://unbiasthenews.com Comments URL: https://news.ycombinator.com/item?id=48327194 Points: 2 # Comments: 0",
-        "imagem": ""
-    },
-    {
-        "titulo": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-05-29",
-        "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
-        "resumo": "Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant&#x27;s implicit trust in Markdown links and images to trigger prompt injections and open the door to phishing attacks. …",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikkk-MbHPjc5UpAORUC9pUfe-LntIu7A2tsg3EBFPXh3b6WXoiv8HtxvSakdqICfwN1YGSY452zIdjuyafscYfbf7yKnzbE_SxWxmPeX9uBLkTWY7aNyzLK903ts83ThlQGKOPYKNCW6UHg2c7ia4O7cVIwV5p24c-POfHYTJak6tRmL03rbjOWxCfpPYb/s1700-e365/chatgpt-phishing.jpg"
-    },
-    {
-        "titulo": "Bill C-22 Is a Mess of the Government&#x27;s Own Making",
-        "fonte": "Ethanplant.ca",
-        "autor": "ethanplant",
-        "data": "2026-05-29",
-        "url": "https://ethanplant.ca/writing/bill-c22-is-a-mess/",
-        "resumo": "The government’s lawful access bill is no longer merely controversial. It is badly designed, badly explained, badly consulted, and now being rushed anyway.",
-        "imagem": "https://ethanplant.ca/images/profile.jpg"
-    },
-    {
-        "titulo": "Open-source security is a mess - IBM and Red Hat bet $5 billion and 20,000 engineers can fix it",
-        "fonte": "ZDNet",
-        "autor": "Steven Vaughan-Nichols",
-        "data": "2026-05-29",
-        "url": "https://www.zdnet.com/article/open-source-security-is-a-mess-ibm-and-red-hat-bet-5-billion-to-fix-it/",
-        "resumo": "Project Lightwell is an AI‑powered initiative to find and fix vulnerabilities in open-source software at an industrial scale. Here&#x27;s what we know so far.",
-        "imagem": "https://www.zdnet.com/a/img/resize/3baf386028d0b223b8cf512483c0da8b08b13890/2026/05/29/0ffadadd-24d5-4a5a-8f93-73e1d609acec/greenkeys-shutterstock-46170328.jpg?auto=webp&fit=crop&height=675&width=1200"
-    },
-    {
-        "titulo": "In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks",
-        "fonte": "Securityweek.com",
-        "autor": "SecurityWeek News",
-        "data": "2026-05-29",
-        "url": "https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/",
-        "resumo": "Noteworthy stories that might have slipped under the radar: Trump Mobile exposes customer data, phishers target the 2026 FIFA World Cup, CISA responds to recent supply chain attacks. The post In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, …",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg"
-    },
-    {
-        "titulo": "Claude Opus 4.8 is now available in Microsoft Foundry",
-        "fonte": "Microsoft.com",
-        "autor": "Amar Badal",
-        "data": "2026-05-29",
-        "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367",
-        "resumo": "As AI applications become more complex, teams need models that can handle longer-running work, reason more deeply across complex analysis use tools more reliably across multi-step workflows, and support consistency for production workflows. Claude Opus 4.8 is…",
-        "imagem": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NTIzMzY3LWF0S3NUTQ?revision=2"
-    },
-    {
-        "titulo": "Hardware’s back: AI supercharges server, PC and memory sales",
-        "fonte": "SiliconANGLE News",
-        "autor": "Robert Hof",
-        "data": "2026-05-29",
-        "url": "https://siliconangle.com/2026/05/29/hardwares-back-ai-supercharges-server-pc-memory-sales/",
-        "resumo": "Hardware firms are cleaning up bigtime as enterprises and cloud providers can’t get enough computing power for their artificial intelligence dreams. Dell Technology’s stock rocketed an incredible 31% in morning trading Friday. That’s thanks to an almost unhea…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/aitechstocks-gemini.png"
-    },
-    {
-        "titulo": "First month of Mythos Preview testing exposes 10K flaws",
-        "fonte": "Techtarget.com",
-        "autor": "Phil Sweeney",
-        "data": "2026-05-29",
-        "url": "https://www.techtarget.com/searchsecurity/news/366643606/First-month-of-Mythos-Preview-testing-exposes-10K-flaws",
-        "resumo": "Anthropic&#x27;s Mythos Preview exposed 10,000-plus security flaws at tech giants in one month, revealing both opportunities and risks for the future of cybersecurity.",
-        "imagem": "https://www.techtarget.com/rms/onlineimages/security_a303249453.jpg"
-    },
-    {
-        "titulo": "Girls Who Code CEO: 70% of teen girls want to work in cybersecurity. We’re losing them before they start",
-        "fonte": "Fortune",
-        "autor": "Tarika Barrett",
-        "data": "2026-05-29",
-        "url": "https://fortune.com/2026/05/29/girls-cybersecurity-workforce-gap-ai-tarika-barrett-girls-who-code/",
-        "resumo": "Closing the 4.7-million-person cybersecurity workforce gap starts with one underutilized asset: the girls who are already interested.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/05/Tarika-Barrett-2.jpg?resize=1200,600"
-    },
-    {
-        "titulo": "New infostealer reaches enterprise devices through FortiClient EMS vulnerability",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-05-29",
-        "url": "https://www.helpnetsecurity.com/2026/05/29/forticlient-ems-vulnerability-infostealer/",
-        "resumo": "Attackers are delivering a broad-spectrum infostealer to enterprise computers by exploiting a known vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS). “The [malicious] payload was presented as a Fortinet endpoint update and exec…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/01/21163939/fortinet-computer-1500.webp"
     }
 ]
