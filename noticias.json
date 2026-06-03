@@ -1,182 +1,173 @@
 [
     {
-        "titulo": "How NIST fumbled management of the National Vulnerability Database",
+        "titulo": "Google fixes actively exploited Android vulnerability (CVE-2025-48595)",
         "fonte": "Help Net Security",
         "autor": "Zeljka Zorz",
-        "data": "2026-06-01",
-        "url": "https://www.helpnetsecurity.com/2026/06/01/nist-nvd-management-problems/",
-        "resumo": "A US federal watchdog has outlined how the National Institute of Standards and Technology (NIST) failed to effectively manage the growing backlog of unprocessed cybersecurity vulnerabilities in the National Vulnerability Database (NVD). How the NVD crisis unf…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/04/03121316/nist_nvd-1500.webp"
+        "data": "2026-06-02",
+        "url": "https://www.helpnetsecurity.com/2026/06/02/android-vulnerability-exploited-cve-2025-48595/",
+        "resumo": "Google has announced the June 2026 Android security updates, which fix a bucketload of vulnerabilities, including a high-severity vulnerability (CVE-2025-48595) in the Android Framework that “may be under limited, targeted exploitation.” About CVE-2025-48595 …",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/04/23101514/android-broken-1500.webp"
     },
     {
-        "titulo": "CVE-2026-8732: The WP Maps Pro Flaw That Lets Anyone Create a WordPress Admin Without a Password",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-06-01",
-        "url": "https://securityaffairs.com/192977/hacking/cve-2026-8732-the-wp-maps-pro-flaw-that-lets-anyone-create-a-wordpress-admin-without-a-password.html",
-        "resumo": "CVE-2026-8732 in WP Maps Pro lets unauthenticated attackers create WordPress admin accounts. 2,858 attacks blocked in 24 hours. WP Maps Pro plugin allows WordPress site owners to embed Google Maps and OpenStreetMap with markers, listings, and location search.…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/06/image-2.png"
+        "titulo": "Diligent automates cyber risk assessments and reporting",
+        "fonte": "Help Net Security",
+        "autor": "Industry News",
+        "data": "2026-06-02",
+        "url": "https://www.helpnetsecurity.com/2026/06/02/diligent-automates-cyber-risk-assessments-and-reporting/",
+        "resumo": "Diligent has announced Diligent Cyber Risk Management, an agentic solution designed to help organizations manage cybersecurity risk in a business context. Available in summer 2026, the platform reduces cyber risk assessment work from weeks to hours and links …",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp"
     },
     {
-        "titulo": "Anthropic grants EU access to Mythos AI for advanced vulnerability detection",
-        "fonte": "4sysops.com",
-        "autor": "IT Experts",
-        "data": "2026-06-01",
-        "url": "https://4sysops.com/archives/anthropic-grants-eu-access-to-mythos-ai-for-advanced-vulnerability-detection/",
-        "resumo": "Anthropic has granted the European Union Agency for Cybersecurity (ENISA) access to its advanced Mythos AI model through an initiative known as Project Glasswing. This specialized model is designed to autonomously detect and exploit software vulnerabilities, …",
-        "imagem": "https://4sysops.com/wp-content/uploads/2026/06/anthropic-grants-eu-access-to-mythos-ai-for-advanced-vulnerability-detection.jpg"
+        "titulo": "Aveanna Healthcare Holdings Completes Acquisition of Family First Homecare and Updates Full Year 2026 Guidance",
+        "fonte": "GlobeNewswire",
+        "autor": "Aveanna Healthcare Holdings, Inc",
+        "data": "2026-06-02",
+        "url": "https://www.globenewswire.com/news-release/2026/06/02/3305023/0/en/Aveanna-Healthcare-Holdings-Completes-Acquisition-of-Family-First-Homecare-and-Updates-Full-Year-2026-Guidance.html",
+        "resumo": "ATLANTA, June 02, 2026 (GLOBE NEWSWIRE) -- Aveanna Healthcare Holdings Inc. (NASDAQ: AVAH), a leading, diversified home care platform focused on providing care to medically complex, high-cost patient populations, today announced that it completed its acquisit…",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/d3896f9e-a6a1-48c1-a8f7-d9ba5d7433d6"
     },
     {
-        "titulo": "Fake Purchase Order Emails Spread Fileless PureLogs Malware via RAR Archives",
-        "fonte": "HackRead",
-        "autor": "Deeba Ahmed",
-        "data": "2026-06-01",
-        "url": "https://hackread.com/purchase-emails-fileless-purelogs-malware-rar-archives/",
-        "resumo": "Hackers are using fake purchase order emails and process hollowing to deploy fileless PureLogs malware to steal Windows users&#x27; browser, crypto, and Discord data.",
-        "imagem": "https://hackread.com/wp-content/uploads/2026/06/purchase-emails-fileless-purelogs-malware-rar-archives.png"
+        "titulo": "Diligent Launches AI-Powered Cyber Risk Management to Put Business Impact at the Center of Security Decisions",
+        "fonte": "Financial Post",
+        "autor": "Business Wire",
+        "data": "2026-06-02",
+        "url": "https://financialpost.com/press-releases/business-wire/diligent-launches-ai-powered-cyber-risk-management-to-put-business-impact-at-the-center-of-security-decisions",
+        "resumo": "New AI-driven solution unifies cyber, risk and compliance so leaders can reduce manual work and focus on the risks that matter most NEW YORK — Diligent, the AI leader in governance, risk and compliance ( GRC), today announced Diligent Cyber Risk Management, i…",
+        "imagem": ""
     },
     {
-        "titulo": "Anthropic grants EU cybersecurity agency access to its AI vulnerability scanner Mythos",
+        "titulo": "JupiterOne launches Continuous Controls Monitoring to test security controls against live asset data",
+        "fonte": "SiliconANGLE News",
+        "autor": "Duncan Riley",
+        "data": "2026-06-02",
+        "url": "https://siliconangle.com/2026/06/02/jupiterone-launches-continuous-controls-monitoring-test-security-controls-live-asset-data/",
+        "resumo": "Artificial intelligence risk management platform provider JupiterOne Inc. today announced the launch of JupiterOne Continuous Controls Monitoring, a new product that tests whether security and compliance controls are actually working across cloud, software-as…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/jupiterone1.png"
+    },
+    {
+        "titulo": "The hidden enterprise security risk of consumer-grade tools",
+        "fonte": "TechRadar",
+        "autor": "Michael Leland",
+        "data": "2026-06-02",
+        "url": "https://www.techradar.com/pro/the-hidden-enterprise-security-risk-of-consumer-grade-tools",
+        "resumo": "Why “free” consumer apps quietly expand enterprise attack surfaces and governance blind spots.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/pVCXKrhThqmUjYVSZBjV5Z-2560-80.jpg"
+    },
+    {
+        "titulo": "IoT Security Market to Surpass USD 280.93 Billion by 2035 | SNS Insider",
+        "fonte": "GlobeNewswire",
+        "autor": "SNS Insider pvt ltd",
+        "data": "2026-06-02",
+        "url": "https://www.globenewswire.com/news-release/2026/06/02/3304885/0/en/IoT-Security-Market-to-Surpass-USD-280-93-Billion-by-2035-SNS-Insider.html",
+        "resumo": "The U.S. IoT Security Market is Projected to Reach $100.98 Billion by 2035, While Europe is Expected to Hit $65.72 Billion, Driven by Rising Cyber Threats, Expanding IoT Deployments, Zero-Trust Security Adoption, and Strong Regulatory Frameworks Including GDP…",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2"
+    },
+    {
+        "titulo": "MazeBolt launches RADAR VectorAI to test enterprise defenses against AI-generated DDoS attacks",
+        "fonte": "SiliconANGLE News",
+        "autor": "Duncan Riley",
+        "data": "2026-06-02",
+        "url": "https://siliconangle.com/2026/06/02/mazebolt-launches-radar-vectorai-test-enterprise-defenses-ai-generated-ddos-attacks/",
+        "resumo": "Israeli distributed denial-of-service resilience company MazeBolt Technologies Ltd. today launched RADAR VectorAI, a new module that uses artificial intelligence to generate previously unseen DDoS attack vectors and run them against customers’ production envi…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/mazebolt.png"
+    },
+    {
+        "titulo": "Bugcrowd Expands Platform with European Data Residency to Support Regional Compliance Needs",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-06-02",
+        "url": "https://www.prnewswire.com/news-releases/bugcrowd-expands-platform-with-european-data-residency-to-support-regional-compliance-needs-302787991.html",
+        "resumo": "EU and EU-focused organizations can now leverage Bugcrowd&#x27;s intelligent offensive security platform while ensuring all sensitive vulnerability data remains on European soil SAN FRANCISCO, June 2, 2026 /PRNewswire/ -- Bugcrowd, a leader in preemptive cybersecu…",
+        "imagem": "https://mma.prnewswire.com/media/1669466/Bugcrowd_New_Logo.jpg?p=facebook"
+    },
+    {
+        "titulo": "MazeBolt Launches RADAR VectorAI™: AI-Powered Tool That Crafts AI-Generated Attacks",
+        "fonte": "GlobeNewswire",
+        "autor": "MazeBolt",
+        "data": "2026-06-02",
+        "url": "https://www.globenewswire.com/news-release/2026/06/02/3304881/0/en/MazeBolt-Launches-RADAR-VectorAI-AI-Powered-Tool-That-Crafts-AI-Generated-Attacks.html",
+        "resumo": "As AI arms attackers with new DDoS capabilities, enterprises need continuous, environment-specific testing to know whether their defenses will hold - especially against AI attacks As AI arms attackers with new DDoS capabilities, enterprises need continuous, e…",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/e1023020-b81a-49f6-8767-908491744eb3"
+    },
+    {
+        "titulo": "FSB alleges massive Western phone-hacking operation targeted Kremlin officials and journalists",
+        "fonte": "Naturalnews.com",
+        "autor": "Cassie B.",
+        "data": "2026-06-02",
+        "url": "https://www.naturalnews.com/2026-06-02-western-phone-hacking-targeted-kremlin-officials-journalists.html",
+        "resumo": "Russia’s FSB accused Western intelligence of hacking thousands of Russian officials’ smartphones through undetectable spyware. The malware exploited zero-day vulnerabilities to access messages, calls, location, audio, and video without users’ knowledge. Kaspe…",
+        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/Cell-Phone-Tower-Spy.jpg"
+    },
+    {
+        "titulo": "After CBSE controversy, NTA re-exam portal under scanner over alleged data vulnerabilities and system weaknesses",
+        "fonte": "The Times of India",
+        "autor": "Trending Desk",
+        "data": "2026-06-02",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/after-cbse-controversy-nta-re-exam-portal-under-scanner-over-alleged-data-vulnerabilities-and-system-weaknesses/articleshow/131454987.cms",
+        "resumo": "Cybersecurity researchers have raised concerns about potential vulnerabilities in the National Testing Agency&#x27;s re-examination portal, alleging a superadmin login bypass that could expose sensitive administrative and user data. Screenshots suggest potentia…",
+        "imagem": "https://img.etimg.com/thumb/msid-131455091,width-1200,height-630,imgsize-6642,overlay-economictimes/articleshow.jpg"
+    },
+    {
+        "titulo": "Cybersecurity jobs available right now: June 2, 2026",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-06-02",
+        "url": "https://www.helpnetsecurity.com/2026/06/02/cybersecurity-jobs-available-right-now-june-2-2026/",
+        "resumo": "Agentic Safety and Ecosystem Architect, Trust and Safety Google | USA | On-site – View job details As an Agentic Safety and Ecosystem Architect, Trust and Safety, you will define safety controls and permission models for autonomous agents on Android, helping …",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140410/cybersecurity_jobs-4-1500.webp"
+    },
+    {
+        "titulo": "Protecting critical infrastructure in the AI era: It starts with data",
+        "fonte": "Elastic.co",
+        "autor": "Alf Franklin",
+        "data": "2026-06-02",
+        "url": "https://www.elastic.co/blog/critical-infrastructure-protection-ai-era",
+        "resumo": "Learn how AI-driven security, Zero Trust, and a unified data foundation help critical infrastructure organizations improve resilience, detect threats faster, and protect essential services....",
+        "imagem": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt6b9fc05307b2aa0a/6a1e4bb4b19e4a929101e7e5/pubsec-cni-blog_(1).png"
+    },
+    {
+        "titulo": "Meta’s AI Support Bot Is Giving Hackers Access to Other People’s Instagram Accounts Just by Asking",
+        "fonte": "Futurism",
+        "autor": "Victor Tangermann",
+        "data": "2026-06-01",
+        "url": "https://futurism.com/future-society/meta-ai-support-bot-hackers-access-instagram-accounts",
+        "resumo": "This is wild. The post Meta’s AI Support Bot Is Giving Hackers Access to Other People’s Instagram Accounts Just by Asking appeared first on Futurism.",
+        "imagem": "https://futurism.com/wp-content/uploads/2026/06/meta-ai-support-bot-hackers-access-instagram-accounts.jpg?w=1200"
+    },
+    {
+        "titulo": "Windows Server vulnerability can grant system privileges with just a malformed packet — domain controllers are being exploited in the wild",
+        "fonte": "Toms Hardware UK",
+        "autor": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
+        "data": "2026-06-01",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/windows-server-vulnerability-can-grant-system-privileges-with-just-a-malformed-packet-domain-controllers-are-being-exploited-in-the-wild",
+        "resumo": "9.8-rated Windows Server vulnerability can grants system privileges with just a malformed packet — domain controllers being exploited in the wild",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/pz5RrXZwcNJ2XMi65FHwK9-2048-80.jpg"
+    },
+    {
+        "titulo": "Anthropic is finally giving the EU access to Mythos, ending weeks of standoff over the world’s most powerful cybersecurity AI",
+        "fonte": "The Next Web",
+        "autor": "Alina Maria Stan",
+        "data": "2026-06-01",
+        "url": "https://thenextweb.com/news/anthropic-mythos-eu-enisa-cybersecurity-access/",
+        "resumo": "Anthropic has agreed to give the European Union’s cybersecurity agency, ENISA, access to Claude Mythos, the AI model that has autonomously discovered more than 10,000 high- and critical-severity zero-day vulnerabilities across every major operating system and…",
+        "imagem": "https://media.thenextweb.com/2026/06/anthropic-mythos-eu-enisa-cybersecurity-access.avif"
+    },
+    {
+        "titulo": "AI helped researchers bypass Apple M5 defenses",
+        "fonte": "Fox News",
+        "autor": "",
+        "data": "2026-06-01",
+        "url": "https://www.foxnews.com/tech/ai-helped-researchers-bypass-apple-m5-defenses",
+        "resumo": "A small team claims AI helped them exploit Apple&#x27;s newest M5 chip defenses in days, signaling a shift in how fast vulnerabilities can be found.",
+        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/macbook-neo-apple-event.jpeg"
+    },
+    {
+        "titulo": "OpenAI offers UK banks access to GPT-5.5 Cyber after Anthropic blocks Mythos access",
         "fonte": "Crypto Briefing",
         "autor": "Editorial Team",
         "data": "2026-06-01",
-        "url": "https://cryptobriefing.com/anthropic-eu-enisa-mythos-access/",
-        "resumo": "Granting ENISA access to Mythos could reshape EU cybersecurity dynamics, potentially influencing policy and competitive advantages across sectors. The post Anthropic grants EU cybersecurity agency access to its AI vulnerability scanner Mythos appeared first o…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/01064015/the-guardian-view-on-anthropic-s-claude-mythos-when-ai-finds-800x420.jpeg"
-    },
-    {
-        "titulo": "After CBSE, a cybersecurity researcher exposes the NTA re-examination portal’s vulnerabilities",
-        "fonte": "MediaNama.com",
-        "autor": "Azdhan",
-        "data": "2026-06-01",
-        "url": "https://www.medianama.com/2026/06/223-cbse-cybersecurity-nta-re-examination-portal-vulnerabilities/",
-        "resumo": "As per cybersecurity researcher Rylen Anil, the superadmin login bypass gives access to the superadmin dashboard, exposing admin functions like controls to export CSVs, generate appointment letters etc. The post After CBSE, a cybersecurity researcher exposes…",
-        "imagem": "https://www.medianama.com/wp-content/uploads/2020/05/cybersecurity-1.jpg.jpg"
-    },
-    {
-        "titulo": "U.S. CISA adds Palo Alto Networks PAN-OS flaw to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-06-01",
-        "url": "https://securityaffairs.com/192951/security/u-s-cisa-adds-palo-alto-networks-pan-os-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Palo Alto Networks PAN-OS flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Palo Alto Networks PAN-OS flaw, tracked as …",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "Palo Alto Warns High-Severity Bug Is Being Actively Exploited",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Phil Muncaster",
-        "data": "2026-06-01",
-        "url": "https://www.infosecurity-magazine.com/news/palo-alto-highseverity-bug/",
-        "resumo": "A vulnerability in Palo Alto Networks’ PAN-OS software is being exploited in attacks",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/e2898dfe-b640-4cd4-a234-ddfcd819c4ec.jpg"
-    },
-    {
-        "titulo": "Infosecurity Europe: OWASP Forms New Agentic Research Council",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Kevin Poireault",
-        "data": "2026-06-01",
-        "url": "https://www.infosecurity-magazine.com/news/owasp-new-agentic-research-council/",
-        "resumo": "OWASP’s new Agentic Research Council will aim to connect academic work to operational realities on agentic AI security",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/fd6fd7a5-f4f4-4d09-9903-c171c5df179a.jpg"
-    },
-    {
-        "titulo": "&#x27;No critical findings&#x27; — ExpressVPN’s new products get thumbs up from third-party security audit in firm&#x27;s 27th round of independent review",
-        "fonte": "TechRadar",
-        "autor": "Silvia Iacovcich",
-        "data": "2026-06-01",
-        "url": "https://www.techradar.com/vpn/vpn-services/no-critical-findings-expressvpns-new-products-get-thumbs-up-from-third-party-security-audit-in-firms-27th-round-of-independent-review",
-        "resumo": "ExpressVPN has undergone 27 audits, clearing the bar for its ExpressMailGuard and Identity Defender. Here&#x27;s why it matters.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/iWmFET22kJVcqTn4veEtpa-2000-80.png"
-    },
-    {
-        "titulo": "You meet the security standard. Shame no one can see it",
-        "fonte": "iTnews",
-        "autor": "",
-        "data": "2026-06-01",
-        "url": "https://www.itnews.com.au/feature/you-meet-the-security-standard-shame-no-one-can-see-it-626142",
-        "resumo": "Australia&amp;#8217;s new smart device security label will turn cybersecurity into a clear competitive edge.",
-        "imagem": "https://i.nextmedia.com.au/Features/LS_article_3_-_nextmedia.png"
-    },
-    {
-        "titulo": "Advancing AI Infrastructure for Agentic AI with NVIDIA DOCA In-Silicon Security",
-        "fonte": "Nvidia.com",
-        "autor": "Ofir Arkin",
-        "data": "2026-06-01",
-        "url": "https://developer.nvidia.com/blog/advancing-ai-infrastructure-for-agentic-ai-with-nvidia-doca-in-silicon-security/",
-        "resumo": "The AI era is driving a new class of infrastructure: AI factories that transform data into intelligence for autonomous AI agents operating at unprecedented...",
-        "imagem": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/05/server-rack-data-center.webp"
-    },
-    {
-        "titulo": "IEI Showcases Resilient Edge AI Platforms at COMPUTEX 2026: Advancing AI Deployment Across Industrial Applications",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-06-01",
-        "url": "https://www.prnewswire.com/news-releases/iei-showcases-resilient-edge-ai-platforms-at-computex-2026-advancing-ai-deployment-across-industrial-applications-302786476.html",
-        "resumo": "NEW TAIPEI CITY, May 31, 2026 /PRNewswire/ -- IEI Integration Corp. (IEI) announced its COMPUTEX 2026 lineup (TaiNEX 2, Booth #P0114). Under the theme &quot;Resilient Edge AI Platforms: The Backbone for AI Deployment,&quot; IEI highlights how AI computing, real-time co…",
-        "imagem": "https://mma.prnewswire.com/media/2991520/COMPUTEX_2026_IEI.jpg?p=facebook"
-    },
-    {
-        "titulo": "IEI Showcases Resilient Edge AI Platforms at COMPUTEX 2026: Advancing AI Deployment Across Industrial Applications",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-06-01",
-        "url": "https://www.prnewswire.com/news-releases/iei-showcases-resilient-edge-ai-platforms-at-computex-2026-advancing-ai-deployment-across-industrial-applications-302786560.html",
-        "resumo": "NEW TAIPEI CITY, June 1, 2026 /PRNewswire/ -- IEI Integration Corp. (IEI) announced its COMPUTEX 2026 lineup (TaiNEX 2, Booth #P0114). Under the theme &quot;Resilient Edge AI Platforms: The Backbone for AI Deployment,&quot; IEI highlights how AI computing, real-time co…",
-        "imagem": "https://mma.prnewswire.com/media/2991520/COMPUTEX_2026_IEI.jpg?p=facebook"
-    },
-    {
-        "titulo": "CVE-2026-0257: Rapid7 Caught Attackers Abusing Forged VPN Cookies Against Multiple Customers",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-05-31",
-        "url": "https://securityaffairs.com/192933/security/cve-2026-0257-rapid7-caught-attackers-abusing-forged-vpn-cookies-against-multiple-customers.html",
-        "resumo": "CVE-2026-0257 lets attackers forge Palo Alto GlobalProtect auth cookies and bypass VPN login. Exploitation confirmed since May 17. Palo Alto Networks addressed the vulnerability CVE-2026-0257 on May 13. Two weeks later, cybersecurity firm Rapid7 confirmed act…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/05/Palo-Alto-Networks.png"
-    },
-    {
-        "titulo": "Security Affairs newsletter Round 579 by Pierluigi Paganini – INTERNATIONAL EDITION",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-05-31",
-        "url": "https://securityaffairs.com/192918/security/security-affairs-newsletter-round-579-by-pierluigi-paganini-international-edition.html",
-        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. ShinyHun…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
-    },
-    {
-        "titulo": "Luis de Guindos: Interview with Expansión",
-        "fonte": "Europa.eu",
-        "autor": "European Central Bank",
-        "data": "2026-05-31",
-        "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260531~f648dbde70.en.html",
-        "resumo": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
-        "imagem": "https://www.ecb.europa.eu/press/inter/shared/img/socialmedia/social-default.jpg?58a9573de993c82d3c9e0b84d422b52a"
-    },
-    {
-        "titulo": "Week in review: Infostealer dropped via FortiClient EMS flaw, exploited Trend Micro Apex One flaw",
-        "fonte": "Help Net Security",
-        "autor": "Help Net Security",
-        "data": "2026-05-31",
-        "url": "https://www.helpnetsecurity.com/2026/05/31/week-in-review-infostealer-dropped-via-forticlient-ems-flaw-exploited-trend-micro-apex-one-flaw/",
-        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Coinflow CISO on crypto payments security under AI pressure Crypto payment firms sit near the top of the target list for advanced persistent threat groups, and t…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01112506/cybersecurity_week_in_review2.jpg"
-    },
-    {
-        "titulo": "&quot;They will ruin my life&quot;: Microsoft threatens to wield &#x27;Digital Crimes Unit&#x27; over zero-day exploit disclosures — causing uproar in the cybersec community",
-        "fonte": "Windows Central",
-        "autor": "jez@windowscentral.com (Jez Corden) , Jez Corden",
-        "data": "2026-05-30",
-        "url": "https://www.windowscentral.com/microsoft/they-will-ruin-my-life-microsoft-threatens-to-wield-digital-crimes-unit-over-zero-day-exploit-disclosures-causing-uproar-in-the-cybersec-community",
-        "resumo": "Microsoft&#x27;s approach to working with security researchers has long been controversial, but some of its recent language has alarmed some commentators.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/XF9dDmwefDZrFZ7Kd2Pqeg-2121-80.jpg"
-    },
-    {
-        "titulo": "Websites Are Spying on Your Solid State Drive",
-        "fonte": "Futurism",
-        "autor": "Joe Wilkins",
-        "data": "2026-05-30",
-        "url": "https://futurism.com/future-society/websites-spying-solid-state-drive",
-        "resumo": "&quot;In principle, it would be possible to train a model on any system activity that reliably generates SSD accesses.&quot; The post Websites Are Spying on Your Solid State Drive appeared first on Futurism.",
-        "imagem": "https://futurism.com/wp-content/uploads/2026/05/websites-spying-solid-state-drive.jpg?quality=85&w=1200"
+        "url": "https://cryptobriefing.com/openai-gpt-5-5-cyber-uk-banks/",
+        "resumo": "AI-driven cybersecurity is now essential for financial institutions, highlighting regulatory pressures and shifting competitive landscapes. The post OpenAI offers UK banks access to GPT-5.5 Cyber after Anthropic blocks Mythos access appeared first on Crypto B…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/01111050/openai-to-give-eu-access-to-new-cyber-model-anthropic-still--1-800x420.jpeg"
     }
 ]
