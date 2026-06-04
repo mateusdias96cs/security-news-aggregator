@@ -1,173 +1,182 @@
 [
     {
-        "titulo": "Google fixes actively exploited Android vulnerability (CVE-2025-48595)",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-06-02",
-        "url": "https://www.helpnetsecurity.com/2026/06/02/android-vulnerability-exploited-cve-2025-48595/",
-        "resumo": "Google has announced the June 2026 Android security updates, which fix a bucketload of vulnerabilities, including a high-severity vulnerability (CVE-2025-48595) in the Android Framework that “may be under limited, targeted exploitation.” About CVE-2025-48595 …",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/04/23101514/android-broken-1500.webp"
+        "titulo": "U.S. CISA adds Android and Linux Kernel flaws to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-06-03",
+        "url": "https://securityaffairs.com/193067/security/u-s-cisa-adds-android-and-linux-kernel-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Android and Linux Kernel flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Windows Shell and ConnectWise ScreenConnect…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
     },
     {
-        "titulo": "Diligent automates cyber risk assessments and reporting",
+        "titulo": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-06-03",
+        "url": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
+        "resumo": "Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user&#x27;s NTLMv2 hash to the attacker. Like in the case of CVE-2026-33829, which impacted the Windows Snipping Tool&#x27;s ms-screensketch: URI handler, the …",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9Y4FY1kH_mrU4oH2X7TPrnmPdf9Ib4UZ4Xgud4Qgjie69on9qP9D1OU8i3ol3THTISUTy8OBJzPXzbUTyHwx1xF8cWuYvb9r-_7r_g-gFXyW62phdyaEAd41PI5cfduXxd084XQdwhxQ40Ti5n7SvkhIbZRktqP8G9bhufjlrxzxHYWpFTAXAfSSWstwc/s1700-e365/NTLM.jpg"
+    },
+    {
+        "titulo": "Infosecurity Europe: How to Get Boards to Prioritize Cyber Risk Quantification",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Danny Palmer",
+        "data": "2026-06-03",
+        "url": "https://www.infosecurity-magazine.com/news/infosecurity-europe-board-cyber/",
+        "resumo": "Cybersecurity leaders major companies discuss how they got support from the board on cyber risk",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/03b5afb2-0a1e-470d-b7cf-34c2b1f928f2.jpg"
+    },
+    {
+        "titulo": "The next evolution of the penetration test must include agentic AI",
+        "fonte": "TechRadar",
+        "autor": "Jay Kaplan",
+        "data": "2026-06-03",
+        "url": "https://www.techradar.com/pro/the-next-evolution-of-the-penetration-test-must-include-agentic-ai",
+        "resumo": "The only way defenders can win is by fighting AI with AI.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/y7GLevUTEjLYdujEYsv668-2560-80.jpg"
+    },
+    {
+        "titulo": "Analysis:High-profile Instagram AI chatbot breach spotlights security risks of automation",
+        "fonte": "CNA",
+        "autor": "",
+        "data": "2026-06-03",
+        "url": "https://www.channelnewsasia.com/business/analysishigh-profile-instagram-ai-chatbot-breach-spotlights-security-risks-automation-6159466",
+        "resumo": "June 3 : An Instagram hack that saw attackers talk Meta&#x27;s AI support chatbot into handing over access to high-profile accounts has exposed a critical flaw at the heart of the company&#x27;s push to automate sensitive user functions.The breach allowed hackers to se…",
+        "imagem": "https://dam.mediacorp.sg/image/upload/s--ZCHbl4l1--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-03T103704Z_1_LYNXMPEM520QG_RTROPTP_3_META-RESULTS.JPG?itok=4VkWNB49"
+    },
+    {
+        "titulo": "After CBSE and NTA row, JEE Advanced 2026 data exposure claim by a Dubai-based researcher sparks security debate, institute responds",
+        "fonte": "The Times of India",
+        "autor": "Trending Desk",
+        "data": "2026-06-03",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/after-cbse-and-nta-row-jee-advanced-2026-data-exposure-claim-by-a-dubai-based-researcher-sparks-security-debate-institute-responds/articleshow/131481279.cms",
+        "resumo": "JEE Advanced 2026: A cybersecurity researcher flagged a publicly accessible cloud storage linked to JEE Advanced 2026 results, potentially exposing candidate names, dates of birth, and mobile numbers. IIT Roorkee acknowledged the configuration issue, assuring…",
+        "imagem": "https://img.etimg.com/thumb/msid-131481362,width-1200,height-630,imgsize-2408686,overlay-economictimes/articleshow.jpg"
+    },
+    {
+        "titulo": "Google Patches Actively Exploited Android Flaw Affecting Millions of Devices",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-06-03",
+        "url": "https://securityaffairs.com/193057/breaking-news/google-patches-actively-exploited-android-flaw-affecting-millions-of-devices.html",
+        "resumo": "Google fixed 124 Android flaws, including CVE-2025-48595, an actively exploited privilege escalation bug linked to targeted attacks. Google has released its June 2026 Android security updates, fixing 124 vulnerabilities across the mobile operating system. One…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2022/02/Android-security.png"
+    },
+    {
+        "titulo": "Windows Netlogon CVE-2026-41089 exploited: Priority patch needed",
+        "fonte": "Notebookcheck.net",
+        "autor": "Darryl Linington",
+        "data": "2026-06-03",
+        "url": "https://www.notebookcheck.net/Windows-Netlogon-CVE-2026-41089-exploited-Priority-patch-needed.1314305.0.html",
+        "resumo": "CVE-2026-41089, a critical Windows Netlogon flaw rated CVSS 9.8, is now actively exploited. Unpatched domain controllers face full SYSTEM-level compromise with no credentials needed.",
+        "imagem": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-Netlogon-CVE-2026-41089-exploited.jpg"
+    },
+    {
+        "titulo": "Infosecurity Europe: Patch Responsibility Remains Up for Grabs as AI Unearths Decades of Flaws",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Kevin Poireault",
+        "data": "2026-06-03",
+        "url": "https://www.infosecurity-magazine.com/news/patch-responsibility-ai-infosec/",
+        "resumo": "The emergence of AI models capable to autonomously find and fix vulnerabilities at scale is having a significant impact on patching management, experts say",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/85bfe99d-92aa-46da-864a-0c85d06d59df.jpg"
+    },
+    {
+        "titulo": "Stockholm-born Holm Security receives European Cybersecurity Sovereignty Labels",
+        "fonte": "GlobeNewswire",
+        "autor": "H.O.L.M. Security Sweden AB",
+        "data": "2026-06-03",
+        "url": "https://www.globenewswire.com/news-release/2026/06/03/3305822/0/en/Stockholm-born-Holm-Security-receives-European-Cybersecurity-Sovereignty-Labels.html",
+        "resumo": "Holm Security has received the Cybersecurity Made in Europe and Software Hosted in Europe labels from ECSO and the European DIGITAL SME Alliance....",
+        "imagem": "https://ml-eu.globenewswire.com/Resource/Download/66a58811-f436-47c7-9199-176c12066a02"
+    },
+    {
+        "titulo": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy &amp; Cloudflare",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-06-03",
+        "url": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
+        "resumo": "Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora. The vulnerability has been codenamed HTTP/2 Bomb by Calif. &quot;The vulnera…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP07q0cgsa0a9VyTU6oPpxqvoZ5Gg2spx-ClmUIzn9LjYzDfuKNxnLXNuXMexiMB8GjKewhk7CnAL5HXgpCL_wq5eaU8VK2mTxxcKJHAZ9eLBskg516sBn4SV5XHWOuZIozDzBD_0MUCAMcVpGyqOEWITNKi2mQFxFLl9gqg_3UxPlwmXCkRfm2JERftyN/s1700-e365/http2.gif"
+    },
+    {
+        "titulo": "Anthropic expands Project Glasswing to 150 organizations in more than 15 countries",
+        "fonte": "Help Net Security",
+        "autor": "Sinisa Markovic",
+        "data": "2026-06-03",
+        "url": "https://www.helpnetsecurity.com/2026/06/03/anthropic-project-glasswing-expansion/",
+        "resumo": "Anthropic is expanding Project Glasswing, its cybersecurity initiative built around the Claude Mythos Preview model, by adding about 150 organizations following several weeks of work with its initial group of partners, security firms, open-source maintainers,…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/04/14132052/anthropic-red-1500.webp"
+    },
+    {
+        "titulo": "MazeBolt brings AI-generated attack simulation to DDoS security testing",
         "fonte": "Help Net Security",
         "autor": "Industry News",
-        "data": "2026-06-02",
-        "url": "https://www.helpnetsecurity.com/2026/06/02/diligent-automates-cyber-risk-assessments-and-reporting/",
-        "resumo": "Diligent has announced Diligent Cyber Risk Management, an agentic solution designed to help organizations manage cybersecurity risk in a business context. Available in summer 2026, the platform reduces cyber risk assessment work from weeks to hours and links …",
+        "data": "2026-06-03",
+        "url": "https://www.helpnetsecurity.com/2026/06/03/mazebolt-radar-vectorai/",
+        "resumo": "MazeBolt has announced the launch of RADAR VectorAI, a new MazeBolt module that creates AI-generated DDoS attacks. As AI outpaces human response, enterprises need to have access to validated DDoS vulnerability data about both known and AI-generated attack vec…",
         "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp"
     },
     {
-        "titulo": "Aveanna Healthcare Holdings Completes Acquisition of Family First Homecare and Updates Full Year 2026 Guidance",
-        "fonte": "GlobeNewswire",
-        "autor": "Aveanna Healthcare Holdings, Inc",
-        "data": "2026-06-02",
-        "url": "https://www.globenewswire.com/news-release/2026/06/02/3305023/0/en/Aveanna-Healthcare-Holdings-Completes-Acquisition-of-Family-First-Homecare-and-Updates-Full-Year-2026-Guidance.html",
-        "resumo": "ATLANTA, June 02, 2026 (GLOBE NEWSWIRE) -- Aveanna Healthcare Holdings Inc. (NASDAQ: AVAH), a leading, diversified home care platform focused on providing care to medically complex, high-cost patient populations, today announced that it completed its acquisit…",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/d3896f9e-a6a1-48c1-a8f7-d9ba5d7433d6"
+        "titulo": "EU launches sweeping power grab over chip supplies, targets Chinese imports amid tech war with U.S. and China",
+        "fonte": "Naturalnews.com",
+        "autor": "Jacob Thomas",
+        "data": "2026-06-03",
+        "url": "https://www.naturalnews.com/2026-06-03-eu-launches-power-grab-over-chip-supplies.html",
+        "resumo": "The EU is preparing emergency powers under a draft Chips Act to seize control of chip supplies, impose fines on companies and override contracts during shortages. The bloc produces less than 10% of global semiconductors and remains dependent on Taiwan and Asi…",
+        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/memory-chip-shortage-pax-silica-supply-chain-coalition-1309-original.jpg"
     },
     {
-        "titulo": "Diligent Launches AI-Powered Cyber Risk Management to Put Business Impact at the Center of Security Decisions",
-        "fonte": "Financial Post",
-        "autor": "Business Wire",
-        "data": "2026-06-02",
-        "url": "https://financialpost.com/press-releases/business-wire/diligent-launches-ai-powered-cyber-risk-management-to-put-business-impact-at-the-center-of-security-decisions",
-        "resumo": "New AI-driven solution unifies cyber, risk and compliance so leaders can reduce manual work and focus on the risks that matter most NEW YORK — Diligent, the AI leader in governance, risk and compliance ( GRC), today announced Diligent Cyber Risk Management, i…",
-        "imagem": ""
-    },
-    {
-        "titulo": "JupiterOne launches Continuous Controls Monitoring to test security controls against live asset data",
+        "titulo": "Trump signs scaled-back version of AI executive order",
         "fonte": "SiliconANGLE News",
-        "autor": "Duncan Riley",
-        "data": "2026-06-02",
-        "url": "https://siliconangle.com/2026/06/02/jupiterone-launches-continuous-controls-monitoring-test-security-controls-live-asset-data/",
-        "resumo": "Artificial intelligence risk management platform provider JupiterOne Inc. today announced the launch of JupiterOne Continuous Controls Monitoring, a new product that tests whether security and compliance controls are actually working across cloud, software-as…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/jupiterone1.png"
+        "autor": "Maria Deutscher",
+        "data": "2026-06-03",
+        "url": "https://siliconangle.com/2026/06/02/trump-signs-scaled-back-version-ai-executive-order/",
+        "resumo": "President Donald Trump today signed an executive order designed to broaden the use of artificial intelligence in federal cybersecurity initiatives. Trump reportedly planned to hold the signing ceremony last month, but called off the event at the last minute. …",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/AA1MYsde.jpeg"
     },
     {
-        "titulo": "The hidden enterprise security risk of consumer-grade tools",
-        "fonte": "TechRadar",
-        "autor": "Michael Leland",
+        "titulo": "Trump&#x27;s AI E-(I)-O could let feds pick winners and losers",
+        "fonte": "Theregister.com",
+        "autor": "Brandon Vigliarolo",
         "data": "2026-06-02",
-        "url": "https://www.techradar.com/pro/the-hidden-enterprise-security-risk-of-consumer-grade-tools",
-        "resumo": "Why “free” consumer apps quietly expand enterprise attack surfaces and governance blind spots.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/pVCXKrhThqmUjYVSZBjV5Z-2560-80.jpg"
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/02/trump-ai-executive-order-sets-30-day-frontier-model-review/5250322",
+        "resumo": "Trump&#x27;s AI executive order creates a voluntary 30-day federal review for frontier models, raising concerns over trusted partner access and agency discretion.",
+        "imagem": "https://image.theregister.com/261924.jpg?imageId=261924&x=0&y=5.53&cropw=100&croph=62.02&panox=0&panoy=5.53&panow=100&panoh=62.02&width=1200&height=683"
     },
     {
-        "titulo": "IoT Security Market to Surpass USD 280.93 Billion by 2035 | SNS Insider",
-        "fonte": "GlobeNewswire",
-        "autor": "SNS Insider pvt ltd",
-        "data": "2026-06-02",
-        "url": "https://www.globenewswire.com/news-release/2026/06/02/3304885/0/en/IoT-Security-Market-to-Surpass-USD-280-93-Billion-by-2035-SNS-Insider.html",
-        "resumo": "The U.S. IoT Security Market is Projected to Reach $100.98 Billion by 2035, While Europe is Expected to Hit $65.72 Billion, Driven by Rising Cyber Threats, Expanding IoT Deployments, Zero-Trust Security Adoption, and Strong Regulatory Frameworks Including GDP…",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2"
-    },
-    {
-        "titulo": "MazeBolt launches RADAR VectorAI to test enterprise defenses against AI-generated DDoS attacks",
+        "titulo": "Four insights you might have missed from theCUBE’s coverage of KB4-CON",
         "fonte": "SiliconANGLE News",
-        "autor": "Duncan Riley",
+        "autor": "Chad Wilson",
         "data": "2026-06-02",
-        "url": "https://siliconangle.com/2026/06/02/mazebolt-launches-radar-vectorai-test-enterprise-defenses-ai-generated-ddos-attacks/",
-        "resumo": "Israeli distributed denial-of-service resilience company MazeBolt Technologies Ltd. today launched RADAR VectorAI, a new module that uses artificial intelligence to generate previously unseen DDoS attack vectors and run them against customers’ production envi…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/mazebolt.png"
+        "url": "https://siliconangle.com/2026/06/02/agent-risk-management-knowbe4-kb4con/",
+        "resumo": "Artificial intelligence agents are turning agent risk management into a frontline security priority. As digital workers begin touching email, financial systems, collaboration tools and business workflows, enterprises need more than traditional awareness train…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Bryan-Palma-CEO-of-KnowBe4-–-KB4-CON-2026.jpg"
     },
     {
-        "titulo": "Bugcrowd Expands Platform with European Data Residency to Support Regional Compliance Needs",
+        "titulo": "The ASEAN-China AI Center: Innovation Boost or Agentic Disinformation Risk for Southeast Asia?",
+        "fonte": "The Diplomat",
+        "autor": "Gerald Mako",
+        "data": "2026-06-02",
+        "url": "https://thediplomat.com/2026/06/the-asean-china-ai-center-innovation-boost-or-agentic-disinformation-risk-for-southeast-asia/",
+        "resumo": "Deeper economic integration with Chinese AI advances brings real opportunity – and heightened risks of influence campaigns.",
+        "imagem": "https://thediplomat.com/wp-content/uploads/2026/06/sizes/td-story-s-2/thediplomat_2026-06-03-042308.jpg"
+    },
+    {
+        "titulo": "Cognizant and CrowdStrike Expand Strategic Alliance to Secure the Agentic Enterprise",
         "fonte": "PRNewswire",
         "autor": "",
         "data": "2026-06-02",
-        "url": "https://www.prnewswire.com/news-releases/bugcrowd-expands-platform-with-european-data-residency-to-support-regional-compliance-needs-302787991.html",
-        "resumo": "EU and EU-focused organizations can now leverage Bugcrowd&#x27;s intelligent offensive security platform while ensuring all sensitive vulnerability data remains on European soil SAN FRANCISCO, June 2, 2026 /PRNewswire/ -- Bugcrowd, a leader in preemptive cybersecu…",
-        "imagem": "https://mma.prnewswire.com/media/1669466/Bugcrowd_New_Logo.jpg?p=facebook"
+        "url": "https://www.prnewswire.com/news-releases/cognizant-and-crowdstrike-expand-strategic-alliance-to-secure-the-agentic-enterprise-302789069.html",
+        "resumo": "Cognizant deepens its partnership with CrowdStrike, bringing the CrowdStrike Falcon® platform to its AI Factory and Managed Cybersecurity Services to help enterprises secure AI across every layer. TEANECK, N.J., June 2, 2026 /PRNewswire/ -- Cognizant (NASDAQ:…",
+        "imagem": "https://mmx.prnewswire.com/media/MS607279/Cognizant_Logo_V1.jpg?id=OA2644441&p=facebook"
     },
     {
-        "titulo": "MazeBolt Launches RADAR VectorAI™: AI-Powered Tool That Crafts AI-Generated Attacks",
-        "fonte": "GlobeNewswire",
-        "autor": "MazeBolt",
+        "titulo": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
         "data": "2026-06-02",
-        "url": "https://www.globenewswire.com/news-release/2026/06/02/3304881/0/en/MazeBolt-Launches-RADAR-VectorAI-AI-Powered-Tool-That-Crafts-AI-Generated-Attacks.html",
-        "resumo": "As AI arms attackers with new DDoS capabilities, enterprises need continuous, environment-specific testing to know whether their defenses will hold - especially against AI attacks As AI arms attackers with new DDoS capabilities, enterprises need continuous, e…",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/e1023020-b81a-49f6-8767-908491744eb3"
-    },
-    {
-        "titulo": "FSB alleges massive Western phone-hacking operation targeted Kremlin officials and journalists",
-        "fonte": "Naturalnews.com",
-        "autor": "Cassie B.",
-        "data": "2026-06-02",
-        "url": "https://www.naturalnews.com/2026-06-02-western-phone-hacking-targeted-kremlin-officials-journalists.html",
-        "resumo": "Russia’s FSB accused Western intelligence of hacking thousands of Russian officials’ smartphones through undetectable spyware. The malware exploited zero-day vulnerabilities to access messages, calls, location, audio, and video without users’ knowledge. Kaspe…",
-        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/Cell-Phone-Tower-Spy.jpg"
-    },
-    {
-        "titulo": "After CBSE controversy, NTA re-exam portal under scanner over alleged data vulnerabilities and system weaknesses",
-        "fonte": "The Times of India",
-        "autor": "Trending Desk",
-        "data": "2026-06-02",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/after-cbse-controversy-nta-re-exam-portal-under-scanner-over-alleged-data-vulnerabilities-and-system-weaknesses/articleshow/131454987.cms",
-        "resumo": "Cybersecurity researchers have raised concerns about potential vulnerabilities in the National Testing Agency&#x27;s re-examination portal, alleging a superadmin login bypass that could expose sensitive administrative and user data. Screenshots suggest potentia…",
-        "imagem": "https://img.etimg.com/thumb/msid-131455091,width-1200,height-630,imgsize-6642,overlay-economictimes/articleshow.jpg"
-    },
-    {
-        "titulo": "Cybersecurity jobs available right now: June 2, 2026",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-06-02",
-        "url": "https://www.helpnetsecurity.com/2026/06/02/cybersecurity-jobs-available-right-now-june-2-2026/",
-        "resumo": "Agentic Safety and Ecosystem Architect, Trust and Safety Google | USA | On-site – View job details As an Agentic Safety and Ecosystem Architect, Trust and Safety, you will define safety controls and permission models for autonomous agents on Android, helping …",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140410/cybersecurity_jobs-4-1500.webp"
-    },
-    {
-        "titulo": "Protecting critical infrastructure in the AI era: It starts with data",
-        "fonte": "Elastic.co",
-        "autor": "Alf Franklin",
-        "data": "2026-06-02",
-        "url": "https://www.elastic.co/blog/critical-infrastructure-protection-ai-era",
-        "resumo": "Learn how AI-driven security, Zero Trust, and a unified data foundation help critical infrastructure organizations improve resilience, detect threats faster, and protect essential services....",
-        "imagem": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt6b9fc05307b2aa0a/6a1e4bb4b19e4a929101e7e5/pubsec-cni-blog_(1).png"
-    },
-    {
-        "titulo": "Meta’s AI Support Bot Is Giving Hackers Access to Other People’s Instagram Accounts Just by Asking",
-        "fonte": "Futurism",
-        "autor": "Victor Tangermann",
-        "data": "2026-06-01",
-        "url": "https://futurism.com/future-society/meta-ai-support-bot-hackers-access-instagram-accounts",
-        "resumo": "This is wild. The post Meta’s AI Support Bot Is Giving Hackers Access to Other People’s Instagram Accounts Just by Asking appeared first on Futurism.",
-        "imagem": "https://futurism.com/wp-content/uploads/2026/06/meta-ai-support-bot-hackers-access-instagram-accounts.jpg?w=1200"
-    },
-    {
-        "titulo": "Windows Server vulnerability can grant system privileges with just a malformed packet — domain controllers are being exploited in the wild",
-        "fonte": "Toms Hardware UK",
-        "autor": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
-        "data": "2026-06-01",
-        "url": "https://www.tomshardware.com/tech-industry/cyber-security/windows-server-vulnerability-can-grant-system-privileges-with-just-a-malformed-packet-domain-controllers-are-being-exploited-in-the-wild",
-        "resumo": "9.8-rated Windows Server vulnerability can grants system privileges with just a malformed packet — domain controllers being exploited in the wild",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/pz5RrXZwcNJ2XMi65FHwK9-2048-80.jpg"
-    },
-    {
-        "titulo": "Anthropic is finally giving the EU access to Mythos, ending weeks of standoff over the world’s most powerful cybersecurity AI",
-        "fonte": "The Next Web",
-        "autor": "Alina Maria Stan",
-        "data": "2026-06-01",
-        "url": "https://thenextweb.com/news/anthropic-mythos-eu-enisa-cybersecurity-access/",
-        "resumo": "Anthropic has agreed to give the European Union’s cybersecurity agency, ENISA, access to Claude Mythos, the AI model that has autonomously discovered more than 10,000 high- and critical-severity zero-day vulnerabilities across every major operating system and…",
-        "imagem": "https://media.thenextweb.com/2026/06/anthropic-mythos-eu-enisa-cybersecurity-access.avif"
-    },
-    {
-        "titulo": "AI helped researchers bypass Apple M5 defenses",
-        "fonte": "Fox News",
-        "autor": "",
-        "data": "2026-06-01",
-        "url": "https://www.foxnews.com/tech/ai-helped-researchers-bypass-apple-m5-defenses",
-        "resumo": "A small team claims AI helped them exploit Apple&#x27;s newest M5 chip defenses in days, signaling a shift in how fast vulnerabilities can be found.",
-        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/macbook-neo-apple-event.jpeg"
-    },
-    {
-        "titulo": "OpenAI offers UK banks access to GPT-5.5 Cyber after Anthropic blocks Mythos access",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-06-01",
-        "url": "https://cryptobriefing.com/openai-gpt-5-5-cyber-uk-banks/",
-        "resumo": "AI-driven cybersecurity is now essential for financial institutions, highlighting regulatory pressures and shifting competitive landscapes. The post OpenAI offers UK banks access to GPT-5.5 Cyber after Anthropic blocks Mythos access appeared first on Crypto B…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/01111050/openai-to-give-eu-access-to-new-cyber-model-anthropic-still--1-800x420.jpeg"
+        "url": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
+        "resumo": "The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation. Per Sekoia, the activity involves the weaponization of CVE-2025…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIWYqVAlf5o0isz1fGZ_KcAkqIAroOtFMRAvlOMseZrj7e5iLaZ47_92-zoFzN4rtQHJpmGHjMaOShanlb01qhHO5-_EFXskV2RdVtxShkQDFzCBGrgec2P-6IAFxMqRBkkbnLFyjl0n4ZkPbQBkEMl0OQqlj3CgThRwQ6Z6tQaYPbp1YhZy4wcxdmi5dy/s1700-e365/russian-malware.jpg"
     }
 ]
