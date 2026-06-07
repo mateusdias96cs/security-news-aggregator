@@ -1,5 +1,149 @@
 [
     {
+        "titulo": "CBSE retains COEMPT for answer-sheet scanning, shifts data to its own servers",
+        "fonte": "BusinessLine",
+        "autor": "ANI",
+        "data": "2026-06-06",
+        "url": "https://www.thehindubusinessline.com/news/cbse-retains-coempt-for-answer-sheet-scanning-shifts-data-to-its-own-servers/article71069326.ece",
+        "resumo": "CBSE retains COEMPT for answer sheet scanning, transferring data to its servers amid ongoing security audits and re-evaluation processes.",
+        "imagem": "https://bl-i.thgim.com/public/incoming/ab4xcd/article71051243.ece/alternates/LANDSCAPE_1200/NKV-CBSE.jpg"
+    },
+    {
+        "titulo": "Everything to know about CBSE’s 2026 evaluation crisis: a timeline",
+        "fonte": "MediaNama.com",
+        "autor": "Aakriti Bansal",
+        "data": "2026-06-06",
+        "url": "https://www.medianama.com/2026/06/223-cbse-2026-evaluation-crisis-timeline/",
+        "resumo": "CBSE&#x27;s digital evaluation experiment has spiralled into a controversy involving cybersecurity flaws, low results, cyberattacks, and procurement allegations. The post Everything to know about CBSE’s 2026 evaluation crisis: a timeline appeared first on MEDIANAM…",
+        "imagem": "https://www.medianama.com/wp-content/uploads/2018/09/19-A-college-student-in-Srinagar-browing-internet-using-VPN.jpg.jpg"
+    },
+    {
+        "titulo": "CBSE retains COEMPT for answer-sheet scanning, shifts data to its own servers",
+        "fonte": "The Times of India",
+        "autor": "ANI",
+        "data": "2026-06-06",
+        "url": "https://economictimes.indiatimes.com/news/india/cbse-retains-coempt-for-answer-sheet-scanning-shifts-data-to-its-own-servers/articleshow/131548067.cms",
+        "resumo": "When asked about whether COEMPT will be able to scan answer sheets despite its track record, the official said, &quot;They scanned 40 crore pages, of which about 30,000 odd have problems. That means about 1 in 10,000 pages were problematic. Now they only need to s…",
+        "imagem": "https://img.etimg.com/thumb/msid-131548116,width-1200,height-630,imgsize-797430,overlay-economictimes/articleshow.jpg"
+    },
+    {
+        "titulo": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-06-06",
+        "url": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity security flaw impacting SolarWinds Serv-U multi-protocol file server software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitati…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_ZbsHhh5kUS5501itVSeBa91H50qNfHH_PQ1_2WEDLi-B_eKslYeu1_43fNAW55Z9TVR5ae8ZIGDm4vZQS0B7IHvG9Gdp4Knzt8QB1E7317tyEVhJYR8xo1HJ_vf6Ynrdtfj_u-pcryZ5NVulL7vw_9KLaGomIjKe40GYClUu-FDtXXwuKAfK7V8mKN-/s1700-e365/solarwinds-serv-u.jpg"
+    },
+    {
+        "titulo": "Researchers build autonomous AI worm that can reason and adapt",
+        "fonte": "Techtarget.com",
+        "autor": "Alissa Irei",
+        "data": "2026-06-05",
+        "url": "https://www.techtarget.com/searchsecurity/news/366643829/Researchers-build-autonomous-AI-worm-that-can-reason-adapt",
+        "resumo": "University of Toronto researchers created a proof-of-concept AI worm that dynamically identifies vulnerabilities and adapts its attack strategies. Here&#x27;s what it means for enterprises.",
+        "imagem": "https://www.techtarget.com/visuals/ComputerWeekly/Hero Images/security-malware-adobe.jpg"
+    },
+    {
+        "titulo": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-06-05",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
+        "resumo": "CISA warned today that hackers are now actively exploiting a recently patched high-severity SolarWinds Serv-U flaw to crash servers. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/01/28/SolarWinds.jpg"
+    },
+    {
+        "titulo": "Creative&#x27;s Katana V2X speaker potentially has a serious vulnerability that could allow hackers to attack your PC, and there&#x27;s only one way to avoid it",
+        "fonte": "TechRadar",
+        "autor": "Isaiah Williams",
+        "data": "2026-06-05",
+        "url": "https://www.techradar.com/computing/computing-components/creatives-katana-v2x-speaker-potentially-has-a-serious-vulnerability-that-could-allow-hackers-to-attack-your-pc-and-theres-only-one-way-to-avoid-it",
+        "resumo": "PC system vulnerabilities are seemingly more common than we thought, as a researcher finds a major issue in a popular speaker that can hack a user&#x27;s PC.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/ysq6eFnE5zkjusLVDKSfVe-2425-80.jpg"
+    },
+    {
+        "titulo": "AI exposed a massive flaw in top crypto network and experts warn banks could be next",
+        "fonte": "CoinDesk",
+        "autor": "Olivier Acuna",
+        "data": "2026-06-05",
+        "url": "https://www.coindesk.com/tech/2026/06/05/ai-exposed-a-massive-flaw-in-top-crypto-network-and-experts-warn-banks-could-be-next",
+        "resumo": "After an AI model helped uncover a four-year-old flaw in Zcash, security researchers warn that similar bugs may be hiding across crypto and traditional financial systems.",
+        "imagem": "https://cdn.sanity.io/images/s3y3vcno/production/b1d6ea7b7aec491803836b0fa81e4742ba3b8285-1280x854.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+    },
+    {
+        "titulo": "NSA using Clause Mythos for &#x27;offensive cyber operations,&#x27; report claims — says &#x27;half-a-dozen&#x27; Anthropic engineers embedded inside the agency",
+        "fonte": "Toms Hardware UK",
+        "autor": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
+        "data": "2026-06-05",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nsa-using-clause-mythos-for-offensive-cyber-operations-report-claims-says-half-a-dozen-anthropic-engineers-embedded-inside-the-agency",
+        "resumo": "US National Security Agency reportedly using Mythos for conducting cyber-attacks — report reveals Anthropic engineers inside the NSA",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/7g5sP2AEjdZFq6iAFvarpE-2048-80.jpg"
+    },
+    {
+        "titulo": "Trump AI order targets frontier model prerelease review",
+        "fonte": "Techtarget.com",
+        "autor": "Kinza Yasar",
+        "data": "2026-06-05",
+        "url": "https://www.techtarget.com/searchenterpriseai/news/366644013/Trump-AI-order-targets-frontier-model-prerelease-review",
+        "resumo": "The White House&#x27;s voluntary AI executive order creates a prerelease review process for frontier models, raising questions about release timelines, vendor trust and enterprise procurement.",
+        "imagem": "https://www.techtarget.com/rms/onlineimages/ai_a194810146.jpg"
+    },
+    {
+        "titulo": "This Week in Security: Messing with AI, 7Zip and Notepad++ Vulnerabilities, HTTP2 Bomb, and More",
+        "fonte": "Hackaday",
+        "autor": "Mike Kershaw",
+        "data": "2026-06-05",
+        "url": "https://hackaday.com/2026/06/05/this-week-in-security-messing-with-ai-7zip-and-notepad-vulnerabilities-http2-bomb-and-more/",
+        "resumo": "With the rise of AI coding assistants continuing apparently unabated, some project maintainers have begun striking back. Ars Technica reports on projects putting hostile directions into the AGENTS.md file, or …read more",
+        "imagem": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg"
+    },
+    {
+        "titulo": "Cisco SD-WAN Has a New Root-Level Problem, and There’s No Fix Yet",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-06-05",
+        "url": "https://securityaffairs.com/193203/security/cisco-sd-wan-has-a-new-root-level-problem-and-theres-no-fix-yet.html",
+        "resumo": "Cisco warns of CVE-2026-20245 in SD-WAN Manager, a flaw that can lead to root access via file upload command injection; no patch or workaround yet. Cisco warns of a privilege escalation flaw, tracked as CVE-2026-20245 (CVSS base score of 7.8), in Cisco Cataly…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2014/07/cisco-building.jpg"
+    },
+    {
+        "titulo": "This Week in Cybersecurity: How AI Supercharged Hackers, Scammers, and Even Worms",
+        "fonte": "PCMag.com",
+        "autor": "Alan Henry",
+        "data": "2026-06-05",
+        "url": "https://uk.pcmag.com/security/165375/this-week-in-cybersecurity-how-ai-supercharged-hackers-scammers-and-even-worms",
+        "resumo": "From account hijacks and convincing scams to surveillance systems and experimental malware, AI was behind some of this week&#x27;s biggest cybersecurity stories. Even the worms got an upgrade. Another week in information security means another week where AI is in …",
+        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/t/this-week-/this-week-in-cybersecurity-how-ai-supercharged-hackers-scamm_ns76.1200.jpg"
+    },
+    {
+        "titulo": "In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA",
+        "fonte": "Securityweek.com",
+        "autor": "SecurityWeek News",
+        "data": "2026-06-05",
+        "url": "https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/",
+        "resumo": "Other noteworthy stories that might have slipped under the radar: Ultrahuman data leak, The Gentlemen ransomware analysis, Hola Browser bundles miner. The post In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA appea…",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg"
+    },
+    {
+        "titulo": "Using LLMs to secure source code | Claude",
+        "fonte": "Claude.com",
+        "autor": "",
+        "data": "2026-06-05",
+        "url": "https://claude.com/blog/using-llms-to-secure-source-code",
+        "resumo": "Model capabilities are advancing quickly, and unevenly. We’ve been working with security teams to find and fix vulnerabilities in their own code and open source software, and the work has given us a better understanding of how to use models to secure source c…",
+        "imagem": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a1765c92ff7f5b53db95147_og_using-llms-to-secure-source-code%20(1).jpg"
+    },
+    {
+        "titulo": "Industrial Cyber Security Market to Hit USD 50.12 Billion by 2035 as OT Attacks and Nation-State Threats Escalate | Research by SNS Insider",
+        "fonte": "GlobeNewswire",
+        "autor": "SNS Insider pvt ltd",
+        "data": "2026-06-05",
+        "url": "https://www.globenewswire.com/news-release/2026/06/05/3307276/0/en/Industrial-Cyber-Security-Market-to-Hit-USD-50-12-Billion-by-2035-as-OT-Attacks-and-Nation-State-Threats-Escalate-Research-by-SNS-Insider.html",
+        "resumo": "The U.S. Industrial Cyber Security Market is Projected to Reach $16.64 Billion by 2035, While Europe is Expected to Hit $12.86 Billion, Driven by Rising OT and IIoT Cyberattacks, Zero-Trust Industrial Security Adoption, and Strict Regulatory Frameworks Includ…",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2"
+    },
+    {
         "titulo": "The Meta hack shows there’s more to AI security than Mythos",
         "fonte": "MIT Technology Review",
         "autor": "Grace Huckins",
@@ -34,149 +178,5 @@
         "url": "https://economictimes.indiatimes.com/industry/services/education/cbse-detects-3-8-mln-malicious-packets-targeting-revaluation-portal-attack-thwarted/articleshow/131525611.cms",
         "resumo": "The CBSE re-evaluation portal experienced a major cyberattack with millions of malicious packets. Security systems successfully blocked numerous unauthorized access attempts and mitigated traffic surges. Despite these challenges, the portal remained stable, s…",
         "imagem": "https://img.etimg.com/thumb/msid-131525707,width-1200,height-630,imgsize-92546,overlay-economictimes/articleshow.jpg"
-    },
-    {
-        "titulo": "CBSE portal repels DoS attack of 3.8 million packets; over 70,000 grievance applications received",
-        "fonte": "The Indian Express",
-        "autor": "Education Desk",
-        "data": "2026-06-05",
-        "url": "https://indianexpress.com/article/education/cbse-osm-row-12th-result-portal-repels-massive-dos-attack-of-3-8-million-packets-over-70000-grievance-applications-received-10725179/",
-        "resumo": "Board says portal was activated only after rigorous security hardening; within two minutes of launch, 1.5 million access requests recorded and over 1 lakh unauthorised attempts blocked",
-        "imagem": "https://images.indianexpress.com/2026/06/cbse-re-evaluation-portal-cyber-attack.jpg"
-    },
-    {
-        "titulo": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-06-05",
-        "url": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
-        "resumo": "On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/03/04/Cisco-headpic.jpg"
-    },
-    {
-        "titulo": "Absurd security disaster: Instagram accounts hijacked by asking for help from Meta&#x27;s own AI bot",
-        "fonte": "Afterdawn.com",
-        "autor": "Petteri Pyyny",
-        "data": "2026-06-05",
-        "url": "https://www.afterdawn.com/news/article.cfm/2026/06/05/instagram-accounts-hijacked-by-asking-for-help-from-meta-ai",
-        "resumo": "Meta has found itself in the middle of a massive security scandal, as it has been revealed that hackers have managed to hijack Instagram accounts by tricking the company&#x27;s own AI-powered customer service bot. On social media (link X / Twitter) and in Telegra…",
-        "imagem": "https://cdn.afterdawn.fi/v3/news/original/Meta-logo.jpg"
-    },
-    {
-        "titulo": "Weekly news roundup: Anthropic goes public, Nvidia &#x27;superchip,&#x27; and SpaceX historic IPO",
-        "fonte": "Techtarget.com",
-        "autor": "Rosa Heaton",
-        "data": "2026-06-05",
-        "url": "https://www.techtarget.com/searchcio/feature/Weekly-news-roundup-Anthropic-goes-public-Nvidia-superchip-and-SpaceX-historic-IPO",
-        "resumo": "Stay up to date with the latest U.S. tech news, IPOs and executive moves shaping the industry each week.",
-        "imagem": "https://www.techtarget.com/rms/onlineimages/maze_g467037520.jpg"
-    },
-    {
-        "titulo": "New infosec products of the week: June 5, 2026",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-06-05",
-        "url": "https://www.helpnetsecurity.com/2026/06/05/new-infosec-products-of-the-week-june-5-2026/",
-        "resumo": "Here’s a look at the most interesting products from the past week, featuring releases from Asimily, depthfirst, Diligent, Hyland, MazeBolt, and Noma. Asimily turns device risk into automated network policy Asimily has launched Segmentation Orchestration, enab…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/28091843/infosec-week-1200.webp"
-    },
-    {
-        "titulo": "Australia now has access to Anthropic’s Claude Mythos. It may improve cyber safety – but not for everyone",
-        "fonte": "The Conversation Africa",
-        "autor": "Andrew Cullen, Senior Research Fellow, School of Computing and Information Systems, The University o",
-        "data": "2026-06-04",
-        "url": "https://theconversation.com/australia-now-has-access-to-anthropics-claude-mythos-it-may-improve-cyber-safety-but-not-for-everyone-284544",
-        "resumo": "The AI era has fundamentally changed the risks associated with poor cybersecurity practices.",
-        "imagem": "https://images.theconversation.com/files/739960/original/file-20260604-71-kmzivp.jpg?ixlib=rb-4.1.0&rect=0%2C120%2C3840%2C1920&q=45&auto=format&w=1356&h=668&fit=crop"
-    },
-    {
-        "titulo": "The June 2026 AI Executive Order: What federal agencies need to know and how Tenable can help",
-        "fonte": "Tenable.com",
-        "autor": "Jill Shapiro",
-        "data": "2026-06-04",
-        "url": "https://www.tenable.com/blog/summary-june-2026-ai-executive-order-requirements",
-        "resumo": "On June 2, 2026, the White House signed an Executive Order directing federal agencies to harden their systems with AI-enabled cyber defenses and to stand up a new AI cybersecurity clearinghouse — most of it on a 30-day clock. Here’s what the EO requires and h…",
-        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/AI%20Executive%20Order.png?itok=gOU3WM5V"
-    },
-    {
-        "titulo": "EU Procurement Standards Show Vendor Lock-In Is Growing B2B Liability",
-        "fonte": "pymnts.com",
-        "autor": "PYMNTS",
-        "data": "2026-06-04",
-        "url": "https://www.pymnts.com/news/b2b-payments/2026/eu-procurement-standards-show-vendor-lock-in-is-growing-b2b-liability/",
-        "resumo": "Government tech procurement has mostly come down to price, performance and who could land the contract fastest. The EU just signaled that era is ending. With its new Tech Sovereignty Package unveiled on Tuesday (June 2), the European Commission is repositioni…",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/06/EU-Procurement-1.jpg"
-    },
-    {
-        "titulo": "Validated Compliance: VMware vDefend Conforms with NIST CSF, HIPAA and PCI DSS",
-        "fonte": "Vmware.com",
-        "autor": "Soumen Chatterjee and Suman Sharma",
-        "data": "2026-06-04",
-        "url": "http://blogs.vmware.com/security/2026/06/validated-compliance-vmware-vdefend-conforms-with-nist-csf-hipaa-and-pci-dss.html",
-        "resumo": "VMware vDefend directly conforms to NIST CSF, HIPAA, and PCI DSS requirements, providing organizations with the critical controls needed to satisfy regulatory mandates and mitigate modern threats. Regulatory compliance has become a strategic imperative across…",
-        "imagem": "https://blogs.vmware.com/security/wp-content/uploads/sites/26/2026/06/Getty-1946533310.jpg"
-    },
-    {
-        "titulo": "Five takeaways from the Cisco Live keynotes",
-        "fonte": "SiliconANGLE News",
-        "autor": "Zeus Kerravala",
-        "data": "2026-06-04",
-        "url": "https://siliconangle.com/2026/06/04/five-takeaways-cisco-live-keynotes/",
-        "resumo": "At Cisco Systems Inc.‘s annual event, Cisco Live, this week in Las Vegas, it was no surprise that artificial intelligence was the top theme of the show and dominated most of the news and product innovations announced. Cisco has been successful in riding the A…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/jeetupatel-2026-cisco.jpeg"
-    },
-    {
-        "titulo": "Security Researchers Are Threat Actors - PSW #929",
-        "fonte": "Libsyn.com",
-        "autor": "",
-        "data": "2026-06-04",
-        "url": "https://sites.libsyn.com/18678/security-researchers-are-threat-actors-psw-929",
-        "resumo": "This week in the security news: Security Researchers Are Threat Actors according to Microsoft Hands-free malicious firmware If you&#x27;ve ever typed &quot;ls&quot; in Windows, this is for you Cisco makes more patches, wants you to pay&lt;/l…",
-        "imagem": "http://assets.libsyn.com/content/202621150?height=250&width=250&overlay=true"
-    },
-    {
-        "titulo": "Tenable joins Anthropic’s Project Glasswing to advance AI-era cyber defense",
-        "fonte": "Tenable.com",
-        "autor": "Vlad Korsunsky",
-        "data": "2026-06-04",
-        "url": "https://www.tenable.com/blog/anthropic-claude-mythos-tenable-joins-project-glasswing",
-        "resumo": "By participating in Project Glasswing and working with Claude Mythos Preview, Tenable can help customers better understand how emerging frontier AI models behave, their evolving risks and benefits for cybersecurity, and the kinds of controls organizations wil…",
-        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/glasswing-blog.png?itok=ZLEL_d2v"
-    },
-    {
-        "titulo": "Reporting from Vegas: Networking, AI, and good boys",
-        "fonte": "Talosintelligence.com",
-        "autor": "Joe Marshall",
-        "data": "2026-06-04",
-        "url": "https://blog.talosintelligence.com/reporting-from-vegas-networking-ai-and-good-boys/",
-        "resumo": "Joe’s on-the-ground report from Cisco Live U.S. is here, complete with therapy dog pictures and tips on handling conference overstimulation.",
-        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/06/threat_source.jpg"
-    },
-    {
-        "titulo": "New AI Cyber Worm Thinks Up Its Own Attacks To Infect Computers",
-        "fonte": "Hot Hardware",
-        "autor": "Chris Harper",
-        "data": "2026-06-04",
-        "url": "https://hothardware.com/news/new-ai-cyber-worm-thinks-up-its-own-attacks-to-infect-computers",
-        "resumo": "AI-powered malware is a growing threat, but the extent of that threat was nebulous until researchers from the University of Toronto, Vector Institute, and CleverHans Lab presented a new PoC (proof of concept) attack developed with a local model running on onl…",
-        "imagem": "https://hothardware.com/contentimages/NewsItem/70783/content/16x9_2133x1200_highres-ai-worm.jpg"
-    },
-    {
-        "titulo": "Publishing professionals are becoming prime targets for impersonation",
-        "fonte": "The Next Web",
-        "autor": "Veronika Furs",
-        "data": "2026-06-04",
-        "url": "https://thenextweb.com/news/publishing-professionals-impersonation-ai-fraud-mark-gottlieb/",
-        "resumo": "An aspiring author receives an email from a “literary agent” expressing enthusiasm about their manuscript. The message is polished, personalized, and professional. The sender references recent bestsellers, adaptation potential, and submission strategy. The ag…",
-        "imagem": "https://media.thenextweb.com/2026/06/publishing-professionals-impersonation-ai-fraud-mark-gottlieb.avif"
-    },
-    {
-        "titulo": "Radiant Logic extends identity visibility platform to enterprise AI agents with real-time risk scoring",
-        "fonte": "SiliconANGLE News",
-        "autor": "Kyt Dotson",
-        "data": "2026-06-04",
-        "url": "https://siliconangle.com/2026/06/04/radiant-logic-extends-identity-visibility-platform-enterprise-ai-agents-real-time-risk-scoring/",
-        "resumo": "Radiant Logic Inc., a platform that provides identity visibility and intelligence, today announced it is extending its services to the agentic artificial intelligence industry to help companies control and govern this new type of autonomous software. As auton…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2016/06/align-magnify-people-stick-figures-social.jpg"
     }
 ]
