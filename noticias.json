@@ -1,5 +1,104 @@
 [
     {
+        "titulo": "Microsoft forced into policy retreat over rogue zero-day researcher Nightmare Eclipse",
+        "fonte": "Notebookcheck.net",
+        "autor": "Darryl Linington",
+        "data": "2026-06-07",
+        "url": "https://www.notebookcheck.net/Microsoft-forced-into-policy-retreat-over-rogue-zero-day-researcher-Nightmare-Eclipse.1316984.0.html",
+        "resumo": "Microsoft backtracks on legal threats against hacker Nightmare Eclipse following intense industry backlash over unpatched Windows Defender zero-days.",
+        "imagem": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Microsoft-Redmond-aerial-view54.jpg"
+    },
+    {
+        "titulo": "Week in review: Cisco SD-WAN 0-day exploited, Patch Tuesday forecast",
+        "fonte": "Help Net Security",
+        "autor": "Help Net Security",
+        "data": "2026-06-07",
+        "url": "https://www.helpnetsecurity.com/2026/06/07/week-in-review-cisco-sd-wan-0-day-exploited-june-2026-patch-tuesday-forecast/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: OWASP Agent Memory Guard: Stop AI agents from being weaponized through their own memory Agent Memory Guard is an open-source runtime defense layer that sits betw…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01112502/cybersecurity_week_in_review1.jpg"
+    },
+    {
+        "titulo": "Why Autonomous Robot Dogs Are Becoming a National Security Threat",
+        "fonte": "Geeky Gadgets",
+        "autor": "Julian Horsey",
+        "data": "2026-06-07",
+        "url": "https://www.geeky-gadgets.com/robot-dog-security-nightmare/",
+        "resumo": "Autonomous robot dogs are rapidly becoming a fixture in industries ranging from law enforcement to private security, but their rise comes with serious concerns. Benn Jordan examines how these machines, while technologically impressive, suffer from critical fl…",
+        "imagem": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/hacked-surveillance-robot.jpg"
+    },
+    {
+        "titulo": "U.S. Bill Seeks to Block Chinese-Connected Vehicles From Entering Through Canada",
+        "fonte": "Naturalnews.com",
+        "autor": "Douglas Harrington",
+        "data": "2026-06-07",
+        "url": "https://www.naturalnews.com/2026-06-07-us-bill-to-block-chinese-connected-vehicles.html",
+        "resumo": "Two U.S. lawmakers introduced a bill last week aimed at preventing Chinese-connected vehicles from entering the United States through Canada and Mexico, citing national security risks tied to data collection and surveillance. Rep. Haley Stevens and Sen. Eliss…",
+        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/chinese-connected-vehicles-protecting-america-from-chinese-cars-act-national-security-1863-original.jpg"
+    },
+    {
+        "titulo": "Is Cybersecurity Hard? Honest Career Guide for 2026",
+        "fonte": "Smashingapps.com",
+        "autor": "An Jay",
+        "data": "2026-06-06",
+        "url": "https://www.smashingapps.com/is-cybersecurity-hard/",
+        "resumo": "Is cybersecurity hard to learn? Honest breakdown of what makes it challenging, what makes it easier than expected, and how to start in 2026 with no experience.",
+        "imagem": "https://www.smashingapps.com/wp-content/uploads/2026/06/Is-Cybersecurity-Hard.jpg"
+    },
+    {
+        "titulo": "U.S. CISA adds SolarWinds Serv-U flaw to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-06-06",
+        "url": "https://securityaffairs.com/193245/security/u-s-cisa-adds-solarwinds-serv-u-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds SolarWinds Serv-U flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added SolarWinds Serv-U flaw, tracked as CVE-2026-28318 (…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "AI Is Helping Discover Tech Vulnerabilities—And Zcash Is Just the Latest Example",
+        "fonte": "Decrypt",
+        "autor": "Jason Nelson",
+        "data": "2026-06-06",
+        "url": "https://decrypt.co/370237/ai-discover-tech-vulnerabilities-zcash-latest-example",
+        "resumo": "Frontier AI models have evolved into bug-finding tools, uncovering vulnerabilities across the tech world—and now in crypto too.",
+        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-18-gID_7.png"
+    },
+    {
+        "titulo": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+        "fonte": "Weekinsecurity.com",
+        "autor": "Zack Whittaker",
+        "data": "2026-06-06",
+        "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+        "resumo": "Meta fixed the bug that let anyone trick its Meta AI chatbot into resetting the password on Instagram accounts that didn&#x27;t have two-factor authentication.",
+        "imagem": "https://storage.ghost.io/c/ed/a2/eda2c6f7-faef-48b4-9ed4-86a4fa4dca68/content/images/size/w1200/2026/06/meta-ai-chatbot-twis-story-2.jpg"
+    },
+    {
+        "titulo": "Report: Anthropic Deploys Engineers to Support NSA Use of Mythos",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-06-06",
+        "url": "https://securityaffairs.com/193234/ai/report-anthropic-deploys-engineers-to-support-nsa-use-of-mythos.html",
+        "resumo": "Reports claim Anthropic engineers are helping the NSA use its restricted AI model Mythos, known for advanced cybersecurity capabilities. This week, the Financial Times reported that Anthropic has placed approximately six “forward-deployed” engineers inside th…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/01/nsa-spy-on-North-Korea.jpg"
+    },
+    {
+        "titulo": "The Human Element Is a Cyber Hard Problem. Here’s What Health System Security Teams Can Take From New Research",
+        "fonte": "Healthsystemcio.com",
+        "autor": "Anthony Guerra",
+        "data": "2026-06-06",
+        "url": "https://healthsystemcio.com/2026/06/06/human-centered-cybersecurity-health-systems/",
+        "resumo": "Your staff are not the weakest link, and the metric proving otherwise may be misleading you. New cybersecurity research reveals why training completion rates mask the behavior that actually determines whether your next breach starts with a click. Source: The …",
+        "imagem": "https://healthsystemcio.com/wp-content/uploads/2026/06/research-200.png"
+    },
+    {
+        "titulo": "Gaming soundbar can be hijacked from over 16 yards away without touch or pairing — the company allegedly refuses to label the blatant security flaw a cybersecurity risk",
+        "fonte": "Toms Hardware UK",
+        "autor": "Luke James",
+        "data": "2026-06-06",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/creatives-sound-blaster-katana-v2x-can-be-hijacked-over-bluetooth",
+        "resumo": "Security researcher Rasmus Moorats has demonstrated that Creative&#x27;s Sound Blaster Katana V2X gaming soundbar can be hijacked over Bluetooth from up to 16 yards away.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/YUDxAZxxyWFMPWzwJRmWvH-2560-80.jpg"
+    },
+    {
         "titulo": "CBSE retains COEMPT for answer-sheet scanning, shifts data to its own servers",
         "fonte": "BusinessLine",
         "autor": "ANI",
@@ -79,104 +178,5 @@
         "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nsa-using-clause-mythos-for-offensive-cyber-operations-report-claims-says-half-a-dozen-anthropic-engineers-embedded-inside-the-agency",
         "resumo": "US National Security Agency reportedly using Mythos for conducting cyber-attacks — report reveals Anthropic engineers inside the NSA",
         "imagem": "https://cdn.mos.cms.futurecdn.net/7g5sP2AEjdZFq6iAFvarpE-2048-80.jpg"
-    },
-    {
-        "titulo": "Trump AI order targets frontier model prerelease review",
-        "fonte": "Techtarget.com",
-        "autor": "Kinza Yasar",
-        "data": "2026-06-05",
-        "url": "https://www.techtarget.com/searchenterpriseai/news/366644013/Trump-AI-order-targets-frontier-model-prerelease-review",
-        "resumo": "The White House&#x27;s voluntary AI executive order creates a prerelease review process for frontier models, raising questions about release timelines, vendor trust and enterprise procurement.",
-        "imagem": "https://www.techtarget.com/rms/onlineimages/ai_a194810146.jpg"
-    },
-    {
-        "titulo": "This Week in Security: Messing with AI, 7Zip and Notepad++ Vulnerabilities, HTTP2 Bomb, and More",
-        "fonte": "Hackaday",
-        "autor": "Mike Kershaw",
-        "data": "2026-06-05",
-        "url": "https://hackaday.com/2026/06/05/this-week-in-security-messing-with-ai-7zip-and-notepad-vulnerabilities-http2-bomb-and-more/",
-        "resumo": "With the rise of AI coding assistants continuing apparently unabated, some project maintainers have begun striking back. Ars Technica reports on projects putting hostile directions into the AGENTS.md file, or …read more",
-        "imagem": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg"
-    },
-    {
-        "titulo": "Cisco SD-WAN Has a New Root-Level Problem, and There’s No Fix Yet",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-06-05",
-        "url": "https://securityaffairs.com/193203/security/cisco-sd-wan-has-a-new-root-level-problem-and-theres-no-fix-yet.html",
-        "resumo": "Cisco warns of CVE-2026-20245 in SD-WAN Manager, a flaw that can lead to root access via file upload command injection; no patch or workaround yet. Cisco warns of a privilege escalation flaw, tracked as CVE-2026-20245 (CVSS base score of 7.8), in Cisco Cataly…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2014/07/cisco-building.jpg"
-    },
-    {
-        "titulo": "This Week in Cybersecurity: How AI Supercharged Hackers, Scammers, and Even Worms",
-        "fonte": "PCMag.com",
-        "autor": "Alan Henry",
-        "data": "2026-06-05",
-        "url": "https://uk.pcmag.com/security/165375/this-week-in-cybersecurity-how-ai-supercharged-hackers-scammers-and-even-worms",
-        "resumo": "From account hijacks and convincing scams to surveillance systems and experimental malware, AI was behind some of this week&#x27;s biggest cybersecurity stories. Even the worms got an upgrade. Another week in information security means another week where AI is in …",
-        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/t/this-week-/this-week-in-cybersecurity-how-ai-supercharged-hackers-scamm_ns76.1200.jpg"
-    },
-    {
-        "titulo": "In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA",
-        "fonte": "Securityweek.com",
-        "autor": "SecurityWeek News",
-        "data": "2026-06-05",
-        "url": "https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/",
-        "resumo": "Other noteworthy stories that might have slipped under the radar: Ultrahuman data leak, The Gentlemen ransomware analysis, Hola Browser bundles miner. The post In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA appea…",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg"
-    },
-    {
-        "titulo": "Using LLMs to secure source code | Claude",
-        "fonte": "Claude.com",
-        "autor": "",
-        "data": "2026-06-05",
-        "url": "https://claude.com/blog/using-llms-to-secure-source-code",
-        "resumo": "Model capabilities are advancing quickly, and unevenly. We’ve been working with security teams to find and fix vulnerabilities in their own code and open source software, and the work has given us a better understanding of how to use models to secure source c…",
-        "imagem": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a1765c92ff7f5b53db95147_og_using-llms-to-secure-source-code%20(1).jpg"
-    },
-    {
-        "titulo": "Industrial Cyber Security Market to Hit USD 50.12 Billion by 2035 as OT Attacks and Nation-State Threats Escalate | Research by SNS Insider",
-        "fonte": "GlobeNewswire",
-        "autor": "SNS Insider pvt ltd",
-        "data": "2026-06-05",
-        "url": "https://www.globenewswire.com/news-release/2026/06/05/3307276/0/en/Industrial-Cyber-Security-Market-to-Hit-USD-50-12-Billion-by-2035-as-OT-Attacks-and-Nation-State-Threats-Escalate-Research-by-SNS-Insider.html",
-        "resumo": "The U.S. Industrial Cyber Security Market is Projected to Reach $16.64 Billion by 2035, While Europe is Expected to Hit $12.86 Billion, Driven by Rising OT and IIoT Cyberattacks, Zero-Trust Industrial Security Adoption, and Strict Regulatory Frameworks Includ…",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2"
-    },
-    {
-        "titulo": "The Meta hack shows there’s more to AI security than Mythos",
-        "fonte": "MIT Technology Review",
-        "autor": "Grace Huckins",
-        "data": "2026-06-05",
-        "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-        "resumo": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One…",
-        "imagem": "https://wp.technologyreview.com/wp-content/uploads/2026/06/hand-keys1.jpg?resize=1200,600"
-    },
-    {
-        "titulo": "Cisco SD-WAN 0-day exploited, no patch available (CVE-2026-20245)",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-06-05",
-        "url": "https://www.helpnetsecurity.com/2026/06/05/cisco-sd-wan-cve-2026-20245-0-day-exploited/",
-        "resumo": "A 0-day privilege escalation vulnerability (CVE-2026-20245) in Cisco Catalyst SD-WAN Manager that has yet to be patched by Cisco is being leveraged by attackers. “To exploit this vulnerability, an attacker must have netadmin privileges on an affected system. …",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/01/23135631/cisco-flow.webp"
-    },
-    {
-        "titulo": "The first computer virus to spread across the global internet was released by accident in November 1988 by a 23-year-old Cornell graduate student named Robert Morris — who claimed he only wanted to me",
-        "fonte": "Space Daily",
-        "autor": "Space Daily Editorial Team",
-        "data": "2026-06-05",
-        "url": "https://spacedaily.com/d-the-first-computer-virus-to-spread-across-the-global-internet-was-released-by-accident-in-november-1988-by-a-23-year-old-cornell-graduate-student-named-robert-morris-who-claimed-he-only-want/",
-        "resumo": "At 8:30 in the evening on Wednesday 2 November 1988, a 23-year-old graduate student named Robert Tappan Morris, in his first semester of a PhD programme in computer science at Cornell University, logged into a Massachusetts Institute of Technology computer fr…",
-        "imagem": "https://spacedaily.com/wp-content/uploads/2026/06/Posts-1600840-2026-06-05T093854.926.png"
-    },
-    {
-        "titulo": "CBSE detects 3.8 mln malicious packets targeting revaluation portal, attack thwarted",
-        "fonte": "The Times of India",
-        "autor": "ANI",
-        "data": "2026-06-05",
-        "url": "https://economictimes.indiatimes.com/industry/services/education/cbse-detects-3-8-mln-malicious-packets-targeting-revaluation-portal-attack-thwarted/articleshow/131525611.cms",
-        "resumo": "The CBSE re-evaluation portal experienced a major cyberattack with millions of malicious packets. Security systems successfully blocked numerous unauthorized access attempts and mitigated traffic surges. Despite these challenges, the portal remained stable, s…",
-        "imagem": "https://img.etimg.com/thumb/msid-131525707,width-1200,height-630,imgsize-92546,overlay-economictimes/articleshow.jpg"
     }
 ]
