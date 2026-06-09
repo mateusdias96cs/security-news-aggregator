@@ -1,5 +1,140 @@
 [
     {
+        "titulo": "UNC3753 Escalates: From Vishing Calls to Physical Office Intrusions at US Legal and Financial Firms",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-06-08",
+        "url": "https://securityaffairs.com/193315/cyber-crime/unc3753-escalates-from-vishing-calls-to-physical-office-intrusions-at-us-legal-and-financial-firms.html",
+        "resumo": "UNC3753 phones staff posing as IT, hijacks screen sessions, steals sensitive legal files, and now sends operatives physically into offices to plug in USB drives. Google Mandiant and the Google Threat Intelligence Group published a detailed report documenting …",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/06/image-23.png"
+    },
+    {
+        "titulo": "VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-06-08",
+        "url": "https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html",
+        "resumo": "A China-nexus cyber espionage group has been observed deploying a BSD variant of a known backdoor called BRICKSTORM, as well as two other malware families codenamed PLENET (aka GRIMBOLT) and AGENTPSD to target Linux systems. The activity has been attributed …",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhni0Ay24Jcfz-LCxqQ8xD9rJais13OOnt5cfz9XtZY-4LzlGgyVY9S2Cu7V0Uo9JMjIxfyTMk8oOeaPHcIkkYnw4RMiLgYFuiS2CyHd9JAihJsC7SQ-wtm8K545YuACojNwKRfsYBXLWe8s3u1evEVjyGLI2WM9KwAYyWur_XrpPfQRF8s4CzXP8c_OU01/s1700-e365/chinese.jpg"
+    },
+    {
+        "titulo": "CISA: Patch actively exploited SolarWinds Serv-U DoS vulnerability (CVE-2026-28318)",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-06-08",
+        "url": "https://www.helpnetsecurity.com/2026/06/08/cisa-patch-actively-exploited-solarwinds-serv-u-dos-vulnerability-cve-2026-28318/",
+        "resumo": "A vulnerability (CVE-2026-28318) that can be exploited to crash SolarWinds Serv-U file transfer servers is being leveraged by attackers in the wild, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed on Friday. The agency has ordered US …",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/06/07184705/solarwinds-1500.webp"
+    },
+    {
+        "titulo": "Instagram Glitch Reportedly Exposed Contact Info of Zuckerberg and Other Users",
+        "fonte": "HackRead",
+        "autor": "Deeba Ahmed",
+        "data": "2026-06-08",
+        "url": "https://hackread.com/instagram-glitch-leaks-contact-info-mark-zuckerberg-users/",
+        "resumo": "Instagram glitch exposed Mark Zuckerberg’s email addresses and phone number, plus contact details of other top users, through a password reset flaw.",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/06/instagram-glitch-leaks-contact-info-mark-zuckerberg.jpeg"
+    },
+    {
+        "titulo": "Mythos enters the chat",
+        "fonte": "TechRadar",
+        "autor": "Tristan Watkins",
+        "data": "2026-06-08",
+        "url": "https://www.techradar.com/pro/mythos-enters-the-chat",
+        "resumo": "The Mexican government hack shows what AI-powered cyberattacks now look like.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg"
+    },
+    {
+        "titulo": "The AI models finding 10,000 vulnerabilities are the same ones China is trying to copy. That is the problem.",
+        "fonte": "The Next Web",
+        "autor": "Alina Maria Stan",
+        "data": "2026-06-08",
+        "url": "https://thenextweb.com/news/the-ai-models-finding-10000-vulnerabilities-are-the-same-ones-china-is-trying-to-copy-that-is-the-problem/",
+        "resumo": "In May, Google’s Threat Intelligence Group confirmed the first known case of an AI system discovering and weaponising a zero-day exploit that was then deployed in the wild. A criminal actor used a frontier model to find a two-factor authentication bypass, bui…",
+        "imagem": "https://media.thenextweb.com/2026/06/AI-cybersecurity.avif"
+    },
+    {
+        "titulo": "Infosecurity Europe: How DSIT Protects Thousands of UK Orgs from Cyber Vulnerabilities",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Danny Palmer",
+        "data": "2026-06-08",
+        "url": "https://www.infosecurity-magazine.com/news/infosecurity-europe-dsit-cyber/",
+        "resumo": "The Department of Science, Innovation and Technology details how a combination of hands-on human advice and technology systems keeps government agencies safe",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/806831ab-983d-4ecc-8aac-ac635f169ac6.jpg"
+    },
+    {
+        "titulo": "DockSec: Open-source AI-powered Docker security scanner",
+        "fonte": "90.197",
+        "autor": "Mirko Zorz",
+        "data": "2026-06-08",
+        "url": "https://184.32.90.197/2026/06/08/docksec-open-source-ai-docker-security-scanner/",
+        "resumo": "DockSec is an OWASP Incubator Project that combines three container security scanners with a language-model layer for explanation and remediation. Created by Advait Patel, the Python tool runs Trivy, Hadolint, and Docker Scout against a developer’s Dockerfile…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/02150333/docksec-1500.webp"
+    },
+    {
+        "titulo": "cybersecurity-ai-mcp 1.0.9",
+        "fonte": "Pypi.org",
+        "autor": "nicholas@meok.ai",
+        "data": "2026-06-08",
+        "url": "https://pypi.org/project/cybersecurity-ai-mcp/1.0.9/",
+        "resumo": "Cybersecurity Ai MCP server. Tools: classify vulnerability, lookup cve, check security headers. Built by MEOK AI Labs.",
+        "imagem": ""
+    },
+    {
+        "titulo": "The urgent need to secure U.S. elections",
+        "fonte": "Wnd.com",
+        "autor": "RealClearWire",
+        "data": "2026-06-07",
+        "url": "https://www.wnd.com/2026/06/urgent-need-secure-u-s-elections/",
+        "resumo": "President Trump believes 2020 vote was stolen and &#x27;millions of Americans agree with him&#x27;",
+        "imagem": "https://www.wnd.com/wp-content/uploads/2022/10/voted-voters-voting-elections-ballots-florida-martin-county-jk.jpeg"
+    },
+    {
+        "titulo": "AI and the reinvention of work: Why some sectors are hiring more, not less",
+        "fonte": "Digital Journal",
+        "autor": "Dr. Tim Sandle",
+        "data": "2026-06-07",
+        "url": "https://www.digitaljournal.com/article/ai-and-the-reinvention-of-work-why-some-sectors-are-hiring-more-not-less/",
+        "resumo": "Even though 70% of cybersecurity tasks can be automated, the sector is projected to grow 30% by 2030 thanks to AI. The post AI and the reinvention of work: Why some sectors are hiring more, not less appeared first on Digital Journal.",
+        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2025/06/af9634d887f2ec28e6ae5a24c07ef5e2bf8c3b63.jpg"
+    },
+    {
+        "titulo": "Perplexity Search as Code allows AI agents to build custom search pipelines",
+        "fonte": "4sysops.com",
+        "autor": "IT News",
+        "data": "2026-06-07",
+        "url": "https://4sysops.com/archives/perplexity-search-as-code-allows-ai-agents-to-build-custom-search-pipelines/",
+        "resumo": "Perplexity has introduced a new architecture called Search as Code that enables AI models to generate their own search workflows using Python. Instead of relying on static search APIs that return fixed lists of results, models can now write custom scripts to …",
+        "imagem": "https://4sysops.com/wp-content/uploads/2026/06/perplexity-search-as-code-allows-ai-agents-to-build-custom-search-pipelines.jpg"
+    },
+    {
+        "titulo": "Frontier AI Models Can Find Crypto&#x27;s Biggest Bugs. Experts Warn the Industry Isn&#x27;t Ready",
+        "fonte": "Decrypt",
+        "autor": "Jason Nelson",
+        "data": "2026-06-07",
+        "url": "https://decrypt.co/370232/frontier-ai-models-find-crypto-bugs-industry-isnt-ready",
+        "resumo": "The Zcash vulnerability uncovered with help from Anthropic&#x27;s Claude Opus 4.8 signals a shift in who may discover critical flaws first.",
+        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png"
+    },
+    {
+        "titulo": "Security Affairs newsletter Round 580 by Pierluigi Paganini – INTERNATIONAL EDITION",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-06-07",
+        "url": "https://securityaffairs.com/193260/breaking-news/security-affairs-newsletter-round-580-by-pierluigi-paganini-international-edition.html",
+        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. U.S. CIS…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
+    },
+    {
+        "titulo": "cybersecurity-ai-mcp 1.0.8",
+        "fonte": "Pypi.org",
+        "autor": "nicholas@meok.ai",
+        "data": "2026-06-07",
+        "url": "https://pypi.org/project/cybersecurity-ai-mcp/1.0.8/",
+        "resumo": "Cybersecurity Ai MCP server. Tools: classify vulnerability, lookup cve, check security headers. Built by MEOK AI Labs.",
+        "imagem": ""
+    },
+    {
         "titulo": "Microsoft forced into policy retreat over rogue zero-day researcher Nightmare Eclipse",
         "fonte": "Notebookcheck.net",
         "autor": "Darryl Linington",
@@ -43,140 +178,5 @@
         "url": "https://www.smashingapps.com/is-cybersecurity-hard/",
         "resumo": "Is cybersecurity hard to learn? Honest breakdown of what makes it challenging, what makes it easier than expected, and how to start in 2026 with no experience.",
         "imagem": "https://www.smashingapps.com/wp-content/uploads/2026/06/Is-Cybersecurity-Hard.jpg"
-    },
-    {
-        "titulo": "U.S. CISA adds SolarWinds Serv-U flaw to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-06-06",
-        "url": "https://securityaffairs.com/193245/security/u-s-cisa-adds-solarwinds-serv-u-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds SolarWinds Serv-U flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added SolarWinds Serv-U flaw, tracked as CVE-2026-28318 (…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "AI Is Helping Discover Tech Vulnerabilities—And Zcash Is Just the Latest Example",
-        "fonte": "Decrypt",
-        "autor": "Jason Nelson",
-        "data": "2026-06-06",
-        "url": "https://decrypt.co/370237/ai-discover-tech-vulnerabilities-zcash-latest-example",
-        "resumo": "Frontier AI models have evolved into bug-finding tools, uncovering vulnerabilities across the tech world—and now in crypto too.",
-        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-18-gID_7.png"
-    },
-    {
-        "titulo": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-        "fonte": "Weekinsecurity.com",
-        "autor": "Zack Whittaker",
-        "data": "2026-06-06",
-        "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-        "resumo": "Meta fixed the bug that let anyone trick its Meta AI chatbot into resetting the password on Instagram accounts that didn&#x27;t have two-factor authentication.",
-        "imagem": "https://storage.ghost.io/c/ed/a2/eda2c6f7-faef-48b4-9ed4-86a4fa4dca68/content/images/size/w1200/2026/06/meta-ai-chatbot-twis-story-2.jpg"
-    },
-    {
-        "titulo": "Report: Anthropic Deploys Engineers to Support NSA Use of Mythos",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-06-06",
-        "url": "https://securityaffairs.com/193234/ai/report-anthropic-deploys-engineers-to-support-nsa-use-of-mythos.html",
-        "resumo": "Reports claim Anthropic engineers are helping the NSA use its restricted AI model Mythos, known for advanced cybersecurity capabilities. This week, the Financial Times reported that Anthropic has placed approximately six “forward-deployed” engineers inside th…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/01/nsa-spy-on-North-Korea.jpg"
-    },
-    {
-        "titulo": "The Human Element Is a Cyber Hard Problem. Here’s What Health System Security Teams Can Take From New Research",
-        "fonte": "Healthsystemcio.com",
-        "autor": "Anthony Guerra",
-        "data": "2026-06-06",
-        "url": "https://healthsystemcio.com/2026/06/06/human-centered-cybersecurity-health-systems/",
-        "resumo": "Your staff are not the weakest link, and the metric proving otherwise may be misleading you. New cybersecurity research reveals why training completion rates mask the behavior that actually determines whether your next breach starts with a click. Source: The …",
-        "imagem": "https://healthsystemcio.com/wp-content/uploads/2026/06/research-200.png"
-    },
-    {
-        "titulo": "Gaming soundbar can be hijacked from over 16 yards away without touch or pairing — the company allegedly refuses to label the blatant security flaw a cybersecurity risk",
-        "fonte": "Toms Hardware UK",
-        "autor": "Luke James",
-        "data": "2026-06-06",
-        "url": "https://www.tomshardware.com/tech-industry/cyber-security/creatives-sound-blaster-katana-v2x-can-be-hijacked-over-bluetooth",
-        "resumo": "Security researcher Rasmus Moorats has demonstrated that Creative&#x27;s Sound Blaster Katana V2X gaming soundbar can be hijacked over Bluetooth from up to 16 yards away.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/YUDxAZxxyWFMPWzwJRmWvH-2560-80.jpg"
-    },
-    {
-        "titulo": "CBSE retains COEMPT for answer-sheet scanning, shifts data to its own servers",
-        "fonte": "BusinessLine",
-        "autor": "ANI",
-        "data": "2026-06-06",
-        "url": "https://www.thehindubusinessline.com/news/cbse-retains-coempt-for-answer-sheet-scanning-shifts-data-to-its-own-servers/article71069326.ece",
-        "resumo": "CBSE retains COEMPT for answer sheet scanning, transferring data to its servers amid ongoing security audits and re-evaluation processes.",
-        "imagem": "https://bl-i.thgim.com/public/incoming/ab4xcd/article71051243.ece/alternates/LANDSCAPE_1200/NKV-CBSE.jpg"
-    },
-    {
-        "titulo": "Everything to know about CBSE’s 2026 evaluation crisis: a timeline",
-        "fonte": "MediaNama.com",
-        "autor": "Aakriti Bansal",
-        "data": "2026-06-06",
-        "url": "https://www.medianama.com/2026/06/223-cbse-2026-evaluation-crisis-timeline/",
-        "resumo": "CBSE&#x27;s digital evaluation experiment has spiralled into a controversy involving cybersecurity flaws, low results, cyberattacks, and procurement allegations. The post Everything to know about CBSE’s 2026 evaluation crisis: a timeline appeared first on MEDIANAM…",
-        "imagem": "https://www.medianama.com/wp-content/uploads/2018/09/19-A-college-student-in-Srinagar-browing-internet-using-VPN.jpg.jpg"
-    },
-    {
-        "titulo": "CBSE retains COEMPT for answer-sheet scanning, shifts data to its own servers",
-        "fonte": "The Times of India",
-        "autor": "ANI",
-        "data": "2026-06-06",
-        "url": "https://economictimes.indiatimes.com/news/india/cbse-retains-coempt-for-answer-sheet-scanning-shifts-data-to-its-own-servers/articleshow/131548067.cms",
-        "resumo": "When asked about whether COEMPT will be able to scan answer sheets despite its track record, the official said, &quot;They scanned 40 crore pages, of which about 30,000 odd have problems. That means about 1 in 10,000 pages were problematic. Now they only need to s…",
-        "imagem": "https://img.etimg.com/thumb/msid-131548116,width-1200,height-630,imgsize-797430,overlay-economictimes/articleshow.jpg"
-    },
-    {
-        "titulo": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-06-06",
-        "url": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity security flaw impacting SolarWinds Serv-U multi-protocol file server software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitati…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_ZbsHhh5kUS5501itVSeBa91H50qNfHH_PQ1_2WEDLi-B_eKslYeu1_43fNAW55Z9TVR5ae8ZIGDm4vZQS0B7IHvG9Gdp4Knzt8QB1E7317tyEVhJYR8xo1HJ_vf6Ynrdtfj_u-pcryZ5NVulL7vw_9KLaGomIjKe40GYClUu-FDtXXwuKAfK7V8mKN-/s1700-e365/solarwinds-serv-u.jpg"
-    },
-    {
-        "titulo": "Researchers build autonomous AI worm that can reason and adapt",
-        "fonte": "Techtarget.com",
-        "autor": "Alissa Irei",
-        "data": "2026-06-05",
-        "url": "https://www.techtarget.com/searchsecurity/news/366643829/Researchers-build-autonomous-AI-worm-that-can-reason-adapt",
-        "resumo": "University of Toronto researchers created a proof-of-concept AI worm that dynamically identifies vulnerabilities and adapts its attack strategies. Here&#x27;s what it means for enterprises.",
-        "imagem": "https://www.techtarget.com/visuals/ComputerWeekly/Hero Images/security-malware-adobe.jpg"
-    },
-    {
-        "titulo": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-06-05",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
-        "resumo": "CISA warned today that hackers are now actively exploiting a recently patched high-severity SolarWinds Serv-U flaw to crash servers. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/01/28/SolarWinds.jpg"
-    },
-    {
-        "titulo": "Creative&#x27;s Katana V2X speaker potentially has a serious vulnerability that could allow hackers to attack your PC, and there&#x27;s only one way to avoid it",
-        "fonte": "TechRadar",
-        "autor": "Isaiah Williams",
-        "data": "2026-06-05",
-        "url": "https://www.techradar.com/computing/computing-components/creatives-katana-v2x-speaker-potentially-has-a-serious-vulnerability-that-could-allow-hackers-to-attack-your-pc-and-theres-only-one-way-to-avoid-it",
-        "resumo": "PC system vulnerabilities are seemingly more common than we thought, as a researcher finds a major issue in a popular speaker that can hack a user&#x27;s PC.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/ysq6eFnE5zkjusLVDKSfVe-2425-80.jpg"
-    },
-    {
-        "titulo": "AI exposed a massive flaw in top crypto network and experts warn banks could be next",
-        "fonte": "CoinDesk",
-        "autor": "Olivier Acuna",
-        "data": "2026-06-05",
-        "url": "https://www.coindesk.com/tech/2026/06/05/ai-exposed-a-massive-flaw-in-top-crypto-network-and-experts-warn-banks-could-be-next",
-        "resumo": "After an AI model helped uncover a four-year-old flaw in Zcash, security researchers warn that similar bugs may be hiding across crypto and traditional financial systems.",
-        "imagem": "https://cdn.sanity.io/images/s3y3vcno/production/b1d6ea7b7aec491803836b0fa81e4742ba3b8285-1280x854.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
-    },
-    {
-        "titulo": "NSA using Clause Mythos for &#x27;offensive cyber operations,&#x27; report claims — says &#x27;half-a-dozen&#x27; Anthropic engineers embedded inside the agency",
-        "fonte": "Toms Hardware UK",
-        "autor": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
-        "data": "2026-06-05",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nsa-using-clause-mythos-for-offensive-cyber-operations-report-claims-says-half-a-dozen-anthropic-engineers-embedded-inside-the-agency",
-        "resumo": "US National Security Agency reportedly using Mythos for conducting cyber-attacks — report reveals Anthropic engineers inside the NSA",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/7g5sP2AEjdZFq6iAFvarpE-2048-80.jpg"
     }
 ]
