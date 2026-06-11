@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Holm Security expands platform with Active Directory Security to harden the most-targeted layer of business identity",
-        "fonte": "GlobeNewswire",
-        "autor": "H.O.L.M. Security Sweden AB",
-        "data": "2026-06-09",
-        "url": "https://www.globenewswire.com/news-release/2026/06/09/3308672/0/en/Holm-Security-expands-platform-with-Active-Directory-Security-to-harden-the-most-targeted-layer-of-business-identity.html",
-        "resumo": "Holm Security expands platform with Active Directory Security, bringing continuous on-prem AD assessment to the same place as cloud and network coverage....",
-        "imagem": "https://ml-eu.globenewswire.com/Resource/Download/66a58811-f436-47c7-9199-176c12066a02"
+        "titulo": "Our Rescue Appoints Shawn Henry to Global Nonprofit Board of Directors",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-06-10",
+        "url": "https://www.prnewswire.com/news-releases/our-rescue-appoints-shawn-henry-to-global-nonprofit-board-of-directors-302795920.html",
+        "resumo": "Executive Advisor to the CrowdStrike CEO and Former FBI Executive Assistant Director Brings Extensive Cybersecurity and Investigative Expertise to the Fight Against Human Trafficking and Child Exploitation MINNEAPOLIS, June 10, 2026 /PRNewswire/ -- Our Rescue…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1860781/Our_Rescue-Shawn_Henry.jpg?id=OA2694684&p=facebook"
     },
     {
-        "titulo": "Synack Supports Majority of Cabinet-Level Federal Departments as New AI Executive Order Raises the Bar on Federal Security",
-        "fonte": "GlobeNewswire",
-        "autor": "Synack",
-        "data": "2026-06-09",
-        "url": "https://www.globenewswire.com/news-release/2026/06/09/3308679/0/en/Synack-Supports-Majority-of-Cabinet-Level-Federal-Departments-as-New-AI-Executive-Order-Raises-the-Bar-on-Federal-Security.html",
-        "resumo": "Synack Supports Majority of Cabinet-Level Federal Departments as New AI Executive Order Raises the Bar on Federal Security...",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/a4d297b6-ecea-49ac-aa47-4bba71fd233f"
+        "titulo": "New Windows Zero-Day Exploit ‘RoguePlanet’ Released",
+        "fonte": "Securityweek.com",
+        "autor": "Ionut Arghire",
+        "data": "2026-06-10",
+        "url": "https://www.securityweek.com/new-windows-zero-day-exploit-rogueplanet-released/",
+        "resumo": "Exploiting a race condition in Microsoft Defender, the exploit leads to local privilege escalation to SYSTEM. The post New Windows Zero-Day Exploit ‘RoguePlanet’ Released appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2024/10/Windows-Kernel-BSOD.jpg"
     },
     {
-        "titulo": "8 tips to improve cybersecurity for accounting",
-        "fonte": "Techtarget.com",
-        "autor": "Kevin Beaver",
-        "data": "2026-06-09",
-        "url": "https://www.techtarget.com/searcherp/tip/8-tips-to-improve-cybersecurity-for-accounting",
-        "resumo": "CISOs must establish clear policies about approved AI tools and acceptable data use. Learn additional ways CFOs and CISOs can improve their company&#x27;s accounting cybersecurity.",
-        "imagem": "https://www.techtarget.com/rms/onlineimages/security_a385093447.jpg"
-    },
-    {
-        "titulo": "How AI is outpacing cybersecurity and what firms must do next",
-        "fonte": "TechRadar",
-        "autor": "Rosemarie Connell",
-        "data": "2026-06-09",
-        "url": "https://www.techradar.com/pro/how-ai-is-outpacing-cybersecurity-and-what-firms-must-do-next",
-        "resumo": "AI can now uncover vulnerabilities faster than firms can contain them, so how can firms respond?",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-80.jpg"
-    },
-    {
-        "titulo": "Mythos Preview can weaponize N-day vulnerabilities in hours",
-        "fonte": "Help Net Security",
-        "autor": "Sinisa Markovic",
-        "data": "2026-06-09",
-        "url": "https://www.helpnetsecurity.com/2026/06/09/anthropic-mythos-preview-n-day-exploits-firefox-windows/",
-        "resumo": "Mythos Preview can develop working exploits from newly disclosed software vulnerabilities in hours, cutting down a process that has historically taken days or weeks, according to Anthropic. Anthropic’s recent cybersecurity research has largely focused on zero…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/09103618/anthropic-brain.webp"
-    },
-    {
-        "titulo": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-06-09",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
-        "resumo": "CISA has ordered U.S. government agencies to secure their Check Point Remote Access VPN and Mobile Access deployments against a critical vulnerability exploited in zero-day attacks by Qilin ransomware affiliates. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg"
-    },
-    {
-        "titulo": "U.S. CISA adds BerriAI LiteLLM and Check Point Security Gateway flaws to its Known Exploited Vulnerabilities catalog",
+        "titulo": "U.S. CISA adds Cisco Catalyst SD-WAN, Arista Extensible Operating System (EOS), and Google Chromium V8 flaws to its Known Exploited Vulnerabilities catalog",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
-        "data": "2026-06-09",
-        "url": "https://securityaffairs.com/193343/security/u-s-cisa-adds-berriai-litellm-and-check-point-security-gateway-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds BerriAI LiteLLM and Check Point Security Gateway flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added BerriAI LiteLLM and…",
+        "data": "2026-06-10",
+        "url": "https://securityaffairs.com/193464/security/u-s-cisa-adds-cisco-catalyst-sd-wan-arista-extensible-operating-system-eos-and-google-chromium-v8-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Cisco Catalyst SD-WAN, Arista Extensible Operating System (EOS), and Google Chromium V8 flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security …",
         "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
     },
     {
-        "titulo": "Proposal: Add separate oss-security-vulnerability-reports mailing list (for AI vulnpocalypse)",
-        "fonte": "Seclists.org",
+        "titulo": "New Fable 5 Is a &quot;Mythos-Class&quot; LLM Available to All, Anthropic Announces",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Kevin Poireault",
+        "data": "2026-06-10",
+        "url": "https://www.infosecurity-magazine.com/news/fable-5-mythos-class-anthropic/",
+        "resumo": "Anthropic unveils Claude Mythos 5 and Fable 5, a restricted-access frontier AI model and guardrailed version for everyone to use",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/505620e6-2263-469f-8de4-6706d4e58527.jpg"
+    },
+    {
+        "titulo": "Record Microsoft Patch Tuesday, fresh zero-day",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-06-10",
+        "url": "https://www.helpnetsecurity.com/2026/06/10/microsoft-patch-tuesday-rogueplanet/",
+        "resumo": "Microsoft marked its largest-ever Patch Tuesday this month, by shipping fixes for nearly 200 vulnerabilities. Within hours, “Nightmare Eclipse”, the researcher behind weeks of escalating Windows exploit releases, dropped a proof-of-concept exploit for a new z…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/12193556/patch-tuesday-1500.webp"
+    },
+    {
+        "titulo": "Anthropic Releases Claude Fable 5 and Limited Mythos 5 — Crypto Community Reacts",
+        "fonte": "Bitcoinfoundation.org",
+        "autor": "Nana K.",
+        "data": "2026-06-10",
+        "url": "https://bitcoinfoundation.org/news/ai-news/claude-community/",
+        "resumo": "Access to the Claude model is finally open. We explain what you need to know about Anthropic’s new release and how the crypto community is... The post Anthropic Releases Claude Fable 5 and Limited Mythos 5 — Crypto Community Reacts appeared first on Bitcoin F…",
+        "imagem": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/ChatGPT-Image-6-апр.-2026-г.-17_57_52-1-opt.webp"
+    },
+    {
+        "titulo": "SMB cyber-readiness: What makes or breaks it",
+        "fonte": "We Live Security",
         "autor": "",
-        "data": "2026-06-09",
-        "url": "https://seclists.org/oss-sec/2026/q2/847",
-        "resumo": "Posted by David A. Wheeler on Jun 09All: I propose that we create a *separate* mailing list, say &quot;oss-security-vulnerability-reports&quot;, for run-of-the-mill vulnerability reports about open source software (OSS). Run-of-the-mill reports would then go there and …",
-        "imagem": "https://seclists.org/images/oss-sec-img.png"
+        "data": "2026-06-10",
+        "url": "https://www.welivesecurity.com/en/business-security/smb-cyber-readiness-what-makes-breaks-it/",
+        "resumo": "A company that&#x27;s expecting a cyberattack but hasn’t actively prepared for it risks making the hardest decisions at the worst possible moment",
+        "imagem": "https://web-assets.esetstatic.com/wls/2026/06-26/smb-cyber-readiness.jpg"
     },
     {
-        "titulo": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-06-09",
-        "url": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity flaw impacting BerriAI LiteLLM to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-20…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGMn_z7P9hbHMRzYk9OL9_kLaqTo4GucKa1of13sGhpNvKkSBDrhZSrcG53FJsPKJguHNThZK130Ku7Fjz6i1eFXP4Hx__9KoHxiv0gBT1LAomQr0exe44OnZkJjyIhv2X5hIA-rZAiu1AFLSUXAJSjb6DhF3DqQGx-XBkup8rwwonKFLCeWbNHrS3r2rm/s1700-e365/lite.png"
+        "titulo": "“AI Worms”, researchers demonstrate autonomous malware capable of adapting to any online device",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-06-10",
+        "url": "https://securityaffairs.com/193405/malware/ai-worms-researchers-demonstrate-autonomous-malware-capable-of-adapting-to-any-online-device.html",
+        "resumo": "A study by the University of Toronto shows how artificial intelligence can power autonomous worms capable of tailoring attacks against Windows, Linux and IoT devices. A group of researchers from the University of Toronto has demonstrated how open-source artif…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/06/image-1.jpg"
     },
     {
-        "titulo": "The architecture of subtraction: Why it’s time to erase the roads, not just map the traffic",
-        "fonte": "4.254",
+        "titulo": "81% of teams ship broken code: Mythos made that inexcusable",
+        "fonte": "TechRadar",
+        "autor": "Eran Kinsbruner",
+        "data": "2026-06-10",
+        "url": "https://www.techradar.com/pro/81-percent-of-teams-ship-broken-code-mythos-made-that-inexcusable",
+        "resumo": "AI is making once-ignored software vulnerabilities faster, easier, and far more dangerous to exploit.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/jt92kXfBXVXUWwnKBmDJLn-2560-80.jpg"
+    },
+    {
+        "titulo": "Dusting a Dirt Road: How The United States Can Break the Cycle of Failing Military Infrastructure",
+        "fonte": "War on the Rocks",
+        "autor": "Jason McMahon",
+        "data": "2026-06-10",
+        "url": "https://warontherocks.com/cogs-of-war/dusting-a-dirt-road-how-the-united-states-can-break-the-cycle-of-failing-military-infrastructure/",
+        "resumo": "Winter Storm Uri ripped through Texas in January 2021. The frigid temperatures froze pipes, which then burst and caused flooding in aging barracks at Fort Hood, many of which were overdue for renovations and had vulnerable mechanical and utility systems. The …",
+        "imagem": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-44840-abdd6885f5f8.jpg"
+    },
+    {
+        "titulo": "Ivanti: Max severity Sentry flaw allows code execution as root",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-06-10",
+        "url": "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/",
+        "resumo": "Ivanti has patched two critical vulnerabilities in its Sentry secure mobile gateway solution, including a maximum-severity flaw that enables remote attackers to execute code with root privileges. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/10/Ivanti.jpg"
+    },
+    {
+        "titulo": "Synack and Wolfpack Information Risk Bring Sara AI Pentesting to Organizations Across South Africa",
+        "fonte": "GlobeNewswire",
+        "autor": "Synack",
+        "data": "2026-06-10",
+        "url": "https://www.globenewswire.com/news-release/2026/06/10/3309452/0/en/Synack-and-Wolfpack-Information-Risk-Bring-Sara-AI-Pentesting-to-Organizations-Across-South-Africa.html",
+        "resumo": "Synack and Wolfpack Information Risk Bring Sara AI Pentesting to Organizations Across South Africa...",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/a4d297b6-ecea-49ac-aa47-4bba71fd233f"
+    },
+    {
+        "titulo": "Product showcase: Staying ahead of the threat horizon with Aunoo",
+        "fonte": "Help Net Security",
         "autor": "Help Net Security",
-        "data": "2026-06-09",
-        "url": "https://44.229.4.254/2026/06/09/subtractive-security-attack-path-erasure/",
-        "resumo": "The advent of AI-assisted vulnerability discovery and autonomous exploit development has brought about a new age in cybersecurity—one in which we can no longer rely on patching as a primary defense mechanism. Patching is, by definition, a reactive approach to…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/01/08140150/lock-red-1500.webp"
+        "data": "2026-06-10",
+        "url": "https://www.helpnetsecurity.com/2026/06/10/product-showcase-aunoo/",
+        "resumo": "Aunoo is an open strategic intelligence platform that uses AI agents to monitor intelligence sources, including for cybersecurity, to compile a daily briefing and alert on defined criteria. Each source is checked for credibility and quality before it is inclu…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/08115741/aunoo-1500.webp"
     },
     {
-        "titulo": "The SEI CERT Coding Standard for Fortran",
-        "fonte": "Carnegie Mellon University",
-        "autor": "David Svoboda",
-        "data": "2026-06-09",
-        "url": "https://www.sei.cmu.edu/blog/the-sei-cert-coding-standard-for-fortran/",
-        "resumo": "This post describes our work on the SEI CERT Fortran Coding Standard, which provides a core of well-documented and enforceable coding guidelines for Fortran.",
-        "imagem": "https://www.sei.cmu.edu/media/images/og_20260608_214033_9.2e16d0ba.fill-1200x630.format-webp.webp"
-    },
-    {
-        "titulo": "KinoSec Launches a Cross-Domain Autonomous Penetration Testing Platform",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-06-08",
-        "url": "https://www.prnewswire.com/news-releases/kinosec-launches-a-cross-domain-autonomous-penetration-testing-platform-302794489.html",
-        "resumo": "KinoSec&#x27;s autonomous penetration testing platform continuously identifies and exploits vulnerabilities before attackers are able to. SAN FRANCISCO, June 8, 2026 /PRNewswire/ -- KinoSec has launched an autonomous penetration testing platform aimed at covering …",
-        "imagem": "https://mmx.prnewswire.com/media/MS1859714/pexels-cottonbro-5483248.jpg?id=OA2692462&p=facebook"
-    },
-    {
-        "titulo": "Nikesh Arora: AI is democratizing intelligence in business, transforming cybersecurity with rapid vulnerability assessments, and reshaping the future of data storage | All-In Podcast",
+        "titulo": "Anthropic rolls out public version of Mythos without cybersecurity features",
         "fonte": "Crypto Briefing",
         "autor": "Editorial Team",
-        "data": "2026-06-08",
-        "url": "https://cryptobriefing.com/nikesh-arora-ai-is-democratizing-intelligence-in-business-transforming-cybersecurity-with-rapid-vulnerability-assessments-and-reshaping-the-future-of-data-storage-all-in-podcast/",
-        "resumo": "AI&#x27;s rapid advancements in vulnerability assessment promise to revolutionize cybersecurity within months, challenging traditional methods. The post Nikesh Arora: AI is democratizing intelligence in business, transforming cybersecurity with rapid vulnerability…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/01/23154746/all-in-800x421.jpg"
+        "data": "2026-06-10",
+        "url": "https://cryptobriefing.com/anthropic-mythos-fable-5-cybersecurity/",
+        "resumo": "The limited release of Mythos-class AI highlights the urgent need for enhanced cybersecurity measures across industries, especially in crypto. The post Anthropic rolls out public version of Mythos without cybersecurity features appeared first on Crypto Briefi…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/09230136/anthropic-releases-its-first-mythos-class-model-to-the-publi-800x420.jpeg"
     },
     {
-        "titulo": "AI Policy Meets Operational Reality: White House AI Cybersecurity Order Calls for Public-Private Coordination",
-        "fonte": "Fortinet.com",
-        "autor": "Carl Windsor",
-        "data": "2026-06-08",
-        "url": "https://www.fortinet.com/blog/industry-trends/ai-policy-meets-operational-reality-white-house-ai-cybersecurity-order-calls-for-public-private-coordination",
-        "resumo": "As frontier AI models gain stronger cyber capabilities, public-private collaboration will be essential for improving AI-assisted defense, strengthening vulnerability response, and building critical infrastructure resilience.",
-        "imagem": ""
+        "titulo": "BlackRock Warns Bitcoin And Ethereum Investors About Quantum Computing",
+        "fonte": "Bitcoinist",
+        "autor": "Jake Simmons",
+        "data": "2026-06-10",
+        "url": "https://bitcoinist.com/blackrock-warns-bitcoin-ethereum-quantum-computing/",
+        "resumo": "BlackRock has entered the quantum-computing debate with a new report warning that future breakthroughs could eventually threaten the cryptography securing Bitcoin, Ethereum and much of the broader digital-asset market. The firm’s central message is not that b…",
+        "imagem": "https://bitcoinist.com/wp-content/uploads/2026/06/ChatGPT-Image-9.-Juni-2026-13_15_01.png"
     },
     {
-        "titulo": "Pax8 Report: AI Breaking Historic Link Between Revenue Growth and Headcount for SMBs",
-        "fonte": "GlobeNewswire",
-        "autor": "Pax8",
-        "data": "2026-06-08",
-        "url": "https://www.globenewswire.com/news-release/2026/06/08/3308364/0/en/Pax8-Report-AI-Breaking-Historic-Link-Between-Revenue-Growth-and-Headcount-for-SMBs.html",
-        "resumo": "The Signal Is Already Here: How AI Adoption Delivers Meaningful SMB Impact The Signal Is Already Here: How AI Adoption Delivers Meaningful SMB Impact",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/c1556ec2-e63e-48f2-bd9c-8c6c717703bb"
+        "titulo": "Anthropic Launches Claude Fable 5 and Expands Access to Mythos 5",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (Praveen Kumar)",
+        "data": "2026-06-10",
+        "url": "https://www.c-sharpcorner.com/news/anthropic-launches-claude-fable-5-and-expands-access-to-mythos-5",
+        "resumo": "Anthropic launches Claude Fable 5, the first publicly available Mythos-class AI model. The new model delivers advanced coding, reasoning, and research capabilities while adding safeguards for cybersecurity and other high-risk domains.",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
     },
     {
-        "titulo": "Gogs patches critical zero-day enabling remote code execution",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-06-08",
-        "url": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
-        "resumo": "Gogs has patched a critical security zero-day flaw that can allow attackers to compromise Internet-facing instances and access any repositories (including private ones). [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/08/Gogs.jpg"
+        "titulo": "Sentient Fortress: Engineering Future Army Installations as Weapon System Platforms",
+        "fonte": "Soldiersystems.net",
+        "autor": "Eric G",
+        "data": "2026-06-10",
+        "url": "https://soldiersystems.net/2026/06/10/sentient-fortress-engineering-future-army-installations-as-weapon-system-platforms/",
+        "resumo": "FORT HUACHUCA, Ariz. — Imagine the clock displaying 3 a.m. in the year 2040 at a forward power projection platform in a highly contested Indo-Pacific theater. Sensors detect an adversary’s hypersonic missile targeting the installation’s primary munitions depo…",
+        "imagem": "https://soldiersystems.net/wp-content/uploads/2026/06/image-8.jpg"
     },
     {
-        "titulo": "Operationalizing AWS security: A maturity roadmap",
-        "fonte": "Amazon.com",
-        "autor": "Joseph Sadler",
-        "data": "2026-06-08",
-        "url": "https://aws.amazon.com/blogs/security/operationalizing-aws-security-a-maturity-roadmap/",
-        "resumo": "Enabling security tooling is the starting point. Making it operational—where findings drive decisions, response times are measurable, and your security posture improves week over week—is where most organizations struggle. This blog post provides a phased matu…",
-        "imagem": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/06/04/Roadmap-Figure-1.jpg"
+        "titulo": "Anthropic sets AI performance records with new Mythos 5, Fable 5 frontier models",
+        "fonte": "SiliconANGLE News",
+        "autor": "Maria Deutscher",
+        "data": "2026-06-09",
+        "url": "https://siliconangle.com/2026/06/09/anthropic-sets-ai-performance-records-new-mythos-5-fable-5-frontier-models/",
+        "resumo": "Anthropic PBC today introduced Claude Mythos 5 and Claude Fable 5, two large language models that it says outperform the competition across a wide range of benchmarks. The LLMs are derived from the Claude Mythos Preview algorithm that the company debuted in A…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Anthropic-1.png"
     },
     {
-        "titulo": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-06-08",
-        "url": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html",
-        "resumo": "Check Point has warned of active exploitation of a critical vulnerability impacting Remote Access VPN and Mobile Access deployments that are configured to use the deprecated IKEv1 key exchange protocol. The vulnerability, tracked as CVE-2026-50751 (CVSS scor…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYhQjzMpxYhylqWwtRqt0p7upc-fSMohRLJs5lRSXUg51_lrzt63JYz0K9zo2V7Rl9yCOMpQk6YFBfTdE1CuSuFYGA3odGeHu3mIV-LY_JHWyIx7g32NPOx1tuSZ-ZIMasTT5S-43DoYHEpCTykl4E4TfyXw89HksiOppUEMp5ganCT27SF0xu7noBUQ5i/s1700-e365/checkpoint.jpg"
+        "titulo": "Anthropic rolls out public version of Mythos AI model with restrictions on cybersecurity use",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-06-09",
+        "url": "https://cryptobriefing.com/anthropic-mythos-ai-model-cybersecurity-restrictions/",
+        "resumo": "The release of Mythos AI models highlights the growing need for advanced cybersecurity measures and ethical considerations in AI deployment. The post Anthropic rolls out public version of Mythos AI model with restrictions on cybersecurity use appeared first o…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/09191933/anthropic-opens-powerful-mythos-ai-model-to-public-with-some-800x420.jpeg"
     },
     {
-        "titulo": "⚡ Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-06-08",
-        "url": "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html",
-        "resumo": "Monday again. The weekend was meant to be quiet. It wasn&#x27;t. Last week had poisoned packages, a broken AI helper, and a worm tearing through repos. The ugly part: basic tricks still worked. A chatbot got fooled. A bot token got leaked inside the malware. The …",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwpRME_50jfgFZwHR0bIcYNE3-253LUHG3foA4Xd2IPQ0LCvXI4-_cLxJ-m8erh3Zof0ZY0pMOculHNwlSGAiUnwaL2H2DoXC9aKTehIh_R4vI66aZTzo00jj-hWlZ1lXtuDbDBWROGfTI4tH8G8Mb8cOlqBJLtG2l6bQS62hZlKlEt5qcLaEwsO_RhO4k/s1700-e365/cybersecurity-recap.jpg"
-    },
-    {
-        "titulo": "Check Point links VPN zero-day attacks to Qilin ransomware gang",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-06-08",
-        "url": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/",
-        "resumo": "Israeli cybersecurity company Check Point has released security updates to patch a critical flaw affecting Remote Access VPN and Mobile Access deployments, which was exploited in zero-day attacks. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/08/Qilin.jpg"
+        "titulo": "Review: DISCLOSURE DAY Is an Entertaining Sci-Fi Thriller but Falls Short of Steven Spielberg&#x27;s Classic Alien Stories",
+        "fonte": "GeekTyrant",
+        "autor": "Joey Paur",
+        "data": "2026-06-09",
+        "url": "https://geektyrant.com/news/review-disclosure-day-is-an-entertaining-sci-fi-thriller-but-falls-short-of-steven-spielbergs-classic-alien-stories",
+        "resumo": "As a lifelong fan of Steven Spielberg, especially his science fiction films, Disclosure Day was one of my most anticipated movies of the year. Spielberg&#x27;s fascination with the unknown has given us some of the greatest sci-fi films ever made, including Close E…",
+        "imagem": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6a283ed90ddedb069d8700c7/1781044313877/Review-+DISCLOSURE+DAY+is+an+Entertaining+Sci-Fi+Thriller%2C+But+Falls+Short+of+Steven+Spielberg%27s+Classic+Alien+Stories.jpg?format=1500w"
     }
 ]
