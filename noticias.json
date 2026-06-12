@@ -1,182 +1,173 @@
 [
     {
-        "titulo": "Our Rescue Appoints Shawn Henry to Global Nonprofit Board of Directors",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-06-10",
-        "url": "https://www.prnewswire.com/news-releases/our-rescue-appoints-shawn-henry-to-global-nonprofit-board-of-directors-302795920.html",
-        "resumo": "Executive Advisor to the CrowdStrike CEO and Former FBI Executive Assistant Director Brings Extensive Cybersecurity and Investigative Expertise to the Fight Against Human Trafficking and Child Exploitation MINNEAPOLIS, June 10, 2026 /PRNewswire/ -- Our Rescue…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1860781/Our_Rescue-Shawn_Henry.jpg?id=OA2694684&p=facebook"
-    },
-    {
-        "titulo": "New Windows Zero-Day Exploit ‘RoguePlanet’ Released",
+        "titulo": "Siemens Says Desigo CC Files Flagged as Malware by Security Engines",
         "fonte": "Securityweek.com",
-        "autor": "Ionut Arghire",
-        "data": "2026-06-10",
-        "url": "https://www.securityweek.com/new-windows-zero-day-exploit-rogueplanet-released/",
-        "resumo": "Exploiting a race condition in Microsoft Defender, the exploit leads to local privilege escalation to SYSTEM. The post New Windows Zero-Day Exploit ‘RoguePlanet’ Released appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2024/10/Windows-Kernel-BSOD.jpg"
+        "autor": "Eduard Kovacs",
+        "data": "2026-06-11",
+        "url": "https://www.securityweek.com/siemens-says-desigo-cc-files-flagged-as-malware-by-security-engines/",
+        "resumo": "A PowerShell script included in patch files appears to be triggering false positives by multiple security engines. The post Siemens Says Desigo CC Files Flagged as Malware by Security Engines appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2024/04/Siemens.jpeg"
     },
     {
-        "titulo": "U.S. CISA adds Cisco Catalyst SD-WAN, Arista Extensible Operating System (EOS), and Google Chromium V8 flaws to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-06-10",
-        "url": "https://securityaffairs.com/193464/security/u-s-cisa-adds-cisco-catalyst-sd-wan-arista-extensible-operating-system-eos-and-google-chromium-v8-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Cisco Catalyst SD-WAN, Arista Extensible Operating System (EOS), and Google Chromium V8 flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security …",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+        "titulo": "The Lovesac Company Reports First Quarter Fiscal 2027 Financial Results",
+        "fonte": "GlobeNewswire",
+        "autor": "The Lovesac Company",
+        "data": "2026-06-11",
+        "url": "https://www.globenewswire.com/news-release/2026/06/11/3310319/0/en/The-Lovesac-Company-Reports-First-Quarter-Fiscal-2027-Financial-Results.html",
+        "resumo": "Q1 Net Sales of $138.2MAdvances Strategic Growth Initiatives with Record Product Launches Ahead; Refines FY27 Outlook STAMFORD, Conn., June 11, 2026 ...",
+        "imagem": ""
     },
     {
-        "titulo": "New Fable 5 Is a &quot;Mythos-Class&quot; LLM Available to All, Anthropic Announces",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Kevin Poireault",
-        "data": "2026-06-10",
-        "url": "https://www.infosecurity-magazine.com/news/fable-5-mythos-class-anthropic/",
-        "resumo": "Anthropic unveils Claude Mythos 5 and Fable 5, a restricted-access frontier AI model and guardrailed version for everyone to use",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/505620e6-2263-469f-8de4-6706d4e58527.jpg"
+        "titulo": "OSM portal was not &#x27;thoroughly&#x27; tested for functionality and security threats before deployment: IIT panel member",
+        "fonte": "The Times of India",
+        "autor": "ANI",
+        "data": "2026-06-11",
+        "url": "https://economictimes.indiatimes.com/jobs/exams-results/osm-portal-was-not-thoroughly-tested-for-functionality-and-security-threats-before-deployment-iit-panel-member/articleshow/131654118.cms",
+        "resumo": "The IIT panel, constituted following the controversy surrounding the OSM portal, is expected to submit its report to the Education Ministry on its findings and recommendations in the coming days.",
+        "imagem": "https://img.etimg.com/thumb/msid-131654142,width-1200,height-630,imgsize-159540,overlay-etcareers/articleshow.jpg"
     },
     {
-        "titulo": "Record Microsoft Patch Tuesday, fresh zero-day",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-06-10",
-        "url": "https://www.helpnetsecurity.com/2026/06/10/microsoft-patch-tuesday-rogueplanet/",
-        "resumo": "Microsoft marked its largest-ever Patch Tuesday this month, by shipping fixes for nearly 200 vulnerabilities. Within hours, “Nightmare Eclipse”, the researcher behind weeks of escalating Windows exploit releases, dropped a proof-of-concept exploit for a new z…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/12193556/patch-tuesday-1500.webp"
+        "titulo": "Avast’s former CEO built an AI that found every OpenSSL zero-day this year. Now it runs inside air-gapped networks.",
+        "fonte": "The Next Web",
+        "autor": "Darius Popa",
+        "data": "2026-06-11",
+        "url": "https://thenextweb.com/news/aisle-snapshot-on-prem-vulnerability-detection-regulated-enterprises/",
+        "resumo": "AISLE, the cybersecurity startup founded by former Avast CEO Ondrej Vlcek, launched Snapshot on Tuesday, a product that deploys its AI vulnerability scanner inside a customer’s private cloud, on-premises data centre, or fully air-gapped environment. Source co…",
+        "imagem": "https://media.thenextweb.com/2026/06/aisle-snapshot-on-prem-vulnerability-detection-regulated-enterprises.avif"
     },
     {
-        "titulo": "Anthropic Releases Claude Fable 5 and Limited Mythos 5 — Crypto Community Reacts",
-        "fonte": "Bitcoinfoundation.org",
-        "autor": "Nana K.",
-        "data": "2026-06-10",
-        "url": "https://bitcoinfoundation.org/news/ai-news/claude-community/",
-        "resumo": "Access to the Claude model is finally open. We explain what you need to know about Anthropic’s new release and how the crypto community is... The post Anthropic Releases Claude Fable 5 and Limited Mythos 5 — Crypto Community Reacts appeared first on Bitcoin F…",
-        "imagem": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/ChatGPT-Image-6-апр.-2026-г.-17_57_52-1-opt.webp"
+        "titulo": "Nisarga Adhikary, a 19-year-old ethical hacker who exposed CBSE portal security flaws, gets a job at IIT Kanpur",
+        "fonte": "The Times of India",
+        "autor": "Trending Desk",
+        "data": "2026-06-11",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/nisarga-adhikary-a-19-year-old-ethical-hacker-who-exposed-cbse-portal-security-flaws-gets-a-job-at-iit-kanpur/articleshow/131652199.cms",
+        "resumo": "Nineteen-year-old ethical hacker Nisarga Adhikary, who recently highlighted security flaws in CBSE&#x27;s digital infrastructure, has been appointed as an OSINT and Threat Intelligence Engineer at IIT Kanpur&#x27;s C3iHub. Adhikary&#x27;s allegations included publicly acces…",
+        "imagem": "https://img.etimg.com/thumb/msid-131652237,width-1200,height-630,imgsize-1034354,overlay-economictimes/articleshow.jpg"
     },
     {
-        "titulo": "SMB cyber-readiness: What makes or breaks it",
-        "fonte": "We Live Security",
-        "autor": "",
-        "data": "2026-06-10",
-        "url": "https://www.welivesecurity.com/en/business-security/smb-cyber-readiness-what-makes-breaks-it/",
-        "resumo": "A company that&#x27;s expecting a cyberattack but hasn’t actively prepared for it risks making the hardest decisions at the worst possible moment",
-        "imagem": "https://web-assets.esetstatic.com/wls/2026/06-26/smb-cyber-readiness.jpg"
-    },
-    {
-        "titulo": "“AI Worms”, researchers demonstrate autonomous malware capable of adapting to any online device",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-06-10",
-        "url": "https://securityaffairs.com/193405/malware/ai-worms-researchers-demonstrate-autonomous-malware-capable-of-adapting-to-any-online-device.html",
-        "resumo": "A study by the University of Toronto shows how artificial intelligence can power autonomous worms capable of tailoring attacks against Windows, Linux and IoT devices. A group of researchers from the University of Toronto has demonstrated how open-source artif…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/06/image-1.jpg"
-    },
-    {
-        "titulo": "81% of teams ship broken code: Mythos made that inexcusable",
-        "fonte": "TechRadar",
-        "autor": "Eran Kinsbruner",
-        "data": "2026-06-10",
-        "url": "https://www.techradar.com/pro/81-percent-of-teams-ship-broken-code-mythos-made-that-inexcusable",
-        "resumo": "AI is making once-ignored software vulnerabilities faster, easier, and far more dangerous to exploit.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/jt92kXfBXVXUWwnKBmDJLn-2560-80.jpg"
-    },
-    {
-        "titulo": "Dusting a Dirt Road: How The United States Can Break the Cycle of Failing Military Infrastructure",
-        "fonte": "War on the Rocks",
-        "autor": "Jason McMahon",
-        "data": "2026-06-10",
-        "url": "https://warontherocks.com/cogs-of-war/dusting-a-dirt-road-how-the-united-states-can-break-the-cycle-of-failing-military-infrastructure/",
-        "resumo": "Winter Storm Uri ripped through Texas in January 2021. The frigid temperatures froze pipes, which then burst and caused flooding in aging barracks at Fort Hood, many of which were overdue for renovations and had vulnerable mechanical and utility systems. The …",
-        "imagem": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-44840-abdd6885f5f8.jpg"
-    },
-    {
-        "titulo": "Ivanti: Max severity Sentry flaw allows code execution as root",
+        "titulo": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
         "fonte": "BleepingComputer",
         "autor": "Sergiu Gatlan",
-        "data": "2026-06-10",
-        "url": "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/",
-        "resumo": "Ivanti has patched two critical vulnerabilities in its Sentry secure mobile gateway solution, including a maximum-severity flaw that enables remote attackers to execute code with root privileges. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/10/Ivanti.jpg"
+        "data": "2026-06-11",
+        "url": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
+        "resumo": "Attackers are now targeting a recently patched maximum-severity flaw in Ivanti Sentry, enabling them to execute code with root privileges on Internet-exposed secure mobile gateways. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Ivanti-headpic.jpg"
     },
     {
-        "titulo": "Synack and Wolfpack Information Risk Bring Sara AI Pentesting to Organizations Across South Africa",
+        "titulo": "CISA shortens patches to three days #tech",
+        "fonte": "Alltoc.com",
+        "autor": "AllToc",
+        "data": "2026-06-11",
+        "url": "https://alltoc.com/tech/cisa-shortens-patches-to-three-days",
+        "resumo": "CISA forces faster patching as hackers use AI The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has shortened the deadline for federal agencies to remediate the most critical vulnerabilities in their networks to just three days, citing the way …",
+        "imagem": "https://alltoc.com/cdn/1050/og.png"
+    },
+    {
+        "titulo": "Record profits delivered and reorganisation to deliver next stage of growth",
         "fonte": "GlobeNewswire",
-        "autor": "Synack",
-        "data": "2026-06-10",
-        "url": "https://www.globenewswire.com/news-release/2026/06/10/3309452/0/en/Synack-and-Wolfpack-Information-Risk-Bring-Sara-AI-Pentesting-to-Organizations-Across-South-Africa.html",
-        "resumo": "Synack and Wolfpack Information Risk Bring Sara AI Pentesting to Organizations Across South Africa...",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/a4d297b6-ecea-49ac-aa47-4bba71fd233f"
+        "autor": "PayPoint plc",
+        "data": "2026-06-11",
+        "url": "https://www.globenewswire.com/news-release/2026/06/11/3310197/0/en/Record-profits-delivered-and-reorganisation-to-deliver-next-stage-of-growth.html",
+        "resumo": "PayPoint PlcResults for the year ended 31 March 2026 Record profits delivered and reorganisation to deliver next stage of growth GROUP FINANCIAL...",
+        "imagem": "https://ml-eu.globenewswire.com/Resource/Download/01c8cd71-2417-44ba-b4a3-462b7db307c0"
     },
     {
-        "titulo": "Product showcase: Staying ahead of the threat horizon with Aunoo",
-        "fonte": "Help Net Security",
-        "autor": "Help Net Security",
+        "titulo": "Microsoft patches record 200-plus vulnerabilities as AI accelerates bug discovery",
+        "fonte": "SiliconANGLE News",
+        "autor": "Duncan Riley",
         "data": "2026-06-10",
-        "url": "https://www.helpnetsecurity.com/2026/06/10/product-showcase-aunoo/",
-        "resumo": "Aunoo is an open strategic intelligence platform that uses AI agents to monitor intelligence sources, including for cybersecurity, to compile a daily briefing and alert on defined criteria. Each source is checked for credibility and quality before it is inclu…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/08115741/aunoo-1500.webp"
+        "url": "https://siliconangle.com/2026/06/10/microsoft-patches-record-200-plus-vulnerabilities-ai-accelerates-bug-discovery/",
+        "resumo": "Microsoft Corp. on Tuesday patched more than 200 security vulnerabilities, the most the company has ever fixed in a single Patch Tuesday, with researchers saying artificial intelligence bug-hunting is the reason the number keeps climbing. The previous record …",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/patchtuesday.png"
     },
     {
-        "titulo": "Anthropic rolls out public version of Mythos without cybersecurity features",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
+        "titulo": "Microsoft Defender &#x27;RoguePlanet&#x27; Zero-Day Grants SYSTEM Privileges",
+        "fonte": "Slashdot.org",
+        "autor": "BeauHD",
         "data": "2026-06-10",
-        "url": "https://cryptobriefing.com/anthropic-mythos-fable-5-cybersecurity/",
-        "resumo": "The limited release of Mythos-class AI highlights the urgent need for enhanced cybersecurity measures across industries, especially in crypto. The post Anthropic rolls out public version of Mythos without cybersecurity features appeared first on Crypto Briefi…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/09230136/anthropic-releases-its-first-mythos-class-model-to-the-publi-800x420.jpeg"
+        "url": "https://it.slashdot.org/story/26/06/10/2053232/microsoft-defender-rogueplanet-zero-day-grants-system-privileges",
+        "resumo": "A researcher using the name Nightmare Eclipse has released a new Microsoft Defender zero-day exploit called &quot;RoguePlanet,&quot; which reportedly works on fully patched Windows 10 and 11 systems and can spawn a command prompt with SYSTEM privileges through a Defend…",
+        "imagem": "https://a.fsdn.com/sd/topics/security_64.png"
     },
     {
-        "titulo": "BlackRock Warns Bitcoin And Ethereum Investors About Quantum Computing",
-        "fonte": "Bitcoinist",
-        "autor": "Jake Simmons",
+        "titulo": "Securing the AI workforce: Zscaler’s zero-trust play for agentic AI",
+        "fonte": "SiliconANGLE News",
+        "autor": "Zeus Kerravala",
         "data": "2026-06-10",
-        "url": "https://bitcoinist.com/blackrock-warns-bitcoin-ethereum-quantum-computing/",
-        "resumo": "BlackRock has entered the quantum-computing debate with a new report warning that future breakthroughs could eventually threaten the cryptography securing Bitcoin, Ethereum and much of the broader digital-asset market. The firm’s central message is not that b…",
-        "imagem": "https://bitcoinist.com/wp-content/uploads/2026/06/ChatGPT-Image-9.-Juni-2026-13_15_01.png"
+        "url": "https://siliconangle.com/2026/06/10/securing-ai-workforce-zscalers-zero-trust-play-agentic-ai/",
+        "resumo": "Since Zscaler Inc.‘s launch, the company’s mission has been to disrupt traditional access and security with its Zero Trust platform. At its user event, Zenith Live, in Las Vegas, the company made its case for what its next act would look like: becoming the fo…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/jaychaudhry2026.jpg"
     },
     {
-        "titulo": "Anthropic Launches Claude Fable 5 and Expands Access to Mythos 5",
-        "fonte": "C-sharpcorner.com",
-        "autor": "noreply@c-sharpcorner.com (Praveen Kumar)",
+        "titulo": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
+        "fonte": "BleepingComputer",
+        "autor": "Bill Toulas",
         "data": "2026-06-10",
-        "url": "https://www.c-sharpcorner.com/news/anthropic-launches-claude-fable-5-and-expands-access-to-mythos-5",
-        "resumo": "Anthropic launches Claude Fable 5, the first publicly available Mythos-class AI model. The new model delivers advanced coding, reasoning, and research capabilities while adding safeguards for cybersecurity and other high-risk domains.",
-        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+        "url": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
+        "resumo": "Attackers are actively exploiting CVE-2026-5027, a high-severity path traversal vulnerability in the AI development platform Langflow, to write arbitrary files on exposed servers. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/10/Langflow.jpg"
     },
     {
-        "titulo": "Sentient Fortress: Engineering Future Army Installations as Weapon System Platforms",
-        "fonte": "Soldiersystems.net",
-        "autor": "Eric G",
+        "titulo": "From Intelligence to Action: Operationalizing MS-ISAC Threat Data Across SLED Environments",
+        "fonte": "Cisco.com",
+        "autor": "Jamie Garcia",
         "data": "2026-06-10",
-        "url": "https://soldiersystems.net/2026/06/10/sentient-fortress-engineering-future-army-installations-as-weapon-system-platforms/",
-        "resumo": "FORT HUACHUCA, Ariz. — Imagine the clock displaying 3 a.m. in the year 2040 at a forward power projection platform in a highly contested Indo-Pacific theater. Sensors detect an adversary’s hypersonic missile targeting the installation’s primary munitions depo…",
-        "imagem": "https://soldiersystems.net/wp-content/uploads/2026/06/image-8.jpg"
+        "url": "https://blogs.cisco.com/industries/from-intelligence-to-action-operationalizing-ms-isac-threat-data-across-sled-environments",
+        "resumo": "MS-ISAC gives SLED organizations the threat intelligence—but the real challenge is turning that shared intelligence into automated, real-time protection across every agency and school district, no matter how small.",
+        "imagem": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/06/man-in-data-center.png"
     },
     {
-        "titulo": "Anthropic sets AI performance records with new Mythos 5, Fable 5 frontier models",
+        "titulo": "CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats",
+        "fonte": "Wired",
+        "autor": "Lily Hay Newman",
+        "data": "2026-06-10",
+        "url": "https://www.wired.com/story/cisa-ai-vulnerability-directive/",
+        "resumo": "“Defenders cannot afford to take weeks to patch,” one Cybersecurity and Infrastructure Security Agency official warned on Wednesday.",
+        "imagem": "https://media.wired.com/photos/6a29bec26f45b6c55c01d0d6/191:100/w_1280,c_limit/CISA-AI-Security-Patch-2268298926.jpg"
+    },
+    {
+        "titulo": "Cyera raises $600M at $12B valuation amid flurry of cybersecurity investments",
         "fonte": "SiliconANGLE News",
         "autor": "Maria Deutscher",
-        "data": "2026-06-09",
-        "url": "https://siliconangle.com/2026/06/09/anthropic-sets-ai-performance-records-new-mythos-5-fable-5-frontier-models/",
-        "resumo": "Anthropic PBC today introduced Claude Mythos 5 and Claude Fable 5, two large language models that it says outperform the competition across a wide range of benchmarks. The LLMs are derived from the Claude Mythos Preview algorithm that the company debuted in A…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Anthropic-1.png"
+        "data": "2026-06-10",
+        "url": "https://siliconangle.com/2026/06/10/cyera-raises-600m-12b-valuation-amid-flurry-cybersecurity-investments/",
+        "resumo": "Cyera Ltd., a startup that helps organizations track and secure their data assets, has raised $600 million from investors at a $12 billion valuation. The company is one of three cybersecurity providers to have disclosed funding rounds today. The other two, Pi…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Cyera.png"
     },
     {
-        "titulo": "Anthropic rolls out public version of Mythos AI model with restrictions on cybersecurity use",
+        "titulo": "Solana Exchange Raydium Hit With $1.34 Million Exploit as DeFi Attacks Grow",
+        "fonte": "Decrypt",
+        "autor": "Logan Hitchcock",
+        "data": "2026-06-10",
+        "url": "https://decrypt.co/370700/solana-exchange-raydium-exploit-defi-attacks-grow",
+        "resumo": "Solana-based decentralized exchange Raydium will repay the funds swiped in the $1.34 million exploit using its treasury.",
+        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg"
+    },
+    {
+        "titulo": "Claude Fable 5 is the first Mythos-class AI released to the public, built on the same model family that helped uncover 271 security vulnerabilities buried in Firefox’s code for up to 20 years",
+        "fonte": "Space Daily",
+        "autor": "Space Daily Editorial Team",
+        "data": "2026-06-10",
+        "url": "https://spacedaily.com/n-claude-fable-launched-yesterday-as-the-public-version-of-claude-mythos-an-ai-that-autonomously-found-271-security-vulnerabilities-buried-in-firefoxs-code-for-up-to-20-years-and-the-same-model-anthr/",
+        "resumo": "Anthropic released Claude Fable 5 on Tuesday, the first model in the company’s Mythos class made available to the general public. The launch comes two months after Anthropic announced it would not release its Mythos Preview model due to concerns about its cyb…",
+        "imagem": "https://spacedaily.com/wp-content/uploads/2026/06/FableMythos.png"
+    },
+    {
+        "titulo": "Windows 11’s June update shuts down an intentional BitLocker backdoor with full file access — here’s what changed",
+        "fonte": "Windows Central",
+        "autor": "kevinokemwa@outlook.com (Kevin Okemwa) , Kevin Okemwa",
+        "data": "2026-06-10",
+        "url": "https://www.windowscentral.com/microsoft/windows-11s-june-update-shuts-down-an-intentional-bitlocker-backdoor-with-full-file-access-heres-what-changed",
+        "resumo": "Windows 11’s BitLocker flaw, described as an intentional backdoor, has been patched by Microsoft in the June update.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/DRqD32AFYYmtoVmatabZ5e-2046-80.png"
+    },
+    {
+        "titulo": "Oracle PeopleSoft servers targeted in data theft attacks linked to ShinyHunters",
         "fonte": "Crypto Briefing",
         "autor": "Editorial Team",
-        "data": "2026-06-09",
-        "url": "https://cryptobriefing.com/anthropic-mythos-ai-model-cybersecurity-restrictions/",
-        "resumo": "The release of Mythos AI models highlights the growing need for advanced cybersecurity measures and ethical considerations in AI deployment. The post Anthropic rolls out public version of Mythos AI model with restrictions on cybersecurity use appeared first o…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/09191933/anthropic-opens-powerful-mythos-ai-model-to-public-with-some-800x420.jpeg"
-    },
-    {
-        "titulo": "Review: DISCLOSURE DAY Is an Entertaining Sci-Fi Thriller but Falls Short of Steven Spielberg&#x27;s Classic Alien Stories",
-        "fonte": "GeekTyrant",
-        "autor": "Joey Paur",
-        "data": "2026-06-09",
-        "url": "https://geektyrant.com/news/review-disclosure-day-is-an-entertaining-sci-fi-thriller-but-falls-short-of-steven-spielbergs-classic-alien-stories",
-        "resumo": "As a lifelong fan of Steven Spielberg, especially his science fiction films, Disclosure Day was one of my most anticipated movies of the year. Spielberg&#x27;s fascination with the unknown has given us some of the greatest sci-fi films ever made, including Close E…",
-        "imagem": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6a283ed90ddedb069d8700c7/1781044313877/Review-+DISCLOSURE+DAY+is+an+Entertaining+Sci-Fi+Thriller%2C+But+Falls+Short+of+Steven+Spielberg%27s+Classic+Alien+Stories.jpg?format=1500w"
+        "data": "2026-06-10",
+        "url": "https://cryptobriefing.com/shinyhunters-oracle-peoplesoft-bitcoin-ransom/",
+        "resumo": "The attacks highlight vulnerabilities in enterprise systems, emphasizing the need for robust cybersecurity measures to protect sensitive data. The post Oracle PeopleSoft servers targeted in data theft attacks linked to ShinyHunters appeared first on Crypto Br…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/10145107/shinyhunters-wage-broad-corporate-extortion-spree-krebs-on-s-800x420.png"
     }
 ]
