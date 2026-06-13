@@ -1,173 +1,182 @@
 [
     {
-        "titulo": "Siemens Says Desigo CC Files Flagged as Malware by Security Engines",
-        "fonte": "Securityweek.com",
-        "autor": "Eduard Kovacs",
-        "data": "2026-06-11",
-        "url": "https://www.securityweek.com/siemens-says-desigo-cc-files-flagged-as-malware-by-security-engines/",
-        "resumo": "A PowerShell script included in patch files appears to be triggering false positives by multiple security engines. The post Siemens Says Desigo CC Files Flagged as Malware by Security Engines appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2024/04/Siemens.jpeg"
+        "titulo": "Frontier AI models could be an adversary&#x27;s force multiplier",
+        "fonte": "ComputerWeekly.com",
+        "autor": "Aditya K Sood",
+        "data": "2026-06-12",
+        "url": "https://www.computerweekly.com/opinion/Frontier-AI-models-could-be-an-adversarys-force-multiplier",
+        "resumo": "The Computer Weekly Security Think Tank considers if Anthropic’s Claude Mythos frontier AI model is a benefit or barrier to achieving resilient enterprise IT security, and how security leaders need to adapt.",
+        "imagem": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/Security-Think-Tank-hero.jpg"
     },
     {
-        "titulo": "The Lovesac Company Reports First Quarter Fiscal 2027 Financial Results",
+        "titulo": "Cloud Security Posture Management Market Expected to Reach USD 15.62 Billion by 2035 | SNS Insider",
         "fonte": "GlobeNewswire",
-        "autor": "The Lovesac Company",
-        "data": "2026-06-11",
-        "url": "https://www.globenewswire.com/news-release/2026/06/11/3310319/0/en/The-Lovesac-Company-Reports-First-Quarter-Fiscal-2027-Financial-Results.html",
-        "resumo": "Q1 Net Sales of $138.2MAdvances Strategic Growth Initiatives with Record Product Launches Ahead; Refines FY27 Outlook STAMFORD, Conn., June 11, 2026 ...",
-        "imagem": ""
+        "autor": "SNS Insider pvt ltd",
+        "data": "2026-06-12",
+        "url": "https://www.globenewswire.com/news-release/2026/06/12/3310938/0/en/Cloud-Security-Posture-Management-Market-Expected-to-Reach-USD-15-62-Billion-by-2035-SNS-Insider.html",
+        "resumo": "The U.S. Cloud Security Posture Management Market Stands at $2.38 Billion in 2025, While Europe is Projected to Reach $4.23 Billion by 2035, Supported by Strong Regulatory Frameworks Including GDPR, NIS2, and DORA, Along with Rapid Public and Hybrid Cloud Ado…",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2"
     },
     {
-        "titulo": "OSM portal was not &#x27;thoroughly&#x27; tested for functionality and security threats before deployment: IIT panel member",
-        "fonte": "The Times of India",
-        "autor": "ANI",
-        "data": "2026-06-11",
-        "url": "https://economictimes.indiatimes.com/jobs/exams-results/osm-portal-was-not-thoroughly-tested-for-functionality-and-security-threats-before-deployment-iit-panel-member/articleshow/131654118.cms",
-        "resumo": "The IIT panel, constituted following the controversy surrounding the OSM portal, is expected to submit its report to the Education Ministry on its findings and recommendations in the coming days.",
-        "imagem": "https://img.etimg.com/thumb/msid-131654142,width-1200,height-630,imgsize-159540,overlay-etcareers/articleshow.jpg"
+        "titulo": "Hikvision Releases 2026 Cybersecurity White Paper, Fostering Digital Trust in the AIoT Era",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-06-12",
+        "url": "https://www.prnewswire.com/news-releases/hikvision-releases-2026-cybersecurity-white-paper-fostering-digital-trust-in-the-aiot-era-302798958.html",
+        "resumo": "HANGZHOU, China, June 12, 2026 /PRNewswire/ -- Hikvision has released its 2026 Cybersecurity White Paper, marking its ongoing commitment to transparent and robust security practices. The latest edition outlines the company&#x27;s advanced security framework, desig…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1863070/4777aa3b60514a70bdee13699ee0f73c.jpg?id=OA2699927&p=facebook"
     },
     {
-        "titulo": "Avast’s former CEO built an AI that found every OpenSSL zero-day this year. Now it runs inside air-gapped networks.",
-        "fonte": "The Next Web",
-        "autor": "Darius Popa",
-        "data": "2026-06-11",
-        "url": "https://thenextweb.com/news/aisle-snapshot-on-prem-vulnerability-detection-regulated-enterprises/",
-        "resumo": "AISLE, the cybersecurity startup founded by former Avast CEO Ondrej Vlcek, launched Snapshot on Tuesday, a product that deploys its AI vulnerability scanner inside a customer’s private cloud, on-premises data centre, or fully air-gapped environment. Source co…",
-        "imagem": "https://media.thenextweb.com/2026/06/aisle-snapshot-on-prem-vulnerability-detection-regulated-enterprises.avif"
+        "titulo": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-06-12",
+        "url": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
+        "resumo": "Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution. LangGraph is an open-source framework created by LangChain to build…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifnUd6CRFC-YdhoEDgmNoLtKUYjbZvqQJOETqK59Zd5Pk_epd9uGMfPCrujB3grOrajNxMls_p7TWQwnyCxFo1Ou8MM70yUh3dP04776sp-xk3O8544Z9YD-v_konqCTv1eX_42iMBkr4j5c-h0_I5dyBWvrr_3jrphGH3xLcZgaDAN1uH8OA5rWerJE5B/s1700-e365/langgraph.jpg"
     },
     {
-        "titulo": "Nisarga Adhikary, a 19-year-old ethical hacker who exposed CBSE portal security flaws, gets a job at IIT Kanpur",
-        "fonte": "The Times of India",
-        "autor": "Trending Desk",
-        "data": "2026-06-11",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/nisarga-adhikary-a-19-year-old-ethical-hacker-who-exposed-cbse-portal-security-flaws-gets-a-job-at-iit-kanpur/articleshow/131652199.cms",
-        "resumo": "Nineteen-year-old ethical hacker Nisarga Adhikary, who recently highlighted security flaws in CBSE&#x27;s digital infrastructure, has been appointed as an OSINT and Threat Intelligence Engineer at IIT Kanpur&#x27;s C3iHub. Adhikary&#x27;s allegations included publicly acces…",
-        "imagem": "https://img.etimg.com/thumb/msid-131652237,width-1200,height-630,imgsize-1034354,overlay-economictimes/articleshow.jpg"
-    },
-    {
-        "titulo": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
+        "titulo": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
         "fonte": "BleepingComputer",
         "autor": "Sergiu Gatlan",
-        "data": "2026-06-11",
-        "url": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
-        "resumo": "Attackers are now targeting a recently patched maximum-severity flaw in Ivanti Sentry, enabling them to execute code with root privileges on Internet-exposed secure mobile gateways. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Ivanti-headpic.jpg"
+        "data": "2026-06-12",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch an actively exploited Ivanti Sentry flaw within three days, as mandated by the newly issued Binding Operational Directive (BOD) 26-04. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg"
     },
     {
-        "titulo": "CISA shortens patches to three days #tech",
-        "fonte": "Alltoc.com",
-        "autor": "AllToc",
-        "data": "2026-06-11",
-        "url": "https://alltoc.com/tech/cisa-shortens-patches-to-three-days",
-        "resumo": "CISA forces faster patching as hackers use AI The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has shortened the deadline for federal agencies to remediate the most critical vulnerabilities in their networks to just three days, citing the way …",
-        "imagem": "https://alltoc.com/cdn/1050/og.png"
+        "titulo": "Google says ShinyHunters hackers targeting education sector via Oracle exploit",
+        "fonte": "The Times of India",
+        "autor": "Reuters",
+        "data": "2026-06-12",
+        "url": "https://economictimes.indiatimes.com/tech/technology/google-says-shinyhunters-hackers-targeting-education-sector-via-oracle-exploit/articleshow/131672070.cms",
+        "resumo": "PeopleSoft ​is an enterprise resource planning suite used by organizations to manage ​core business functions including human resources, finance and supply-chain operations.",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-171594,resizemode-75,msid-131672070/tech/technology/google-says-shinyhunters-hackers-targeting-education-sector-via-oracle-exploit.jpg"
     },
     {
-        "titulo": "Record profits delivered and reorganisation to deliver next stage of growth",
-        "fonte": "GlobeNewswire",
-        "autor": "PayPoint plc",
+        "titulo": "CISA BOD 26-04: Frequently asked questions about the new risk-based patching directive",
+        "fonte": "Tenable.com",
+        "autor": "Robert Huber",
         "data": "2026-06-11",
-        "url": "https://www.globenewswire.com/news-release/2026/06/11/3310197/0/en/Record-profits-delivered-and-reorganisation-to-deliver-next-stage-of-growth.html",
-        "resumo": "PayPoint PlcResults for the year ended 31 March 2026 Record profits delivered and reorganisation to deliver next stage of growth GROUP FINANCIAL...",
-        "imagem": "https://ml-eu.globenewswire.com/Resource/Download/01c8cd71-2417-44ba-b4a3-462b7db307c0"
+        "url": "https://www.tenable.com/blog/cisa-bod-26-04-FAQ-vulnerability-remediation-impact",
+        "resumo": "CISA issued BOD 26-04, which replaces BOD 22-01 with a four-variable vulnerability prioritization model requiring federal agencies to patch the most dangerous vulnerabilities in as few as three days.Key takeaways BOD 26-04 replaces BOD 22-01 with a f…",
+        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/director_B.png?itok=fdK0Luxw"
     },
     {
-        "titulo": "Microsoft patches record 200-plus vulnerabilities as AI accelerates bug discovery",
+        "titulo": "Three insights you may have missed from theCUBE’s coverage of Snowflake Summit 2026",
         "fonte": "SiliconANGLE News",
-        "autor": "Duncan Riley",
-        "data": "2026-06-10",
-        "url": "https://siliconangle.com/2026/06/10/microsoft-patches-record-200-plus-vulnerabilities-ai-accelerates-bug-discovery/",
-        "resumo": "Microsoft Corp. on Tuesday patched more than 200 security vulnerabilities, the most the company has ever fixed in a single Patch Tuesday, with researchers saying artificial intelligence bug-hunting is the reason the number keeps climbing. The previous record …",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/patchtuesday.png"
+        "autor": "Victoria Gayton",
+        "data": "2026-06-11",
+        "url": "https://siliconangle.com/2026/06/11/snowflake-enterprise-ai-production-snowflakesummit/",
+        "resumo": "If the first wave of enterprise AI was about compute and foundation models, the next is shaping up to be about the software and data infrastructure needed to make those models useful in real businesses. The first AI winners sold compute: graphics processing u…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/IMG_5873-e1781210495126.jpg"
     },
     {
-        "titulo": "Microsoft Defender &#x27;RoguePlanet&#x27; Zero-Day Grants SYSTEM Privileges",
-        "fonte": "Slashdot.org",
-        "autor": "BeauHD",
-        "data": "2026-06-10",
-        "url": "https://it.slashdot.org/story/26/06/10/2053232/microsoft-defender-rogueplanet-zero-day-grants-system-privileges",
-        "resumo": "A researcher using the name Nightmare Eclipse has released a new Microsoft Defender zero-day exploit called &quot;RoguePlanet,&quot; which reportedly works on fully patched Windows 10 and 11 systems and can spawn a command prompt with SYSTEM privileges through a Defend…",
-        "imagem": "https://a.fsdn.com/sd/topics/security_64.png"
+        "titulo": "Trolling Microsoft With Vulnerabilities - PSW #930",
+        "fonte": "Libsyn.com",
+        "autor": "",
+        "data": "2026-06-11",
+        "url": "https://sites.libsyn.com/18678/trolling-microsoft-with-vulnerabilities-psw-930",
+        "resumo": "In the security news: Trolling Microsoft With Vulnerabilities Fable 5 loves guardrails Binwalk vulnerability EMBA and local models EDRChoker AI worms Interesting Arista vulnerability added to KEV&lt;…",
+        "imagem": "http://assets.libsyn.com/content/202889290?height=250&width=250&overlay=true"
     },
     {
-        "titulo": "Securing the AI workforce: Zscaler’s zero-trust play for agentic AI",
-        "fonte": "SiliconANGLE News",
-        "autor": "Zeus Kerravala",
-        "data": "2026-06-10",
-        "url": "https://siliconangle.com/2026/06/10/securing-ai-workforce-zscalers-zero-trust-play-agentic-ai/",
-        "resumo": "Since Zscaler Inc.‘s launch, the company’s mission has been to disrupt traditional access and security with its Zero Trust platform. At its user event, Zenith Live, in Las Vegas, the company made its case for what its next act would look like: becoming the fo…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/jaychaudhry2026.jpg"
+        "titulo": "Oracle warns of security bug that hackers abused to breach 100+ companies | TechCrunch",
+        "fonte": "TechCrunch",
+        "autor": "Lorenzo Franceschi-bicchierai",
+        "data": "2026-06-11",
+        "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
+        "resumo": "The tech giant warned of a security flaw that a cybercrime gang said it&#x27;s exploiting as part of a mass-hacking campaign. Google said it notified more than 100 organizations that had potentially vulnerable servers.",
+        "imagem": "https://techcrunch.com/wp-content/uploads/2026/06/oracle-logo-nyse.jpg?resize=1200,800"
     },
     {
-        "titulo": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
+        "titulo": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
         "fonte": "BleepingComputer",
-        "autor": "Bill Toulas",
-        "data": "2026-06-10",
-        "url": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
-        "resumo": "Attackers are actively exploiting CVE-2026-5027, a high-severity path traversal vulnerability in the AI development platform Langflow, to write arbitrary files on exposed servers. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/10/Langflow.jpg"
+        "autor": "Lawrence Abrams",
+        "data": "2026-06-11",
+        "url": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
+        "resumo": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter data theft attacks. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2022/10/28/hand-sifting-data.jpg"
     },
     {
-        "titulo": "From Intelligence to Action: Operationalizing MS-ISAC Threat Data Across SLED Environments",
-        "fonte": "Cisco.com",
-        "autor": "Jamie Garcia",
-        "data": "2026-06-10",
-        "url": "https://blogs.cisco.com/industries/from-intelligence-to-action-operationalizing-ms-isac-threat-data-across-sled-environments",
-        "resumo": "MS-ISAC gives SLED organizations the threat intelligence—but the real challenge is turning that shared intelligence into automated, real-time protection across every agency and school district, no matter how small.",
-        "imagem": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/06/man-in-data-center.png"
+        "titulo": "A tale of two eras",
+        "fonte": "Talosintelligence.com",
+        "autor": "Amy Ciminnisi",
+        "data": "2026-06-11",
+        "url": "https://blog.talosintelligence.com/a-tale-of-two-eras/",
+        "resumo": "In this week’s newsletter, Amy reminisces on the tech toys of their childhood, inspired by a hilarious lesson about why your digital privacy shouldn&#x27;t be left on an open channel.",
+        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/06/threat_source-1.jpg"
     },
     {
-        "titulo": "CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats",
-        "fonte": "Wired",
-        "autor": "Lily Hay Newman",
-        "data": "2026-06-10",
-        "url": "https://www.wired.com/story/cisa-ai-vulnerability-directive/",
-        "resumo": "“Defenders cannot afford to take weeks to patch,” one Cybersecurity and Infrastructure Security Agency official warned on Wednesday.",
-        "imagem": "https://media.wired.com/photos/6a29bec26f45b6c55c01d0d6/191:100/w_1280,c_limit/CISA-AI-Security-Patch-2268298926.jpg"
+        "titulo": "Microsoft limits employee use of Claude Fable 5 over data retention concerns",
+        "fonte": "TechRadar",
+        "autor": "Craig Hale",
+        "data": "2026-06-11",
+        "url": "https://www.techradar.com/pro/microsoft-limits-employee-use-of-claude-fable-5-over-data-retention-concerns",
+        "resumo": "Fable 5&#x27;s data retention policy mandates 30 days&#x27; storage, or up to two years for flagged content, but Microsoft has concerns.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/BnRBWco2bXVJajjdUuW7CY-2560-80.jpg"
     },
     {
-        "titulo": "Cyera raises $600M at $12B valuation amid flurry of cybersecurity investments",
-        "fonte": "SiliconANGLE News",
-        "autor": "Maria Deutscher",
-        "data": "2026-06-10",
-        "url": "https://siliconangle.com/2026/06/10/cyera-raises-600m-12b-valuation-amid-flurry-cybersecurity-investments/",
-        "resumo": "Cyera Ltd., a startup that helps organizations track and secure their data assets, has raised $600 million from investors at a $12 billion valuation. The company is one of three cybersecurity providers to have disclosed funding rounds today. The other two, Pi…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Cyera.png"
+        "titulo": "CISA Shifts Focus to Risk Management Amid AI Surge and Hiring Push",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-06-11",
+        "url": "https://www.pymnts.com/cybersecurity/2026/cisa-shifts-focus-to-risk-management-amid-ai-surge-and-hiring-push/",
+        "resumo": "The United States’ lead cybersecurity agency is pivoting toward a strategy of “ruthless” prioritization as it grapples with a wave of new artificial intelligence (AI) mandates and a depleted workforce. Acting Cybersecurity and Infrastructure Security Agency (…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2022/03/cisa.jpg"
     },
     {
-        "titulo": "Solana Exchange Raydium Hit With $1.34 Million Exploit as DeFi Attacks Grow",
-        "fonte": "Decrypt",
-        "autor": "Logan Hitchcock",
-        "data": "2026-06-10",
-        "url": "https://decrypt.co/370700/solana-exchange-raydium-exploit-defi-attacks-grow",
-        "resumo": "Solana-based decentralized exchange Raydium will repay the funds swiped in the $1.34 million exploit using its treasury.",
-        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg"
+        "titulo": "Why Household Batteries Are Becoming Strategic Assets",
+        "fonte": "OilPrice.com",
+        "autor": "Cyril Widdershoven",
+        "data": "2026-06-11",
+        "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Why-Household-Batteries-Are-Becoming-Strategic-Assets.html",
+        "resumo": "The Strait of Hormuz has become the pressure point of the global energy system. The war has already deprived global markets of 1 billion barrels of crude oil and petroleum products. Supply from the Middle East has been severely disrupted, and there is now ris…",
+        "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-11_6nr5b4stwz.jpg"
     },
     {
-        "titulo": "Claude Fable 5 is the first Mythos-class AI released to the public, built on the same model family that helped uncover 271 security vulnerabilities buried in Firefox’s code for up to 20 years",
-        "fonte": "Space Daily",
-        "autor": "Space Daily Editorial Team",
-        "data": "2026-06-10",
-        "url": "https://spacedaily.com/n-claude-fable-launched-yesterday-as-the-public-version-of-claude-mythos-an-ai-that-autonomously-found-271-security-vulnerabilities-buried-in-firefoxs-code-for-up-to-20-years-and-the-same-model-anthr/",
-        "resumo": "Anthropic released Claude Fable 5 on Tuesday, the first model in the company’s Mythos class made available to the general public. The launch comes two months after Anthropic announced it would not release its Mythos Preview model due to concerns about its cyb…",
-        "imagem": "https://spacedaily.com/wp-content/uploads/2026/06/FableMythos.png"
+        "titulo": "White House discussions are weighing giving CISA Mythos access",
+        "fonte": "Nextgov",
+        "autor": "Alexandra Kelley",
+        "data": "2026-06-11",
+        "url": "https://www.nextgov.com/artificial-intelligence/2026/06/white-house-discussions-are-weighing-giving-cisa-mythos-access/414121/",
+        "resumo": "Officials have considered having the Cybersecurity and Infrastructure Security Agency leverage the advanced AI model that was designed to detect previously undiscovered cyber vulnerabilities to scan federal agencies’ networks.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/06/11/GettyImages_2240293448/open-graph.jpg"
     },
     {
-        "titulo": "Windows 11’s June update shuts down an intentional BitLocker backdoor with full file access — here’s what changed",
-        "fonte": "Windows Central",
-        "autor": "kevinokemwa@outlook.com (Kevin Okemwa) , Kevin Okemwa",
-        "data": "2026-06-10",
-        "url": "https://www.windowscentral.com/microsoft/windows-11s-june-update-shuts-down-an-intentional-bitlocker-backdoor-with-full-file-access-heres-what-changed",
-        "resumo": "Windows 11’s BitLocker flaw, described as an intentional backdoor, has been patched by Microsoft in the June update.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/DRqD32AFYYmtoVmatabZ5e-2046-80.png"
+        "titulo": "Decade-Long SniperDz Phishing Network Disrupted in Operation Ramz",
+        "fonte": "HackRead",
+        "autor": "Deeba Ahmed",
+        "data": "2026-06-11",
+        "url": "https://hackread.com/authorities-dismantle-sniperdz-phishing-network/",
+        "resumo": "Group-IB, INTERPOL and Algerian Police dismantle decade-old SniperDZ phishing network used to steal credentials, with its alleged developer arrested.",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/06/SniperDz-phishing-platform-interpol.jpg"
     },
     {
-        "titulo": "Oracle PeopleSoft servers targeted in data theft attacks linked to ShinyHunters",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-06-10",
-        "url": "https://cryptobriefing.com/shinyhunters-oracle-peoplesoft-bitcoin-ransom/",
-        "resumo": "The attacks highlight vulnerabilities in enterprise systems, emphasizing the need for robust cybersecurity measures to protect sensitive data. The post Oracle PeopleSoft servers targeted in data theft attacks linked to ShinyHunters appeared first on Crypto Br…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/10145107/shinyhunters-wage-broad-corporate-extortion-spree-krebs-on-s-800x420.png"
+        "titulo": "CISA orders federal agencies to “patch smarter”",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-06-11",
+        "url": "https://www.helpnetsecurity.com/2026/06/11/cisa-risk-based-vulnerability-management-government/",
+        "resumo": "The US Cybersecurity and Infrastructure Security Agency (CISA) has issued a Binding Operational Directive that will change how the US federal government approaches vulnerability management. The directive arrives as the patching problem has become nearly unman…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/02/13095016/cisa-1500.webp"
+    },
+    {
+        "titulo": "Claude Fable 5: mid-tier results on coding tasks",
+        "fonte": "Endorlabs.com",
+        "autor": "bugvader",
+        "data": "2026-06-11",
+        "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+        "resumo": "Article URL: https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype Comments URL: https://news.ycombinator.com/item?id=48492210 Points: 20 # Comments: 1",
+        "imagem": "https://cdn.prod.website-files.com/6574c9e538a34feac8cec013/6a2a386899570e6f8d646e19_new%20model%20claude.png"
+    },
+    {
+        "titulo": "Laravel Security: What Happens When Nobody&#x27;s Applying Updates",
+        "fonte": "Rockingtech.co.uk",
+        "autor": "Anatoly Silko",
+        "data": "2026-06-11",
+        "url": "https://rockingtech.co.uk/blog/laravel-security-what-happens-when-nobody-applies-updates",
+        "resumo": "An unmaintained Laravel application is an open door. Real CVE data, ICO enforcement cases, and the actual cost of a breach versus proactive maintenance — for UK MDs who need the facts.",
+        "imagem": "https://rockingtech.co.uk/blog-images/laravel-security-what-happens-when-nobody-applies-updates.webp"
     }
 ]
