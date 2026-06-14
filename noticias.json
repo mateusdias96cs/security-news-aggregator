@@ -1,5 +1,104 @@
 [
     {
+        "titulo": "U.S. CISA adds Oracle PeopleSoft Enterprise PeopleTools flaw to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-06-13",
+        "url": "https://securityaffairs.com/193574/security/u-s-cisa-adds-oracle-peoplesoft-enterprise-peopletools-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Oracle PeopleSoft Enterprise PeopleTools flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Oracle PeopleSoft Enterprise…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "cybersecurity-ai-mcp 1.0.10",
+        "fonte": "Pypi.org",
+        "autor": "nicholas@meok.ai",
+        "data": "2026-06-13",
+        "url": "https://pypi.org/project/cybersecurity-ai-mcp/1.0.10/",
+        "resumo": "Cybersecurity Ai MCP server. Tools: classify vulnerability, lookup cve, check security headers. Built by MEOK AI Labs.",
+        "imagem": ""
+    },
+    {
+        "titulo": "US government orders Anthropic to kill Fable 5 and Mythos 5 in unprecedented AI model recall",
+        "fonte": "The Next Web",
+        "autor": "Alina Maria Stan",
+        "data": "2026-06-13",
+        "url": "https://thenextweb.com/news/anthropic-fable-mythos-us-government-suspension/",
+        "resumo": "The US government has ordered Anthropic to suspend access to its two most capable AI models, Fable 5 and Mythos 5, in what appears to be the first time Washington has forced a commercial AI product offline. The directive, which Anthropic says it received at 5…",
+        "imagem": "https://media.thenextweb.com/2026/06/anthropic-mythos-eu-enisa-cybersecurity-access.avif"
+    },
+    {
+        "titulo": "Connecting the front line: How 8×8 Pulse and Resolve fix corporate blind spots",
+        "fonte": "SiliconANGLE News",
+        "autor": "Zeus Kerravala",
+        "data": "2026-06-12",
+        "url": "https://siliconangle.com/2026/06/12/connecting-front-line-8x8-pulse-resolve-fix-corporate-blind-spots/",
+        "resumo": "Enterprise software architecture has long suffered from what can be called an “integration tax.” When an organization deploys a communications platform, it rarely stops at the basic functions, such as calling and messaging. To extract operational value, it mu…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Screenshot-2026-06-12-at-3.58.20 PM.png"
+    },
+    {
+        "titulo": "What CISA&#x27;s new remediation directive means for CISOs",
+        "fonte": "Techtarget.com",
+        "autor": "Sharon Shea",
+        "data": "2026-06-12",
+        "url": "https://www.techtarget.com/searchsecurity/news/366644336/What-CISAs-new-remediation-directive-means-for-CISOs",
+        "resumo": "CISA&#x27;s updated directive for federal agencies compresses mandatory patching timelines to just three days for high-risk flaws, urging practitioners to &#x27;patch smarter, not harder.&#x27;",
+        "imagem": "https://www.techtarget.com/rms/onlineimages/security_a303249453.jpg"
+    },
+    {
+        "titulo": "U.S. CISA adds Ivanti Sentry flaw to its Known Exploited Vulnerabilities catalog and urges patching by June 14",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-06-12",
+        "url": "https://securityaffairs.com/193557/security/u-s-cisa-adds-ivanti-sentry-flaw-to-its-known-exploited-vulnerabilities-catalog-and-urges-patching-by-june-14.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Ivanti Sentry flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Ivanti Sentry flaw, tracked as CVE-2026-10520 (CVSS sco…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "Advancing Threat-Informed Defense through Fortinet’s Collaboration with MITRE CTID",
+        "fonte": "Fortinet.com",
+        "autor": "Douglas Jose Pereira dos Santos",
+        "data": "2026-06-12",
+        "url": "https://www.fortinet.com/blog/industry-trends/advancing-threat-informed-defense-through-fortinets-collaboration-with-mitre-ctid",
+        "resumo": "Fortinet’s collaboration with the MITRE Center for Threat-Informed Defense helps advance practical cybersecurity through open research, shared expertise, and projects focused on cloud security, program maturity, detection accuracy, and adversary behavior.",
+        "imagem": ""
+    },
+    {
+        "titulo": "Microsoft&#x27;s bug-hunting nemesis extends vendetta with more zero-day attacks — Nightmare Eclipse publishes RoguePlanet and GreatXML local privilege escalation exploits",
+        "fonte": "Toms Hardware UK",
+        "autor": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
+        "data": "2026-06-12",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-bug-hunting-nemesis-extends-vendetta-with-more-zero-day-attacks-nightmare-eclipse-publishes-rogueplanet-and-greatxml-local-privilege-escalation-exploits",
+        "resumo": "Nightmare-Eclipse&#x27;s vendetta against Microsoft and Windows continues apace — researcher publishes RoguePlanet and GreatXML local privilege escalation zero-day exploits",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/Hh6jr6WsLw8YE2J2BrdLwM-2048-80.jpg"
+    },
+    {
+        "titulo": "How is Oracle’s PeopleSoft exploit spreading? #tech",
+        "fonte": "Alltoc.com",
+        "autor": "AllToc",
+        "data": "2026-06-12",
+        "url": "https://alltoc.com/tech/how-is-oracles-peoplesoft-exploit-spreading",
+        "resumo": "Oracle warned customers after ShinyHunters claimed widespread breaches Oracle issued a warning about a critical PeopleSoft vulnerability after the ransomware linked group ShinyHunters claimed it used an Oracle PeopleSoft “zero day” to breach more than 100 org…",
+        "imagem": "https://alltoc.com/cdn/1050/og.png"
+    },
+    {
+        "titulo": "United Community Banks, Inc. Announces Agreement to Sell Equipment Finance Business, Consisting of Navitas Credit Corp. and NLFC Reinsurance Corp., to Funds Managed by Wafra Inc.",
+        "fonte": "GlobeNewswire",
+        "autor": "United Community Banks, Inc.",
+        "data": "2026-06-12",
+        "url": "https://www.globenewswire.com/news-release/2026/06/12/3310990/34434/en/United-Community-Banks-Inc-Announces-Agreement-to-Sell-Equipment-Finance-Business-Consisting-of-Navitas-Credit-Corp-and-NLFC-Reinsurance-Corp-to-Funds-Managed-by-Wafra-Inc.html",
+        "resumo": "GREENVILLE, S.C., June 12, 2026 (GLOBE NEWSWIRE) -- United Community Banks, Inc. (NYSE: UCB) (“United”) today announced the execution of a definitive agreement to sell its equipment finance business, consisting of Navitas Credit Corp. and NLFC Reinsurance Cor…",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/b3c2b8db-5d17-4b09-8f40-5d9f51d8693f"
+    },
+    {
+        "titulo": "Google sues suspected Chinese cybercrime ring that used Gemini to build scam websites",
+        "fonte": "The Next Web",
+        "autor": "Alina Maria Stan",
+        "data": "2026-06-12",
+        "url": "https://thenextweb.com/news/google-gemini-outsider-enterprise-scam-lawsuit/",
+        "resumo": "Google has filed a lawsuit against a suspected Chinese cybercrime operation it calls the Outsider Enterprise, alleging the group sent more than 2.5 million fraudulent text messages to Android users over a two-week period in May. The messages contained links t…",
+        "imagem": "https://media.thenextweb.com/2026/05/google-io-2026-gemini-intelligence-android-xr-glasses.avif"
+    },
+    {
         "titulo": "Frontier AI models could be an adversary&#x27;s force multiplier",
         "fonte": "ComputerWeekly.com",
         "autor": "Aditya K Sood",
@@ -79,104 +178,5 @@
         "url": "https://sites.libsyn.com/18678/trolling-microsoft-with-vulnerabilities-psw-930",
         "resumo": "In the security news: Trolling Microsoft With Vulnerabilities Fable 5 loves guardrails Binwalk vulnerability EMBA and local models EDRChoker AI worms Interesting Arista vulnerability added to KEV&lt;…",
         "imagem": "http://assets.libsyn.com/content/202889290?height=250&width=250&overlay=true"
-    },
-    {
-        "titulo": "Oracle warns of security bug that hackers abused to breach 100+ companies | TechCrunch",
-        "fonte": "TechCrunch",
-        "autor": "Lorenzo Franceschi-bicchierai",
-        "data": "2026-06-11",
-        "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
-        "resumo": "The tech giant warned of a security flaw that a cybercrime gang said it&#x27;s exploiting as part of a mass-hacking campaign. Google said it notified more than 100 organizations that had potentially vulnerable servers.",
-        "imagem": "https://techcrunch.com/wp-content/uploads/2026/06/oracle-logo-nyse.jpg?resize=1200,800"
-    },
-    {
-        "titulo": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Lawrence Abrams",
-        "data": "2026-06-11",
-        "url": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
-        "resumo": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter data theft attacks. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2022/10/28/hand-sifting-data.jpg"
-    },
-    {
-        "titulo": "A tale of two eras",
-        "fonte": "Talosintelligence.com",
-        "autor": "Amy Ciminnisi",
-        "data": "2026-06-11",
-        "url": "https://blog.talosintelligence.com/a-tale-of-two-eras/",
-        "resumo": "In this week’s newsletter, Amy reminisces on the tech toys of their childhood, inspired by a hilarious lesson about why your digital privacy shouldn&#x27;t be left on an open channel.",
-        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/06/threat_source-1.jpg"
-    },
-    {
-        "titulo": "Microsoft limits employee use of Claude Fable 5 over data retention concerns",
-        "fonte": "TechRadar",
-        "autor": "Craig Hale",
-        "data": "2026-06-11",
-        "url": "https://www.techradar.com/pro/microsoft-limits-employee-use-of-claude-fable-5-over-data-retention-concerns",
-        "resumo": "Fable 5&#x27;s data retention policy mandates 30 days&#x27; storage, or up to two years for flagged content, but Microsoft has concerns.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/BnRBWco2bXVJajjdUuW7CY-2560-80.jpg"
-    },
-    {
-        "titulo": "CISA Shifts Focus to Risk Management Amid AI Surge and Hiring Push",
-        "fonte": "pymnts.com",
-        "autor": "PYMNTS",
-        "data": "2026-06-11",
-        "url": "https://www.pymnts.com/cybersecurity/2026/cisa-shifts-focus-to-risk-management-amid-ai-surge-and-hiring-push/",
-        "resumo": "The United States’ lead cybersecurity agency is pivoting toward a strategy of “ruthless” prioritization as it grapples with a wave of new artificial intelligence (AI) mandates and a depleted workforce. Acting Cybersecurity and Infrastructure Security Agency (…",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2022/03/cisa.jpg"
-    },
-    {
-        "titulo": "Why Household Batteries Are Becoming Strategic Assets",
-        "fonte": "OilPrice.com",
-        "autor": "Cyril Widdershoven",
-        "data": "2026-06-11",
-        "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Why-Household-Batteries-Are-Becoming-Strategic-Assets.html",
-        "resumo": "The Strait of Hormuz has become the pressure point of the global energy system. The war has already deprived global markets of 1 billion barrels of crude oil and petroleum products. Supply from the Middle East has been severely disrupted, and there is now ris…",
-        "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-11_6nr5b4stwz.jpg"
-    },
-    {
-        "titulo": "White House discussions are weighing giving CISA Mythos access",
-        "fonte": "Nextgov",
-        "autor": "Alexandra Kelley",
-        "data": "2026-06-11",
-        "url": "https://www.nextgov.com/artificial-intelligence/2026/06/white-house-discussions-are-weighing-giving-cisa-mythos-access/414121/",
-        "resumo": "Officials have considered having the Cybersecurity and Infrastructure Security Agency leverage the advanced AI model that was designed to detect previously undiscovered cyber vulnerabilities to scan federal agencies’ networks.",
-        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/06/11/GettyImages_2240293448/open-graph.jpg"
-    },
-    {
-        "titulo": "Decade-Long SniperDz Phishing Network Disrupted in Operation Ramz",
-        "fonte": "HackRead",
-        "autor": "Deeba Ahmed",
-        "data": "2026-06-11",
-        "url": "https://hackread.com/authorities-dismantle-sniperdz-phishing-network/",
-        "resumo": "Group-IB, INTERPOL and Algerian Police dismantle decade-old SniperDZ phishing network used to steal credentials, with its alleged developer arrested.",
-        "imagem": "https://hackread.com/wp-content/uploads/2026/06/SniperDz-phishing-platform-interpol.jpg"
-    },
-    {
-        "titulo": "CISA orders federal agencies to “patch smarter”",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-06-11",
-        "url": "https://www.helpnetsecurity.com/2026/06/11/cisa-risk-based-vulnerability-management-government/",
-        "resumo": "The US Cybersecurity and Infrastructure Security Agency (CISA) has issued a Binding Operational Directive that will change how the US federal government approaches vulnerability management. The directive arrives as the patching problem has become nearly unman…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/02/13095016/cisa-1500.webp"
-    },
-    {
-        "titulo": "Claude Fable 5: mid-tier results on coding tasks",
-        "fonte": "Endorlabs.com",
-        "autor": "bugvader",
-        "data": "2026-06-11",
-        "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-        "resumo": "Article URL: https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype Comments URL: https://news.ycombinator.com/item?id=48492210 Points: 20 # Comments: 1",
-        "imagem": "https://cdn.prod.website-files.com/6574c9e538a34feac8cec013/6a2a386899570e6f8d646e19_new%20model%20claude.png"
-    },
-    {
-        "titulo": "Laravel Security: What Happens When Nobody&#x27;s Applying Updates",
-        "fonte": "Rockingtech.co.uk",
-        "autor": "Anatoly Silko",
-        "data": "2026-06-11",
-        "url": "https://rockingtech.co.uk/blog/laravel-security-what-happens-when-nobody-applies-updates",
-        "resumo": "An unmaintained Laravel application is an open door. Real CVE data, ICO enforcement cases, and the actual cost of a breach versus proactive maintenance — for UK MDs who need the facts.",
-        "imagem": "https://rockingtech.co.uk/blog-images/laravel-security-what-happens-when-nobody-applies-updates.webp"
     }
 ]
