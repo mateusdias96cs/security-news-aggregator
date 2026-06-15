@@ -1,5 +1,122 @@
 [
     {
+        "titulo": "Tracing the malware path",
+        "fonte": "BusinessLine",
+        "autor": "Sudhirendar Sharma",
+        "data": "2026-06-14",
+        "url": "https://www.thehindubusinessline.com/books/tracing-the-malware-path/article71094585.ece",
+        "resumo": "The book explores the history of hacking and suggests how to counter it",
+        "imagem": "https://bl-i.thgim.com/public/opinion/fjmrmg/article71094566.ece/alternates/LANDSCAPE_1200/Books-DC.jpg"
+    },
+    {
+        "titulo": "Security Affairs newsletter Round 581 by Pierluigi Paganini – INTERNATIONAL EDITION",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-06-14",
+        "url": "https://securityaffairs.com/193600/security/security-affairs-newsletter-round-581-by-pierluigi-paganini-international-edition.html",
+        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Washingt…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
+    },
+    {
+        "titulo": "Humanity Protocol’s $36M hack linked to suspected North Korean hackers, Quantstamp reports",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-06-14",
+        "url": "https://cryptobriefing.com/humanity-protocol-36m-hack-north-korean-hackers/",
+        "resumo": "The incident underscores the urgent need for improved cybersecurity measures and key management practices to protect against sophisticated threats. The post Humanity Protocol’s $36M hack linked to suspected North Korean hackers, Quantstamp reports appeared fi…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/14081108/humanity-protocol-h-down-4-58-amid-ongoing-hack-impact-top-s-800x420.jpeg"
+    },
+    {
+        "titulo": "Week in review: Exploited Check Point VPN zero-day, Oracle PeopleSoft servers under attack",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-06-14",
+        "url": "https://www.helpnetsecurity.com/2026/06/14/week-in-review-exploited-check-point-vpn-zero-day-oracle-peoplesoft-servers-under-attack/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: DockSec: Open-source AI-powered Docker security scanner DockSec is an OWASP Incubator Project that combines three container security scanners with a language-mod…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124830/cybersecurity-week-review-1-1500.webp"
+    },
+    {
+        "titulo": "America&#x27;s shutdown of Anthropic&#x27;s AI models is not a surprise. And India has seen it coming for 30 years",
+        "fonte": "The Times of India",
+        "autor": "Pravin Kaushal",
+        "data": "2026-06-14",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/americas-shutdown-of-anthropics-ai-models-is-not-a-surprise-and-india-has-seen-it-coming-for-30-years/articleshow/131716863.cms",
+        "resumo": "The US government&#x27;s export control order on Anthropic&#x27;s advanced AI models, blocking non-American nationals, highlights a long-standing Indian pattern of adopting foreign technology without developing indigenous alternatives. This &quot;kill switch&quot; event undersco…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-101462,resizemode-75,msid-131716863/opinion/et-commentary/americas-shutdown-of-anthropics-ai-models-is-not-a-surprise-and-india-has-seen-it-coming-for-30-years.jpg"
+    },
+    {
+        "titulo": "Project Glasswing melts: US government suspends early access to Anthropic&#x27;s Fable 5, Mythos 5 within days of rollout",
+        "fonte": "The Times of India",
+        "autor": "Tanya Pandey, Subhayan Chakraborty",
+        "data": "2026-06-14",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/project-glasswing-melts-us-government-suspends-early-access-to-anthropics-fable-5-mythos-5-within-days-of-rollout/articleshow/131709066.cms",
+        "resumo": "India&#x27;s brief access to advanced AI models from Anthropic has ended. A US government directive halted local access to Mythos 5 and Fable 5. This development signals a new AI export control regime. Governments now view frontier AI as strategic assets. India&#x27;s …",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-142854,resizemode-75,msid-131709066/tech/artificial-intelligence/project-glasswing-melts-us-government-suspends-early-access-to-anthropics-fable-5-mythos-5-within-days-of-rollout.jpg"
+    },
+    {
+        "titulo": "US ban on Anthropic&#x27;s Fable 5 &amp; Mythos 5 to put Indian IT services firms at competitive disadvantage",
+        "fonte": "The Times of India",
+        "autor": "Himanshi Lohchab",
+        "data": "2026-06-14",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-ban-on-anthropics-fable-5-mythos-5-to-put-indian-it-services-firms-at-competitive-disadvantage/articleshow/131709776.cms",
+        "resumo": "US restrictions on foreign access to Anthropic&#x27;s advanced AI models, Mythos and Fable 5, are creating a significant competitive disadvantage for Indian enterprises and IT service providers. This exclusion, particularly from Fable 5&#x27;s coding capabilities, rais…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-101462,resizemode-75,msid-131709776/tech/artificial-intelligence/us-ban-on-anthropics-fable-5-mythos-5-to-put-indian-it-services-firms-at-competitive-disadvantage.jpg"
+    },
+    {
+        "titulo": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models",
+        "fonte": "Decrypt",
+        "autor": "Decrypt Agent",
+        "data": "2026-06-13",
+        "url": "https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models",
+        "resumo": "Anthropic pushed back against what it described as an overreach, saying the vulnerability cited is already widespread across the industry.",
+        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Trump-decrypt-style-04-gID_7.png"
+    },
+    {
+        "titulo": "Fable 5 and Mythos 5 Blocked Globally by U.S. Government",
+        "fonte": "Geeky Gadgets",
+        "autor": "Julian Horsey",
+        "data": "2026-06-13",
+        "url": "https://www.geeky-gadgets.com/anthropic-fable-5-government-shutdown/",
+        "resumo": "The U.S. government has recently mandated the shutdown of Anthropic’s advanced AI models, Fable 5 and Mythos 5, citing significant national security concerns. This decision, which has halted access for all users, including foreign nationals and even Anthropic…",
+        "imagem": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/enthropic-fable-shutdown.jpg"
+    },
+    {
+        "titulo": "Anthropic suspends top AI models after U.S. export control order",
+        "fonte": "Nextgov",
+        "autor": "David DiMolfetta",
+        "data": "2026-06-13",
+        "url": "https://www.nextgov.com/artificial-intelligence/2026/06/anthropic-suspends-top-ai-models-after-us-export-control-order/414173/",
+        "resumo": "The company said it would disable Fable 5 and Mythos 5 for all customers after the government imposed export controls on those products, citing national security concerns.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/06/13/061326mythosNG/open-graph.jpg"
+    },
+    {
+        "titulo": "US export order removes Anthropic Mythos model access fueling crypto bets on AI that is beyond government reach",
+        "fonte": "CryptoSlate",
+        "autor": "Oluwapelumi Adejumo",
+        "data": "2026-06-13",
+        "url": "https://cryptoslate.com/us-anthropic-fable-mythos-crackdown-fuels-crypto-bet-on-ai-that-is-beyond-government-reach/",
+        "resumo": "The US government has issued an emergency export control directive forcing artificial intelligence pioneer Anthropic to abruptly suspend global access to its frontier models, Fable 5 and Mythos 5. The sweeping mandate, which cites national security authoritie…",
+        "imagem": "https://cryptoslate.com/wp-content/uploads/2026/06/mythos-crackdown.jpg"
+    },
+    {
+        "titulo": "Anthropic&#x27;s Mythos AI finds no more &#x27;serious&#x27; bugs in Zcash: Wilcox",
+        "fonte": "Cointelegraph",
+        "autor": "Cointelegraph by Zoltan Vardai",
+        "data": "2026-06-13",
+        "url": "https://cointelegraph.com/news/anthropic-mythos-audit-no-serious-bugs-zcash",
+        "resumo": "Zcash founder Zooko Wilcox said Anthropic&#x27;s Mythos AI model found no further &quot;serious bugs&quot; in the privacy protocol following the patching of a previously discovered forgery bug.",
+        "imagem": "https://s3-images.ctmedia.io/media/article-covers/hi-how-coordinated-pump-and-dump-schemes-still-thrive-zcash.jpg"
+    },
+    {
+        "titulo": "Washington Pulled the Plug on Anthropic ‘s Fable 5 and Mythos 5 models. The Rest of the World Is Watching.",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-06-13",
+        "url": "https://securityaffairs.com/193579/ai/washington-pulled-the-plug-on-anthropic-fable-5-and-mythos-5-models.html",
+        "resumo": "Anthropic disputes restrictions on Mythos 5 and Fable 5, arguing the decision lacks transparency and isn’t based on clear technical evidence. On Friday June 12 at 5:21pm ET, Anthropic received a letter from the US Commerce Department, signed by Commerce Secre…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/02/Anthropic-Claude-Code-Security.png"
+    },
+    {
         "titulo": "U.S. CISA adds Oracle PeopleSoft Enterprise PeopleTools flaw to its Known Exploited Vulnerabilities catalog",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
@@ -52,131 +169,5 @@
         "url": "https://securityaffairs.com/193557/security/u-s-cisa-adds-ivanti-sentry-flaw-to-its-known-exploited-vulnerabilities-catalog-and-urges-patching-by-june-14.html",
         "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Ivanti Sentry flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Ivanti Sentry flaw, tracked as CVE-2026-10520 (CVSS sco…",
         "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "Advancing Threat-Informed Defense through Fortinet’s Collaboration with MITRE CTID",
-        "fonte": "Fortinet.com",
-        "autor": "Douglas Jose Pereira dos Santos",
-        "data": "2026-06-12",
-        "url": "https://www.fortinet.com/blog/industry-trends/advancing-threat-informed-defense-through-fortinets-collaboration-with-mitre-ctid",
-        "resumo": "Fortinet’s collaboration with the MITRE Center for Threat-Informed Defense helps advance practical cybersecurity through open research, shared expertise, and projects focused on cloud security, program maturity, detection accuracy, and adversary behavior.",
-        "imagem": ""
-    },
-    {
-        "titulo": "Microsoft&#x27;s bug-hunting nemesis extends vendetta with more zero-day attacks — Nightmare Eclipse publishes RoguePlanet and GreatXML local privilege escalation exploits",
-        "fonte": "Toms Hardware UK",
-        "autor": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
-        "data": "2026-06-12",
-        "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-bug-hunting-nemesis-extends-vendetta-with-more-zero-day-attacks-nightmare-eclipse-publishes-rogueplanet-and-greatxml-local-privilege-escalation-exploits",
-        "resumo": "Nightmare-Eclipse&#x27;s vendetta against Microsoft and Windows continues apace — researcher publishes RoguePlanet and GreatXML local privilege escalation zero-day exploits",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/Hh6jr6WsLw8YE2J2BrdLwM-2048-80.jpg"
-    },
-    {
-        "titulo": "How is Oracle’s PeopleSoft exploit spreading? #tech",
-        "fonte": "Alltoc.com",
-        "autor": "AllToc",
-        "data": "2026-06-12",
-        "url": "https://alltoc.com/tech/how-is-oracles-peoplesoft-exploit-spreading",
-        "resumo": "Oracle warned customers after ShinyHunters claimed widespread breaches Oracle issued a warning about a critical PeopleSoft vulnerability after the ransomware linked group ShinyHunters claimed it used an Oracle PeopleSoft “zero day” to breach more than 100 org…",
-        "imagem": "https://alltoc.com/cdn/1050/og.png"
-    },
-    {
-        "titulo": "United Community Banks, Inc. Announces Agreement to Sell Equipment Finance Business, Consisting of Navitas Credit Corp. and NLFC Reinsurance Corp., to Funds Managed by Wafra Inc.",
-        "fonte": "GlobeNewswire",
-        "autor": "United Community Banks, Inc.",
-        "data": "2026-06-12",
-        "url": "https://www.globenewswire.com/news-release/2026/06/12/3310990/34434/en/United-Community-Banks-Inc-Announces-Agreement-to-Sell-Equipment-Finance-Business-Consisting-of-Navitas-Credit-Corp-and-NLFC-Reinsurance-Corp-to-Funds-Managed-by-Wafra-Inc.html",
-        "resumo": "GREENVILLE, S.C., June 12, 2026 (GLOBE NEWSWIRE) -- United Community Banks, Inc. (NYSE: UCB) (“United”) today announced the execution of a definitive agreement to sell its equipment finance business, consisting of Navitas Credit Corp. and NLFC Reinsurance Cor…",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/b3c2b8db-5d17-4b09-8f40-5d9f51d8693f"
-    },
-    {
-        "titulo": "Google sues suspected Chinese cybercrime ring that used Gemini to build scam websites",
-        "fonte": "The Next Web",
-        "autor": "Alina Maria Stan",
-        "data": "2026-06-12",
-        "url": "https://thenextweb.com/news/google-gemini-outsider-enterprise-scam-lawsuit/",
-        "resumo": "Google has filed a lawsuit against a suspected Chinese cybercrime operation it calls the Outsider Enterprise, alleging the group sent more than 2.5 million fraudulent text messages to Android users over a two-week period in May. The messages contained links t…",
-        "imagem": "https://media.thenextweb.com/2026/05/google-io-2026-gemini-intelligence-android-xr-glasses.avif"
-    },
-    {
-        "titulo": "Frontier AI models could be an adversary&#x27;s force multiplier",
-        "fonte": "ComputerWeekly.com",
-        "autor": "Aditya K Sood",
-        "data": "2026-06-12",
-        "url": "https://www.computerweekly.com/opinion/Frontier-AI-models-could-be-an-adversarys-force-multiplier",
-        "resumo": "The Computer Weekly Security Think Tank considers if Anthropic’s Claude Mythos frontier AI model is a benefit or barrier to achieving resilient enterprise IT security, and how security leaders need to adapt.",
-        "imagem": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/Security-Think-Tank-hero.jpg"
-    },
-    {
-        "titulo": "Cloud Security Posture Management Market Expected to Reach USD 15.62 Billion by 2035 | SNS Insider",
-        "fonte": "GlobeNewswire",
-        "autor": "SNS Insider pvt ltd",
-        "data": "2026-06-12",
-        "url": "https://www.globenewswire.com/news-release/2026/06/12/3310938/0/en/Cloud-Security-Posture-Management-Market-Expected-to-Reach-USD-15-62-Billion-by-2035-SNS-Insider.html",
-        "resumo": "The U.S. Cloud Security Posture Management Market Stands at $2.38 Billion in 2025, While Europe is Projected to Reach $4.23 Billion by 2035, Supported by Strong Regulatory Frameworks Including GDPR, NIS2, and DORA, Along with Rapid Public and Hybrid Cloud Ado…",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2"
-    },
-    {
-        "titulo": "Hikvision Releases 2026 Cybersecurity White Paper, Fostering Digital Trust in the AIoT Era",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-06-12",
-        "url": "https://www.prnewswire.com/news-releases/hikvision-releases-2026-cybersecurity-white-paper-fostering-digital-trust-in-the-aiot-era-302798958.html",
-        "resumo": "HANGZHOU, China, June 12, 2026 /PRNewswire/ -- Hikvision has released its 2026 Cybersecurity White Paper, marking its ongoing commitment to transparent and robust security practices. The latest edition outlines the company&#x27;s advanced security framework, desig…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1863070/4777aa3b60514a70bdee13699ee0f73c.jpg?id=OA2699927&p=facebook"
-    },
-    {
-        "titulo": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-06-12",
-        "url": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
-        "resumo": "Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution. LangGraph is an open-source framework created by LangChain to build…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifnUd6CRFC-YdhoEDgmNoLtKUYjbZvqQJOETqK59Zd5Pk_epd9uGMfPCrujB3grOrajNxMls_p7TWQwnyCxFo1Ou8MM70yUh3dP04776sp-xk3O8544Z9YD-v_konqCTv1eX_42iMBkr4j5c-h0_I5dyBWvrr_3jrphGH3xLcZgaDAN1uH8OA5rWerJE5B/s1700-e365/langgraph.jpg"
-    },
-    {
-        "titulo": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-06-12",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch an actively exploited Ivanti Sentry flaw within three days, as mandated by the newly issued Binding Operational Directive (BOD) 26-04. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg"
-    },
-    {
-        "titulo": "Google says ShinyHunters hackers targeting education sector via Oracle exploit",
-        "fonte": "The Times of India",
-        "autor": "Reuters",
-        "data": "2026-06-12",
-        "url": "https://economictimes.indiatimes.com/tech/technology/google-says-shinyhunters-hackers-targeting-education-sector-via-oracle-exploit/articleshow/131672070.cms",
-        "resumo": "PeopleSoft ​is an enterprise resource planning suite used by organizations to manage ​core business functions including human resources, finance and supply-chain operations.",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-171594,resizemode-75,msid-131672070/tech/technology/google-says-shinyhunters-hackers-targeting-education-sector-via-oracle-exploit.jpg"
-    },
-    {
-        "titulo": "CISA BOD 26-04: Frequently asked questions about the new risk-based patching directive",
-        "fonte": "Tenable.com",
-        "autor": "Robert Huber",
-        "data": "2026-06-11",
-        "url": "https://www.tenable.com/blog/cisa-bod-26-04-FAQ-vulnerability-remediation-impact",
-        "resumo": "CISA issued BOD 26-04, which replaces BOD 22-01 with a four-variable vulnerability prioritization model requiring federal agencies to patch the most dangerous vulnerabilities in as few as three days.Key takeaways BOD 26-04 replaces BOD 22-01 with a f…",
-        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/director_B.png?itok=fdK0Luxw"
-    },
-    {
-        "titulo": "Three insights you may have missed from theCUBE’s coverage of Snowflake Summit 2026",
-        "fonte": "SiliconANGLE News",
-        "autor": "Victoria Gayton",
-        "data": "2026-06-11",
-        "url": "https://siliconangle.com/2026/06/11/snowflake-enterprise-ai-production-snowflakesummit/",
-        "resumo": "If the first wave of enterprise AI was about compute and foundation models, the next is shaping up to be about the software and data infrastructure needed to make those models useful in real businesses. The first AI winners sold compute: graphics processing u…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/IMG_5873-e1781210495126.jpg"
-    },
-    {
-        "titulo": "Trolling Microsoft With Vulnerabilities - PSW #930",
-        "fonte": "Libsyn.com",
-        "autor": "",
-        "data": "2026-06-11",
-        "url": "https://sites.libsyn.com/18678/trolling-microsoft-with-vulnerabilities-psw-930",
-        "resumo": "In the security news: Trolling Microsoft With Vulnerabilities Fable 5 loves guardrails Binwalk vulnerability EMBA and local models EDRChoker AI worms Interesting Arista vulnerability added to KEV&lt;…",
-        "imagem": "http://assets.libsyn.com/content/202889290?height=250&width=250&overlay=true"
     }
 ]
