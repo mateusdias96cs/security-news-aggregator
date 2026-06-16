@@ -1,5 +1,140 @@
 [
     {
+        "titulo": "Opinion: The Anthropic Dispute Is Not Really About Anthropic. It’s About Trust.",
+        "fonte": "Jetbrains.com",
+        "autor": "Kerry Beetge",
+        "data": "2026-06-15",
+        "url": "https://blog.jetbrains.com/qodana/2026/06/anthropic-suspension/",
+        "resumo": "When the US government effectively forced Anthropic to suspend access to some of its newest AI models over security concerns (Fable 5, Mythos 5), much of the debate immediately split into familiar camps. One side saw government overreach. The other saw a nece…",
+        "imagem": "https://blog.jetbrains.com/wp-content/uploads/2026/06/QD-Twitter_Facebook_LinkedIn-1200x675-1-4.png"
+    },
+    {
+        "titulo": "Black Hat Asia 2026: Threat Hunters’ Corner",
+        "fonte": "Cisco.com",
+        "autor": "Aditya Raghavan",
+        "data": "2026-06-15",
+        "url": "https://blogs.cisco.com/?p=493226",
+        "resumo": "Read on for the interesting findings our Threat Hunters share. This is about specific needles in the stack of needles at Black Hat.",
+        "imagem": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/06/FY26_Q4_black-hat-asia-2026-threat-hunters-corner.jpeg"
+    },
+    {
+        "titulo": "Unveiling the Power of Integration: XDR, Splunk, Corelight, Arista and Palo Alto Networks in Action at Black Hat Asia",
+        "fonte": "Cisco.com",
+        "autor": "Cam Dunn",
+        "data": "2026-06-15",
+        "url": "https://blogs.cisco.com/?p=493319",
+        "resumo": "Working with multiple vendors in a collaborative environment to better protect Black Hat.",
+        "imagem": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/06/FY26_Q4_unveiling-the-power-of-integration-xdr-splunk-corelight-arista-and-palo-alto-networks-in-action-at-black-hat-asia.jpeg"
+    },
+    {
+        "titulo": "Zcash jumps 25% as Zooko confirms security audit by Anthropic AI found no serious bugs",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-06-15",
+        "url": "https://cryptobriefing.com/zcash-jumps-anthropic-mythos-security-audit/",
+        "resumo": "The AI audit&#x27;s positive outcome not only restored Zcash&#x27;s market value but also reinforced trust in its cryptographic integrity. The post Zcash jumps 25% as Zooko confirms security audit by Anthropic AI found no serious bugs appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/15074051/who-is-zooko-wilcox-800x420.jpeg"
+    },
+    {
+        "titulo": "Incident Response Market to Surpass USD 243.7 Billion by 2035 as Cyberattack Risks Accelerate Worldwide | SNS insider",
+        "fonte": "GlobeNewswire",
+        "autor": "SNS Insider pvt ltd",
+        "data": "2026-06-15",
+        "url": "https://www.globenewswire.com/news-release/2026/06/15/3311701/0/en/Incident-Response-Market-to-Surpass-USD-243-7-Billion-by-2035-as-Cyberattack-Risks-Accelerate-Worldwide-SNS-insider.html",
+        "resumo": "U.S. Incident Response Market Projected to Reach USD 91.47 Billion and Europe USD 61.82 Billion by 2035, Driven by SEC, GDPR, NIS2, and DORA Cybersecurity Compliance Requirements U.S. Incident Response Market Projected to Reach USD 91.47 Billion and Europe US…",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2"
+    },
+    {
+        "titulo": "Palo Alto Warns of Exploitation of VPN Bypass Exploits (CVE-2026-0257) in PAN-OS Flaw",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-06-15",
+        "url": "https://securityaffairs.com/193638/security/palo-alto-warns-of-exploitation-of-vpn-bypass-exploits-cve-2026-0257-in-pan-os-flaw.html",
+        "resumo": "Palo Alto Networks warns that attackers are actively exploiting CVE-2026-0257, a PAN-OS flaw that lets unauthorized users bypass authentication and establish VPN connections. Palo Alto Networks has confirmed active exploitation of CVE-2026-0257, a PAN-OS auth…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/05/Palo-Alto-Networks.png"
+    },
+    {
+        "titulo": "How emerging tech is rewriting cyberwarfare",
+        "fonte": "TechRadar",
+        "autor": "Nadir Izrael",
+        "data": "2026-06-15",
+        "url": "https://www.techradar.com/pro/how-emerging-tech-is-rewriting-cyberwarfare",
+        "resumo": "AI, quantum and autonomous systems are accelerating cyber conflict - and it’s arriving faster than most expect.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/F8GmZXNJTQZttVhvkvgpp9-2560-80.jpg"
+    },
+    {
+        "titulo": "Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-06-15",
+        "url": "https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html",
+        "resumo": "Palo Alto Networks has revealed that it has observed &quot;active exploitation&quot; of a recently disclosed PAN-OS vulnerability by an unknown threat actor to obtain unauthorized access to GlobalProtect portals. The vulnerability in question is CVE-2026-0257 (CVSS sc…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMFIs6j0CgFzSojDqSi_UsqRzjlbYcRsrJG714Yh40TZXU4ZzlB_Do-7nbx5WGGvOS7mV3TojQLTiHbFS57BtgCo4hlF0DebzDtrSh5YzXkqNhjEI4JG97N_vpkFzeJP3V-adbSsPYRdYCQklFdweodtTJHywVHA5HiqgvYOp5eyxW0aQxKVacua9F9w3_/s1700-e365/paloalto-vpn.jpg"
+    },
+    {
+        "titulo": "Singapore researchers unveil self-verifying random number chip that cannot be hacked",
+        "fonte": "Naturalnews.com",
+        "autor": "Jacob Thomas",
+        "data": "2026-06-15",
+        "url": "https://www.naturalnews.com/2026-06-15-self-verifying-unhackable-random-number-chip.html",
+        "resumo": "Researchers at the National University of Singapore developed a quantum random number generator chip that continuously verifies its own hardware integrity while generating unpredictable numbers. Previous quantum random number generators relied on a trusted-de…",
+        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/Computer-Chip-World.jpg"
+    },
+    {
+        "titulo": "Open-source CI/CD abuse detector guards against stolen credential attacks",
+        "fonte": "Help Net Security",
+        "autor": "Sinisa Markovic",
+        "data": "2026-06-15",
+        "url": "https://www.helpnetsecurity.com/2026/06/15/ci-cd-abuse-detector-open-source/",
+        "resumo": "CI/CD Abuse Detector is an open-source project that uses a large language model to flag suspicious changes to continuous integration and continuous deployment pipelines, workflows, and automation configurations. The repository contains drop-in templates for G…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/09142720/cd-cd-abuse_detector.webp"
+    },
+    {
+        "titulo": "DBS optimistic about India’s long-term structural growth: Chief says country must invest in talent; focus on wealth space",
+        "fonte": "The Times of India",
+        "autor": "Joel Rebello and Sangita Mehta",
+        "data": "2026-06-15",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/dbs-optimistic-about-indias-long-term-structural-growth-chief-says-country-must-invest-in-talent-focus-on-wealth-space/articleshow/131728500.cms",
+        "resumo": "DBS Bank&#x27;s CEO views India as a significant long-term growth opportunity. The nation can benefit from the AI-driven demand for hardware. However, India must invest in its people and education to seize this potential. DBS remains committed to India, increasing…",
+        "imagem": "https://img.etimg.com/thumb/msid-131728592,width-1200,height-630,imgsize-61898,overlay-economictimes/articleshow.jpg"
+    },
+    {
+        "titulo": "Securing the enterprise software fabric: A blueprint for open source",
+        "fonte": "Redhat.com",
+        "autor": "",
+        "data": "2026-06-15",
+        "url": "https://www.redhat.com/en/blog/securing-enterprise-software-fabric-blueprint-open-source",
+        "resumo": "Lately, headlines dominated by AI-driven zero-day vulnerabilities have raised a question: Is open source software becoming too risky for the enterprise? With open source comprising more than three-quarters of the average enterprise codebase, the question matt…",
+        "imagem": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg"
+    },
+    {
+        "titulo": "Anthropic seeks deal to lift export restrictions that shut down its AI models",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-06-14",
+        "url": "https://cryptobriefing.com/anthropic-export-restrictions-ai-models/",
+        "resumo": "The incident underscores the vulnerability of AI companies to regulatory actions, potentially accelerating the shift towards decentralized AI systems. The post Anthropic seeks deal to lift export restrictions that shut down its AI models appeared first on Cry…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/14191208/anthropic-ceo-dario-amodei-keeps-only-1-direct-report-2-800x420.jpeg"
+    },
+    {
+        "titulo": "Oman cybersecurity market to hit $214 million",
+        "fonte": "Omanobserver.om",
+        "autor": "Jomar Mendoza",
+        "data": "2026-06-14",
+        "url": "https://www.omanobserver.om/article/1191233/business/economy/oman-cybersecurity-market-to-hit-214-million",
+        "resumo": "MUSCAT, JUNE 14Oman’s cybersecurity market is projected to grow to $214.27 million by 2031, supported by digital transformation, data residency...",
+        "imagem": "https://www.omanobserver.om/omanobserver/uploads/images/2026/06/14/thumbs/600x600/3415461.jpg"
+    },
+    {
+        "titulo": "Mark Carney warns of risks from US export ban on Anthropic AI models",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-06-14",
+        "url": "https://cryptobriefing.com/carney-warns-us-anthropic-ai-export-ban/",
+        "resumo": "The US export ban on AI models highlights the geopolitical risks and strategic vulnerabilities of relying on limited AI providers. The post Mark Carney warns of risks from US export ban on Anthropic AI models appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/14132923/mark-carney-800x420.jpeg"
+    },
+    {
         "titulo": "Tracing the malware path",
         "fonte": "BusinessLine",
         "autor": "Sudhirendar Sharma",
@@ -43,131 +178,5 @@
         "url": "https://economictimes.indiatimes.com/opinion/et-commentary/americas-shutdown-of-anthropics-ai-models-is-not-a-surprise-and-india-has-seen-it-coming-for-30-years/articleshow/131716863.cms",
         "resumo": "The US government&#x27;s export control order on Anthropic&#x27;s advanced AI models, blocking non-American nationals, highlights a long-standing Indian pattern of adopting foreign technology without developing indigenous alternatives. This &quot;kill switch&quot; event undersco…",
         "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-101462,resizemode-75,msid-131716863/opinion/et-commentary/americas-shutdown-of-anthropics-ai-models-is-not-a-surprise-and-india-has-seen-it-coming-for-30-years.jpg"
-    },
-    {
-        "titulo": "Project Glasswing melts: US government suspends early access to Anthropic&#x27;s Fable 5, Mythos 5 within days of rollout",
-        "fonte": "The Times of India",
-        "autor": "Tanya Pandey, Subhayan Chakraborty",
-        "data": "2026-06-14",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/project-glasswing-melts-us-government-suspends-early-access-to-anthropics-fable-5-mythos-5-within-days-of-rollout/articleshow/131709066.cms",
-        "resumo": "India&#x27;s brief access to advanced AI models from Anthropic has ended. A US government directive halted local access to Mythos 5 and Fable 5. This development signals a new AI export control regime. Governments now view frontier AI as strategic assets. India&#x27;s …",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-142854,resizemode-75,msid-131709066/tech/artificial-intelligence/project-glasswing-melts-us-government-suspends-early-access-to-anthropics-fable-5-mythos-5-within-days-of-rollout.jpg"
-    },
-    {
-        "titulo": "US ban on Anthropic&#x27;s Fable 5 &amp; Mythos 5 to put Indian IT services firms at competitive disadvantage",
-        "fonte": "The Times of India",
-        "autor": "Himanshi Lohchab",
-        "data": "2026-06-14",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-ban-on-anthropics-fable-5-mythos-5-to-put-indian-it-services-firms-at-competitive-disadvantage/articleshow/131709776.cms",
-        "resumo": "US restrictions on foreign access to Anthropic&#x27;s advanced AI models, Mythos and Fable 5, are creating a significant competitive disadvantage for Indian enterprises and IT service providers. This exclusion, particularly from Fable 5&#x27;s coding capabilities, rais…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-101462,resizemode-75,msid-131709776/tech/artificial-intelligence/us-ban-on-anthropics-fable-5-mythos-5-to-put-indian-it-services-firms-at-competitive-disadvantage.jpg"
-    },
-    {
-        "titulo": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models",
-        "fonte": "Decrypt",
-        "autor": "Decrypt Agent",
-        "data": "2026-06-13",
-        "url": "https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models",
-        "resumo": "Anthropic pushed back against what it described as an overreach, saying the vulnerability cited is already widespread across the industry.",
-        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Trump-decrypt-style-04-gID_7.png"
-    },
-    {
-        "titulo": "Fable 5 and Mythos 5 Blocked Globally by U.S. Government",
-        "fonte": "Geeky Gadgets",
-        "autor": "Julian Horsey",
-        "data": "2026-06-13",
-        "url": "https://www.geeky-gadgets.com/anthropic-fable-5-government-shutdown/",
-        "resumo": "The U.S. government has recently mandated the shutdown of Anthropic’s advanced AI models, Fable 5 and Mythos 5, citing significant national security concerns. This decision, which has halted access for all users, including foreign nationals and even Anthropic…",
-        "imagem": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/enthropic-fable-shutdown.jpg"
-    },
-    {
-        "titulo": "Anthropic suspends top AI models after U.S. export control order",
-        "fonte": "Nextgov",
-        "autor": "David DiMolfetta",
-        "data": "2026-06-13",
-        "url": "https://www.nextgov.com/artificial-intelligence/2026/06/anthropic-suspends-top-ai-models-after-us-export-control-order/414173/",
-        "resumo": "The company said it would disable Fable 5 and Mythos 5 for all customers after the government imposed export controls on those products, citing national security concerns.",
-        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/06/13/061326mythosNG/open-graph.jpg"
-    },
-    {
-        "titulo": "US export order removes Anthropic Mythos model access fueling crypto bets on AI that is beyond government reach",
-        "fonte": "CryptoSlate",
-        "autor": "Oluwapelumi Adejumo",
-        "data": "2026-06-13",
-        "url": "https://cryptoslate.com/us-anthropic-fable-mythos-crackdown-fuels-crypto-bet-on-ai-that-is-beyond-government-reach/",
-        "resumo": "The US government has issued an emergency export control directive forcing artificial intelligence pioneer Anthropic to abruptly suspend global access to its frontier models, Fable 5 and Mythos 5. The sweeping mandate, which cites national security authoritie…",
-        "imagem": "https://cryptoslate.com/wp-content/uploads/2026/06/mythos-crackdown.jpg"
-    },
-    {
-        "titulo": "Anthropic&#x27;s Mythos AI finds no more &#x27;serious&#x27; bugs in Zcash: Wilcox",
-        "fonte": "Cointelegraph",
-        "autor": "Cointelegraph by Zoltan Vardai",
-        "data": "2026-06-13",
-        "url": "https://cointelegraph.com/news/anthropic-mythos-audit-no-serious-bugs-zcash",
-        "resumo": "Zcash founder Zooko Wilcox said Anthropic&#x27;s Mythos AI model found no further &quot;serious bugs&quot; in the privacy protocol following the patching of a previously discovered forgery bug.",
-        "imagem": "https://s3-images.ctmedia.io/media/article-covers/hi-how-coordinated-pump-and-dump-schemes-still-thrive-zcash.jpg"
-    },
-    {
-        "titulo": "Washington Pulled the Plug on Anthropic ‘s Fable 5 and Mythos 5 models. The Rest of the World Is Watching.",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-06-13",
-        "url": "https://securityaffairs.com/193579/ai/washington-pulled-the-plug-on-anthropic-fable-5-and-mythos-5-models.html",
-        "resumo": "Anthropic disputes restrictions on Mythos 5 and Fable 5, arguing the decision lacks transparency and isn’t based on clear technical evidence. On Friday June 12 at 5:21pm ET, Anthropic received a letter from the US Commerce Department, signed by Commerce Secre…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/02/Anthropic-Claude-Code-Security.png"
-    },
-    {
-        "titulo": "U.S. CISA adds Oracle PeopleSoft Enterprise PeopleTools flaw to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-06-13",
-        "url": "https://securityaffairs.com/193574/security/u-s-cisa-adds-oracle-peoplesoft-enterprise-peopletools-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Oracle PeopleSoft Enterprise PeopleTools flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Oracle PeopleSoft Enterprise…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "cybersecurity-ai-mcp 1.0.10",
-        "fonte": "Pypi.org",
-        "autor": "nicholas@meok.ai",
-        "data": "2026-06-13",
-        "url": "https://pypi.org/project/cybersecurity-ai-mcp/1.0.10/",
-        "resumo": "Cybersecurity Ai MCP server. Tools: classify vulnerability, lookup cve, check security headers. Built by MEOK AI Labs.",
-        "imagem": ""
-    },
-    {
-        "titulo": "US government orders Anthropic to kill Fable 5 and Mythos 5 in unprecedented AI model recall",
-        "fonte": "The Next Web",
-        "autor": "Alina Maria Stan",
-        "data": "2026-06-13",
-        "url": "https://thenextweb.com/news/anthropic-fable-mythos-us-government-suspension/",
-        "resumo": "The US government has ordered Anthropic to suspend access to its two most capable AI models, Fable 5 and Mythos 5, in what appears to be the first time Washington has forced a commercial AI product offline. The directive, which Anthropic says it received at 5…",
-        "imagem": "https://media.thenextweb.com/2026/06/anthropic-mythos-eu-enisa-cybersecurity-access.avif"
-    },
-    {
-        "titulo": "Connecting the front line: How 8×8 Pulse and Resolve fix corporate blind spots",
-        "fonte": "SiliconANGLE News",
-        "autor": "Zeus Kerravala",
-        "data": "2026-06-12",
-        "url": "https://siliconangle.com/2026/06/12/connecting-front-line-8x8-pulse-resolve-fix-corporate-blind-spots/",
-        "resumo": "Enterprise software architecture has long suffered from what can be called an “integration tax.” When an organization deploys a communications platform, it rarely stops at the basic functions, such as calling and messaging. To extract operational value, it mu…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Screenshot-2026-06-12-at-3.58.20 PM.png"
-    },
-    {
-        "titulo": "What CISA&#x27;s new remediation directive means for CISOs",
-        "fonte": "Techtarget.com",
-        "autor": "Sharon Shea",
-        "data": "2026-06-12",
-        "url": "https://www.techtarget.com/searchsecurity/news/366644336/What-CISAs-new-remediation-directive-means-for-CISOs",
-        "resumo": "CISA&#x27;s updated directive for federal agencies compresses mandatory patching timelines to just three days for high-risk flaws, urging practitioners to &#x27;patch smarter, not harder.&#x27;",
-        "imagem": "https://www.techtarget.com/rms/onlineimages/security_a303249453.jpg"
-    },
-    {
-        "titulo": "U.S. CISA adds Ivanti Sentry flaw to its Known Exploited Vulnerabilities catalog and urges patching by June 14",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-06-12",
-        "url": "https://securityaffairs.com/193557/security/u-s-cisa-adds-ivanti-sentry-flaw-to-its-known-exploited-vulnerabilities-catalog-and-urges-patching-by-june-14.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Ivanti Sentry flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Ivanti Sentry flaw, tracked as CVE-2026-10520 (CVSS sco…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
     }
 ]
