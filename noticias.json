@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Opinion: The Anthropic Dispute Is Not Really About Anthropic. It’s About Trust.",
-        "fonte": "Jetbrains.com",
-        "autor": "Kerry Beetge",
-        "data": "2026-06-15",
-        "url": "https://blog.jetbrains.com/qodana/2026/06/anthropic-suspension/",
-        "resumo": "When the US government effectively forced Anthropic to suspend access to some of its newest AI models over security concerns (Fable 5, Mythos 5), much of the debate immediately split into familiar camps. One side saw government overreach. The other saw a nece…",
-        "imagem": "https://blog.jetbrains.com/wp-content/uploads/2026/06/QD-Twitter_Facebook_LinkedIn-1200x675-1-4.png"
+        "titulo": "Nancy Guthrie mystery exposes new threat targeting unsuspecting Americans letting down their guards",
+        "fonte": "Fox News",
+        "autor": "",
+        "data": "2026-06-16",
+        "url": "https://www.foxnews.com/us/nancy-guthrie-mystery-exposes-new-threat-targeting-unsuspecting-americans-letting-guards",
+        "resumo": "Experts warn criminals use social media and open source information to find wealthy targets as wrench attacks surge 41% in early 2026, per Certik data.",
+        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/savannah-guthrie-ransom-blood-search-for-nancy-guthrie-1.jpg"
     },
     {
-        "titulo": "Black Hat Asia 2026: Threat Hunters’ Corner",
-        "fonte": "Cisco.com",
-        "autor": "Aditya Raghavan",
-        "data": "2026-06-15",
-        "url": "https://blogs.cisco.com/?p=493226",
-        "resumo": "Read on for the interesting findings our Threat Hunters share. This is about specific needles in the stack of needles at Black Hat.",
-        "imagem": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/06/FY26_Q4_black-hat-asia-2026-threat-hunters-corner.jpeg"
+        "titulo": "Rockwell Automation FLEX I/O EtherNet/IP Adapters",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-06-16",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-05",
+        "resumo": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain unauthorized access, account takeover, and cause loss of availability. The following versions of Rockwell Automation FLEX I/O EtherNet/IP Adapters are affected:…",
+        "imagem": ""
     },
     {
-        "titulo": "Unveiling the Power of Integration: XDR, Splunk, Corelight, Arista and Palo Alto Networks in Action at Black Hat Asia",
-        "fonte": "Cisco.com",
-        "autor": "Cam Dunn",
-        "data": "2026-06-15",
-        "url": "https://blogs.cisco.com/?p=493319",
-        "resumo": "Working with multiple vendors in a collaborative environment to better protect Black Hat.",
-        "imagem": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/06/FY26_Q4_unveiling-the-power-of-integration-xdr-splunk-corelight-arista-and-palo-alto-networks-in-action-at-black-hat-asia.jpeg"
+        "titulo": "SEC What Changed: 10-K Filing Snapshot for 16 June 2026",
+        "fonte": "R-bloggers.com",
+        "autor": "codex-publisher",
+        "data": "2026-06-16",
+        "url": "https://www.r-bloggers.com/2026/06/sec-what-changed-10-k-filing-snapshot-for-16-june-2026/",
+        "resumo": "A ranked snapshot of 10-K language changes for companies that filed annual reports on 16 June 2026. The post SEC What Changed: 10-K Filing Snapshot for 16 June 2026 appeared first on lf0. Continue reading: SEC What Changed: 10-K Filing Snapshot for 16 June 20…",
+        "imagem": "https://www.r-bloggers.com/wp-content/uploads/2016/04/R_02_2016-05-01.png"
     },
     {
-        "titulo": "Zcash jumps 25% as Zooko confirms security audit by Anthropic AI found no serious bugs",
+        "titulo": "Rockwell Automation FactoryTalk Analytics PavilionX",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-06-16",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-01",
+        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker executing privileged operations. The following versions of Rockwell Automation FactoryTalk Analytics PavilionX are affected: FactoryTalk Analytics PavilionX …",
+        "imagem": ""
+    },
+    {
+        "titulo": "Rockwell Automation Logix 5370 &amp; 5570 Controllers Vulnerable To Denial of Service Via CIP",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-06-16",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-03",
+        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could cause a denial-of-service condition that may result in a major nonrecoverable fault (MNRF). The following versions of Rockwell Automation Logix 5370 &amp; 5570 Controllers Vulnerable To Denial …",
+        "imagem": ""
+    },
+    {
+        "titulo": "Rockwell Automation RSLinx",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-06-16",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-02",
+        "resumo": "View CSAF Summary Successful exploitation of this vulnerability can lead to a denial of service, where the application will become unresponsive and will not recover on its own. The following versions of RSLinx Classic Third-Party Vulnerability are affected: &lt;…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Black Hat, White Hat, Grey Hat: Understanding the People Behind Cybersecurity",
+        "fonte": "Cloudtweaks.com",
+        "autor": "Canio Campaniello",
+        "data": "2026-06-16",
+        "url": "https://cloudtweaks.com/2026/06/black-hat-white-hat-grey-hat-understanding-cybersecurity/",
+        "resumo": "Understanding the People Behind Cybersecurity Say “hacker” to most people and they picture the same thing — dark room, hoodie, something dramatic unfolding on a screen. That image has been everywhere for so long it’s become background noise. The reality is le…",
+        "imagem": "https://cloudtweaks.com/wp-content/uploads/2016/03/security-obscure-e1456845302323.jpg"
+    },
+    {
+        "titulo": "Europe wants to limit its reliance on foreign tech – but funding is limited and the proposed rules are weak",
+        "fonte": "The Conversation Africa",
+        "autor": "Johan Linåker, Adjunct Assistant Professor in Computer Science, Lund University",
+        "data": "2026-06-16",
+        "url": "https://theconversation.com/europe-wants-to-limit-its-reliance-on-foreign-tech-but-funding-is-limited-and-the-proposed-rules-are-weak-285084",
+        "resumo": "Europe has now published its plans to secure its ‘tech sovereignty.",
+        "imagem": "https://images.theconversation.com/files/741659/original/file-20260613-71-blffyd.jpg?ixlib=rb-4.1.0&rect=0%2C606%2C8573%2C4286&q=45&auto=format&w=1356&h=668&fit=crop"
+    },
+    {
+        "titulo": "Anthropic navigates unprecedented White House request as Commerce Department orders global AI model suspension",
         "fonte": "Crypto Briefing",
         "autor": "Editorial Team",
-        "data": "2026-06-15",
-        "url": "https://cryptobriefing.com/zcash-jumps-anthropic-mythos-security-audit/",
-        "resumo": "The AI audit&#x27;s positive outcome not only restored Zcash&#x27;s market value but also reinforced trust in its cryptographic integrity. The post Zcash jumps 25% as Zooko confirms security audit by Anthropic AI found no serious bugs appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/15074051/who-is-zooko-wilcox-800x420.jpeg"
+        "data": "2026-06-16",
+        "url": "https://cryptobriefing.com/anthropic-white-house-export-controls-ai-models/",
+        "resumo": "The directive sets a precedent for retroactive AI export controls, impacting global collaboration and potentially altering AI market dynamics. The post Anthropic navigates unprecedented White House request as Commerce Department orders global AI model suspens…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/16071539/https-upload-wikimedia-org-wikipedia-commons-d-d8-dario-amod-8-800x420.jpeg"
     },
     {
-        "titulo": "Incident Response Market to Surpass USD 243.7 Billion by 2035 as Cyberattack Risks Accelerate Worldwide | SNS insider",
-        "fonte": "GlobeNewswire",
-        "autor": "SNS Insider pvt ltd",
-        "data": "2026-06-15",
-        "url": "https://www.globenewswire.com/news-release/2026/06/15/3311701/0/en/Incident-Response-Market-to-Surpass-USD-243-7-Billion-by-2035-as-Cyberattack-Risks-Accelerate-Worldwide-SNS-insider.html",
-        "resumo": "U.S. Incident Response Market Projected to Reach USD 91.47 Billion and Europe USD 61.82 Billion by 2035, Driven by SEC, GDPR, NIS2, and DORA Cybersecurity Compliance Requirements U.S. Incident Response Market Projected to Reach USD 91.47 Billion and Europe US…",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2"
+        "titulo": "Chainguard, JPMorgan, BNY Team Up to Secure Open Source from AI Threats",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Kevin Poireault",
+        "data": "2026-06-16",
+        "url": "https://www.infosecurity-magazine.com/news/chainguard-bny-open-source-athena/",
+        "resumo": "Athena is a new an industry coalition to fix the vulnerabilities frontier AI models find before attackers can exploit them",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/27d581d4-02a5-4396-b8e4-7058f3ecacf2.jpg"
     },
     {
-        "titulo": "Palo Alto Warns of Exploitation of VPN Bypass Exploits (CVE-2026-0257) in PAN-OS Flaw",
+        "titulo": "webanalyzer-security 3.0.0",
+        "fonte": "Pypi.org",
+        "autor": "hi@c4softwarestudio.com",
+        "data": "2026-06-16",
+        "url": "https://pypi.org/project/webanalyzer-security/",
+        "resumo": "Enterprise Domain Security &amp; OSINT Analysis Platform",
+        "imagem": "https://pypi.org/static/images/twitter.abaf4b19.webp"
+    },
+    {
+        "titulo": "CVE-2026-20262: CISCO Catalyst SD-WAN Flaw Under Active Targeted Exploitation",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
-        "data": "2026-06-15",
-        "url": "https://securityaffairs.com/193638/security/palo-alto-warns-of-exploitation-of-vpn-bypass-exploits-cve-2026-0257-in-pan-os-flaw.html",
-        "resumo": "Palo Alto Networks warns that attackers are actively exploiting CVE-2026-0257, a PAN-OS flaw that lets unauthorized users bypass authentication and establish VPN connections. Palo Alto Networks has confirmed active exploitation of CVE-2026-0257, a PAN-OS auth…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/05/Palo-Alto-Networks.png"
+        "data": "2026-06-16",
+        "url": "https://securityaffairs.com/193693/security/cve-2026-20262-cisco-catalyst-sd-wan-flaw-under-active-targeted-exploitation.html",
+        "resumo": "Cisco warned that CVE-2026-20262, a Catalyst SD-WAN Manager vulnerability allowing arbitrary file writes, is being actively exploited. Cisco confirmed active exploitation of CVE-2026-20262, an arbitrary file write vulnerability affecting Catalyst SD-WAN Manag…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2014/07/cisco-building.jpg"
     },
     {
-        "titulo": "How emerging tech is rewriting cyberwarfare",
-        "fonte": "TechRadar",
-        "autor": "Nadir Izrael",
-        "data": "2026-06-15",
-        "url": "https://www.techradar.com/pro/how-emerging-tech-is-rewriting-cyberwarfare",
-        "resumo": "AI, quantum and autonomous systems are accelerating cyber conflict - and it’s arriving faster than most expect.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/F8GmZXNJTQZttVhvkvgpp9-2560-80.jpg"
+        "titulo": "Best of Android Fax Apps: Top 5 Secure Picks for 2026",
+        "fonte": "HackRead",
+        "autor": "Owais Sultan",
+        "data": "2026-06-16",
+        "url": "https://hackread.com/best-of-android-fax-apps-5-secure-picks-2026/",
+        "resumo": "Discover the best of Android fax apps to send and receive secure documents on the go. Compare Municorn Fax App, Fax.Plus, and other top Android tools.",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/06/best-of-android-fax-apps-5-secure-picks-2026.jpg"
     },
     {
-        "titulo": "Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw",
+        "titulo": "CISA warns of another cPanel plugin flaw exploited in attacks",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-06-16",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. government agencies three days to secure their servers against an actively exploited vulnerability (CVE-2026-54420) in the LiteSpeed cPanel user-end plugin. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/16/cPanel.jpg"
+    },
+    {
+        "titulo": "SoftBank and OpenAI launch “Patching as a Service” to defend Japan’s critical infrastructure",
+        "fonte": "The Next Web",
+        "autor": "Ana Maria Constantin",
+        "data": "2026-06-16",
+        "url": "https://thenextweb.com/news/softbank-openai-patching-as-a-service-japan/",
+        "resumo": "SoftBank and OpenAI are moving into cyber defence. The two said on Tuesday they are launching “Patching as a Service,” a security product built on OpenAI’s technology, to shield the companies behind Japan’s critical infrastructure from a rising wave of cybera…",
+        "imagem": "https://media.thenextweb.com/2026/04/softbank-battery-factory-sharp-sakai-ai-data-centres-1.avif"
+    },
+    {
+        "titulo": "Cisco discloses second exploited SD-WAN vulnerability in two weeks (CVE-2026-20262)",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-06-16",
+        "url": "https://www.helpnetsecurity.com/2026/06/16/cisco-sd-wan-cve-2026-20262-exploited/",
+        "resumo": "Cisco has revealed another Catalyst SD-WAN Manager vulnerability (CVE-2026-20262) that its Product Security Incident Response Team observed being exploited by attackers. But the associated security advisory also states that “the vulnerability was found during…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/01/23130953/cisco-1500-1.webp"
+    },
+    {
+        "titulo": "Radware Unveils AI Xploit Shield to Help Organizations Protect First and Patch Safely",
+        "fonte": "GlobeNewswire",
+        "autor": "Radware Ltd.",
+        "data": "2026-06-16",
+        "url": "https://www.globenewswire.com/news-release/2026/06/16/3312357/8980/en/Radware-Unveils-AI-Xploit-Shield-to-Help-Organizations-Protect-First-and-Patch-Safely.html",
+        "resumo": "Radware Unveils AI Xploit Shield to Help Organizations Protect First and Patch Safely ...",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/651773cc-1089-4fbc-a964-892c3bc5a551"
+    },
+    {
+        "titulo": "China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-06-15",
-        "url": "https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html",
-        "resumo": "Palo Alto Networks has revealed that it has observed &quot;active exploitation&quot; of a recently disclosed PAN-OS vulnerability by an unknown threat actor to obtain unauthorized access to GlobalProtect portals. The vulnerability in question is CVE-2026-0257 (CVSS sc…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMFIs6j0CgFzSojDqSi_UsqRzjlbYcRsrJG714Yh40TZXU4ZzlB_Do-7nbx5WGGvOS7mV3TojQLTiHbFS57BtgCo4hlF0DebzDtrSh5YzXkqNhjEI4JG97N_vpkFzeJP3V-adbSsPYRdYCQklFdweodtTJHywVHA5HiqgvYOp5eyxW0aQxKVacua9F9w3_/s1700-e365/paloalto-vpn.jpg"
+        "data": "2026-06-16",
+        "url": "https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html",
+        "resumo": "Cybersecurity researchers have flagged two previously undocumented Windows variants of what was believed to be a Linux-only backdoor called SprySOCKS. &quot;The Windows variants discovered are internally marked as WIN_DRV and WIN_PLUS,&quot; ESET said in a report shar…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxym2hiE83TbiNOrIeH3s4QCF0wQ_BYcSYPKlC3m9LGSuJnH7UNicbkgIk4kQTbpPiLRul9dSxQ180XW656_9NPtlqWoTGivTamDVl24ZfUQFPgUleakZq6aZI5kZqszNz3GpVyJQnPiXis_kjlMqAxKBxGKZsDdAvb-rX20fxszdd0pCKRO9GqK3CSu-p/s1700-e365/chinese-proxy.png"
     },
     {
-        "titulo": "Singapore researchers unveil self-verifying random number chip that cannot be hacked",
-        "fonte": "Naturalnews.com",
-        "autor": "Jacob Thomas",
-        "data": "2026-06-15",
-        "url": "https://www.naturalnews.com/2026-06-15-self-verifying-unhackable-random-number-chip.html",
-        "resumo": "Researchers at the National University of Singapore developed a quantum random number generator chip that continuously verifies its own hardware integrity while generating unpredictable numbers. Previous quantum random number generators relied on a trusted-de…",
-        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/Computer-Chip-World.jpg"
+        "titulo": "Tech Coalition ‘Athena’ Targets OSS Vulnerabilities Ahead of Disclosure",
+        "fonte": "Securityweek.com",
+        "autor": "Ionut Arghire",
+        "data": "2026-06-16",
+        "url": "https://www.securityweek.com/tech-coalition-athena-targets-oss-vulnerabilities-ahead-of-disclosure/",
+        "resumo": "Over two dozen organizations built a shared platform to triage vulnerabilities, fix them, and secure the software before patches arrive. The post Tech Coalition ‘Athena’ Targets OSS Vulnerabilities Ahead of Disclosure appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/02/open-source.jpeg"
     },
     {
-        "titulo": "Open-source CI/CD abuse detector guards against stolen credential attacks",
-        "fonte": "Help Net Security",
-        "autor": "Sinisa Markovic",
-        "data": "2026-06-15",
-        "url": "https://www.helpnetsecurity.com/2026/06/15/ci-cd-abuse-detector-open-source/",
-        "resumo": "CI/CD Abuse Detector is an open-source project that uses a large language model to flag suspicious changes to continuous integration and continuous deployment pipelines, workflows, and automation configurations. The repository contains drop-in templates for G…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/09142720/cd-cd-abuse_detector.webp"
-    },
-    {
-        "titulo": "DBS optimistic about India’s long-term structural growth: Chief says country must invest in talent; focus on wealth space",
-        "fonte": "The Times of India",
-        "autor": "Joel Rebello and Sangita Mehta",
-        "data": "2026-06-15",
-        "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/dbs-optimistic-about-indias-long-term-structural-growth-chief-says-country-must-invest-in-talent-focus-on-wealth-space/articleshow/131728500.cms",
-        "resumo": "DBS Bank&#x27;s CEO views India as a significant long-term growth opportunity. The nation can benefit from the AI-driven demand for hardware. However, India must invest in its people and education to seize this potential. DBS remains committed to India, increasing…",
-        "imagem": "https://img.etimg.com/thumb/msid-131728592,width-1200,height-630,imgsize-61898,overlay-economictimes/articleshow.jpg"
-    },
-    {
-        "titulo": "Securing the enterprise software fabric: A blueprint for open source",
-        "fonte": "Redhat.com",
-        "autor": "",
-        "data": "2026-06-15",
-        "url": "https://www.redhat.com/en/blog/securing-enterprise-software-fabric-blueprint-open-source",
-        "resumo": "Lately, headlines dominated by AI-driven zero-day vulnerabilities have raised a question: Is open source software becoming too risky for the enterprise? With open source comprising more than three-quarters of the average enterprise codebase, the question matt…",
-        "imagem": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg"
-    },
-    {
-        "titulo": "Anthropic seeks deal to lift export restrictions that shut down its AI models",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-06-14",
-        "url": "https://cryptobriefing.com/anthropic-export-restrictions-ai-models/",
-        "resumo": "The incident underscores the vulnerability of AI companies to regulatory actions, potentially accelerating the shift towards decentralized AI systems. The post Anthropic seeks deal to lift export restrictions that shut down its AI models appeared first on Cry…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/14191208/anthropic-ceo-dario-amodei-keeps-only-1-direct-report-2-800x420.jpeg"
-    },
-    {
-        "titulo": "Oman cybersecurity market to hit $214 million",
-        "fonte": "Omanobserver.om",
-        "autor": "Jomar Mendoza",
-        "data": "2026-06-14",
-        "url": "https://www.omanobserver.om/article/1191233/business/economy/oman-cybersecurity-market-to-hit-214-million",
-        "resumo": "MUSCAT, JUNE 14Oman’s cybersecurity market is projected to grow to $214.27 million by 2031, supported by digital transformation, data residency...",
-        "imagem": "https://www.omanobserver.om/omanobserver/uploads/images/2026/06/14/thumbs/600x600/3415461.jpg"
-    },
-    {
-        "titulo": "Mark Carney warns of risks from US export ban on Anthropic AI models",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-06-14",
-        "url": "https://cryptobriefing.com/carney-warns-us-anthropic-ai-export-ban/",
-        "resumo": "The US export ban on AI models highlights the geopolitical risks and strategic vulnerabilities of relying on limited AI providers. The post Mark Carney warns of risks from US export ban on Anthropic AI models appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/14132923/mark-carney-800x420.jpeg"
-    },
-    {
-        "titulo": "Tracing the malware path",
-        "fonte": "BusinessLine",
-        "autor": "Sudhirendar Sharma",
-        "data": "2026-06-14",
-        "url": "https://www.thehindubusinessline.com/books/tracing-the-malware-path/article71094585.ece",
-        "resumo": "The book explores the history of hacking and suggests how to counter it",
-        "imagem": "https://bl-i.thgim.com/public/opinion/fjmrmg/article71094566.ece/alternates/LANDSCAPE_1200/Books-DC.jpg"
-    },
-    {
-        "titulo": "Security Affairs newsletter Round 581 by Pierluigi Paganini – INTERNATIONAL EDITION",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-06-14",
-        "url": "https://securityaffairs.com/193600/security/security-affairs-newsletter-round-581-by-pierluigi-paganini-international-edition.html",
-        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Washingt…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
-    },
-    {
-        "titulo": "Humanity Protocol’s $36M hack linked to suspected North Korean hackers, Quantstamp reports",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-06-14",
-        "url": "https://cryptobriefing.com/humanity-protocol-36m-hack-north-korean-hackers/",
-        "resumo": "The incident underscores the urgent need for improved cybersecurity measures and key management practices to protect against sophisticated threats. The post Humanity Protocol’s $36M hack linked to suspected North Korean hackers, Quantstamp reports appeared fi…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/14081108/humanity-protocol-h-down-4-58-amid-ongoing-hack-impact-top-s-800x420.jpeg"
-    },
-    {
-        "titulo": "Week in review: Exploited Check Point VPN zero-day, Oracle PeopleSoft servers under attack",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-06-14",
-        "url": "https://www.helpnetsecurity.com/2026/06/14/week-in-review-exploited-check-point-vpn-zero-day-oracle-peoplesoft-servers-under-attack/",
-        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: DockSec: Open-source AI-powered Docker security scanner DockSec is an OWASP Incubator Project that combines three container security scanners with a language-mod…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124830/cybersecurity-week-review-1-1500.webp"
-    },
-    {
-        "titulo": "America&#x27;s shutdown of Anthropic&#x27;s AI models is not a surprise. And India has seen it coming for 30 years",
-        "fonte": "The Times of India",
-        "autor": "Pravin Kaushal",
-        "data": "2026-06-14",
-        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/americas-shutdown-of-anthropics-ai-models-is-not-a-surprise-and-india-has-seen-it-coming-for-30-years/articleshow/131716863.cms",
-        "resumo": "The US government&#x27;s export control order on Anthropic&#x27;s advanced AI models, blocking non-American nationals, highlights a long-standing Indian pattern of adopting foreign technology without developing indigenous alternatives. This &quot;kill switch&quot; event undersco…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-101462,resizemode-75,msid-131716863/opinion/et-commentary/americas-shutdown-of-anthropics-ai-models-is-not-a-surprise-and-india-has-seen-it-coming-for-30-years.jpg"
+        "titulo": "Critical Fortinet FortiSandbox flaws now exploited in attacks",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-06-16",
+        "url": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
+        "resumo": "Attackers are now exploiting several critical vulnerabilities in Fortinet&#x27;s FortiSandbox cyber threat detection platform, according to threat intelligence company Defused. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/12/29/Fortinet.jpg"
     }
 ]
