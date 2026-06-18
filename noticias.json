@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Nancy Guthrie mystery exposes new threat targeting unsuspecting Americans letting down their guards",
-        "fonte": "Fox News",
-        "autor": "",
-        "data": "2026-06-16",
-        "url": "https://www.foxnews.com/us/nancy-guthrie-mystery-exposes-new-threat-targeting-unsuspecting-americans-letting-guards",
-        "resumo": "Experts warn criminals use social media and open source information to find wealthy targets as wrench attacks surge 41% in early 2026, per Certik data.",
-        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/savannah-guthrie-ransom-blood-search-for-nancy-guthrie-1.jpg"
+        "titulo": "Microsoft working on patch for RoguePlanet Defender zero-day (CVE-2026-50656)",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-06-17",
+        "url": "https://www.helpnetsecurity.com/2026/06/17/rogueplanet-zero-day-cve-2026-50656/",
+        "resumo": "Microsoft has acknowledged the local elevation of privilege issue in Microsoft Defender that can be triggered via the “RoguePlanet” exploit, and is “working to provide a high quality security update that addresses this vulnerability.” The vulnerability, which…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/22100137/microsoft-defender-1500-1.webp"
     },
     {
-        "titulo": "Rockwell Automation FLEX I/O EtherNet/IP Adapters",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-06-16",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-05",
-        "resumo": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain unauthorized access, account takeover, and cause loss of availability. The following versions of Rockwell Automation FLEX I/O EtherNet/IP Adapters are affected:…",
-        "imagem": ""
+        "titulo": "CIO&#x27;s guide to emerging tech trends for 2027 and beyond",
+        "fonte": "Techtarget.com",
+        "autor": "Amanda Hetler",
+        "data": "2026-06-17",
+        "url": "https://www.techtarget.com/searchcio/feature/CIOs-guide-to-emerging-tech-trends",
+        "resumo": "Discover the top IT trends from Info-Tech Live 2026 that will shape organizations in 2027 and beyond, from agentic AI to supply chain automation.",
+        "imagem": "https://www.techtarget.com/rms/onlineimages/ai_a352095729.jpg"
     },
     {
-        "titulo": "SEC What Changed: 10-K Filing Snapshot for 16 June 2026",
-        "fonte": "R-bloggers.com",
-        "autor": "codex-publisher",
-        "data": "2026-06-16",
-        "url": "https://www.r-bloggers.com/2026/06/sec-what-changed-10-k-filing-snapshot-for-16-june-2026/",
-        "resumo": "A ranked snapshot of 10-K language changes for companies that filed annual reports on 16 June 2026. The post SEC What Changed: 10-K Filing Snapshot for 16 June 2026 appeared first on lf0. Continue reading: SEC What Changed: 10-K Filing Snapshot for 16 June 20…",
-        "imagem": "https://www.r-bloggers.com/wp-content/uploads/2016/04/R_02_2016-05-01.png"
+        "titulo": "Why security leaders are cautious about agentic AI",
+        "fonte": "TechRadar",
+        "autor": "Howie Koh",
+        "data": "2026-06-17",
+        "url": "https://www.techradar.com/pro/why-security-leaders-are-cautious-about-agentic-ai",
+        "resumo": "Agentic AI can improve security operations, but only with strong oversight and real context.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/pVCXKrhThqmUjYVSZBjV5Z-2560-80.jpg"
     },
     {
-        "titulo": "Rockwell Automation FactoryTalk Analytics PavilionX",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-06-16",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-01",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker executing privileged operations. The following versions of Rockwell Automation FactoryTalk Analytics PavilionX are affected: FactoryTalk Analytics PavilionX …",
-        "imagem": ""
+        "titulo": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-06-17",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity flaw in the Widget Factory Joomla Content Editor (JCE) plugin that is being actively exploited in the wild. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/17/Joomla.jpg"
     },
     {
-        "titulo": "Rockwell Automation Logix 5370 &amp; 5570 Controllers Vulnerable To Denial of Service Via CIP",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-06-16",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-03",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could cause a denial-of-service condition that may result in a major nonrecoverable fault (MNRF). The following versions of Rockwell Automation Logix 5370 &amp; 5570 Controllers Vulnerable To Denial …",
-        "imagem": ""
+        "titulo": "Quantum Computing Threat to Bitcoin: Real or Hype?",
+        "fonte": "Bitcoinfoundation.org",
+        "autor": "Yevheny Serhiienko",
+        "data": "2026-06-17",
+        "url": "https://bitcoinfoundation.org/news/ai-news/quantum-computing-threat-to-bitcoin-real-or-hype/",
+        "resumo": "A quantum computer is not just another, faster computer. Instead of bits that can encode either 0 or 1, qubits can be in superposition, and... The post Quantum Computing Threat to Bitcoin: Real or Hype? appeared first on Bitcoin Foundation.",
+        "imagem": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/1-1781600390.webp"
     },
     {
-        "titulo": "Rockwell Automation RSLinx",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-06-16",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-02",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability can lead to a denial of service, where the application will become unresponsive and will not recover on its own. The following versions of RSLinx Classic Third-Party Vulnerability are affected: &lt;…",
-        "imagem": ""
+        "titulo": "The Chainguard Athena coalition already shipped 2,000 patches across 500 open source projects",
+        "fonte": "Help Net Security",
+        "autor": "Mirko Zorz",
+        "data": "2026-06-17",
+        "url": "https://www.helpnetsecurity.com/2026/06/17/chainguard-athena-coalition-fix-open-source-vulnerabilities/",
+        "resumo": "Chainguard launched Athena, an industry coalition that pools open source vulnerability findings and remediates them under embargo before public disclosure. The group went live with more than two dozen member organizations. Founding members include BNY, Chaing…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/17103958/shield-attack.webp"
     },
     {
-        "titulo": "Black Hat, White Hat, Grey Hat: Understanding the People Behind Cybersecurity",
-        "fonte": "Cloudtweaks.com",
-        "autor": "Canio Campaniello",
-        "data": "2026-06-16",
-        "url": "https://cloudtweaks.com/2026/06/black-hat-white-hat-grey-hat-understanding-cybersecurity/",
-        "resumo": "Understanding the People Behind Cybersecurity Say “hacker” to most people and they picture the same thing — dark room, hoodie, something dramatic unfolding on a screen. That image has been everywhere for so long it’s become background noise. The reality is le…",
-        "imagem": "https://cloudtweaks.com/wp-content/uploads/2016/03/security-obscure-e1456845302323.jpg"
+        "titulo": "Microsoft Working on Patch for ‘RoguePlanet’ Zero-Day",
+        "fonte": "Securityweek.com",
+        "autor": "Ionut Arghire",
+        "data": "2026-06-17",
+        "url": "https://www.securityweek.com/microsoft-working-on-patch-for-rogueplanet-zero-day/",
+        "resumo": "The public PoC code exploits a race condition in Microsoft Defender to spawn a command prompt with System privileges. The post Microsoft Working on Patch for ‘RoguePlanet’ Zero-Day appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2025/10/Windows-10.jpeg"
     },
     {
-        "titulo": "Europe wants to limit its reliance on foreign tech – but funding is limited and the proposed rules are weak",
-        "fonte": "The Conversation Africa",
-        "autor": "Johan Linåker, Adjunct Assistant Professor in Computer Science, Lund University",
-        "data": "2026-06-16",
-        "url": "https://theconversation.com/europe-wants-to-limit-its-reliance-on-foreign-tech-but-funding-is-limited-and-the-proposed-rules-are-weak-285084",
-        "resumo": "Europe has now published its plans to secure its ‘tech sovereignty.",
-        "imagem": "https://images.theconversation.com/files/741659/original/file-20260613-71-blffyd.jpg?ixlib=rb-4.1.0&rect=0%2C606%2C8573%2C4286&q=45&auto=format&w=1356&h=668&fit=crop"
+        "titulo": "EdTech Faces a Cybersecurity Crisis: Data Breaches Surge",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-06-17",
+        "url": "https://securityaffairs.com/193777/data-breach/edtech-faces-a-cybersecurity-crisis-data-breaches-surge.html",
+        "resumo": "EdTech firms face rising cyberattacks as ShinyHunters and FulcrumSec target schools, exposing sensitive data and disrupting services. Resecurity (USA) warns the education technology (EdTech) sector has become a prime target for cybercriminals, as attacks agai…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/06/EdTech-Faces-image.jpeg"
     },
     {
-        "titulo": "Anthropic navigates unprecedented White House request as Commerce Department orders global AI model suspension",
+        "titulo": "Anthropic’s Mythos model raises global security concerns as FT sounds the alarm",
         "fonte": "Crypto Briefing",
         "autor": "Editorial Team",
-        "data": "2026-06-16",
-        "url": "https://cryptobriefing.com/anthropic-white-house-export-controls-ai-models/",
-        "resumo": "The directive sets a precedent for retroactive AI export controls, impacting global collaboration and potentially altering AI market dynamics. The post Anthropic navigates unprecedented White House request as Commerce Department orders global AI model suspens…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/16071539/https-upload-wikimedia-org-wikipedia-commons-d-d8-dario-amod-8-800x420.jpeg"
+        "data": "2026-06-17",
+        "url": "https://cryptobriefing.com/anthropic-mythos-model-global-security-concerns/",
+        "resumo": "The emergence of AI models like Mythos could destabilize global cybersecurity, prompting urgent reevaluation of digital defense strategies. The post Anthropic’s Mythos model raises global security concerns as FT sounds the alarm appeared first on Crypto Brief…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/17044952/anthropic-opens-milan-office-six-cities-in-one-year-6-800x420.jpeg"
     },
     {
-        "titulo": "Chainguard, JPMorgan, BNY Team Up to Secure Open Source from AI Threats",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Kevin Poireault",
-        "data": "2026-06-16",
-        "url": "https://www.infosecurity-magazine.com/news/chainguard-bny-open-source-athena/",
-        "resumo": "Athena is a new an industry coalition to fix the vulnerabilities frontier AI models find before attackers can exploit them",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/27d581d4-02a5-4396-b8e4-7058f3ecacf2.jpg"
-    },
-    {
-        "titulo": "webanalyzer-security 3.0.0",
+        "titulo": "meok-eu-cra-mcp added to PyPI",
         "fonte": "Pypi.org",
-        "autor": "hi@c4softwarestudio.com",
-        "data": "2026-06-16",
-        "url": "https://pypi.org/project/webanalyzer-security/",
-        "resumo": "Enterprise Domain Security &amp; OSINT Analysis Platform",
+        "autor": "hello@meok.ai",
+        "data": "2026-06-17",
+        "url": "https://pypi.org/project/meok-eu-cra-mcp/",
+        "resumo": "EU Cyber Resilience Act (CRA, Regulation (EU) 2024/2847) compliance MCP server. 4 tools, 11 tests. Annex I essential cybersecurity requirements, vulnerability handling, SBOM, conformity assessment, NIS2 crosswalk. By MEOK AI Labs.",
         "imagem": "https://pypi.org/static/images/twitter.abaf4b19.webp"
     },
     {
-        "titulo": "CVE-2026-20262: CISCO Catalyst SD-WAN Flaw Under Active Targeted Exploitation",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-06-16",
-        "url": "https://securityaffairs.com/193693/security/cve-2026-20262-cisco-catalyst-sd-wan-flaw-under-active-targeted-exploitation.html",
-        "resumo": "Cisco warned that CVE-2026-20262, a Catalyst SD-WAN Manager vulnerability allowing arbitrary file writes, is being actively exploited. Cisco confirmed active exploitation of CVE-2026-20262, an arbitrary file write vulnerability affecting Catalyst SD-WAN Manag…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2014/07/cisco-building.jpg"
+        "titulo": "meok-eu-cra-mcp 0.1.0",
+        "fonte": "Pypi.org",
+        "autor": "hello@meok.ai",
+        "data": "2026-06-17",
+        "url": "https://pypi.org/project/meok-eu-cra-mcp/0.1.0/",
+        "resumo": "EU Cyber Resilience Act (CRA, Regulation (EU) 2024/2847) compliance MCP server. 4 tools, 11 tests. Annex I essential cybersecurity requirements, vulnerability handling, SBOM, conformity assessment, NIS2 crosswalk. By MEOK AI Labs.",
+        "imagem": ""
     },
     {
-        "titulo": "Best of Android Fax Apps: Top 5 Secure Picks for 2026",
-        "fonte": "HackRead",
-        "autor": "Owais Sultan",
-        "data": "2026-06-16",
-        "url": "https://hackread.com/best-of-android-fax-apps-5-secure-picks-2026/",
-        "resumo": "Discover the best of Android fax apps to send and receive secure documents on the go. Compare Municorn Fax App, Fax.Plus, and other top Android tools.",
-        "imagem": "https://hackread.com/wp-content/uploads/2026/06/best-of-android-fax-apps-5-secure-picks-2026.jpg"
+        "titulo": "Avoiding the auto-fail under cyber essentials’ new rules",
+        "fonte": "TechRadar",
+        "autor": "Robert Kehoe",
+        "data": "2026-06-17",
+        "url": "https://www.techradar.com/pro/avoiding-the-auto-fail-under-cyber-essentials-new-rules",
+        "resumo": "Cyber Essentials update introduces auto-fail rules, forcing faster patching and full cloud accountability",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-2560-80.jpg"
     },
     {
-        "titulo": "CISA warns of another cPanel plugin flaw exploited in attacks",
+        "titulo": "Microsoft working on Defender patch for RoguePlanet zero-day",
         "fonte": "BleepingComputer",
         "autor": "Sergiu Gatlan",
-        "data": "2026-06-16",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. government agencies three days to secure their servers against an actively exploited vulnerability (CVE-2026-54420) in the LiteSpeed cPanel user-end plugin. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/16/cPanel.jpg"
+        "data": "2026-06-17",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
+        "resumo": "Microsoft confirmed that it&#x27;s working on a security patch for a Defender zero-day vulnerability named &quot;RoguePlanet,&quot; disclosed one week ago. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/17/Microsoft-Defender.jpg"
     },
     {
-        "titulo": "SoftBank and OpenAI launch “Patching as a Service” to defend Japan’s critical infrastructure",
-        "fonte": "The Next Web",
-        "autor": "Ana Maria Constantin",
-        "data": "2026-06-16",
-        "url": "https://thenextweb.com/news/softbank-openai-patching-as-a-service-japan/",
-        "resumo": "SoftBank and OpenAI are moving into cyber defence. The two said on Tuesday they are launching “Patching as a Service,” a security product built on OpenAI’s technology, to shield the companies behind Japan’s critical infrastructure from a rising wave of cybera…",
-        "imagem": "https://media.thenextweb.com/2026/04/softbank-battery-factory-sharp-sakai-ai-data-centres-1.avif"
-    },
-    {
-        "titulo": "Cisco discloses second exploited SD-WAN vulnerability in two weeks (CVE-2026-20262)",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-06-16",
-        "url": "https://www.helpnetsecurity.com/2026/06/16/cisco-sd-wan-cve-2026-20262-exploited/",
-        "resumo": "Cisco has revealed another Catalyst SD-WAN Manager vulnerability (CVE-2026-20262) that its Product Security Incident Response Team observed being exploited by attackers. But the associated security advisory also states that “the vulnerability was found during…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/01/23130953/cisco-1500-1.webp"
-    },
-    {
-        "titulo": "Radware Unveils AI Xploit Shield to Help Organizations Protect First and Patch Safely",
+        "titulo": "Atos joins CrowdStrike’s Project QuiltWorks to advance sovereign AI adoption and secure frontier AI risk",
         "fonte": "GlobeNewswire",
-        "autor": "Radware Ltd.",
-        "data": "2026-06-16",
-        "url": "https://www.globenewswire.com/news-release/2026/06/16/3312357/8980/en/Radware-Unveils-AI-Xploit-Shield-to-Help-Organizations-Protect-First-and-Patch-Safely.html",
-        "resumo": "Radware Unveils AI Xploit Shield to Help Organizations Protect First and Patch Safely ...",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/651773cc-1089-4fbc-a964-892c3bc5a551"
+        "autor": "Atos International",
+        "data": "2026-06-17",
+        "url": "https://www.globenewswire.com/news-release/2026/06/17/3313212/0/en/Atos-joins-CrowdStrike-s-Project-QuiltWorks-to-advance-sovereign-AI-adoption-and-secure-frontier-AI-risk.html",
+        "resumo": "Atos joins CrowdStrike’s Project QuiltWorks to advance sovereign AI adoption and secure frontier AI risk...",
+        "imagem": "https://ml-eu.globenewswire.com/Resource/Download/1347e127-f9d4-42fc-b5ce-3fe7dd5b0dcb"
     },
     {
-        "titulo": "China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-06-16",
-        "url": "https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html",
-        "resumo": "Cybersecurity researchers have flagged two previously undocumented Windows variants of what was believed to be a Linux-only backdoor called SprySOCKS. &quot;The Windows variants discovered are internally marked as WIN_DRV and WIN_PLUS,&quot; ESET said in a report shar…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxym2hiE83TbiNOrIeH3s4QCF0wQ_BYcSYPKlC3m9LGSuJnH7UNicbkgIk4kQTbpPiLRul9dSxQ180XW656_9NPtlqWoTGivTamDVl24ZfUQFPgUleakZq6aZI5kZqszNz3GpVyJQnPiXis_kjlMqAxKBxGKZsDdAvb-rX20fxszdd0pCKRO9GqK3CSu-p/s1700-e365/chinese-proxy.png"
-    },
-    {
-        "titulo": "Tech Coalition ‘Athena’ Targets OSS Vulnerabilities Ahead of Disclosure",
+        "titulo": "Chrome and Firefox Updated to Patch Critical, High-Severity Vulnerabilities",
         "fonte": "Securityweek.com",
         "autor": "Ionut Arghire",
-        "data": "2026-06-16",
-        "url": "https://www.securityweek.com/tech-coalition-athena-targets-oss-vulnerabilities-ahead-of-disclosure/",
-        "resumo": "Over two dozen organizations built a shared platform to triage vulnerabilities, fix them, and secure the software before patches arrive. The post Tech Coalition ‘Athena’ Targets OSS Vulnerabilities Ahead of Disclosure appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/02/open-source.jpeg"
+        "data": "2026-06-17",
+        "url": "https://www.securityweek.com/chrome-and-firefox-updated-to-patch-critical-high-severity-vulnerabilities/",
+        "resumo": "The browser updates address multiple memory safety bugs that could potentially lead to remote code execution. The post Chrome and Firefox Updated to Patch Critical, High-Severity Vulnerabilities appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2025/01/Chrome-Firefox.jpeg"
     },
     {
-        "titulo": "Critical Fortinet FortiSandbox flaws now exploited in attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-06-16",
-        "url": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
-        "resumo": "Attackers are now exploiting several critical vulnerabilities in Fortinet&#x27;s FortiSandbox cyber threat detection platform, according to threat intelligence company Defused. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/12/29/Fortinet.jpg"
+        "titulo": "Sheriff Flags Cybersecurity Report in Nancy Guthrie Disappearance as Wrench Attack Theory Gains Attention",
+        "fonte": "Ibtimes.com.au",
+        "autor": "Joe Green",
+        "data": "2026-06-17",
+        "url": "https://www.ibtimes.com.au/nancy-guthrie-disappearance-cybersecurity-report-1870750",
+        "resumo": "The investigation into Nancy Guthrie&#x27;s disappearance continues, with a new cybersecurity report highlighting potential crime patterns. Authorities pursue leads, balancing public interest with investigative integrity.",
+        "imagem": "https://d.ibtimes.com.au/en/full/1891962/nancy-guthrie.jpg"
+    },
+    {
+        "titulo": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-06-17",
+        "url": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitatio…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisS71RYEu_1Sts3eqAt878RoohdLgeUzyTbRQgFqUYQcwBxzKB1ug6AvOBRXqZvWcChuLVj6KFbIt7nO9RX66ZJZyMEIADvIXe-fdNDrQIYXGtcMt3StDzbK4lF9ZLpF9pqCR1cGEa4lLkFFRVqIyD5w0JqwhVgr-C9ga7pZ6IQWpFmbsojcsGePBnzsGW/s1700-e365/joomla.jpg"
+    },
+    {
+        "titulo": "Microsoft AntiSSRF open-source library helps block server-side request forgery",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-06-17",
+        "url": "https://www.helpnetsecurity.com/2026/06/17/microsoft-antissrf-open-source-library/",
+        "resumo": "AntiSSRF is an open-source code library from Microsoft that validates URLs and network connections to reduce server-side request forgery (SSRF) risks in web applications. It supports .NET and Node.js applications and is distributed under the MIT license. The …",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/13105715/microsoft-antissrf-1500.webp"
+    },
+    {
+        "titulo": "Risky Business #842 -- Anthropic needs an adult in the C suite",
+        "fonte": "Risky.biz",
+        "autor": "James Wilson",
+        "data": "2026-06-17",
+        "url": "https://risky.biz/RB842/",
+        "resumo": "On this week’s show Patrick Gray, Adam Boileau and James Wilson discuss the week’s cybersecurity news. They cover: Anthropic’s Fable 5 and Mythos 5 get nuked by the US government four days after launch “because security” Why “guardrails” …",
+        "imagem": "https://risky.biz/static/img/RB-OG-Social.jpg"
+    },
+    {
+        "titulo": "Access control flaw left FIFA World Cup match streams wide-open",
+        "fonte": "iTnews",
+        "autor": "",
+        "data": "2026-06-17",
+        "url": "https://www.itnews.com.au/news/access-control-flaw-left-fifa-world-cup-match-streams-wide-open-626688",
+        "resumo": "Researcher could&#x27;ve controlled cameras and captured live stream keys.",
+        "imagem": "https://i.nextmedia.com.au/News/FIFA_streaming_panel_overview.png"
     }
 ]
