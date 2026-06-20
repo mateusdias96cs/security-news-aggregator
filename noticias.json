@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Schneider Electric EasyLogic T150 and Saitel DP",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-06-18",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-04",
-        "resumo": "View CSAF Summary Successful exploitation this vulnerability could allow an attacker to gain unauthorized access to sensitive files The following versions of Schneider Electric EasyLogic T150 and Saitel DP are affected: Schneider Electric EasyLogic T…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Schneider Electric Easergy, EcoStruxture, PowerLogic, and Saitel Products",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-06-18",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07",
-        "resumo": "View CSAF Summary Schneider Electric is aware of vulnerabilities in its PowerChute™ Serial Shutdown product. The [PowerChute Serial Shutdown](https://www.se.com/ww/en/product-range/137943580-powerchute-serial-shutdown/#products) product is a UPS management so…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Mitsubishi Electric Co.&#x27;s MELSEC iQ-F Series FX5-ENET/IP Ethernet Module",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-06-18",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-06",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial-of-service (DoS) condition in the affected product by continuously sending a large number of communication packets to the Ethernet port of the prod…",
-        "imagem": ""
-    },
-    {
-        "titulo": "AVer PTC cameras",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-06-18",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-01",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow arbitrary code execution. The following versions of AVer PTC cameras are affected: PTC500S vers:all/* (CVE-2026-40624) PTC115 vers:all/* (CVE-2026-40624) PT…",
-        "imagem": ""
-    },
-    {
-        "titulo": "AzeoTech DAQFactory",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-06-18",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-02",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to upload malicious .ctl files that may lead to arbitrary code execution. The following versions of AzeoTech DAQFactory are affected: DAQFactory &lt;t…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Mitsubishi Electric MELSEC iQ-F Series",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-06-18",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-05",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial-of-service (DoS) condition in the affected product by rapidly establishing a large number of TCP connections to it, resulting in an inconsistency i…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Hostile States Behind 75% of Cyber-Attacks on UK Critical Infrastructure, NCSC Warns",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Kevin Poireault",
-        "data": "2026-06-18",
-        "url": "https://www.infosecurity-magazine.com/news/hostile-states-cni-75-percent-ncsc/",
-        "resumo": "Richard Horne, the NCSC CEO, said three-quarters of cyber-attacks targeting UK critical infrastructure came from nation-state actors",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/bd6dd37b-74d8-4a39-96e5-36bd7c910257.jpg"
-    },
-    {
-        "titulo": "Dream raises $260M at $3B valuation to build AI-powered cybersecurity for critical infrastructure",
+        "titulo": "Early users retain access to Anthropic’s Mythos AI despite US government shutdown order",
         "fonte": "Crypto Briefing",
         "autor": "Editorial Team",
-        "data": "2026-06-18",
-        "url": "https://cryptobriefing.com/dream-raises-260m-3b-valuation/",
-        "resumo": "Dream&#x27;s AI cybersecurity pivot highlights the growing importance of safeguarding critical infrastructure, amid evolving geopolitical tech risks. The post Dream raises $260M at $3B valuation to build AI-powered cybersecurity for critical infrastructure appeare…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/18044855/nuclear-generation-constellation-energy-800x420.jpeg"
+        "data": "2026-06-19",
+        "url": "https://cryptobriefing.com/anthropic-mythos-ai-us-shutdown-order/",
+        "resumo": "The swift regulatory action highlights the tension between innovation and security, potentially hindering AI advancements and investor confidence. The post Early users retain access to Anthropic’s Mythos AI despite US government shutdown order appeared first …",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/19053154/slack-leased-the-building-at-500-howard-st-in-downtown-san-f-2-800x420.jpeg"
     },
     {
-        "titulo": "Athena Coalition Brings Coordinated Defence to Open Source Security",
-        "fonte": "InfoQ.com",
-        "autor": "Matt Saunders",
-        "data": "2026-06-18",
-        "url": "https://www.infoq.com/news/2026/06/athena-security-coalition/",
-        "resumo": "Cybersecurity firm Chainguard has announced the launch of Athena, an industry coalition to use artificial intelligence to find and fix vulnerabilities in widely-used open-source software before attackers can exploit them. The coalition focuses on libraries, c…",
-        "imagem": "https://res.infoq.com/news/2026/06/athena-security-coalition/en/headerimage/generatedHeaderImage-1781653362933.jpg"
+        "titulo": "US curbs Anthropic AI access, raising global concerns",
+        "fonte": "DW (English)",
+        "autor": "Nik Martin",
+        "data": "2026-06-19",
+        "url": "https://www.dw.com/en/trumps-anthropic-ban-sets-a-risky-precedent-for-ai/a-77577694",
+        "resumo": "The Trump administration has restricted foreign access to Anthropic&#x27;s latest AI models over security fears, forcing a global shutdown. Could the row hurt the Claude-maker&#x27;s IPO plans and set a far-reaching precedent? Silicon Valley executives and global polic…",
+        "imagem": "https://static.dw.com/image/77592246_6.jpg"
     },
     {
-        "titulo": "Kodak Admits Data Breach After ShinyHunters Hack Claims",
-        "fonte": "Securityweek.com",
-        "autor": "Eduard Kovacs",
-        "data": "2026-06-18",
-        "url": "https://www.securityweek.com/kodak-admits-data-breach-after-shinyhunters-hack-claims/",
-        "resumo": "Kodak told SecurityWeek it believes there is no threat to its systems or operations as a result of the cybersecurity incident. The post Kodak Admits Data Breach After ShinyHunters Hack Claims appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+        "titulo": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-06-19",
+        "url": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html",
+        "resumo": "Salesforce has revealed that it disabled the Klue Battlecards app integration within its platform in response to a security incident impacting the competitive intelligence company on June 11, 2026. To that end, organizations will be unable to connect to Sale…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI7q_DYP5ExkNSDd8Y10rOfYtTIs6sNXxdE6X55nsvKVllZZ14U9mqUY23nzGGPhXx515NVPMI5Btp4MM5qUx0V1lKDvURtKBICbblPPYuN1VSCN12-J0RmpBKCSM0veZc_9hNt1TnD9PdkNTQi8x337E9cPmLn7uyHOPw0_HshcbxKqVnmgOAjJHOOw6g/s1700-e365/salesforce.jpg"
     },
     {
-        "titulo": "ENISA meets Anthropic amid US export controls on AI models",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-06-18",
-        "url": "https://cryptobriefing.com/enisa-anthropic-us-ai-export-controls/",
-        "resumo": "The US export controls on AI models highlight the EU&#x27;s vulnerability and intensify calls for technological sovereignty and self-reliance. The post ENISA meets Anthropic amid US export controls on AI models appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/18004447/anthropic-shuts-down-its-most-powerful-ai-models-for-everyon-800x420.jpeg"
+        "titulo": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-06-19",
+        "url": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html",
+        "resumo": "Apple has updated its Beats Studio Buds wireless earbuds to patch a high-severity vulnerability that could be exploited by nearby hackers to eavesdrop on users. The vulnerability, tracked as CVE-2025-20701 (CVSS score: 8.8), refers to a case of incorrect aut…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvlr0i44MWKmuHJKLS1V3uKSMse7tVsRFBTpyD1VGLaRZy24qq4bIb6K3Db1s0eKtuh3TkLCYFWn6eJ-uEkVnkO9CbPHHUlD3j8Z-SEFFr9A1X6ndd-fQd6UKTAyXO0DhUI2ZTe1sc4Eq7NLoGUyjQUkKmhHp99QGz3WTcFAnucAnfiioLDFiGaTbI8Wvx/s1700-e365/apple.jpg"
     },
     {
-        "titulo": "AWS Continuum brings AI models to code vulnerability management",
-        "fonte": "Help Net Security",
-        "autor": "Sinisa Markovic",
-        "data": "2026-06-18",
-        "url": "https://www.helpnetsecurity.com/2026/06/18/aws-continuum-for-code-vulnerabilities/",
-        "resumo": "AWS Continuum for code vulnerabilities, a system built to handle a vulnerability across its lifecycle, from discovery through to a fix, is now available in gated preview. It reasons over a customer’s environment, confirms which findings are real, and works to…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/18062330/aws-1500.webp"
+        "titulo": "The Moonshot - by Anton Leicht - Threading the Needle",
+        "fonte": "Antonleicht.me",
+        "autor": "ianchanning",
+        "data": "2026-06-19",
+        "url": "https://writing.antonleicht.me/p/the-moonshot",
+        "resumo": "Real sovereign AI has never been tried",
+        "imagem": "https://substackcdn.com/image/fetch/$s_!IGNE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F426a2dc6-9171-45c4-bbe9-15fc754374d7_1484x1060.png"
     },
     {
-        "titulo": "EU Commission confirms meeting with Anthropic on cybersecurity",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-06-18",
-        "url": "https://cryptobriefing.com/eu-enisa-anthropic-cybersecurity-meeting/",
-        "resumo": "The EU&#x27;s pursuit of Anthropic&#x27;s AI model highlights the complex interplay between cybersecurity needs and international tech regulations. The post EU Commission confirms meeting with Anthropic on cybersecurity appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/17220657/home-anthropic-15-800x420.jpeg"
+        "titulo": "24 Billion Stolen Credentials Exposed in Massive Data Leak",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-06-19",
+        "url": "https://securityaffairs.com/193864/security/24-billion-stolen-credentials-exposed-in-massive-data-leak.html",
+        "resumo": "24 Billion Records Left Open Online: Passwords, Emails, and Everything Else Exposed database with 24 Billion records revealed stolen credentials from infostealers, Telegram channels, and breach collections, risking account takeovers. Cybernews researchers fou…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/06/image-50.png"
     },
     {
-        "titulo": "The Behavior of Coordinated SSH Brute Force Attacks over the last three months [Guest Diary], (Wed, Jun 17th)",
-        "fonte": "Sans.edu",
-        "autor": "",
-        "data": "2026-06-18",
-        "url": "https://isc.sans.edu/diary/33086",
-        "resumo": "The Behavior of Coordinated SSH Brute Force Attacks over the last three months [Guest Diary], Author: Guy Bruneau",
-        "imagem": "https://isc.sans.edu/diaryimages/images/Adam_Nason_pic1.png"
+        "titulo": "The week that changed AI: Inside Trump’s Anthropic crackdown, and how a phone call from Amazon CEO Andy Jassy triggered the chaos",
+        "fonte": "Fortune",
+        "autor": "Sebastian Herrera, Beatrice Nolan",
+        "data": "2026-06-19",
+        "url": "https://fortune.com/2026/06/18/inside-trump-anthropic-mythos-crackdown-ai-regulation-amazon-andy-jassy-phone-call/",
+        "resumo": "The fight over Anthropic’s Mythos model is rewriting the rules of AI regulation, with consequences for the trillion dollar startup, the AI industry, and global security.",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2282033342-e1781821453221.jpg?resize=1200,600"
     },
     {
-        "titulo": "Smashing Security podcast #472: AI gets hacked, and BitLocker gets bypassed",
-        "fonte": "Graham Cluley Security News",
-        "autor": "Graham Cluley",
-        "data": "2026-06-17",
-        "url": "https://grahamcluley.com/smashing-security-podcast-472/",
-        "resumo": "What if your AI coding assistant could be tricked into stealing your own company&#x27;s secrets - by reading a single booby-trapped bug report? No phishing email. No malware. No password ever stolen. Just an AI doing exactly what it was told. Meanwhile, someone t…",
-        "imagem": "https://grahamcluley.com/wp-content/uploads/2026/06/ss-episode-472.webp"
+        "titulo": "By early 2026, several European insurers had already revised urban unrest risk models for the third time in less than fourteen months…",
+        "fonte": "Activistpost.com",
+        "autor": "Editor",
+        "data": "2026-06-19",
+        "url": "https://www.activistpost.com/by-early-2026-several-european-insurers-had-already-revised-urban-unrest-risk-models-for-the-third-time-in-less-than-fourteen-months/",
+        "resumo": "In October 2024, logistics operators working near the Port of Rotterdam began documenting a sequence of irregularities that, at the time, appeared too mundane to attract serious public attention. Several cargo manifests connected to industrial electronics and…",
+        "imagem": "https://www.activistpost.com/wp-content/uploads/2026/06/istockphoto-168266695-612x612-1.jpg"
     },
     {
-        "titulo": "AWS launches Continuum to find and fix code vulnerabilities at machine speed",
+        "titulo": "Dream raises $260M for its sovereign AI and cybersecurity tools",
         "fonte": "SiliconANGLE News",
-        "autor": "Duncan Riley",
-        "data": "2026-06-17",
-        "url": "https://siliconangle.com/2026/06/17/aws-launches-continuum-find-fix-code-vulnerabilities-machine-speed/",
-        "resumo": "Amazon Web Services Inc. today launched AWS Continuum, a security platform that uses frontier artificial intelligence models to discover, validate and remediate software vulnerabilities across a customer’s environment with limited human intervention. Continuu…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/AWS-1.png"
+        "autor": "Maria Deutscher",
+        "data": "2026-06-18",
+        "url": "https://siliconangle.com/2026/06/18/dream-raises-260m-sovereign-ai-cybersecurity-tools/",
+        "resumo": "Dream Security Ltd., a developer of artificial intelligence and cybersecurity software for governments, today announced that it has raised $260 million in funding. Bicycle Capital and Group 11 jointly led the investment. They were joined by several other inst…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Dream.png"
     },
     {
-        "titulo": "CISA now has full Mythos Preview access, people familiar say",
+        "titulo": "Langflow flaw: Unsecured AI tools create new attack surface",
+        "fonte": "Digital Journal",
+        "autor": "Dr. Tim Sandle",
+        "data": "2026-06-18",
+        "url": "https://www.digitaljournal.com/article/langflow-flaw-unsecured-ai-tools-create-new-attack-surface/",
+        "resumo": "Langflow, widely used for building and orchestrating large language model (LLM) workflows, contains a defect in its file upload functionality that allows an attacker to write files to arbitrary locations on a target system. The post Langflow flaw: Unsecured A…",
+        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2021/06/cybersecurity-hackers-GDPR.jpg"
+    },
+    {
+        "titulo": "Planned NDAA amendment would codify CISA’s role in cyber vulnerability program",
         "fonte": "Nextgov",
         "autor": "David DiMolfetta",
-        "data": "2026-06-17",
-        "url": "https://www.nextgov.com/cybersecurity/2026/06/cisa-now-has-full-mythos-preview-access-people-familiar-say/414260/",
-        "resumo": "The cyberdefense agency received access around a week ago, but the White House has not yet set clear parameters for how the agency should use the model.",
-        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/06/17/061726MythosNG/open-graph.jpg"
+        "data": "2026-06-18",
+        "url": "https://www.nextgov.com/cybersecurity/2026/06/planned-ndaa-amendment-would-codify-cisas-role-cyber-vulnerability-program/414286/",
+        "resumo": "The measure, expected as a proposed add-on to the government’s 2027 defense package, targets a bedrock cybersecurity vulnerability-tracking system after a contracting fiasco last year.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/06/18/GettyImages_2280265259/open-graph.jpg"
     },
     {
-        "titulo": "US awards $500M to Nvidia-backed SandboxAQ to discover new chipmaking materials",
+        "titulo": "White House collaborates with Anthropic to set AI security rules",
         "fonte": "Crypto Briefing",
         "autor": "Editorial Team",
-        "data": "2026-06-17",
-        "url": "https://cryptobriefing.com/us-500m-sandboxaq-chipmaking-materials/",
-        "resumo": "The grant to SandboxAQ highlights a strategic shift towards securing semiconductor supply chains by reducing reliance on foreign materials. The post US awards $500M to Nvidia-backed SandboxAQ to discover new chipmaking materials appeared first on Crypto Brief…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/17164536/sandboxaq-logo-tqi-800x420.jpeg"
+        "data": "2026-06-18",
+        "url": "https://cryptobriefing.com/white-house-anthropic-ai-security-framework/",
+        "resumo": "The collaboration sets a precedent for AI security oversight, potentially influencing regulatory frameworks and industry standards globally. The post White House collaborates with Anthropic to set AI security rules appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/18154506/the-white-house-21.gif"
     },
     {
-        "titulo": "Beyond the benchmark: Advancing security at AI speed",
-        "fonte": "Microsoft.com",
-        "autor": "Taesoo Kim",
-        "data": "2026-06-17",
-        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/",
-        "resumo": "Read how Microsoft Security has advanced its agentic vulnerability detection system, codename MDASH, integrating into real-world workflows across Windows, Azure, and identity systems. The post Beyond the benchmark: Advancing security at AI speed appeared fir…",
-        "imagem": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/MS_Actional-Insights_Malware-ransomware-2.jpg"
+        "titulo": "IndAI sovereignty, a fable: Frontier AI is now a geopolitical tool — India must leverage its market accessibility",
+        "fonte": "The Times of India",
+        "autor": "Nikhil Pahwa",
+        "data": "2026-06-18",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/indai-sovereignty-a-fable-frontier-ai-is-now-a-geopolitical-tool-india-must-leverage-its-market-accessibility/articleshow/131839495.cms",
+        "resumo": "India faces a critical juncture as powerful AI models are restricted by the US. This move impacts the security of India&#x27;s digital infrastructure. The nation must prioritize developing its own AI capabilities and ensuring sovereign control over its technology.",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-462256,resizemode-75,msid-131839495/opinion/et-commentary/indai-sovereignty-a-fable-frontier-ai-is-now-a-geopolitical-tool-india-must-leverage-its-market-accessibility.jpg"
     },
     {
-        "titulo": "Anthropic Employees Accuse Trump Administration of Targeting Them",
-        "fonte": "Slashdot.org",
-        "autor": "BeauHD",
-        "data": "2026-06-17",
-        "url": "https://yro.slashdot.org/story/26/06/17/1737246/anthropic-employees-accuse-trump-administration-of-targeting-them",
-        "resumo": "Anthropic employees say they remain confused and increasingly convinced that the Trump administration is singling out the company after officials gave it less than 90 minutes to disable Fable 5 and Mythos 5 over alleged national security concerns. Cybersecuri…",
-        "imagem": "https://a.fsdn.com/sd/topics/government_64.png"
+        "titulo": "AI Is Finding Bugs Faster Than Enterprises Can Patch — Here&#x27;s What Data Security Teams Should Do",
+        "fonte": "Dzone.com",
+        "autor": "Priyanka Neelakrishnan",
+        "data": "2026-06-18",
+        "url": "https://dzone.com/articles/ai-bugs-faster-than-patching",
+        "resumo": "I have spent the better part of a decade building data protection products for global enterprises. Cloud DLP, CASB, SSPM, Behavior Threats, AI Access Security, ISPM, etc. The kinds of things that sit between a user, an agent, or an application and the sensiti…",
+        "imagem": "https://dz2cdn1.dzone.com/storage/article-thumb/19050600-thumb.jpg"
+    },
+    {
+        "titulo": "Apple Just Updated The Beats Studio Buds To Fix A Major Bluetooth Security Flaw",
+        "fonte": "BGR",
+        "autor": "staff@bgr.com (Gaurav Shukla)",
+        "data": "2026-06-18",
+        "url": "https://www.bgr.com/2197259/apple-updated-beats-studio-buds-to-fix-bluetooth-security-flaw/",
+        "resumo": "Apple&#x27;s firmware update 1B211 fixes a major Beats Studio Buds vulnerability that allowed unauthorized hackers to tap into the earbud microphones.",
+        "imagem": "https://www.bgr.com/img/gallery/apple-just-updated-the-beats-studio-buds-to-fix-a-major-bluetooth-security-flaw/l-intro-1781794274.jpg"
+    },
+    {
+        "titulo": "The Growth of Vulnerability Management: The Rise of Agentic AI Pentesting",
+        "fonte": "Linuxjournal.com",
+        "autor": "Malana VanTyler",
+        "data": "2026-06-18",
+        "url": "https://www.linuxjournal.com/content/growth-vulnerability-management-rise-agentic-ai-pentesting",
+        "resumo": "by Malana VanTyler Cybersecurity shifts fast. Manual penetration tests remain valuable, especially for nuanced attack paths and business-logic issues, but they are expensive, point-in-time, and difficult to run continuously. By the time a report is deliv…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Anthropic faces US export controls, pulls Fable 5 and Mythos 5 offline for all users",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-06-18",
+        "url": "https://cryptobriefing.com/anthropic-fable-5-us-export-controls/",
+        "resumo": "The directive sets a precedent for software-level export controls, impacting global AI access and complicating compliance for decentralized platforms. The post Anthropic faces US export controls, pulls Fable 5 and Mythos 5 offline for all users appeared first…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/18101559/home-anthropic-17-800x420.jpeg"
+    },
+    {
+        "titulo": "Who decides when AI is too dangerous?",
+        "fonte": "The Verge",
+        "autor": "Nilay Patel",
+        "data": "2026-06-18",
+        "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+        "resumo": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the T…",
+        "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+        "titulo": "Look Left Marketing Wins The Hacker News Award for Best Cybersecurity Marketing Agency",
+        "fonte": "GlobeNewswire",
+        "autor": "Look Left Marketing LLC",
+        "data": "2026-06-18",
+        "url": "https://www.globenewswire.com/news-release/2026/06/18/3314257/0/en/Look-Left-Marketing-Wins-The-Hacker-News-Award-for-Best-Cybersecurity-Marketing-Agency.html",
+        "resumo": "SAN FRANCISCO, June 18, 2026 (GLOBE NEWSWIRE) -- Look Left Marketing , a B2B enterprise infrastructure marketing and public relations agency, today announced that it has been named a winner in the Best Cybersecurity Marketing Agency category in the inaugural…",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/c0e060ef-6795-43bd-bf6e-e3a02ea3f701"
+    },
+    {
+        "titulo": "Microsoft working on a fix for RoguePlanet, a flaw that grants full PC control",
+        "fonte": "Malwarebytes.com",
+        "autor": "Pieter Arntz",
+        "data": "2026-06-18",
+        "url": "https://www.malwarebytes.com/blog/news/2026/06/microsoft-working-on-a-fix-for-rogueplanet-a-flaw-that-grants-full-pc-control",
+        "resumo": "Microsoft says it&#x27;s working on a fix for an unpatched Defender vulnerability that can give attackers the highest level of access on Windows.",
+        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/06/ms-defender-logo.jpg"
     }
 ]
