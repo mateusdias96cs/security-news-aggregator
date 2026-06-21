@@ -1,5 +1,167 @@
 [
     {
+        "titulo": "Aikido Code Audit",
+        "fonte": "Aikido.dev",
+        "autor": "Shaun Brown",
+        "data": "2026-06-19",
+        "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
+        "resumo": "SAST catches patterns. Code Audit reasons through your code like an attacker would, finding the logic flaws that only show up after you ship.",
+        "imagem": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a314e9d380e584d32a2d7d1_OG_How-Intel-Works_16x9.jpg"
+    },
+    {
+        "titulo": "Info-Tech LIVE 2026 Draws Thousands of CIOs to Las Vegas to Tackle AI Execution and Enterprise Value",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-06-19",
+        "url": "https://www.prnewswire.com/news-releases/info-tech-live-2026-draws-thousands-of-cios-to-las-vegas-to-tackle-ai-execution-and-enterprise-value-302805615.html",
+        "resumo": "Info-Tech LIVE 2026 brought together thousands of CIOs and senior IT leaders at the Bellagio Hotel and Casino from June 9 to 11 to explore how agentic AI is reshaping enterprise technology, cybersecurity, data, operating models, and IT leadership. Across keyn…",
+        "imagem": "https://mma.prnewswire.com/media/2997739/Info_Tech_Research_Group_Info_Tech_LIVE_2026_Draws_Thousands_of.jpg?p=facebook"
+    },
+    {
+        "titulo": "Info-Tech LIVE 2026 Draws Thousands of CIOs to Las Vegas to Tackle AI Execution and Enterprise Value",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-06-19",
+        "url": "https://www.prnewswire.com/news-releases/info-tech-live-2026-draws-thousands-of-cios-to-las-vegas-to-tackle-ai-execution-and-enterprise-value-852624905.html",
+        "resumo": "Info-Tech LIVE 2026 brought together thousands of CIOs and senior IT leaders at the Bellagio Hotel and Casino from June 9 to 11 to explore how agentic AI is reshaping enterprise technology, cybersecurity, data, operating models, and IT leadership. Across keyn…",
+        "imagem": "https://mma.prnewswire.com/media/2997739/Info_Tech_Research_Group_Info_Tech_LIVE_2026_Draws_Thousands_of.jpg?p=facebook"
+    },
+    {
+        "titulo": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-06-19",
+        "url": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
+        "resumo": "The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryptor. This mature p…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjNWtaK_WkFnKnaLTIwg043i_I6YVi5XuZGVzh30SGeK-iutwr6t2Ed3S6Qk0V9uykYueDD5WETtQ4sW1QwG4jldPXW_IM2woF1Dk1PXcNxbwv6sgoprJ6m8pmogRc0vblucj3nf6Tox_ptxOX9bib6iO4bV4SXVVFoVzUGw0C8cSiJEvq3nDgUZ36G9xp/s1700-e365/edr-killer.jpg"
+    },
+    {
+        "titulo": "CBSE to NEET: Centre asks ministries to boost defences against AI threats",
+        "fonte": "The Times of India",
+        "autor": "Anubhuti Vishnoi",
+        "data": "2026-06-19",
+        "url": "https://economictimes.indiatimes.com/news/india/cbse-to-neet-centre-asks-ministries-to-boost-defences-against-ai-threats/articleshow/131865152.cms",
+        "resumo": "Following recent cyberattacks, the Indian government is urging all ministries to bolster defenses against AI-driven threats. A nationwide AI-powered vulnerability assessment is underway for all government digital assets. Ministries must review their cybersecu…",
+        "imagem": "https://img.etimg.com/thumb/msid-131865440,width-1200,height-630,imgsize-117916,overlay-economictimes/articleshow.jpg"
+    },
+    {
+        "titulo": "Analysis of Reported Credential Compromise of FortiGate Devices",
+        "fonte": "Fortinet.com",
+        "autor": "Carl Windsor",
+        "data": "2026-06-19",
+        "url": "https://www.fortinet.com/blog/psirt-blogs/analysis-of-reported-credential-compromise-of-fortigate-devices",
+        "resumo": "What you need to know about “FortiBleed”…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Seven iPhone models compromised by major security breach... is yours on the list?",
+        "fonte": "Dailymail.com",
+        "autor": "Stacy Liberatore",
+        "data": "2026-06-19",
+        "url": "https://www.dailymail.com/sciencetech/article-15914579/iphone-security-breach-bootrom-vulnerability.html",
+        "resumo": "Cybersecurity researchers have uncovered a new security flaw affecting millions of iPhones. Experts warn the weakness could allow attackers to gain deep access to affected devices.",
+        "imagem": "https://i.dailymail.com/1s/2026/06/19/18/105547579-0-Under_Apple_s_classification_system_products_are_considered_vint-a-9_1781888450196.jpg"
+    },
+    {
+        "titulo": "The Korean Telecom Giant At the Center of Anthropic&#x27;s Mythos Controversy",
+        "fonte": "Slashdot.org",
+        "autor": "BeauHD",
+        "data": "2026-06-19",
+        "url": "https://slashdot.org/story/26/06/19/007201/the-korean-telecom-giant-at-the-center-of-anthropics-mythos-controversy",
+        "resumo": "An anonymous reader quotes a report from Wired: The Trump administration&#x27;s move to impose export controls on Anthropic&#x27;s most powerful AI technology followed a spat over the company granting South Korean telecom giant SK Telecom access to its Claude Mythos mo…",
+        "imagem": "https://a.fsdn.com/sd/topics/ai_64.png"
+    },
+    {
+        "titulo": "Cybersecurity Marketing Spend Benchmark Report 2026: Trust Emerges as the New Competitive Currency as Global Cybersecurity Market Eyes USD 375–400 Billion by 2030 | Vereigen Media",
+        "fonte": "GlobeNewswire",
+        "autor": "Vereigen Media LLC",
+        "data": "2026-06-19",
+        "url": "https://www.globenewswire.com/news-release/2026/06/19/3314821/0/en/Cybersecurity-Marketing-Spend-Benchmark-Report-2026-Trust-Emerges-as-the-New-Competitive-Currency-as-Global-Cybersecurity-Market-Eyes-USD-375-400-Billion-by-2030-Vereigen-Media.html",
+        "resumo": "Marketing Strategies Shift from Awareness-Led to Intelligence-Driven Trust Creation; AI-Powered Targeting and ABM Set to Define 2026 Marketing Benchmarks...",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/9181697f-a001-4ff9-99be-41bf746af76a"
+    },
+    {
+        "titulo": "Why cybersecurity needs hybrid AI, not platform consolidation",
+        "fonte": "TechRadar",
+        "autor": "Jonathan Wright",
+        "data": "2026-06-19",
+        "url": "https://www.techradar.com/pro/why-cybersecurity-needs-hybrid-ai-not-platform-consolidation",
+        "resumo": "Artificial intelligence has transformed enterprise cybersecurity into a machine-speed quickdraw contest.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg"
+    },
+    {
+        "titulo": "AI Update, June 19, 2026: AI News and Views From the Past Week",
+        "fonte": "MarketingProfs.com",
+        "autor": "",
+        "data": "2026-06-19",
+        "url": "https://www.marketingprofs.com/opinions/2026/55065/ai-update-june-19-2026-ai-news-and-views-from-the-past-week",
+        "resumo": "Catch up on select AI news and developments since Friday, June 12. Stay in the know. Read the full article at MarketingProfs",
+        "imagem": "https://i.marketingprofs.com/assets/images/articles/lg/MP-AI-Update-lg.jpg"
+    },
+    {
+        "titulo": "Midnight Madness: The Government Rushes Lawful Access Bill Through the House Without Debate or a Recorded Vote",
+        "fonte": "Michaelgeist.ca",
+        "autor": "Michael Geist",
+        "data": "2026-06-19",
+        "url": "https://www.michaelgeist.ca/2026/06/midnight-madness/",
+        "resumo": "Bill C-22, the lawful access bill, passed the House of Commons yesterday with the government invoking a single motion to approve several bills without further debate or individual votes as MPs raced for home for the summer. Bill C-22 will now head to the Sena…",
+        "imagem": "https://www.michaelgeist.ca/wp-content/uploads/2026/06/Gagged_by_Privacy.jpeg"
+    },
+    {
+        "titulo": "Get Ready for a Catastrophic Leak That Reveals All Your Messages and Search History",
+        "fonte": "Futurism",
+        "autor": "Maggie Harrison Dupré",
+        "data": "2026-06-19",
+        "url": "https://futurism.com/artificial-intelligence/catastrophic-leak-all-messages-search-history",
+        "resumo": "&quot;Companies are getting hacked every single day.&quot; The post Get Ready for a Catastrophic Leak That Reveals All Your Messages and Search History appeared first on Futurism.",
+        "imagem": "https://futurism.com/wp-content/uploads/2026/06/catastrophic-leak-all-messages-search-history.jpg?quality=85&w=1200"
+    },
+    {
+        "titulo": "AWS Unveils &#x27;Continuum,&#x27; an AI-Powered Vulnerability Management Platform",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Kevin Poireault",
+        "data": "2026-06-19",
+        "url": "https://www.infosecurity-magazine.com/news/aws-continuum-ai-vulnerability/",
+        "resumo": "Working with frontier AI models, this new platform aims to help discovering, prioritizing, validating and remediating code vulnerabilities",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/1ef8a728-b3a8-48fb-b3b4-a1806e3d4c5a.jpg"
+    },
+    {
+        "titulo": "SK Telecom named as the Korean carrier at the center of Anthropic&#x27;s Mythos export controls controversy — access was revoked days before White House took Mythos and Fable 5 offline for all foreign",
+        "fonte": "Toms Hardware UK",
+        "autor": "Luke James",
+        "data": "2026-06-19",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-telecom-named-as-the-korean-carrier-at-the-center-of-anthropics-mythos-export-controls",
+        "resumo": "Wired has identified SK Telecom as the South Korean telecom company whose access to Anthropic&#x27;s Claude Mythos model the White House ordered revoked over alleged ties to China.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/vwNWCxU9yN5AxeG7Tfut3B-1920-80.jpg"
+    },
+    {
+        "titulo": "Unauthenticated RCE in Splunk Enterprise under active attack (CVE-2026-20253)",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-06-19",
+        "url": "https://www.helpnetsecurity.com/2026/06/19/splunk-vulnerability-cve-2026-20253-exploited/",
+        "resumo": "CISA has added CVE-2026-20253, a critical, remotely exploitable vulnerability in Splunk Enterprise, to its Known Exploited Vulnerabilities catalog, and ordered US federal civilian agencies to apply mitigations by June 21, 2026. In-the-wild exploitation has al…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/07/18164309/splunk-1500-2.webp"
+    },
+    {
+        "titulo": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-06-19",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
+        "resumo": "CISA has urged U.S. federal agencies to secure their systems by Sunday against a critical Splunk Enterprise vulnerability that is being exploited in attacks. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/19/splunk_headpic.jpg"
+    },
+    {
+        "titulo": "U.S. CISA adds Splunk Enterprise flaw to its Known Exploited Vulnerabilities catalog and urges agencies to fix it by Sunday",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-06-19",
+        "url": "https://securityaffairs.com/193888/security/u-s-cisa-adds-splunk-enterprise-flaw-to-its-known-exploited-vulnerabilities-catalog-and-urges-agencies-to-fix-it-by-sunday.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Splunk Enterprise flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Splunk Enterprise flaw, tracked as CVE-2026-20253…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
         "titulo": "Early users retain access to Anthropic’s Mythos AI despite US government shutdown order",
         "fonte": "Crypto Briefing",
         "autor": "Editorial Team",
@@ -16,167 +178,5 @@
         "url": "https://www.dw.com/en/trumps-anthropic-ban-sets-a-risky-precedent-for-ai/a-77577694",
         "resumo": "The Trump administration has restricted foreign access to Anthropic&#x27;s latest AI models over security fears, forcing a global shutdown. Could the row hurt the Claude-maker&#x27;s IPO plans and set a far-reaching precedent? Silicon Valley executives and global polic…",
         "imagem": "https://static.dw.com/image/77592246_6.jpg"
-    },
-    {
-        "titulo": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-06-19",
-        "url": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html",
-        "resumo": "Salesforce has revealed that it disabled the Klue Battlecards app integration within its platform in response to a security incident impacting the competitive intelligence company on June 11, 2026. To that end, organizations will be unable to connect to Sale…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI7q_DYP5ExkNSDd8Y10rOfYtTIs6sNXxdE6X55nsvKVllZZ14U9mqUY23nzGGPhXx515NVPMI5Btp4MM5qUx0V1lKDvURtKBICbblPPYuN1VSCN12-J0RmpBKCSM0veZc_9hNt1TnD9PdkNTQi8x337E9cPmLn7uyHOPw0_HshcbxKqVnmgOAjJHOOw6g/s1700-e365/salesforce.jpg"
-    },
-    {
-        "titulo": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-06-19",
-        "url": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html",
-        "resumo": "Apple has updated its Beats Studio Buds wireless earbuds to patch a high-severity vulnerability that could be exploited by nearby hackers to eavesdrop on users. The vulnerability, tracked as CVE-2025-20701 (CVSS score: 8.8), refers to a case of incorrect aut…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvlr0i44MWKmuHJKLS1V3uKSMse7tVsRFBTpyD1VGLaRZy24qq4bIb6K3Db1s0eKtuh3TkLCYFWn6eJ-uEkVnkO9CbPHHUlD3j8Z-SEFFr9A1X6ndd-fQd6UKTAyXO0DhUI2ZTe1sc4Eq7NLoGUyjQUkKmhHp99QGz3WTcFAnucAnfiioLDFiGaTbI8Wvx/s1700-e365/apple.jpg"
-    },
-    {
-        "titulo": "The Moonshot - by Anton Leicht - Threading the Needle",
-        "fonte": "Antonleicht.me",
-        "autor": "ianchanning",
-        "data": "2026-06-19",
-        "url": "https://writing.antonleicht.me/p/the-moonshot",
-        "resumo": "Real sovereign AI has never been tried",
-        "imagem": "https://substackcdn.com/image/fetch/$s_!IGNE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F426a2dc6-9171-45c4-bbe9-15fc754374d7_1484x1060.png"
-    },
-    {
-        "titulo": "24 Billion Stolen Credentials Exposed in Massive Data Leak",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-06-19",
-        "url": "https://securityaffairs.com/193864/security/24-billion-stolen-credentials-exposed-in-massive-data-leak.html",
-        "resumo": "24 Billion Records Left Open Online: Passwords, Emails, and Everything Else Exposed database with 24 Billion records revealed stolen credentials from infostealers, Telegram channels, and breach collections, risking account takeovers. Cybernews researchers fou…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/06/image-50.png"
-    },
-    {
-        "titulo": "The week that changed AI: Inside Trump’s Anthropic crackdown, and how a phone call from Amazon CEO Andy Jassy triggered the chaos",
-        "fonte": "Fortune",
-        "autor": "Sebastian Herrera, Beatrice Nolan",
-        "data": "2026-06-19",
-        "url": "https://fortune.com/2026/06/18/inside-trump-anthropic-mythos-crackdown-ai-regulation-amazon-andy-jassy-phone-call/",
-        "resumo": "The fight over Anthropic’s Mythos model is rewriting the rules of AI regulation, with consequences for the trillion dollar startup, the AI industry, and global security.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2282033342-e1781821453221.jpg?resize=1200,600"
-    },
-    {
-        "titulo": "By early 2026, several European insurers had already revised urban unrest risk models for the third time in less than fourteen months…",
-        "fonte": "Activistpost.com",
-        "autor": "Editor",
-        "data": "2026-06-19",
-        "url": "https://www.activistpost.com/by-early-2026-several-european-insurers-had-already-revised-urban-unrest-risk-models-for-the-third-time-in-less-than-fourteen-months/",
-        "resumo": "In October 2024, logistics operators working near the Port of Rotterdam began documenting a sequence of irregularities that, at the time, appeared too mundane to attract serious public attention. Several cargo manifests connected to industrial electronics and…",
-        "imagem": "https://www.activistpost.com/wp-content/uploads/2026/06/istockphoto-168266695-612x612-1.jpg"
-    },
-    {
-        "titulo": "Dream raises $260M for its sovereign AI and cybersecurity tools",
-        "fonte": "SiliconANGLE News",
-        "autor": "Maria Deutscher",
-        "data": "2026-06-18",
-        "url": "https://siliconangle.com/2026/06/18/dream-raises-260m-sovereign-ai-cybersecurity-tools/",
-        "resumo": "Dream Security Ltd., a developer of artificial intelligence and cybersecurity software for governments, today announced that it has raised $260 million in funding. Bicycle Capital and Group 11 jointly led the investment. They were joined by several other inst…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Dream.png"
-    },
-    {
-        "titulo": "Langflow flaw: Unsecured AI tools create new attack surface",
-        "fonte": "Digital Journal",
-        "autor": "Dr. Tim Sandle",
-        "data": "2026-06-18",
-        "url": "https://www.digitaljournal.com/article/langflow-flaw-unsecured-ai-tools-create-new-attack-surface/",
-        "resumo": "Langflow, widely used for building and orchestrating large language model (LLM) workflows, contains a defect in its file upload functionality that allows an attacker to write files to arbitrary locations on a target system. The post Langflow flaw: Unsecured A…",
-        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2021/06/cybersecurity-hackers-GDPR.jpg"
-    },
-    {
-        "titulo": "Planned NDAA amendment would codify CISA’s role in cyber vulnerability program",
-        "fonte": "Nextgov",
-        "autor": "David DiMolfetta",
-        "data": "2026-06-18",
-        "url": "https://www.nextgov.com/cybersecurity/2026/06/planned-ndaa-amendment-would-codify-cisas-role-cyber-vulnerability-program/414286/",
-        "resumo": "The measure, expected as a proposed add-on to the government’s 2027 defense package, targets a bedrock cybersecurity vulnerability-tracking system after a contracting fiasco last year.",
-        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/06/18/GettyImages_2280265259/open-graph.jpg"
-    },
-    {
-        "titulo": "White House collaborates with Anthropic to set AI security rules",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-06-18",
-        "url": "https://cryptobriefing.com/white-house-anthropic-ai-security-framework/",
-        "resumo": "The collaboration sets a precedent for AI security oversight, potentially influencing regulatory frameworks and industry standards globally. The post White House collaborates with Anthropic to set AI security rules appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/18154506/the-white-house-21.gif"
-    },
-    {
-        "titulo": "IndAI sovereignty, a fable: Frontier AI is now a geopolitical tool — India must leverage its market accessibility",
-        "fonte": "The Times of India",
-        "autor": "Nikhil Pahwa",
-        "data": "2026-06-18",
-        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/indai-sovereignty-a-fable-frontier-ai-is-now-a-geopolitical-tool-india-must-leverage-its-market-accessibility/articleshow/131839495.cms",
-        "resumo": "India faces a critical juncture as powerful AI models are restricted by the US. This move impacts the security of India&#x27;s digital infrastructure. The nation must prioritize developing its own AI capabilities and ensuring sovereign control over its technology.",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-462256,resizemode-75,msid-131839495/opinion/et-commentary/indai-sovereignty-a-fable-frontier-ai-is-now-a-geopolitical-tool-india-must-leverage-its-market-accessibility.jpg"
-    },
-    {
-        "titulo": "AI Is Finding Bugs Faster Than Enterprises Can Patch — Here&#x27;s What Data Security Teams Should Do",
-        "fonte": "Dzone.com",
-        "autor": "Priyanka Neelakrishnan",
-        "data": "2026-06-18",
-        "url": "https://dzone.com/articles/ai-bugs-faster-than-patching",
-        "resumo": "I have spent the better part of a decade building data protection products for global enterprises. Cloud DLP, CASB, SSPM, Behavior Threats, AI Access Security, ISPM, etc. The kinds of things that sit between a user, an agent, or an application and the sensiti…",
-        "imagem": "https://dz2cdn1.dzone.com/storage/article-thumb/19050600-thumb.jpg"
-    },
-    {
-        "titulo": "Apple Just Updated The Beats Studio Buds To Fix A Major Bluetooth Security Flaw",
-        "fonte": "BGR",
-        "autor": "staff@bgr.com (Gaurav Shukla)",
-        "data": "2026-06-18",
-        "url": "https://www.bgr.com/2197259/apple-updated-beats-studio-buds-to-fix-bluetooth-security-flaw/",
-        "resumo": "Apple&#x27;s firmware update 1B211 fixes a major Beats Studio Buds vulnerability that allowed unauthorized hackers to tap into the earbud microphones.",
-        "imagem": "https://www.bgr.com/img/gallery/apple-just-updated-the-beats-studio-buds-to-fix-a-major-bluetooth-security-flaw/l-intro-1781794274.jpg"
-    },
-    {
-        "titulo": "The Growth of Vulnerability Management: The Rise of Agentic AI Pentesting",
-        "fonte": "Linuxjournal.com",
-        "autor": "Malana VanTyler",
-        "data": "2026-06-18",
-        "url": "https://www.linuxjournal.com/content/growth-vulnerability-management-rise-agentic-ai-pentesting",
-        "resumo": "by Malana VanTyler Cybersecurity shifts fast. Manual penetration tests remain valuable, especially for nuanced attack paths and business-logic issues, but they are expensive, point-in-time, and difficult to run continuously. By the time a report is deliv…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Anthropic faces US export controls, pulls Fable 5 and Mythos 5 offline for all users",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-06-18",
-        "url": "https://cryptobriefing.com/anthropic-fable-5-us-export-controls/",
-        "resumo": "The directive sets a precedent for software-level export controls, impacting global AI access and complicating compliance for decentralized platforms. The post Anthropic faces US export controls, pulls Fable 5 and Mythos 5 offline for all users appeared first…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/18101559/home-anthropic-17-800x420.jpeg"
-    },
-    {
-        "titulo": "Who decides when AI is too dangerous?",
-        "fonte": "The Verge",
-        "autor": "Nilay Patel",
-        "data": "2026-06-18",
-        "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
-        "resumo": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the T…",
-        "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-        "titulo": "Look Left Marketing Wins The Hacker News Award for Best Cybersecurity Marketing Agency",
-        "fonte": "GlobeNewswire",
-        "autor": "Look Left Marketing LLC",
-        "data": "2026-06-18",
-        "url": "https://www.globenewswire.com/news-release/2026/06/18/3314257/0/en/Look-Left-Marketing-Wins-The-Hacker-News-Award-for-Best-Cybersecurity-Marketing-Agency.html",
-        "resumo": "SAN FRANCISCO, June 18, 2026 (GLOBE NEWSWIRE) -- Look Left Marketing , a B2B enterprise infrastructure marketing and public relations agency, today announced that it has been named a winner in the Best Cybersecurity Marketing Agency category in the inaugural…",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/c0e060ef-6795-43bd-bf6e-e3a02ea3f701"
-    },
-    {
-        "titulo": "Microsoft working on a fix for RoguePlanet, a flaw that grants full PC control",
-        "fonte": "Malwarebytes.com",
-        "autor": "Pieter Arntz",
-        "data": "2026-06-18",
-        "url": "https://www.malwarebytes.com/blog/news/2026/06/microsoft-working-on-a-fix-for-rogueplanet-a-flaw-that-grants-full-pc-control",
-        "resumo": "Microsoft says it&#x27;s working on a fix for an unpatched Defender vulnerability that can give attackers the highest level of access on Windows.",
-        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/06/ms-defender-logo.jpg"
     }
 ]
