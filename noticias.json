@@ -1,5 +1,50 @@
 [
     {
+        "titulo": "Booz Allen warns of sleeper agent risks from Chinese AI models",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-06-21",
+        "url": "https://cryptobriefing.com/booz-allen-chinese-ai-sleeper-agent-risks/",
+        "resumo": "The report highlights AI models as a new supply chain risk, potentially reshaping tech competition and regulatory landscapes globally. The post Booz Allen warns of sleeper agent risks from Chinese AI models appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/21061746/booz-allen-warns-chinese-ai-models-insert-vulnerabilities-in-800x420.jpeg"
+    },
+    {
+        "titulo": "Week in review: 74k Fortinet firewall credentials stolen, Splunk Enterprise RCE under active attack",
+        "fonte": "Help Net Security",
+        "autor": "Help Net Security",
+        "data": "2026-06-21",
+        "url": "https://www.helpnetsecurity.com/2026/06/21/week-in-review-74k-fortinet-firewall-credentials-stolen-splunk-enterprise-rce-under-active-attack/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: A hardware neural network backdoor that hides in plain sight Deep learning systems on edge devices often rely on third-party-designed FPGAs and ASICs for perform…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124834/cybersecurity-week-review-3-1500.webp"
+    },
+    {
+        "titulo": "CVE-2025-68624: Cross-Tenant Authentication Bypass by Spoofing in N-able Mail Assure",
+        "fonte": "Seclists.org",
+        "autor": "",
+        "data": "2026-06-21",
+        "url": "https://seclists.org/fulldisclosure/2026/Jun/10",
+        "resumo": "Posted by Alessandro Bertoldi BCS via Fulldisclosure on Jun 20CVE-2025-68624: Cross-Tenant Authentication Bypass by Spoofing in N-able Mail Assure CVE ID: CVE-2025-68624 Status: DISPUTED CWE: CWE-290 (Authentication Bypass by Spoofing) Affected Product: N-ab…",
+        "imagem": "https://seclists.org/images/fulldisclosure-img.png"
+    },
+    {
+        "titulo": "Cybersecurity firm IDs unfixable security flaw that affects seven iPhone models — is yours on the list?",
+        "fonte": "New York Post",
+        "autor": "Ben Cost",
+        "data": "2026-06-20",
+        "url": "https://nypost.com/2026/06/20/tech/unfixable-security-flaw-affects-seven-iphone-models/",
+        "resumo": "There&#x27;s no cure for this digital virus.",
+        "imagem": "https://nypost.com/wp-content/uploads/sites/2/2026/06/newspress-collage-qjz6mlrz2-1781976622812.jpg?quality=75&strip=all&1781962259&w=1200"
+    },
+    {
+        "titulo": "Anthropic faces US export ban after national security concerns over AI model vulnerability",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-06-20",
+        "url": "https://cryptobriefing.com/anthropic-us-export-ban-national-security/",
+        "resumo": "The US export ban on Anthropic&#x27;s AI models signals increased regulatory risks for AI firms, impacting global operations and investor confidence. The post Anthropic faces US export ban after national security concerns over AI model vulnerability appeared first…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/20083812/dario-amodei-1-800x420.jpeg"
+    },
+    {
         "titulo": "Aikido Code Audit",
         "fonte": "Aikido.dev",
         "autor": "Shaun Brown",
@@ -133,50 +178,5 @@
         "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-telecom-named-as-the-korean-carrier-at-the-center-of-anthropics-mythos-export-controls",
         "resumo": "Wired has identified SK Telecom as the South Korean telecom company whose access to Anthropic&#x27;s Claude Mythos model the White House ordered revoked over alleged ties to China.",
         "imagem": "https://cdn.mos.cms.futurecdn.net/vwNWCxU9yN5AxeG7Tfut3B-1920-80.jpg"
-    },
-    {
-        "titulo": "Unauthenticated RCE in Splunk Enterprise under active attack (CVE-2026-20253)",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-06-19",
-        "url": "https://www.helpnetsecurity.com/2026/06/19/splunk-vulnerability-cve-2026-20253-exploited/",
-        "resumo": "CISA has added CVE-2026-20253, a critical, remotely exploitable vulnerability in Splunk Enterprise, to its Known Exploited Vulnerabilities catalog, and ordered US federal civilian agencies to apply mitigations by June 21, 2026. In-the-wild exploitation has al…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/07/18164309/splunk-1500-2.webp"
-    },
-    {
-        "titulo": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-06-19",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
-        "resumo": "CISA has urged U.S. federal agencies to secure their systems by Sunday against a critical Splunk Enterprise vulnerability that is being exploited in attacks. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/19/splunk_headpic.jpg"
-    },
-    {
-        "titulo": "U.S. CISA adds Splunk Enterprise flaw to its Known Exploited Vulnerabilities catalog and urges agencies to fix it by Sunday",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-06-19",
-        "url": "https://securityaffairs.com/193888/security/u-s-cisa-adds-splunk-enterprise-flaw-to-its-known-exploited-vulnerabilities-catalog-and-urges-agencies-to-fix-it-by-sunday.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Splunk Enterprise flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Splunk Enterprise flaw, tracked as CVE-2026-20253…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "Early users retain access to Anthropic’s Mythos AI despite US government shutdown order",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-06-19",
-        "url": "https://cryptobriefing.com/anthropic-mythos-ai-us-shutdown-order/",
-        "resumo": "The swift regulatory action highlights the tension between innovation and security, potentially hindering AI advancements and investor confidence. The post Early users retain access to Anthropic’s Mythos AI despite US government shutdown order appeared first …",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/19053154/slack-leased-the-building-at-500-howard-st-in-downtown-san-f-2-800x420.jpeg"
-    },
-    {
-        "titulo": "US curbs Anthropic AI access, raising global concerns",
-        "fonte": "DW (English)",
-        "autor": "Nik Martin",
-        "data": "2026-06-19",
-        "url": "https://www.dw.com/en/trumps-anthropic-ban-sets-a-risky-precedent-for-ai/a-77577694",
-        "resumo": "The Trump administration has restricted foreign access to Anthropic&#x27;s latest AI models over security fears, forcing a global shutdown. Could the row hurt the Claude-maker&#x27;s IPO plans and set a far-reaching precedent? Silicon Valley executives and global polic…",
-        "imagem": "https://static.dw.com/image/77592246_6.jpg"
     }
 ]
