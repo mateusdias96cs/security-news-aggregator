@@ -1,5 +1,86 @@
 [
     {
+        "titulo": "Salesforce Disables Klue Integration After OAuth Token Theft Hits Customer Data",
+        "fonte": "HackRead",
+        "autor": "Deeba Ahmed",
+        "data": "2026-06-22",
+        "url": "https://hackread.com/salesforce-disables-klue-integration-oauth-token-data/",
+        "resumo": "Icarus extortion group used a legacy Klue Battlecards credential to bypass security and steal bulk Salesforce records from affected companies.",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/06/salesforce-disables-klue-integration-oauth-token-data.png"
+    },
+    {
+        "titulo": "⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-06-22",
+        "url": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
+        "resumo": "It’s Monday again. This week’s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking for way too much control. The annoying part is how little…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWTle5JU3HMoV1yUzXt6nAYO-EtyfOp22bJldi9N4fwakWmzrwwjBKfQNkprStB3B9K5HyUchIUCoNpGs-Kn2EHwClO7xJOV-qZQeDKFllNQrZ-TYq6OiikJkwi65NdfFcR7XhMTuIpmwSdoglwRcMcI43rLGB1B462ZXhd7nkh-q-FNnpPKoeUyL7bUqs/s1700-e365/recap-main.gif"
+    },
+    {
+        "titulo": "Q2 2026 emerges as most-hacked quarter on record with 83 incidents",
+        "fonte": "Cointelegraph",
+        "autor": "Zoltan Vardai",
+        "data": "2026-06-22",
+        "url": "https://cointelegraph.com/news/q2-2026-most-hacked-quarter-record-83-incidents",
+        "resumo": "The second quarter of 2026 saw 83 cybersecurity incidents that cost the industry $755 million, with bridge exploits emerging as the most costly attack vector.",
+        "imagem": "https://s3-images.ctmedia.io/media/article-covers/hi-scammers-demand-crypto-from-stranded-ships.jpg"
+    },
+    {
+        "titulo": "The MSSP market Is shifting from tooling to outcomes",
+        "fonte": "ComputerWeekly.com",
+        "autor": "Harry Hetherington-Field, partner account manager at Distology",
+        "data": "2026-06-22",
+        "url": "https://www.computerweekly.com/microscope/opinion/The-MSSP-market-Is-shifting-from-tooling-to-outcomes",
+        "resumo": "The demands on managed security players are evolving notes Distology&#x27;s Harry Hetherington-Field",
+        "imagem": "https://www.computerweekly.com/visuals/LeMagIT/hero_article/network-security-adobe-hero.jpg"
+    },
+    {
+        "titulo": "Who pays when you gate cyber-capable AI models?",
+        "fonte": "Help Net Security",
+        "autor": "Mirko Zorz",
+        "data": "2026-06-22",
+        "url": "https://www.helpnetsecurity.com/2026/06/22/jaya-baloo-aisle-gating-cyber-capable-ai-models/",
+        "resumo": "In this interview with Help Net Security, Jaya Baloo, COO &amp; CISO at Aisle, examines the debate over restricting access to cyber-capable AI models. She lays out the strongest argument for gating these tools, then explains where it breaks down for security team…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/19100055/jaya_baloo-2-aisle.webp"
+    },
+    {
+        "titulo": "Inspira Enterprise Expands to Full Suite of ServiceNow Platform Capabilities",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-06-22",
+        "url": "https://www.prnewswire.com/news-releases/inspira-enterprise-expands-to-full-suite-of-servicenow-platform-capabilities-302805216.html",
+        "resumo": "Proven AI Control Tower (AICT) deployment—including 50+ onboarded AI agents and measurable productivity gains—positions Inspira as a full-spectrum ServiceNow partner across AI, cybersecurity, and identity. MUMBAI, India and DUBAI, UAE and SANTA CLARA, Calif. …",
+        "imagem": "https://mma.prnewswire.com/media/2997186/Inspira_Servicenow_Logo.jpg?p=facebook"
+    },
+    {
+        "titulo": "Inspira Enterprise Expands to Full Suite of ServiceNow Platform Capabilities",
+        "fonte": "PR Newswire UK",
+        "autor": "",
+        "data": "2026-06-22",
+        "url": "https://www.prnewswire.co.uk/news-releases/inspira-enterprise-expands-to-full-suite-of-servicenow-platform-capabilities-302805219.html",
+        "resumo": "Proven AI Control Tower (AICT) deployment—including 50+ onboarded AI agents and measurable productivity gains—positions Inspira as a full-spectrum ServiceNow partner across AI, cybersecurity, and identity. MUMBAI, India and DUBAI, UAE and SANTA CLARA, Calif. …",
+        "imagem": "https://mma.prnewswire.com/media/2997186/Inspira_ServiceNow_Logo.jpg?p=facebook"
+    },
+    {
+        "titulo": "Anthropic&#x27;s Mythos mess just keeps getting more complicated",
+        "fonte": "Theregister.com",
+        "autor": "Brandon Vigliarolo",
+        "data": "2026-06-21",
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/22/anthropics-mythos-mess-just-keeps-getting-more-complicated/5258577",
+        "resumo": "It sure seems a lot like the Trump administration is just bulling Anthropic for not acquiescing to its every move, and its the cybersecurity community who&#x27;ll suffer for it",
+        "imagem": "https://image.theregister.com/5254625.jpg?imageId=5254625&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+        "titulo": "Security Affairs newsletter Round 582 by Pierluigi Paganini – INTERNATIONAL EDITION",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-06-21",
+        "url": "https://securityaffairs.com/193953/uncategorized/security-affairs-newsletter-round-582-by-pierluigi-paganini-international-edition.html",
+        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Inside G…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
+    },
+    {
         "titulo": "Booz Allen warns of sleeper agent risks from Chinese AI models",
         "fonte": "Crypto Briefing",
         "autor": "Editorial Team",
@@ -97,86 +178,5 @@
         "url": "https://www.fortinet.com/blog/psirt-blogs/analysis-of-reported-credential-compromise-of-fortigate-devices",
         "resumo": "What you need to know about “FortiBleed”…",
         "imagem": ""
-    },
-    {
-        "titulo": "Seven iPhone models compromised by major security breach... is yours on the list?",
-        "fonte": "Dailymail.com",
-        "autor": "Stacy Liberatore",
-        "data": "2026-06-19",
-        "url": "https://www.dailymail.com/sciencetech/article-15914579/iphone-security-breach-bootrom-vulnerability.html",
-        "resumo": "Cybersecurity researchers have uncovered a new security flaw affecting millions of iPhones. Experts warn the weakness could allow attackers to gain deep access to affected devices.",
-        "imagem": "https://i.dailymail.com/1s/2026/06/19/18/105547579-0-Under_Apple_s_classification_system_products_are_considered_vint-a-9_1781888450196.jpg"
-    },
-    {
-        "titulo": "The Korean Telecom Giant At the Center of Anthropic&#x27;s Mythos Controversy",
-        "fonte": "Slashdot.org",
-        "autor": "BeauHD",
-        "data": "2026-06-19",
-        "url": "https://slashdot.org/story/26/06/19/007201/the-korean-telecom-giant-at-the-center-of-anthropics-mythos-controversy",
-        "resumo": "An anonymous reader quotes a report from Wired: The Trump administration&#x27;s move to impose export controls on Anthropic&#x27;s most powerful AI technology followed a spat over the company granting South Korean telecom giant SK Telecom access to its Claude Mythos mo…",
-        "imagem": "https://a.fsdn.com/sd/topics/ai_64.png"
-    },
-    {
-        "titulo": "Cybersecurity Marketing Spend Benchmark Report 2026: Trust Emerges as the New Competitive Currency as Global Cybersecurity Market Eyes USD 375–400 Billion by 2030 | Vereigen Media",
-        "fonte": "GlobeNewswire",
-        "autor": "Vereigen Media LLC",
-        "data": "2026-06-19",
-        "url": "https://www.globenewswire.com/news-release/2026/06/19/3314821/0/en/Cybersecurity-Marketing-Spend-Benchmark-Report-2026-Trust-Emerges-as-the-New-Competitive-Currency-as-Global-Cybersecurity-Market-Eyes-USD-375-400-Billion-by-2030-Vereigen-Media.html",
-        "resumo": "Marketing Strategies Shift from Awareness-Led to Intelligence-Driven Trust Creation; AI-Powered Targeting and ABM Set to Define 2026 Marketing Benchmarks...",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/9181697f-a001-4ff9-99be-41bf746af76a"
-    },
-    {
-        "titulo": "Why cybersecurity needs hybrid AI, not platform consolidation",
-        "fonte": "TechRadar",
-        "autor": "Jonathan Wright",
-        "data": "2026-06-19",
-        "url": "https://www.techradar.com/pro/why-cybersecurity-needs-hybrid-ai-not-platform-consolidation",
-        "resumo": "Artificial intelligence has transformed enterprise cybersecurity into a machine-speed quickdraw contest.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg"
-    },
-    {
-        "titulo": "AI Update, June 19, 2026: AI News and Views From the Past Week",
-        "fonte": "MarketingProfs.com",
-        "autor": "",
-        "data": "2026-06-19",
-        "url": "https://www.marketingprofs.com/opinions/2026/55065/ai-update-june-19-2026-ai-news-and-views-from-the-past-week",
-        "resumo": "Catch up on select AI news and developments since Friday, June 12. Stay in the know. Read the full article at MarketingProfs",
-        "imagem": "https://i.marketingprofs.com/assets/images/articles/lg/MP-AI-Update-lg.jpg"
-    },
-    {
-        "titulo": "Midnight Madness: The Government Rushes Lawful Access Bill Through the House Without Debate or a Recorded Vote",
-        "fonte": "Michaelgeist.ca",
-        "autor": "Michael Geist",
-        "data": "2026-06-19",
-        "url": "https://www.michaelgeist.ca/2026/06/midnight-madness/",
-        "resumo": "Bill C-22, the lawful access bill, passed the House of Commons yesterday with the government invoking a single motion to approve several bills without further debate or individual votes as MPs raced for home for the summer. Bill C-22 will now head to the Sena…",
-        "imagem": "https://www.michaelgeist.ca/wp-content/uploads/2026/06/Gagged_by_Privacy.jpeg"
-    },
-    {
-        "titulo": "Get Ready for a Catastrophic Leak That Reveals All Your Messages and Search History",
-        "fonte": "Futurism",
-        "autor": "Maggie Harrison Dupré",
-        "data": "2026-06-19",
-        "url": "https://futurism.com/artificial-intelligence/catastrophic-leak-all-messages-search-history",
-        "resumo": "&quot;Companies are getting hacked every single day.&quot; The post Get Ready for a Catastrophic Leak That Reveals All Your Messages and Search History appeared first on Futurism.",
-        "imagem": "https://futurism.com/wp-content/uploads/2026/06/catastrophic-leak-all-messages-search-history.jpg?quality=85&w=1200"
-    },
-    {
-        "titulo": "AWS Unveils &#x27;Continuum,&#x27; an AI-Powered Vulnerability Management Platform",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Kevin Poireault",
-        "data": "2026-06-19",
-        "url": "https://www.infosecurity-magazine.com/news/aws-continuum-ai-vulnerability/",
-        "resumo": "Working with frontier AI models, this new platform aims to help discovering, prioritizing, validating and remediating code vulnerabilities",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/1ef8a728-b3a8-48fb-b3b4-a1806e3d4c5a.jpg"
-    },
-    {
-        "titulo": "SK Telecom named as the Korean carrier at the center of Anthropic&#x27;s Mythos export controls controversy — access was revoked days before White House took Mythos and Fable 5 offline for all foreign",
-        "fonte": "Toms Hardware UK",
-        "autor": "Luke James",
-        "data": "2026-06-19",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-telecom-named-as-the-korean-carrier-at-the-center-of-anthropics-mythos-export-controls",
-        "resumo": "Wired has identified SK Telecom as the South Korean telecom company whose access to Anthropic&#x27;s Claude Mythos model the White House ordered revoked over alleged ties to China.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/vwNWCxU9yN5AxeG7Tfut3B-1920-80.jpg"
     }
 ]
