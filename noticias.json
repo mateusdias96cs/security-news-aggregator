@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "OpenAI shifts focus from vulnerability discovery to automated patch remediation",
-        "fonte": "4sysops.com",
-        "autor": "IT News",
-        "data": "2026-06-23",
-        "url": "https://4sysops.com/archives/openai-shifts-focus-from-vulnerability-discovery-to-automated-patch-remediation/",
-        "resumo": "OpenAI has expanded its Daybreak cybersecurity initiative to address the growing bottleneck in software remediation. While AI has significantly accelerated the discovery of security flaws, the manual process of fixing them often overwhelms development teams. …",
-        "imagem": "https://4sysops.com/wp-content/uploads/2026/06/openai-shifts-focus-from-vulnerability-discovery-to-automated-patch-remediation.webp"
-    },
-    {
-        "titulo": "OpenAI launches GPT-5.5-Cyber and Patch the Planet to automate vulnerability remediation",
-        "fonte": "4sysops.com",
-        "autor": "IT News",
-        "data": "2026-06-23",
-        "url": "https://4sysops.com/archives/openai-launches-gpt-5-5-cyber-and-patch-the-planet-to-automate-vulnerability-remediation/",
-        "resumo": "OpenAI has expanded its Daybreak cybersecurity initiative to address the growing bottleneck in software remediation. While AI has significantly accelerated the discovery of security flaws, the manual process of fixing them often overwhelms development teams. …",
-        "imagem": "https://4sysops.com/wp-content/uploads/2026/06/openai-shifts-focus-from-vulnerability-discovery-to-automated-patch-remediation.webp"
-    },
-    {
-        "titulo": "Federal Workers Can’t Get the White House’s App Off Their Phones",
-        "fonte": "Wired",
-        "autor": "Vittoria Elliott",
-        "data": "2026-06-23",
-        "url": "https://www.wired.com/story/story/government-workers-cant-get-the-white-houses-app-off-their-phones/",
-        "resumo": "“I deleted it as a test and it came immediately back,” says one government employee.",
-        "imagem": "https://media.wired.com/photos/6a399c80ea2c52b725f772f1/191:100/w_1280,c_limit/Politics_FederalWorkersCantGettheWhiteHouseAppOffTheirPhones_v3.jpg"
-    },
-    {
-        "titulo": "OpenAI launches GPT-5.5-Cyber and Codex Security to automate patch management",
-        "fonte": "4sysops.com",
-        "autor": "IT News",
-        "data": "2026-06-23",
-        "url": "https://4sysops.com/archives/openai-launches-gpt-5-5-cyber-and-codex-security-to-automate-patch-management/",
-        "resumo": "OpenAI has expanded its Daybreak initiative to address the growing bottleneck in software security by shifting focus from vulnerability discovery to automated patching. The centerpiece of this update is the full release of GPT-5.5-Cyber, a specialized model d…",
-        "imagem": "https://4sysops.com/wp-content/uploads/2026/06/openai-launches-gpt-5-5-cyber-and-codex-security-to-automate-patch-management.webp"
-    },
-    {
-        "titulo": "OpenAI wants AI to fix vulnerabilities, not just find them",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-06-23",
-        "url": "https://www.helpnetsecurity.com/2026/06/23/openai-expanded-daybreak-cybersecurity-initiative/",
-        "resumo": "OpenAI expanded Daybreak, its cybersecurity initiative that combines AI models, Codex Security, security researchers, maintainers, industry partners, and access controls to support vulnerability discovery and remediation. Organizations can use the initiative …",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/08084601/openai_person-1500.webp"
-    },
-    {
-        "titulo": "Taking on Mythos: OpenAI rolls out cyberdefence model Daybreak to speed up software security fixes",
-        "fonte": "The Times of India",
-        "autor": "ETtech",
-        "data": "2026-06-23",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/taking-on-mythos-openai-rolls-out-cyberdefence-model-daybreak-to-speed-up-software-security-fixes/articleshow/131930885.cms",
-        "resumo": "OpenAI has introduced Daybreak, a cybersecurity initiative focused on software vulnerability detection and remediation. The programme includes Codex Security, GPT-5.5-Cyber, Patch the Planet, and the Daybreak Cyber Partner Program. According to the company, t…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-100026,resizemode-75,msid-131930885/tech/artificial-intelligence/taking-on-mythos-openai-rolls-out-cyberdefence-model-daybreak-to-speed-up-software-security-fixes.jpg"
-    },
-    {
-        "titulo": "Five Eyes Group Issues Urgent Call to Tackle Frontier AI Threats",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Phil Muncaster",
-        "data": "2026-06-23",
-        "url": "https://www.infosecurity-magazine.com/news/five-eyes-issues-urgent-call/",
-        "resumo": "The Five Eyes Alliance has published a rare call to action for organizations facing AI threats",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/630c9993-ee58-4a44-8fae-dbcbb5433be0.jpg"
-    },
-    {
-        "titulo": "ShapedPlugin Supply Chain Attack Backdoors Pro Plugin Updates",
+        "titulo": "U.S. CISA adds Ubiquiti UniFi OS and Lantronix EDS5000 plugin flaws to its Known Exploited Vulnerabilities catalog",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
-        "data": "2026-06-23",
-        "url": "https://securityaffairs.com/194059/hacking/shapedplugin-supply-chain-attack-backdoors-pro-plugin-updates.html",
-        "resumo": "Attackers backdoored ShapedPlugin Pro updates, deploying malware that steals credentials, 2FA secrets, and grants full site access. If you installed a ShapedPlugin Pro plugin between April and June 2026 and kept it updated, your site may be compromised. Not b…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/05/DOM-based-XSS-wordpress-2.jpg"
+        "data": "2026-06-24",
+        "url": "https://securityaffairs.com/194142/security/u-s-cisa-adds-ubiquiti-unifi-os-and-lantronix-eds5000-plugin-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Ubiquiti UniFi OS and Lantronix EDS5000 flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Ubiquiti UniFi OS and Lantro…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
     },
     {
-        "titulo": "Five Eyes alliance warns frontier AI cyber threats are ‘months’ away",
-        "fonte": "The Next Web",
-        "autor": "Ana-Maria Stanciuc",
-        "data": "2026-06-23",
-        "url": "https://thenextweb.com/news/five-eyes-alliance-warns-frontier-ai-cyber-threats-are-months-away/",
-        "resumo": "The Five Eyes intelligence alliance has issued a joint warning that the next generation of artificial intelligence is poised to supercharge offensive hacking, and that the window to prepare for it is closing fast. In a coordinated statement, the agencies of t…",
-        "imagem": "https://media.thenextweb.com/2026/06/The-Five-Eyes-intelligence-alliance.avif"
+        "titulo": "Open-source AI tools for automated research, security, and codebase indexing",
+        "fonte": "4sysops.com",
+        "autor": "IT News",
+        "data": "2026-06-24",
+        "url": "https://4sysops.com/archives/open-source-ai-tools-for-automated-research-security-and-codebase-indexing/",
+        "resumo": "Dear Flow is an open-source agent harness designed to manage long-horizon tasks that may require hours or days of autonomous operation. It utilizes sub-agents, sandboxes, and memory to orchestrate complex research workflows and data pipeline automation. This …",
+        "imagem": "https://4sysops.com/wp-content/uploads/2026/06/open-source-ai-tools-for-automated-research-security-and-codebase-indexing.webp"
     },
     {
-        "titulo": "Five Eyes spooks warn AI means infosec incidents can become ‘major operational and financial crises’",
-        "fonte": "Theregister.com",
-        "autor": "Simon Sharwood",
-        "data": "2026-06-23",
-        "url": "https://www.theregister.com/security/2026/06/23/five-eyes-spooks-warn-ai-means-infosec-incidents-can-become-major-operational-and-financial-crises/5259916",
-        "resumo": "Bosses told to step up and get cybersecurity right",
-        "imagem": "https://image.theregister.com/5259928.jpg?imageId=5259928&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        "titulo": "Reid Hoffman says SpaceX is ‘not an AI company’ and xAI is a ‘complete train wreck’—and there’s room for both OpenAI and Anthropic",
+        "fonte": "Fortune",
+        "autor": "Nick Lichtenberg",
+        "data": "2026-06-24",
+        "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+        "resumo": "The LinkedIn co-founder and investor in both Anthropic and OpenAI offers his most pointed public assessment yet of Elon Musk&#x27;s AI ambitions.",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2206159992-e1782250620624.jpg?resize=1200,600"
     },
     {
-        "titulo": "Ten days after Fable 5 shutdown, Sakana AI makes its move",
+        "titulo": "LTM Joins Athena, a Chainguard-led Industry Coalition to Help Secure Open Source Software in the AI Era",
+        "fonte": "Financial Post",
+        "autor": "Business Wire",
+        "data": "2026-06-24",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ltm-joins-athena-a-chainguard-led-industry-coalition-to-help-secure-open-source-software-in-the-ai-era",
+        "resumo": "MUMBAI, India — LTM, the Business Creativity partner to the world’s largest enterprises, has joined Athena, a new industry coalition led by Chainguard, focused on protecting open source software from the rising threat of AI-driven vulnerabilities. Athena brin…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Where IT meets OT and railway cybersecurity gets harder",
+        "fonte": "Help Net Security",
+        "autor": "Mirko Zorz",
+        "data": "2026-06-24",
+        "url": "https://www.helpnetsecurity.com/2026/06/24/jorge-aldegunde-dnv-railway-cybersecurity/",
+        "resumo": "In this interview with Help Net Security, Jorge Aldegunde, Global Head of Railway Services at DNV, talks through what happens when old operational technology meets newer IT in monorail systems. He explains why open networks widened the attack surface, how tea…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/23074742/jorge_aldegunde-2-dnv.webp"
+    },
+    {
+        "titulo": "Five Eyes Warns: AI Cyber Attacks Could Cripple Governments “Within Months”",
+        "fonte": "Naturalnews.com",
+        "autor": "Chase Codewell",
+        "data": "2026-06-24",
+        "url": "https://www.naturalnews.com/2026-06-24-five-eyes-ai-cyber-attacks-cripple-governments.html",
+        "resumo": "Cyber agencies from the Five Eyes intelligence alliance – Australia, the United States, the United Kingdom, Canada and New Zealand – issued a rare joint statement on Monday, June 22, warning that frontier artificial intelligence (AI) models could soon enable …",
+        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/five-eyes-ai-cyber-attacks-frontier-ai-models-2258-original.jpg"
+    },
+    {
+        "titulo": "Cybersecurity jobs available right now: June 24, 2026",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-06-24",
+        "url": "https://www.helpnetsecurity.com/2026/06/24/cybersecurity-jobs-available-right-now-june-24-2026/",
+        "resumo": "Application Security Leader DriveNets | Israel | Hybrid – View job details As an Application Security Leader, you will define security requirements, drive secure coding practices, oversee vulnerability management, and integrate security testing and automation…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140413/cybersecurity_jobs-2-1500.webp"
+    },
+    {
+        "titulo": "Cato Networks joins OpenAI Daybreak program to enhance cyber defense",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-06-24",
+        "url": "https://cryptobriefing.com/cato-networks-openai-daybreak-cyber-defense/",
+        "resumo": "The integration of AI in cybersecurity could revolutionize threat response times but also introduces new vulnerabilities that need addressing. The post Cato Networks joins OpenAI Daybreak program to enhance cyber defense appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/23215532/sam-altman-is-still-trying-to-return-as-openai-ceo-9-800x420.jpeg"
+    },
+    {
+        "titulo": "AI risks spark 30% surge in India cybersecurity spends as enterprises ramp up defences",
         "fonte": "The Times of India",
-        "autor": "Dhruv Mohan",
-        "data": "2026-06-23",
-        "url": "https://economictimes.indiatimes.com/magazines/panache/ten-days-after-fable-5-shutdown-sakana-ai-makes-its-move/articleshow/131912544.cms",
-        "resumo": "A Japanese AI lab, Sakana AI, has launched Fugu and Fugu Ultra, innovative AI systems that claim frontier-level capabilities without relying on a single large model. This development follows US government actions against Anthropic, highlighting concerns about…",
-        "imagem": "https://img.etimg.com/thumb/msid-131926299,width-1200,height-630,imgsize-49329,overlay-etpanache/articleshow.jpg"
+        "autor": "Tanya Pandey",
+        "data": "2026-06-24",
+        "url": "https://economictimes.indiatimes.com/tech/technology/ai-risks-spark-30-surge-in-india-cybersecurity-spends-as-enterprises-ramp-up-defences/articleshow/131948388.cms",
+        "resumo": "Corporate India is witnessing a significant surge in cybersecurity spending, up 30% year-on-year, as businesses race to safeguard data and AI systems. Even traditionally less-invested sectors like manufacturing are digitizing aggressively. This trend, drive…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-226640,resizemode-75,msid-131948388/tech/technology/ai-risks-spark-30-surge-in-india-cybersecurity-spends-as-enterprises-ramp-up-defences.jpg"
     },
     {
-        "titulo": "What Is Code Intelligence? Complete Guide for CTOs, CEOs &amp; Investors",
-        "fonte": "C-sharpcorner.com",
-        "autor": "noreply@c-sharpcorner.com (The Code Registry)",
+        "titulo": "Visa showcases Project Glasswing’s findings on AI security risks at VB Transform 2026",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
         "data": "2026-06-23",
-        "url": "https://www.c-sharpcorner.com/article/what-is-code-intelligence-complete-guide-for-ctos-ceos-investors2/",
-        "resumo": "Code intelligence transforms software risk into business insights, crucial for CTOs, CEOs, and investors to drive valuation and mitigate blind spots.",
-        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+        "url": "https://cryptobriefing.com/visa-project-glasswing-ai-security-risks/",
+        "resumo": "AI&#x27;s dual role as a powerful defense and a potent threat necessitates urgent advancements in cybersecurity strategies and infrastructure. The post Visa showcases Project Glasswing’s findings on AI security risks at VB Transform 2026 appeared first on Crypto B…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/23163023/https-upload-wikimedia-org-wikipedia-commons-9-92-old-visa-i-800x420.jpeg"
     },
     {
-        "titulo": "A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak",
-        "fonte": "Intomobile.com",
-        "autor": "Dusan Belic",
+        "titulo": "Dialog Claims It Was Hacked. A Misconfigured Website Left Its Members Exposed",
+        "fonte": "Wired",
+        "autor": "Dell Cameron, Dhruv Mehrotra",
         "data": "2026-06-23",
-        "url": "https://www.intomobile.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
-        "resumo": "A Barcelona-based spyware firm has published details of a Boot ROM vulnerability affecting older iPhones with A12 and A13 chips, and it cannot be fixed with a software update",
-        "imagem": "https://www.intomobile.com/wp-content/uploads/2026/06/iphone-usb-cable-SBgVEj.jpg"
+        "url": "https://www.wired.com/story/dialog-hack-website-misconfiguration/",
+        "resumo": "The private events group, cofounded by Peter Thiel, says a “criminal” hacker is behind a breach that exposed members’ personal details. WIRED found no evidence a break-in was needed to access the files.",
+        "imagem": "https://media.wired.com/photos/6a39b5c3580177a5599b11a3/191:100/w_1280,c_limit/security_browser_GettyImages-114315029.jpg"
     },
     {
-        "titulo": "Spy agencies say AI can help combat AI cyber risks. But don’t forget the basics",
-        "fonte": "The Conversation Africa",
-        "autor": "Toby Murray, Professor of Cybersecurity, School of Computing and Information Systems, The University",
+        "titulo": "OpenAI rolls out cybersecurity models rivaling Anthropic’s Mythos as White House stays quiet",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
         "data": "2026-06-23",
-        "url": "https://theconversation.com/spy-agencies-say-ai-can-help-combat-ai-cyber-risks-but-dont-forget-the-basics-285922",
-        "resumo": "Using AI for cybersecurity without first investing in fundamentals is like deploying a robot guard dog to defend an unlocked door.",
-        "imagem": "https://images.theconversation.com/files/743483/original/file-20260623-57-m6av7i.jpg?ixlib=rb-4.1.0&rect=0%2C989%2C10668%2C5334&q=45&auto=format&w=1356&h=668&fit=crop"
+        "url": "https://cryptobriefing.com/openai-cybersecurity-model-rivals-mythos/",
+        "resumo": "OpenAI&#x27;s unrestricted cybersecurity models may shift market dynamics, favoring broader access over regulatory-constrained competitors. The post OpenAI rolls out cybersecurity models rivaling Anthropic’s Mythos as White House stays quiet appeared first on Cryp…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/23142024/https-upload-wikimedia-org-wikipedia-commons-8-8d-sam-altman-800x420.jpeg"
     },
     {
-        "titulo": "Five thoughts from Swami Sivasubramanian’s keynote at AWS Summit and what it means for IT pros",
-        "fonte": "SiliconANGLE News",
-        "autor": "Zeus Kerravala",
+        "titulo": "‘Cordyceps’ CI/CD Flaw Exposes Microsoft, Google, Apache Repos to Pipeline Hijacking",
+        "fonte": "HackRead",
+        "autor": "Deeba Ahmed",
         "data": "2026-06-23",
-        "url": "https://siliconangle.com/2026/06/22/five-thoughts-swami-sivasubramanians-keynote-aws-summit-means-pros/",
-        "resumo": "When Amazon Web Services Inc. held its New York Summit last week, Vice President of Agentic AI Swami Sivasubramanian as usual was the headline act, delivering the opening keynote. Sivasubramanian made the case to enterprise leaders that the artificial intelli…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/swami-kerravala.png"
+        "url": "https://hackread.com/cordyceps-ci-cd-flaw-microsoft-google-apache-repos-hijack/",
+        "resumo": "Novee Security reveals Cordyceps, a CI/CD vulnerability in GitHub Actions workflows that let anonymous users poison builds and expose tokens across major projects today.",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/06/‘cordyceps-ci-cd-flaw-microsoft-google-apache-repos-hijack.jpg"
     },
     {
-        "titulo": "OpenAI DayBreak – GPT-5.5-Cyber",
-        "fonte": "Openai.com",
-        "autor": "",
+        "titulo": "LastPass says hackers stole customer data through a supply chain breach at Klue",
+        "fonte": "The Next Web",
+        "autor": "Ana Maria Constantin",
         "data": "2026-06-23",
-        "url": "https://openai.com/index/daybreak-securing-the-world/",
-        "resumo": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-        "imagem": "https://images.ctfassets.net/kftzwdyauwt9/6cfZttLA6PlFuCVypDeSh/5a3deeb70010cdf58dd7b78547850092/SEO_Card__4_.png?w=1600&h=900&fit=fill"
+        "url": "https://thenextweb.com/news/lastpass-klue-supply-chain-breach-customer-data-stolen/",
+        "resumo": "LastPass is notifying customers that their personal information and customer support case data were stolen after hackers breached Klue, a competitive intelligence vendor that held OAuth tokens granting access to LastPass’s Salesforce environment. The breach d…",
+        "imagem": "https://media.thenextweb.com/2026/06/lastpass-klue-supply-chain-breach-customer-data-stolen.avif"
     },
     {
-        "titulo": "Tata Electronics hit by ransomware attack claiming to expose Apple, Tesla trade secrets",
-        "fonte": "BusinessLine",
-        "autor": "Reuters",
+        "titulo": "Scammers Are Targeting Vancouver’s Summer Soccer Surge: liv.rent Launches Verified Short-Term Rental Licence Visibility",
+        "fonte": "Financial Post",
+        "autor": "GlobeNewswire",
         "data": "2026-06-23",
-        "url": "https://www.thehindubusinessline.com/info-tech/tata-electronics-hit-by-ransomware-attack-claiming-to-expose-apple-tesla-trade-secrets/article71135875.ece",
-        "resumo": "Tata ‌Electronics said on Monday it had detected a recent “cybersecurity incident”, after researchers said World Leaks posted purported ​component design and specification papers of Apple and Tesla, both customers of the Indian group.",
-        "imagem": "https://bl-i.thgim.com/public/incoming/659y6e/article71135883.ece/alternates/LANDSCAPE_1200/2026-06-13T083226Z_1752417558_RC2O9AA8A10I_RTRMADP_3_TATA-INDIA-APPLE-POLLUTION.JPG"
+        "url": "https://financialpost.com/globe-newswire/scammers-are-targeting-vancouvers-summer-soccer-surge-liv-rent-launches-verified-short-term-rental-licence-visibility",
+        "resumo": "With international fans racing to secure stays during one of the largest sporting events hosted in Canada, liv.rent’s new feature helps renters identify City of Vancouver-licensed short-term rentals before sending a deposit VANCOUVER, British Columbia, June 2…",
+        "imagem": ""
     },
     {
-        "titulo": "OpenAI: Yoo-hoo, look over here, we do that security stuff too!",
-        "fonte": "Biztoc.com",
-        "autor": "theregister.com",
+        "titulo": "AI could fuel severe cyberattacks against governments, businesses within months, Five Eyes spy agencies warn",
+        "fonte": "New York Post",
+        "autor": "Ariel Zilber",
         "data": "2026-06-23",
-        "url": "https://biztoc.com/x/8dd07cf4bbe5b9d9",
-        "resumo": "OpenAI announced a flurry of cybersecurity-related AI news on Monday, releasing an improved version of GPT‑5.5‑Cyber, its most advanced vulnerability-finding model, along with an expanded partner program for cybersecurity vendors, an update to its Codex Secur…",
-        "imagem": "https://biztoc.com/cdn/8dd07cf4bbe5b9d9_s.webp"
+        "url": "https://nypost.com/2026/06/23/business/ai-could-fuel-severe-cyberattacks-against-governments-businesses-within-months-five-eyes-spy-agencies-warn/",
+        "resumo": "Five Eyes alliance said frontier AI systems are advancing so rapidly that long-standing assumptions about digital threats could soon become obsolete.",
+        "imagem": "https://nypost.com/wp-content/uploads/sites/2/2026/06/AICyberSecurity_v01_DP_490907.jpg?quality=75&strip=all&w=1200"
     },
     {
-        "titulo": "OpenAI launches new initiative to help find and patch open-source bugs | TechCrunch",
-        "fonte": "TechCrunch",
-        "autor": "Lucas Ropek",
+        "titulo": "Scammers Are Targeting Vancouver&#x27;s Summer Soccer Surge: liv.rent Launches Verified Short-Term Rental Licence Visibility",
+        "fonte": "GlobeNewswire",
+        "autor": "liv.rent",
         "data": "2026-06-23",
-        "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-        "resumo": "OpenAI launches new initiative to help find and patch open-source bugs | TechCrunchtechcrunch.com",
-        "imagem": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800"
+        "url": "https://www.globenewswire.com/news-release/2026/06/23/3316275/0/en/Scammers-Are-Targeting-Vancouver-s-Summer-Soccer-Surge-liv-rent-Launches-Verified-Short-Term-Rental-Licence-Visibility.html",
+        "resumo": "With international soccer fans racing to secure stays, liv.rent helps them book safer Vancouver rentals with verified short-term licence visibility....",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/3579ba69-5137-4347-a4b4-f7946a8f57cc"
     },
     {
-        "titulo": "OpenAI: Yoo-hoo, look over here, we do that security stuff too!",
-        "fonte": "Theregister.com",
-        "autor": "Jessica Lyons",
-        "data": "2026-06-22",
-        "url": "https://www.theregister.com/security/2026/06/23/openai-yoo-hoo-look-over-here-we-do-that-security-stuff-too/5259842",
-        "resumo": "A plethora of pwn-prevention, including a &#x27;Patch The Planet&#x27; pledge",
-        "imagem": "https://image.theregister.com/5259886.jpg?imageId=5259886&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        "titulo": "What the Fortibleed campaign means for organizations running FortiGate firewalls",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-06-23",
+        "url": "https://www.helpnetsecurity.com/2026/06/23/fortibleed-investigation-remediation/",
+        "resumo": "A massive credential-harvesting campaign targeting FortiGate firewalls has exposed thousands of organizations to potential network compromise, and a trove of attacker tools, scripts, and credentials left inadvertently exposed on a server has given researchers…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/23164542/fortibleed.webp"
+    },
+    {
+        "titulo": "Trump Issues Executive Order to Fast-Track Post-Quantum Migration",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Kevin Poireault",
+        "data": "2026-06-23",
+        "url": "https://www.infosecurity-magazine.com/news/trump-eo-post-quantum-migration/",
+        "resumo": "All US federal agencies will have to complete their post-quantum cryptography transition by 2031, according to a new Trump Executive Order",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/31e9b6fb-035c-40ae-9e1b-b170d1cba544.jpg"
+    },
+    {
+        "titulo": "The cybersecurity industry built a $200B business selling you problems. Nobody got paid to fix them.",
+        "fonte": "The Next Web",
+        "autor": "Kolawole Samuel Adebayo",
+        "data": "2026-06-23",
+        "url": "https://thenextweb.com/news/cybersecurity-200b-selling-problems-remediation-gap/",
+        "resumo": "Cybersecurity has never been better at finding risk. Organizations can identify vulnerable servers, dormant user accounts, excessive privileges, exposed cloud assets, and software flaws in near real time. The market has rewarded that capability handsomely, wi…",
+        "imagem": "https://media.thenextweb.com/2026/06/cybersecurity-200b-selling-problems-remediation-gap.avif"
     }
 ]
