@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "U.S. CISA adds Ubiquiti UniFi OS and Lantronix EDS5000 plugin flaws to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-06-24",
-        "url": "https://securityaffairs.com/194142/security/u-s-cisa-adds-ubiquiti-unifi-os-and-lantronix-eds5000-plugin-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Ubiquiti UniFi OS and Lantronix EDS5000 flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Ubiquiti UniFi OS and Lantro…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+        "titulo": "SecurityWeek ICS Cybersecurity Conference Heads to Nashville for Special 25-Year Anniversary Edition",
+        "fonte": "Securityweek.com",
+        "autor": "Mike Lennon",
+        "data": "2026-06-25",
+        "url": "https://www.securityweek.com/securityweek-ics-cybersecurity-conference-heads-to-nashville-for-special-25-year-anniversary-edition/",
+        "resumo": "The 2026 Industrial Control Systems (ICS) Cybersecurity Conference takes place October 6-8, 2026, at the W Nashville. The post SecurityWeek ICS Cybersecurity Conference Heads to Nashville for Special 25-Year Anniversary Edition appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/06/ICS_Nasvhille.jpeg"
     },
     {
-        "titulo": "Open-source AI tools for automated research, security, and codebase indexing",
-        "fonte": "4sysops.com",
-        "autor": "IT News",
-        "data": "2026-06-24",
-        "url": "https://4sysops.com/archives/open-source-ai-tools-for-automated-research-security-and-codebase-indexing/",
-        "resumo": "Dear Flow is an open-source agent harness designed to manage long-horizon tasks that may require hours or days of autonomous operation. It utilizes sub-agents, sandboxes, and memory to orchestrate complex research workflows and data pipeline automation. This …",
-        "imagem": "https://4sysops.com/wp-content/uploads/2026/06/open-source-ai-tools-for-automated-research-security-and-codebase-indexing.webp"
-    },
-    {
-        "titulo": "Reid Hoffman says SpaceX is ‘not an AI company’ and xAI is a ‘complete train wreck’—and there’s room for both OpenAI and Anthropic",
-        "fonte": "Fortune",
-        "autor": "Nick Lichtenberg",
-        "data": "2026-06-24",
-        "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
-        "resumo": "The LinkedIn co-founder and investor in both Anthropic and OpenAI offers his most pointed public assessment yet of Elon Musk&#x27;s AI ambitions.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2206159992-e1782250620624.jpg?resize=1200,600"
-    },
-    {
-        "titulo": "LTM Joins Athena, a Chainguard-led Industry Coalition to Help Secure Open Source Software in the AI Era",
+        "titulo": "YesWeHack Launches Agentic Pentest for AI Security Testing",
         "fonte": "Financial Post",
         "autor": "Business Wire",
-        "data": "2026-06-24",
-        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ltm-joins-athena-a-chainguard-led-industry-coalition-to-help-secure-open-source-software-in-the-ai-era",
-        "resumo": "MUMBAI, India — LTM, the Business Creativity partner to the world’s largest enterprises, has joined Athena, a new industry coalition led by Chainguard, focused on protecting open source software from the rising threat of AI-driven vulnerabilities. Athena brin…",
+        "data": "2026-06-25",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/yeswehack-launches-agentic-pentest-for-ai-security-testing",
+        "resumo": "New on-demand solution rapidly tests attack surfaces and centralises findings within YesWeHack’s offensive security platform PARIS — YesWeHack, the offensive security and exposure management platform, announces Agentic Pentest, an on-demand solution using aut…",
         "imagem": ""
     },
     {
-        "titulo": "Where IT meets OT and railway cybersecurity gets harder",
-        "fonte": "Help Net Security",
-        "autor": "Mirko Zorz",
-        "data": "2026-06-24",
-        "url": "https://www.helpnetsecurity.com/2026/06/24/jorge-aldegunde-dnv-railway-cybersecurity/",
-        "resumo": "In this interview with Help Net Security, Jorge Aldegunde, Global Head of Railway Services at DNV, talks through what happens when old operational technology meets newer IT in monorail systems. He explains why open networks widened the attack surface, how tea…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/23074742/jorge_aldegunde-2-dnv.webp"
+        "titulo": "DSV, Maersk, and Danish Police affected by global data leak: DDIS warns Danish companies",
+        "fonte": "Ing.dk",
+        "autor": "Christoffer Elmann Ranhauge, Mats Magnussen",
+        "data": "2026-06-25",
+        "url": "https://ing.dk/artikel/dsv-maersk-and-danish-police-affected-global-data-leak-ddis-warns-danish-companies",
+        "resumo": "A cybersecurity expert and the Danish Defence Intelligence Service are urging Danish Fortinet customers to take a number of precautions in the wake of a major data leak.",
+        "imagem": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2026-06/20260409-102649-3-4500x3000ma.jpg?itok=wORmR6Kk"
     },
     {
-        "titulo": "Five Eyes Warns: AI Cyber Attacks Could Cripple Governments “Within Months”",
-        "fonte": "Naturalnews.com",
-        "autor": "Chase Codewell",
-        "data": "2026-06-24",
-        "url": "https://www.naturalnews.com/2026-06-24-five-eyes-ai-cyber-attacks-cripple-governments.html",
-        "resumo": "Cyber agencies from the Five Eyes intelligence alliance – Australia, the United States, the United Kingdom, Canada and New Zealand – issued a rare joint statement on Monday, June 22, warning that frontier artificial intelligence (AI) models could soon enable …",
-        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/five-eyes-ai-cyber-attacks-frontier-ai-models-2258-original.jpg"
+        "titulo": "How to Value a Software Codebase",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (The Code Registry)",
+        "data": "2026-06-25",
+        "url": "https://www.c-sharpcorner.com/article/how-to-value-a-software-codebase/",
+        "resumo": "Unlock software value beyond revenue. Learn to assess code quality, technical debt, security, and AI risks for smarter investments.",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
     },
     {
-        "titulo": "Cybersecurity jobs available right now: June 24, 2026",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-06-24",
-        "url": "https://www.helpnetsecurity.com/2026/06/24/cybersecurity-jobs-available-right-now-june-24-2026/",
-        "resumo": "Application Security Leader DriveNets | Israel | Hybrid – View job details As an Application Security Leader, you will define security requirements, drive secure coding practices, oversee vulnerability management, and integrate security testing and automation…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140413/cybersecurity_jobs-2-1500.webp"
+        "titulo": "Grab Builds Secure Agentic AI Workload Platform",
+        "fonte": "InfoQ.com",
+        "autor": "Patrick Farry",
+        "data": "2026-06-25",
+        "url": "https://www.infoq.com/news/2026/06/grab-ai-platform/",
+        "resumo": "Grab&#x27;s security team built Palana, a Kubernetes-native secure execution platform, to run autonomous AI agents safely. Unlike deterministic software, model-driven agents exhibit unpredictable tool-use, code-writing, and prompt injection risks. Palana contains …",
+        "imagem": "https://cdn.infoq.com/statics_s1_20260623103759/styles/static/images/logo/logo-big.jpg"
     },
     {
-        "titulo": "Cato Networks joins OpenAI Daybreak program to enhance cyber defense",
+        "titulo": "Govern privileged workload boundaries with Red Hat OpenShift, Ansible Automation Platform, and Identity Management",
+        "fonte": "Redhat.com",
+        "autor": "",
+        "data": "2026-06-25",
+        "url": "https://www.redhat.com/en/blog/govern-privileged-workload-boundaries-red-hat-openshift-ansible-automation-platform-and-identity-management",
+        "resumo": "Platform engineering, security architecture, and operations teams are being asked to support 2 realities at once: modern application platforms such as Red Hat OpenShift, and long-lived Red Hat Enterprise Linux (RHEL) fleets that still run critical automation.…",
+        "imagem": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg"
+    },
+    {
+        "titulo": "Smashing Security podcast #473: How a hacker could have Rickrolled the entire World Cup",
+        "fonte": "Graham Cluley Security News",
+        "autor": "Graham Cluley",
+        "data": "2026-06-24",
+        "url": "https://grahamcluley.com/smashing-security-podcast-473/",
+        "resumo": "A polite caller from your bank says there is a problem with your account. Don&#x27;t worry - they&#x27;ll send someone round to help. They&#x27;ll even take your cards away to keep them safe. The scam has run rampant, until Dutch police plastered blurred photos of 100 suspe…",
+        "imagem": "https://grahamcluley.com/wp-content/uploads/2026/06/ss-episode-473.webp"
+    },
+    {
+        "titulo": "AI Is Now the Threat Banks Must Plan Around",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-06-24",
+        "url": "https://www.pymnts.com/cybersecurity/2026/ai-is-now-the-threat-banks-must-plan-around/",
+        "resumo": "The world’s top intelligence agencies warned that artificial intelligence (AI) is making cyberattacks faster, cheaper and harder to stop—and banks are in the crosshairs. The financial sector isn’t waiting. It’s already fighting back with the same technology f…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/06/AI-risk-cybersecurity-banking.jpeg"
+    },
+    {
+        "titulo": "360 Security Technology unveils AI tools to rival Anthropic’s Mythos",
         "fonte": "Crypto Briefing",
         "autor": "Editorial Team",
         "data": "2026-06-24",
-        "url": "https://cryptobriefing.com/cato-networks-openai-daybreak-cyber-defense/",
-        "resumo": "The integration of AI in cybersecurity could revolutionize threat response times but also introduces new vulnerabilities that need addressing. The post Cato Networks joins OpenAI Daybreak program to enhance cyber defense appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/23215532/sam-altman-is-still-trying-to-return-as-openai-ceo-9-800x420.jpeg"
+        "url": "https://cryptobriefing.com/360-security-ai-tools-rival-anthropic-mythos/",
+        "resumo": "The launch of 360 Security&#x27;s AI tools intensifies global cybersecurity competition, potentially reshaping market dynamics and investor focus. The post 360 Security Technology unveils AI tools to rival Anthropic’s Mythos appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/24180500/gncc-solar-security-cameras-wireless-outdoor-2-4g-wifi-360-v-800x420.jpeg"
     },
     {
-        "titulo": "AI risks spark 30% surge in India cybersecurity spends as enterprises ramp up defences",
-        "fonte": "The Times of India",
-        "autor": "Tanya Pandey",
+        "titulo": "Use The New Executive Order As A Canary For Enterprise PQC Migration And Procurement",
+        "fonte": "Forrester.com",
+        "autor": "Heidi Shey",
         "data": "2026-06-24",
-        "url": "https://economictimes.indiatimes.com/tech/technology/ai-risks-spark-30-surge-in-india-cybersecurity-spends-as-enterprises-ramp-up-defences/articleshow/131948388.cms",
-        "resumo": "Corporate India is witnessing a significant surge in cybersecurity spending, up 30% year-on-year, as businesses race to safeguard data and AI systems. Even traditionally less-invested sectors like manufacturing are digitizing aggressively. This trend, drive…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-226640,resizemode-75,msid-131948388/tech/technology/ai-risks-spark-30-surge-in-india-cybersecurity-spends-as-enterprises-ramp-up-defences.jpg"
+        "url": "https://www.forrester.com/blogs/use-the-new-executive-order-as-a-canary-for-enterprise-pqc-migration-and-procurement/",
+        "resumo": "On June 22, 2026, the White House issued a new executive order, Securing the Nation Against Advanced Cryptographic Attacks. While it has direct implications for federal agencies, there are parts that are worth paying attention to for enterprise security and r…",
+        "imagem": "https://go.forrester.com/wp-content/uploads/2026/06/EO-14409-A-Canary-For-Enterprise-PQC-Migration-And-Procurement-1.jpg"
     },
     {
-        "titulo": "Visa showcases Project Glasswing’s findings on AI security risks at VB Transform 2026",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-06-23",
-        "url": "https://cryptobriefing.com/visa-project-glasswing-ai-security-risks/",
-        "resumo": "AI&#x27;s dual role as a powerful defense and a potent threat necessitates urgent advancements in cybersecurity strategies and infrastructure. The post Visa showcases Project Glasswing’s findings on AI security risks at VB Transform 2026 appeared first on Crypto B…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/23163023/https-upload-wikimedia-org-wikipedia-commons-9-92-old-visa-i-800x420.jpeg"
+        "titulo": "Use EO 14409 As A Canary For Enterprise PQC Migration And Procurement",
+        "fonte": "Forrester.com",
+        "autor": "Heidi Shey",
+        "data": "2026-06-24",
+        "url": "https://www.forrester.com/blogs/use-eo-14409-as-a-canary-for-enterprise-pqc-migration-and-procurement/",
+        "resumo": "On June 22, 2026, the White House issued Executive Order 14409, “Securing the Nation Against Advanced Cryptographic Attacks.” While it has direct implications for federal agencies, there are parts that are worth paying attention to for enterprise security and…",
+        "imagem": "https://go.forrester.com/wp-content/uploads/2026/06/EO-14409-A-Canary-For-Enterprise-PQC-Migration-And-Procurement-1.jpg"
     },
     {
-        "titulo": "Dialog Claims It Was Hacked. A Misconfigured Website Left Its Members Exposed",
-        "fonte": "Wired",
-        "autor": "Dell Cameron, Dhruv Mehrotra",
-        "data": "2026-06-23",
-        "url": "https://www.wired.com/story/dialog-hack-website-misconfiguration/",
-        "resumo": "The private events group, cofounded by Peter Thiel, says a “criminal” hacker is behind a breach that exposed members’ personal details. WIRED found no evidence a break-in was needed to access the files.",
-        "imagem": "https://media.wired.com/photos/6a39b5c3580177a5599b11a3/191:100/w_1280,c_limit/security_browser_GettyImages-114315029.jpg"
-    },
-    {
-        "titulo": "OpenAI rolls out cybersecurity models rivaling Anthropic’s Mythos as White House stays quiet",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-06-23",
-        "url": "https://cryptobriefing.com/openai-cybersecurity-model-rivals-mythos/",
-        "resumo": "OpenAI&#x27;s unrestricted cybersecurity models may shift market dynamics, favoring broader access over regulatory-constrained competitors. The post OpenAI rolls out cybersecurity models rivaling Anthropic’s Mythos as White House stays quiet appeared first on Cryp…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/23142024/https-upload-wikimedia-org-wikipedia-commons-8-8d-sam-altman-800x420.jpeg"
-    },
-    {
-        "titulo": "‘Cordyceps’ CI/CD Flaw Exposes Microsoft, Google, Apache Repos to Pipeline Hijacking",
+        "titulo": "Operation Endgame Disrupts StealC, Amadey and SocGholish Malware Networks",
         "fonte": "HackRead",
-        "autor": "Deeba Ahmed",
-        "data": "2026-06-23",
-        "url": "https://hackread.com/cordyceps-ci-cd-flaw-microsoft-google-apache-repos-hijack/",
-        "resumo": "Novee Security reveals Cordyceps, a CI/CD vulnerability in GitHub Actions workflows that let anonymous users poison builds and expose tokens across major projects today.",
-        "imagem": "https://hackread.com/wp-content/uploads/2026/06/‘cordyceps-ci-cd-flaw-microsoft-google-apache-repos-hijack.jpg"
+        "autor": "Waqas",
+        "data": "2026-06-24",
+        "url": "https://hackread.com/operation-endgame-stealc-amadey-socgholish-malware/",
+        "resumo": "Operation Endgame disrupts StealC malware infrastructure, seizing millions of stolen credentials and targeting servers used in global cybercrime campaigns.",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/06/operation-endgame-stealc-amadey-socgholish-malware.png"
     },
     {
-        "titulo": "LastPass says hackers stole customer data through a supply chain breach at Klue",
-        "fonte": "The Next Web",
-        "autor": "Ana Maria Constantin",
-        "data": "2026-06-23",
-        "url": "https://thenextweb.com/news/lastpass-klue-supply-chain-breach-customer-data-stolen/",
-        "resumo": "LastPass is notifying customers that their personal information and customer support case data were stolen after hackers breached Klue, a competitive intelligence vendor that held OAuth tokens granting access to LastPass’s Salesforce environment. The breach d…",
-        "imagem": "https://media.thenextweb.com/2026/06/lastpass-klue-supply-chain-breach-customer-data-stolen.avif"
+        "titulo": "Visa showcases Project Glasswing’s AI security insights at VB Transform 2026",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-06-24",
+        "url": "https://cryptobriefing.com/visa-project-glasswing-ai-security-vb-transform-2026/",
+        "resumo": "Project Glasswing&#x27;s AI insights highlight the dual-use nature of AI in cybersecurity, emphasizing the need for vigilant human oversight. The post Visa showcases Project Glasswing’s AI security insights at VB Transform 2026 appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/24142717/https-upload-wikimedia-org-wikipedia-commons-9-92-old-visa-i-1-800x420.jpeg"
     },
     {
-        "titulo": "Scammers Are Targeting Vancouver’s Summer Soccer Surge: liv.rent Launches Verified Short-Term Rental Licence Visibility",
-        "fonte": "Financial Post",
-        "autor": "GlobeNewswire",
-        "data": "2026-06-23",
-        "url": "https://financialpost.com/globe-newswire/scammers-are-targeting-vancouvers-summer-soccer-surge-liv-rent-launches-verified-short-term-rental-licence-visibility",
-        "resumo": "With international fans racing to secure stays during one of the largest sporting events hosted in Canada, liv.rent’s new feature helps renters identify City of Vancouver-licensed short-term rentals before sending a deposit VANCOUVER, British Columbia, June 2…",
-        "imagem": ""
+        "titulo": "CNAPP evolution: How Microsoft aligns with leading cloud risk management platforms",
+        "fonte": "Microsoft.com",
+        "autor": "Microsoft Security Team",
+        "data": "2026-06-24",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/24/cnapp-evolution-how-microsoft-aligns-with-leading-cloud-risk-management-platforms/",
+        "resumo": "Learn how CNAPP platforms are helping organizations prioritize exploitable risks, reduce exposure, and operationalize security across the application lifecycle. The post CNAPP evolution: How Microsoft aligns with leading cloud risk management platforms appear…",
+        "imagem": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/SEC20_Security_019-2.jpg"
     },
     {
-        "titulo": "AI could fuel severe cyberattacks against governments, businesses within months, Five Eyes spy agencies warn",
-        "fonte": "New York Post",
-        "autor": "Ariel Zilber",
-        "data": "2026-06-23",
-        "url": "https://nypost.com/2026/06/23/business/ai-could-fuel-severe-cyberattacks-against-governments-businesses-within-months-five-eyes-spy-agencies-warn/",
-        "resumo": "Five Eyes alliance said frontier AI systems are advancing so rapidly that long-standing assumptions about digital threats could soon become obsolete.",
-        "imagem": "https://nypost.com/wp-content/uploads/sites/2/2026/06/AICyberSecurity_v01_DP_490907.jpg?quality=75&strip=all&w=1200"
+        "titulo": "PixelSmash flaw turns video files into attack tools",
+        "fonte": "Malwarebytes.com",
+        "autor": "Pieter Arntz",
+        "data": "2026-06-24",
+        "url": "https://www.malwarebytes.com/blog/news/2026/06/pixelsmash-flaw-turns-video-files-into-attack-tools",
+        "resumo": "Researchers have found a critical FFmpeg flaw that could let attackers use a malicious video file to compromise vulnerable systems.",
+        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/06/smashed_pixel.png"
     },
     {
-        "titulo": "Scammers Are Targeting Vancouver&#x27;s Summer Soccer Surge: liv.rent Launches Verified Short-Term Rental Licence Visibility",
-        "fonte": "GlobeNewswire",
-        "autor": "liv.rent",
-        "data": "2026-06-23",
-        "url": "https://www.globenewswire.com/news-release/2026/06/23/3316275/0/en/Scammers-Are-Targeting-Vancouver-s-Summer-Soccer-Surge-liv-rent-Launches-Verified-Short-Term-Rental-Licence-Visibility.html",
-        "resumo": "With international soccer fans racing to secure stays, liv.rent helps them book safer Vancouver rentals with verified short-term licence visibility....",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/3579ba69-5137-4347-a4b4-f7946a8f57cc"
+        "titulo": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-06-24",
+        "url": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation of a critical security flaw impacting Lantronix EDS5000 Series devices, urging Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by Ju…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjZtIkR9YS2fMY5MvIzgyEShmJAP1bgHqhBdU115iSY7WZ2EcBAbFKb1OQP6Nq8hoF4HlnRifxW890ztCcnezyAivPNWZjVsyJrhoNe8BVnZgSfcRo1Jbl4XilQM9bcQTU9nOeDgfWXSzh9sBru4RH6mDhwa1IijucDmj-l1gVI8NAiQRzu0IJ8d2AIVh9/s1700-e365/1000085210.jpg"
     },
     {
-        "titulo": "What the Fortibleed campaign means for organizations running FortiGate firewalls",
+        "titulo": "China’s 360 unveils AI cybersecurity tools to rival Anthropic’s Mythos",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-06-24",
+        "url": "https://cryptobriefing.com/china-360-ai-cybersecurity-tools-anthropic-mythos/",
+        "resumo": "China&#x27;s 360 entry into AI cybersecurity could intensify global tech competition, impacting market dynamics and national security strategies. The post China’s 360 unveils AI cybersecurity tools to rival Anthropic’s Mythos appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/24121542/home-anthropic-19-800x420.jpeg"
+    },
+    {
+        "titulo": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-06-24",
+        "url": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
+        "resumo": "A coordinated law enforcement operation, in partnership with private sector companies, including Bitdefender, Bitsight, ESET, and Microsoft, has resulted in the takedown of criminal infrastructure powering Amadey and StealC. &quot;The main common goal was to disr…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBVSibdiZdJ1tNYJFrsHtZ8Vr1EG28rqKLY4E7HvAtuax2i3vgpcaMZjEAcGDRxUVu5aa_BHzCAahpw5l2RP2HNw9t7PF6zknNICdw0iuW5jozt5fzqsSfb3Lw55MIvStq2vh5W0139JychUhhJHvchyphenhyphenm7tT2oTS555CkVZrBYSkhmlMKWaXMLtO4OcSp6/s1700-e365/cybercrime-ms.jpg"
+    },
+    {
+        "titulo": "Law enforcement hits StealC and Amadey malware networks",
         "fonte": "Help Net Security",
         "autor": "Zeljka Zorz",
-        "data": "2026-06-23",
-        "url": "https://www.helpnetsecurity.com/2026/06/23/fortibleed-investigation-remediation/",
-        "resumo": "A massive credential-harvesting campaign targeting FortiGate firewalls has exposed thousands of organizations to potential network compromise, and a trove of attacker tools, scripts, and credentials left inadvertently exposed on a server has given researchers…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/23164542/fortibleed.webp"
+        "data": "2026-06-24",
+        "url": "https://www.helpnetsecurity.com/2026/06/24/operation-endgame-stealc-amadey-malware-disrupted/",
+        "resumo": "Operation Endgame, the largest international law enforcement operation aimed at disrupting ransomware and cybercrime infrastructure across the world, has claimed its latest targets: StealC and Amadey. The notice on disrupted websites (Source: Microsoft) While…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11083747/malware-1500.webp"
     },
     {
-        "titulo": "Trump Issues Executive Order to Fast-Track Post-Quantum Migration",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Kevin Poireault",
-        "data": "2026-06-23",
-        "url": "https://www.infosecurity-magazine.com/news/trump-eo-post-quantum-migration/",
-        "resumo": "All US federal agencies will have to complete their post-quantum cryptography transition by 2031, according to a new Trump Executive Order",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/31e9b6fb-035c-40ae-9e1b-b170d1cba544.jpg"
-    },
-    {
-        "titulo": "The cybersecurity industry built a $200B business selling you problems. Nobody got paid to fix them.",
-        "fonte": "The Next Web",
-        "autor": "Kolawole Samuel Adebayo",
-        "data": "2026-06-23",
-        "url": "https://thenextweb.com/news/cybersecurity-200b-selling-problems-remediation-gap/",
-        "resumo": "Cybersecurity has never been better at finding risk. Organizations can identify vulnerable servers, dormant user accounts, excessive privileges, exposed cloud assets, and software flaws in near real time. The market has rewarded that capability handsomely, wi…",
-        "imagem": "https://media.thenextweb.com/2026/06/cybersecurity-200b-selling-problems-remediation-gap.avif"
+        "titulo": "Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware",
+        "fonte": "Securityweek.com",
+        "autor": "Eduard Kovacs",
+        "data": "2026-06-24",
+        "url": "https://www.securityweek.com/microsoft-and-allies-smash-shared-infrastructure-of-amadey-and-stealc-malware/",
+        "resumo": "Hundreds of C&amp;C servers were disrupted in an operation involving law enforcement and several cybersecurity companies. The post Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2024/09/botnet.jpeg"
     }
 ]
