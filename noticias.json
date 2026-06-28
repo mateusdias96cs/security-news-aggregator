@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Polymarket Hit by $2.9M Hack — Prediction Markets Platform Will Compensate Affected Users",
-        "fonte": "Bitcoinfoundation.org",
-        "autor": "Nana K.",
-        "data": "2026-06-26",
-        "url": "https://bitcoinfoundation.org/news/prediction-markets/polymarket-hack/",
-        "resumo": "Attackers injected a malicious script into Polymarket via a third-party provider. We break down what happened and how serious it is. Prediction market platform Polymarket... The post Polymarket Hit by $2.9M Hack — Prediction Markets Platform Will Compensate A…",
-        "imagem": "https://bitcoinfoundation.org/wp-content/uploads/2026/03/ChatGPT-Image-30-мар.-2026-г.-16_04_18-1-opt.webp"
+        "titulo": "jwt-security-scanner added to PyPI",
+        "fonte": "Pypi.org",
+        "autor": "tabassumfathima2812@gmail.com",
+        "data": "2026-06-27",
+        "url": "https://pypi.org/project/jwt-security-scanner/",
+        "resumo": "A tool to scan JWT tokens for security vulnerabilities",
+        "imagem": "https://pypi.org/static/images/twitter.abaf4b19.webp"
     },
     {
-        "titulo": "China’s 360 Says it Has Developed Tools to Match Anthropic’s Mythos",
-        "fonte": "Insurance Journal",
-        "autor": "Admin",
-        "data": "2026-06-26",
-        "url": "https://www.insurancejournal.com/news/international/2026/06/26/875418.htm",
-        "resumo": "Chinese cybersecurity firm 360 Security Technology has developed what it calls a domestic answer to Anthropic’s Mythos, it said on Wednesday, casting the U.S. model as a strategic cyber capability that China could not afford to lack. Mythos, previewed in …",
-        "imagem": "https://www.insurancejournal.com/app/uploads/2025/10/AI-art-Adobe-scaled.jpeg"
-    },
-    {
-        "titulo": "SMB cyber readiness: the road to resilience starts here",
-        "fonte": "We Live Security",
-        "autor": "",
-        "data": "2026-06-26",
-        "url": "https://www.welivesecurity.com/en/business-security/smb-cyber-readiness-road-resilience-starts-here/",
-        "resumo": "Your business may be small, but its attack surface is anything but. Readiness is the first step to resilience.",
-        "imagem": "https://web-assets.esetstatic.com/wls/2026/06-26/eset-smb-cyber-readiness-resilience.png"
-    },
-    {
-        "titulo": "Qihoo 360 develops AI swarm to rival American vulnerability discovery tools",
-        "fonte": "4sysops.com",
-        "autor": "IT News",
-        "data": "2026-06-26",
-        "url": "https://4sysops.com/archives/qihoo-360-develops-ai-swarm-to-rival-american-vulnerability-discovery-tools/",
-        "resumo": "Chinese cybersecurity firm Qihoo 360 has announced a new AI-driven vulnerability discovery system designed to compete with Anthropic’s Mythos model. CEO Zhou Hongyi described the American tool as a strategic asset and argued that China requires equivalent cap…",
-        "imagem": "https://4sysops.com/wp-content/uploads/2026/06/qihoo-360-develops-ai-swarm-to-rival-american-vulnerability-discovery-tools.jpg"
-    },
-    {
-        "titulo": "We All Depend on Open Source. We Will Defend It Together",
-        "fonte": "Akrites.org",
-        "autor": "",
-        "data": "2026-06-26",
-        "url": "https://akrites.org/letter/",
-        "resumo": "An open letter from the technology industry, and the launch of Akrites - a coordinated effort to remediate vulnerabilities in the open source software the world runs on.",
-        "imagem": "https://akrites.org/wp-content/uploads/sites/9/2026/06/social.png"
-    },
-    {
-        "titulo": "Healthcare leaders see a fatal cyber incident as inevitable",
-        "fonte": "Help Net Security",
-        "autor": "Mirko Zorz",
-        "data": "2026-06-26",
-        "url": "https://www.helpnetsecurity.com/2026/06/26/cyber-incident-healthcare-vendor-risk/",
-        "resumo": "Healthcare practices run on a chain of outside vendors. An EMR system holds clinical records, a billing platform processes claims, a telehealth tool supports remote visits, and a cloud provider stores data. Every one of those connections gives an outside comp…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/08135631/healthcare_cybersecurity.jpg"
-    },
-    {
-        "titulo": "New infosec products of the month: June 2026",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-06-26",
-        "url": "https://www.helpnetsecurity.com/2026/06/26/new-infosec-products-of-the-month-june-2026/",
-        "resumo": "Here’s a look at the most interesting products from the past month, featuring releases from AISLE, Asimily, Blue Planet, depthfirst, Diligent, Drata, Elastic, Filigran, Flip, Hyland, IDnow, Legit Security, MazeBolt, Noma, Qodo, Ridge Security, Tigera, and Wit…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/28092100/infosec-month-1200.webp"
-    },
-    {
-        "titulo": "Chinese cybersecurity company claims it’s built a better-than-Mythos bug finder",
-        "fonte": "Theregister.com",
-        "autor": "Simon Sharwood",
-        "data": "2026-06-26",
-        "url": "https://www.theregister.com/security/2026/06/26/chinese-cybersecurity-company-claims-its-built-a-better-than-mythos-bug-finder/5262642",
-        "resumo": "Qihoo 360, which the US has banned, says it’s needed as a deterrent to weaponized Anthropic models",
-        "imagem": "https://image.theregister.com/245535.jpg?imageId=245535&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-    },
-    {
-        "titulo": "China claims to have developed AI ‘cyber nuclear weapon’",
-        "fonte": "Freerepublic.com",
-        "autor": "yahoo",
-        "data": "2026-06-25",
-        "url": "https://freerepublic.com/focus/f-chat/4385439/posts",
-        "resumo": "A blacklisted Chinese company claims to have developed a &quot;cyber nuclear weapon&quot; that could be used to hack Western companies and governments. Zhou Hongyi, the chief executive of cybersecurity company Qihoo 360, said it had built an AI system that matched the …",
+        "titulo": "cybersecurity-ai-mcp 1.0.11",
+        "fonte": "Pypi.org",
+        "autor": "nicholas@meok.ai",
+        "data": "2026-06-27",
+        "url": "https://pypi.org/project/cybersecurity-ai-mcp/1.0.11/",
+        "resumo": "Cybersecurity Ai MCP server. Tools: classify vulnerability, lookup cve, check security headers. Built by MEOK AI Labs.",
         "imagem": ""
     },
     {
-        "titulo": "NAIC Says Data Taken in Hack Has Been Published Online",
-        "fonte": "Insurance Journal",
-        "autor": "Chad Hemenway",
-        "data": "2026-06-25",
-        "url": "https://www.insurancejournal.com/news/national/2026/06/25/875334.htm",
-        "resumo": "The National Association of Insurance Commissioners (NAIC) now says the data taken from its information technology systems by hackers earlier this month has been published online by those responsible. In a short note on it’s website, NAIC said it is …",
-        "imagem": "https://www.insurancejournal.com/app/uploads/2022/12/NAIC.jpg"
+        "titulo": "IBM and Red Hat partner with Deloitte to fix open-source vulnerabilities",
+        "fonte": "SiliconANGLE News",
+        "autor": "Maria Deutscher",
+        "data": "2026-06-27",
+        "url": "https://siliconangle.com/2026/06/26/ibm-red-hat-partner-deloitte-fix-open-source-vulnerabilities/",
+        "resumo": "Deloitte Touche Tohmatsu Ltd. is joining an initiative that IBM Corp. and its Red Hat unit launched in May to fix open-source software vulnerabilities. The companies announced the move today. UK-based Deloitte launched in the middle of the eighteenth century …",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/ibm.png"
     },
     {
-        "titulo": "Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-06-25",
-        "url": "https://www.prnewswire.com/news-releases/linux-foundation-and-industry-leaders-launch-akrites-to-defend-critical-open-source-software-against-ai-enabled-cyber-threats-302811165.html",
-        "resumo": "Amazon Web Services, Anthropic, Chainguard, Cisco, Citi, Endor Labs, Ericsson, Google, IBM, JPMorganChase, Microsoft and GitHub, NVIDIA, OpenAI, RapidFort, Red Hat, Rust Foundation, Sonatype, Vodafone and Zscaler join coordinated effort to find, fix and respo…",
-        "imagem": "https://mma.prnewswire.com/media/3000774/akrites_logo.jpg?p=facebook"
-    },
-    {
-        "titulo": "Beyond IOCs: AI-enabled threat intelligence",
-        "fonte": "Talosintelligence.com",
-        "autor": "Martin Lee",
-        "data": "2026-06-25",
-        "url": "https://blog.talosintelligence.com/beyond-iocs-ai-enabled-threat-intelligence/",
-        "resumo": "In this week’s newsletter, Martin considers how AI will help threat intelligence by creating an easily queryable data source of intelligence reports.",
-        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/06/threat_source-3.jpg"
-    },
-    {
-        "titulo": "Chinese cybersecurity company 360 unveils “China&#x27;s version of Mythos”, and Yitianzhen, to automate cyber defense",
-        "fonte": "TechRadar",
-        "autor": "Sead Fadilpašić",
-        "data": "2026-06-25",
-        "url": "https://www.techradar.com/pro/security/chinese-cybersecurity-company-360-unveils-chinas-version-of-mythos-and-yitianzhen-to-automate-cyber-defense",
-        "resumo": "China &quot;cannot afford to wait&quot;, the company says, as Mythos finds more and more flaws.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/aNb5QzdTvjeBY2DvAsyqXa-2000-80.jpg"
-    },
-    {
-        "titulo": "FedRAMP&#x27;s Biggest Modernization in a Decade Opens New Doors for Cloud Service Providers",
-        "fonte": "GlobeNewswire",
-        "autor": "Schellman",
-        "data": "2026-06-25",
-        "url": "https://www.globenewswire.com/news-release/2026/06/25/3317846/0/en/FedRAMP-s-Biggest-Modernization-in-a-Decade-Opens-New-Doors-for-Cloud-Service-Providers.html",
-        "resumo": "Schellman, the nation&#x27;s No. 1 FedRAMP Independent Assessor, breaks down the most significant restructuring of the federal cloud security program since its 2011 inception Schellman, the nation&#x27;s No. 1 FedRAMP Independent Assessor, breaks down the most signific…",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/5fb4f562-f357-4929-ad78-c06de3380e46"
-    },
-    {
-        "titulo": "New macOS malware embeds fake errors to confuse AI analysis tools",
-        "fonte": "BleepingComputer",
-        "autor": "Lawrence Abrams",
-        "data": "2026-06-25",
-        "url": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
-        "resumo": "A newly discovered macOS malware dubbed &quot;Gaslight&quot; is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fake debugging data within the executable. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/02/11/ai-extract.jpg"
-    },
-    {
-        "titulo": "Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms",
-        "fonte": "Microsoft.com",
-        "autor": "Jason Roszak",
-        "data": "2026-06-25",
-        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/",
-        "resumo": "Microsoft named a Leader in the Forrester Wave™: Endpoint Management Platforms, Q2 2026, with the highest scores in the current offering and strategy categories. The post Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms appeared fir…",
-        "imagem": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/Featured-Image.png"
-    },
-    {
-        "titulo": "Software Buyout King Orlando Bravo Attempts an AI-Era Reboot",
-        "fonte": "Insurance Journal",
-        "autor": "Admin",
-        "data": "2026-06-25",
-        "url": "https://www.insurancejournal.com/news/southeast/2026/06/25/875314.htm",
-        "resumo": "Orlando Bravo was quick to see the disruptive potential of software, making a series of lucrative bets on the sector that turned him into a billionaire and transformed the buyout shop he leads, Thoma Bravo, into an industry powerhouse. Now, …",
-        "imagem": "https://www.insurancejournal.com/app/uploads/2026/06/Orlando-Bravo-Bloomberg-scaled.jpg"
-    },
-    {
-        "titulo": "Europol freezes $47M in crypto during global infostealer takedown",
+        "titulo": "US lifts restrictions on Anthropic’s Claude Mythos 5 AI model",
         "fonte": "Crypto Briefing",
         "autor": "Editorial Team",
-        "data": "2026-06-25",
-        "url": "https://cryptobriefing.com/europol-freezes-47m-crypto-infostealer-takedown/",
-        "resumo": "The takedown highlights the vulnerability of digital assets and the need for robust cybersecurity measures to protect against evolving threats. The post Europol freezes $47M in crypto during global infostealer takedown appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/25095814/https-upload-wikimedia-org-wikipedia-commons-0-0b-europol-bu-800x420.jpeg"
+        "data": "2026-06-26",
+        "url": "https://cryptobriefing.com/us-lifts-restrictions-anthropic-claude-mythos-5/",
+        "resumo": "The lifting of restrictions on Anthropic&#x27;s AI model could accelerate advancements in cybersecurity and biological research, impacting global tech policies. The post US lifts restrictions on Anthropic’s Claude Mythos 5 AI model appeared first on Crypto Briefin…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/26183730/claude-id-checks-anthropic-may-ask-for-your-passport-in-2026-800x420.jpeg"
     },
     {
-        "titulo": "LTM Joins Athena, a Chainguard-led Industry Coalition to Help Secure Open Source Software in the AI Era",
-        "fonte": "BusinessLine",
-        "autor": "",
-        "data": "2026-06-25",
-        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/ltm-joins-athena-a-chainguard-led-industry-coalition-to-help-secure-open-source-software-in-the-ai-era/article71141549.ece",
-        "resumo": "LTM Joins Athena, a Chainguard-led Industry Coalition to Help Secure Open Source Software in the AI Era",
-        "imagem": "https://th-i.thgim.com/public/incoming/6cl3z3/article71141540.ece/alternates/LANDSCAPE_1200/Screenshot%202026-06-17%20135625.png"
+        "titulo": "Even the Secret Service won&#x27;t use company-issued phones",
+        "fonte": "Theregister.com",
+        "autor": "Jessica Lyons",
+        "data": "2026-06-26",
+        "url": "https://www.theregister.com/security/2026/06/26/even-the-secret-service-wont-use-company-issued-phones/5263356",
+        "resumo": "Personal cell phones on protective missions, no threat detection on government-issued devices among the litany of sins",
+        "imagem": "https://image.theregister.com/251521.jpg?imageId=251521&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
     },
     {
-        "titulo": "Nucleus Security Names Former CISA CIO Robert Costello as Strategic Advisor for Public Sector and Critical Infrastructure",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-06-25",
-        "url": "https://www.prnewswire.com/news-releases/nucleus-security-names-former-cisa-cio-robert-costello-as-strategic-advisor-for-public-sector-and-critical-infrastructure-302809960.html",
-        "resumo": "Former CISA CIO joins Nucleus as federal agencies face aggressive 3-day remediation mandates under BOD 26-04 to counter AI-accelerated exploits SARASOTA, Fla., June 25, 2026 /PRNewswire/ -- Nucleus Security, the leader in unified vulnerability and exposure ma…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1588323/primaryNucleus_Logo.jpg?id=OA2733486&p=facebook"
+        "titulo": "How agentic AI threat intelligence aids NGO cyber defense: Case study",
+        "fonte": "Techtarget.com",
+        "autor": "Sean Michael Kerner",
+        "data": "2026-06-26",
+        "url": "https://www.techtarget.com/searchsecurity/feature/How-agentic-AI-threat-intelligence-aids-NGO-cyber-defense-Case-study",
+        "resumo": "NGOs often lack the resources and expertise to defend against modern threat actors. Learn how one nonprofit is harnessing agentic AI threat intelligence to flip the script.",
+        "imagem": "https://www.techtarget.com/rms/onlineimages/esg_g1403672055.jpg"
+    },
+    {
+        "titulo": "The 5060 siege: How industrialised attacks are targeting business phone systems",
+        "fonte": "Digital Journal",
+        "autor": "Dr. Tim Sandle",
+        "data": "2026-06-26",
+        "url": "https://www.digitaljournal.com/article/the-5060-siege-how-industrialised-attacks-are-targeting-business-phone-systems/",
+        "resumo": "For organisations, the lesson is clear: communication systems must be treated with the same level of scrutiny and protection as any other critical enterprise asset. Ignoring this reality risks turning a foundational business tool into a costly vulnerability. …",
+        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2024/03/b48c873c8b8b2a16aa59a77573029504f82e0dda.jpg"
+    },
+    {
+        "titulo": "OpenAI releases new GPT-5.6 model to select partners",
+        "fonte": "Nextgov",
+        "autor": "Alexandra Kelley",
+        "data": "2026-06-26",
+        "url": "https://www.nextgov.com/artificial-intelligence/2026/06/openai-releases-new-gpt-56-model-select-partners/414474/",
+        "resumo": "The approach is similar to Anthropic’s Project Glasswing and follows a Trump administration request that the company limit access.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/06/26/062626OPENAING/open-graph.jpg"
+    },
+    {
+        "titulo": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
+        "fonte": "BleepingComputer",
+        "autor": "Bill Toulas",
+        "data": "2026-06-26",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively exploited. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA.jpg"
+    },
+    {
+        "titulo": "OpenAI agrees to stagger rollout of its most powerful model to only Trump-approved customers",
+        "fonte": "Fortune",
+        "autor": "Eva Roytburg, Beatrice Nolan",
+        "data": "2026-06-26",
+        "url": "https://fortune.com/2026/06/26/what-just-happened-between-openai-sol-trump-licensing-clearance/",
+        "resumo": "It is the second time in a month that a frontier lab&#x27;s most powerful model has been held back from general release over fears about cyber capabilities.",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2282032931-e1782497304414.jpg?resize=1200,600"
+    },
+    {
+        "titulo": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-06-26",
+        "url": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
+        "resumo": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromised hosts. Kaspersky, which is tracking the activity under t…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsnAZNjHSEX7UtabbKNVn68uohH8pK5LKuU2CgckZTJowWHxYmEjx9ROquO9tFsThy-3_759_ko2TQEX4Wm3PI1Y-opfzyeAzW8Tni0-gz2YMtPMln9XQRzcKq1mviZSTW7MNShxVRhbuUXBSuNGTNStlwj_NCfFsyrptpXvkLNt5CUfARwENz0IshNDma/s1700-e365/shark.jpg"
+    },
+    {
+        "titulo": "Previewing GPT‑5.6 Sol: a next-generation model",
+        "fonte": "Openai.com",
+        "autor": "minimaxir",
+        "data": "2026-06-26",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+        "resumo": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+        "imagem": "https://images.ctfassets.net/kftzwdyauwt9/48XpR5dxhE6jJQ03HTUnWZ/ac68fbfb7761fa72ac7442c6744dba56/_.png?w=1600&h=900&fit=fill"
+    },
+    {
+        "titulo": "Critical Unauthenticated Remote Code Execution in Splunk Enterprise (CVE-2026-20253)",
+        "fonte": "Zscaler.com",
+        "autor": "Nataraja Gundale (Zscaler)",
+        "data": "2026-06-26",
+        "url": "https://www.zscaler.com/blogs/security-research/critical-unauthenticated-remote-code-execution-splunk-enterprise-cve-2026",
+        "resumo": "IntroductionSplunk disclosed a critical unauthenticated remote code execution (RCE) vulnerability in Splunk Enterprise tracked as CVE-2026-20253 on June 10, 2026. The vulnerability has a CVSS score of 9.8 and stems from missing authentication on a PostgreSQL …",
+        "imagem": "https://cms.zscaler.com/sites/default/files/images/blogs/splunk_enterprise_cve-2026-20253.jpg"
+    },
+    {
+        "titulo": "Secret Service phone security lapses put US officials at risk, watchdog says",
+        "fonte": "Nextgov",
+        "autor": "David DiMolfetta",
+        "data": "2026-06-26",
+        "url": "https://www.nextgov.com/cybersecurity/2026/06/secret-service-phone-security-lapses-put-us-officials-risk-watchdog-says/414459/",
+        "resumo": "The DHS inspector general found that agents routinely used personal phones for official work, including during protective operations, because government-issued devices lacked key capabilities.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/06/26/062626secretserviceNG/open-graph.jpg"
+    },
+    {
+        "titulo": "Geopolitics reshapes data protection plans",
+        "fonte": "Techtarget.com",
+        "autor": "John Moore",
+        "data": "2026-06-26",
+        "url": "https://www.techtarget.com/searchdatabackup/feature/Geopolitics-reshapes-data-protection-plans",
+        "resumo": "Business and technology leaders are revising their data protection plans as global conflicts challenge current resilience and risk management plans.",
+        "imagem": "https://www.techtarget.com/rms/onlineimages/disaster_recovery_g539257911.jpg"
+    },
+    {
+        "titulo": "Less than one in ten of cybersecurity pros trust AI testing tools to find vulnerabilities, with over three-quarters say their AI vulnerability scanning tools missed critical flaws",
+        "fonte": "TechRadar",
+        "autor": "Sead Fadilpašić",
+        "data": "2026-06-26",
+        "url": "https://www.techradar.com/pro/security/less-than-one-in-ten-of-cybersecurity-pros-trust-ai-testing-tools-to-find-vulnerabilities-with-over-three-quarters-say-their-ai-vulnerability-scanning-tools-missed-critical-flaws",
+        "resumo": "Fully automated testing is being replaced with a hybrid model, as &quot;elite human expertise remains foundational&quot;.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-2560-80.jpg"
+    },
+    {
+        "titulo": "Anthropic’s Mythos mess is only getting worse",
+        "fonte": "The Verge",
+        "autor": "Hayden Field",
+        "data": "2026-06-26",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+        "resumo": "It&#x27;s been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspi…",
+        "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+        "titulo": "Best Military Jobs for Cybersecurity and AI Careers",
+        "fonte": "Military.com",
+        "autor": "Jim Stewart",
+        "data": "2026-06-26",
+        "url": "https://military.com/join-the-military/best-military-jobs-for-cybersecurity-and-ai-careers",
+        "resumo": "Discover the best military jobs for cybersecurity and AI careers across the Army, Navy, Air Force, Marine Corps, and Space Force. Learn about available certifications and how military experience translates to high-paying civilian tech roles.",
+        "imagem": "https://static0.mltimages.com/wordpresshttps://static0.mltimages.com/wordpress/wp-content/uploads/2020-08/cyber%20warfare%20operations%20officer%201800.jpg?w=1600&h=900&fit=crop"
+    },
+    {
+        "titulo": "macOS Flaw Allowed Standard Users to Disable CrowdStrike and Kandji Security Tools",
+        "fonte": "HackRead",
+        "autor": "Deeba Ahmed",
+        "data": "2026-06-26",
+        "url": "https://hackread.com/macos-flaw-users-disable-crowdstrike-kandji-security-tools/",
+        "resumo": "A macOS XPC flaw let regular users disable CrowdStrike and Kandji tools, exposing security gaps that vendors patched after XM Cyber reported the security issue.",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/06/macos-flaw-users-disable-crowdstrike-kandji-security-tools.png"
+    },
+    {
+        "titulo": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-06-26",
+        "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle Management (PLM) s…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGOpsiL9b-uwhocEgzazTFR251KJL6pnZAVCmzty7Nx0uR-vZ9r2-WP95IrRaKJtFoUxmBFbqrkt31Yn2MTmD0bZAaPFTlmDfHxRURuWSsRzeTWHmyZF93QR94AOrSkbLnBYEQtVGJxI5VlRinwq8cLnEVCmGWk6wCnL1zpW_LbbZ-3-yTSdAmZ-0tqO6/s1700-e365/ptc.jpg"
     }
 ]
