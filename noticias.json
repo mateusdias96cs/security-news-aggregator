@@ -1,5 +1,86 @@
 [
     {
+        "titulo": "Week in review: Fortibleed campaign’s impact on orgs, Cisco Unified CM flaw exploited",
+        "fonte": "Help Net Security",
+        "autor": "Help Net Security",
+        "data": "2026-06-28",
+        "url": "https://www.helpnetsecurity.com/2026/06/28/week-in-review-fortibleed-campaigns-impact-on-orgs-cisco-unified-cm-flaw-exploited/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Encrypted DNS still tells an eavesdropper where to look Encrypted DNS runs across much of the Internet. DNS over TLS, HTTPS, and QUIC keep the contents of a quer…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/16184416/week-in-review2.jpg"
+    },
+    {
+        "titulo": "ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+        "fonte": "Github.com",
+        "autor": "darndt",
+        "data": "2026-06-28",
+        "url": "https://github.com/ripienaar/free-for-dev#major-cloud-providers",
+        "resumo": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev - ripienaar/free-for-dev",
+        "imagem": "https://opengraph.githubassets.com/45646f605dc6e9f681cffa961bb660b1e882f3dc085d30f4e07fdbc97a79cd90/ripienaar/free-for-dev"
+    },
+    {
+        "titulo": "Inside The Plan To Build A New American Internet",
+        "fonte": "The Daily Caller",
+        "autor": "Francis Kapper",
+        "data": "2026-06-27",
+        "url": "https://dailycaller.com/2026/06/27/new-american-internet-plan-infraco/",
+        "resumo": "A team of data experts is pushing this plan to make the U.S. digital infrastructure more secure.",
+        "imagem": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/06/GettyImages-2243480646-scaled-e1782490184260.jpg"
+    },
+    {
+        "titulo": "Post-Mythos Cybersecurity: Keep calm and carry on",
+        "fonte": "Cephalosec.com",
+        "autor": "Morgan Hotonnier",
+        "data": "2026-06-27",
+        "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+        "resumo": "As some of those fears, uncertainties, and doubts about Mythos are starting to feel real, what can we do about it? Paradoxically, I believe that little needs to change in what we’ve been doing for years.",
+        "imagem": "https://cephalosec.com/content/images/size/w1200/2026/06/cephalosec-8-trans-1.png"
+    },
+    {
+        "titulo": "Anthropic wins US approval to restore access to Mythos 5 AI model",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-06-27",
+        "url": "https://cryptobriefing.com/anthropic-mythos-5-us-approval/",
+        "resumo": "The controlled access to Mythos 5 highlights the growing need for regulatory frameworks around AI, impacting sectors like crypto security. The post Anthropic wins US approval to restore access to Mythos 5 AI model appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/27102130/home-anthropic-22-800x420.jpeg"
+    },
+    {
+        "titulo": "A Tokyo startup and a Beijing security firm just launched AI tools to fill the gap Anthropic’s export ban created",
+        "fonte": "The Next Web",
+        "autor": "Ana Maria Constantin",
+        "data": "2026-06-27",
+        "url": "https://thenextweb.com/news/asian-ai-startups-mythos-alternatives-anthropic-export-ban/",
+        "resumo": "Two Asian AI companies launched products this week that position themselves as alternatives to Anthropic’s suspended Mythos and Fable 5 models. Tokyo-based Sakana AI released Fugu, an orchestration model it says matches Fable 5 on key benchmarks, while Beijin…",
+        "imagem": "https://media.thenextweb.com/2026/06/asian-ai-startups-mythos-alternatives-anthropic-export-ban.avif"
+    },
+    {
+        "titulo": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-06-27",
+        "url": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html",
+        "resumo": "OpenAI on Friday released three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to a small number of companies as part of an ongoing engagement with the U.S. government. While Sol is the latest flagship model and the most powerful, Ter…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiweorWxmIvPG8uskOe44fLur9F5OJvqVdFLV1ejFqQozXruk70nzMhRaY58n4BuMhW1sbsdSvhTrlSxM8U5SLwPdaeRWNi4eQMUjEsFgmGV-37gTdnqk1NXLT4Ixadu4sq_pm0l_HVzuGHaIgcDnV_y092aZ1gCKkZ6lh2bp24PUBUfgsCSgvjlZiKRLMH/s1700-e365/gpt.jpg"
+    },
+    {
+        "titulo": "Asian AI startups launch Mythos-like models as Anthropic&#x27;s export ban drags on | TechCrunch",
+        "fonte": "TechCrunch",
+        "autor": "Kate Park",
+        "data": "2026-06-27",
+        "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+        "resumo": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+        "imagem": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
+    },
+    {
+        "titulo": "Inside Claude Mythos: Why Anthropic held back its most advanced AI",
+        "fonte": "The Times of India",
+        "autor": "ETtech",
+        "data": "2026-06-27",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/inside-claude-mythos-why-anthropic-held-back-its-most-advanced-ai/articleshow/132032754.cms",
+        "resumo": "Anthropic&#x27;s advanced AI, Claude Mythos, capable of discovering software flaws, was kept from public release due to misuse concerns. Instead, it powered Project Glasswing, a collaborative effort with tech giants to secure critical software, identifying thousan…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-29387,resizemode-75,msid-132032754/tech/artificial-intelligence/inside-claude-mythos-why-anthropic-held-back-its-most-advanced-ai.jpg"
+    },
+    {
         "titulo": "jwt-security-scanner added to PyPI",
         "fonte": "Pypi.org",
         "autor": "tabassumfathima2812@gmail.com",
@@ -97,86 +178,5 @@
         "url": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
         "resumo": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromised hosts. Kaspersky, which is tracking the activity under t…",
         "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsnAZNjHSEX7UtabbKNVn68uohH8pK5LKuU2CgckZTJowWHxYmEjx9ROquO9tFsThy-3_759_ko2TQEX4Wm3PI1Y-opfzyeAzW8Tni0-gz2YMtPMln9XQRzcKq1mviZSTW7MNShxVRhbuUXBSuNGTNStlwj_NCfFsyrptpXvkLNt5CUfARwENz0IshNDma/s1700-e365/shark.jpg"
-    },
-    {
-        "titulo": "Previewing GPT‑5.6 Sol: a next-generation model",
-        "fonte": "Openai.com",
-        "autor": "minimaxir",
-        "data": "2026-06-26",
-        "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-        "resumo": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-        "imagem": "https://images.ctfassets.net/kftzwdyauwt9/48XpR5dxhE6jJQ03HTUnWZ/ac68fbfb7761fa72ac7442c6744dba56/_.png?w=1600&h=900&fit=fill"
-    },
-    {
-        "titulo": "Critical Unauthenticated Remote Code Execution in Splunk Enterprise (CVE-2026-20253)",
-        "fonte": "Zscaler.com",
-        "autor": "Nataraja Gundale (Zscaler)",
-        "data": "2026-06-26",
-        "url": "https://www.zscaler.com/blogs/security-research/critical-unauthenticated-remote-code-execution-splunk-enterprise-cve-2026",
-        "resumo": "IntroductionSplunk disclosed a critical unauthenticated remote code execution (RCE) vulnerability in Splunk Enterprise tracked as CVE-2026-20253 on June 10, 2026. The vulnerability has a CVSS score of 9.8 and stems from missing authentication on a PostgreSQL …",
-        "imagem": "https://cms.zscaler.com/sites/default/files/images/blogs/splunk_enterprise_cve-2026-20253.jpg"
-    },
-    {
-        "titulo": "Secret Service phone security lapses put US officials at risk, watchdog says",
-        "fonte": "Nextgov",
-        "autor": "David DiMolfetta",
-        "data": "2026-06-26",
-        "url": "https://www.nextgov.com/cybersecurity/2026/06/secret-service-phone-security-lapses-put-us-officials-risk-watchdog-says/414459/",
-        "resumo": "The DHS inspector general found that agents routinely used personal phones for official work, including during protective operations, because government-issued devices lacked key capabilities.",
-        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/06/26/062626secretserviceNG/open-graph.jpg"
-    },
-    {
-        "titulo": "Geopolitics reshapes data protection plans",
-        "fonte": "Techtarget.com",
-        "autor": "John Moore",
-        "data": "2026-06-26",
-        "url": "https://www.techtarget.com/searchdatabackup/feature/Geopolitics-reshapes-data-protection-plans",
-        "resumo": "Business and technology leaders are revising their data protection plans as global conflicts challenge current resilience and risk management plans.",
-        "imagem": "https://www.techtarget.com/rms/onlineimages/disaster_recovery_g539257911.jpg"
-    },
-    {
-        "titulo": "Less than one in ten of cybersecurity pros trust AI testing tools to find vulnerabilities, with over three-quarters say their AI vulnerability scanning tools missed critical flaws",
-        "fonte": "TechRadar",
-        "autor": "Sead Fadilpašić",
-        "data": "2026-06-26",
-        "url": "https://www.techradar.com/pro/security/less-than-one-in-ten-of-cybersecurity-pros-trust-ai-testing-tools-to-find-vulnerabilities-with-over-three-quarters-say-their-ai-vulnerability-scanning-tools-missed-critical-flaws",
-        "resumo": "Fully automated testing is being replaced with a hybrid model, as &quot;elite human expertise remains foundational&quot;.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-2560-80.jpg"
-    },
-    {
-        "titulo": "Anthropic’s Mythos mess is only getting worse",
-        "fonte": "The Verge",
-        "autor": "Hayden Field",
-        "data": "2026-06-26",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
-        "resumo": "It&#x27;s been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspi…",
-        "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-        "titulo": "Best Military Jobs for Cybersecurity and AI Careers",
-        "fonte": "Military.com",
-        "autor": "Jim Stewart",
-        "data": "2026-06-26",
-        "url": "https://military.com/join-the-military/best-military-jobs-for-cybersecurity-and-ai-careers",
-        "resumo": "Discover the best military jobs for cybersecurity and AI careers across the Army, Navy, Air Force, Marine Corps, and Space Force. Learn about available certifications and how military experience translates to high-paying civilian tech roles.",
-        "imagem": "https://static0.mltimages.com/wordpresshttps://static0.mltimages.com/wordpress/wp-content/uploads/2020-08/cyber%20warfare%20operations%20officer%201800.jpg?w=1600&h=900&fit=crop"
-    },
-    {
-        "titulo": "macOS Flaw Allowed Standard Users to Disable CrowdStrike and Kandji Security Tools",
-        "fonte": "HackRead",
-        "autor": "Deeba Ahmed",
-        "data": "2026-06-26",
-        "url": "https://hackread.com/macos-flaw-users-disable-crowdstrike-kandji-security-tools/",
-        "resumo": "A macOS XPC flaw let regular users disable CrowdStrike and Kandji tools, exposing security gaps that vendors patched after XM Cyber reported the security issue.",
-        "imagem": "https://hackread.com/wp-content/uploads/2026/06/macos-flaw-users-disable-crowdstrike-kandji-security-tools.png"
-    },
-    {
-        "titulo": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-06-26",
-        "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle Management (PLM) s…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGOpsiL9b-uwhocEgzazTFR251KJL6pnZAVCmzty7Nx0uR-vZ9r2-WP95IrRaKJtFoUxmBFbqrkt31Yn2MTmD0bZAaPFTlmDfHxRURuWSsRzeTWHmyZF93QR94AOrSkbLnBYEQtVGJxI5VlRinwq8cLnEVCmGWk6wCnL1zpW_LbbZ-3-yTSdAmZ-0tqO6/s1700-e365/ptc.jpg"
     }
 ]
