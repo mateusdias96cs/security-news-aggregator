@@ -1,5 +1,113 @@
 [
     {
+        "titulo": "Asia Surges Into the AI Race — China and Japan Launch New Models Amid US Anthropic Restrictions",
+        "fonte": "Bitcoinfoundation.org",
+        "autor": "Nana K.",
+        "data": "2026-06-29",
+        "url": "https://bitcoinfoundation.org/news/ai-news/asia-ai-race/",
+        "resumo": "US export restrictions, particularly targeting Anthropic, have ignited a new phase of the AI race. We break down which models Asia is offering and what... The post Asia Surges Into the AI Race — China and Japan Launch New Models Amid US Anthropic Restrictions…",
+        "imagem": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/ChatGPT-Image-18-июн.-2026-г.-14_33_20-1.webp"
+    },
+    {
+        "titulo": "The Gentlemen are knocking: сustom backdoors and evolving tactics",
+        "fonte": "Securelist.com",
+        "autor": "Fatih Şensoy, Maher Yamout",
+        "data": "2026-06-29",
+        "url": "https://securelist.com/the-gentlemen-raas/120447/",
+        "resumo": "Kaspersky researchers analyze incidents related to The Gentlemen RaaS group, disclose their tools and TTPs, and find a new ransomware variant.",
+        "imagem": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/06/29071114/SL-The-Gentlemen-ransomware-featured-scaled.jpg"
+    },
+    {
+        "titulo": "US Federal Insurance Regulator Confirms Data Breach Via Oracle Flaw",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Kevin Poireault",
+        "data": "2026-06-29",
+        "url": "https://www.infosecurity-magazine.com/news/us-insurance-regulator-confirms/",
+        "resumo": "An attacker has exploited a zero day in Oracle Peoplesoft to gain access to the IT systems of the NAIC, the standard-setting association for the US federal insurance system",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/b9e9c631-4445-40a8-afa9-ce331c872502.jpg"
+    },
+    {
+        "titulo": "US government intervention in Anthropic models risks domestic AI security",
+        "fonte": "4sysops.com",
+        "autor": "IT News",
+        "data": "2026-06-29",
+        "url": "https://4sysops.com/archives/us-government-intervention-in-anthropic-models-risks-domestic-ai-security/",
+        "resumo": "Government intervention and the suspension of Anthropic models Last week, the White House and the Department of Commerce mandated that Anthropic take down its &quot;Fable&quot; and &quot;Mythos&quot; frontier models following security concerns raised by Amazon. Amazon, which hos…",
+        "imagem": "https://4sysops.com/wp-content/uploads/2026/06/us-government-intervention-in-anthropic-models-risks-domestic-ai-security.webp"
+    },
+    {
+        "titulo": "GPT-5.6 gets better at cybersecurity",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-06-29",
+        "url": "https://www.helpnetsecurity.com/2026/06/29/openai-gpt-5-6-models-preview/",
+        "resumo": "OpenAI has started rolling out the GPT-5.6 series models in limited preview to a small group of trusted partners through the API and Codex. The series includes Sol as the flagship model, Terra as a balanced option, and Luna as the fastest and most cost-effici…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/08084558/openai_texture-1500.webp"
+    },
+    {
+        "titulo": "OpenAI limits access to new models due to government security concerns",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-06-29",
+        "url": "https://cryptobriefing.com/openai-limits-model-access-government-security/",
+        "resumo": "Government-imposed AI model reviews may hinder innovation and alter competitive dynamics, impacting investors and industry growth. The post OpenAI limits access to new models due to government security concerns appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/29014111/this-is-how-sam-altman-works-the-press-and-congress-i-know-f-3-800x420.jpeg"
+    },
+    {
+        "titulo": "Mythos Scale Models and the Monetization Implications",
+        "fonte": "Next Big Future",
+        "autor": "Brian Wang",
+        "data": "2026-06-29",
+        "url": "https://www.nextbigfuture.com/2026/06/mythos-scale-models-and-the-monetization-implications.html",
+        "resumo": "Mythos-class models (Anthropic’s Claude Mythos Preview, Fable 5, and Mythos 5) represent a new capability tier above the previous Opus-class frontier models (Claude Opus 4.x series). They mark a meaningful step up in agentic/long-horizon reasoning, complex mu…",
+        "imagem": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/06/Screenshot-2026-06-28-at-5.01.49-PM.jpg"
+    },
+    {
+        "titulo": "Seth Michael Larson: United Nations Open Source Week 2026",
+        "fonte": "Sethmlarson.dev",
+        "autor": "Seth Michael Larson",
+        "data": "2026-06-29",
+        "url": "https://sethmlarson.dev/un-open-source-week-2026?utm_campaign=rss",
+        "resumo": "I was among the delegation of “open source experts” invited to the UN Open Source Week 2026 in New York City by the Sovereign Tech Agency. Thank you to the Sovereign Tech Agency for inviting and su...",
+        "imagem": "https://github.com/sethmlarson.png"
+    },
+    {
+        "titulo": "Kali Linux 2026.2 Release (GNOME 50, KDE 6.6, Helper Scripts, APT Formats &amp; VM Boot Tweaking)",
+        "fonte": "Kali.org",
+        "autor": "",
+        "data": "2026-06-29",
+        "url": "https://www.kali.org/blog/kali-linux-2026-2-release/",
+        "resumo": "It’s the final week of Q2, and Kali Linux 2026.2 is here - right on schedule ;) We have been heads down since our last release, and we are ready to share what we have been working on. This release is a mix of desktop refreshes, infrastructure improvements, an…",
+        "imagem": "https://www.kali.org/blog/kali-linux-2026-2-release/images/banner-2026.2-release.jpg"
+    },
+    {
+        "titulo": "Chinese AI model maker Z.AI claims its GLM-5.2 model matches Mythos in automated vulnerability detection",
+        "fonte": "4sysops.com",
+        "autor": "IT News",
+        "data": "2026-06-28",
+        "url": "https://4sysops.com/archives/chinese-ai-model-maker-z-ai-claims-its-glm-5-2-model-matches-mythos-in-automated-vulnerability-detection/",
+        "resumo": "Chinese artificial intelligence companies are rapidly closing the gap with US-based models in the specialized field of cybersecurity. Zhipu AI recently released GLM-5.2, an open-weight model that researchers claim can match Anthropic’s Mythos in identifying s…",
+        "imagem": "https://4sysops.com/wp-content/uploads/2026/06/chinese-ai-model-maker-z-ai-claims-its-glm-5-2-model-matches-mythos-in-automated-vulnerability-detection.webp"
+    },
+    {
+        "titulo": "AI investment boom may fuel financial risks: BIS",
+        "fonte": "The Times of India",
+        "autor": "Deepshikha Sikarwar",
+        "data": "2026-06-28",
+        "url": "https://economictimes.indiatimes.com/news/economy/finance/ai-investment-boom-may-fuel-financial-risks-bis/articleshow/132058029.cms",
+        "resumo": "The Bank for International Settlements (BIS) has cautioned about the financial dangers linked to the rapid growth of AI, pointing to issues of overinvestment and high valuations. There’s a growing worry that advanced AI models could increase cyber threats, ca…",
+        "imagem": "https://img.etimg.com/thumb/msid-132058048,width-1200,height-630,imgsize-38576,overlay-economictimes/articleshow.jpg"
+    },
+    {
+        "titulo": "Security Affairs newsletter Round 583 by Pierluigi Paganini – INTERNATIONAL EDITION",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-06-28",
+        "url": "https://securityaffairs.com/194372/security/security-affairs-newsletter-round-583-by-pierluigi-paganini-international-edition.html",
+        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. New FBI …",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
+    },
+    {
         "titulo": "Week in review: Fortibleed campaign’s impact on orgs, Cisco Unified CM flaw exploited",
         "fonte": "Help Net Security",
         "autor": "Help Net Security",
@@ -70,113 +178,5 @@
         "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
         "resumo": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
         "imagem": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
-    },
-    {
-        "titulo": "Inside Claude Mythos: Why Anthropic held back its most advanced AI",
-        "fonte": "The Times of India",
-        "autor": "ETtech",
-        "data": "2026-06-27",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/inside-claude-mythos-why-anthropic-held-back-its-most-advanced-ai/articleshow/132032754.cms",
-        "resumo": "Anthropic&#x27;s advanced AI, Claude Mythos, capable of discovering software flaws, was kept from public release due to misuse concerns. Instead, it powered Project Glasswing, a collaborative effort with tech giants to secure critical software, identifying thousan…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-29387,resizemode-75,msid-132032754/tech/artificial-intelligence/inside-claude-mythos-why-anthropic-held-back-its-most-advanced-ai.jpg"
-    },
-    {
-        "titulo": "jwt-security-scanner added to PyPI",
-        "fonte": "Pypi.org",
-        "autor": "tabassumfathima2812@gmail.com",
-        "data": "2026-06-27",
-        "url": "https://pypi.org/project/jwt-security-scanner/",
-        "resumo": "A tool to scan JWT tokens for security vulnerabilities",
-        "imagem": "https://pypi.org/static/images/twitter.abaf4b19.webp"
-    },
-    {
-        "titulo": "cybersecurity-ai-mcp 1.0.11",
-        "fonte": "Pypi.org",
-        "autor": "nicholas@meok.ai",
-        "data": "2026-06-27",
-        "url": "https://pypi.org/project/cybersecurity-ai-mcp/1.0.11/",
-        "resumo": "Cybersecurity Ai MCP server. Tools: classify vulnerability, lookup cve, check security headers. Built by MEOK AI Labs.",
-        "imagem": ""
-    },
-    {
-        "titulo": "IBM and Red Hat partner with Deloitte to fix open-source vulnerabilities",
-        "fonte": "SiliconANGLE News",
-        "autor": "Maria Deutscher",
-        "data": "2026-06-27",
-        "url": "https://siliconangle.com/2026/06/26/ibm-red-hat-partner-deloitte-fix-open-source-vulnerabilities/",
-        "resumo": "Deloitte Touche Tohmatsu Ltd. is joining an initiative that IBM Corp. and its Red Hat unit launched in May to fix open-source software vulnerabilities. The companies announced the move today. UK-based Deloitte launched in the middle of the eighteenth century …",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/ibm.png"
-    },
-    {
-        "titulo": "US lifts restrictions on Anthropic’s Claude Mythos 5 AI model",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-06-26",
-        "url": "https://cryptobriefing.com/us-lifts-restrictions-anthropic-claude-mythos-5/",
-        "resumo": "The lifting of restrictions on Anthropic&#x27;s AI model could accelerate advancements in cybersecurity and biological research, impacting global tech policies. The post US lifts restrictions on Anthropic’s Claude Mythos 5 AI model appeared first on Crypto Briefin…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/26183730/claude-id-checks-anthropic-may-ask-for-your-passport-in-2026-800x420.jpeg"
-    },
-    {
-        "titulo": "Even the Secret Service won&#x27;t use company-issued phones",
-        "fonte": "Theregister.com",
-        "autor": "Jessica Lyons",
-        "data": "2026-06-26",
-        "url": "https://www.theregister.com/security/2026/06/26/even-the-secret-service-wont-use-company-issued-phones/5263356",
-        "resumo": "Personal cell phones on protective missions, no threat detection on government-issued devices among the litany of sins",
-        "imagem": "https://image.theregister.com/251521.jpg?imageId=251521&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-    },
-    {
-        "titulo": "How agentic AI threat intelligence aids NGO cyber defense: Case study",
-        "fonte": "Techtarget.com",
-        "autor": "Sean Michael Kerner",
-        "data": "2026-06-26",
-        "url": "https://www.techtarget.com/searchsecurity/feature/How-agentic-AI-threat-intelligence-aids-NGO-cyber-defense-Case-study",
-        "resumo": "NGOs often lack the resources and expertise to defend against modern threat actors. Learn how one nonprofit is harnessing agentic AI threat intelligence to flip the script.",
-        "imagem": "https://www.techtarget.com/rms/onlineimages/esg_g1403672055.jpg"
-    },
-    {
-        "titulo": "The 5060 siege: How industrialised attacks are targeting business phone systems",
-        "fonte": "Digital Journal",
-        "autor": "Dr. Tim Sandle",
-        "data": "2026-06-26",
-        "url": "https://www.digitaljournal.com/article/the-5060-siege-how-industrialised-attacks-are-targeting-business-phone-systems/",
-        "resumo": "For organisations, the lesson is clear: communication systems must be treated with the same level of scrutiny and protection as any other critical enterprise asset. Ignoring this reality risks turning a foundational business tool into a costly vulnerability. …",
-        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2024/03/b48c873c8b8b2a16aa59a77573029504f82e0dda.jpg"
-    },
-    {
-        "titulo": "OpenAI releases new GPT-5.6 model to select partners",
-        "fonte": "Nextgov",
-        "autor": "Alexandra Kelley",
-        "data": "2026-06-26",
-        "url": "https://www.nextgov.com/artificial-intelligence/2026/06/openai-releases-new-gpt-56-model-select-partners/414474/",
-        "resumo": "The approach is similar to Anthropic’s Project Glasswing and follows a Trump administration request that the company limit access.",
-        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/06/26/062626OPENAING/open-graph.jpg"
-    },
-    {
-        "titulo": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Bill Toulas",
-        "data": "2026-06-26",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively exploited. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA.jpg"
-    },
-    {
-        "titulo": "OpenAI agrees to stagger rollout of its most powerful model to only Trump-approved customers",
-        "fonte": "Fortune",
-        "autor": "Eva Roytburg, Beatrice Nolan",
-        "data": "2026-06-26",
-        "url": "https://fortune.com/2026/06/26/what-just-happened-between-openai-sol-trump-licensing-clearance/",
-        "resumo": "It is the second time in a month that a frontier lab&#x27;s most powerful model has been held back from general release over fears about cyber capabilities.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2282032931-e1782497304414.jpg?resize=1200,600"
-    },
-    {
-        "titulo": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-06-26",
-        "url": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
-        "resumo": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromised hosts. Kaspersky, which is tracking the activity under t…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsnAZNjHSEX7UtabbKNVn68uohH8pK5LKuU2CgckZTJowWHxYmEjx9ROquO9tFsThy-3_759_ko2TQEX4Wm3PI1Y-opfzyeAzW8Tni0-gz2YMtPMln9XQRzcKq1mviZSTW7MNShxVRhbuUXBSuNGTNStlwj_NCfFsyrptpXvkLNt5CUfARwENz0IshNDma/s1700-e365/shark.jpg"
     }
 ]
