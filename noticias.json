@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Asia Surges Into the AI Race — China and Japan Launch New Models Amid US Anthropic Restrictions",
-        "fonte": "Bitcoinfoundation.org",
-        "autor": "Nana K.",
-        "data": "2026-06-29",
-        "url": "https://bitcoinfoundation.org/news/ai-news/asia-ai-race/",
-        "resumo": "US export restrictions, particularly targeting Anthropic, have ignited a new phase of the AI race. We break down which models Asia is offering and what... The post Asia Surges Into the AI Race — China and Japan Launch New Models Amid US Anthropic Restrictions…",
-        "imagem": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/ChatGPT-Image-18-июн.-2026-г.-14_33_20-1.webp"
-    },
-    {
-        "titulo": "The Gentlemen are knocking: сustom backdoors and evolving tactics",
-        "fonte": "Securelist.com",
-        "autor": "Fatih Şensoy, Maher Yamout",
-        "data": "2026-06-29",
-        "url": "https://securelist.com/the-gentlemen-raas/120447/",
-        "resumo": "Kaspersky researchers analyze incidents related to The Gentlemen RaaS group, disclose their tools and TTPs, and find a new ransomware variant.",
-        "imagem": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/06/29071114/SL-The-Gentlemen-ransomware-featured-scaled.jpg"
-    },
-    {
-        "titulo": "US Federal Insurance Regulator Confirms Data Breach Via Oracle Flaw",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Kevin Poireault",
-        "data": "2026-06-29",
-        "url": "https://www.infosecurity-magazine.com/news/us-insurance-regulator-confirms/",
-        "resumo": "An attacker has exploited a zero day in Oracle Peoplesoft to gain access to the IT systems of the NAIC, the standard-setting association for the US federal insurance system",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/b9e9c631-4445-40a8-afa9-ce331c872502.jpg"
-    },
-    {
-        "titulo": "US government intervention in Anthropic models risks domestic AI security",
-        "fonte": "4sysops.com",
-        "autor": "IT News",
-        "data": "2026-06-29",
-        "url": "https://4sysops.com/archives/us-government-intervention-in-anthropic-models-risks-domestic-ai-security/",
-        "resumo": "Government intervention and the suspension of Anthropic models Last week, the White House and the Department of Commerce mandated that Anthropic take down its &quot;Fable&quot; and &quot;Mythos&quot; frontier models following security concerns raised by Amazon. Amazon, which hos…",
-        "imagem": "https://4sysops.com/wp-content/uploads/2026/06/us-government-intervention-in-anthropic-models-risks-domestic-ai-security.webp"
-    },
-    {
-        "titulo": "GPT-5.6 gets better at cybersecurity",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-06-29",
-        "url": "https://www.helpnetsecurity.com/2026/06/29/openai-gpt-5-6-models-preview/",
-        "resumo": "OpenAI has started rolling out the GPT-5.6 series models in limited preview to a small group of trusted partners through the API and Codex. The series includes Sol as the flagship model, Terra as a balanced option, and Luna as the fastest and most cost-effici…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/08084558/openai_texture-1500.webp"
-    },
-    {
-        "titulo": "OpenAI limits access to new models due to government security concerns",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-06-29",
-        "url": "https://cryptobriefing.com/openai-limits-model-access-government-security/",
-        "resumo": "Government-imposed AI model reviews may hinder innovation and alter competitive dynamics, impacting investors and industry growth. The post OpenAI limits access to new models due to government security concerns appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/29014111/this-is-how-sam-altman-works-the-press-and-congress-i-know-f-3-800x420.jpeg"
-    },
-    {
-        "titulo": "Mythos Scale Models and the Monetization Implications",
-        "fonte": "Next Big Future",
-        "autor": "Brian Wang",
-        "data": "2026-06-29",
-        "url": "https://www.nextbigfuture.com/2026/06/mythos-scale-models-and-the-monetization-implications.html",
-        "resumo": "Mythos-class models (Anthropic’s Claude Mythos Preview, Fable 5, and Mythos 5) represent a new capability tier above the previous Opus-class frontier models (Claude Opus 4.x series). They mark a meaningful step up in agentic/long-horizon reasoning, complex mu…",
-        "imagem": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/06/Screenshot-2026-06-28-at-5.01.49-PM.jpg"
-    },
-    {
-        "titulo": "Seth Michael Larson: United Nations Open Source Week 2026",
-        "fonte": "Sethmlarson.dev",
-        "autor": "Seth Michael Larson",
-        "data": "2026-06-29",
-        "url": "https://sethmlarson.dev/un-open-source-week-2026?utm_campaign=rss",
-        "resumo": "I was among the delegation of “open source experts” invited to the UN Open Source Week 2026 in New York City by the Sovereign Tech Agency. Thank you to the Sovereign Tech Agency for inviting and su...",
-        "imagem": "https://github.com/sethmlarson.png"
-    },
-    {
-        "titulo": "Kali Linux 2026.2 Release (GNOME 50, KDE 6.6, Helper Scripts, APT Formats &amp; VM Boot Tweaking)",
-        "fonte": "Kali.org",
-        "autor": "",
-        "data": "2026-06-29",
-        "url": "https://www.kali.org/blog/kali-linux-2026-2-release/",
-        "resumo": "It’s the final week of Q2, and Kali Linux 2026.2 is here - right on schedule ;) We have been heads down since our last release, and we are ready to share what we have been working on. This release is a mix of desktop refreshes, infrastructure improvements, an…",
-        "imagem": "https://www.kali.org/blog/kali-linux-2026-2-release/images/banner-2026.2-release.jpg"
-    },
-    {
-        "titulo": "Chinese AI model maker Z.AI claims its GLM-5.2 model matches Mythos in automated vulnerability detection",
-        "fonte": "4sysops.com",
-        "autor": "IT News",
-        "data": "2026-06-28",
-        "url": "https://4sysops.com/archives/chinese-ai-model-maker-z-ai-claims-its-glm-5-2-model-matches-mythos-in-automated-vulnerability-detection/",
-        "resumo": "Chinese artificial intelligence companies are rapidly closing the gap with US-based models in the specialized field of cybersecurity. Zhipu AI recently released GLM-5.2, an open-weight model that researchers claim can match Anthropic’s Mythos in identifying s…",
-        "imagem": "https://4sysops.com/wp-content/uploads/2026/06/chinese-ai-model-maker-z-ai-claims-its-glm-5-2-model-matches-mythos-in-automated-vulnerability-detection.webp"
-    },
-    {
-        "titulo": "AI investment boom may fuel financial risks: BIS",
-        "fonte": "The Times of India",
-        "autor": "Deepshikha Sikarwar",
-        "data": "2026-06-28",
-        "url": "https://economictimes.indiatimes.com/news/economy/finance/ai-investment-boom-may-fuel-financial-risks-bis/articleshow/132058029.cms",
-        "resumo": "The Bank for International Settlements (BIS) has cautioned about the financial dangers linked to the rapid growth of AI, pointing to issues of overinvestment and high valuations. There’s a growing worry that advanced AI models could increase cyber threats, ca…",
-        "imagem": "https://img.etimg.com/thumb/msid-132058048,width-1200,height-630,imgsize-38576,overlay-economictimes/articleshow.jpg"
-    },
-    {
-        "titulo": "Security Affairs newsletter Round 583 by Pierluigi Paganini – INTERNATIONAL EDITION",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-06-28",
-        "url": "https://securityaffairs.com/194372/security/security-affairs-newsletter-round-583-by-pierluigi-paganini-international-edition.html",
-        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. New FBI …",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
-    },
-    {
-        "titulo": "Week in review: Fortibleed campaign’s impact on orgs, Cisco Unified CM flaw exploited",
-        "fonte": "Help Net Security",
-        "autor": "Help Net Security",
-        "data": "2026-06-28",
-        "url": "https://www.helpnetsecurity.com/2026/06/28/week-in-review-fortibleed-campaigns-impact-on-orgs-cisco-unified-cm-flaw-exploited/",
-        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Encrypted DNS still tells an eavesdropper where to look Encrypted DNS runs across much of the Internet. DNS over TLS, HTTPS, and QUIC keep the contents of a quer…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/16184416/week-in-review2.jpg"
-    },
-    {
-        "titulo": "ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-        "fonte": "Github.com",
-        "autor": "darndt",
-        "data": "2026-06-28",
-        "url": "https://github.com/ripienaar/free-for-dev#major-cloud-providers",
-        "resumo": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev - ripienaar/free-for-dev",
-        "imagem": "https://opengraph.githubassets.com/45646f605dc6e9f681cffa961bb660b1e882f3dc085d30f4e07fdbc97a79cd90/ripienaar/free-for-dev"
-    },
-    {
-        "titulo": "Inside The Plan To Build A New American Internet",
-        "fonte": "The Daily Caller",
-        "autor": "Francis Kapper",
-        "data": "2026-06-27",
-        "url": "https://dailycaller.com/2026/06/27/new-american-internet-plan-infraco/",
-        "resumo": "A team of data experts is pushing this plan to make the U.S. digital infrastructure more secure.",
-        "imagem": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/06/GettyImages-2243480646-scaled-e1782490184260.jpg"
-    },
-    {
-        "titulo": "Post-Mythos Cybersecurity: Keep calm and carry on",
-        "fonte": "Cephalosec.com",
-        "autor": "Morgan Hotonnier",
-        "data": "2026-06-27",
-        "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
-        "resumo": "As some of those fears, uncertainties, and doubts about Mythos are starting to feel real, what can we do about it? Paradoxically, I believe that little needs to change in what we’ve been doing for years.",
-        "imagem": "https://cephalosec.com/content/images/size/w1200/2026/06/cephalosec-8-trans-1.png"
-    },
-    {
-        "titulo": "Anthropic wins US approval to restore access to Mythos 5 AI model",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-06-27",
-        "url": "https://cryptobriefing.com/anthropic-mythos-5-us-approval/",
-        "resumo": "The controlled access to Mythos 5 highlights the growing need for regulatory frameworks around AI, impacting sectors like crypto security. The post Anthropic wins US approval to restore access to Mythos 5 AI model appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/27102130/home-anthropic-22-800x420.jpeg"
-    },
-    {
-        "titulo": "A Tokyo startup and a Beijing security firm just launched AI tools to fill the gap Anthropic’s export ban created",
-        "fonte": "The Next Web",
-        "autor": "Ana Maria Constantin",
-        "data": "2026-06-27",
-        "url": "https://thenextweb.com/news/asian-ai-startups-mythos-alternatives-anthropic-export-ban/",
-        "resumo": "Two Asian AI companies launched products this week that position themselves as alternatives to Anthropic’s suspended Mythos and Fable 5 models. Tokyo-based Sakana AI released Fugu, an orchestration model it says matches Fable 5 on key benchmarks, while Beijin…",
-        "imagem": "https://media.thenextweb.com/2026/06/asian-ai-startups-mythos-alternatives-anthropic-export-ban.avif"
-    },
-    {
-        "titulo": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
+        "titulo": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-06-27",
-        "url": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html",
-        "resumo": "OpenAI on Friday released three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to a small number of companies as part of an ongoing engagement with the U.S. government. While Sol is the latest flagship model and the most powerful, Ter…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiweorWxmIvPG8uskOe44fLur9F5OJvqVdFLV1ejFqQozXruk70nzMhRaY58n4BuMhW1sbsdSvhTrlSxM8U5SLwPdaeRWNi4eQMUjEsFgmGV-37gTdnqk1NXLT4Ixadu4sq_pm0l_HVzuGHaIgcDnV_y092aZ1gCKkZ6lh2bp24PUBUfgsCSgvjlZiKRLMH/s1700-e365/gpt.jpg"
+        "data": "2026-06-30",
+        "url": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
+        "resumo": "An unknown threat actor has been observed exploiting a recently disclosed maximum-severity security flaw in SimpleHelp to deliver two previously unreported malware families, TaskWeaver and Djinn Stealer. The intrusion involves the exploitation of CVE-2026-48…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEid1CxvsX2dPrKoA1VzJ6PUhwrXxvSC4ehRmgyaRRCJlP_MFSeOxvwrT2ODJSbQx3E-7bBwBG4YpP3CQGLzojfXEveOgwZgUlcCSf-trk_G0k0Q1_nz4rb1nbRfhXgijfZ9eLDT8v_ATsmqz5AnbNgBuGX7UIc3YwAw1hYZwvzp5Z0eopWNRqTs4W3bP3/s1700-e365/help-hackers.jpg"
     },
     {
-        "titulo": "Asian AI startups launch Mythos-like models as Anthropic&#x27;s export ban drags on | TechCrunch",
-        "fonte": "TechCrunch",
-        "autor": "Kate Park",
-        "data": "2026-06-27",
-        "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-        "resumo": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
-        "imagem": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
+        "titulo": "Ransomware gangs exploit Microsoft Defender BlueHammer flaw for system control",
+        "fonte": "4sysops.com",
+        "autor": "IT News",
+        "data": "2026-06-30",
+        "url": "https://4sysops.com/archives/ransomware-gangs-exploit-microsoft-defender-bluehammer-flaw-for-system-control/",
+        "resumo": "The Cybersecurity and Infrastructure Security Agency has updated its Known Exploited Vulnerabilities catalog to reflect that ransomware gangs are actively abusing a high-severity flaw in Microsoft Defender. Tracked as CVE-2026-33825 and nicknamed BlueHammer, …",
+        "imagem": "https://4sysops.com/wp-content/uploads/2026/06/ransomware-gangs-exploit-microsoft-defender-bluehammer-flaw-for-system-control.jpg"
+    },
+    {
+        "titulo": "SimpleHelp vulnerability exploited to deliver mighty Djinn Stealer (CVE-2026-48558)",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-06-30",
+        "url": "https://www.helpnetsecurity.com/2026/06/30/simplehelp-vulnerability-exploited-cve-2026-48558/",
+        "resumo": "Attackers are exploiting CVE-2026-48558, a recently patched authentication bypass vulnerability in SimpleHelp RMM, to drop the novel Djinn Stealer malware on victim computers. The malware is capable of targeting Windows, macOS, and Linux systems, and “collect…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/10/28163349/malware-danger-1500.webp"
+    },
+    {
+        "titulo": "Eclipse Announcements: The Eclipse Foundation and the ORC Working Group launch ORC Learning Hub to help open source developers, maintainers, and software teams prepare for the Cyber Resilience Act",
+        "fonte": "Eclipse.org",
+        "autor": "Natalia Loungou",
+        "data": "2026-06-30",
+        "url": "https://newsroom.eclipse.org/news/announcements/eclipse-foundation-and-orc-working-group-launch-orc-learning-hub-help-open",
+        "resumo": "The Eclipse Foundation and the ORC Working Group launch ORC Learning Hub to help open source developers, maintainers, and software teams prepare for the Cyber Resilience Act Natalia Loungou Tue, 2026-06-30 06:03 BRUSSELS – 30 JUNE 2026 – The Eclipse Foun…",
+        "imagem": "https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-400x400.png"
+    },
+    {
+        "titulo": "The Eclipse Foundation and the ORC Working Group launch ORC Learning Hub to help open source developers, maintainers, and software teams prepare for the Cyber Resilience Act",
+        "fonte": "GlobeNewswire",
+        "autor": "Eclipse Foundation Canada",
+        "data": "2026-06-30",
+        "url": "https://www.globenewswire.com/news-release/2026/06/30/3319472/0/en/The-Eclipse-Foundation-and-the-ORC-Working-Group-launch-ORC-Learning-Hub-to-help-open-source-developers-maintainers-and-software-teams-prepare-for-the-Cyber-Resilience-Act.html",
+        "resumo": "Free, open source–focused training helps developers, maintainers, project stewards, product teams, OSPOs, and compliance professionals understand and act on CRA requirements ahead of the September 2026 deadline Free, open source–focused training helps develop…",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/882632cf-89a7-439e-8c1e-dc16d3f4cde5"
+    },
+    {
+        "titulo": "UK Healthcare Sector Records Tenfold Increase in Cyber-Attacks",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Phil Muncaster",
+        "data": "2026-06-30",
+        "url": "https://www.infosecurity-magazine.com/news/uk-healthcare-tenfold-increase/",
+        "resumo": "SonicWall records 264,000 events in first five months of 2026 as UK hospitals come under siege",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/58495b02-f024-4abf-a15e-ad9910deec90.jpg"
+    },
+    {
+        "titulo": "Attackers actively exploit the Oracle E-Business Suite flaw CVE-2026-46817",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-06-30",
+        "url": "https://securityaffairs.com/194463/security/attackers-actively-exploit-the-oracle-e-business-suite-flaw-cve-2026-46817.html",
+        "resumo": "Attackers are exploiting a critical flaw in Oracle E-Business Suite, CVE-2026-46817, that allows remote, unauthenticated attackers to take over Oracle Payments. A critical vulnerability in Oracle E-Business Suite, tracked as CVE-2026-46817, is being actively …",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2014/02/Oracle.jpg"
+    },
+    {
+        "titulo": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-06-30",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
+        "resumo": "CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Windows-headpic.jpg"
+    },
+    {
+        "titulo": "Anthropic&#x27;s export restrictions are fueling Asia&#x27;s AI boom",
+        "fonte": "The Times of India",
+        "autor": "",
+        "data": "2026-06-30",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-export-restrictions-are-fueling-asias-ai-boom/articleshow/132088438.cms",
+        "resumo": "The US move has allowed Asian firms to establish themselves in a market dominated by a handful of US companies.",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-85430,resizemode-75,msid-132088438/tech/artificial-intelligence/anthropics-export-restrictions-are-fueling-asias-ai-boom.jpg"
+    },
+    {
+        "titulo": "Kali Linux 2026.2 trims VM boot times, refreshes its desktops",
+        "fonte": "Help Net Security",
+        "autor": "Sinisa Markovic",
+        "data": "2026-06-30",
+        "url": "https://www.helpnetsecurity.com/2026/06/30/kali-linux-2026-2-release/",
+        "resumo": "Penetration testers who run Kali Linux inside virtual machines boot their systems faster after the 2026.2 release. The change comes from a decision about graphics firmware, the code that drives NVIDIA, AMD, and Intel GPUs. That firmware has grown large enough…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/30095514/kali_linux-1700.webp"
+    },
+    {
+        "titulo": "FlowForma Launches Access to FlowAssure, an Evidence-First AI Platform for Vendor Risk Assessments",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-06-30",
+        "url": "https://www.prnewswire.com/news-releases/flowforma-launches-access-to-flowassure-an-evidence-first-ai-platform-for-vendor-risk-assessments-302813705.html",
+        "resumo": "DUBLIN, June 30, 2026 /PRNewswire/ -- FlowForma, the no-code workflow automation platform trusted by 300,000+ users, today announced the launch of access to FlowAssure, an evidence-first AI platform for vendor risk assessments. Following a successful beta pro…",
+        "imagem": "https://mma.prnewswire.com/media/3001935/FlowForma.jpg?p=facebook"
+    },
+    {
+        "titulo": "Vulnerability reports are arriving faster than GitHub can review them",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-06-30",
+        "url": "https://www.helpnetsecurity.com/2026/06/30/github-advisory-database-review/",
+        "resumo": "Across the open source world, people are reporting software flaws in record numbers, and the systems built to verify those reports are straining under the weight. The GitHub Advisory Database, which feeds automated security alerts to millions of projects, has…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/09/22145156/github-red-1500.webp"
+    },
+    {
+        "titulo": "New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking",
+        "fonte": "Securityweek.com",
+        "autor": "Eduard Kovacs",
+        "data": "2026-06-30",
+        "url": "https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/",
+        "resumo": "CISA has published an advisory to inform organizations about three vulnerabilities found by a researcher in Daktronics controllers. The post New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/06/hacked-billboard.jpeg"
+    },
+    {
+        "titulo": "Half the defense base still builds security around compliance",
+        "fonte": "Help Net Security",
+        "autor": "Sinisa Markovic",
+        "data": "2026-06-30",
+        "url": "https://www.helpnetsecurity.com/2026/06/30/federal-cybersecurity-compliance-report/",
+        "resumo": "CMMC requirements are appearing in defense contracts and moving down through supplier networks to thousands of companies new to this kind of compliance work. Many run on limited budgets with lean security teams. The picture comes from nearly 900 defense contr…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/27060121/compliance-1500.webp"
+    },
+    {
+        "titulo": "Cybersecurity jobs available right now: June 30, 2026",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-06-30",
+        "url": "https://www.helpnetsecurity.com/2026/06/30/cybersecurity-jobs-available-right-now-june-30-2026/",
+        "resumo": "AI Offensive Security Engineer AGAPI | UAE | On-site – View job details As an AI Offensive Security Engineer, you will leverage AI and LLMs to accelerate offensive security research, exploit development, vulnerability discovery, and security automation. You w…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140407/cybersecurity_jobs-3-1500.webp"
+    },
+    {
+        "titulo": "The first gate of trust",
+        "fonte": "Financial Post",
+        "autor": "Canadian Cybersecurity Network",
+        "data": "2026-06-29",
+        "url": "https://financialpost.com/technology/tech-news/the-first-gate-of-trust",
+        "resumo": "How Alan DeKok and Inkbridge Networks quietly power the infrastructure that decides who gets on the network at all",
+        "imagem": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/AdobeStock_1924574819.jpg"
+    },
+    {
+        "titulo": "Is Tenable Holdings, Inc. (TENB) A Good Stock To Buy Now?",
+        "fonte": "Yahoo Entertainment",
+        "autor": "Ricardo Pillai",
+        "data": "2026-06-29",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tenable-holdings-inc-tenb-good-210816944.html",
+        "resumo": "Is TENB a good stock to buy? We came across a bullish thesis on Tenable Holdings, Inc. on TradersPro’s Substack. In this article, we will summarize the bulls...",
+        "imagem": "https://s.yimg.com/lo/mysterio/api/CF0FA5B424B045A177480669CEFBE3874EA45E2B9AD3661DADBD3A48EF7975B7/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff403467a3583480b84fd4d733b37e9e7"
+    },
+    {
+        "titulo": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
+        "fonte": "BleepingComputer",
+        "autor": "Lawrence Abrams",
+        "data": "2026-06-29",
+        "url": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
+        "resumo": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the ShinyHunters extortion group. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2023/12/06/Nissan-1.jpg"
+    },
+    {
+        "titulo": "China Has Its Own Mythos Now, Says Qihoo 360 Founder. And One Version Is Free",
+        "fonte": "Decrypt",
+        "autor": "Jose Antonio Lanz",
+        "data": "2026-06-29",
+        "url": "https://decrypt.co/372345/china-has-own-mythos-now-one-version-free",
+        "resumo": "Qihoo 360 unveiled a homegrown vulnerability-hunting AI this week—and Z.ai went further, releasing comparable capabilities as open-weight code anyone can download.",
+        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/China-USA-gID_7.jpg"
+    },
+    {
+        "titulo": "Inherited Circuits, Learned Semantics: How Security Fine-Tuning Can Create Hidden Evasion Risk",
+        "fonte": "Cisco.com",
+        "autor": "Ryan Fetterman",
+        "data": "2026-06-29",
+        "url": "https://blogs.cisco.com/ai/inherited-circuits-learned-semantics-how-security-fine-tuning-can-create-hidden-evasion-risk",
+        "resumo": "Fine-tuning is a process that lets us steer a general-purpose large language model toward a specific task by training it on targeted examples. In cybersecurity, this is often useful for problems like classifying phishing emails, suspicious URLs....",
+        "imagem": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/06/ChatGPT-Image-Jun-29-2026-09_37_10-AM.png"
     }
 ]
