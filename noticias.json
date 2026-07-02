@@ -1,182 +1,173 @@
 [
     {
-        "titulo": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
+        "titulo": "Researcher exploits Anthropic’s Claude Opus 4.7 to break into major US festival ticketing system",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-07-01",
+        "url": "https://cryptobriefing.com/claude-opus-exploits-festival-tickets-zcash/",
+        "resumo": "AI&#x27;s dual-use potential poses significant security risks, necessitating urgent advancements in cybersecurity measures to protect digital assets. The post Researcher exploits Anthropic’s Claude Opus 4.7 to break into major US festival ticketing system appeared…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/01061129/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-800x420.jpeg"
+    },
+    {
+        "titulo": "How will new WhatsApp user names affect your online security?",
+        "fonte": "RTE",
+        "autor": "Stephen Treacy",
+        "data": "2026-07-01",
+        "url": "https://www.rte.ie/brainstorm/2026/0701/1581185-whatsapp-user-names-online-security-identity/",
+        "resumo": "WhatsApp&#x27;s usernames are part of a move to make you easier to find online, but cybersecurity often encourages the opposite",
+        "imagem": "https://www.rte.ie/images/00249e05-1600.jpg"
+    },
+    {
+        "titulo": "The case of the missing Tesla fatal crash data",
+        "fonte": "Business Insider",
+        "autor": "insider@insider.com (David Kushner)",
+        "data": "2026-07-01",
+        "url": "https://www.businessinsider.com/tesla-autopilot-failure-fatal-crash-missing-data-2026-7#article",
+        "resumo": "A fatal Tesla Autopilot crash led to a yearslong fight over missing data, becoming one of the most consequential lawsuits in self-driving history.",
+        "imagem": "https://i.insider.com/6a3d5f77360acd489560b617?width=1200&format=jpeg"
+    },
+    {
+        "titulo": "Global IoT Market to Reach USD 1.39 Trillion by 2031: Transformative Growth Driven by 5G and Edge Computing",
+        "fonte": "GlobeNewswire",
+        "autor": "Research and Markets",
+        "data": "2026-07-01",
+        "url": "https://www.globenewswire.com/news-release/2026/07/01/3320373/28124/en/Global-IoT-Market-to-Reach-USD-1-39-Trillion-by-2031-Transformative-Growth-Driven-by-5G-and-Edge-Computing.html",
+        "resumo": "The Global IoT Market is driven by rapid device proliferation, 5G rollout, and enterprise demand for IoT solutions. Key opportunities lie in edge computing, healthcare, and manufacturing. Asia Pacific is the fastest-growing region, while cloud and software se…",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7"
+    },
+    {
+        "titulo": "US lifts export controls on Anthropic’s Fable 5, clearing the model’s return",
+        "fonte": "The Next Web",
+        "autor": "Ana-Maria Stanciuc",
+        "data": "2026-07-01",
+        "url": "https://thenextweb.com/news/anthropic-fable-5-export-controls-lifted/",
+        "resumo": "The US Commerce Department has lifted the export controls it placed on Anthropic’s most advanced models, ending a roughly three-week freeze that had pulled the company’s Claude Fable 5 offline. Reuters first reported the move on Tuesday, 30 June, citing a per…",
+        "imagem": "https://media.thenextweb.com/2026/06/anthropic-mythos-eu-enisa-cybersecurity-access.avif"
+    },
+    {
+        "titulo": "Adobe patches seven max severity ColdFusion, Campaign flaws",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-07-01",
+        "url": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
+        "resumo": "Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/01/Adobe.jpg"
+    },
+    {
+        "titulo": "Nika: Open-source code analysis tool",
+        "fonte": "Help Net Security",
+        "autor": "Mirko Zorz",
+        "data": "2026-07-01",
+        "url": "https://www.helpnetsecurity.com/2026/07/01/nika-open-source-code-analysis-tool/",
+        "resumo": "Many serious security bugs in web applications sit across several files at once. Request data enters through a controller, moves through data objects and service layers, and turns dangerous only when it reaches a sensitive operation such as a database query o…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/07/29134245/nika-1500.webp"
+    },
+    {
+        "titulo": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-06-30",
-        "url": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
-        "resumo": "An unknown threat actor has been observed exploiting a recently disclosed maximum-severity security flaw in SimpleHelp to deliver two previously unreported malware families, TaskWeaver and Djinn Stealer. The intrusion involves the exploitation of CVE-2026-48…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEid1CxvsX2dPrKoA1VzJ6PUhwrXxvSC4ehRmgyaRRCJlP_MFSeOxvwrT2ODJSbQx3E-7bBwBG4YpP3CQGLzojfXEveOgwZgUlcCSf-trk_G0k0Q1_nz4rb1nbRfhXgijfZ9eLDT8v_ATsmqz5AnbNgBuGX7UIc3YwAw1hYZwvzp5Z0eopWNRqTs4W3bP3/s1700-e365/help-hackers.jpg"
+        "data": "2026-07-01",
+        "url": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
+        "resumo": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facilitate arbitrary file reads or trigger a denial-of-servi…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkaU5jHNUkuBuH0Obx-gU_L4wSKOWP9bPwZeyD8tY1hIHShQozXYO2UckRTb2z5SwreXgHxLzePWkBfixNzYWsJ6eXioRllicv96TA8QvXBerGAguD3uA2T1DcMaURdi5BdMcNlY4DF_DPk-kdNXvIZfz8QMnrekgc-Hjksqf5OCHy11j0zcT668GgBhnc/s1700-e365/citrix.jpg"
     },
     {
-        "titulo": "Ransomware gangs exploit Microsoft Defender BlueHammer flaw for system control",
-        "fonte": "4sysops.com",
-        "autor": "IT News",
-        "data": "2026-06-30",
-        "url": "https://4sysops.com/archives/ransomware-gangs-exploit-microsoft-defender-bluehammer-flaw-for-system-control/",
-        "resumo": "The Cybersecurity and Infrastructure Security Agency has updated its Known Exploited Vulnerabilities catalog to reflect that ransomware gangs are actively abusing a high-severity flaw in Microsoft Defender. Tracked as CVE-2026-33825 and nicknamed BlueHammer, …",
-        "imagem": "https://4sysops.com/wp-content/uploads/2026/06/ransomware-gangs-exploit-microsoft-defender-bluehammer-flaw-for-system-control.jpg"
+        "titulo": "Redeploying Claude Fable 5",
+        "fonte": "Anthropic.com",
+        "autor": "",
+        "data": "2026-07-01",
+        "url": "https://www.anthropic.com/news/redeploying-fable-5",
+        "resumo": "On Friday, June 12, the US government applied export controls to our newest models, Claude Fable 5 and Claude Mythos 5. This required us to restrict access to foreign nationals, whether inside or outside the United States. Because the order took effect immedi…",
+        "imagem": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
     },
     {
-        "titulo": "SimpleHelp vulnerability exploited to deliver mighty Djinn Stealer (CVE-2026-48558)",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-06-30",
-        "url": "https://www.helpnetsecurity.com/2026/06/30/simplehelp-vulnerability-exploited-cve-2026-48558/",
-        "resumo": "Attackers are exploiting CVE-2026-48558, a recently patched authentication bypass vulnerability in SimpleHelp RMM, to drop the novel Djinn Stealer malware on victim computers. The malware is capable of targeting Windows, macOS, and Linux systems, and “collect…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/10/28163349/malware-danger-1500.webp"
+        "titulo": "Oracle E-Business Suite vulnerability exploited, raising crypto sector risks",
+        "fonte": "Crypto Briefing",
+        "autor": "Estefano Gomez",
+        "data": "2026-07-01",
+        "url": "https://cryptobriefing.com/oracle-e-business-suite-vulnerability-exploited-raising-crypto-sector-risks/",
+        "resumo": "The exploitation highlights the urgent need for enhanced cybersecurity measures to protect the crypto sector from escalating financial threats. The post Oracle E-Business Suite vulnerability exploited, raising crypto sector risks appeared first on Crypto Brie…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/30214245/exploitation-of-recent-oracle-e-business-suite-vulnerability-1-800x420.jpeg"
     },
     {
-        "titulo": "Eclipse Announcements: The Eclipse Foundation and the ORC Working Group launch ORC Learning Hub to help open source developers, maintainers, and software teams prepare for the Cyber Resilience Act",
-        "fonte": "Eclipse.org",
-        "autor": "Natalia Loungou",
-        "data": "2026-06-30",
-        "url": "https://newsroom.eclipse.org/news/announcements/eclipse-foundation-and-orc-working-group-launch-orc-learning-hub-help-open",
-        "resumo": "The Eclipse Foundation and the ORC Working Group launch ORC Learning Hub to help open source developers, maintainers, and software teams prepare for the Cyber Resilience Act Natalia Loungou Tue, 2026-06-30 06:03 BRUSSELS – 30 JUNE 2026 – The Eclipse Foun…",
-        "imagem": "https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-400x400.png"
+        "titulo": "Claude Fable 5 Will Be Back Online Wednesday, Anthropic Says",
+        "fonte": "Gizmodo.com",
+        "autor": "Mike Pearl",
+        "data": "2026-07-01",
+        "url": "https://gizmodo.com/claude-fable-5-will-be-back-online-wednesday-anthropic-says-2000779882",
+        "resumo": "Anthropic announced Tuesday that the Trump Administration had lifted its controls on the cutting-edge AI model.",
+        "imagem": "https://gizmodo.com/app/uploads/2024/03/cfced83c392a76743344eac24a0fcef9.jpg"
     },
     {
-        "titulo": "The Eclipse Foundation and the ORC Working Group launch ORC Learning Hub to help open source developers, maintainers, and software teams prepare for the Cyber Resilience Act",
-        "fonte": "GlobeNewswire",
-        "autor": "Eclipse Foundation Canada",
+        "titulo": "US Secret Service personnel are putting the lives of America’s VIPs at risk by refusing to use government-issued phones — but they might not be up to the job in the first place",
+        "fonte": "TechRadar",
+        "autor": "benedict.collins@futurenet.com (Benedict Collins) , Benedict Collins",
         "data": "2026-06-30",
-        "url": "https://www.globenewswire.com/news-release/2026/06/30/3319472/0/en/The-Eclipse-Foundation-and-the-ORC-Working-Group-launch-ORC-Learning-Hub-to-help-open-source-developers-maintainers-and-software-teams-prepare-for-the-Cyber-Resilience-Act.html",
-        "resumo": "Free, open source–focused training helps developers, maintainers, project stewards, product teams, OSPOs, and compliance professionals understand and act on CRA requirements ahead of the September 2026 deadline Free, open source–focused training helps develop…",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/882632cf-89a7-439e-8c1e-dc16d3f4cde5"
+        "url": "https://www.techradar.com/pro/security/us-secret-service-personnel-are-putting-the-lives-of-americas-vips-at-risk-by-refusing-to-use-government-issued-phones-but-they-might-not-be-up-to-the-job-in-the-first-place",
+        "resumo": "The Secret Service isn&#x27;t abiding by its own guidance, and it could be putting lives at risk.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/SHauH7QzUXn8NpPvDQvopF-2560-80.jpg"
     },
     {
-        "titulo": "UK Healthcare Sector Records Tenfold Increase in Cyber-Attacks",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Phil Muncaster",
-        "data": "2026-06-30",
-        "url": "https://www.infosecurity-magazine.com/news/uk-healthcare-tenfold-increase/",
-        "resumo": "SonicWall records 264,000 events in first five months of 2026 as UK hospitals come under siege",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/58495b02-f024-4abf-a15e-ad9910deec90.jpg"
-    },
-    {
-        "titulo": "Attackers actively exploit the Oracle E-Business Suite flaw CVE-2026-46817",
+        "titulo": "U.S. CISA adds SimpleHelp flaw to its Known Exploited Vulnerabilities catalog",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
         "data": "2026-06-30",
-        "url": "https://securityaffairs.com/194463/security/attackers-actively-exploit-the-oracle-e-business-suite-flaw-cve-2026-46817.html",
-        "resumo": "Attackers are exploiting a critical flaw in Oracle E-Business Suite, CVE-2026-46817, that allows remote, unauthenticated attackers to take over Oracle Payments. A critical vulnerability in Oracle E-Business Suite, tracked as CVE-2026-46817, is being actively …",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2014/02/Oracle.jpg"
+        "url": "https://securityaffairs.com/194503/security/u-s-cisa-adds-simplehelp-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a SimpleHelp flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a SimpleHelp flaw, tracked as CVE-2026-48558 (CVSS score…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
     },
     {
-        "titulo": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
+        "titulo": "Download iOS 26.5.2 Now for a Smorgasbord of Security Fixes",
+        "fonte": "CNET",
+        "autor": "Zachary McAuliffe",
         "data": "2026-06-30",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
-        "resumo": "CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Windows-headpic.jpg"
+        "url": "https://www.cnet.com/tech/services-and-software/download-ios-26-5-2-now-for-a-smorgasbord-of-security-fixes/",
+        "resumo": "This update includes a patch for a vulnerability found with the help of Anthropic&#x27;s Claude AI model, which has been in the news for its cybersecurity implications.",
+        "imagem": "https://www.cnet.com/a/img/resize/2e21a778d497077175a9550445c0d6afc62a104e/hub/2025/10/01/465dad1b-53d3-4653-bc4a-e458eaad313a/ios-26-cnet-6.png?auto=webp&fit=crop&height=675&width=1200"
     },
     {
-        "titulo": "Anthropic&#x27;s export restrictions are fueling Asia&#x27;s AI boom",
-        "fonte": "The Times of India",
-        "autor": "",
+        "titulo": "Windows Defender &#x27;BlueHammer&#x27; vulnerability now exploited as part of malware campaigns — CISA issues warning despite patch release on April 14",
+        "fonte": "Toms Hardware UK",
+        "autor": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
         "data": "2026-06-30",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-export-restrictions-are-fueling-asias-ai-boom/articleshow/132088438.cms",
-        "resumo": "The US move has allowed Asian firms to establish themselves in a market dominated by a handful of US companies.",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-85430,resizemode-75,msid-132088438/tech/artificial-intelligence/anthropics-export-restrictions-are-fueling-asias-ai-boom.jpg"
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/windows-defender-bluehammer-vulnerability-now-exploited-as-part-of-malware-campaigns-cisa-issues-warning-despite-patch-release-on-april-14",
+        "resumo": "Windows Defender &quot;BlueHammer&quot; vulnerability now exploited as part of malware campaigns — event demonstrates lack of security awareness despite existence of patches",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/vPMxZmbSf9QNjHhihRRvbL-2048-80.jpg"
     },
     {
-        "titulo": "Kali Linux 2026.2 trims VM boot times, refreshes its desktops",
-        "fonte": "Help Net Security",
-        "autor": "Sinisa Markovic",
+        "titulo": "​​What’s new in Microsoft Security: June 2026",
+        "fonte": "Microsoft.com",
+        "autor": "Alym Rayani",
         "data": "2026-06-30",
-        "url": "https://www.helpnetsecurity.com/2026/06/30/kali-linux-2026-2-release/",
-        "resumo": "Penetration testers who run Kali Linux inside virtual machines boot their systems faster after the 2026.2 release. The change comes from a decision about graphics firmware, the code that drives NVIDIA, AMD, and Intel GPUs. That firmware has grown large enough…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/30095514/kali_linux-1700.webp"
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/",
+        "resumo": "This month’s updates help security and IT teams strengthen identity and multicloud foundations, protect data wherever it lives, and secure the developer workflows powering AI innovation. The post ​​What’s new in Microsoft Security: June 2026 appeared first on…",
+        "imagem": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/In-The-Loop_June-2.jpg"
     },
     {
-        "titulo": "FlowForma Launches Access to FlowAssure, an Evidence-First AI Platform for Vendor Risk Assessments",
-        "fonte": "PRNewswire",
-        "autor": "",
+        "titulo": "A critical exploit bypasses Microsoft Defender in Windows 11 and Windows 10 — so much for &quot;everyday risk protection without additional software&quot;",
+        "fonte": "Windows Central",
+        "autor": "kevinokemwa@outlook.com (Kevin Okemwa) , Kevin Okemwa",
         "data": "2026-06-30",
-        "url": "https://www.prnewswire.com/news-releases/flowforma-launches-access-to-flowassure-an-evidence-first-ai-platform-for-vendor-risk-assessments-302813705.html",
-        "resumo": "DUBLIN, June 30, 2026 /PRNewswire/ -- FlowForma, the no-code workflow automation platform trusted by 300,000+ users, today announced the launch of access to FlowAssure, an evidence-first AI platform for vendor risk assessments. Following a successful beta pro…",
-        "imagem": "https://mma.prnewswire.com/media/3001935/FlowForma.jpg?p=facebook"
+        "url": "https://www.windowscentral.com/microsoft/a-critical-exploit-bypasses-microsoft-defender-in-windows",
+        "resumo": "Microsoft confirms RoguePlanet zero-day exploit in Windows Defender, leaving Windows 10 &amp; 11 PCs exposed while a patch is on the way.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/XfdbFCaRDBtGSVNAhuhQr-2560-80.jpg"
     },
     {
-        "titulo": "Vulnerability reports are arriving faster than GitHub can review them",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-06-30",
-        "url": "https://www.helpnetsecurity.com/2026/06/30/github-advisory-database-review/",
-        "resumo": "Across the open source world, people are reporting software flaws in record numbers, and the systems built to verify those reports are straining under the weight. The GitHub Advisory Database, which feeds automated security alerts to millions of projects, has…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/09/22145156/github-red-1500.webp"
-    },
-    {
-        "titulo": "New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking",
-        "fonte": "Securityweek.com",
-        "autor": "Eduard Kovacs",
-        "data": "2026-06-30",
-        "url": "https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/",
-        "resumo": "CISA has published an advisory to inform organizations about three vulnerabilities found by a researcher in Daktronics controllers. The post New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/06/hacked-billboard.jpeg"
-    },
-    {
-        "titulo": "Half the defense base still builds security around compliance",
-        "fonte": "Help Net Security",
-        "autor": "Sinisa Markovic",
-        "data": "2026-06-30",
-        "url": "https://www.helpnetsecurity.com/2026/06/30/federal-cybersecurity-compliance-report/",
-        "resumo": "CMMC requirements are appearing in defense contracts and moving down through supplier networks to thousands of companies new to this kind of compliance work. Many run on limited budgets with lean security teams. The picture comes from nearly 900 defense contr…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/27060121/compliance-1500.webp"
-    },
-    {
-        "titulo": "Cybersecurity jobs available right now: June 30, 2026",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-06-30",
-        "url": "https://www.helpnetsecurity.com/2026/06/30/cybersecurity-jobs-available-right-now-june-30-2026/",
-        "resumo": "AI Offensive Security Engineer AGAPI | UAE | On-site – View job details As an AI Offensive Security Engineer, you will leverage AI and LLMs to accelerate offensive security research, exploit development, vulnerability discovery, and security automation. You w…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140407/cybersecurity_jobs-3-1500.webp"
-    },
-    {
-        "titulo": "The first gate of trust",
-        "fonte": "Financial Post",
-        "autor": "Canadian Cybersecurity Network",
-        "data": "2026-06-29",
-        "url": "https://financialpost.com/technology/tech-news/the-first-gate-of-trust",
-        "resumo": "How Alan DeKok and Inkbridge Networks quietly power the infrastructure that decides who gets on the network at all",
-        "imagem": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/AdobeStock_1924574819.jpg"
-    },
-    {
-        "titulo": "Is Tenable Holdings, Inc. (TENB) A Good Stock To Buy Now?",
-        "fonte": "Yahoo Entertainment",
-        "autor": "Ricardo Pillai",
-        "data": "2026-06-29",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tenable-holdings-inc-tenb-good-210816944.html",
-        "resumo": "Is TENB a good stock to buy? We came across a bullish thesis on Tenable Holdings, Inc. on TradersPro’s Substack. In this article, we will summarize the bulls...",
-        "imagem": "https://s.yimg.com/lo/mysterio/api/CF0FA5B424B045A177480669CEFBE3874EA45E2B9AD3661DADBD3A48EF7975B7/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff403467a3583480b84fd4d733b37e9e7"
-    },
-    {
-        "titulo": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Lawrence Abrams",
-        "data": "2026-06-29",
-        "url": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
-        "resumo": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the ShinyHunters extortion group. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2023/12/06/Nissan-1.jpg"
-    },
-    {
-        "titulo": "China Has Its Own Mythos Now, Says Qihoo 360 Founder. And One Version Is Free",
-        "fonte": "Decrypt",
-        "autor": "Jose Antonio Lanz",
-        "data": "2026-06-29",
-        "url": "https://decrypt.co/372345/china-has-own-mythos-now-one-version-free",
-        "resumo": "Qihoo 360 unveiled a homegrown vulnerability-hunting AI this week—and Z.ai went further, releasing comparable capabilities as open-weight code anyone can download.",
-        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/China-USA-gID_7.jpg"
-    },
-    {
-        "titulo": "Inherited Circuits, Learned Semantics: How Security Fine-Tuning Can Create Hidden Evasion Risk",
+        "titulo": "Protecting against rising cybersecurity risks in data centers",
         "fonte": "Cisco.com",
-        "autor": "Ryan Fetterman",
-        "data": "2026-06-29",
-        "url": "https://blogs.cisco.com/ai/inherited-circuits-learned-semantics-how-security-fine-tuning-can-create-hidden-evasion-risk",
-        "resumo": "Fine-tuning is a process that lets us steer a general-purpose large language model toward a specific task by training it on targeted examples. In cybersecurity, this is often useful for problems like classifying phishing emails, suspicious URLs....",
-        "imagem": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/06/ChatGPT-Image-Jun-29-2026-09_37_10-AM.png"
+        "autor": "Shankar Varanasy",
+        "data": "2026-06-30",
+        "url": "https://blogs.cisco.com/?p=494091",
+        "resumo": "Secure your data center against evolving threats, including quantum computing and AI. Discover how resilient, quantum-safe infrastructure from Cisco provides real-time protection to keep your business running smoothly without downtime.",
+        "imagem": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/06/m7rHdBs5-secure-networking-blog-feature.png"
+    },
+    {
+        "titulo": "This month in security with Tony Anscombe – June 2026 edition",
+        "fonte": "We Live Security",
+        "autor": "",
+        "data": "2026-06-30",
+        "url": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-june-2026/",
+        "resumo": "Three-day patching deadlines, exposed fuel-tank systems, scams costing billions of dollars, and social media bans for children all gave Tony plenty to unpack in June 2026",
+        "imagem": ""
     }
 ]
