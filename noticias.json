@@ -1,173 +1,182 @@
 [
     {
-        "titulo": "Researcher exploits Anthropic’s Claude Opus 4.7 to break into major US festival ticketing system",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-07-01",
-        "url": "https://cryptobriefing.com/claude-opus-exploits-festival-tickets-zcash/",
-        "resumo": "AI&#x27;s dual-use potential poses significant security risks, necessitating urgent advancements in cybersecurity measures to protect digital assets. The post Researcher exploits Anthropic’s Claude Opus 4.7 to break into major US festival ticketing system appeared…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/01061129/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-800x420.jpeg"
+        "titulo": "Sysdig Details JADEPUFFER, the First Documented Agentic Ransomware Operation",
+        "fonte": "HackRead",
+        "autor": "Waqas",
+        "data": "2026-07-02",
+        "url": "https://hackread.com/sysdig-jadepuffer-first-agentic-ransomware-operation/",
+        "resumo": "A new Sysdig report traces how an LLM agent abused a Langflow flaw, stole credentials, reached production MySQL, and destroyed Nacos config data in minutes flat.",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/07/sysdig-jadepuffer-first-agentic-ransomware-operation-2.jpg"
     },
     {
-        "titulo": "How will new WhatsApp user names affect your online security?",
-        "fonte": "RTE",
-        "autor": "Stephen Treacy",
-        "data": "2026-07-01",
-        "url": "https://www.rte.ie/brainstorm/2026/0701/1581185-whatsapp-user-names-online-security-identity/",
-        "resumo": "WhatsApp&#x27;s usernames are part of a move to make you easier to find online, but cybersecurity often encourages the opposite",
-        "imagem": "https://www.rte.ie/images/00249e05-1600.jpg"
-    },
-    {
-        "titulo": "The case of the missing Tesla fatal crash data",
-        "fonte": "Business Insider",
-        "autor": "insider@insider.com (David Kushner)",
-        "data": "2026-07-01",
-        "url": "https://www.businessinsider.com/tesla-autopilot-failure-fatal-crash-missing-data-2026-7#article",
-        "resumo": "A fatal Tesla Autopilot crash led to a yearslong fight over missing data, becoming one of the most consequential lawsuits in self-driving history.",
-        "imagem": "https://i.insider.com/6a3d5f77360acd489560b617?width=1200&format=jpeg"
-    },
-    {
-        "titulo": "Global IoT Market to Reach USD 1.39 Trillion by 2031: Transformative Growth Driven by 5G and Edge Computing",
+        "titulo": "Exploring the SoC as a Service Market: Growth Potential and Key Drivers Through 2031",
         "fonte": "GlobeNewswire",
         "autor": "Research and Markets",
-        "data": "2026-07-01",
-        "url": "https://www.globenewswire.com/news-release/2026/07/01/3320373/28124/en/Global-IoT-Market-to-Reach-USD-1-39-Trillion-by-2031-Transformative-Growth-Driven-by-5G-and-Edge-Computing.html",
-        "resumo": "The Global IoT Market is driven by rapid device proliferation, 5G rollout, and enterprise demand for IoT solutions. Key opportunities lie in edge computing, healthcare, and manufacturing. Asia Pacific is the fastest-growing region, while cloud and software se…",
+        "data": "2026-07-02",
+        "url": "https://www.globenewswire.com/news-release/2026/07/02/3321169/28124/en/Exploring-the-SoC-as-a-Service-Market-Growth-Potential-and-Key-Drivers-Through-2031.html",
+        "resumo": "The SoC as a Service (SOCaaS) market is driven by rising demand for threat detection services and hybrid deployment models, growth in sectors like government and healthcare, and a shift to managed services. Challenges include a declining cloud deployment shar…",
         "imagem": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7"
     },
     {
-        "titulo": "US lifts export controls on Anthropic’s Fable 5, clearing the model’s return",
-        "fonte": "The Next Web",
-        "autor": "Ana-Maria Stanciuc",
-        "data": "2026-07-01",
-        "url": "https://thenextweb.com/news/anthropic-fable-5-export-controls-lifted/",
-        "resumo": "The US Commerce Department has lifted the export controls it placed on Anthropic’s most advanced models, ending a roughly three-week freeze that had pulled the company’s Claude Fable 5 offline. Reuters first reported the move on Tuesday, 30 June, citing a per…",
-        "imagem": "https://media.thenextweb.com/2026/06/anthropic-mythos-eu-enisa-cybersecurity-access.avif"
+        "titulo": "Fable 5 Returns with 50% Usage Cuts and New Paid Credits",
+        "fonte": "Geeky Gadgets",
+        "autor": "Julian Horsey",
+        "data": "2026-07-02",
+        "url": "https://www.geeky-gadgets.com/fable-5-paywall-july-7/",
+        "resumo": "Fable 5 has officially made its return, but it comes with a set of notable restrictions that could alter how users engage with this advanced AI model. According to Paul Lipsky, the updated version introduces stricter usage limits, including a 50% reduction in…",
+        "imagem": "https://www.geeky-gadgets.com/wp-content/uploads/2026/07/ai-coding-blocks.jpg"
     },
     {
-        "titulo": "Adobe patches seven max severity ColdFusion, Campaign flaws",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-07-01",
-        "url": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
-        "resumo": "Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/01/Adobe.jpg"
+        "titulo": "Missed incidents, persistent threats, and response gaps: Insights from compromise assessment projects",
+        "fonte": "Securelist.com",
+        "autor": "Victor Sergeev, Amged Wageh",
+        "data": "2026-07-02",
+        "url": "https://securelist.com/compromise-assessment-findings-2025/120542/",
+        "resumo": "Kaspersky Compromise Assessment specialists analyze trends from the service&#x27;s 2025 projects and provide tips on how to enhance your organization&#x27;s security.",
+        "imagem": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/07/02075840/SL-compromise-assessment-featured-scaled.png"
     },
     {
-        "titulo": "Nika: Open-source code analysis tool",
-        "fonte": "Help Net Security",
-        "autor": "Mirko Zorz",
-        "data": "2026-07-01",
-        "url": "https://www.helpnetsecurity.com/2026/07/01/nika-open-source-code-analysis-tool/",
-        "resumo": "Many serious security bugs in web applications sit across several files at once. Request data enters through a controller, moves through data objects and service layers, and turns dangerous only when it reaches a sensitive operation such as a database query o…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/07/29134245/nika-1500.webp"
-    },
-    {
-        "titulo": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
+        "titulo": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-07-01",
-        "url": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
-        "resumo": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facilitate arbitrary file reads or trigger a denial-of-servi…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkaU5jHNUkuBuH0Obx-gU_L4wSKOWP9bPwZeyD8tY1hIHShQozXYO2UckRTb2z5SwreXgHxLzePWkBfixNzYWsJ6eXioRllicv96TA8QvXBerGAguD3uA2T1DcMaURdi5BdMcNlY4DF_DPk-kdNXvIZfz8QMnrekgc-Hjksqf5OCHy11j0zcT668GgBhnc/s1700-e365/citrix.jpg"
+        "data": "2026-07-02",
+        "url": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tr…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMEHDpcGNoddFf8yfkJ1L21X61VSA66xZiVjYA5qdfJpZ8tyWxzRy7Il8fwcY59pRUm7mlNChrPHhjySmFLV-dHEIdZiOXj0ZDQ9Wv8yxgfU8qKm_ga3kYcNer9z85cj7KwtYkRuxGtPaNUL0ebiuM2SILSWMVr-fZtnVFejlJ24h48ECds-iMQBTW3vHb/s1700-e365/cisa-ms.jpg"
     },
     {
-        "titulo": "Redeploying Claude Fable 5",
-        "fonte": "Anthropic.com",
-        "autor": "",
-        "data": "2026-07-01",
-        "url": "https://www.anthropic.com/news/redeploying-fable-5",
-        "resumo": "On Friday, June 12, the US government applied export controls to our newest models, Claude Fable 5 and Claude Mythos 5. This required us to restrict access to foreign nationals, whether inside or outside the United States. Because the order took effect immedi…",
-        "imagem": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
-    },
-    {
-        "titulo": "Oracle E-Business Suite vulnerability exploited, raising crypto sector risks",
+        "titulo": "Sriram Krishnan highlights Anthropic’s Mythos as a double-edged sword for cybersecurity",
         "fonte": "Crypto Briefing",
-        "autor": "Estefano Gomez",
+        "autor": "Editorial Team",
+        "data": "2026-07-02",
+        "url": "https://cryptobriefing.com/krishnan-anthropic-mythos-cybersecurity-risks/",
+        "resumo": "The dual-use nature of AI like Mythos poses significant challenges for cybersecurity, balancing innovation with potential exploitation risks. The post Sriram Krishnan highlights Anthropic’s Mythos as a double-edged sword for cybersecurity appeared first on Cr…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/02002656/who-is-sriram-krishnan-trump-s-new-ai-policy-advisor-800x420.jpeg"
+    },
+    {
+        "titulo": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
+        "fonte": "BleepingComputer",
+        "autor": "Bill Toulas",
         "data": "2026-07-01",
-        "url": "https://cryptobriefing.com/oracle-e-business-suite-vulnerability-exploited-raising-crypto-sector-risks/",
-        "resumo": "The exploitation highlights the urgent need for enhanced cybersecurity measures to protect the crypto sector from escalating financial threats. The post Oracle E-Business Suite vulnerability exploited, raising crypto sector risks appeared first on Crypto Brie…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/30214245/exploitation-of-recent-oracle-e-business-suite-vulnerability-1-800x420.jpeg"
+        "url": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
+        "resumo": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity researchers. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/01/cocopops.jpg"
     },
     {
-        "titulo": "Claude Fable 5 Will Be Back Online Wednesday, Anthropic Says",
-        "fonte": "Gizmodo.com",
-        "autor": "Mike Pearl",
+        "titulo": "ChocoPoc malware delivered via trojanized exploits on GitHub",
+        "fonte": "BleepingComputer",
+        "autor": "Bill Toulas",
         "data": "2026-07-01",
-        "url": "https://gizmodo.com/claude-fable-5-will-be-back-online-wednesday-anthropic-says-2000779882",
-        "resumo": "Anthropic announced Tuesday that the Trump Administration had lifted its controls on the cutting-edge AI model.",
-        "imagem": "https://gizmodo.com/app/uploads/2024/03/cfced83c392a76743344eac24a0fcef9.jpg"
+        "url": "https://www.bleepingcomputer.com/news/security/chocopoc-malware-delivered-via-trojanized-exploits-on-github/",
+        "resumo": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub delivered a Python-based remote access trojan (RAT) called ChocoPoC that can execute commands and steal sensitive data. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/01/cocopops.jpg"
     },
     {
-        "titulo": "US Secret Service personnel are putting the lives of America’s VIPs at risk by refusing to use government-issued phones — but they might not be up to the job in the first place",
-        "fonte": "TechRadar",
-        "autor": "benedict.collins@futurenet.com (Benedict Collins) , Benedict Collins",
-        "data": "2026-06-30",
-        "url": "https://www.techradar.com/pro/security/us-secret-service-personnel-are-putting-the-lives-of-americas-vips-at-risk-by-refusing-to-use-government-issued-phones-but-they-might-not-be-up-to-the-job-in-the-first-place",
-        "resumo": "The Secret Service isn&#x27;t abiding by its own guidance, and it could be putting lives at risk.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/SHauH7QzUXn8NpPvDQvopF-2560-80.jpg"
+        "titulo": "BioShocking Attack Uses Fake Games To Hijack AI Browsers And Leak Data",
+        "fonte": "Hot Hardware",
+        "autor": "Chris Harper",
+        "data": "2026-07-01",
+        "url": "https://hothardware.com/news/bioshocking-attack-uses-fake-games-to-hijack-ai-browsers-and-leak-data",
+        "resumo": "A new form of AI prompt injection malware has been discovered, dubbed BioShocking by the LayerX security team. And that name is no coincidence: it&#x27;s a direct reference to the 2007 survival horror FPS BioShock and its iconic hypnotic phrase &quot;Would you kindly?&quot;…",
+        "imagem": "https://hothardware.com/contentimages/NewsItem/71012/content/16x9_2133x1200_highres-wouldyoukindly.jpg"
     },
     {
-        "titulo": "U.S. CISA adds SimpleHelp flaw to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-06-30",
-        "url": "https://securityaffairs.com/194503/security/u-s-cisa-adds-simplehelp-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a SimpleHelp flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a SimpleHelp flaw, tracked as CVE-2026-48558 (CVSS score…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+        "titulo": "Congressman Admits He Got Hacked, Warns That Signal &#x27;Is Not Secure&#x27;",
+        "fonte": "PCMag.com",
+        "autor": "Michael Kan",
+        "data": "2026-07-01",
+        "url": "https://uk.pcmag.com/security/165968/congressman-admits-he-got-hacked-warns-that-signal-is-not-secure",
+        "resumo": "Outgoing Rep. Don Bacon urges US officials to stop using the encrypted messaging app after &#x27;Russia hacked my Signal.&#x27; However, this is more a case of human error than an app vulnerability. A US Congressman is blasting the Signal messaging app as &quot;not secure&quot; …",
+        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/c/congressma/congressman-admits-he-got-hacked-warns-that-signal-is-not-se_p7y1.1200.jpg"
     },
     {
-        "titulo": "Download iOS 26.5.2 Now for a Smorgasbord of Security Fixes",
-        "fonte": "CNET",
-        "autor": "Zachary McAuliffe",
-        "data": "2026-06-30",
-        "url": "https://www.cnet.com/tech/services-and-software/download-ios-26-5-2-now-for-a-smorgasbord-of-security-fixes/",
-        "resumo": "This update includes a patch for a vulnerability found with the help of Anthropic&#x27;s Claude AI model, which has been in the news for its cybersecurity implications.",
-        "imagem": "https://www.cnet.com/a/img/resize/2e21a778d497077175a9550445c0d6afc62a104e/hub/2025/10/01/465dad1b-53d3-4653-bc4a-e458eaad313a/ios-26-cnet-6.png?auto=webp&fit=crop&height=675&width=1200"
+        "titulo": "How federal cybersecurity teams can adapt to a post-DOGE environment",
+        "fonte": "Nextgov",
+        "autor": "Brian Snell",
+        "data": "2026-07-01",
+        "url": "https://www.nextgov.com/ideas/2026/07/how-federal-cybersecurity-teams-can-adapt-post-doge-environment/414535/",
+        "resumo": "COMMENTARY | The long-lasting impact of DOGE has been to accelerate a broader shift toward more disciplined, efficient and operationally resilient security strategies.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/06/30/GettyImages_2205475471/open-graph.jpg"
     },
     {
-        "titulo": "Windows Defender &#x27;BlueHammer&#x27; vulnerability now exploited as part of malware campaigns — CISA issues warning despite patch release on April 14",
-        "fonte": "Toms Hardware UK",
-        "autor": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
-        "data": "2026-06-30",
-        "url": "https://www.tomshardware.com/tech-industry/cyber-security/windows-defender-bluehammer-vulnerability-now-exploited-as-part-of-malware-campaigns-cisa-issues-warning-despite-patch-release-on-april-14",
-        "resumo": "Windows Defender &quot;BlueHammer&quot; vulnerability now exploited as part of malware campaigns — event demonstrates lack of security awareness despite existence of patches",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/vPMxZmbSf9QNjHhihRRvbL-2048-80.jpg"
+        "titulo": "US Government Unbans Anthropic’s Most Powerful AI Models",
+        "fonte": "iPhone in Canada",
+        "autor": "Usman Qureshi",
+        "data": "2026-07-01",
+        "url": "https://www.iphoneincanada.ca/2026/07/01/us-government-unbans-anthropics-most-powerful-ai-models/",
+        "resumo": "Anthropic is redeploying Claude Fable 5 after a sudden 18-day US export control order triggered by an Amazon cybersecurity bypass report was lifted. The post US Government Unbans Anthropic’s Most Powerful AI Models first appeared on iPhone in Canada.",
+        "imagem": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/07/Anthropic-Claude-Fable.webp"
     },
     {
-        "titulo": "​​What’s new in Microsoft Security: June 2026",
+        "titulo": "Claude helped uncover a ticketing flaw able to unlock free VIP festival passes",
+        "fonte": "Android Authority",
+        "autor": "Jay Bonggolto",
+        "data": "2026-07-01",
+        "url": "https://www.androidauthority.com/claude-uncovered-front-gate-vulnerability-3683467/",
+        "resumo": "Claude helped expose a critical flaw in a major festival ticketing platform that could&#x27;ve unlocked VIP passes and admin access.",
+        "imagem": "https://www.androidauthority.com/wp-content/uploads/2026/03/claude-chrome-scaled.jpg"
+    },
+    {
+        "titulo": "When the Screens Go Dark: Professor Kai London Warns CNI Boards to Prove They Can Operate Under Attack",
+        "fonte": "GlobeNewswire",
+        "autor": "Professor Kai London",
+        "data": "2026-07-01",
+        "url": "https://www.globenewswire.com/news-release/2026/07/01/3320915/0/en/When-the-Screens-Go-Dark-Professor-Kai-London-Warns-CNI-Boards-to-Prove-They-Can-Operate-Under-Attack.html",
+        "resumo": "Professor Kai London warns that CNI and OT cyber risk is shifting from stolen data to operational paralysis, lost visibility, supplier lockout and public disruption. Professor Kai London warns that CNI and OT cyber risk is shifting from stolen data to operati…",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/11910e27-0147-4af2-969e-b42fcadbf815"
+    },
+    {
+        "titulo": "Claude Fable 5 is making a dramatic return with ‘extraordinarily strong’ safeguards",
+        "fonte": "9to5google.com",
+        "autor": "Andrew Romero",
+        "data": "2026-07-01",
+        "url": "http://9to5google.com/2026/07/01/anthropic-fable-5-returns-to-claude/",
+        "resumo": "After being taken down by order of the US government, Fable 5 is returning to Claude’s model library. Because of the new restrictions, Fable 5 might just be Opus 4.8 in a mask.",
+        "imagem": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/b7055119423427c40a0e4d84054aed17682b50a2-2880x1620-1.webp?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    },
+    {
+        "titulo": "Anthropic’s Fable And Mythos Models Are Back—Here’s What The Government Was Concerned About In The First Place",
+        "fonte": "Forbes",
+        "autor": "Zachary Folk, Forbes Staff, Zachary Folk, Forbes Staff https://www.forbes.com/sites/zacharyfolk/",
+        "data": "2026-07-01",
+        "url": "https://www.forbes.com/sites/zacharyfolk/2026/07/01/anthropics-fable-and-mythos-models-are-back-heres-what-the-government-was-concerned-about-in-the-first-place/",
+        "resumo": "The U.S. government slapped Anthropic with export restrictions days after the Fable 5 model was released to the greater public over cybersecurity safety concerns.",
+        "imagem": "https://imageio.forbes.com/specials-images/imageserve/6a30437291273376d6570280/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+        "titulo": "Microsoft named a leader in the Frost Radar for cloud and application runtime security",
         "fonte": "Microsoft.com",
-        "autor": "Alym Rayani",
-        "data": "2026-06-30",
-        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/",
-        "resumo": "This month’s updates help security and IT teams strengthen identity and multicloud foundations, protect data wherever it lives, and secure the developer workflows powering AI innovation. The post ​​What’s new in Microsoft Security: June 2026 appeared first on…",
-        "imagem": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/In-The-Loop_June-2.jpg"
+        "autor": "Microsoft Security Team",
+        "data": "2026-07-01",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/01/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/",
+        "resumo": "Frost &amp; Sullivan names Microsoft a leader as cloud and application security converge into unified, runtime risk reduction. The post Microsoft named a leader in the Frost Radar for cloud and application runtime security appeared first on Microsoft Security Blo…",
+        "imagem": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/Frost-Radar.jpg"
     },
     {
-        "titulo": "A critical exploit bypasses Microsoft Defender in Windows 11 and Windows 10 — so much for &quot;everyday risk protection without additional software&quot;",
-        "fonte": "Windows Central",
-        "autor": "kevinokemwa@outlook.com (Kevin Okemwa) , Kevin Okemwa",
-        "data": "2026-06-30",
-        "url": "https://www.windowscentral.com/microsoft/a-critical-exploit-bypasses-microsoft-defender-in-windows",
-        "resumo": "Microsoft confirms RoguePlanet zero-day exploit in Windows Defender, leaving Windows 10 &amp; 11 PCs exposed while a patch is on the way.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/XfdbFCaRDBtGSVNAhuhQr-2560-80.jpg"
+        "titulo": "AI-enabled cyber threats emerged as the leading perceived risk over the next 12 months: RBI survey",
+        "fonte": "BusinessLine",
+        "autor": "BL Mumbai Bureau",
+        "data": "2026-07-01",
+        "url": "https://www.thehindubusinessline.com/money-and-banking/ai-enabled-cyber-threats-emerged-as-the-leading-perceived-risk-over-the-next-12-months-rbi-survey/article71170978.ece",
+        "resumo": "RBI survey reveals AI-enabled cyber threats as the top risk for financial institutions, urging enhanced cybersecurity investments and preparedness.",
+        "imagem": "https://bl-i.thgim.com/public/incoming/uyqcv3/article71171053.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U913LO212_R1521727298_3_fa3f1feb-bb9c-4bd0-9f4d-53a38b64562d.jpg"
     },
     {
-        "titulo": "Protecting against rising cybersecurity risks in data centers",
-        "fonte": "Cisco.com",
-        "autor": "Shankar Varanasy",
-        "data": "2026-06-30",
-        "url": "https://blogs.cisco.com/?p=494091",
-        "resumo": "Secure your data center against evolving threats, including quantum computing and AI. Discover how resilient, quantum-safe infrastructure from Cisco provides real-time protection to keep your business running smoothly without downtime.",
-        "imagem": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/06/m7rHdBs5-secure-networking-blog-feature.png"
+        "titulo": "PeckShield: Hackers Draining Crypto Industry — Nearly $76M in June, $750M in First Half of 2026",
+        "fonte": "Bitcoinfoundation.org",
+        "autor": "Nana K.",
+        "data": "2026-07-01",
+        "url": "https://bitcoinfoundation.org/news/crimes-and-fraud-news/crypto-hacks-june-2026/",
+        "resumo": "In June 2026, hackers stole nearly $76M across 40 crypto project hacks. We break down PeckShield’s latest report. In the first month of summer 2026,... The post PeckShield: Hackers Draining Crypto Industry — Nearly $76M in June, $750M in First Half of 2026 ap…",
+        "imagem": "https://bitcoinfoundation.org/wp-content/uploads/2026/03/ChatGPT-Image-31-мар.-2026-г.-13_26_26-1-opt.webp"
     },
     {
-        "titulo": "This month in security with Tony Anscombe – June 2026 edition",
-        "fonte": "We Live Security",
+        "titulo": "Endpoint Security Market worth $28.06 billion by 2031 | Report by MarketsandMarkets™",
+        "fonte": "PRNewswire",
         "autor": "",
-        "data": "2026-06-30",
-        "url": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-june-2026/",
-        "resumo": "Three-day patching deadlines, exposed fuel-tank systems, scams costing billions of dollars, and social media bans for children all gave Tony plenty to unpack in June 2026",
-        "imagem": ""
+        "data": "2026-07-01",
+        "url": "https://www.prnewswire.com/news-releases/endpoint-security-market-worth-28-06-billion-by-2031--report-by-marketsandmarkets-302815572.html",
+        "resumo": "DELRAY BEACH, Fla., July 1, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Endpoint Security Market is projected to grow from USD 17.76 billion in 2026 to USD 28.06 billion by 2031, registering a CAGR of 9.6% during the forecast period (2026-2031).…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA2746974&p=facebook"
     }
 ]
