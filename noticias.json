@@ -1,182 +1,173 @@
 [
     {
-        "titulo": "US Department of Homeland Security probes cyber breach at critical information-sharing network",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-07-03",
-        "url": "https://cryptobriefing.com/dhs-cyber-breach-hsin-investigation/",
-        "resumo": "The breach underscores vulnerabilities in critical infrastructure, potentially accelerating cybersecurity advancements and regulatory scrutiny. The post US Department of Homeland Security probes cyber breach at critical information-sharing network appeared fi…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/03054858/https-interiorarchitects-com-wp-content-uploads-2024-09-03sb-800x420.jpeg"
+        "titulo": "Soatok&#x27;s Informal Guide to Threat Models",
+        "fonte": "Soatok.blog",
+        "autor": "View Archive →",
+        "data": "2026-07-04",
+        "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
+        "resumo": "After a long day of exhausting conversations about Hybrid Post-Quantum Cryptography, random jackasses trying to play gotcha with endpoint attacks against end-to-end encrypted messaging apps, and me…",
+        "imagem": "https://i0.wp.com/soatok.blog/wp-content/uploads/2026/06/BlogHeader-2026-ThreatModel-Guide.png?fit=1200%2C675&ssl=1"
     },
     {
-        "titulo": "Hikvision Earns Industry-First EUCC Certification for Network Cameras",
-        "fonte": "PRNewswire",
-        "autor": "",
+        "titulo": "Cybersecurity in space: Protecting the next frontier of critical infrastructure",
+        "fonte": "Digital Journal",
+        "autor": "Dr. Tim Sandle",
         "data": "2026-07-03",
-        "url": "https://www.prnewswire.com/news-releases/hikvision-earns-industry-first-eucc-certification-for-network-cameras-302817555.html",
-        "resumo": "HANGZHOU, China, July 3, 2026 /PRNewswire/ -- Hikvision announced that its DeepinView network camera series (iDS-2CD7x) has successfully obtained the EUCC (The European Cybersecurity Scheme on Common Criteria) certification. This milestone marks the world&#x27;s f…",
-        "imagem": "https://mma.prnewswire.com/media/3003692/image1.jpg?p=facebook"
+        "url": "https://www.digitaljournal.com/article/cybersecurity-in-space-protecting-the-next-frontier-of-critical-infrastructure/",
+        "resumo": "As missions move beyond Earth, organisations will need technologies capable of functioning independently under extreme conditions. Systems deployed in orbit may need to withstand radiation, communication delays and prolonged isolation while maintaining a stro…",
+        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2026/05/cde48bb53dc6b1d348ac1a41922b7dc9494a5378.jpg"
     },
     {
-        "titulo": "EU lawmaker who investigated spyware abuse was hacked with Pegasus",
+        "titulo": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+        "fonte": "Epoch.ai",
+        "autor": "Luke Emberson",
+        "data": "2026-07-03",
+        "url": "https://epoch.ai/data-insights/cve-severity-spike",
+        "resumo": "Notable organizations disclosed ~1,300 high- and critical-severity CVEs in June 2026, roughly 3.5× the pre-Mythos monthly record. Epoch AI&#x27;s breakdown of vulnerability disclosures following Anthropic&#x27;s Project Glasswing.",
+        "imagem": "https://epoch.ai/assets/images/data-insights/cve-severity-spike/t-cve-severity-spike-di.png"
+    },
+    {
+        "titulo": "Pandhrabodi Lake Revival Bid On, Volunteers Remove 500kg Waste",
+        "fonte": "The Times of India",
+        "autor": "Sumukh Kulkarni",
+        "data": "2026-07-03",
+        "url": "https://timesofindia.indiatimes.com/city/nagpur/pandhrabodi-lake-revival-bid-on-volunteers-remove-500kg-waste/articleshow/132170359.cms",
+        "resumo": "Nagpur volunteers and NMC launch Mission Save Pandhrabodi Lake, removing 500kg waste in phase one to revive the encroached, shrinking urban lake.",
+        "imagem": "https://static.toiimg.com/thumb/msid-132170358,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+    },
+    {
+        "titulo": "NDRF deploys rescue teams in Maharashtra and Goa",
+        "fonte": "The Times of India",
+        "autor": "Anjali Jhangiani",
+        "data": "2026-07-03",
+        "url": "https://timesofindia.indiatimes.com/city/pune/ndrf-deploys-rescue-teams-in-maharashtra-and-goa/articleshow/132170357.cms",
+        "resumo": "NDRF pre-positions monsoon rescue teams at 12 locations across Maharashtra and Goa from July 1 to speed response to floods, landslides and urban flooding.",
+        "imagem": "https://static.toiimg.com/thumb/msid-132170356,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+    },
+    {
+        "titulo": "No respite for Junagadh as downpours batter Saurashtra for 3rd day",
+        "fonte": "The Times of India",
+        "autor": "The Times Of India",
+        "data": "2026-07-03",
+        "url": "https://timesofindia.indiatimes.com/city/rajkot/no-respite-for-junagadh-as-downpours-batter-saurashtra-for-3rd-day/articleshow/132170342.cms",
+        "resumo": "Saurashtra hit by heavy rain for 3rd day; Junagadh worst affected. Flooding strands bus and ONGC staff, floods homes, disrupts highways; NDRF on standby.",
+        "imagem": "https://static.toiimg.com/thumb/msid-132170341,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+    },
+    {
+        "titulo": "Gujarat police arrests four more accused in pan-India mule account scams",
+        "fonte": "The Times of India",
+        "autor": "TNN",
+        "data": "2026-07-03",
+        "url": "https://timesofindia.indiatimes.com/city/ahmedabad/gujarat-police-arrests-four-more-accused-in-pan-india-mule-account-scams/articleshow/132170340.cms",
+        "resumo": "Gujarat CID Cyber arrests four in Operation Mule Hunt 2.0; mule accounts tied to ₹161-crore fraud and Bhavnagar bank hack, linked to 1,117 complaints nationwide.",
+        "imagem": "https://static.toiimg.com/thumb/msid-132170337,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+    },
+    {
+        "titulo": "Two-day urban mobility workshop held to push safe road designs in Ahmedabad",
+        "fonte": "The Times of India",
+        "autor": "TNN",
+        "data": "2026-07-03",
+        "url": "https://timesofindia.indiatimes.com/city/ahmedabad/two-day-urban-mobility-workshop-held-to-push-safe-road-designs-in-ahmedabad/articleshow/132170309.cms",
+        "resumo": "Ahmedabad hosted a two-day active mobility workshop with AMC and MoHUA, training officials and experts on safe walking, cycling and complete streets ahead of 2030/2036 events.",
+        "imagem": "https://static.toiimg.com/thumb/msid-132170308,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+    },
+    {
+        "titulo": "28,234 students allotted junior colleges in second special CAP round",
+        "fonte": "The Times of India",
+        "autor": "The Times Of India",
+        "data": "2026-07-03",
+        "url": "https://timesofindia.indiatimes.com/city/pune/28234-students-allotted-junior-colleges-in-second-special-cap-round/articleshow/132170297.cms",
+        "resumo": "Pune FYJC 2026-27: 28,234 students allotted seats in second special CAP round; admissions must be confirmed online. Total allotments 77,466; Science leads.",
+        "imagem": "https://static.toiimg.com/thumb/msid-131251327,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+    },
+    {
+        "titulo": "Adani group to set up Rs 2,500cr health city in New Town",
+        "fonte": "The Times of India",
+        "autor": "Udit Prasanna Mukherji",
+        "data": "2026-07-03",
+        "url": "https://timesofindia.indiatimes.com/city/kolkata/adani-group-to-set-up-rs-2500cr-health-city-in-new-town/articleshow/132170274.cms",
+        "resumo": "Adani Group to build a Rs 2,500 crore health city in New Town, Kolkata, on 51 acres, with Mayo Clinic collaboration; 1,000-bed hospital, half beds free.",
+        "imagem": "https://static.toiimg.com/thumb/msid-132170273,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+    },
+    {
+        "titulo": "Jaipur man arrested for murder over defecation bottle row",
+        "fonte": "The Times of India",
+        "autor": "TNN",
+        "data": "2026-07-03",
+        "url": "https://timesofindia.indiatimes.com/city/jaipur/jaipur-man-arrested-for-murder-over-defecation-bottle-row/articleshow/132170267.cms",
+        "resumo": "Jaipur Rural police arrest 28-year-old for killing missing villager Rakesh Jat over a bottle dispute; body buried in riverbed, recovered after month-long probe.",
+        "imagem": "https://static.toiimg.com/thumb/msid-132170266,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+    },
+    {
+        "titulo": "Build statewide trauma network, expand cancer care: Yogi",
+        "fonte": "The Times of India",
+        "autor": "TNN",
+        "data": "2026-07-03",
+        "url": "https://timesofindia.indiatimes.com/city/lucknow/build-statewide-trauma-network-expand-cancer-care-yogi/articleshow/132170265.cms",
+        "resumo": "Yogi Adityanath directs UP to expand cancer care in every district and launch an integrated trauma and emergency network for Golden Hour treatment statewide.",
+        "imagem": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
+    },
+    {
+        "titulo": "Hazare defers July 5 fast after govt puts RTI Rules on hold",
+        "fonte": "The Times of India",
+        "autor": "Nisha Nambiar",
+        "data": "2026-07-03",
+        "url": "https://timesofindia.indiatimes.com/city/pune/hazare-defers-july-5-fast-after-govt-puts-rti-rules-on-hold/articleshow/132170264.cms",
+        "resumo": "Anna Hazare postpones July 5 indefinite fast after Maharashtra govt puts 2026 RTI Rules on hold; warns of fresh stir if rules aren’t withdrawn.",
+        "imagem": "https://static.toiimg.com/thumb/msid-132170263,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+    },
+    {
+        "titulo": "Jagan murder: Vishnu arrested from high security jail",
+        "fonte": "The Times of India",
+        "autor": "The Times Of India",
+        "data": "2026-07-03",
+        "url": "https://timesofindia.indiatimes.com/city/jaipur/jagan-murder-vishnu-arrested-from-high-security-jail/articleshow/132170261.cms",
+        "resumo": "Civil Lines police arrested Vishnu Jat from Ajmer’s high-security jail for the alleged murder of dacoit Jagan Gurjar; medical board confirmed strangulation.",
+        "imagem": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
+    },
+    {
+        "titulo": "Hadapsar housing society blames road digging for power cuts, approaches police",
+        "fonte": "The Times of India",
+        "autor": "Shashank Didmishe",
+        "data": "2026-07-03",
+        "url": "https://timesofindia.indiatimes.com/city/pune/hadapsar-housing-society-blames-road-digging-for-power-cuts-approaches-police/articleshow/132170260.cms",
+        "resumo": "Hadapsar’s La Salette society files police complaint over PMC contractor’s road digging damaging power cables, causing repeated 24+ hour outages and diesel costs.",
+        "imagem": "https://static.toiimg.com/thumb/msid-132170259,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+    },
+    {
+        "titulo": "Three held in 2021 JE civil paper leak cases, candidates allegedly paid Rs 15L each",
+        "fonte": "The Times of India",
+        "autor": "TNN",
+        "data": "2026-07-03",
+        "url": "https://timesofindia.indiatimes.com/city/jaipur/three-held-in-2021-je-civil-paper-leak-cases-candidates-allegedly-paid-rs-15l-each/articleshow/132170257.cms",
+        "resumo": "Rajasthan SOG arrests three in 2021 JE Civil paper leak case; accused allegedly sold solved question paper to candidates for Rs 15 lakh each; probe ongoing.",
+        "imagem": "https://static.toiimg.com/thumb/msid-132170256,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+    },
+    {
+        "titulo": "Alibaba bans Claude Code after Anthropic is caught tracking Chinese users with hidden code",
         "fonte": "The Next Web",
-        "autor": "Ana-Maria Stanciuc",
+        "autor": "Alina Maria Stan",
         "data": "2026-07-03",
-        "url": "https://thenextweb.com/news/eu-lawmaker-investigating-spyware-hacked-with-pegasus/",
-        "resumo": "Stelios Kouloglou spent two years on the European Parliament committee set up to investigate governments spying on their own citizens with commercial hacking tools. According to a report published Friday by Citizen Lab, the University of Toronto research grou…",
-        "imagem": "https://media.thenextweb.com/2026/07/Stelios-Kouloglou.avif"
+        "url": "https://thenextweb.com/news/alibaba-bans-claude-code-anthropic-tracking-chinese-users/",
+        "resumo": "Alibaba has banned its employees from using Claude Code, Anthropic’s AI-powered coding agent, after security researchers discovered that the tool contained hidden code designed to identify Chinese users. The ban, effective 10 July, follows weeks of escalating…",
+        "imagem": "https://media.thenextweb.com/2021/04/Jack-Ma-hed.avif"
     },
     {
-        "titulo": "Hikvision Earns Industry-First EUCC Certification for Network Cameras",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-07-03",
-        "url": "https://www.prnewswire.com/news-releases/hikvision-earns-industry-first-eucc-certification-for-network-cameras-302817536.html",
-        "resumo": "HANGZHOU, China, July 3, 2026 /PRNewswire/ -- Hikvision announced that its DeepinView network camera series (iDS-2CD7x) has successfully obtained the EUCC (The European Cybersecurity Scheme on Common Criteria) certification. This milestone marks the world&#x27;s f…",
-        "imagem": "https://mma.prnewswire.com/media/3003692/image1.jpg?p=facebook"
-    },
-    {
-        "titulo": "Anthropic details Claude Fable 5’s cybersecurity safeguards and AI jailbreak framework",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-07-03",
-        "url": "https://cryptobriefing.com/anthropic-claude-fable-5-jailbreak-framework/",
-        "resumo": "The collaboration on AI security standards could set a new industry baseline, influencing resource allocation and vulnerability management. The post Anthropic details Claude Fable 5’s cybersecurity safeguards and AI jailbreak framework appeared first on Crypt…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/02203831/anthropic-opens-milan-office-six-cities-in-one-year-3-800x420.jpeg"
-    },
-    {
-        "titulo": "Christine Lagarde: Interview with Les Échos",
-        "fonte": "Europa.eu",
-        "autor": "European Central Bank",
-        "data": "2026-07-02",
-        "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260702~c56db179c3.en.html",
-        "resumo": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
-        "imagem": "https://www.ecb.europa.eu/press/inter/shared/img/socialmedia/social-default.jpg?58a9573de993c82d3c9e0b84d422b52a"
-    },
-    {
-        "titulo": "Automotive Testing, Inspection and Certification TIC Market Size/Share Worth USD 64.8 Billion by 2035 at a 7.6% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segm",
-        "fonte": "GlobeNewswire",
-        "autor": "CMI MARKET RESEARCH PRIVATE LIMITED",
-        "data": "2026-07-02",
-        "url": "https://www.globenewswire.com/news-release/2026/07/02/3321532/0/en/Automotive-Testing-Inspection-and-Certification-TIC-Market-Size-Share-Worth-USD-64-8-Billion-by-2035-at-a-7-6-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-For.html",
-        "resumo": "[220+ Pages Latest Report] According to a market research study published by Custom Market Insights, the demand analysis of Global Automotive Testing, Inspection and Certification TIC Market size &amp; share revenue was valued at approximately USD 28.6 Billion in…",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/74609d89-5437-4826-b7b8-31238ea2e65c"
-    },
-    {
-        "titulo": "Guardrails in the works to prevent tampering with EV batteries",
+        "titulo": "Housing federation seeks EV charging, self-redevelopment norms in new cooperative by-laws",
         "fonte": "The Times of India",
-        "autor": "Twesh Mishra and Sharmistha Mukherjee",
-        "data": "2026-07-02",
-        "url": "https://economictimes.indiatimes.com/industry/renewables/guardrails-in-the-works-to-prevent-tampering-with-ev-batteries/articleshow/132146835.cms",
-        "resumo": "Authorities are set to introduce stringent measures to prevent tampering with electric two and three-wheeler batteries. New regulations will mandate cybersecurity for imported e-rickshaws and scooters, while mobile apps capable of sabotaging existing vehicles…",
-        "imagem": "https://img.etimg.com/thumb/msid-132146934,width-1200,height-630,imgsize-58526,overlay-economictimes/articleshow.jpg"
+        "autor": "Nisha Nambiar",
+        "data": "2026-07-03",
+        "url": "https://timesofindia.indiatimes.com/city/pune/housing-federation-seeks-ev-charging-self-redevelopment-norms-in-new-cooperative-by-laws/articleshow/132169961.cms",
+        "resumo": "Maharashtra Housing Federation urges new cooperative bye-laws to include EV charging norms, self-redevelopment rules, pet guidelines, dispute resolution and digital governance.",
+        "imagem": "https://static.toiimg.com/thumb/msid-132169960,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
     },
     {
-        "titulo": "Guardrails in the works to prevent tampering with EV batteries",
+        "titulo": "Jaipur CMHO’s letter misstates Dhankhar’s blood group; rectifies on time",
         "fonte": "The Times of India",
-        "autor": "Twesh Mishra, Sharmistha Mukherjee",
-        "data": "2026-07-02",
-        "url": "https://economictimes.indiatimes.com/tech/technology/guardrails-in-the-works-to-prevent-tampering-with-ev-batteries/articleshow/132154571.cms",
-        "resumo": "Authorities are set to introduce stringent measures to prevent tampering with electric two and three-wheeler batteries. New regulations will mandate cybersecurity for imported e-rickshaws and scooters, while mobile apps capable of sabotaging existing vehicles…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-58526,resizemode-75,msid-132154571/tech/technology/guardrails-in-the-works-to-prevent-tampering-with-ev-batteries.jpg"
-    },
-    {
-        "titulo": "CrowdStrike President on How Claude Mythos Rattles the Cybersecurity Industry",
-        "fonte": "Observer",
-        "autor": "Tim Keary, Tim Keary",
-        "data": "2026-07-02",
-        "url": "https://observer.com/2026/07/crowdstrike-president-claude-mythos-rattle-cybersecurity/",
-        "resumo": "CrowdStrike president Michael Sentonas explains how Claude Mythos is driving hype and testing the readiness of the cybersecurity industry.",
-        "imagem": "https://observer.com/wp-content/uploads/sites/2/2026/07/GettyImages-2283356953.jpg?quality=80"
-    },
-    {
-        "titulo": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-07-02",
-        "url": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
-        "resumo": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access. &quot;Although tactics differ between affiliates, common patterns emerged in tradecraft through …",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5gkjf1FwB4__nC6-pLZYnDv2rJA29UAL9mxfCv4BNSl1FxNpat9jD-OiMRLewjXJXyiSGvqiLYcewN_b1lLFHh0FhzKkrHFzu82jziSuOodYX87FkwjuCcXaqwzWRsiFdsBcd9mzDnak1rJpDu46F8TV206IEcD1pE7njojB8TcQEZ4Wa70KnK2vyeVKI/s1700-e365/ransomwares.jpg"
-    },
-    {
-        "titulo": "Catan and Mouse",
-        "fonte": "Talosintelligence.com",
-        "autor": "William Largent",
-        "data": "2026-07-02",
-        "url": "https://blog.talosintelligence.com/catan-and-mouse/",
-        "resumo": "What do board games and cybersecurity have in common? Pattern recognition. Strategy. Adaptation. In this week’s Threat Source Bill explores why curiosity may be a defender’s most valuable skill.",
-        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/06/threat_source-3.jpg"
-    },
-    {
-        "titulo": "[Security Blog] Smart Wearables, Smart Security: Cybersecurity Guide for Smart Wearables",
-        "fonte": "Hkcert.org",
-        "autor": "",
-        "data": "2026-07-02",
-        "url": "https://www.hkcert.org/blog/smart-wearables-smart-security-cybersecurity-guide-for-smart-wearables",
-        "resumo": "As smart technologies become increasingly integrated into daily life, smart wearable devices have gradually become part of citizens’ daily lives in recent years. In general, smart wearable devices refer to electronic devices that can be worn on the body a",
-        "imagem": "https://www.hkcert.org/assets/shared/img/Logo1.jpg"
-    },
-    {
-        "titulo": "U.S. CISA adds a Microsoft SharePoint Server flaw to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-07-02",
-        "url": "https://securityaffairs.com/194654/security/u-s-cisa-adds-a-microsoft-sharepoint-server-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a Microsoft SharePoint Server flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Microsoft SharePoint Server flaw, tra…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "Visa Lets Banks Access Its In-House Cybersecurity Capabilities",
-        "fonte": "pymnts.com",
-        "autor": "PYMNTS",
-        "data": "2026-07-02",
-        "url": "https://www.pymnts.com/cybersecurity/2026/visa-lets-banks-access-cybersecurity-capabilities/",
-        "resumo": "Visa debuted a solution designed to help financial institutions spot cyberthreats and prevent fraud, according to a Thursday (July 2) press release. The Visa Threat Intelligence Platform (VTIP) employs the same cybersecurity capabilities Visa uses to protect …",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2023/08/Visa.jpg"
-    },
-    {
-        "titulo": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
-        "fonte": "BleepingComputer",
-        "autor": "Sponsored by Huntress Labs",
-        "data": "2026-07-02",
-        "url": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
-        "resumo": "ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and how to defend against them. [...]",
-        "imagem": "https://www.bleepstatic.com/content/posts/2026/06/30/clickfix-header-s.jpg"
-    },
-    {
-        "titulo": "US cyber agency warns over forgotten SharePoint flaw",
-        "fonte": "ComputerWeekly.com",
-        "autor": "Alex Scroxton",
-        "data": "2026-07-02",
-        "url": "https://www.computerweekly.com/news/366645307/US-cyber-agency-warns-over-forgotten-SharePoint-flaw",
-        "resumo": "An RCE vulnerability in Microsoft SharePoint that was mistakenly omitted from the May Patch Tuesday bulletin is being exploited in the wild, says Cisa.",
-        "imagem": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/cyber-security-attack-hack-breach-MaksymFilipchuk-adobe.jpg"
-    },
-    {
-        "titulo": "Cognizant and OpenAI bring frontier AI cyber defense from vulnerability discovery to validated fixes",
-        "fonte": "PR Newswire UK",
-        "autor": "",
-        "data": "2026-07-02",
-        "url": "https://www.prnewswire.co.uk/news-releases/cognizant-and-openai-bring-frontier-ai-cyber-defense-from-vulnerability-discovery-to-validated-fixes-302816442.html",
-        "resumo": "As a member of the OpenAI Daybreak Cyber Partner Program, Cognizant brings the services, security expertise and implementation scale to help enterprises move frontier AI capability into production-grade defense. TEANECK, N.J., July 2, 2026 /PRNewswire/ -- Cog…",
-        "imagem": "https://mmx.prnewswire.com/media/MS607279/Cognizant-Logo-V1.jpg?id=OA2748115&p=facebook"
-    },
-    {
-        "titulo": "Cognizant and OpenAI bring frontier AI cyber defense from vulnerability discovery to validated fixes",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-07-02",
-        "url": "https://www.prnewswire.com/news-releases/cognizant-and-openai-bring-frontier-ai-cyber-defense-from-vulnerability-discovery-to-validated-fixes-302816420.html",
-        "resumo": "As a member of the OpenAI Daybreak Cyber Partner Program, Cognizant brings the services, security expertise and implementation scale to help enterprises move frontier AI capability into production-grade defense. TEANECK, N.J., July 2, 2026 /PRNewswire/ -- Cog…",
-        "imagem": "https://mmx.prnewswire.com/media/MS607279/Cognizant-Logo-V1.jpg?id=OA2748055&p=facebook"
-    },
-    {
-        "titulo": "Researcher Behind &#x27;Exploitarium&#x27; Explains Release of Undisclosed Zero-Day Exploits",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Kevin Poireault",
-        "data": "2026-07-02",
-        "url": "https://www.infosecurity-magazine.com/news/researcher-exploitarium-exploits/",
-        "resumo": "Infosecurity spoke with the researcher who dumped over 30 proof-of-concept exploits without disclosing the vulnerabilities first",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/f25bd269-4211-47e1-950d-1309d80b08ac.jpg"
+        "autor": "Syed Intishab Ali",
+        "data": "2026-07-03",
+        "url": "https://timesofindia.indiatimes.com/city/jaipur/jaipur-cmhos-letter-misstates-dhankhars-blood-group-rectifies-on-time/articleshow/132170228.cms",
+        "resumo": "Jaipur health dept mistakenly listed ex-VP Jagdeep Dhankhar’s blood group as O- instead of A+ in SMS Hospital protocol letter; error corrected, no impact on angioplasty.",
+        "imagem": "https://static.toiimg.com/thumb/msid-132170227,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
     }
 ]
