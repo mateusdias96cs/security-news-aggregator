@@ -1,5 +1,32 @@
 [
     {
+        "titulo": "Week in review: SimpleHelp vulnerability exploited, Oracle EBS Payments flaw under attack",
+        "fonte": "Help Net Security",
+        "autor": "Help Net Security",
+        "data": "2026-07-05",
+        "url": "https://www.helpnetsecurity.com/2026/07/05/week-in-review-simplehelp-vulnerability-exploited-oracle-ebs-payments-flaw-under-attack/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Companies keep bolting AI onto their products, and the security bill is coming due Companies keep bolting AI and LLM features onto their products, and the securi…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/16184227/week-in-review.jpg"
+    },
+    {
+        "titulo": "Security Affairs newsletter Round 584 by Pierluigi Paganini – INTERNATIONAL EDITION",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-07-05",
+        "url": "https://securityaffairs.com/194772/security/security-affairs-newsletter-round-584-by-pierluigi-paganini-international-edition.html",
+        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. U.S. Gov…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
+    },
+    {
+        "titulo": "India&#x27;s factory boom comes with a growing cyber bill",
+        "fonte": "The Times of India",
+        "autor": "ET Online",
+        "data": "2026-07-04",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/cyberattacks-on-tata-electronics-and-bajaj-auto-highlight-rising-cybersecurity-risks-for-indian-manufacturing-factories/articleshow/132180055.cms",
+        "resumo": "Cyberattacks on Bajaj Auto and Tata Electronics have exposed a growing risk for India&#x27;s manufacturing sector, compounded by rising automation and connectivity. Industry experts believe that the interconnected nature of factories creates vast opportunities for…",
+        "imagem": "https://img.etimg.com/thumb/msid-132180055,width-1200,height-630,imgsize-338062,overlay-economictimes/articleshow.jpg"
+    },
+    {
         "titulo": "Soatok&#x27;s Informal Guide to Threat Models",
         "fonte": "Soatok.blog",
         "autor": "View Archive →",
@@ -142,32 +169,5 @@
         "url": "https://timesofindia.indiatimes.com/city/jaipur/three-held-in-2021-je-civil-paper-leak-cases-candidates-allegedly-paid-rs-15l-each/articleshow/132170257.cms",
         "resumo": "Rajasthan SOG arrests three in 2021 JE Civil paper leak case; accused allegedly sold solved question paper to candidates for Rs 15 lakh each; probe ongoing.",
         "imagem": "https://static.toiimg.com/thumb/msid-132170256,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
-    },
-    {
-        "titulo": "Alibaba bans Claude Code after Anthropic is caught tracking Chinese users with hidden code",
-        "fonte": "The Next Web",
-        "autor": "Alina Maria Stan",
-        "data": "2026-07-03",
-        "url": "https://thenextweb.com/news/alibaba-bans-claude-code-anthropic-tracking-chinese-users/",
-        "resumo": "Alibaba has banned its employees from using Claude Code, Anthropic’s AI-powered coding agent, after security researchers discovered that the tool contained hidden code designed to identify Chinese users. The ban, effective 10 July, follows weeks of escalating…",
-        "imagem": "https://media.thenextweb.com/2021/04/Jack-Ma-hed.avif"
-    },
-    {
-        "titulo": "Housing federation seeks EV charging, self-redevelopment norms in new cooperative by-laws",
-        "fonte": "The Times of India",
-        "autor": "Nisha Nambiar",
-        "data": "2026-07-03",
-        "url": "https://timesofindia.indiatimes.com/city/pune/housing-federation-seeks-ev-charging-self-redevelopment-norms-in-new-cooperative-by-laws/articleshow/132169961.cms",
-        "resumo": "Maharashtra Housing Federation urges new cooperative bye-laws to include EV charging norms, self-redevelopment rules, pet guidelines, dispute resolution and digital governance.",
-        "imagem": "https://static.toiimg.com/thumb/msid-132169960,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
-    },
-    {
-        "titulo": "Jaipur CMHO’s letter misstates Dhankhar’s blood group; rectifies on time",
-        "fonte": "The Times of India",
-        "autor": "Syed Intishab Ali",
-        "data": "2026-07-03",
-        "url": "https://timesofindia.indiatimes.com/city/jaipur/jaipur-cmhos-letter-misstates-dhankhars-blood-group-rectifies-on-time/articleshow/132170228.cms",
-        "resumo": "Jaipur health dept mistakenly listed ex-VP Jagdeep Dhankhar’s blood group as O- instead of A+ in SMS Hospital protocol letter; error corrected, no impact on angioplasty.",
-        "imagem": "https://static.toiimg.com/thumb/msid-132170227,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
     }
 ]
