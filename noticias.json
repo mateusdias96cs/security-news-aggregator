@@ -1,5 +1,50 @@
 [
     {
+        "titulo": "Moody Bible Institute breach leaves 2.3M accounts needing salvation, says cyber expert",
+        "fonte": "Theregister.com",
+        "autor": "Connor Jones",
+        "data": "2026-07-06",
+        "url": "https://www.theregister.com/security/2026/07/06/moody-bible-institute-breach-leaves-23m-accounts-needing-salvation-says-cyber-expert/5266827",
+        "resumo": "ShinyHunters leaks names, addresses, DOBs, and more after Christian college discloses cyberattack",
+        "imagem": "https://image.theregister.com/5266854.jpg?imageId=5266854&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+        "titulo": "We built a trillion-dollar security industry on top of an unprotected layer",
+        "fonte": "TechRadar",
+        "autor": "Sarah Gosler",
+        "data": "2026-07-06",
+        "url": "https://www.techradar.com/pro/we-built-a-trillion-dollar-security-industry-on-top-of-an-unprotected-layer",
+        "resumo": "As attackers increasingly exploit the &#x27;human stack&#x27;, organizations must shift from purely technical defenses to behavior-based resilience.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/wV66hEbpJdAc4iPB7RwtkK-2560-80.jpg"
+    },
+    {
+        "titulo": "Crypto wallets at risk from ‘Ill Bloom’ vulnerability, $5M stolen",
+        "fonte": "Crypto Briefing",
+        "autor": "Estefano Gomez",
+        "data": "2026-07-06",
+        "url": "https://cryptobriefing.com/crypto-wallets-at-risk-from-ill-bloom-vulnerability-5m-stolen/",
+        "resumo": "The Ill Bloom vulnerability highlights the urgent need for enhanced security measures in crypto wallets to prevent future financial losses. The post Crypto wallets at risk from ‘Ill Bloom’ vulnerability, $5M stolen appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/06014305/300m-in-cryptocurrency-accidentally-lost-forever-due-to-bug--1-800x420.jpeg"
+    },
+    {
+        "titulo": "Russian hackers infiltrate UK government emails in cyberattack targeting Foreign Office officials",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-07-05",
+        "url": "https://cryptobriefing.com/russian-hackers-uk-government-emails-cyberattack/",
+        "resumo": "The cyberattack underscores the urgent need for enhanced cybersecurity measures to protect sensitive government data from state-sponsored threats. The post Russian hackers infiltrate UK government emails in cyberattack targeting Foreign Office officials appea…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/05171150/foreign-office-is-elitist-and-rooted-in-the-past-says-new-re-800x420.jpeg"
+    },
+    {
+        "titulo": "US Homeland Security Information Network Hit by Cyber Intruders, Exposing Sensitive Government Data",
+        "fonte": "The Daily Hodl",
+        "autor": "Daily Hodl Staff",
+        "data": "2026-07-05",
+        "url": "https://dailyhodl.com/2026/07/05/us-homeland-security-information-network-hit-by-cyber-intruders-exposing-sensitive-government-data/",
+        "resumo": "The Department of Homeland Security’s Homeland Security Information Network has suffered unauthorized access that potentially exposed sensitive planning details for major events. The platform serves as a critical tool for federal, state and local agencies to …",
+        "imagem": "https://dailyhodl.com/wp-content/uploads/2025/08/risk-after-hackers-hit.jpg?resize=1365,800"
+    },
+    {
         "titulo": "Week in review: SimpleHelp vulnerability exploited, Oracle EBS Payments flaw under attack",
         "fonte": "Help Net Security",
         "autor": "Help Net Security",
@@ -124,50 +169,5 @@
         "url": "https://timesofindia.indiatimes.com/city/jaipur/jaipur-man-arrested-for-murder-over-defecation-bottle-row/articleshow/132170267.cms",
         "resumo": "Jaipur Rural police arrest 28-year-old for killing missing villager Rakesh Jat over a bottle dispute; body buried in riverbed, recovered after month-long probe.",
         "imagem": "https://static.toiimg.com/thumb/msid-132170266,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
-    },
-    {
-        "titulo": "Build statewide trauma network, expand cancer care: Yogi",
-        "fonte": "The Times of India",
-        "autor": "TNN",
-        "data": "2026-07-03",
-        "url": "https://timesofindia.indiatimes.com/city/lucknow/build-statewide-trauma-network-expand-cancer-care-yogi/articleshow/132170265.cms",
-        "resumo": "Yogi Adityanath directs UP to expand cancer care in every district and launch an integrated trauma and emergency network for Golden Hour treatment statewide.",
-        "imagem": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
-    },
-    {
-        "titulo": "Hazare defers July 5 fast after govt puts RTI Rules on hold",
-        "fonte": "The Times of India",
-        "autor": "Nisha Nambiar",
-        "data": "2026-07-03",
-        "url": "https://timesofindia.indiatimes.com/city/pune/hazare-defers-july-5-fast-after-govt-puts-rti-rules-on-hold/articleshow/132170264.cms",
-        "resumo": "Anna Hazare postpones July 5 indefinite fast after Maharashtra govt puts 2026 RTI Rules on hold; warns of fresh stir if rules aren’t withdrawn.",
-        "imagem": "https://static.toiimg.com/thumb/msid-132170263,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
-    },
-    {
-        "titulo": "Jagan murder: Vishnu arrested from high security jail",
-        "fonte": "The Times of India",
-        "autor": "The Times Of India",
-        "data": "2026-07-03",
-        "url": "https://timesofindia.indiatimes.com/city/jaipur/jagan-murder-vishnu-arrested-from-high-security-jail/articleshow/132170261.cms",
-        "resumo": "Civil Lines police arrested Vishnu Jat from Ajmer’s high-security jail for the alleged murder of dacoit Jagan Gurjar; medical board confirmed strangulation.",
-        "imagem": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
-    },
-    {
-        "titulo": "Hadapsar housing society blames road digging for power cuts, approaches police",
-        "fonte": "The Times of India",
-        "autor": "Shashank Didmishe",
-        "data": "2026-07-03",
-        "url": "https://timesofindia.indiatimes.com/city/pune/hadapsar-housing-society-blames-road-digging-for-power-cuts-approaches-police/articleshow/132170260.cms",
-        "resumo": "Hadapsar’s La Salette society files police complaint over PMC contractor’s road digging damaging power cables, causing repeated 24+ hour outages and diesel costs.",
-        "imagem": "https://static.toiimg.com/thumb/msid-132170259,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
-    },
-    {
-        "titulo": "Three held in 2021 JE civil paper leak cases, candidates allegedly paid Rs 15L each",
-        "fonte": "The Times of India",
-        "autor": "TNN",
-        "data": "2026-07-03",
-        "url": "https://timesofindia.indiatimes.com/city/jaipur/three-held-in-2021-je-civil-paper-leak-cases-candidates-allegedly-paid-rs-15l-each/articleshow/132170257.cms",
-        "resumo": "Rajasthan SOG arrests three in 2021 JE Civil paper leak case; accused allegedly sold solved question paper to candidates for Rs 15 lakh each; probe ongoing.",
-        "imagem": "https://static.toiimg.com/thumb/msid-132170256,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
     }
 ]
