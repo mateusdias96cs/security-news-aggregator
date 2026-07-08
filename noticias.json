@@ -1,173 +1,182 @@
 [
     {
-        "titulo": "Moody Bible Institute breach leaves 2.3M accounts needing salvation, says cyber expert",
-        "fonte": "Theregister.com",
-        "autor": "Connor Jones",
-        "data": "2026-07-06",
-        "url": "https://www.theregister.com/security/2026/07/06/moody-bible-institute-breach-leaves-23m-accounts-needing-salvation-says-cyber-expert/5266827",
-        "resumo": "ShinyHunters leaks names, addresses, DOBs, and more after Christian college discloses cyberattack",
-        "imagem": "https://image.theregister.com/5266854.jpg?imageId=5266854&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-    },
-    {
-        "titulo": "We built a trillion-dollar security industry on top of an unprotected layer",
-        "fonte": "TechRadar",
-        "autor": "Sarah Gosler",
-        "data": "2026-07-06",
-        "url": "https://www.techradar.com/pro/we-built-a-trillion-dollar-security-industry-on-top-of-an-unprotected-layer",
-        "resumo": "As attackers increasingly exploit the &#x27;human stack&#x27;, organizations must shift from purely technical defenses to behavior-based resilience.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/wV66hEbpJdAc4iPB7RwtkK-2560-80.jpg"
-    },
-    {
-        "titulo": "Crypto wallets at risk from ‘Ill Bloom’ vulnerability, $5M stolen",
-        "fonte": "Crypto Briefing",
-        "autor": "Estefano Gomez",
-        "data": "2026-07-06",
-        "url": "https://cryptobriefing.com/crypto-wallets-at-risk-from-ill-bloom-vulnerability-5m-stolen/",
-        "resumo": "The Ill Bloom vulnerability highlights the urgent need for enhanced security measures in crypto wallets to prevent future financial losses. The post Crypto wallets at risk from ‘Ill Bloom’ vulnerability, $5M stolen appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/06014305/300m-in-cryptocurrency-accidentally-lost-forever-due-to-bug--1-800x420.jpeg"
-    },
-    {
-        "titulo": "Russian hackers infiltrate UK government emails in cyberattack targeting Foreign Office officials",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-07-05",
-        "url": "https://cryptobriefing.com/russian-hackers-uk-government-emails-cyberattack/",
-        "resumo": "The cyberattack underscores the urgent need for enhanced cybersecurity measures to protect sensitive government data from state-sponsored threats. The post Russian hackers infiltrate UK government emails in cyberattack targeting Foreign Office officials appea…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/05171150/foreign-office-is-elitist-and-rooted-in-the-past-says-new-re-800x420.jpeg"
-    },
-    {
-        "titulo": "US Homeland Security Information Network Hit by Cyber Intruders, Exposing Sensitive Government Data",
-        "fonte": "The Daily Hodl",
-        "autor": "Daily Hodl Staff",
-        "data": "2026-07-05",
-        "url": "https://dailyhodl.com/2026/07/05/us-homeland-security-information-network-hit-by-cyber-intruders-exposing-sensitive-government-data/",
-        "resumo": "The Department of Homeland Security’s Homeland Security Information Network has suffered unauthorized access that potentially exposed sensitive planning details for major events. The platform serves as a critical tool for federal, state and local agencies to …",
-        "imagem": "https://dailyhodl.com/wp-content/uploads/2025/08/risk-after-hackers-hit.jpg?resize=1365,800"
-    },
-    {
-        "titulo": "Week in review: SimpleHelp vulnerability exploited, Oracle EBS Payments flaw under attack",
-        "fonte": "Help Net Security",
-        "autor": "Help Net Security",
-        "data": "2026-07-05",
-        "url": "https://www.helpnetsecurity.com/2026/07/05/week-in-review-simplehelp-vulnerability-exploited-oracle-ebs-payments-flaw-under-attack/",
-        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Companies keep bolting AI onto their products, and the security bill is coming due Companies keep bolting AI and LLM features onto their products, and the securi…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/16184227/week-in-review.jpg"
-    },
-    {
-        "titulo": "Security Affairs newsletter Round 584 by Pierluigi Paganini – INTERNATIONAL EDITION",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-07-05",
-        "url": "https://securityaffairs.com/194772/security/security-affairs-newsletter-round-584-by-pierluigi-paganini-international-edition.html",
-        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. U.S. Gov…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
-    },
-    {
-        "titulo": "India&#x27;s factory boom comes with a growing cyber bill",
+        "titulo": "15-year-old allegedly used ChatGPT to hack anime platform, unsubscribed 46,000 users in Japan",
         "fonte": "The Times of India",
         "autor": "ET Online",
-        "data": "2026-07-04",
-        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/cyberattacks-on-tata-electronics-and-bajaj-auto-highlight-rising-cybersecurity-risks-for-indian-manufacturing-factories/articleshow/132180055.cms",
-        "resumo": "Cyberattacks on Bajaj Auto and Tata Electronics have exposed a growing risk for India&#x27;s manufacturing sector, compounded by rising automation and connectivity. Industry experts believe that the interconnected nature of factories creates vast opportunities for…",
-        "imagem": "https://img.etimg.com/thumb/msid-132180055,width-1200,height-630,imgsize-338062,overlay-economictimes/articleshow.jpg"
+        "data": "2026-07-07",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/15-year-old-allegedly-used-chatgpt-to-hack-anime-platform-unsubscribed-46000-users-in-japan/articleshow/132235450.cms",
+        "resumo": "A Japanese teenager was arrested for allegedly using AI to disrupt Bandai Namco&#x27;s streaming service. The cyberattack caused the cancellation of over 46,000 user accounts and left the platform offline. Investigators believe the student used ChatGPT to help dev…",
+        "imagem": "https://img.etimg.com/thumb/msid-132235571,width-1200,height-630,imgsize-153152,overlay-economictimes/articleshow.jpg"
     },
     {
-        "titulo": "Soatok&#x27;s Informal Guide to Threat Models",
-        "fonte": "Soatok.blog",
-        "autor": "View Archive →",
-        "data": "2026-07-04",
-        "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-        "resumo": "After a long day of exhausting conversations about Hybrid Post-Quantum Cryptography, random jackasses trying to play gotcha with endpoint attacks against end-to-end encrypted messaging apps, and me…",
-        "imagem": "https://i0.wp.com/soatok.blog/wp-content/uploads/2026/06/BlogHeader-2026-ThreatModel-Guide.png?fit=1200%2C675&ssl=1"
+        "titulo": "A Beginner’s Guide to CI/CD and CI/CD Pipelines",
+        "fonte": "DevOps.com",
+        "autor": "Sean Pratt",
+        "data": "2026-07-07",
+        "url": "https://devops.com/a-beginners-guide-to-ci-cd-and-ci-cd-pipelines/",
+        "resumo": "Modern software development moves at a pace that would have been unthinkable a decade ago. Organizations push updates on demand, respond to vulnerabilities within minutes, and integrate new features at a relentless pace. This acceleration is driven by continu…",
+        "imagem": "https://devops.com/wp-content/uploads/2021/03/canstockphoto3507816.jpg"
     },
     {
-        "titulo": "Cybersecurity in space: Protecting the next frontier of critical infrastructure",
-        "fonte": "Digital Journal",
-        "autor": "Dr. Tim Sandle",
-        "data": "2026-07-03",
-        "url": "https://www.digitaljournal.com/article/cybersecurity-in-space-protecting-the-next-frontier-of-critical-infrastructure/",
-        "resumo": "As missions move beyond Earth, organisations will need technologies capable of functioning independently under extreme conditions. Systems deployed in orbit may need to withstand radiation, communication delays and prolonged isolation while maintaining a stro…",
-        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2026/05/cde48bb53dc6b1d348ac1a41922b7dc9494a5378.jpg"
+        "titulo": "From missiles to malware: Why the Gulf is stepping up its operational resilience",
+        "fonte": "Fortune",
+        "autor": "Melissa Hancock",
+        "data": "2026-07-07",
+        "url": "https://fortune.com/2026/07/07/missiles-to-malware-gulf-stepping-up-operational-resilience/",
+        "resumo": "As cyberattacks intensify and AI reshapes the digital battlefield, Gulf states are racing to strengthen the defenses protecting their most critical infrastructure",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-905610490-copy-1-e1783353332865.jpeg?resize=1200,600"
     },
     {
-        "titulo": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
-        "fonte": "Epoch.ai",
-        "autor": "Luke Emberson",
-        "data": "2026-07-03",
-        "url": "https://epoch.ai/data-insights/cve-severity-spike",
-        "resumo": "Notable organizations disclosed ~1,300 high- and critical-severity CVEs in June 2026, roughly 3.5× the pre-Mythos monthly record. Epoch AI&#x27;s breakdown of vulnerability disclosures following Anthropic&#x27;s Project Glasswing.",
-        "imagem": "https://epoch.ai/assets/images/data-insights/cve-severity-spike/t-cve-severity-spike-di.png"
+        "titulo": "BeyondTrust warns of critical flaws in remote access software",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-07-07",
+        "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
+        "resumo": "BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/02/16/BeyondTrust.jpg"
     },
     {
-        "titulo": "Pandhrabodi Lake Revival Bid On, Volunteers Remove 500kg Waste",
-        "fonte": "The Times of India",
-        "autor": "Sumukh Kulkarni",
-        "data": "2026-07-03",
-        "url": "https://timesofindia.indiatimes.com/city/nagpur/pandhrabodi-lake-revival-bid-on-volunteers-remove-500kg-waste/articleshow/132170359.cms",
-        "resumo": "Nagpur volunteers and NMC launch Mission Save Pandhrabodi Lake, removing 500kg waste in phase one to revive the encroached, shrinking urban lake.",
-        "imagem": "https://static.toiimg.com/thumb/msid-132170358,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+        "titulo": "Gathering Clouds: Building Digital Strategic Depth in the Compute Age",
+        "fonte": "War on the Rocks",
+        "autor": "Blake Herzinger",
+        "data": "2026-07-07",
+        "url": "https://warontherocks.com/cogs-of-war/gathering-clouds-building-digital-strategic-depth-in-the-compute-age/",
+        "resumo": "The wars in Ukraine and the Middle East have exposed a strategic reality that military planners are only beginning to confront: In a data-centric age, digital infrastructure has become part of the battlespace. Data centers and cloud regions are now the digita…",
+        "imagem": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-45550-5b9cbef8b97f.jpg"
     },
     {
-        "titulo": "NDRF deploys rescue teams in Maharashtra and Goa",
-        "fonte": "The Times of India",
-        "autor": "Anjali Jhangiani",
-        "data": "2026-07-03",
-        "url": "https://timesofindia.indiatimes.com/city/pune/ndrf-deploys-rescue-teams-in-maharashtra-and-goa/articleshow/132170357.cms",
-        "resumo": "NDRF pre-positions monsoon rescue teams at 12 locations across Maharashtra and Goa from July 1 to speed response to floods, landslides and urban flooding.",
-        "imagem": "https://static.toiimg.com/thumb/msid-132170356,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+        "titulo": "How Businesses Gain a Competitive Edge with a Managed Service Provider",
+        "fonte": "BleepingComputer",
+        "autor": "",
+        "data": "2026-07-07",
+        "url": "https://www.bleepingcomputer.com/forums/t/817156/how-businesses-gain-a-competitive-edge-with-a-managed-service-provider/",
+        "resumo": "How Businesses Gain a Competitive Edge with a Managed Service Provider - posted in Introductions: Business technology has become more complex than ever. Organizations rely on secure networks, cloud applications, business software, and reliable communicati…",
+        "imagem": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png"
     },
     {
-        "titulo": "No respite for Junagadh as downpours batter Saurashtra for 3rd day",
-        "fonte": "The Times of India",
-        "autor": "The Times Of India",
-        "data": "2026-07-03",
-        "url": "https://timesofindia.indiatimes.com/city/rajkot/no-respite-for-junagadh-as-downpours-batter-saurashtra-for-3rd-day/articleshow/132170342.cms",
-        "resumo": "Saurashtra hit by heavy rain for 3rd day; Junagadh worst affected. Flooding strands bus and ONGC staff, floods homes, disrupts highways; NDRF on standby.",
-        "imagem": "https://static.toiimg.com/thumb/msid-132170341,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+        "titulo": "Cybersecurity jobs available right now: July 7, 2026",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-07-07",
+        "url": "https://www.helpnetsecurity.com/2026/07/07/cybersecurity-jobs-available-right-now-july-7-2026/",
+        "resumo": "Application Security Lead Gett | Israel | Hybrid – View job details As an Application Security Lead, you will lead application and cloud security initiatives by integrating security into the SDLC, overseeing threat modeling, secure architecture, application s…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140410/cybersecurity_jobs-4-1500.webp"
     },
     {
-        "titulo": "Gujarat police arrests four more accused in pan-India mule account scams",
-        "fonte": "The Times of India",
-        "autor": "TNN",
-        "data": "2026-07-03",
-        "url": "https://timesofindia.indiatimes.com/city/ahmedabad/gujarat-police-arrests-four-more-accused-in-pan-india-mule-account-scams/articleshow/132170340.cms",
-        "resumo": "Gujarat CID Cyber arrests four in Operation Mule Hunt 2.0; mule accounts tied to ₹161-crore fraud and Bhavnagar bank hack, linked to 1,117 complaints nationwide.",
-        "imagem": "https://static.toiimg.com/thumb/msid-132170337,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+        "titulo": "AI agent executes first known ransomware attack, but the humans haven’t left the building",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-07-07",
+        "url": "https://cryptobriefing.com/ai-agent-ransomware-attack-crypto-wallets/",
+        "resumo": "The incident highlights the growing sophistication of AI in cyberattacks, emphasizing the urgent need for enhanced cybersecurity measures. The post AI agent executes first known ransomware attack, but the humans haven’t left the building appeared first on Cry…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/06200027/types-of-ransomware-attacks-800x420.png"
     },
     {
-        "titulo": "Two-day urban mobility workshop held to push safe road designs in Ahmedabad",
-        "fonte": "The Times of India",
-        "autor": "TNN",
-        "data": "2026-07-03",
-        "url": "https://timesofindia.indiatimes.com/city/ahmedabad/two-day-urban-mobility-workshop-held-to-push-safe-road-designs-in-ahmedabad/articleshow/132170309.cms",
-        "resumo": "Ahmedabad hosted a two-day active mobility workshop with AMC and MoHUA, training officials and experts on safe walking, cycling and complete streets ahead of 2030/2036 events.",
-        "imagem": "https://static.toiimg.com/thumb/msid-132170308,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+        "titulo": "&#x27;Incredibly vulnerable&#x27; industry becomes new target for scammers",
+        "fonte": "ABC News (AU)",
+        "autor": "Heloise Vyas",
+        "data": "2026-07-06",
+        "url": "https://www.abc.net.au/news/2026-07-07/australian-food-delivery-driver-targeted-in-phishing-scam/106803660",
+        "resumo": "Amidst a growing number of people taking up gig work to cope with high living costs, scammers are stealing the earnings of &quot;already struggling&quot; delivery drivers.",
+        "imagem": "https://live-production.wcms.abc-cdn.net.au/5dfda9cb82ff5b61df158114518a90aa?impolicy=wcms_watermark_news&cropH=2583&cropW=4592&xPos=0&yPos=0&width=862&height=485&imformat=generic"
     },
     {
-        "titulo": "28,234 students allotted junior colleges in second special CAP round",
-        "fonte": "The Times of India",
-        "autor": "The Times Of India",
-        "data": "2026-07-03",
-        "url": "https://timesofindia.indiatimes.com/city/pune/28234-students-allotted-junior-colleges-in-second-special-cap-round/articleshow/132170297.cms",
-        "resumo": "Pune FYJC 2026-27: 28,234 students allotted seats in second special CAP round; admissions must be confirmed online. Total allotments 77,466; Science leads.",
-        "imagem": "https://static.toiimg.com/thumb/msid-131251327,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+        "titulo": "European Parliament to Debate Spyware After &#x27;Brazen Targeting&#x27; of EU Lawmaker Who Probed Pegasus",
+        "fonte": "Common Dreams",
+        "autor": "Jessica Corbett",
+        "data": "2026-07-06",
+        "url": "https://www.commondreams.org/news/pegasus-spyware",
+        "resumo": "The European Parliament narrowly voted Monday to hold a debate on spyware after recent revelations that the phone of Stelios Kouloglou, a Greek journalist and former member of the European Parliament, &quot;was repeatedly hacked with NSO Group&#x27;s Pegasus&quot; while he …",
+        "imagem": "https://www.commondreams.org/media-library/image.jpg?id=67102376&width=1200&height=600&coordinates=0%2C166%2C0%2C167"
     },
     {
-        "titulo": "Adani group to set up Rs 2,500cr health city in New Town",
-        "fonte": "The Times of India",
-        "autor": "Udit Prasanna Mukherji",
-        "data": "2026-07-03",
-        "url": "https://timesofindia.indiatimes.com/city/kolkata/adani-group-to-set-up-rs-2500cr-health-city-in-new-town/articleshow/132170274.cms",
-        "resumo": "Adani Group to build a Rs 2,500 crore health city in New Town, Kolkata, on 51 acres, with Mayo Clinic collaboration; 1,000-bed hospital, half beds free.",
-        "imagem": "https://static.toiimg.com/thumb/msid-132170273,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+        "titulo": "Adobe ColdFusion flaw CVE-2026-48282 now exploited in the wild",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-07-06",
+        "url": "https://securityaffairs.com/194837/hacking/adobe-coldfusion-flaw-cve-2026-48282-now-exploited-in-the-wild.html",
+        "resumo": "Attackers are exploiting the critical Adobe ColdFusion flaw CVE-2026-48282, which allows remote code execution on unpatched servers. Attackers have started exploiting CVE-2026-48282, a maximum-severity vulnerability in Adobe ColdFusion. The flaw is a path tra…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/08/Stringlifier-Adobe.png"
     },
     {
-        "titulo": "Jaipur man arrested for murder over defecation bottle row",
-        "fonte": "The Times of India",
-        "autor": "TNN",
-        "data": "2026-07-03",
-        "url": "https://timesofindia.indiatimes.com/city/jaipur/jaipur-man-arrested-for-murder-over-defecation-bottle-row/articleshow/132170267.cms",
-        "resumo": "Jaipur Rural police arrest 28-year-old for killing missing villager Rakesh Jat over a bottle dispute; body buried in riverbed, recovered after month-long probe.",
-        "imagem": "https://static.toiimg.com/thumb/msid-132170266,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+        "titulo": "Novee Uncovers Cordyceps: The Latest Threat to CI/CD Pipelines",
+        "fonte": "DevOps.com",
+        "autor": "Jeff Burt",
+        "data": "2026-07-06",
+        "url": "https://devops.com/novee-uncovers-cordyceps-the-latest-threat-to-ci-cd-pipelines/",
+        "resumo": "A newly discovered supply chain security flaw is once again putting a spotlight on inherent weaknesses in CI/CD pipelines and the growing interest among cyberthreat actors to exploit them. Security researchers with Novee, an AI penetration testing platform pr…",
+        "imagem": "https://devops.com/wp-content/uploads/2026/07/cordyceps_cicd_supply_chain_770x330.jpg"
+    },
+    {
+        "titulo": "ThreatLocker Highlights Key Cyber Threat Activity and Research from June 2026",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-07-06",
+        "url": "https://www.prnewswire.com/news-releases/threatlocker-highlights-key-cyber-threat-activity-and-research-from-june-2026-302818685.html",
+        "resumo": "Recap includes AI cyber risk, software supply chain attacks, SaaS trust failures, zero-day exploits, and community support ORLANDO, Fla., July 6, 2026 /PRNewswire/ -- ThreatLocker today released highlights of the company&#x27;s cybersecurity research, threat analy…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1802838/ThreatLocker-Logo.jpg?id=OA2752014&p=facebook"
+    },
+    {
+        "titulo": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-07-06",
+        "url": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
+        "resumo": "An Iranian hacking group affiliated with Iran&#x27;s Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka Cav3rn) targeting Israeli organizations. The activity, whic…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj80nucNUGoxxOtE3SUY1SkDSu77qENrl96c2MUoLWdwAo3ZVoA4FS2QfOdM9c5bsZUJdX1ZxIsXgu7pvVfUzXz3GMZJHmblFTjv5C08dbxvLqXol72iHaD-zH950EZdXUCS-b7F2T-bn8SgqQb9nXA-uOPIaX5V0eaNNmKlQJfWHAKaPAhqsgNL0wTgJH6/s1700-e365/cavern.jpg"
+    },
+    {
+        "titulo": "Securing multi-agent AI chains with three-layer Cedar authorization",
+        "fonte": "4sysops.com",
+        "autor": "IT News",
+        "data": "2026-07-06",
+        "url": "https://4sysops.com/archives/securing-multi-agent-ai-chains-with-three-layer-cedar-authorization/",
+        "resumo": "Multi-agent AI systems face significant risks from privilege abuse when agents delegate tasks across complex, multi-hop chains. Without deterministic controls, an agent might exceed the original user&#x27;s authorization, a vulnerability classified by OWASP as Ide…",
+        "imagem": "https://4sysops.com/wp-content/uploads/2026/07/securing-multi-agent-ai-chains-with-three-layer-cedar-authorization.jpg"
+    },
+    {
+        "titulo": "When the sensor starts thinking: SnortML, agentic AI, and the evolving architecture of intrusion detection​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍",
+        "fonte": "Stackoverflow.blog",
+        "autor": "Samaresh Kumar Singh",
+        "data": "2026-07-06",
+        "url": "https://stackoverflow.blog/2026/07/06/when-the-sensor-starts-thinking-snortml-agentic-ai-and-the-evolving-architecture-of-intrusion-detection/",
+        "resumo": "Signature-based detection has always known what it was looking for. Machine learning and autonomous agents are changing the question entirely, shifting from &quot;does this match a known pattern?&quot; to &quot;does this actually make sense in context?&quot;​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌…",
+        "imagem": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/1842af09277124c00aa4c015f2852dba5b225e1a-3000x1575.jpg?w=1200&h=630&auto=format"
+    },
+    {
+        "titulo": "Building an open source chain of trust: new research uncovers key blockers and ways forward",
+        "fonte": "Canonical.com",
+        "autor": "Canonical (Canonical)",
+        "data": "2026-07-06",
+        "url": "https://canonical.com/blog/open-source-security-research",
+        "resumo": "Canonical is pleased to share its latest research report, “The open source chain of trust.” Based on a survey of 500 DevOps professionals, the report highlights how organizations approach their open source software supply chains. While many companies are movi…",
+        "imagem": "https://ubuntu.com/wp-content/uploads/ccf6/Isometric-One-logo.jpg"
+    },
+    {
+        "titulo": "Software Is Now Written at the Speed of Thought. Security Isn&#x27;t.",
+        "fonte": "BleepingComputer",
+        "autor": "Sponsored by BeyondTrust",
+        "data": "2026-07-06",
+        "url": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
+        "resumo": "Every evolution in software development has reduced the friction between an idea and a deployable application. AI may remove the final barrier, but it also removes many of the moments where security decisions have traditionally taken place. [...]",
+        "imagem": "https://www.bleepstatic.com/content/posts/2026/07/01/header-image.jpg"
+    },
+    {
+        "titulo": "Max severity Adobe ColdFusion flaw now exploited in attacks",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-07-06",
+        "url": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
+        "resumo": "Attackers are now exploiting a maximum-severity Adobe ColdFusion vulnerability tracked as CVE-2026-48282, the Canadian Center for Cyber Security (CCCS) warned on Thursday. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/06/Adobe-headpic.jpg"
+    },
+    {
+        "titulo": "The AI vulnerability storm is here: Is your security program ready?",
+        "fonte": "Techtarget.com",
+        "autor": "Jaikumar Vijayan",
+        "data": "2026-07-06",
+        "url": "https://www.techtarget.com/searchsecurity/feature/The-AI-vulnerability-storm-is-here-Is-your-security-program-ready",
+        "resumo": "AI platforms are poised to accelerate vulnerability discovery and exploitation faster than humans can manage. It&#x27;s time for CISOs to rethink their security strategies.",
+        "imagem": "https://www.techtarget.com/rms/onlineimages/clock-time02.jpg"
     }
 ]
