@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "15-year-old allegedly used ChatGPT to hack anime platform, unsubscribed 46,000 users in Japan",
-        "fonte": "The Times of India",
-        "autor": "ET Online",
-        "data": "2026-07-07",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/15-year-old-allegedly-used-chatgpt-to-hack-anime-platform-unsubscribed-46000-users-in-japan/articleshow/132235450.cms",
-        "resumo": "A Japanese teenager was arrested for allegedly using AI to disrupt Bandai Namco&#x27;s streaming service. The cyberattack caused the cancellation of over 46,000 user accounts and left the platform offline. Investigators believe the student used ChatGPT to help dev…",
-        "imagem": "https://img.etimg.com/thumb/msid-132235571,width-1200,height-630,imgsize-153152,overlay-economictimes/articleshow.jpg"
+        "titulo": "CISA Urges Immediate Patching of Exploited ColdFusion, Langflow, Joomla Flaws",
+        "fonte": "Securityweek.com",
+        "autor": "Ionut Arghire",
+        "data": "2026-07-08",
+        "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-coldfusion-langflow-joomla-flaws/",
+        "resumo": "Two newly disclosed critical vulnerabilities in Adobe ColdFusion and Langflow join two Joomla extension flaws in CISA&#x27;s Known Exploited Vulnerabilities catalog, with federal agencies given until July 10 to patch. The post CISA Urges Immediate Patching of Expl…",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2025/07/CISA-KEV.jpg"
     },
     {
-        "titulo": "A Beginner’s Guide to CI/CD and CI/CD Pipelines",
-        "fonte": "DevOps.com",
-        "autor": "Sean Pratt",
-        "data": "2026-07-07",
-        "url": "https://devops.com/a-beginners-guide-to-ci-cd-and-ci-cd-pipelines/",
-        "resumo": "Modern software development moves at a pace that would have been unthinkable a decade ago. Organizations push updates on demand, respond to vulnerabilities within minutes, and integrate new features at a relentless pace. This acceleration is driven by continu…",
-        "imagem": "https://devops.com/wp-content/uploads/2021/03/canstockphoto3507816.jpg"
+        "titulo": "Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection",
+        "fonte": "Securityweek.com",
+        "autor": "Ionut Arghire",
+        "data": "2026-07-08",
+        "url": "https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/",
+        "resumo": "Researchers show how attackers can use a crafted public GitHub Issue to trick AI-powered workflows into exposing data from private repositories without authentication. The post Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection appear…",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
     },
     {
-        "titulo": "From missiles to malware: Why the Gulf is stepping up its operational resilience",
-        "fonte": "Fortune",
-        "autor": "Melissa Hancock",
-        "data": "2026-07-07",
-        "url": "https://fortune.com/2026/07/07/missiles-to-malware-gulf-stepping-up-operational-resilience/",
-        "resumo": "As cyberattacks intensify and AI reshapes the digital battlefield, Gulf states are racing to strengthen the defenses protecting their most critical infrastructure",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-905610490-copy-1-e1783353332865.jpeg?resize=1200,600"
-    },
-    {
-        "titulo": "BeyondTrust warns of critical flaws in remote access software",
+        "titulo": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
         "fonte": "BleepingComputer",
         "autor": "Sergiu Gatlan",
-        "data": "2026-07-07",
-        "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
-        "resumo": "BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/02/16/BeyondTrust.jpg"
+        "data": "2026-07-08",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg"
     },
     {
-        "titulo": "Gathering Clouds: Building Digital Strategic Depth in the Compute Age",
-        "fonte": "War on the Rocks",
-        "autor": "Blake Herzinger",
-        "data": "2026-07-07",
-        "url": "https://warontherocks.com/cogs-of-war/gathering-clouds-building-digital-strategic-depth-in-the-compute-age/",
-        "resumo": "The wars in Ukraine and the Middle East have exposed a strategic reality that military planners are only beginning to confront: In a data-centric age, digital infrastructure has become part of the battlespace. Data centers and cloud regions are now the digita…",
-        "imagem": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-45550-5b9cbef8b97f.jpg"
-    },
-    {
-        "titulo": "How Businesses Gain a Competitive Edge with a Managed Service Provider",
-        "fonte": "BleepingComputer",
-        "autor": "",
-        "data": "2026-07-07",
-        "url": "https://www.bleepingcomputer.com/forums/t/817156/how-businesses-gain-a-competitive-edge-with-a-managed-service-provider/",
-        "resumo": "How Businesses Gain a Competitive Edge with a Managed Service Provider - posted in Introductions: Business technology has become more complex than ever. Organizations rely on secure networks, cloud applications, business software, and reliable communicati…",
-        "imagem": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png"
-    },
-    {
-        "titulo": "Cybersecurity jobs available right now: July 7, 2026",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-07-07",
-        "url": "https://www.helpnetsecurity.com/2026/07/07/cybersecurity-jobs-available-right-now-july-7-2026/",
-        "resumo": "Application Security Lead Gett | Israel | Hybrid – View job details As an Application Security Lead, you will lead application and cloud security initiatives by integrating security into the SDLC, overseeing threat modeling, secure architecture, application s…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140410/cybersecurity_jobs-4-1500.webp"
-    },
-    {
-        "titulo": "AI agent executes first known ransomware attack, but the humans haven’t left the building",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-07-07",
-        "url": "https://cryptobriefing.com/ai-agent-ransomware-attack-crypto-wallets/",
-        "resumo": "The incident highlights the growing sophistication of AI in cyberattacks, emphasizing the urgent need for enhanced cybersecurity measures. The post AI agent executes first known ransomware attack, but the humans haven’t left the building appeared first on Cry…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/06200027/types-of-ransomware-attacks-800x420.png"
-    },
-    {
-        "titulo": "&#x27;Incredibly vulnerable&#x27; industry becomes new target for scammers",
-        "fonte": "ABC News (AU)",
-        "autor": "Heloise Vyas",
-        "data": "2026-07-06",
-        "url": "https://www.abc.net.au/news/2026-07-07/australian-food-delivery-driver-targeted-in-phishing-scam/106803660",
-        "resumo": "Amidst a growing number of people taking up gig work to cope with high living costs, scammers are stealing the earnings of &quot;already struggling&quot; delivery drivers.",
-        "imagem": "https://live-production.wcms.abc-cdn.net.au/5dfda9cb82ff5b61df158114518a90aa?impolicy=wcms_watermark_news&cropH=2583&cropW=4592&xPos=0&yPos=0&width=862&height=485&imformat=generic"
-    },
-    {
-        "titulo": "European Parliament to Debate Spyware After &#x27;Brazen Targeting&#x27; of EU Lawmaker Who Probed Pegasus",
-        "fonte": "Common Dreams",
-        "autor": "Jessica Corbett",
-        "data": "2026-07-06",
-        "url": "https://www.commondreams.org/news/pegasus-spyware",
-        "resumo": "The European Parliament narrowly voted Monday to hold a debate on spyware after recent revelations that the phone of Stelios Kouloglou, a Greek journalist and former member of the European Parliament, &quot;was repeatedly hacked with NSO Group&#x27;s Pegasus&quot; while he …",
-        "imagem": "https://www.commondreams.org/media-library/image.jpg?id=67102376&width=1200&height=600&coordinates=0%2C166%2C0%2C167"
-    },
-    {
-        "titulo": "Adobe ColdFusion flaw CVE-2026-48282 now exploited in the wild",
+        "titulo": "U.S. CISA adds Adobe ColdFusion, Joomlack Page Builder, Langflow, and JoomShaper SP Page Builder flaws to its Known Exploited Vulnerabilities catalog",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
-        "data": "2026-07-06",
-        "url": "https://securityaffairs.com/194837/hacking/adobe-coldfusion-flaw-cve-2026-48282-now-exploited-in-the-wild.html",
-        "resumo": "Attackers are exploiting the critical Adobe ColdFusion flaw CVE-2026-48282, which allows remote code execution on unpatched servers. Attackers have started exploiting CVE-2026-48282, a maximum-severity vulnerability in Adobe ColdFusion. The flaw is a path tra…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/08/Stringlifier-Adobe.png"
+        "data": "2026-07-08",
+        "url": "https://securityaffairs.com/194927/hacking/u-s-cisa-adds-adobe-coldfusion-joomlack-page-builder-langflow-and-joomshaper-sp-page-builder-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Adobe ColdFusion, Joomlack Page Builder, Langflow, and JoomShaper SP Page Builder flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
     },
     {
-        "titulo": "Novee Uncovers Cordyceps: The Latest Threat to CI/CD Pipelines",
-        "fonte": "DevOps.com",
-        "autor": "Jeff Burt",
-        "data": "2026-07-06",
-        "url": "https://devops.com/novee-uncovers-cordyceps-the-latest-threat-to-ci-cd-pipelines/",
-        "resumo": "A newly discovered supply chain security flaw is once again putting a spotlight on inherent weaknesses in CI/CD pipelines and the growing interest among cyberthreat actors to exploit them. Security researchers with Novee, an AI penetration testing platform pr…",
-        "imagem": "https://devops.com/wp-content/uploads/2026/07/cordyceps_cicd_supply_chain_770x330.jpg"
-    },
-    {
-        "titulo": "ThreatLocker Highlights Key Cyber Threat Activity and Research from June 2026",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-07-06",
-        "url": "https://www.prnewswire.com/news-releases/threatlocker-highlights-key-cyber-threat-activity-and-research-from-june-2026-302818685.html",
-        "resumo": "Recap includes AI cyber risk, software supply chain attacks, SaaS trust failures, zero-day exploits, and community support ORLANDO, Fla., July 6, 2026 /PRNewswire/ -- ThreatLocker today released highlights of the company&#x27;s cybersecurity research, threat analy…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1802838/ThreatLocker-Logo.jpg?id=OA2752014&p=facebook"
-    },
-    {
-        "titulo": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-07-06",
-        "url": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
-        "resumo": "An Iranian hacking group affiliated with Iran&#x27;s Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka Cav3rn) targeting Israeli organizations. The activity, whic…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj80nucNUGoxxOtE3SUY1SkDSu77qENrl96c2MUoLWdwAo3ZVoA4FS2QfOdM9c5bsZUJdX1ZxIsXgu7pvVfUzXz3GMZJHmblFTjv5C08dbxvLqXol72iHaD-zH950EZdXUCS-b7F2T-bn8SgqQb9nXA-uOPIaX5V0eaNNmKlQJfWHAKaPAhqsgNL0wTgJH6/s1700-e365/cavern.jpg"
-    },
-    {
-        "titulo": "Securing multi-agent AI chains with three-layer Cedar authorization",
-        "fonte": "4sysops.com",
-        "autor": "IT News",
-        "data": "2026-07-06",
-        "url": "https://4sysops.com/archives/securing-multi-agent-ai-chains-with-three-layer-cedar-authorization/",
-        "resumo": "Multi-agent AI systems face significant risks from privilege abuse when agents delegate tasks across complex, multi-hop chains. Without deterministic controls, an agent might exceed the original user&#x27;s authorization, a vulnerability classified by OWASP as Ide…",
-        "imagem": "https://4sysops.com/wp-content/uploads/2026/07/securing-multi-agent-ai-chains-with-three-layer-cedar-authorization.jpg"
-    },
-    {
-        "titulo": "When the sensor starts thinking: SnortML, agentic AI, and the evolving architecture of intrusion detection​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍",
-        "fonte": "Stackoverflow.blog",
-        "autor": "Samaresh Kumar Singh",
-        "data": "2026-07-06",
-        "url": "https://stackoverflow.blog/2026/07/06/when-the-sensor-starts-thinking-snortml-agentic-ai-and-the-evolving-architecture-of-intrusion-detection/",
-        "resumo": "Signature-based detection has always known what it was looking for. Machine learning and autonomous agents are changing the question entirely, shifting from &quot;does this match a known pattern?&quot; to &quot;does this actually make sense in context?&quot;​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌…",
-        "imagem": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/1842af09277124c00aa4c015f2852dba5b225e1a-3000x1575.jpg?w=1200&h=630&auto=format"
-    },
-    {
-        "titulo": "Building an open source chain of trust: new research uncovers key blockers and ways forward",
-        "fonte": "Canonical.com",
-        "autor": "Canonical (Canonical)",
-        "data": "2026-07-06",
-        "url": "https://canonical.com/blog/open-source-security-research",
-        "resumo": "Canonical is pleased to share its latest research report, “The open source chain of trust.” Based on a survey of 500 DevOps professionals, the report highlights how organizations approach their open source software supply chains. While many companies are movi…",
-        "imagem": "https://ubuntu.com/wp-content/uploads/ccf6/Isometric-One-logo.jpg"
-    },
-    {
-        "titulo": "Software Is Now Written at the Speed of Thought. Security Isn&#x27;t.",
-        "fonte": "BleepingComputer",
-        "autor": "Sponsored by BeyondTrust",
-        "data": "2026-07-06",
-        "url": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
-        "resumo": "Every evolution in software development has reduced the friction between an idea and a deployable application. AI may remove the final barrier, but it also removes many of the moments where security decisions have traditionally taken place. [...]",
-        "imagem": "https://www.bleepstatic.com/content/posts/2026/07/01/header-image.jpg"
-    },
-    {
-        "titulo": "Max severity Adobe ColdFusion flaw now exploited in attacks",
+        "titulo": "Ubiquiti warns of new max severity UniFi OS vulnerability",
         "fonte": "BleepingComputer",
         "autor": "Sergiu Gatlan",
-        "data": "2026-07-06",
-        "url": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
-        "resumo": "Attackers are now exploiting a maximum-severity Adobe ColdFusion vulnerability tracked as CVE-2026-48282, the Canadian Center for Cyber Security (CCCS) warned on Thursday. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/06/Adobe-headpic.jpg"
+        "data": "2026-07-08",
+        "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
+        "resumo": "Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw that can be exploited in command injection attacks. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/08/Ubiquiti.jpg"
     },
     {
-        "titulo": "The AI vulnerability storm is here: Is your security program ready?",
-        "fonte": "Techtarget.com",
-        "autor": "Jaikumar Vijayan",
-        "data": "2026-07-06",
-        "url": "https://www.techtarget.com/searchsecurity/feature/The-AI-vulnerability-storm-is-here-Is-your-security-program-ready",
-        "resumo": "AI platforms are poised to accelerate vulnerability discovery and exploitation faster than humans can manage. It&#x27;s time for CISOs to rethink their security strategies.",
-        "imagem": "https://www.techtarget.com/rms/onlineimages/clock-time02.jpg"
+        "titulo": "China warns about AI risks with Anthropic&#x27;s Claude Code",
+        "fonte": "CNBC",
+        "autor": "Evelyn Cheng",
+        "data": "2026-07-08",
+        "url": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
+        "resumo": "China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.",
+        "imagem": "https://image.cnbcfm.com/api/v1/image/106957518-16339569142021-10-11t064516z_1521254046_rc2i7q9y9lgu_rtrmadp_0_usa-china-ai.jpeg?v=1663082667&w=1920&h=1080"
+    },
+    {
+        "titulo": "OpenAI to Roll Out Advanced GPT-5.6 Models Sol, Terra and Luna on Thursday After Government Review",
+        "fonte": "Ibtimes.com.au",
+        "autor": "George Anton",
+        "data": "2026-07-08",
+        "url": "https://www.ibtimes.com.au/openai-expands-gpt-5-6-ai-models-1872012",
+        "resumo": "OpenAI is launching its GPT-5.6 AI models, including Sol, Terra, and Luna, amid U.S.-China tech tensions and security concerns, following a limited preview and government evaluations.",
+        "imagem": "https://d.ibtimes.com.au/en/full/1894028/openai.jpg"
+    },
+    {
+        "titulo": "NCSC Touts National Scale, AI-Powered “Cyber Shield” for Defense",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Phil Muncaster",
+        "data": "2026-07-08",
+        "url": "https://www.infosecurity-magazine.com/news/ncsc-national-cyber-sheild-ai/",
+        "resumo": "The National Cyber Security Centre wants to work with AI partners to build a new “Cyber Shield” to defend the UK",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/b0dc013a-3cab-47da-9102-102a8f2f2f28.jpg"
+    },
+    {
+        "titulo": "China issues &#x27;backdoor&#x27; security alert over Anthropic&#x27;s Claude Code",
+        "fonte": "The Times of India",
+        "autor": "Reuters",
+        "data": "2026-07-08",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/china-issues-backdoor-security-alert-over-anthropics-claude-code/articleshow/132256715.cms",
+        "resumo": "China&#x27;s industry ministry identified a serious security backdoor risk in Anthropic&#x27;s Claude Code. The National Vulnerability Database warned of unauthorised data transmission from affected versions. NVDB advised ​that ​organisations and users should immedia…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-353532,resizemode-75,msid-132256715/tech/artificial-intelligence/china-issues-backdoor-security-alert-over-anthropics-claude-code.jpg"
+    },
+    {
+        "titulo": "CISA orders feds to patch max severity ColdFusion flaw by Friday",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-07-08",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform by Friday. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/04/08/CISA.jpg"
+    },
+    {
+        "titulo": "‘GitLost’ Flaw Lets Attackers Trick GitHub AI Agent Into Leaking Private Repos",
+        "fonte": "DevOps.com",
+        "autor": "Jeff Burt",
+        "data": "2026-07-08",
+        "url": "https://devops.com/gitlost-flaw-lets-attackers-trick-github-ai-agent-into-leaking-private-repos/",
+        "resumo": "&#x27;GitLost&#x27;: Researchers with Noma Security used the indirect prompt injection technique to trick the AI agent in GitHub&#x27;s Agentic Workflows system into posting private repository information on a public repo, showing again how easy it can be to get agents to b…",
+        "imagem": "https://devops.com/wp-content/uploads/2026/07/Untitled-design-2026-07-08T090516.587.jpg"
+    },
+    {
+        "titulo": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-07-08",
+        "url": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-48282 (CVSS…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZn36WwWfaOwK7XCU9aKjVPS7QAyrnBKsKMXtVRyYbD2X30HI-ojl5F8ttD9VcbXB36anuKWq-JGEhzPq1fjwnEhKPKMjkPDMPAFe8OqR85N1dc0QZoZ7JCN9ziqGuQ8M4irelfxa_zca62EV-s9qBO9WI47ECtzM8Zi2X8T-MFfuRRbJQ8u48Y2RRt3UT/s1700-e365/cisa-main.jpg"
+    },
+    {
+        "titulo": "20 open-source cybersecurity tools to keep your team ready for anything",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-07-08",
+        "url": "https://www.helpnetsecurity.com/2026/07/08/20-latest-open-source-cybersecurity-tools/",
+        "resumo": "AI is changing how security teams find vulnerabilities, analyze code, test applications, and protect infrastructure. Developers are building tools to secure AI systems themselves, from coding agents and memory protection to model exposure discovery. This roun…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/07/06083820/open_source-cybersec_tools-1500.webp"
+    },
+    {
+        "titulo": "Lawmakers probe growing use of Chinese AI models in U.S. companies",
+        "fonte": "CNBC",
+        "autor": "Kai Nicol-Schwarz",
+        "data": "2026-07-08",
+        "url": "https://www.cnbc.com/2026/07/08/chinese-ai-models-probe-us-lawmakers.html",
+        "resumo": "An ongoing House Committee investigation is probing the risks involved in the rise of AI built in China.",
+        "imagem": "https://image.cnbcfm.com/api/v1/image/108032405-1726051561764-gettyimages-1480914045-usa-view2.jpeg?v=1769063383&w=1920&h=1080"
+    },
+    {
+        "titulo": "Strengthening the open source supply chain with Red Hat partners",
+        "fonte": "Redhat.com",
+        "autor": "",
+        "data": "2026-07-08",
+        "url": "https://www.redhat.com/en/blog/strengthening-open-source-supply-chain-red-hat-partners",
+        "resumo": "Earlier today, Red Hat and IBM unveiled two commercial offerings of Lightwell to deliver automated vulnerability remediation at scale. However, true security requires a movement—a connected network of industry leaders and experts working in lockstep. Vulnerab…",
+        "imagem": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg"
+    },
+    {
+        "titulo": "TXOne Networks Creates Industry Initiative to Address the Next Challenge in OT Security: Turning Findings into Action",
+        "fonte": "Associated Press",
+        "autor": "",
+        "data": "2026-07-07",
+        "url": "https://apnews.com/press-release/pr-newswire/press-release-5bbb22c9ec20131fa3577f177f84c592",
+        "resumo": "IRVING, Texas, July 7, 2026 /PRNewswire/ -- For years, industrial organizations have invested in visibility to better understand cyber risk across their OT environments.",
+        "imagem": "https://dims.apnews.com/dims4/default/a5a10bf/2147483647/strip/true/crop/501x334+375+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F31%2F61%2F5fdb5a86a103fd05a89a0ffba600%2F3bed9f9b29662bd2778d6664e473d840"
+    },
+    {
+        "titulo": "China May Be Following US Lead With Quiet Crackdown on AI Exports",
+        "fonte": "Decrypt",
+        "autor": "Jose Antonio Lanz",
+        "data": "2026-07-07",
+        "url": "https://decrypt.co/372958/china-us-quiet-crackdown-ai-exports",
+        "resumo": "China is reportedly building the same power to cut off its AI that the US deployed against Anthropic in June.",
+        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/China-USA-gID_7.jpg"
+    },
+    {
+        "titulo": "Palantir CEO Alex Karp is wrong about the threat Anthropic and OpenAI pose to most enterprises. That doesn’t mean he doesn’t have something to lose",
+        "fonte": "Fortune",
+        "autor": "Jeremy Kahn",
+        "data": "2026-07-07",
+        "url": "https://fortune.com/2026/07/07/palantir-ceo-alex-karp-cnbc-rant-wrong-about-anthropic-and-openai-but-he-still-has-reason-to-fear/",
+        "resumo": "The Palantir CEO says frontier AI companies deliver no value and &#x27;steal alpha.&#x27; Here&#x27;s why he&#x27;s mostly wrong.",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2256666912-e1783448291536.jpg?resize=1200,600"
+    },
+    {
+        "titulo": "OMB M-26-14: Why federal agencies must fix asset visibility first",
+        "fonte": "Tenable.com",
+        "autor": "Joshua Moll, Matt Tucker",
+        "data": "2026-07-07",
+        "url": "https://www.tenable.com/blog/omb-m-26-14-asset-visibility-logging-maturity-model-compliance",
+        "resumo": "The new OMB logging directive raises the bar on log collection and explicitly ties every maturity milestone to how well agencies know what’s on their networks. Learn why asset visibility is the first problem to solve.Key takeaways M-26-14 rescinds M-…",
+        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/Why%20federal%20agencies%20must%20fix%20asset%20visibility%20first%20.png?itok=YDkJtVdr"
+    },
+    {
+        "titulo": "TXOne Networks Creates Industry Initiative to Address the Next Challenge in OT Security: Turning Findings into Action",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-07-07",
+        "url": "https://www.prnewswire.com/news-releases/txone-networks-creates-industry-initiative-to-address-the-next-challenge-in-ot-security-turning-findings-into-action-302819814.html",
+        "resumo": "IRVING, Texas, July 7, 2026 /PRNewswire/ -- For years, industrial organizations have invested in visibility to better understand cyber risk across their OT environments. Today, most security teams face a different challenge: turning hundreds or even thousands…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1815440/TXOne_Networks_Logo.jpg?id=OA2723475&p=facebook"
     }
 ]
