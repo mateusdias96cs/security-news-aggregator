@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "CISA Urges Immediate Patching of Exploited ColdFusion, Langflow, Joomla Flaws",
-        "fonte": "Securityweek.com",
-        "autor": "Ionut Arghire",
-        "data": "2026-07-08",
-        "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-coldfusion-langflow-joomla-flaws/",
-        "resumo": "Two newly disclosed critical vulnerabilities in Adobe ColdFusion and Langflow join two Joomla extension flaws in CISA&#x27;s Known Exploited Vulnerabilities catalog, with federal agencies given until July 10 to patch. The post CISA Urges Immediate Patching of Expl…",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2025/07/CISA-KEV.jpg"
+        "titulo": "New AI Security Charter Backed by 71 Cyber Firms",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Kevin Poireault",
+        "data": "2026-07-09",
+        "url": "https://www.infosecurity-magazine.com/news/ai-security-charter-71-cyber-firms/",
+        "resumo": "Over 70 cybersecurity organizations have signed the CREST AI Charter detailing responsible use of AI for security",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/0e63abd3-cc09-4cbb-9412-384c4e7aba53.jpg"
     },
     {
-        "titulo": "Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection",
-        "fonte": "Securityweek.com",
-        "autor": "Ionut Arghire",
-        "data": "2026-07-08",
-        "url": "https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/",
-        "resumo": "Researchers show how attackers can use a crafted public GitHub Issue to trick AI-powered workflows into exposing data from private repositories without authentication. The post Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection appear…",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+        "titulo": "New AI Security Charter Backed by 73 Cyber Firms",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Kevin Poireault",
+        "data": "2026-07-09",
+        "url": "https://www.infosecurity-magazine.com/news/crest-ai-security-charter-cyber/",
+        "resumo": "Over 70 cybersecurity organizations have signed the CREST AI Charter detailing responsible use of AI for security",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/0e63abd3-cc09-4cbb-9412-384c4e7aba53.jpg"
     },
     {
-        "titulo": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
+        "titulo": "Heading to Vegas? Meet PortSwigger at Black Hat, BSides, and DEF CON 34.",
+        "fonte": "The Daily Swig",
+        "autor": "",
+        "data": "2026-07-09",
+        "url": "https://portswigger.net/blog/heading-to-vegas-meet-portswigger-at-black-hat-bsides-and-def-con-34",
+        "resumo": "First hand of the week: Find us at BSides Workshop: Burp But Yours, with Hannah and Tib3rius Center stage: Visit us at Black Hat USA - Booth 5342 Lightning talks at the booth Catch our researchers&#x27; br",
+        "imagem": "https://portswigger.net/content/images/logos/portswigger-twittercardlogo.png"
+    },
+    {
+        "titulo": "A Puerto Rico Government Agency Exposed 1 Million Social Security Numbers",
+        "fonte": "ProPublica",
+        "autor": "Luis Valentín, Nick McMillan",
+        "data": "2026-07-09",
+        "url": "https://www.propublica.org/article/puerto-rico-crim-data-breach",
+        "resumo": "A cybersecurity loophole in an official government mapping service left private data easily accessible, Centro de Periodismo Investigativo and ProPublica learned.",
+        "imagem": "https://www.propublica.org/wp-content/uploads/2026/06/20260626-Gordon-PR-SSN-breach-3x2_maxHeight_3000_maxWidth_3000.jpg?resize=2000,1333"
+    },
+    {
+        "titulo": "Databricks tests GLM-5.2, finds it rivals top closed models in enterprise coding",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-07-09",
+        "url": "https://cryptobriefing.com/databricks-glm-5-2-rivals-closed-models/",
+        "resumo": "Open-weight models like GLM-5.2 could disrupt enterprise coding by offering cost-effective, flexible alternatives to proprietary systems. The post Databricks tests GLM-5.2, finds it rivals top closed models in enterprise coding appeared first on Crypto Briefi…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/09045835/databricks-certification-800x420.png"
+    },
+    {
+        "titulo": "AI Coding Tools Tricked Into Hacking Developer Machine via Decades-Old Technique",
+        "fonte": "Securityweek.com",
+        "autor": "Eduard Kovacs",
+        "data": "2026-07-09",
+        "url": "https://www.securityweek.com/ai-coding-tools-tricked-into-hacking-developer-machine-via-decades-old-technique/",
+        "resumo": "Wiz has disclosed the details of a new AI coding assistant attack method it has dubbed GhostApproval. The post AI Coding Tools Tricked Into Hacking Developer Machine via Decades-Old Technique appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/07/AI-artificial-intelligence-coding.jpeg"
+    },
+    {
+        "titulo": "Prompt Injection Testing: Protecting AI Applications from Security Risks",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (Harshil Malvi)",
+        "data": "2026-07-09",
+        "url": "https://www.c-sharpcorner.com/article/prompt-injection-testing-protecting-ai-applications-from-security-risks/",
+        "resumo": "Learn about prompt injection, a critical AI security threat. Discover how to test and protect your AI applications from malicious attacks.",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+    },
+    {
+        "titulo": "Todd Humphreys and his University of Texas team steered an $80 million superyacht off course in 2013 while its crew watched instruments that swore everything was fine — using gear costing a few thousa",
+        "fonte": "Space Daily",
+        "autor": "Space Daily Editorial Team",
+        "data": "2026-07-09",
+        "url": "https://spacedaily.com/j-v-todd-humphreys-and-his-university-of-texas-team-steered-an-80-million-superyacht-off-course-in-2013-while-its-crew-watched-instruments-that-swore-everything-was-fine-using-gear-costing/",
+        "resumo": "In June 2012, University of Texas professor Todd Humphreys and his students used a homemade GPS spoofer costing a few thousand dollars to secretly steer an $80 million superyacht off course in the Mediterranean — while every instrument on the bridge insisted …",
+        "imagem": "https://spacedaily.com/wp-content/uploads/2026/07/j-todd-humphreys-and-his-university-of-texas-team-steered-an.jpg"
+    },
+    {
+        "titulo": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
         "fonte": "BleepingComputer",
         "autor": "Sergiu Gatlan",
-        "data": "2026-07-08",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg"
+        "data": "2026-07-09",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
+        "resumo": "Microsoft has released a security patch to address a Defender zero-day vulnerability known as &quot;RoguePlanet,&quot; disclosed after the June 2026 Patch Tuesday. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/17/Microsoft_Defender.jpg"
     },
     {
-        "titulo": "U.S. CISA adds Adobe ColdFusion, Joomlack Page Builder, Langflow, and JoomShaper SP Page Builder flaws to its Known Exploited Vulnerabilities catalog",
+        "titulo": "Backdoor Found in the Firmware for These Wi-Fi Routers. And There&#x27;s No Patch",
+        "fonte": "PCMag.com",
+        "autor": "Michael Kan",
+        "data": "2026-07-09",
+        "url": "https://me.pcmag.com/en/wireless-routers/37640/backdoor-found-in-the-firmware-for-these-wi-fi-routers-and-theres-no-patch",
+        "resumo": "A vulnerability report warns that five versions of Tenda firmware contain an &#x27;undocumented authentication backdoor&#x27; that a hacker could use to gain full admin access over an affected router. An undocumented backdoor has been found in the firmware for some Ten…",
+        "imagem": "https://sm.pcmag.com/t/pcmag_me/news/b/backdoor-f/backdoor-found-in-the-firmware-for-these-wi-fi-routers-and-t_r1kp.1200.jpg"
+    },
+    {
+        "titulo": "10 insights from the Machina AI Summit: Physical AI moves from demos to deployment",
+        "fonte": "SiliconANGLE News",
+        "autor": "Ryan Stevens",
+        "data": "2026-07-08",
+        "url": "https://siliconangle.com/2026/07/08/physical-ai-focus-machina-ai-summit-machina/",
+        "resumo": "Physical AI and robotics are moving beyond impressive demonstrations into a new phase of practical deployment, with companies now targeting specific, high-value use cases in manufacturing and logistics — production-ready systems capable of delivering measurab…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/IMG_2069-e1783529873653.jpg"
+    },
+    {
+        "titulo": "Ubiquiti Patches Critical UniFi OS Flaws Allowing Command Injection and Privilege Escalation",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
         "data": "2026-07-08",
-        "url": "https://securityaffairs.com/194927/hacking/u-s-cisa-adds-adobe-coldfusion-joomlack-page-builder-langflow-and-joomshaper-sp-page-builder-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Adobe ColdFusion, Joomlack Page Builder, Langflow, and JoomShaper SP Page Builder flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+        "url": "https://securityaffairs.com/194978/security/ubiquiti-patches-critical-unifi-os-flaws-allowing-command-injection-and-privilege-escalation.html",
+        "resumo": "Ubiquiti patched seven UniFi OS flaws, including critical CVE-2026-50746, which allows command injection in UniFi Connect Application. Ubiquiti released security updates for seven critical UniFi OS vulnerabilities, including a maximum-severity flaw, tracked a…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2021/01/Ubiquiti-Logo.png"
     },
     {
-        "titulo": "Ubiquiti warns of new max severity UniFi OS vulnerability",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
+        "titulo": "HIPAA Security Rule Overhaul Slips to 2027 as Compliance Costs Draw Fire",
+        "fonte": "Healthsystemcio.com",
+        "autor": "Anthony Guerra",
         "data": "2026-07-08",
-        "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
-        "resumo": "Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw that can be exploited in command injection attacks. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/08/Ubiquiti.jpg"
+        "url": "https://healthsystemcio.com/2026/07/08/hipaa-security-rule-delayed-2027/",
+        "resumo": "A year of breathing room sounds like relief for stretched security teams. The reprieve hides a sharper question about what to build before the mandates arrive, and which move pays off first. Source: HIPAA Security Rule Overhaul Slips to 2027 as Compliance Cos…",
+        "imagem": "https://healthsystemcio.com/wp-content/uploads/2026/05/news-200.png"
     },
     {
-        "titulo": "China warns about AI risks with Anthropic&#x27;s Claude Code",
-        "fonte": "CNBC",
-        "autor": "Evelyn Cheng",
+        "titulo": "Backdoor Found in the Firmware for These Wi-Fi Routers. And There&#x27;s No Patch",
+        "fonte": "PCMag.com",
+        "autor": "Michael Kan",
         "data": "2026-07-08",
-        "url": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
-        "resumo": "China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.",
-        "imagem": "https://image.cnbcfm.com/api/v1/image/106957518-16339569142021-10-11t064516z_1521254046_rc2i7q9y9lgu_rtrmadp_0_usa-china-ai.jpeg?v=1663082667&w=1920&h=1080"
+        "url": "https://uk.pcmag.com/wireless-routers/166064/backdoor-found-in-the-firmware-for-these-wi-fi-routers-and-theres-no-patch",
+        "resumo": "A vulnerability report warns that five versions of Tenda firmware contain an &#x27;undocumented authentication backdoor&#x27; that a hacker could use to gain full admin access over an affected router. An undocumented backdoor has been found in the firmware for some Ten…",
+        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/b/backdoor-f/backdoor-found-in-the-firmware-for-these-wi-fi-routers-and-t_8zcq.1200.jpg"
     },
     {
-        "titulo": "OpenAI to Roll Out Advanced GPT-5.6 Models Sol, Terra and Luna on Thursday After Government Review",
-        "fonte": "Ibtimes.com.au",
-        "autor": "George Anton",
+        "titulo": "Experts warn of the &#x27;first documented case of agentic ransomware&#x27; — dangerous JADEPUFFER attack run entirely by an LLM",
+        "fonte": "TechRadar",
+        "autor": "Christian Cawley",
         "data": "2026-07-08",
-        "url": "https://www.ibtimes.com.au/openai-expands-gpt-5-6-ai-models-1872012",
-        "resumo": "OpenAI is launching its GPT-5.6 AI models, including Sol, Terra, and Luna, amid U.S.-China tech tensions and security concerns, following a limited preview and government evaluations.",
-        "imagem": "https://d.ibtimes.com.au/en/full/1894028/openai.jpg"
+        "url": "https://www.techradar.com/pro/security/experts-warn-of-the-first-documented-case-of-agentic-ransomware-dangerous-jadepuffer-attack-run-entirely-by-an-llm",
+        "resumo": "An LLM-based ransomware attack has been detected by researchers, and is notable for losing the data it encrypted...",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/GJ8T4oA8G7TYJwTEhkwJAF-2560-80.jpg"
     },
     {
-        "titulo": "NCSC Touts National Scale, AI-Powered “Cyber Shield” for Defense",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Phil Muncaster",
+        "titulo": "Langflow IDOR vulnerability exploited to harvest AI credentials and API keys",
+        "fonte": "4sysops.com",
+        "autor": "IT News",
         "data": "2026-07-08",
-        "url": "https://www.infosecurity-magazine.com/news/ncsc-national-cyber-sheild-ai/",
-        "resumo": "The National Cyber Security Centre wants to work with AI partners to build a new “Cyber Shield” to defend the UK",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/b0dc013a-3cab-47da-9102-102a8f2f2f28.jpg"
+        "url": "https://4sysops.com/archives/langflow-idor-vulnerability-exploited-to-harvest-ai-credentials-and-api-keys/",
+        "resumo": "A critical insecure direct object reference vulnerability, tracked as CVE-2026-55255, is being actively exploited to target Langflow, an open-source framework for building AI agents. The flaw resides in the application&#x27;s API endpoint and allows authenticated …",
+        "imagem": "https://4sysops.com/wp-content/uploads/2026/07/langflow-idor-vulnerability-exploited-to-harvest-ai-credentials-and-api-keys.webp"
     },
     {
-        "titulo": "China issues &#x27;backdoor&#x27; security alert over Anthropic&#x27;s Claude Code",
-        "fonte": "The Times of India",
-        "autor": "Reuters",
+        "titulo": "Protecting Microsoft at AI speed: How SFI proactively hardens our cloud",
+        "fonte": "Microsoft.com",
+        "autor": "Salim Chawro",
         "data": "2026-07-08",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/china-issues-backdoor-security-alert-over-anthropics-claude-code/articleshow/132256715.cms",
-        "resumo": "China&#x27;s industry ministry identified a serious security backdoor risk in Anthropic&#x27;s Claude Code. The National Vulnerability Database warned of unauthorised data transmission from affected versions. NVDB advised ​that ​organisations and users should immedia…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-353532,resizemode-75,msid-132256715/tech/artificial-intelligence/china-issues-backdoor-security-alert-over-anthropics-claude-code.jpg"
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/",
+        "resumo": "At Microsoft we encompass these security requirements, along with threat knowledge, and operational frameworks in our Secure Future Initiative (SFI), to guide what a well-defended cloud service looks like. But defining the requirements is only the start. Meet…",
+        "imagem": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/CLO22_SecOps_009_1920.jpg"
     },
     {
-        "titulo": "CISA orders feds to patch max severity ColdFusion flaw by Friday",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
+        "titulo": "China alleges that Claude Code contains backdoors, calls mechanism &#x27;a serious threat&#x27; — Gov&#x27;t claims Claude sends sensitive information to remote servers without consent",
+        "fonte": "Toms Hardware UK",
+        "autor": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
         "data": "2026-07-08",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform by Friday. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/04/08/CISA.jpg"
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-alleges-that-claude-code-contains-backdoors-calls-mechanism-a-serious-threat-govt-claims-claude-sends-sensitive-information-to-remote-servers-without-consent",
+        "resumo": "China is warning against the use of Claude Code versions released between April and June 2026 after it&#x27;s revealed that hidden code is sending sensitive user information to remote servers. The government told users to uninstall the app or use its latest versio…",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/ScT7C9WsuqruarWf3kSRRG-2048-80.jpg"
     },
     {
-        "titulo": "‘GitLost’ Flaw Lets Attackers Trick GitHub AI Agent Into Leaking Private Repos",
-        "fonte": "DevOps.com",
-        "autor": "Jeff Burt",
+        "titulo": "US government deploys Anthropic AI for software vulnerability detection",
+        "fonte": "Crypto Briefing",
+        "autor": "Estefano Gomez",
         "data": "2026-07-08",
-        "url": "https://devops.com/gitlost-flaw-lets-attackers-trick-github-ai-agent-into-leaking-private-repos/",
-        "resumo": "&#x27;GitLost&#x27;: Researchers with Noma Security used the indirect prompt injection technique to trick the AI agent in GitHub&#x27;s Agentic Workflows system into posting private repository information on a public repo, showing again how easy it can be to get agents to b…",
-        "imagem": "https://devops.com/wp-content/uploads/2026/07/Untitled-design-2026-07-08T090516.587.jpg"
+        "url": "https://cryptobriefing.com/us-government-deploys-anthropic-ai-for-software-vulnerability-detection/",
+        "resumo": "The deployment of Anthropic AI by the U.S. government could bolster national security and drive Anthropic&#x27;s market valuation upward. The post US government deploys Anthropic AI for software vulnerability detection appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/08114419/the-claude-ai-logo-is-displayed-on-a-smartphone-screen-with-4-800x420.jpeg"
     },
     {
-        "titulo": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
+        "titulo": "Hidden backdoor in Tenda routers goes unpatched as company ignores warnings from cybersecurity researchers — Chinese company&#x27;s firmware allows admin access without a password",
+        "fonte": "Toms Hardware UK",
+        "autor": "Etiido Uko",
         "data": "2026-07-08",
-        "url": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-48282 (CVSS…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZn36WwWfaOwK7XCU9aKjVPS7QAyrnBKsKMXtVRyYbD2X30HI-ojl5F8ttD9VcbXB36anuKWq-JGEhzPq1fjwnEhKPKMjkPDMPAFe8OqR85N1dc0QZoZ7JCN9ziqGuQ8M4irelfxa_zca62EV-s9qBO9WI47ECtzM8Zi2X8T-MFfuRRbJQ8u48Y2RRt3UT/s1700-e365/cisa-main.jpg"
-    },
-    {
-        "titulo": "20 open-source cybersecurity tools to keep your team ready for anything",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-07-08",
-        "url": "https://www.helpnetsecurity.com/2026/07/08/20-latest-open-source-cybersecurity-tools/",
-        "resumo": "AI is changing how security teams find vulnerabilities, analyze code, test applications, and protect infrastructure. Developers are building tools to secure AI systems themselves, from coding agents and memory protection to model exposure discovery. This roun…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/07/06083820/open_source-cybersec_tools-1500.webp"
-    },
-    {
-        "titulo": "Lawmakers probe growing use of Chinese AI models in U.S. companies",
-        "fonte": "CNBC",
-        "autor": "Kai Nicol-Schwarz",
-        "data": "2026-07-08",
-        "url": "https://www.cnbc.com/2026/07/08/chinese-ai-models-probe-us-lawmakers.html",
-        "resumo": "An ongoing House Committee investigation is probing the risks involved in the rise of AI built in China.",
-        "imagem": "https://image.cnbcfm.com/api/v1/image/108032405-1726051561764-gettyimages-1480914045-usa-view2.jpeg?v=1769063383&w=1920&h=1080"
-    },
-    {
-        "titulo": "Strengthening the open source supply chain with Red Hat partners",
-        "fonte": "Redhat.com",
-        "autor": "",
-        "data": "2026-07-08",
-        "url": "https://www.redhat.com/en/blog/strengthening-open-source-supply-chain-red-hat-partners",
-        "resumo": "Earlier today, Red Hat and IBM unveiled two commercial offerings of Lightwell to deliver automated vulnerability remediation at scale. However, true security requires a movement—a connected network of industry leaders and experts working in lockstep. Vulnerab…",
-        "imagem": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg"
-    },
-    {
-        "titulo": "TXOne Networks Creates Industry Initiative to Address the Next Challenge in OT Security: Turning Findings into Action",
-        "fonte": "Associated Press",
-        "autor": "",
-        "data": "2026-07-07",
-        "url": "https://apnews.com/press-release/pr-newswire/press-release-5bbb22c9ec20131fa3577f177f84c592",
-        "resumo": "IRVING, Texas, July 7, 2026 /PRNewswire/ -- For years, industrial organizations have invested in visibility to better understand cyber risk across their OT environments.",
-        "imagem": "https://dims.apnews.com/dims4/default/a5a10bf/2147483647/strip/true/crop/501x334+375+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F31%2F61%2F5fdb5a86a103fd05a89a0ffba600%2F3bed9f9b29662bd2778d6664e473d840"
-    },
-    {
-        "titulo": "China May Be Following US Lead With Quiet Crackdown on AI Exports",
-        "fonte": "Decrypt",
-        "autor": "Jose Antonio Lanz",
-        "data": "2026-07-07",
-        "url": "https://decrypt.co/372958/china-us-quiet-crackdown-ai-exports",
-        "resumo": "China is reportedly building the same power to cut off its AI that the US deployed against Anthropic in June.",
-        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/China-USA-gID_7.jpg"
-    },
-    {
-        "titulo": "Palantir CEO Alex Karp is wrong about the threat Anthropic and OpenAI pose to most enterprises. That doesn’t mean he doesn’t have something to lose",
-        "fonte": "Fortune",
-        "autor": "Jeremy Kahn",
-        "data": "2026-07-07",
-        "url": "https://fortune.com/2026/07/07/palantir-ceo-alex-karp-cnbc-rant-wrong-about-anthropic-and-openai-but-he-still-has-reason-to-fear/",
-        "resumo": "The Palantir CEO says frontier AI companies deliver no value and &#x27;steal alpha.&#x27; Here&#x27;s why he&#x27;s mostly wrong.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2256666912-e1783448291536.jpg?resize=1200,600"
-    },
-    {
-        "titulo": "OMB M-26-14: Why federal agencies must fix asset visibility first",
-        "fonte": "Tenable.com",
-        "autor": "Joshua Moll, Matt Tucker",
-        "data": "2026-07-07",
-        "url": "https://www.tenable.com/blog/omb-m-26-14-asset-visibility-logging-maturity-model-compliance",
-        "resumo": "The new OMB logging directive raises the bar on log collection and explicitly ties every maturity milestone to how well agencies know what’s on their networks. Learn why asset visibility is the first problem to solve.Key takeaways M-26-14 rescinds M-…",
-        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/Why%20federal%20agencies%20must%20fix%20asset%20visibility%20first%20.png?itok=YDkJtVdr"
-    },
-    {
-        "titulo": "TXOne Networks Creates Industry Initiative to Address the Next Challenge in OT Security: Turning Findings into Action",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-07-07",
-        "url": "https://www.prnewswire.com/news-releases/txone-networks-creates-industry-initiative-to-address-the-next-challenge-in-ot-security-turning-findings-into-action-302819814.html",
-        "resumo": "IRVING, Texas, July 7, 2026 /PRNewswire/ -- For years, industrial organizations have invested in visibility to better understand cyber risk across their OT environments. Today, most security teams face a different challenge: turning hundreds or even thousands…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1815440/TXOne_Networks_Logo.jpg?id=OA2723475&p=facebook"
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/hidden-backdoor-found-in-tenda-routers-goes-unpatched-despite-warnings-from-cybersecurity-researchers-affected-firmware-allows-admin-access-without-a-password",
+        "resumo": "CERT/CC has disclosed a critical authentication backdoor affecting multiple Tenda router firmware versions. Tracked as CVE-2026-11405, the flaw grants full administrator access without valid credentials, and no vendor patch is currently available after CERT f…",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/uX8ghCJT8DyjkPQPLQVehC-2041-80.jpg"
     }
 ]
