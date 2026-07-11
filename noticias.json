@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "New AI Security Charter Backed by 71 Cyber Firms",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Kevin Poireault",
-        "data": "2026-07-09",
-        "url": "https://www.infosecurity-magazine.com/news/ai-security-charter-71-cyber-firms/",
-        "resumo": "Over 70 cybersecurity organizations have signed the CREST AI Charter detailing responsible use of AI for security",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/0e63abd3-cc09-4cbb-9412-384c4e7aba53.jpg"
+        "titulo": "Why AI is a matter of national security",
+        "fonte": "TechRadar",
+        "autor": "Jamie Moles",
+        "data": "2026-07-10",
+        "url": "https://www.techradar.com/pro/why-ai-is-a-matter-of-national-security",
+        "resumo": "As frontier models bridge technical gaps for malicious actors, continuous network visibility must replace outdated perimeter defenses.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX-2560-80.jpg"
     },
     {
-        "titulo": "New AI Security Charter Backed by 73 Cyber Firms",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Kevin Poireault",
-        "data": "2026-07-09",
-        "url": "https://www.infosecurity-magazine.com/news/crest-ai-security-charter-cyber/",
-        "resumo": "Over 70 cybersecurity organizations have signed the CREST AI Charter detailing responsible use of AI for security",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/0e63abd3-cc09-4cbb-9412-384c4e7aba53.jpg"
+        "titulo": "SpaceXAI’s Grok 4.5 Undercuts Anthropic and OpenAI on Coding Agent Pricing",
+        "fonte": "DevOps.com",
+        "autor": "Tom Smith",
+        "data": "2026-07-10",
+        "url": "https://devops.com/spacexais-grok-4-5-undercuts-anthropic-and-openai-on-coding-agent-pricing/",
+        "resumo": "SpaceXAI&#x27;s Grok 4.5 undercuts Opus 4.8 on price, matching it on key coding benchmarks, and adds new safeguards against cybersecurity risks.",
+        "imagem": "https://devops.com/wp-content/uploads/2022/02/coding-gb646cb77a_1280-e1644931732205.jpg"
     },
     {
-        "titulo": "Heading to Vegas? Meet PortSwigger at Black Hat, BSides, and DEF CON 34.",
-        "fonte": "The Daily Swig",
+        "titulo": "Lawmakers Probe Growing Use of Chinese AI Models In US Companies",
+        "fonte": "Slashdot.org",
+        "autor": "BeauHD",
+        "data": "2026-07-09",
+        "url": "https://news.slashdot.org/story/26/07/09/1947218/lawmakers-probe-growing-use-of-chinese-ai-models-in-us-companies",
+        "resumo": "U.S. lawmakers are probing the growing use of Chinese AI models by American companies, citing concerns over censorship, security risks, and whether U.S. firms are turning to cheaper foreign models because domestic alternatives are too costly or restricted. Th…",
+        "imagem": "https://a.fsdn.com/sd/topics/ai_64.png"
+    },
+    {
+        "titulo": "AI Is Annoying &amp; IoT Devices Still Get Hacked - PSW #934",
+        "fonte": "Libsyn.com",
         "autor": "",
         "data": "2026-07-09",
-        "url": "https://portswigger.net/blog/heading-to-vegas-meet-portswigger-at-black-hat-bsides-and-def-con-34",
-        "resumo": "First hand of the week: Find us at BSides Workshop: Burp But Yours, with Hannah and Tib3rius Center stage: Visit us at Black Hat USA - Booth 5342 Lightning talks at the booth Catch our researchers&#x27; br",
-        "imagem": "https://portswigger.net/content/images/logos/portswigger-twittercardlogo.png"
+        "url": "https://sites.libsyn.com/18678/ai-is-annoying-iot-devices-still-get-hacked-psw-934",
+        "resumo": "In the security news: Son of Anton strikes again! HalluSquatting and using Claude to defend itself CISA KEV’s Revolving Door LLM&#x27;s hallucinate and companies get sued Additionally - GitLost Yet even more Li…",
+        "imagem": "http://assets.libsyn.com/content/203949600?height=250&width=250&overlay=true"
     },
     {
-        "titulo": "A Puerto Rico Government Agency Exposed 1 Million Social Security Numbers",
-        "fonte": "ProPublica",
-        "autor": "Luis Valentín, Nick McMillan",
-        "data": "2026-07-09",
-        "url": "https://www.propublica.org/article/puerto-rico-crim-data-breach",
-        "resumo": "A cybersecurity loophole in an official government mapping service left private data easily accessible, Centro de Periodismo Investigativo and ProPublica learned.",
-        "imagem": "https://www.propublica.org/wp-content/uploads/2026/06/20260626-Gordon-PR-SSN-breach-3x2_maxHeight_3000_maxWidth_3000.jpg?resize=2000,1333"
-    },
-    {
-        "titulo": "Databricks tests GLM-5.2, finds it rivals top closed models in enterprise coding",
+        "titulo": "Trump administration launches voluntary AI model review framework to tackle cybersecurity risks",
         "fonte": "Crypto Briefing",
         "autor": "Editorial Team",
         "data": "2026-07-09",
-        "url": "https://cryptobriefing.com/databricks-glm-5-2-rivals-closed-models/",
-        "resumo": "Open-weight models like GLM-5.2 could disrupt enterprise coding by offering cost-effective, flexible alternatives to proprietary systems. The post Databricks tests GLM-5.2, finds it rivals top closed models in enterprise coding appeared first on Crypto Briefi…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/09045835/databricks-certification-800x420.png"
+        "url": "https://cryptobriefing.com/trump-ai-model-cybersecurity-review/",
+        "resumo": "The voluntary AI review framework may reshape innovation dynamics, influencing cybersecurity strategies and competitive landscapes in tech sectors. The post Trump administration launches voluntary AI model review framework to tackle cybersecurity risks appear…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/09161255/trump-ai-executive-order-what-it-means-for-health-care-teleh-800x420.jpeg"
     },
     {
-        "titulo": "AI Coding Tools Tricked Into Hacking Developer Machine via Decades-Old Technique",
-        "fonte": "Securityweek.com",
-        "autor": "Eduard Kovacs",
-        "data": "2026-07-09",
-        "url": "https://www.securityweek.com/ai-coding-tools-tricked-into-hacking-developer-machine-via-decades-old-technique/",
-        "resumo": "Wiz has disclosed the details of a new AI coding assistant attack method it has dubbed GhostApproval. The post AI Coding Tools Tricked Into Hacking Developer Machine via Decades-Old Technique appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/07/AI-artificial-intelligence-coding.jpeg"
-    },
-    {
-        "titulo": "Prompt Injection Testing: Protecting AI Applications from Security Risks",
-        "fonte": "C-sharpcorner.com",
-        "autor": "noreply@c-sharpcorner.com (Harshil Malvi)",
-        "data": "2026-07-09",
-        "url": "https://www.c-sharpcorner.com/article/prompt-injection-testing-protecting-ai-applications-from-security-risks/",
-        "resumo": "Learn about prompt injection, a critical AI security threat. Discover how to test and protect your AI applications from malicious attacks.",
-        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
-    },
-    {
-        "titulo": "Todd Humphreys and his University of Texas team steered an $80 million superyacht off course in 2013 while its crew watched instruments that swore everything was fine — using gear costing a few thousa",
-        "fonte": "Space Daily",
-        "autor": "Space Daily Editorial Team",
-        "data": "2026-07-09",
-        "url": "https://spacedaily.com/j-v-todd-humphreys-and-his-university-of-texas-team-steered-an-80-million-superyacht-off-course-in-2013-while-its-crew-watched-instruments-that-swore-everything-was-fine-using-gear-costing/",
-        "resumo": "In June 2012, University of Texas professor Todd Humphreys and his students used a homemade GPS spoofer costing a few thousand dollars to secretly steer an $80 million superyacht off course in the Mediterranean — while every instrument on the bridge insisted …",
-        "imagem": "https://spacedaily.com/wp-content/uploads/2026/07/j-todd-humphreys-and-his-university-of-texas-team-steered-an.jpg"
-    },
-    {
-        "titulo": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-07-09",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
-        "resumo": "Microsoft has released a security patch to address a Defender zero-day vulnerability known as &quot;RoguePlanet,&quot; disclosed after the June 2026 Patch Tuesday. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/17/Microsoft_Defender.jpg"
-    },
-    {
-        "titulo": "Backdoor Found in the Firmware for These Wi-Fi Routers. And There&#x27;s No Patch",
-        "fonte": "PCMag.com",
-        "autor": "Michael Kan",
-        "data": "2026-07-09",
-        "url": "https://me.pcmag.com/en/wireless-routers/37640/backdoor-found-in-the-firmware-for-these-wi-fi-routers-and-theres-no-patch",
-        "resumo": "A vulnerability report warns that five versions of Tenda firmware contain an &#x27;undocumented authentication backdoor&#x27; that a hacker could use to gain full admin access over an affected router. An undocumented backdoor has been found in the firmware for some Ten…",
-        "imagem": "https://sm.pcmag.com/t/pcmag_me/news/b/backdoor-f/backdoor-found-in-the-firmware-for-these-wi-fi-routers-and-t_r1kp.1200.jpg"
-    },
-    {
-        "titulo": "10 insights from the Machina AI Summit: Physical AI moves from demos to deployment",
-        "fonte": "SiliconANGLE News",
-        "autor": "Ryan Stevens",
-        "data": "2026-07-08",
-        "url": "https://siliconangle.com/2026/07/08/physical-ai-focus-machina-ai-summit-machina/",
-        "resumo": "Physical AI and robotics are moving beyond impressive demonstrations into a new phase of practical deployment, with companies now targeting specific, high-value use cases in manufacturing and logistics — production-ready systems capable of delivering measurab…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/IMG_2069-e1783529873653.jpg"
-    },
-    {
-        "titulo": "Ubiquiti Patches Critical UniFi OS Flaws Allowing Command Injection and Privilege Escalation",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-07-08",
-        "url": "https://securityaffairs.com/194978/security/ubiquiti-patches-critical-unifi-os-flaws-allowing-command-injection-and-privilege-escalation.html",
-        "resumo": "Ubiquiti patched seven UniFi OS flaws, including critical CVE-2026-50746, which allows command injection in UniFi Connect Application. Ubiquiti released security updates for seven critical UniFi OS vulnerabilities, including a maximum-severity flaw, tracked a…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2021/01/Ubiquiti-Logo.png"
-    },
-    {
-        "titulo": "HIPAA Security Rule Overhaul Slips to 2027 as Compliance Costs Draw Fire",
-        "fonte": "Healthsystemcio.com",
-        "autor": "Anthony Guerra",
-        "data": "2026-07-08",
-        "url": "https://healthsystemcio.com/2026/07/08/hipaa-security-rule-delayed-2027/",
-        "resumo": "A year of breathing room sounds like relief for stretched security teams. The reprieve hides a sharper question about what to build before the mandates arrive, and which move pays off first. Source: HIPAA Security Rule Overhaul Slips to 2027 as Compliance Cos…",
-        "imagem": "https://healthsystemcio.com/wp-content/uploads/2026/05/news-200.png"
-    },
-    {
-        "titulo": "Backdoor Found in the Firmware for These Wi-Fi Routers. And There&#x27;s No Patch",
-        "fonte": "PCMag.com",
-        "autor": "Michael Kan",
-        "data": "2026-07-08",
-        "url": "https://uk.pcmag.com/wireless-routers/166064/backdoor-found-in-the-firmware-for-these-wi-fi-routers-and-theres-no-patch",
-        "resumo": "A vulnerability report warns that five versions of Tenda firmware contain an &#x27;undocumented authentication backdoor&#x27; that a hacker could use to gain full admin access over an affected router. An undocumented backdoor has been found in the firmware for some Ten…",
-        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/b/backdoor-f/backdoor-found-in-the-firmware-for-these-wi-fi-routers-and-t_8zcq.1200.jpg"
-    },
-    {
-        "titulo": "Experts warn of the &#x27;first documented case of agentic ransomware&#x27; — dangerous JADEPUFFER attack run entirely by an LLM",
-        "fonte": "TechRadar",
-        "autor": "Christian Cawley",
-        "data": "2026-07-08",
-        "url": "https://www.techradar.com/pro/security/experts-warn-of-the-first-documented-case-of-agentic-ransomware-dangerous-jadepuffer-attack-run-entirely-by-an-llm",
-        "resumo": "An LLM-based ransomware attack has been detected by researchers, and is notable for losing the data it encrypted...",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/GJ8T4oA8G7TYJwTEhkwJAF-2560-80.jpg"
-    },
-    {
-        "titulo": "Langflow IDOR vulnerability exploited to harvest AI credentials and API keys",
-        "fonte": "4sysops.com",
-        "autor": "IT News",
-        "data": "2026-07-08",
-        "url": "https://4sysops.com/archives/langflow-idor-vulnerability-exploited-to-harvest-ai-credentials-and-api-keys/",
-        "resumo": "A critical insecure direct object reference vulnerability, tracked as CVE-2026-55255, is being actively exploited to target Langflow, an open-source framework for building AI agents. The flaw resides in the application&#x27;s API endpoint and allows authenticated …",
-        "imagem": "https://4sysops.com/wp-content/uploads/2026/07/langflow-idor-vulnerability-exploited-to-harvest-ai-credentials-and-api-keys.webp"
-    },
-    {
-        "titulo": "Protecting Microsoft at AI speed: How SFI proactively hardens our cloud",
-        "fonte": "Microsoft.com",
-        "autor": "Salim Chawro",
-        "data": "2026-07-08",
-        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/",
-        "resumo": "At Microsoft we encompass these security requirements, along with threat knowledge, and operational frameworks in our Secure Future Initiative (SFI), to guide what a well-defended cloud service looks like. But defining the requirements is only the start. Meet…",
-        "imagem": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/CLO22_SecOps_009_1920.jpg"
-    },
-    {
-        "titulo": "China alleges that Claude Code contains backdoors, calls mechanism &#x27;a serious threat&#x27; — Gov&#x27;t claims Claude sends sensitive information to remote servers without consent",
-        "fonte": "Toms Hardware UK",
-        "autor": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-        "data": "2026-07-08",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-alleges-that-claude-code-contains-backdoors-calls-mechanism-a-serious-threat-govt-claims-claude-sends-sensitive-information-to-remote-servers-without-consent",
-        "resumo": "China is warning against the use of Claude Code versions released between April and June 2026 after it&#x27;s revealed that hidden code is sending sensitive user information to remote servers. The government told users to uninstall the app or use its latest versio…",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/ScT7C9WsuqruarWf3kSRRG-2048-80.jpg"
-    },
-    {
-        "titulo": "US government deploys Anthropic AI for software vulnerability detection",
+        "titulo": "OpenAI launches GPT 5.6 model family with Sol as its new flagship",
         "fonte": "Crypto Briefing",
         "autor": "Estefano Gomez",
-        "data": "2026-07-08",
-        "url": "https://cryptobriefing.com/us-government-deploys-anthropic-ai-for-software-vulnerability-detection/",
-        "resumo": "The deployment of Anthropic AI by the U.S. government could bolster national security and drive Anthropic&#x27;s market valuation upward. The post US government deploys Anthropic AI for software vulnerability detection appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/08114419/the-claude-ai-logo-is-displayed-on-a-smartphone-screen-with-4-800x420.jpeg"
+        "data": "2026-07-09",
+        "url": "https://cryptobriefing.com/openai-launches-gpt-5-6-model-family-with-sol-as-its-new-flagship/",
+        "resumo": "OpenAI launched GPT 5.6 Sol, Terra and Luna across ChatGPT Codex and API, pitching stronger coding, agentic work, safety, and lower task costs. The post OpenAI launches GPT 5.6 model family with Sol as its new flagship appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/09152948/openai-scaled-e1783625401697-800x451.jpg"
     },
     {
-        "titulo": "Hidden backdoor in Tenda routers goes unpatched as company ignores warnings from cybersecurity researchers — Chinese company&#x27;s firmware allows admin access without a password",
-        "fonte": "Toms Hardware UK",
-        "autor": "Etiido Uko",
-        "data": "2026-07-08",
-        "url": "https://www.tomshardware.com/tech-industry/cyber-security/hidden-backdoor-found-in-tenda-routers-goes-unpatched-despite-warnings-from-cybersecurity-researchers-affected-firmware-allows-admin-access-without-a-password",
-        "resumo": "CERT/CC has disclosed a critical authentication backdoor affecting multiple Tenda router firmware versions. Tracked as CVE-2026-11405, the flaw grants full administrator access without valid credentials, and no vendor patch is currently available after CERT f…",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/uX8ghCJT8DyjkPQPLQVehC-2041-80.jpg"
+        "titulo": "GodDamn Ransomware Uses PoisonX to Blind Security Software",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-07-09",
+        "url": "https://securityaffairs.com/195042/malware/goddamn-ransomware-uses-poisonx-to-blind-security-software.html",
+        "resumo": "GodDamn ransomware uses the signed PoisonX driver to disable security tools, marking a more advanced version of the Beast ransomware family. Symantec’s Threat Hunter Team found a new ransomware family called GodDamn that first appeared in the wild on May 21, …",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/07/image-29.png"
+    },
+    {
+        "titulo": "Microsoft shares new Windows 11 Update install strategy every admin and user must know - Neowin",
+        "fonte": "Slashdot.org",
+        "autor": "feedfeeder",
+        "data": "2026-07-09",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184382932",
+        "resumo": "Microsoft shares new Windows 11 Update install strategy every admin and user must knowNeowin Microsoft’s patch Tuesdays are about to get biggerThe Verge Evolving Windows vulnerability management to meet the speed of AI-powered discoveryWindows Blog Microsoft …",
+        "imagem": ""
+    },
+    {
+        "titulo": "Congress Looks to Counter Growing Use of Chinese AI Models by US Firms",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-07-09",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/congress-counter-growing-use-chinese-ai-models-united-states-firms/",
+        "resumo": "As companies in the United States reel from the sticker shock of token-based artificial intelligence pricing, some are turning to lower-cost Chinese models, setting off alarms among U.S. lawmakers and national security officials. Chinese-developed models are …",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2024/04/US-Congress-2.jpg"
+    },
+    {
+        "titulo": "GPT-5.6",
+        "fonte": "Openai.com",
+        "autor": "logickkk1",
+        "data": "2026-07-09",
+        "url": "https://openai.com/index/gpt-5-6/",
+        "resumo": "Article URL: https://openai.com/index/gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=48849066 Points: 139 # Comments: 74",
+        "imagem": "https://images.ctfassets.net/kftzwdyauwt9/3T0kxQLJk1VcXVxMwXF97J/4345df401f2b08ed6a1eef88c9588d2e/OAI_ChatGPTWork_ModelBlog_OpenGraph_16x9_1200x630.png?w=1600&h=900&fit=fill"
+    },
+    {
+        "titulo": "Microsoft expects more Windows security updates from AI-discovered flaws",
+        "fonte": "BleepingComputer",
+        "autor": "Lawrence Abrams",
+        "data": "2026-07-09",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
+        "resumo": "Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2024/10/18/Microsoft.jpg"
+    },
+    {
+        "titulo": "Morgan Stanley Keeps Overweight Rating on CrowdStrike (CRWD)",
+        "fonte": "Yahoo Entertainment",
+        "autor": "Jeff Lewis",
+        "data": "2026-07-09",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-keeps-overweight-rating-164425318.html",
+        "resumo": "CrowdStrike Holdings, Inc. (NASDAQ:CRWD) is one of the 15 Best NASDAQ 100 Stocks to Buy Other Than SpaceX. On July 7, 2026, Morgan Stanley lowered the firm’s...",
+        "imagem": "https://s.yimg.com/lo/mysterio/api/97A3F831027025C2D9975FE3950C35335CAA9E8F27671D22CFFD18B896811028/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F89894eca51b93f0a51358ab0620a7463"
+    },
+    {
+        "titulo": "Industrial Defender Partners with COMPUTER 2000 Bulgaria to Expand OT Cybersecurity Access Across Southeastern Europe",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-07-09",
+        "url": "https://www.prnewswire.com/news-releases/industrial-defender-partners-with-computer-2000-bulgaria-to-expand-ot-cybersecurity-access-across-southeastern-europe-302822084.html",
+        "resumo": "Partnership Simplifies NIS2 Compliance for Essential OT Operators across region SOFIA, Bulgaria, July 8, 2026 /PRNewswire/ -- Industrial Defender, a provider of operational technology (OT) cybersecurity and compliance solutions for critical infrastructure, to…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1413811/Industrial-Defender-Logo.jpg?id=OA2753559&p=facebook"
+    },
+    {
+        "titulo": "GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware",
+        "fonte": "Microsoft.com",
+        "autor": "Microsoft Threat Intelligence",
+        "data": "2026-07-09",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/",
+        "resumo": "GigaWiper is a destructive backdoor that combines multiple wiping and ransomware-like capabilities into a single operational platform. This blog analyzes how the malware incorporates code from several previously separate malware families and provides guidance…",
+        "imagem": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/GigaWiper-featured.png"
+    },
+    {
+        "titulo": "I Wrote a New Book for Corelight",
+        "fonte": "Blogger.com",
+        "autor": "Richard Bejtlich",
+        "data": "2026-07-09",
+        "url": "https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/4088979/5309444058770321302",
+        "resumo": "Sem resumo",
+        "imagem": ""
+    },
+    {
+        "titulo": "Satstreet Receives OSC Approval as Restricted Dealer, Surpasses C$4 Billion in Lifetime Volume and Three Years of Financial Audits",
+        "fonte": "GlobeNewswire",
+        "autor": "SATSTREET INC.",
+        "data": "2026-07-09",
+        "url": "https://www.globenewswire.com/news-release/2026/07/09/3324926/0/en/Satstreet-Receives-OSC-Approval-as-Restricted-Dealer-Surpasses-C-4-Billion-in-Lifetime-Volume-and-Three-Years-of-Financial-Audits.html",
+        "resumo": "Satstreet Receives OSC Approval as Restricted Dealer, Surpasses C$4 Billion in Lifetime Volume and Three Years of Financial Audits...",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/d26b3855-c0f6-4eeb-b370-b52e2d9bf9e3"
+    },
+    {
+        "titulo": "A Vancouver Cybersecurity Company Is Betting the Next Big Security Upgrade Starts at the Login Screen, and It Just Pushed Into Southeast Asia",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-07-09",
+        "url": "https://www.prnewswire.com/news-releases/a-vancouver-cybersecurity-company-is-betting-the-next-big-security-upgrade-starts-at-the-login-screen-and-it-just-pushed-into-southeast-asia-302821979.html",
+        "resumo": "Quantum Secure Encryption Corp. expands its QAuth quantum-ready identity platform across Indonesia and Malaysia, targeting enterprise and government buyers preparing for a post-quantum world Issued on behalf of Market Equities Limited by USA News Group USA Ne…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1718298/USA-News-Group-Logo.jpg?id=OA2757301&p=facebook"
+    },
+    {
+        "titulo": "The 4 Security Companies That Earn Highest Marks for Data Protection",
+        "fonte": "CNET",
+        "autor": "Tyler Lacoma",
+        "data": "2026-07-09",
+        "url": "https://www.cnet.com/home/security/security-companies-with-the-top-data-protection-reputations/",
+        "resumo": "If you want to trust your security information to brands with a strong track record of protecting your data, these are my top picks.",
+        "imagem": "https://www.cnet.com/a/img/resize/c31d9eb3b181aa5b31323cf202b14eb7bc96086f/hub/2026/07/08/59371b73-746d-420a-a939-414d6c727afc/gettyimages-1322771219.jpg?auto=webp&fit=crop&height=675&width=1200"
+    },
+    {
+        "titulo": "Europe&#x27;s Green Transition Has A Remote-Control Problem",
+        "fonte": "Forbes",
+        "autor": "Güney Yıldız, Contributor, Güney Yıldız, Contributor https://www.forbes.com/sites/guneyyildiz/",
+        "data": "2026-07-09",
+        "url": "https://www.forbes.com/sites/guneyyildiz/2026/07/09/europes-green-transition-has-a-remote-control-problem/",
+        "resumo": "Lithuania now lets grid operators disconnect solar plants over 100 kW that fail cybersecurity rules. The move reveals a structural challenge for Europe&#x27;s renewable fleet: who retains remote access to inverters and monitoring systems after deployment, and what…",
+        "imagem": "https://imageio.forbes.com/specials-images/imageserve/6a454169c951901f59a3f74a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+        "titulo": "AI unicorn Mercor acquires Deeptune after founder Brendan Foody backed the startup",
+        "fonte": "Fortune",
+        "autor": "Lily Mae Lazarus",
+        "data": "2026-07-09",
+        "url": "https://fortune.com/2026/07/09/ai-unicorn-mercor-acquires-deeptune-brendan-foody-investor-a16z-openai-anthropic/",
+        "resumo": "The acquisition comes as Mercor says it reached $2 billion in annual recurring revenue despite a high-profile cybersecurity breach in March.",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Copy-of-UpFront_26_ClarkStudio_0021289-1.jpg?resize=1200,600"
     }
 ]
