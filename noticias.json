@@ -1,5 +1,176 @@
 [
     {
+        "titulo": "AI Cybersecurity Firm TAC InfoSec Limited Reports Record Q1 FY27 Results; Total Income Rises 97% YoY, PAT Surges 137% YoY",
+        "fonte": "ANI News",
+        "autor": "Businesswire India",
+        "data": "2026-07-11",
+        "url": "https://www.aninews.in/news/business/ai-cybersecurity-firm-tac-infosec-limited-reports-record-q1-fy27-results-total-income-rises-97-yoy-pat-surges-137-yoy20260711102418",
+        "resumo": "Mumbai (Maharashtra) [India], July 11: TAC InfoSec Limited (NSE: TAC), the NSE Listed company of global cybersecurity platform TAC Security, has reported record financial results for the first quarter of FY27, covering the period from April to June 2026.",
+        "imagem": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260711045356-thumbnail-320x180-70.jpg"
+    },
+    {
+        "titulo": "‘Patch and Pray’ IT Culture is a Dangerous Game",
+        "fonte": "Americanthinker.com",
+        "autor": "",
+        "data": "2026-07-11",
+        "url": "https://www.americanthinker.com/articles/2026/07/patch-and-pray-it-culture-is-a-dangerous-game/",
+        "resumo": "Photo Credit: Christoph ScholzBy Julio RiveraCybersecurity is one of the only sectors where failure is not only expected, it has actually been normalized.",
+        "imagem": "https://images.americanthinker.com/vr/vrvmovy5uimk4mqfy5ox_1200.jpg"
+    },
+    {
+        "titulo": "OpenAI’s latest AI model likely has similar cyber vulnerabilities to one that led to U.S. export controls on Anthropic’s Fable, British agency says",
+        "fonte": "Fortune",
+        "autor": "Emily Forlini, Jeremy Kahn",
+        "data": "2026-07-10",
+        "url": "https://fortune.com/2026/07/10/openai-gpt-5-6-sol-jailbreaks-cyber-attacks-similar-to-security-flaw-that-led-u-s-government-to-force-anthropic-to-disable-fable-5/",
+        "resumo": "U.K. AI agency found &#x27;universal jailbreaks&#x27; that unlocked dangerous cyber capabilities in OpenAI&#x27;s GPT-5.6",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2281424316-e1783715571937.jpg?resize=1200,600"
+    },
+    {
+        "titulo": "Friday Squid Blogging: “Squidbleed” Vulnerability",
+        "fonte": "Schneier.com",
+        "autor": "Bruce Schneier",
+        "data": "2026-07-10",
+        "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html",
+        "resumo": "In a rare combined cybersecurity/squid post, a twenty-nine-year-old squid proxy bug can leak HTTP requests. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
+        "imagem": ""
+    },
+    {
+        "titulo": "Update Now: Critical Zimbra Classic Web Client Flaw Could Expose Mailboxes",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-07-10",
+        "url": "https://securityaffairs.com/195130/hacking/update-now-critical-zimbra-classic-web-client-flaw-could-expose-mailboxes.html",
+        "resumo": "Zimbra addressed a critical stored XSS vulnerability in its Classic Web Client that lets malicious emails execute code when opened. Zimbra has released version 10.1.19 to fix a critical stored XSS vulnerability in its Classic Web Client, which is widely used …",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2021/07/zimbra.png"
+    },
+    {
+        "titulo": "Progress urges ShareFile customers to shut down servers over &quot;credible&quot; threat",
+        "fonte": "BleepingComputer",
+        "autor": "Lawrence Abrams",
+        "data": "2026-07-10",
+        "url": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
+        "resumo": "Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a &quot;credible external security threat&quot; targeting the on-premises secure file-sharing software. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2023/09/28/Progress.jpg"
+    },
+    {
+        "titulo": "medsbom added to PyPI",
+        "fonte": "Pypi.org",
+        "autor": "",
+        "data": "2026-07-10",
+        "url": "https://pypi.org/project/medsbom/",
+        "resumo": "Open-source FDA/IEC-62304 compliance layer for medical device SBOMs",
+        "imagem": "https://pypi.org/static/images/twitter.abaf4b19.webp"
+    },
+    {
+        "titulo": "This Week in AI: Chips, Checks, and Changing Jobs",
+        "fonte": "Oreilly.com",
+        "autor": "Michelle Smith",
+        "data": "2026-07-10",
+        "url": "https://www.oreilly.com/radar/this-week-in-ai-chips-checks-and-changing-jobs/#BlogPosting",
+        "resumo": "This week data and AI evangelist Christina Stathopoulos returned for a solo news briefing. Instead of exploring one or two topics in depth, Christina sorted the week’s headlines into a handful of threads: advances in physical hardware to keep up with AI deman…",
+        "imagem": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/05/0642572383770_This_Week_in_AI_Cover-1600x1600.jpg"
+    },
+    {
+        "titulo": "CISA Details Incident Response to Exposed AWS GovCloud Keys",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Beth Maundrill",
+        "data": "2026-07-10",
+        "url": "https://www.infosecurity-magazine.com/news/cisa-incident-response-exposed-aws/",
+        "resumo": "CISA reveals how it responded after sensitive AWS GovCloud credentials and internal data were exposed in a public GitHub repository",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/c81366f8-c1f6-482f-9058-a535e986b5f2.jpg"
+    },
+    {
+        "titulo": "Hackers exploit critical auth bypass in Gitea Docker image",
+        "fonte": "BleepingComputer",
+        "autor": "Bill Toulas",
+        "data": "2026-07-10",
+        "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
+        "resumo": "Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/10/Gitea.jpg"
+    },
+    {
+        "titulo": "In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops",
+        "fonte": "Securityweek.com",
+        "autor": "SecurityWeek News",
+        "data": "2026-07-10",
+        "url": "https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/",
+        "resumo": "Other noteworthy stories that might have slipped under the radar: Abnormal AI sued by Anthropic, AssuranceAmerica data breach affects 7 million people, NSA brings back TAO. The post In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrup…",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg"
+    },
+    {
+        "titulo": "AI model mania and the new chip gold rush",
+        "fonte": "SiliconANGLE News",
+        "autor": "Robert Hof",
+        "data": "2026-07-10",
+        "url": "https://siliconangle.com/2026/07/10/ai-model-mania-new-chip-gold-rush/",
+        "resumo": "Just when you thought the artificial intelligence model race might slow down, it starts up again double-time. This week alone brought new models and related services from OpenAI (twice), Meta (also twice), SpaceXAI, Anthropic and a raft of Chinese companies. …",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/aimodelhawkers.png"
+    },
+    {
+        "titulo": "This Week in Security: Escaping Linux VMs, Vulnerable Solar, Confusing AI (Again), and Confusing NPM Malware",
+        "fonte": "Hackaday",
+        "autor": "Mike Kershaw",
+        "data": "2026-07-10",
+        "url": "https://hackaday.com/2026/07/10/this-week-in-security-escaping-linux-vms-vulnerable-solar-confusing-ai-again-and-confusing-npm-malware/",
+        "resumo": "The Januscape vulnerability allows a user in a guest VM managed by the Linux Kernel Virtual Machine (KVM) to corrupt memory in the host system and break out of isolation. KVM virtualization is used…",
+        "imagem": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg"
+    },
+    {
+        "titulo": "Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered Threats",
+        "fonte": "InfoQ.com",
+        "autor": "Craig Risi",
+        "data": "2026-07-10",
+        "url": "https://www.infoq.com/news/2026/07/akrites-open-source-ai-threats/",
+        "resumo": "The Linux Foundation has launched Akrites, a new industry-wide initiative aimed at defending the world&#x27;s most critical open source software against a rapidly evolving generation of AI-enabled cyber threats. By Craig Risi",
+        "imagem": "https://res.infoq.com/news/2026/07/akrites-open-source-ai-threats/en/headerimage/generatedHeaderImage-1783328525989.jpg"
+    },
+    {
+        "titulo": "Zimbra urges customers to patch critical web client XSS flaw",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-07-10",
+        "url": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
+        "resumo": "The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration suite. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/10/Zimbra-headpic.jpg"
+    },
+    {
+        "titulo": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-07-10",
+        "url": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
+        "resumo": "Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report, only 45% of organizations consolidate their asset and expo…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGplfQpPmwb3F3h_tdGW9-jNmpKBLd2DdhOw1nugXafk9rWwqxFwvD5xE1L1Qs0zvZvgi7Fx_jhj9kIn9PhOvWYuLMd9n7fOeXnfzujPanNBTqmMC4SKi__b_KFtpnmNkz-jtzB2tcjgO_ceckyR4Er4Gl3LASJKbyGvZVhkqP6m9Xdx12WO6xWROBzFk/s1700-e365/million.jpg"
+    },
+    {
+        "titulo": "Data I/O Proposes to Acquire Embedded Software Security Assets from IAR",
+        "fonte": "GlobeNewswire",
+        "autor": "Data I/O Corporation",
+        "data": "2026-07-10",
+        "url": "https://www.globenewswire.com/news-release/2026/07/10/3325423/0/en/Data-I-O-Proposes-to-Acquire-Embedded-Software-Security-Assets-from-IAR.html",
+        "resumo": "Companies Continue Strategic Commercial Partnership as Data I/O Brings Embedded Trust and Secure Deployment Technology In-House to Deliver End-to-End Security Provisioning from Design to Manufacturing Companies Continue Strategic Commercial Partnership as Dat…",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/7c8b40e0-7bd6-4232-9007-f4c9c671c801"
+    },
+    {
+        "titulo": "You Should Download iOS 26.5.2 Now for a Plethora of Security Fixes",
+        "fonte": "CNET",
+        "autor": "Zachary McAuliffe",
+        "data": "2026-07-10",
+        "url": "https://www.cnet.com/tech/services-and-software/you-should-download-ios-26-5-2-now-for-a-plethora-of-security-fixes/",
+        "resumo": "Anthropic&#x27;s Claude AI model helped find one vulnerability that this update patches.",
+        "imagem": "https://www.cnet.com/a/img/resize/b5bbf0985ed8e0d93e1b0f4ee4267d1f2083e9d1/hub/2025/10/01/bcd63b14-c50d-409f-a02c-7b25af9863e6/ios-26-cnet-2.png?auto=webp&fit=crop&height=675&width=1200"
+    },
+    {
+        "titulo": "Microsoft Warns of Increase in Number of Security Updates",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Phil Muncaster",
+        "data": "2026-07-10",
+        "url": "https://www.infosecurity-magazine.com/news/microsoft-increase-number-security/",
+        "resumo": "Microsoft has said the volume of Windows security updates is set to grow as it uses AI to find new bugs",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/eaf9f222-b061-468e-ba0e-902d7457c064.jpg"
+    },
+    {
         "titulo": "Why AI is a matter of national security",
         "fonte": "TechRadar",
         "autor": "Jamie Moles",
@@ -7,176 +178,5 @@
         "url": "https://www.techradar.com/pro/why-ai-is-a-matter-of-national-security",
         "resumo": "As frontier models bridge technical gaps for malicious actors, continuous network visibility must replace outdated perimeter defenses.",
         "imagem": "https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX-2560-80.jpg"
-    },
-    {
-        "titulo": "SpaceXAI’s Grok 4.5 Undercuts Anthropic and OpenAI on Coding Agent Pricing",
-        "fonte": "DevOps.com",
-        "autor": "Tom Smith",
-        "data": "2026-07-10",
-        "url": "https://devops.com/spacexais-grok-4-5-undercuts-anthropic-and-openai-on-coding-agent-pricing/",
-        "resumo": "SpaceXAI&#x27;s Grok 4.5 undercuts Opus 4.8 on price, matching it on key coding benchmarks, and adds new safeguards against cybersecurity risks.",
-        "imagem": "https://devops.com/wp-content/uploads/2022/02/coding-gb646cb77a_1280-e1644931732205.jpg"
-    },
-    {
-        "titulo": "Lawmakers Probe Growing Use of Chinese AI Models In US Companies",
-        "fonte": "Slashdot.org",
-        "autor": "BeauHD",
-        "data": "2026-07-09",
-        "url": "https://news.slashdot.org/story/26/07/09/1947218/lawmakers-probe-growing-use-of-chinese-ai-models-in-us-companies",
-        "resumo": "U.S. lawmakers are probing the growing use of Chinese AI models by American companies, citing concerns over censorship, security risks, and whether U.S. firms are turning to cheaper foreign models because domestic alternatives are too costly or restricted. Th…",
-        "imagem": "https://a.fsdn.com/sd/topics/ai_64.png"
-    },
-    {
-        "titulo": "AI Is Annoying &amp; IoT Devices Still Get Hacked - PSW #934",
-        "fonte": "Libsyn.com",
-        "autor": "",
-        "data": "2026-07-09",
-        "url": "https://sites.libsyn.com/18678/ai-is-annoying-iot-devices-still-get-hacked-psw-934",
-        "resumo": "In the security news: Son of Anton strikes again! HalluSquatting and using Claude to defend itself CISA KEV’s Revolving Door LLM&#x27;s hallucinate and companies get sued Additionally - GitLost Yet even more Li…",
-        "imagem": "http://assets.libsyn.com/content/203949600?height=250&width=250&overlay=true"
-    },
-    {
-        "titulo": "Trump administration launches voluntary AI model review framework to tackle cybersecurity risks",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-07-09",
-        "url": "https://cryptobriefing.com/trump-ai-model-cybersecurity-review/",
-        "resumo": "The voluntary AI review framework may reshape innovation dynamics, influencing cybersecurity strategies and competitive landscapes in tech sectors. The post Trump administration launches voluntary AI model review framework to tackle cybersecurity risks appear…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/09161255/trump-ai-executive-order-what-it-means-for-health-care-teleh-800x420.jpeg"
-    },
-    {
-        "titulo": "OpenAI launches GPT 5.6 model family with Sol as its new flagship",
-        "fonte": "Crypto Briefing",
-        "autor": "Estefano Gomez",
-        "data": "2026-07-09",
-        "url": "https://cryptobriefing.com/openai-launches-gpt-5-6-model-family-with-sol-as-its-new-flagship/",
-        "resumo": "OpenAI launched GPT 5.6 Sol, Terra and Luna across ChatGPT Codex and API, pitching stronger coding, agentic work, safety, and lower task costs. The post OpenAI launches GPT 5.6 model family with Sol as its new flagship appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/09152948/openai-scaled-e1783625401697-800x451.jpg"
-    },
-    {
-        "titulo": "GodDamn Ransomware Uses PoisonX to Blind Security Software",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-07-09",
-        "url": "https://securityaffairs.com/195042/malware/goddamn-ransomware-uses-poisonx-to-blind-security-software.html",
-        "resumo": "GodDamn ransomware uses the signed PoisonX driver to disable security tools, marking a more advanced version of the Beast ransomware family. Symantec’s Threat Hunter Team found a new ransomware family called GodDamn that first appeared in the wild on May 21, …",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/07/image-29.png"
-    },
-    {
-        "titulo": "Microsoft shares new Windows 11 Update install strategy every admin and user must know - Neowin",
-        "fonte": "Slashdot.org",
-        "autor": "feedfeeder",
-        "data": "2026-07-09",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184382932",
-        "resumo": "Microsoft shares new Windows 11 Update install strategy every admin and user must knowNeowin Microsoft’s patch Tuesdays are about to get biggerThe Verge Evolving Windows vulnerability management to meet the speed of AI-powered discoveryWindows Blog Microsoft …",
-        "imagem": ""
-    },
-    {
-        "titulo": "Congress Looks to Counter Growing Use of Chinese AI Models by US Firms",
-        "fonte": "pymnts.com",
-        "autor": "PYMNTS",
-        "data": "2026-07-09",
-        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/congress-counter-growing-use-chinese-ai-models-united-states-firms/",
-        "resumo": "As companies in the United States reel from the sticker shock of token-based artificial intelligence pricing, some are turning to lower-cost Chinese models, setting off alarms among U.S. lawmakers and national security officials. Chinese-developed models are …",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2024/04/US-Congress-2.jpg"
-    },
-    {
-        "titulo": "GPT-5.6",
-        "fonte": "Openai.com",
-        "autor": "logickkk1",
-        "data": "2026-07-09",
-        "url": "https://openai.com/index/gpt-5-6/",
-        "resumo": "Article URL: https://openai.com/index/gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=48849066 Points: 139 # Comments: 74",
-        "imagem": "https://images.ctfassets.net/kftzwdyauwt9/3T0kxQLJk1VcXVxMwXF97J/4345df401f2b08ed6a1eef88c9588d2e/OAI_ChatGPTWork_ModelBlog_OpenGraph_16x9_1200x630.png?w=1600&h=900&fit=fill"
-    },
-    {
-        "titulo": "Microsoft expects more Windows security updates from AI-discovered flaws",
-        "fonte": "BleepingComputer",
-        "autor": "Lawrence Abrams",
-        "data": "2026-07-09",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
-        "resumo": "Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2024/10/18/Microsoft.jpg"
-    },
-    {
-        "titulo": "Morgan Stanley Keeps Overweight Rating on CrowdStrike (CRWD)",
-        "fonte": "Yahoo Entertainment",
-        "autor": "Jeff Lewis",
-        "data": "2026-07-09",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-keeps-overweight-rating-164425318.html",
-        "resumo": "CrowdStrike Holdings, Inc. (NASDAQ:CRWD) is one of the 15 Best NASDAQ 100 Stocks to Buy Other Than SpaceX. On July 7, 2026, Morgan Stanley lowered the firm’s...",
-        "imagem": "https://s.yimg.com/lo/mysterio/api/97A3F831027025C2D9975FE3950C35335CAA9E8F27671D22CFFD18B896811028/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F89894eca51b93f0a51358ab0620a7463"
-    },
-    {
-        "titulo": "Industrial Defender Partners with COMPUTER 2000 Bulgaria to Expand OT Cybersecurity Access Across Southeastern Europe",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-07-09",
-        "url": "https://www.prnewswire.com/news-releases/industrial-defender-partners-with-computer-2000-bulgaria-to-expand-ot-cybersecurity-access-across-southeastern-europe-302822084.html",
-        "resumo": "Partnership Simplifies NIS2 Compliance for Essential OT Operators across region SOFIA, Bulgaria, July 8, 2026 /PRNewswire/ -- Industrial Defender, a provider of operational technology (OT) cybersecurity and compliance solutions for critical infrastructure, to…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1413811/Industrial-Defender-Logo.jpg?id=OA2753559&p=facebook"
-    },
-    {
-        "titulo": "GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware",
-        "fonte": "Microsoft.com",
-        "autor": "Microsoft Threat Intelligence",
-        "data": "2026-07-09",
-        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/",
-        "resumo": "GigaWiper is a destructive backdoor that combines multiple wiping and ransomware-like capabilities into a single operational platform. This blog analyzes how the malware incorporates code from several previously separate malware families and provides guidance…",
-        "imagem": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/GigaWiper-featured.png"
-    },
-    {
-        "titulo": "I Wrote a New Book for Corelight",
-        "fonte": "Blogger.com",
-        "autor": "Richard Bejtlich",
-        "data": "2026-07-09",
-        "url": "https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/4088979/5309444058770321302",
-        "resumo": "Sem resumo",
-        "imagem": ""
-    },
-    {
-        "titulo": "Satstreet Receives OSC Approval as Restricted Dealer, Surpasses C$4 Billion in Lifetime Volume and Three Years of Financial Audits",
-        "fonte": "GlobeNewswire",
-        "autor": "SATSTREET INC.",
-        "data": "2026-07-09",
-        "url": "https://www.globenewswire.com/news-release/2026/07/09/3324926/0/en/Satstreet-Receives-OSC-Approval-as-Restricted-Dealer-Surpasses-C-4-Billion-in-Lifetime-Volume-and-Three-Years-of-Financial-Audits.html",
-        "resumo": "Satstreet Receives OSC Approval as Restricted Dealer, Surpasses C$4 Billion in Lifetime Volume and Three Years of Financial Audits...",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/d26b3855-c0f6-4eeb-b370-b52e2d9bf9e3"
-    },
-    {
-        "titulo": "A Vancouver Cybersecurity Company Is Betting the Next Big Security Upgrade Starts at the Login Screen, and It Just Pushed Into Southeast Asia",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-07-09",
-        "url": "https://www.prnewswire.com/news-releases/a-vancouver-cybersecurity-company-is-betting-the-next-big-security-upgrade-starts-at-the-login-screen-and-it-just-pushed-into-southeast-asia-302821979.html",
-        "resumo": "Quantum Secure Encryption Corp. expands its QAuth quantum-ready identity platform across Indonesia and Malaysia, targeting enterprise and government buyers preparing for a post-quantum world Issued on behalf of Market Equities Limited by USA News Group USA Ne…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1718298/USA-News-Group-Logo.jpg?id=OA2757301&p=facebook"
-    },
-    {
-        "titulo": "The 4 Security Companies That Earn Highest Marks for Data Protection",
-        "fonte": "CNET",
-        "autor": "Tyler Lacoma",
-        "data": "2026-07-09",
-        "url": "https://www.cnet.com/home/security/security-companies-with-the-top-data-protection-reputations/",
-        "resumo": "If you want to trust your security information to brands with a strong track record of protecting your data, these are my top picks.",
-        "imagem": "https://www.cnet.com/a/img/resize/c31d9eb3b181aa5b31323cf202b14eb7bc96086f/hub/2026/07/08/59371b73-746d-420a-a939-414d6c727afc/gettyimages-1322771219.jpg?auto=webp&fit=crop&height=675&width=1200"
-    },
-    {
-        "titulo": "Europe&#x27;s Green Transition Has A Remote-Control Problem",
-        "fonte": "Forbes",
-        "autor": "Güney Yıldız, Contributor, Güney Yıldız, Contributor https://www.forbes.com/sites/guneyyildiz/",
-        "data": "2026-07-09",
-        "url": "https://www.forbes.com/sites/guneyyildiz/2026/07/09/europes-green-transition-has-a-remote-control-problem/",
-        "resumo": "Lithuania now lets grid operators disconnect solar plants over 100 kW that fail cybersecurity rules. The move reveals a structural challenge for Europe&#x27;s renewable fleet: who retains remote access to inverters and monitoring systems after deployment, and what…",
-        "imagem": "https://imageio.forbes.com/specials-images/imageserve/6a454169c951901f59a3f74a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-    },
-    {
-        "titulo": "AI unicorn Mercor acquires Deeptune after founder Brendan Foody backed the startup",
-        "fonte": "Fortune",
-        "autor": "Lily Mae Lazarus",
-        "data": "2026-07-09",
-        "url": "https://fortune.com/2026/07/09/ai-unicorn-mercor-acquires-deeptune-brendan-foody-investor-a16z-openai-anthropic/",
-        "resumo": "The acquisition comes as Mercor says it reached $2 billion in annual recurring revenue despite a high-profile cybersecurity breach in March.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Copy-of-UpFront_26_ClarkStudio_0021289-1.jpg?resize=1200,600"
     }
 ]
