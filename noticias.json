@@ -1,5 +1,50 @@
 [
     {
+        "titulo": "Jamie Dimon warns AI amplifies cybersecurity threats, citing Anthropic technology",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-07-12",
+        "url": "https://cryptobriefing.com/dimon-warns-ai-cybersecurity-threats-anthropic/",
+        "resumo": "AI&#x27;s role in amplifying cybersecurity threats highlights urgent need for robust defenses across all digital sectors, impacting global financial stability. The post Jamie Dimon warns AI amplifies cybersecurity threats, citing Anthropic technology appeared firs…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/12043441/major-us-bank-boss-issues-grim-economic-warning-1-800x420.jpeg"
+    },
+    {
+        "titulo": "Week in review: Accenture data breach, great open-source cybersecurity tools",
+        "fonte": "Help Net Security",
+        "autor": "Help Net Security",
+        "data": "2026-07-12",
+        "url": "https://www.helpnetsecurity.com/2026/07/12/week-in-review-accenture-data-breach-great-open-source-cybersecurity-tools/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Securing the inbox: Where identity, brand and security meet Getting a verified logo to appear next to your email has traditionally meant having to work with two …",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124832/cybersecurity-week-review-2-1500.webp"
+    },
+    {
+        "titulo": "U.S. CISA adds iCagenda and Balbooa Forms flaws to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-07-11",
+        "url": "https://securityaffairs.com/195164/security/u-s-cisa-adds-icagenda-and-balbooa-forms-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds iCagenda and Balbooa Forms flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added iCagenda and Balbooa Forms flaws to its K…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "SELF-DEFENSE AGAINST THE MACHINE: Virginia Man Puts Warrantless Flock Surveillance on Trial",
+        "fonte": "Activistpost.com",
+        "autor": "Editor",
+        "data": "2026-07-11",
+        "url": "https://www.activistpost.com/self-defense-against-the-machine-virginia-man-puts-warrantless-flock-surveillance-on-trial/",
+        "resumo": "A Virginia man accused of destroying multiple flock cameras, who pleads not guilty because mass surveillance violates our rights. As millions of Americans passively consume state-sanctioned fireworks this Fourth of July, it is crucial to remember that Indepen…",
+        "imagem": "https://www.activistpost.com/wp-content/uploads/2026/07/flockit.jpg"
+    },
+    {
+        "titulo": "The day every affair will be exposed: Even infidelities from decades ago will be outed... experts reveal what cheaters must do immediately",
+        "fonte": "Dailymail.com",
+        "autor": "Stacy Liberatore, Kim Komando",
+        "data": "2026-07-11",
+        "url": "https://www.dailymail.com/sciencetech/article-15957511/affair-exposed-technology.html",
+        "resumo": "Cheating partners will soon have nowhere to hide. A tech expert reveal the date, within the next 12 months, when it will all be outed...",
+        "imagem": "https://i.dailymail.com/1s/2026/07/06/21/109837719-0-image-a-32_1783368548338.jpg"
+    },
+    {
         "titulo": "AI Cybersecurity Firm TAC InfoSec Limited Reports Record Q1 FY27 Results; Total Income Rises 97% YoY, PAT Surges 137% YoY",
         "fonte": "ANI News",
         "autor": "Businesswire India",
@@ -133,50 +178,5 @@
         "url": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
         "resumo": "The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration suite. [...]",
         "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/10/Zimbra-headpic.jpg"
-    },
-    {
-        "titulo": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-07-10",
-        "url": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
-        "resumo": "Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report, only 45% of organizations consolidate their asset and expo…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGplfQpPmwb3F3h_tdGW9-jNmpKBLd2DdhOw1nugXafk9rWwqxFwvD5xE1L1Qs0zvZvgi7Fx_jhj9kIn9PhOvWYuLMd9n7fOeXnfzujPanNBTqmMC4SKi__b_KFtpnmNkz-jtzB2tcjgO_ceckyR4Er4Gl3LASJKbyGvZVhkqP6m9Xdx12WO6xWROBzFk/s1700-e365/million.jpg"
-    },
-    {
-        "titulo": "Data I/O Proposes to Acquire Embedded Software Security Assets from IAR",
-        "fonte": "GlobeNewswire",
-        "autor": "Data I/O Corporation",
-        "data": "2026-07-10",
-        "url": "https://www.globenewswire.com/news-release/2026/07/10/3325423/0/en/Data-I-O-Proposes-to-Acquire-Embedded-Software-Security-Assets-from-IAR.html",
-        "resumo": "Companies Continue Strategic Commercial Partnership as Data I/O Brings Embedded Trust and Secure Deployment Technology In-House to Deliver End-to-End Security Provisioning from Design to Manufacturing Companies Continue Strategic Commercial Partnership as Dat…",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/7c8b40e0-7bd6-4232-9007-f4c9c671c801"
-    },
-    {
-        "titulo": "You Should Download iOS 26.5.2 Now for a Plethora of Security Fixes",
-        "fonte": "CNET",
-        "autor": "Zachary McAuliffe",
-        "data": "2026-07-10",
-        "url": "https://www.cnet.com/tech/services-and-software/you-should-download-ios-26-5-2-now-for-a-plethora-of-security-fixes/",
-        "resumo": "Anthropic&#x27;s Claude AI model helped find one vulnerability that this update patches.",
-        "imagem": "https://www.cnet.com/a/img/resize/b5bbf0985ed8e0d93e1b0f4ee4267d1f2083e9d1/hub/2025/10/01/bcd63b14-c50d-409f-a02c-7b25af9863e6/ios-26-cnet-2.png?auto=webp&fit=crop&height=675&width=1200"
-    },
-    {
-        "titulo": "Microsoft Warns of Increase in Number of Security Updates",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Phil Muncaster",
-        "data": "2026-07-10",
-        "url": "https://www.infosecurity-magazine.com/news/microsoft-increase-number-security/",
-        "resumo": "Microsoft has said the volume of Windows security updates is set to grow as it uses AI to find new bugs",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/eaf9f222-b061-468e-ba0e-902d7457c064.jpg"
-    },
-    {
-        "titulo": "Why AI is a matter of national security",
-        "fonte": "TechRadar",
-        "autor": "Jamie Moles",
-        "data": "2026-07-10",
-        "url": "https://www.techradar.com/pro/why-ai-is-a-matter-of-national-security",
-        "resumo": "As frontier models bridge technical gaps for malicious actors, continuous network visibility must replace outdated perimeter defenses.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX-2560-80.jpg"
     }
 ]
