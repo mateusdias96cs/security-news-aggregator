@@ -1,5 +1,77 @@
 [
     {
+        "titulo": "US and allies warn of Russian critical infrastructure attacks",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-07-13",
+        "url": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
+        "resumo": "Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate critical infrastructure networks. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/13/Russian_hacker.jpg"
+    },
+    {
+        "titulo": "India mulls security certification for IoT devices",
+        "fonte": "The Times of India",
+        "autor": "ET Online",
+        "data": "2026-07-13",
+        "url": "https://economictimes.indiatimes.com/news/economy/policy/india-mulls-security-certification-for-iot-devices/articleshow/132360328.cms",
+        "resumo": "The government is considering extending its cybersecurity rules beyond internet-enabled CCTV cameras to a wider range of IoT devices, including smart meters, amid concerns over vulnerabilities in imported products, particularly from China.",
+        "imagem": "https://img.etimg.com/thumb/msid-132360844,width-1200,height-630,imgsize-52980,overlay-economictimes/articleshow.jpg"
+    },
+    {
+        "titulo": "Why SBOMs, signing, and provenance still don’t tell you if software is safe",
+        "fonte": "Help Net Security",
+        "autor": "Help Net Security",
+        "data": "2026-07-13",
+        "url": "https://www.helpnetsecurity.com/2026/07/13/sbom-zero-trust-for-code/",
+        "resumo": "We have made real progress in software supply chain security, improving visibility into software components, authenticity and build integrity. Much of this progress traces back to Executive Order 14028, which pushed agencies, contractors and enterprises to in…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/07/09113252/package-box-1500.webp"
+    },
+    {
+        "titulo": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-07-13",
+        "url": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitatio…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8FM8eXCuapKSUef3nzFlgzqlX4a5mJChM9YqCdHOi6QybQ8AM1xbM9NNTyAjS3iyz7iAX6vC8QVHl5zFlAgNyBIgm5FHgFkEGzOg5l3ZXNXI8ILA2GIGKtvYDuy-qpXmfeMHYxheps3XuPCtgedFa9vcimwad9kBjpbF0SEhhxpZoWsWybn0zcgNtppI/s1700-e365/cisa-joomla.jpg"
+    },
+    {
+        "titulo": "99.9% of fixable AI vulnerabilities remain unpatched",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-07-13",
+        "url": "https://www.helpnetsecurity.com/2026/07/13/ai-infrastructure-security-risks-report/",
+        "resumo": "Organizations build, deploy, and operate AI in the cloud, but basic cybersecurity hygiene is often sacrificed for speed, according to Orca Security’s 2026 State of AI Security Report. Building AI without security Fifty-six percent of AI adopters have deployed…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/01115443/ai-robot-1500.webp"
+    },
+    {
+        "titulo": "OpenAI Is Shutting Down Its Browser That Was Supposed to Change Everything",
+        "fonte": "Futurism",
+        "autor": "Victor Tangermann",
+        "data": "2026-07-12",
+        "url": "https://futurism.com/artificial-intelligence/openai-shutting-down-browser",
+        "resumo": "Another OpenAI product bites the dust. The post OpenAI Is Shutting Down Its Browser That Was Supposed to Change Everything appeared first on Futurism.",
+        "imagem": "https://futurism.com/wp-content/uploads/2026/07/openai-shutting-down-browser.jpg?quality=85&w=1200"
+    },
+    {
+        "titulo": "Beijing flagged Claude Code as a back door, and Chinese coding tools are lining up to take its place",
+        "fonte": "The Next Web",
+        "autor": "Alina Maria Stan",
+        "data": "2026-07-12",
+        "url": "https://thenextweb.com/news/china-ai-coding-tools-claude-code-backdoor/",
+        "resumo": "Beijing’s cybersecurity warning against Anthropic is expected to speed up a shift already under way. Chinese developers are moving to domestic coding tools, analysts told the South China Morning Post. China’s National Vulnerability Database, overseen by the M…",
+        "imagem": "https://media.thenextweb.com/2026/04/anthropic-claude-opus-4-7-coding-agentic-benchmarks-release.avif"
+    },
+    {
+        "titulo": "Grid War: How Geopolitics And Anxiety Drive Home Solar",
+        "fonte": "Forbes",
+        "autor": "Ken Silverstein, Senior Contributor, Ken Silverstein, Senior Contributor https://www.forbes.com/site",
+        "data": "2026-07-12",
+        "url": "https://www.forbes.com/sites/kensilverstein/2026/07/12/grid-war-how-geopolitics-and-anxiety-drive-home-solar/",
+        "resumo": "Cyberattacks on power grids and shifting federal policy are pushing Americans toward rooftop solar and batteries — not for climate ideals, but personal security.",
+        "imagem": "https://imageio.forbes.com/specials-images/imageserve/6a4fe0306031b2c0b892a239/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
         "titulo": "Jamie Dimon warns AI amplifies cybersecurity threats, citing Anthropic technology",
         "fonte": "Crypto Briefing",
         "autor": "Editorial Team",
@@ -106,77 +178,5 @@
         "url": "https://pypi.org/project/medsbom/",
         "resumo": "Open-source FDA/IEC-62304 compliance layer for medical device SBOMs",
         "imagem": "https://pypi.org/static/images/twitter.abaf4b19.webp"
-    },
-    {
-        "titulo": "This Week in AI: Chips, Checks, and Changing Jobs",
-        "fonte": "Oreilly.com",
-        "autor": "Michelle Smith",
-        "data": "2026-07-10",
-        "url": "https://www.oreilly.com/radar/this-week-in-ai-chips-checks-and-changing-jobs/#BlogPosting",
-        "resumo": "This week data and AI evangelist Christina Stathopoulos returned for a solo news briefing. Instead of exploring one or two topics in depth, Christina sorted the week’s headlines into a handful of threads: advances in physical hardware to keep up with AI deman…",
-        "imagem": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/05/0642572383770_This_Week_in_AI_Cover-1600x1600.jpg"
-    },
-    {
-        "titulo": "CISA Details Incident Response to Exposed AWS GovCloud Keys",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Beth Maundrill",
-        "data": "2026-07-10",
-        "url": "https://www.infosecurity-magazine.com/news/cisa-incident-response-exposed-aws/",
-        "resumo": "CISA reveals how it responded after sensitive AWS GovCloud credentials and internal data were exposed in a public GitHub repository",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/c81366f8-c1f6-482f-9058-a535e986b5f2.jpg"
-    },
-    {
-        "titulo": "Hackers exploit critical auth bypass in Gitea Docker image",
-        "fonte": "BleepingComputer",
-        "autor": "Bill Toulas",
-        "data": "2026-07-10",
-        "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
-        "resumo": "Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/10/Gitea.jpg"
-    },
-    {
-        "titulo": "In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops",
-        "fonte": "Securityweek.com",
-        "autor": "SecurityWeek News",
-        "data": "2026-07-10",
-        "url": "https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/",
-        "resumo": "Other noteworthy stories that might have slipped under the radar: Abnormal AI sued by Anthropic, AssuranceAmerica data breach affects 7 million people, NSA brings back TAO. The post In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrup…",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg"
-    },
-    {
-        "titulo": "AI model mania and the new chip gold rush",
-        "fonte": "SiliconANGLE News",
-        "autor": "Robert Hof",
-        "data": "2026-07-10",
-        "url": "https://siliconangle.com/2026/07/10/ai-model-mania-new-chip-gold-rush/",
-        "resumo": "Just when you thought the artificial intelligence model race might slow down, it starts up again double-time. This week alone brought new models and related services from OpenAI (twice), Meta (also twice), SpaceXAI, Anthropic and a raft of Chinese companies. …",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/aimodelhawkers.png"
-    },
-    {
-        "titulo": "This Week in Security: Escaping Linux VMs, Vulnerable Solar, Confusing AI (Again), and Confusing NPM Malware",
-        "fonte": "Hackaday",
-        "autor": "Mike Kershaw",
-        "data": "2026-07-10",
-        "url": "https://hackaday.com/2026/07/10/this-week-in-security-escaping-linux-vms-vulnerable-solar-confusing-ai-again-and-confusing-npm-malware/",
-        "resumo": "The Januscape vulnerability allows a user in a guest VM managed by the Linux Kernel Virtual Machine (KVM) to corrupt memory in the host system and break out of isolation. KVM virtualization is used…",
-        "imagem": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg"
-    },
-    {
-        "titulo": "Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered Threats",
-        "fonte": "InfoQ.com",
-        "autor": "Craig Risi",
-        "data": "2026-07-10",
-        "url": "https://www.infoq.com/news/2026/07/akrites-open-source-ai-threats/",
-        "resumo": "The Linux Foundation has launched Akrites, a new industry-wide initiative aimed at defending the world&#x27;s most critical open source software against a rapidly evolving generation of AI-enabled cyber threats. By Craig Risi",
-        "imagem": "https://res.infoq.com/news/2026/07/akrites-open-source-ai-threats/en/headerimage/generatedHeaderImage-1783328525989.jpg"
-    },
-    {
-        "titulo": "Zimbra urges customers to patch critical web client XSS flaw",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-07-10",
-        "url": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
-        "resumo": "The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration suite. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/10/Zimbra-headpic.jpg"
     }
 ]
