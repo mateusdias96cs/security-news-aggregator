@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "US and allies warn of Russian critical infrastructure attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-07-13",
-        "url": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
-        "resumo": "Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate critical infrastructure networks. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/13/Russian_hacker.jpg"
+        "titulo": "Healthcare struggles with risk remediation in first half of 2026",
+        "fonte": "Techtarget.com",
+        "autor": "Jill Hughes",
+        "data": "2026-07-14",
+        "url": "https://www.techtarget.com/healthtechsecurity/news/366645829/Healthcare-struggles-with-risk-remediation-in-first-half-of-2026",
+        "resumo": "Healthcare organizations are improving at identifying cyber threats, but remediation efforts continue to lag due to resource constraints and operational challenges.",
+        "imagem": "https://www.techtarget.com/rms/onlineimages/health security_g1302091582.jpg"
     },
     {
-        "titulo": "India mulls security certification for IoT devices",
-        "fonte": "The Times of India",
-        "autor": "ET Online",
-        "data": "2026-07-13",
-        "url": "https://economictimes.indiatimes.com/news/economy/policy/india-mulls-security-certification-for-iot-devices/articleshow/132360328.cms",
-        "resumo": "The government is considering extending its cybersecurity rules beyond internet-enabled CCTV cameras to a wider range of IoT devices, including smart meters, amid concerns over vulnerabilities in imported products, particularly from China.",
-        "imagem": "https://img.etimg.com/thumb/msid-132360844,width-1200,height-630,imgsize-52980,overlay-economictimes/articleshow.jpg"
+        "titulo": "DHS Cybersecurity Reportedly Has an ‘I’m Sure It’s Nothing’ Problem",
+        "fonte": "Gizmodo.com",
+        "autor": "Mike Pearl",
+        "data": "2026-07-14",
+        "url": "https://gizmodo.com/dhs-cybersecurity-reportedly-has-an-im-sure-its-nothing-problem-2000785126",
+        "resumo": "DHS probably shouldn&#x27;t be dismissing actual breaches as false positives...twice.",
+        "imagem": "https://gizmodo.com/app/uploads/2025/11/DHS-homeland-security-sign-1200x675.jpg"
     },
     {
-        "titulo": "Why SBOMs, signing, and provenance still don’t tell you if software is safe",
-        "fonte": "Help Net Security",
-        "autor": "Help Net Security",
-        "data": "2026-07-13",
-        "url": "https://www.helpnetsecurity.com/2026/07/13/sbom-zero-trust-for-code/",
-        "resumo": "We have made real progress in software supply chain security, improving visibility into software components, authenticity and build integrity. Much of this progress traces back to Executive Order 14028, which pushed agencies, contractors and enterprises to in…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/07/09113252/package-box-1500.webp"
+        "titulo": "ESET Research discovers vulnerable UEFI shims undermining devices’ Secure Boot",
+        "fonte": "GlobeNewswire",
+        "autor": "ESET, LLC",
+        "data": "2026-07-14",
+        "url": "https://www.globenewswire.com/news-release/2026/07/14/3326630/0/en/ESET-Research-discovers-vulnerable-UEFI-shims-undermining-devices-Secure-Boot.html",
+        "resumo": "BRATISLAVA, Slovakia, July 14, 2026 (GLOBE NEWSWIRE) -- ESET researchers discovered 11 vulnerable UEFI shim bootloaders signed by Microsoft that allow attackers to bypass UEFI Secure Boot by exploiting decade-old vulnerabilities. UEFI shim bootloaders are tin…",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/d6434bd9-71ad-46f5-b1c8-81bd2b967640"
     },
     {
-        "titulo": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-07-13",
-        "url": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitatio…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8FM8eXCuapKSUef3nzFlgzqlX4a5mJChM9YqCdHOi6QybQ8AM1xbM9NNTyAjS3iyz7iAX6vC8QVHl5zFlAgNyBIgm5FHgFkEGzOg5l3ZXNXI8ILA2GIGKtvYDuy-qpXmfeMHYxheps3XuPCtgedFa9vcimwad9kBjpbF0SEhhxpZoWsWybn0zcgNtppI/s1700-e365/cisa-joomla.jpg"
+        "titulo": "The new rules of software supply chain security: visibility, vigilance, validation",
+        "fonte": "TechRadar",
+        "autor": "Jon France",
+        "data": "2026-07-14",
+        "url": "https://www.techradar.com/pro/the-new-rules-of-software-supply-chain-security-visibility-vigilance-validation",
+        "resumo": "Software supply chain security is fast becoming a business-critical priority.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-2560-80.jpg"
     },
     {
-        "titulo": "99.9% of fixable AI vulnerabilities remain unpatched",
+        "titulo": "Cybersecurity jobs available right now: July 14, 2026",
         "fonte": "Help Net Security",
         "autor": "Anamarija Pogorelec",
+        "data": "2026-07-14",
+        "url": "https://www.helpnetsecurity.com/2026/07/14/cybersecurity-jobs-available-right-now-july-14-2026/",
+        "resumo": "Cyber Network Engineer Fiserv | USA | On-site – View job details As a Cyber Network Engineer, you will lead the design, governance, and security review of enterprise network architectures across on-premises and cloud environments. You will provide expertise i…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140416/cybersecurity_jobs-1-1500.webp"
+    },
+    {
+        "titulo": "A Guide to the Convergence of Electronic Warfare and Cyber Operations",
+        "fonte": "Carnegie Mellon University",
+        "autor": "Joseph McIlvenny",
+        "data": "2026-07-14",
+        "url": "https://www.sei.cmu.edu/blog/a-guide-to-the-convergence-of-electronic-warfare-and-cyber-operations/",
+        "resumo": "This post introduces electronic warfare and CyberOps, the drivers behind their convergence, and key issues in their use on the battlefield.",
+        "imagem": "https://www.sei.cmu.edu/media/images/og_20260713_230653_a.2e16d0ba.fill-1200x630.format-webp.webp"
+    },
+    {
+        "titulo": "AI, once relegated to helping hackers with certain tasks, can now power every stage of a cyberattack",
+        "fonte": "Nextgov",
+        "autor": "David DiMolfetta",
+        "data": "2026-07-14",
+        "url": "https://www.nextgov.com/cybersecurity/2026/07/ai-once-relegated-helping-hackers-certain-tasks-can-now-power-every-stage-cyberattack/414744/",
+        "resumo": "Researchers determined that AI was used in steps across entire cyber operations to identify security flaws, generate commands and carry out parts of intrusions, sometimes with little human oversight. Both U.S. and Chinese AI models have been involved.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/07/13/GettyImages_1599973349/open-graph.jpg"
+    },
+    {
+        "titulo": "We’ll generate N5bn annual mining revenue for Osun – AAC gov candidate",
+        "fonte": "The Punch",
+        "autor": "Punch Newspapers",
+        "data": "2026-07-14",
+        "url": "https://punchng.com/?p=2189707",
+        "resumo": "AAC governorship candidate, Olajide Esan, outlines plans to generate N5bn annual mining revenue for Osun, reduce federal dependence, and create jobs. Read More: https://punchng.com/well-generate-n5bn-annual-mining-revenue-for-osun-aac-gov-candidate/",
+        "imagem": "https://punchng.com/wp-content/uploads/2026/07/Esan_1783974935-1200x630.webp"
+    },
+    {
+        "titulo": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock",
+        "fonte": "Amazon.com",
+        "autor": "Tanvi Girinath",
         "data": "2026-07-13",
-        "url": "https://www.helpnetsecurity.com/2026/07/13/ai-infrastructure-security-risks-report/",
-        "resumo": "Organizations build, deploy, and operate AI in the cloud, but basic cybersecurity hygiene is often sacrificed for speed, according to Orca Security’s 2026 State of AI Security Report. Building AI without security Fifty-six percent of AI adopters have deployed…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/01115443/ai-robot-1500.webp"
+        "url": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/",
+        "resumo": "Today, GPT-5.6 Sol, Terra, and Luna from OpenAI are generally available on Amazon Bedrock, bringing the smartest family of models from OpenAI yet to Amazon Bedrock’s next-generation inference engine built for high-performance, security and reliability.",
+        "imagem": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/13/ML-21359.png"
     },
     {
-        "titulo": "OpenAI Is Shutting Down Its Browser That Was Supposed to Change Everything",
-        "fonte": "Futurism",
-        "autor": "Victor Tangermann",
-        "data": "2026-07-12",
-        "url": "https://futurism.com/artificial-intelligence/openai-shutting-down-browser",
-        "resumo": "Another OpenAI product bites the dust. The post OpenAI Is Shutting Down Its Browser That Was Supposed to Change Everything appeared first on Futurism.",
-        "imagem": "https://futurism.com/wp-content/uploads/2026/07/openai-shutting-down-browser.jpg?quality=85&w=1200"
+        "titulo": "Microsoft fixes &#x27;RoguePlanet&#x27; Defender zero-day as researcher finds new holes",
+        "fonte": "iTnews",
+        "autor": "",
+        "data": "2026-07-13",
+        "url": "https://www.itnews.com.au/news/microsoft-fixes-rogueplanet-defender-zero-day-as-researcher-finds-new-holes-627330",
+        "resumo": "Defender disk-filling bug disclosed.",
+        "imagem": "https://i.nextmedia.com.au/News/programming-code-on-computer-screen-1.jpg"
     },
     {
-        "titulo": "Beijing flagged Claude Code as a back door, and Chinese coding tools are lining up to take its place",
-        "fonte": "The Next Web",
-        "autor": "Alina Maria Stan",
-        "data": "2026-07-12",
-        "url": "https://thenextweb.com/news/china-ai-coding-tools-claude-code-backdoor/",
-        "resumo": "Beijing’s cybersecurity warning against Anthropic is expected to speed up a shift already under way. Chinese developers are moving to domestic coding tools, analysts told the South China Morning Post. China’s National Vulnerability Database, overseen by the M…",
-        "imagem": "https://media.thenextweb.com/2026/04/anthropic-claude-opus-4-7-coding-agentic-benchmarks-release.avif"
+        "titulo": "Microsoft fixes &#x27;RoguePlanet&#x27; Defender zero-day as researcher finds new holes",
+        "fonte": "iTnews",
+        "autor": "",
+        "data": "2026-07-13",
+        "url": "https://www.itnews.com.au/news/microsoft-fixes-rogueplanet-defender-zero-day-as-researcher-finds-new-holes-627330",
+        "resumo": "Defender disk-filling bug disclosed.",
+        "imagem": "https://i.nextmedia.com.au/News/programming-code-on-computer-screen-1.jpg"
     },
     {
-        "titulo": "Grid War: How Geopolitics And Anxiety Drive Home Solar",
-        "fonte": "Forbes",
-        "autor": "Ken Silverstein, Senior Contributor, Ken Silverstein, Senior Contributor https://www.forbes.com/site",
-        "data": "2026-07-12",
-        "url": "https://www.forbes.com/sites/kensilverstein/2026/07/12/grid-war-how-geopolitics-and-anxiety-drive-home-solar/",
-        "resumo": "Cyberattacks on power grids and shifting federal policy are pushing Americans toward rooftop solar and batteries — not for climate ideals, but personal security.",
-        "imagem": "https://imageio.forbes.com/specials-images/imageserve/6a4fe0306031b2c0b892a239/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        "titulo": "How MIT students are helping to prevent cyberattacks",
+        "fonte": "Mit.edu",
+        "autor": "Nicole Estvanik Taylor | Department of Urban Studies and Planning",
+        "data": "2026-07-13",
+        "url": "https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713",
+        "resumo": "MIT&amp;#039;s Cybersecurity Clinic helps local governments defend against digital threats. Students gain real-world experience through field assignments.",
+        "imagem": "https://news.mit.edu/sites/default/files/images/202607/mit-dusp-Cybersecurity-Clinic.jpg"
     },
     {
-        "titulo": "Jamie Dimon warns AI amplifies cybersecurity threats, citing Anthropic technology",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-07-12",
-        "url": "https://cryptobriefing.com/dimon-warns-ai-cybersecurity-threats-anthropic/",
-        "resumo": "AI&#x27;s role in amplifying cybersecurity threats highlights urgent need for robust defenses across all digital sectors, impacting global financial stability. The post Jamie Dimon warns AI amplifies cybersecurity threats, citing Anthropic technology appeared firs…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/12043441/major-us-bank-boss-issues-grim-economic-warning-1-800x420.jpeg"
-    },
-    {
-        "titulo": "Week in review: Accenture data breach, great open-source cybersecurity tools",
-        "fonte": "Help Net Security",
-        "autor": "Help Net Security",
-        "data": "2026-07-12",
-        "url": "https://www.helpnetsecurity.com/2026/07/12/week-in-review-accenture-data-breach-great-open-source-cybersecurity-tools/",
-        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Securing the inbox: Where identity, brand and security meet Getting a verified logo to appear next to your email has traditionally meant having to work with two …",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124832/cybersecurity-week-review-2-1500.webp"
-    },
-    {
-        "titulo": "U.S. CISA adds iCagenda and Balbooa Forms flaws to its Known Exploited Vulnerabilities catalog",
+        "titulo": "U.S. CISA adds a Cisco IOS flaw to its Known Exploited Vulnerabilities catalog",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
-        "data": "2026-07-11",
-        "url": "https://securityaffairs.com/195164/security/u-s-cisa-adds-icagenda-and-balbooa-forms-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds iCagenda and Balbooa Forms flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added iCagenda and Balbooa Forms flaws to its K…",
+        "data": "2026-07-13",
+        "url": "https://securityaffairs.com/195262/security/u-s-cisa-adds-a-cisco-ios-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a Cisco IOS flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Cisco IOS flaw, tracked as CVE-2008-4128, to its Known …",
         "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
     },
     {
-        "titulo": "SELF-DEFENSE AGAINST THE MACHINE: Virginia Man Puts Warrantless Flock Surveillance on Trial",
-        "fonte": "Activistpost.com",
-        "autor": "Editor",
-        "data": "2026-07-11",
-        "url": "https://www.activistpost.com/self-defense-against-the-machine-virginia-man-puts-warrantless-flock-surveillance-on-trial/",
-        "resumo": "A Virginia man accused of destroying multiple flock cameras, who pleads not guilty because mass surveillance violates our rights. As millions of Americans passively consume state-sanctioned fireworks this Fourth of July, it is crucial to remember that Indepen…",
-        "imagem": "https://www.activistpost.com/wp-content/uploads/2026/07/flockit.jpg"
+        "titulo": "The AI Revolution: Innovation, Cybersecurity, And Societal Prospects",
+        "fonte": "Forbes",
+        "autor": "Chuck Brooks",
+        "data": "2026-07-13",
+        "url": "https://www.forbes.com/sites/chuckbrooks/2026/07/13/tracking-the-ai-revolution-innovation-and-cyber-risks/",
+        "resumo": "Artificial intelligence is rapidly transforming global economies, governments, and daily life in an &quot;acceleration era.&quot; AI is also broadening the cyber risk landscape.",
+        "imagem": "https://imageio.forbes.com/specials-images/imageserve/6a53be6fffad02945b1bd9e3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
     },
     {
-        "titulo": "The day every affair will be exposed: Even infidelities from decades ago will be outed... experts reveal what cheaters must do immediately",
-        "fonte": "Dailymail.com",
-        "autor": "Stacy Liberatore, Kim Komando",
-        "data": "2026-07-11",
-        "url": "https://www.dailymail.com/sciencetech/article-15957511/affair-exposed-technology.html",
-        "resumo": "Cheating partners will soon have nowhere to hide. A tech expert reveal the date, within the next 12 months, when it will all be outed...",
-        "imagem": "https://i.dailymail.com/1s/2026/07/06/21/109837719-0-image-a-32_1783368548338.jpg"
+        "titulo": "EU and UK officially blame Russian spies for cyberattack on Poland&#x27;s power grid",
+        "fonte": "Theregister.com",
+        "autor": "Connor Jones",
+        "data": "2026-07-13",
+        "url": "https://www.theregister.com/security/2026/07/13/uk-eu-officially-pin-poland-energy-cyberattack-on-russia/5270458",
+        "resumo": "Sweeping sanctions and condemnation follow op that could have left half a million without power in the depths of winter",
+        "imagem": "https://image.theregister.com/225878.jpg?imageId=225878&x=0&y=25.83&cropw=100&croph=71.67&panox=0&panoy=25.83&panow=100&panoh=71.67&width=1200&height=683"
     },
     {
-        "titulo": "AI Cybersecurity Firm TAC InfoSec Limited Reports Record Q1 FY27 Results; Total Income Rises 97% YoY, PAT Surges 137% YoY",
-        "fonte": "ANI News",
-        "autor": "Businesswire India",
-        "data": "2026-07-11",
-        "url": "https://www.aninews.in/news/business/ai-cybersecurity-firm-tac-infosec-limited-reports-record-q1-fy27-results-total-income-rises-97-yoy-pat-surges-137-yoy20260711102418",
-        "resumo": "Mumbai (Maharashtra) [India], July 11: TAC InfoSec Limited (NSE: TAC), the NSE Listed company of global cybersecurity platform TAC Security, has reported record financial results for the first quarter of FY27, covering the period from April to June 2026.",
-        "imagem": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260711045356-thumbnail-320x180-70.jpg"
-    },
-    {
-        "titulo": "‘Patch and Pray’ IT Culture is a Dangerous Game",
-        "fonte": "Americanthinker.com",
-        "autor": "",
-        "data": "2026-07-11",
-        "url": "https://www.americanthinker.com/articles/2026/07/patch-and-pray-it-culture-is-a-dangerous-game/",
-        "resumo": "Photo Credit: Christoph ScholzBy Julio RiveraCybersecurity is one of the only sectors where failure is not only expected, it has actually been normalized.",
-        "imagem": "https://images.americanthinker.com/vr/vrvmovy5uimk4mqfy5ox_1200.jpg"
-    },
-    {
-        "titulo": "OpenAI’s latest AI model likely has similar cyber vulnerabilities to one that led to U.S. export controls on Anthropic’s Fable, British agency says",
-        "fonte": "Fortune",
-        "autor": "Emily Forlini, Jeremy Kahn",
-        "data": "2026-07-10",
-        "url": "https://fortune.com/2026/07/10/openai-gpt-5-6-sol-jailbreaks-cyber-attacks-similar-to-security-flaw-that-led-u-s-government-to-force-anthropic-to-disable-fable-5/",
-        "resumo": "U.K. AI agency found &#x27;universal jailbreaks&#x27; that unlocked dangerous cyber capabilities in OpenAI&#x27;s GPT-5.6",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2281424316-e1783715571937.jpg?resize=1200,600"
-    },
-    {
-        "titulo": "Friday Squid Blogging: “Squidbleed” Vulnerability",
-        "fonte": "Schneier.com",
-        "autor": "Bruce Schneier",
-        "data": "2026-07-10",
-        "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html",
-        "resumo": "In a rare combined cybersecurity/squid post, a twenty-nine-year-old squid proxy bug can leak HTTP requests. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
-        "imagem": ""
-    },
-    {
-        "titulo": "Update Now: Critical Zimbra Classic Web Client Flaw Could Expose Mailboxes",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-07-10",
-        "url": "https://securityaffairs.com/195130/hacking/update-now-critical-zimbra-classic-web-client-flaw-could-expose-mailboxes.html",
-        "resumo": "Zimbra addressed a critical stored XSS vulnerability in its Classic Web Client that lets malicious emails execute code when opened. Zimbra has released version 10.1.19 to fix a critical stored XSS vulnerability in its Classic Web Client, which is widely used …",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2021/07/zimbra.png"
-    },
-    {
-        "titulo": "Progress urges ShareFile customers to shut down servers over &quot;credible&quot; threat",
+        "titulo": "CISA warns of actively exploited RCE flaws in Joomla extensions",
         "fonte": "BleepingComputer",
-        "autor": "Lawrence Abrams",
-        "data": "2026-07-10",
-        "url": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
-        "resumo": "Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a &quot;credible external security threat&quot; targeting the on-premises secure file-sharing software. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2023/09/28/Progress.jpg"
+        "autor": "Bill Toulas",
+        "data": "2026-07-13",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through arbitrary file uploads. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/17/Joomla.jpg"
     },
     {
-        "titulo": "medsbom added to PyPI",
-        "fonte": "Pypi.org",
-        "autor": "",
-        "data": "2026-07-10",
-        "url": "https://pypi.org/project/medsbom/",
-        "resumo": "Open-source FDA/IEC-62304 compliance layer for medical device SBOMs",
-        "imagem": "https://pypi.org/static/images/twitter.abaf4b19.webp"
+        "titulo": "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-07-13",
+        "url": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
+        "resumo": "Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That&#x27;s supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they don&#x27;t file tickets. That&#x27;s the shape of…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuCIplQpj7CGra4jEeX4qO6DfR9_OazwL_c55clD60cy9pWK42qAsCmqrwe0YBUmPq0cg_6Gt52VlqoOGuigf4qwI8lazIdogbl8pjBDfprTbktGn96fxMbtCh06kyGFF9qCXg9PgMhSXu8V02QBxTmBArc-84ZI3jXwmoDQdj-SCp-_JY7z5XqrQR2IlP/s1700-e365/monday-recap.jpg"
+    },
+    {
+        "titulo": "Lessons Learned from CISA’s Recent GitHub Leak",
+        "fonte": "Krebs on Security",
+        "autor": "BrianKrebs",
+        "data": "2026-07-13",
+        "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+        "resumo": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before…",
+        "imagem": "https://krebsonsecurity.com/wp-content/uploads/2026/05/CISA-logo.png"
+    },
+    {
+        "titulo": "AI Model Wars: Anthropic Extends Fable Access Again After OpenAI’s Sol Release",
+        "fonte": "Forbes",
+        "autor": "Ty Roush, Forbes Staff, Ty Roush, Forbes Staff https://www.forbes.com/sites/tylerroush/",
+        "data": "2026-07-13",
+        "url": "https://www.forbes.com/sites/tylerroush/2026/07/13/ai-model-wars-anthropic-extends-fable-access-again-after-openais-sol-release/",
+        "resumo": "The U.S. quickly blocked the debut of Anthropic’s Mythos models before they were released.",
+        "imagem": "https://imageio.forbes.com/specials-images/imageserve/6a54fa9798cd3cb29f80f10b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+        "titulo": "New compliance guidance available: HITRUST i1 on AWS",
+        "fonte": "Amazon.com",
+        "autor": "Abdul Javid",
+        "data": "2026-07-13",
+        "url": "https://aws.amazon.com/blogs/security/new-compliance-guidance-available-hitrust-i1-on-aws/",
+        "resumo": "We are pleased to announce the publication of a new AWS compliance implementation guidance: HITRUST i1 Compliance on AWS: Customer Implementation Guidance with an Illustrative Healthcare Platform. Healthcare organizations seeking HITRUST i1 certification incr…",
+        "imagem": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/07/09/HITRUST-i1BlogImageLink-1.png"
     }
 ]
