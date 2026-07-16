@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Healthcare struggles with risk remediation in first half of 2026",
+        "titulo": "79% of Ransomware Attacks Now Originate from Compromised Identities, Sophos Report Finds",
+        "fonte": "GlobeNewswire",
+        "autor": "Sophos Inc.",
+        "data": "2026-07-15",
+        "url": "https://www.globenewswire.com/news-release/2026/07/15/3327529/0/en/79-of-Ransomware-Attacks-Now-Originate-from-Compromised-Identities-Sophos-Report-Finds.html",
+        "resumo": "Exploited vulnerabilities are no longer the primary root cause of ransomware attacks, as cybercriminals prioritize malicious emails and phishing campaigns Exploited vulnerabilities are no longer the primary root cause of ransomware attacks, as cybercriminals …",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/35db908a-b7b8-4ce0-b920-69875da346ba"
+    },
+    {
+        "titulo": "Healthcare ransomware attacks surge 14% amid growing cyberthreats",
         "fonte": "Techtarget.com",
         "autor": "Jill Hughes",
-        "data": "2026-07-14",
-        "url": "https://www.techtarget.com/healthtechsecurity/news/366645829/Healthcare-struggles-with-risk-remediation-in-first-half-of-2026",
-        "resumo": "Healthcare organizations are improving at identifying cyber threats, but remediation efforts continue to lag due to resource constraints and operational challenges.",
-        "imagem": "https://www.techtarget.com/rms/onlineimages/health security_g1302091582.jpg"
+        "data": "2026-07-15",
+        "url": "https://www.techtarget.com/healthtechsecurity/news/366645935/Healthcare-ransomware-attacks-surge-14-amid-growing-cyberthreats",
+        "resumo": "A new report shows that healthcare organizations have faced 410 ransomware attacks in the first half of 2026, as regulatory efforts to bolster healthcare cybersecurity stalled.",
+        "imagem": "https://www.techtarget.com/rms/onlineimages/security_a135187239.jpg"
     },
     {
-        "titulo": "DHS Cybersecurity Reportedly Has an ‘I’m Sure It’s Nothing’ Problem",
-        "fonte": "Gizmodo.com",
-        "autor": "Mike Pearl",
-        "data": "2026-07-14",
-        "url": "https://gizmodo.com/dhs-cybersecurity-reportedly-has-an-im-sure-its-nothing-problem-2000785126",
-        "resumo": "DHS probably shouldn&#x27;t be dismissing actual breaches as false positives...twice.",
-        "imagem": "https://gizmodo.com/app/uploads/2025/11/DHS-homeland-security-sign-1200x675.jpg"
+        "titulo": "Microsoft Patches 570 CVEs in Record Patch Tuesday",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Phil Muncaster",
+        "data": "2026-07-15",
+        "url": "https://www.infosecurity-magazine.com/news/microsoft-570-cves-patch-tuesday/",
+        "resumo": "Microsoft released fixes for a record 570 CVEs in its July Patch Tuesday update, as experts warn AI is dramatically accelerating vulnerability discovery and increasing patch volumes",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/43acb3e7-181a-4e44-b71e-a7fc8c04bd7d.jpg"
     },
     {
-        "titulo": "ESET Research discovers vulnerable UEFI shims undermining devices’ Secure Boot",
-        "fonte": "GlobeNewswire",
-        "autor": "ESET, LLC",
-        "data": "2026-07-14",
-        "url": "https://www.globenewswire.com/news-release/2026/07/14/3326630/0/en/ESET-Research-discovers-vulnerable-UEFI-shims-undermining-devices-Secure-Boot.html",
-        "resumo": "BRATISLAVA, Slovakia, July 14, 2026 (GLOBE NEWSWIRE) -- ESET researchers discovered 11 vulnerable UEFI shim bootloaders signed by Microsoft that allow attackers to bypass UEFI Secure Boot by exploiting decade-old vulnerabilities. UEFI shim bootloaders are tin…",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/d6434bd9-71ad-46f5-b1c8-81bd2b967640"
-    },
-    {
-        "titulo": "The new rules of software supply chain security: visibility, vigilance, validation",
+        "titulo": "White House launches &#x27;Gold Eagle&#x27; cybersecurity clearinghouse to share and patch AI-discovered software flaws",
         "fonte": "TechRadar",
-        "autor": "Jon France",
-        "data": "2026-07-14",
-        "url": "https://www.techradar.com/pro/the-new-rules-of-software-supply-chain-security-visibility-vigilance-validation",
-        "resumo": "Software supply chain security is fast becoming a business-critical priority.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-2560-80.jpg"
+        "autor": "Craig Hale",
+        "data": "2026-07-15",
+        "url": "https://www.techradar.com/pro/security/white-house-launches-gold-eagle-cybersecurity-clearinghouse-to-share-and-patch-ai-discovered-software-flaws",
+        "resumo": "&#x27;Gold Eagle&#x27; scheme looks to centralize vulnerability identification and remediation for maximum efficiency.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/DFBL65zBbMWH2hNHzTrEuk-1920-80.jpg"
     },
     {
-        "titulo": "Cybersecurity jobs available right now: July 14, 2026",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-07-14",
-        "url": "https://www.helpnetsecurity.com/2026/07/14/cybersecurity-jobs-available-right-now-july-14-2026/",
-        "resumo": "Cyber Network Engineer Fiserv | USA | On-site – View job details As a Cyber Network Engineer, you will lead the design, governance, and security review of enterprise network architectures across on-premises and cloud environments. You will provide expertise i…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140416/cybersecurity_jobs-1-1500.webp"
+        "titulo": "Show HN: VulnCast – open-source e-paper dashboard for live CVE/exploit Intel",
+        "fonte": "Github.com",
+        "autor": "isox",
+        "data": "2026-07-15",
+        "url": "https://github.com/vulnersCom/VulnCast",
+        "resumo": "Feels like 9.8. The internet&#x27;s security forecast on your desk — a ~$40 ESP32-S3 e-paper gadget for live Vulners CVE / exploit / bug-bounty / news feeds. - vulnersCom/VulnCast",
+        "imagem": "https://opengraph.githubassets.com/ee25d5dd803055096db11f080b4f8e16c1e063798c2c16535ae42204218dd820/vulnersCom/VulnCast"
     },
     {
-        "titulo": "A Guide to the Convergence of Electronic Warfare and Cyber Operations",
-        "fonte": "Carnegie Mellon University",
-        "autor": "Joseph McIlvenny",
-        "data": "2026-07-14",
-        "url": "https://www.sei.cmu.edu/blog/a-guide-to-the-convergence-of-electronic-warfare-and-cyber-operations/",
-        "resumo": "This post introduces electronic warfare and CyberOps, the drivers behind their convergence, and key issues in their use on the battlefield.",
-        "imagem": "https://www.sei.cmu.edu/media/images/og_20260713_230653_a.2e16d0ba.fill-1200x630.format-webp.webp"
-    },
-    {
-        "titulo": "AI, once relegated to helping hackers with certain tasks, can now power every stage of a cyberattack",
-        "fonte": "Nextgov",
-        "autor": "David DiMolfetta",
-        "data": "2026-07-14",
-        "url": "https://www.nextgov.com/cybersecurity/2026/07/ai-once-relegated-helping-hackers-certain-tasks-can-now-power-every-stage-cyberattack/414744/",
-        "resumo": "Researchers determined that AI was used in steps across entire cyber operations to identify security flaws, generate commands and carry out parts of intrusions, sometimes with little human oversight. Both U.S. and Chinese AI models have been involved.",
-        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/07/13/GettyImages_1599973349/open-graph.jpg"
-    },
-    {
-        "titulo": "We’ll generate N5bn annual mining revenue for Osun – AAC gov candidate",
-        "fonte": "The Punch",
-        "autor": "Punch Newspapers",
-        "data": "2026-07-14",
-        "url": "https://punchng.com/?p=2189707",
-        "resumo": "AAC governorship candidate, Olajide Esan, outlines plans to generate N5bn annual mining revenue for Osun, reduce federal dependence, and create jobs. Read More: https://punchng.com/well-generate-n5bn-annual-mining-revenue-for-osun-aac-gov-candidate/",
-        "imagem": "https://punchng.com/wp-content/uploads/2026/07/Esan_1783974935-1200x630.webp"
-    },
-    {
-        "titulo": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock",
-        "fonte": "Amazon.com",
-        "autor": "Tanvi Girinath",
-        "data": "2026-07-13",
-        "url": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/",
-        "resumo": "Today, GPT-5.6 Sol, Terra, and Luna from OpenAI are generally available on Amazon Bedrock, bringing the smartest family of models from OpenAI yet to Amazon Bedrock’s next-generation inference engine built for high-performance, security and reliability.",
-        "imagem": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/13/ML-21359.png"
-    },
-    {
-        "titulo": "Microsoft fixes &#x27;RoguePlanet&#x27; Defender zero-day as researcher finds new holes",
-        "fonte": "iTnews",
-        "autor": "",
-        "data": "2026-07-13",
-        "url": "https://www.itnews.com.au/news/microsoft-fixes-rogueplanet-defender-zero-day-as-researcher-finds-new-holes-627330",
-        "resumo": "Defender disk-filling bug disclosed.",
-        "imagem": "https://i.nextmedia.com.au/News/programming-code-on-computer-screen-1.jpg"
-    },
-    {
-        "titulo": "Microsoft fixes &#x27;RoguePlanet&#x27; Defender zero-day as researcher finds new holes",
-        "fonte": "iTnews",
-        "autor": "",
-        "data": "2026-07-13",
-        "url": "https://www.itnews.com.au/news/microsoft-fixes-rogueplanet-defender-zero-day-as-researcher-finds-new-holes-627330",
-        "resumo": "Defender disk-filling bug disclosed.",
-        "imagem": "https://i.nextmedia.com.au/News/programming-code-on-computer-screen-1.jpg"
-    },
-    {
-        "titulo": "How MIT students are helping to prevent cyberattacks",
-        "fonte": "Mit.edu",
-        "autor": "Nicole Estvanik Taylor | Department of Urban Studies and Planning",
-        "data": "2026-07-13",
-        "url": "https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713",
-        "resumo": "MIT&amp;#039;s Cybersecurity Clinic helps local governments defend against digital threats. Students gain real-world experience through field assignments.",
-        "imagem": "https://news.mit.edu/sites/default/files/images/202607/mit-dusp-Cybersecurity-Clinic.jpg"
-    },
-    {
-        "titulo": "U.S. CISA adds a Cisco IOS flaw to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-07-13",
-        "url": "https://securityaffairs.com/195262/security/u-s-cisa-adds-a-cisco-ios-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a Cisco IOS flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Cisco IOS flaw, tracked as CVE-2008-4128, to its Known …",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "The AI Revolution: Innovation, Cybersecurity, And Societal Prospects",
-        "fonte": "Forbes",
-        "autor": "Chuck Brooks",
-        "data": "2026-07-13",
-        "url": "https://www.forbes.com/sites/chuckbrooks/2026/07/13/tracking-the-ai-revolution-innovation-and-cyber-risks/",
-        "resumo": "Artificial intelligence is rapidly transforming global economies, governments, and daily life in an &quot;acceleration era.&quot; AI is also broadening the cyber risk landscape.",
-        "imagem": "https://imageio.forbes.com/specials-images/imageserve/6a53be6fffad02945b1bd9e3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-    },
-    {
-        "titulo": "EU and UK officially blame Russian spies for cyberattack on Poland&#x27;s power grid",
-        "fonte": "Theregister.com",
-        "autor": "Connor Jones",
-        "data": "2026-07-13",
-        "url": "https://www.theregister.com/security/2026/07/13/uk-eu-officially-pin-poland-energy-cyberattack-on-russia/5270458",
-        "resumo": "Sweeping sanctions and condemnation follow op that could have left half a million without power in the depths of winter",
-        "imagem": "https://image.theregister.com/225878.jpg?imageId=225878&x=0&y=25.83&cropw=100&croph=71.67&panox=0&panoy=25.83&panow=100&panoh=71.67&width=1200&height=683"
-    },
-    {
-        "titulo": "CISA warns of actively exploited RCE flaws in Joomla extensions",
-        "fonte": "BleepingComputer",
-        "autor": "Bill Toulas",
-        "data": "2026-07-13",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through arbitrary file uploads. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/17/Joomla.jpg"
-    },
-    {
-        "titulo": "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
+        "titulo": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-07-13",
-        "url": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
-        "resumo": "Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That&#x27;s supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they don&#x27;t file tickets. That&#x27;s the shape of…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuCIplQpj7CGra4jEeX4qO6DfR9_OazwL_c55clD60cy9pWK42qAsCmqrwe0YBUmPq0cg_6Gt52VlqoOGuigf4qwI8lazIdogbl8pjBDfprTbktGn96fxMbtCh06kyGFF9qCXg9PgMhSXu8V02QBxTmBArc-84ZI3jXwmoDQdj-SCp-_JY7z5XqrQR2IlP/s1700-e365/monday-recap.jpg"
+        "data": "2026-07-15",
+        "url": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
+        "resumo": "SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command execution. The vulnerabilities are listed below - CVE-202…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0n94FUIdljCnLvlh0SNz5l8xDWbdDqmk7OesE7HAKxrRAMUMIfXpppuMBoI-7F0Q1PB7eXPRjrfg9fgZTTVj3JY5jKsr1Ebheb2mU65p4MUVYbs59lCPPWCBQ4LVYZnoZ0o6nRkoBQitrwwnyLVQc2oYJ41zVjPS6_HchwIR-U8EuWrOdPpl1-Y9Rw1Lm/s1700-e365/sonicwall-patches.jpg"
     },
     {
-        "titulo": "Lessons Learned from CISA’s Recent GitHub Leak",
-        "fonte": "Krebs on Security",
-        "autor": "BrianKrebs",
-        "data": "2026-07-13",
-        "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-        "resumo": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before…",
-        "imagem": "https://krebsonsecurity.com/wp-content/uploads/2026/05/CISA-logo.png"
+        "titulo": "In 2025, NRD Cyber Security saw growth in both its project-based activities and ongoing services",
+        "fonte": "GlobeNewswire",
+        "autor": "INVL Technology",
+        "data": "2026-07-15",
+        "url": "https://www.globenewswire.com/news-release/2026/07/15/3327451/0/en/In-2025-NRD-Cyber-Security-saw-growth-in-both-its-project-based-activities-and-ongoing-services.html",
+        "resumo": "“In 2025, demand for cybersecurity services grew - in Europe, this was most significantly influenced by the changes brought about by the NIS2 Directive and the increasing maturity of organizations’ cybersecurity practices. There was a particularly sharp incre…",
+        "imagem": "https://ml-eu.globenewswire.com/Resource/Download/c4caf659-a2cd-4fc8-80b4-e6d2c9592645"
     },
     {
-        "titulo": "AI Model Wars: Anthropic Extends Fable Access Again After OpenAI’s Sol Release",
-        "fonte": "Forbes",
-        "autor": "Ty Roush, Forbes Staff, Ty Roush, Forbes Staff https://www.forbes.com/sites/tylerroush/",
-        "data": "2026-07-13",
-        "url": "https://www.forbes.com/sites/tylerroush/2026/07/13/ai-model-wars-anthropic-extends-fable-access-again-after-openais-sol-release/",
-        "resumo": "The U.S. quickly blocked the debut of Anthropic’s Mythos models before they were released.",
-        "imagem": "https://imageio.forbes.com/specials-images/imageserve/6a54fa9798cd3cb29f80f10b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        "titulo": "Claude Fable 5 security bypassed using ‘/btw’ command in Claude Code",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-07-14",
+        "url": "https://cryptobriefing.com/claude-fable-5-btw-command-security-bypass/",
+        "resumo": "The security gap in Claude Fable 5 highlights the need for robust safety measures in AI, especially for professional and enterprise users. The post Claude Fable 5 security bypassed using ‘/btw’ command in Claude Code appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/14195418/the-claude-ai-logo-is-displayed-on-a-smartphone-screen-with--8-800x420.jpeg"
     },
     {
-        "titulo": "New compliance guidance available: HITRUST i1 on AWS",
-        "fonte": "Amazon.com",
-        "autor": "Abdul Javid",
-        "data": "2026-07-13",
-        "url": "https://aws.amazon.com/blogs/security/new-compliance-guidance-available-hitrust-i1-on-aws/",
-        "resumo": "We are pleased to announce the publication of a new AWS compliance implementation guidance: HITRUST i1 Compliance on AWS: Customer Implementation Guidance with an Illustrative Healthcare Platform. Healthcare organizations seeking HITRUST i1 certification incr…",
-        "imagem": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/07/09/HITRUST-i1BlogImageLink-1.png"
+        "titulo": "White House announces ‘Gold Eagle’ AI clearinghouse for cyber vulnerabilities",
+        "fonte": "Nextgov",
+        "autor": "Alexandra Kelley and David DiMolfetta",
+        "data": "2026-07-14",
+        "url": "https://www.nextgov.com/cybersecurity/2026/07/white-house-announces-gold-eagle-ai-clearinghouse-cyber-vulnerabilities/414768/",
+        "resumo": "The initiative stems from a June 2 executive order that urged advanced AI developers to grant the government early access to their capabilities to address potential vulnerabilities.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/07/14/071426WhiteHouseNG/open-graph.jpg"
+    },
+    {
+        "titulo": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
+        "fonte": "BleepingComputer",
+        "autor": "Lawrence Abrams",
+        "data": "2026-07-14",
+        "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
+        "resumo": "SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2022/01/24/Sonicwall.jpg"
+    },
+    {
+        "titulo": "The Biggest Risk to A.I. in Space Is Sitting on the Ground",
+        "fonte": "Observer",
+        "autor": "Kumar Sokka, Kumar Sokka",
+        "data": "2026-07-14",
+        "url": "https://observer.com/2026/07/space-ai-data-centers-ground-security/",
+        "resumo": "Acre Security’s Kumar Sokka explores the next frontier of A.I. infrastructure as orbital data centers move from science fiction toward commercial reality. He contends that the resilience of orbital computing will depend on securing the ground systems that mak…",
+        "imagem": "https://observer.com/wp-content/uploads/sites/2/2026/07/planet-volumes-HCK8YihP47Y-unsplash.jpg?quality=80"
+    },
+    {
+        "titulo": "US government to launch AI and cybersecurity coordination group under new executive order",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-07-14",
+        "url": "https://cryptobriefing.com/us-ai-cybersecurity-coordination-group/",
+        "resumo": "The executive order&#x27;s focus on voluntary partnerships and avoiding mandatory AI licensing may foster innovation but raises oversight concerns. The post US government to launch AI and cybersecurity coordination group under new executive order appeared first on…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/14165049/us-to-launch-ai-and-cybersecurity-coordination-group-white-h-800x420.jpeg"
+    },
+    {
+        "titulo": "ISM® and Amazon Business research finds most organizations unprepared for supply chain disruption despite strategic shift",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-07-14",
+        "url": "https://www.prnewswire.com/news-releases/ism-and-amazon-business-research-finds-most-organizations-unprepared-for-supply-chain-disruption-despite-strategic-shift-302825549.html",
+        "resumo": "Study shows companies are balancing cost and risk, but gaps in preparedness, data and execution persist TEMPE, Ariz., July 14, 2026 /PRNewswire/ -- New research from Institute for Supply Management® (ISM®) and Amazon Business reveals that while organizations …",
+        "imagem": "https://mmx.prnewswire.com/media/MS349053/INSTITUTE-FOR-SUPPLY-MANAGEMENT-LOGO-v1.jpg?id=OA2763385&p=facebook"
+    },
+    {
+        "titulo": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
+        "fonte": "BleepingComputer",
+        "autor": "Lawrence Abrams",
+        "data": "2026-07-14",
+        "url": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
+        "resumo": "Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch the flaw. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2024/07/25/Progress.jpg"
+    },
+    {
+        "titulo": "AI Uncovers a 15-Year-Old Linux Kernel Root Vulnerability Hidden Since 2011",
+        "fonte": "Linuxjournal.com",
+        "autor": "George Whittaker",
+        "data": "2026-07-14",
+        "url": "https://www.linuxjournal.com/content/ai-uncovers-15-year-old-linux-kernel-root-vulnerability-hidden-2011",
+        "resumo": "by George Whittaker Artificial intelligence has helped uncover one of the most significant Linux kernel security flaws in recent years. Security researchers at Nebula Security announced the discovery of GhostLock (CVE-2026-43499), a critical local privil…",
+        "imagem": ""
+    },
+    {
+        "titulo": "How I Turned AI to the Dark Side",
+        "fonte": "Ieee.org",
+        "autor": "David Kuszmar",
+        "data": "2026-07-14",
+        "url": "https://spectrum.ieee.org/jailbreaking-llms",
+        "resumo": "Summary Researcher Dave Kuszmar discovered multiple systemic vulnerabilities that let him bypass LLM safety and obtain dangerous instructions. These exploits worked across nearly all major LLMs revealing an industry-wide security problem.&lt;…",
+        "imagem": "https://spectrum.ieee.org/media-library/glossy-red-robot-devil-standing-on-a-bundle-of-dynamite-against-blue-glow-background.png?id=67154492&width=1200&height=600&coordinates=0%2C750%2C0%2C750"
+    },
+    {
+        "titulo": "Microsoft’s fix for RoguePlanet has its own new disk space bug",
+        "fonte": "PCWorld",
+        "autor": "Mikael Markander",
+        "data": "2026-07-14",
+        "url": "https://www.pcworld.com/article/3190654/microsofts-fix-for-rogueplanet-has-its-own-new-disk-space-bug.html",
+        "resumo": "The other day, we reported that Microsoft had patched RoguePlanet, a zero-day vulnerability in the Defender security app. RoguePlanet was a serious flaw that allowed hackers to gain full access to vulnerable PCs, so the patch to Microsoft’s Malware Protection…",
+        "imagem": "https://www.pcworld.com/wp-content/uploads/2026/07/Microsoft-Defender-Antivirus-on-Windows-11-dark-background-1.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+        "titulo": "Demis Hassabis calls for formal AI governance body to assess models, and crypto should pay attention",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-07-14",
+        "url": "https://cryptobriefing.com/hassabis-ai-governance-body-crypto-implications/",
+        "resumo": "A formal AI governance body could set a precedent for regulatory frameworks in tech, influencing sectors like crypto to adopt similar oversight. The post Demis Hassabis calls for formal AI governance body to assess models, and crypto should pay attention appe…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/14115317/demis-hassabis-2-800x420.jpeg"
+    },
+    {
+        "titulo": "Military Artificial Intelligence Systems Market Report 2026-2036 Assesses Global Growth and U.S. Trade Tariff Impact",
+        "fonte": "GlobeNewswire",
+        "autor": "Research and Markets",
+        "data": "2026-07-14",
+        "url": "https://www.globenewswire.com/news-release/2026/07/14/3327108/28124/en/Military-Artificial-Intelligence-Systems-Market-Report-2026-2036-Assesses-Global-Growth-and-U-S-Trade-Tariff-Impact.html",
+        "resumo": "Opportunities span AI-powered ISR, sensor fusion, threat detection, decision support, autonomous navigation, cyber defence and multilingual intelligence. Demand is also rising for secure, interoperable systems, safety validation and resilient domestic semicon…",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7"
+    },
+    {
+        "titulo": "Japanese Companies Step Up AI Security, Investment Products and Business Restructuring",
+        "fonte": "Newsonjapan.com",
+        "autor": "News On Japan",
+        "data": "2026-07-14",
+        "url": "https://newsonjapan.com/article/149979.php",
+        "resumo": "Japanese companies announced new cybersecurity services, investment products and technology initiatives on July 14, while earnings releases highlighted sharply different conditions across the housing and food-import sectors. (News On Japan)",
+        "imagem": "https://i2.ytimg.com/vi/D_EIEzVPD88/maxresdefault.jpg"
     }
 ]
