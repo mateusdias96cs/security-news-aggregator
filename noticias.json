@@ -1,182 +1,173 @@
 [
     {
-        "titulo": "Data Center Security Market to Reach US$65.26 Billion by 2034 as AI-Driven Cybersecurity and Zero-Trust Adoption Accelerate",
+        "titulo": "Low cost data poisoning attacks compromise open weight AI models",
+        "fonte": "4sysops.com",
+        "autor": "IT News",
+        "data": "2026-07-17",
+        "url": "https://4sysops.com/archives/low-cost-data-poisoning-attacks-compromise-open-weight-ai-models/",
+        "resumo": "A cybersecurity researcher demonstrated that open-weight AI models can be compromised with a backdoor for less than $100 in under an hour. By using as few as ten malicious training examples, the researcher successfully manipulated a model to generate code vul…",
+        "imagem": "https://4sysops.com/wp-content/uploads/2026/07/low-cost-data-poisoning-attacks-compromise-open-weight-ai-models.jpg"
+    },
+    {
+        "titulo": "CISA mandates urgent patching for exploited SharePoint remote code execution flaw",
+        "fonte": "4sysops.com",
+        "autor": "IT News",
+        "data": "2026-07-17",
+        "url": "https://4sysops.com/archives/cisa-mandates-urgent-patching-for-exploited-sharepoint-remote-code-execution-flaw/",
+        "resumo": "The Cybersecurity and Infrastructure Security Agency (CISA) has added CVE-2026-58644 to its Known Exploited Vulnerabilities catalog following evidence of zero-day exploitation. This critical flaw allows authenticated attackers with Site Owner permissions to e…",
+        "imagem": "https://4sysops.com/wp-content/uploads/2026/07/cisa-mandates-urgent-patching-for-exploited-sharepoint-remote-code-execution-flaw.jpg"
+    },
+    {
+        "titulo": "U.S. CISA adds KNX Association KNX Protocol Connection Authorization Option 1 and Oracle flaws to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-07-17",
+        "url": "https://securityaffairs.com/195516/security/u-s-cisa-adds-knx-association-knx-protocol-connection-authorization-option-1-and-oracle-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds KNX Association KNX Protocol Connection Authorization Option 1 and Oracle flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) …",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "Industrial System Integrator and IIoT Technology Market to Reach USD 2.20 Trillion by 2032",
         "fonte": "GlobeNewswire",
-        "autor": "TIP Knowledge Services Pvt. Ltd.",
-        "data": "2026-07-16",
-        "url": "https://www.globenewswire.com/news-release/2026/07/16/3328284/0/en/Data-Center-Security-Market-to-Reach-US-65-26-Billion-by-2034-as-AI-Driven-Cybersecurity-and-Zero-Trust-Adoption-Accelerate.html",
-        "resumo": "The data center security market size is expected to reach US$ 65.26 billion by 2034 from US$ 30.43 billion in 2025 at CAGR of 8.8%...",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/efd8c9da-ac10-487a-a083-ec8f33cad35e"
+        "autor": "Research and Markets",
+        "data": "2026-07-17",
+        "url": "https://www.globenewswire.com/news-release/2026/07/17/3328940/28124/en/Industrial-System-Integrator-and-IIoT-Technology-Market-to-Reach-USD-2-20-Trillion-by-2032.html",
+        "resumo": "Global market projected to expand at a 23.47% CAGR as industrial enterprises accelerate smart manufacturing, OT-IT convergence, edge computing, artificial intelligence and cybersecurity investments Global market projected to expand at a 23.47% CAGR as industr…",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/f502ce49-8430-4dc2-ad51-845b1998b184"
     },
     {
-        "titulo": "SANS Warns of AI Governance Gap as Use by Security Teams Surges",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Phil Muncaster",
-        "data": "2026-07-16",
-        "url": "https://www.infosecurity-magazine.com/news/sans-warns-of-ai-governance-gap/",
-        "resumo": "SANS Institute says governance programs are still nascent even as AI failures and threats grow",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/632ef167-6db6-4f33-94ae-05e40d842d85.jpg"
+        "titulo": "Fresh SharePoint Vulnerability Exploited Soon After Disclosure",
+        "fonte": "Securityweek.com",
+        "autor": "Ionut Arghire",
+        "data": "2026-07-17",
+        "url": "https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/",
+        "resumo": "The critical-severity security defect allows remote, authenticated attackers to execute arbitrary code on the server. The post Fresh SharePoint Vulnerability Exploited Soon After Disclosure appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2025/07/CVE-2025-53770-SharePoint-Vulnerability.jpg"
     },
     {
-        "titulo": "US Launches Gold Eagle to Coordinate AI-Driven Vulnerability Management",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Phil Muncaster",
-        "data": "2026-07-16",
-        "url": "https://www.infosecurity-magazine.com/news/us-gold-eagle-ai-vulnerability/",
-        "resumo": "The White House announced Gold Eagle to help accelerate the discovery, prioritization and patching of flaws found by AI",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/85ea36b2-1817-4d33-879d-2136bc1a84be.jpg"
+        "titulo": "CISA urges immediate action on actively exploited Fortinet flaws",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-07-17",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
+        "resumo": "CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/19/Fortinet.jpg"
     },
     {
-        "titulo": "What the WFP cyber-attack has in common with visa scandals",
-        "fonte": "The New Humanitarian",
-        "autor": "sofia",
-        "data": "2026-07-16",
-        "url": "https://www.thenewhumanitarian.org/opinion/2026/07/16/what-wfp-cyber-attack-has-common-visa-scandals",
-        "resumo": "From visa processors to refugee registration and humanitarian aid, states have outsourced public functions to intermediaries a step removed from domestic scrutiny.",
-        "imagem": "https://assets.thenewhumanitarian.org/s3fs-public/styles/social_large/public/2026-07/header-visa-scandal_1.jpg?itok=W0esD7Fg"
+        "titulo": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-07-17",
+        "url": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) age…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH1X7ZnvKsW37BBvjNfEzT4Imh9ZIRL4_2W1JaNVe_MyO3Q5H1MPsET-SASqznhlfOExRrLj4-6NzhgvGi76w4U5tSmlM-pJLIqO5jF3g9G1DR_FNhuwcatBFb8ARvD4PPMiQvMCFiTlEOlc13nQbQqCn5ZHf1J2ZOqDeG3_pmBiQ92hTfMErJKcjKbNtZ/s1700-e365/sharepoint-cisa.jpg"
     },
     {
-        "titulo": "Companies keep getting breached by vulnerabilities they already knew about",
-        "fonte": "Amazonaws.com",
-        "autor": "Mirko Zorz",
-        "data": "2026-07-16",
-        "url": "https://ec2-54-189-162-254.us-west-2.compute.amazonaws.com/2026/07/16/ciso-vulnerability-remediation-gap/",
-        "resumo": "Scanning tools have gotten good at their work. Organizations now find more weaknesses across more of their systems than at any earlier point in the industry’s history. A survey from the security firm Vicarius points to a gap that opens after that discovery, i…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/07/08083233/monitor-crack-1500.webp"
+        "titulo": "White House Unveils AI Clearinghouse for Cybersecurity Risks",
+        "fonte": "Insurance Journal",
+        "autor": "Admin",
+        "data": "2026-07-17",
+        "url": "https://www.insurancejournal.com/news/national/2026/07/17/877965.htm",
+        "resumo": "The Trump administration is moving to strengthen coordination on artificial intelligence cybersecurity through a new industry clearinghouse to improve the detection and patching of network vulnerabilities, especially in open-source software. The clearinghouse…",
+        "imagem": "https://www.insurancejournal.com/app/uploads/2026/07/National-Cyber-Director-Sean-Cairncross-Bloomberg-scaled.jpg"
     },
     {
-        "titulo": "Asia is racing to adopt AI agents. The rewards are clear - but so are the security risks",
-        "fonte": "CNA",
-        "autor": "",
-        "data": "2026-07-16",
-        "url": "https://www.channelnewsasia.com/asia/asia-ai-agents-adoption-advantages-security-risks-6255231",
-        "resumo": "AI agents can be tasked to draft emails, write code and update documents, among other things. But the same autonomy that makes them valuable also creates vulnerabilities, warn cybersecurity experts.",
-        "imagem": "https://dam.mediacorp.sg/image/upload/s--926EOsmY--/c_crop,h_900,w_1600,x_0,y_71/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/15/agentic-ai-cybersecurity-software-access-company-data-gfx-cna.png?itok=5bF4Ni4r"
-    },
-    {
-        "titulo": "Cybersecurity: How Vijay Kedia&#x27;s new-age thematic play handed him 3 multibagger stocks",
-        "fonte": "The Times of India",
-        "autor": "Akash Podishetti",
-        "data": "2026-07-16",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/cybersecurity-how-vijay-kedias-new-age-thematic-play-handed-him-3-multibagger-stocks/articleshow/132429297.cms",
-        "resumo": "Veteran investor Vijay Kedia has identified a cybersecurity theme in his portfolio. He holds stakes in TechD Cybersecurity, Sattrix Information Security, and TAC Infosec. These small listed companies have delivered significant stock returns for investors. …",
-        "imagem": "https://img.etimg.com/thumb/msid-132429295,width-1200,height-630,imgsize-1891040,overlay-etmarkets/articleshow.jpg"
-    },
-    {
-        "titulo": "AI is set to completely transform cybersecurity — here’s how researchers must prepare",
-        "fonte": "Nature.com",
-        "autor": "Thorsten Holz",
-        "data": "2026-07-16",
-        "url": "https://www.nature.com/articles/d41586-026-02214-z",
-        "resumo": "As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.",
-        "imagem": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02214-z/d41586-026-02214-z_52970508.jpg"
-    },
-    {
-        "titulo": "White House launches AI-driven Gold Eagle cybersecurity initiative, and crypto should be paying attention",
+        "titulo": "Microsoft’s MDASH AI beats Anthropic’s Mythos in bug detection, finds 16 new Windows flaws",
         "fonte": "Crypto Briefing",
         "autor": "Editorial Team",
-        "data": "2026-07-15",
-        "url": "https://cryptobriefing.com/white-house-gold-eagle-ai-vulnerability-initiative/",
-        "resumo": "The AI-driven Gold Eagle initiative could reshape cybersecurity norms, impacting industries reliant on foundational software, including crypto. The post White House launches AI-driven Gold Eagle cybersecurity initiative, and crypto should be paying attention …",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/14195325/ChatGPT-Image-Apr-28-2026-12_53_00-PM-800x420.png"
+        "data": "2026-07-17",
+        "url": "https://cryptobriefing.com/microsoft-mdash-ai-bug-detection/",
+        "resumo": "Microsoft&#x27;s MDASH AI system found 16 new Windows vulnerabilities, scored 88.45% on CyberGym, and outperformed Anthropic and OpenAI in security bug The post Microsoft’s MDASH AI beats Anthropic’s Mythos in bug detection, finds 16 new Windows flaws appeared fir…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/16204652/microsoft-headquarters-4-800x420.jpeg"
     },
     {
-        "titulo": "OpenAI Uses AI Red Team to Strengthen GPT-5.6 Against Prompt Injection Attacks",
-        "fonte": "Decrypt",
-        "autor": "Jason Nelson",
-        "data": "2026-07-15",
-        "url": "https://decrypt.co/373613/openai-ai-red-team-strengthen-gpt-5-6-prompt-injection-attacks",
-        "resumo": "OpenAI said its new automated red-teaming model, GPT-Red, uncovered vulnerabilities that were used to make GPT-5.6 more resistant to prompt injection attacks.",
-        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png"
+        "titulo": "China’s Economic Espionage and Subnational Influence in the United States",
+        "fonte": "Smallwarsjournal.com",
+        "autor": "SWJ Staff",
+        "data": "2026-07-17",
+        "url": "https://smallwarsjournal.com/2026/07/17/chinas-economic-espionage-and-subnational-influence-in-the-united-states/",
+        "resumo": "Streamed live on Jun 25, 2026 The House Select Committee on China held a hearing titled “China’s Economic Espionage and Subnational Influence in the United States” on Thursday, June 25 at 10:30 A.M. in the Cannon House Office Building, Room 390. The witnesses…",
+        "imagem": "https://smallwarsjournal.com/wp-content/uploads/2026/02/House-Select-Committee-on-the-CCP.webp"
     },
     {
-        "titulo": "Banks Face a Faster Cyber Clock as Gold Eagle Goes Live",
+        "titulo": "Why You Need AI Agent Security Validation in Software Testing",
+        "fonte": "DevOps.com",
+        "autor": "Puspita Pradhan",
+        "data": "2026-07-16",
+        "url": "https://devops.com/why-you-need-ai-agent-security-validation-in-software-testing/",
+        "resumo": "Engineering teams have been racing for the last two years to deploy AI agents that can find bugs faster than any QA team ever could. Autonomous testing agents can crawl through codebases, identify vulnerabilities, and generate test coverage reports while deve…",
+        "imagem": "https://devops.com/wp-content/uploads/2026/07/SecurityValidationSoftwareTesting-e1784238557901.jpeg"
+    },
+    {
+        "titulo": "Researcher poisons open-weight AI model for under $100",
+        "fonte": "Theregister.com",
+        "autor": "Thomas Claburn",
+        "data": "2026-07-16",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/16/researcher-poisons-open-weight-ai-model-for-under-100/5273880",
+        "resumo": "Models demand trust without offering verification",
+        "imagem": "https://image.theregister.com/227279.jpg?imageId=227279&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+        "titulo": "Bank of America CEO Brian Moynihan Joins Wall Street Leaders in Warning of Mythos AI Risks",
         "fonte": "pymnts.com",
         "autor": "PYMNTS",
-        "data": "2026-07-15",
-        "url": "https://www.pymnts.com/cybersecurity/2026/banks-face-a-faster-cyber-clock-as-gold-eagle-goes-live/",
-        "resumo": "The federal government’s artificial intelligence (AI) security initiative now has a name and a launch date. The White House launched Gold Eagle on Tuesday (July 14), a federal AI cybersecurity clearinghouse established by the Treasury Department with contribu…",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/07/AI-banking-cybersecurity-Gold-Eagle.jpeg"
+        "data": "2026-07-16",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bank-of-america-ceo-brian-moynihan-joins-wall-street-leaders-in-warning-of-mythos-ai-risks/",
+        "resumo": "Bank of America CEO Brian Moynihan joined other Wall Street executives expressing concerns about the security risks posed by artificial intelligence (AI) models, specifically Anthropic’s Mythos system, Bloomberg reported on Thursday (July 16). The evolution o…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/07/Wall-Street-AI-risks.png"
     },
     {
-        "titulo": "Microsoft patches bug in video game Age of Empires II | TechCrunch",
-        "fonte": "TechCrunch",
-        "autor": "Lorenzo Franceschi-bicchierai",
-        "data": "2026-07-15",
-        "url": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
-        "resumo": "The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite.",
-        "imagem": "https://techcrunch.com/wp-content/uploads/2026/07/age-of-empires-ii-microsoft.jpg?resize=1200,675"
+        "titulo": "Special Breaking Analysis: Nvidia’s AI networking moat is real – but the lock-in debate continues",
+        "fonte": "SiliconANGLE News",
+        "autor": "Dave Vellante and Bob Laliberte",
+        "data": "2026-07-16",
+        "url": "https://siliconangle.com/2026/07/16/special-breaking-analysis-nvidias-ai-networking-moat-real-lock-debate-continues/",
+        "resumo": "In a special editorial discussion hosted by Dave Vellante and Bob Laliberte, Nvidia Corp. networking chief Gilad Shainer explains why agentic inference turns the network into part of the computer. We believe Nvidia is materially ahead of the field, but in thi…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/giladshainer-nvidia-2026.jpg"
     },
     {
-        "titulo": "These 5 Routers Are No Longer Safe To Use After A New Security Backdoor Was Discovered",
-        "fonte": "BGR",
-        "autor": "staff@bgr.com (Chifundo Kasiya)",
-        "data": "2026-07-15",
-        "url": "https://www.bgr.com/2215770/tenda-router-security-backdoor-cert-safety/",
-        "resumo": "It&#x27;s not something that often comes to mind, but it&#x27;s important to always update the firmware on your internet router whenever possible to protect yourself.",
-        "imagem": "https://www.bgr.com/img/gallery/these-5-routers-are-no-longer-safe-to-use-after-a-new-security-backdoor-was-discovered/l-intro-1784131619.jpg"
-    },
-    {
-        "titulo": "Microsoft patches record 570 vulnerabilities in single update as AI supercharges threat discovery",
+        "titulo": "Bank of America CEO raises concerns over Anthropic’s Mythos AI and its threat to financial systems",
         "fonte": "Crypto Briefing",
         "autor": "Editorial Team",
-        "data": "2026-07-15",
-        "url": "https://cryptobriefing.com/microsoft-570-vulnerabilities-ai-patch-tuesday/",
-        "resumo": "AI-driven vulnerability detection accelerates cybersecurity demands, urging industries reliant on Microsoft to prioritize rapid patch management. The post Microsoft patches record 570 vulnerabilities in single update as AI supercharges threat discovery appear…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/15131543/microsoft-headquarters-3-800x420.jpeg"
+        "data": "2026-07-16",
+        "url": "https://cryptobriefing.com/bank-of-america-ceo-anthropic-mythos-ai-concerns/",
+        "resumo": "The rise of AI like Mythos could revolutionize cybersecurity, prompting urgent collaboration and regulatory action to safeguard financial systems. The post Bank of America CEO raises concerns over Anthropic’s Mythos AI and its threat to financial systems appe…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/14195906/ChatGPT-Image-Feb-10-2026-04_45_28-PM-800x420.png"
     },
     {
-        "titulo": "CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild",
-        "fonte": "Tenable.com",
-        "autor": "Scott Caveza",
-        "data": "2026-07-15",
-        "url": "https://www.tenable.com/blog/cve-2026-15409-cve-2026-15410-sonicwall-sma-1000-zero-day-vulnerabilities-exploited-in-the",
-        "resumo": "SonicWall patched two recently exploited zero-day vulnerabilities in its SMA 1000 Series secure remote access appliances which may have been chained for unauthenticated remote code execution.Key takeaways CVE-2026-15409 and CVE-2026-15410 are a pair …",
-        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/SonicWall%20SMA%201000%20zero-day.png?itok=Rkti23FW"
-    },
-    {
-        "titulo": "Insignary Launches Clarity On-Demand: SBOMs, No Annual Commitment Required",
-        "fonte": "GlobeNewswire",
-        "autor": "Insignary, Inc.",
-        "data": "2026-07-15",
-        "url": "https://www.globenewswire.com/news-release/2026/07/15/3327954/0/en/Insignary-Launches-Clarity-On-Demand-SBOMs-No-Annual-Commitment-Required.html",
-        "resumo": "TORONTO, July 15, 2026 (GLOBE NEWSWIRE) -- Enterprise-grade binary software verification for one project, one team, or one compliance deadline — without an annual commitment.",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/4822001d-331f-4446-962d-6d33fbbf2d49"
-    },
-    {
-        "titulo": "Australia vs. AI: Prime Minister Promises Local Creatives ‘Strongest Possible Protection’ Against Copyright Theft",
-        "fonte": "TheWrap",
-        "autor": "Lucas Manfredi",
-        "data": "2026-07-15",
-        "url": "https://www.thewrap.com/industry-news/tech/australian-prime-minister-ai-copyright-protection-local-creatives/",
-        "resumo": "“Let me make this crystal clear: not everything produced in Australia is up for grabs,” Anthony Albanese warns The post Australia vs. AI: Prime Minister Promises Local Creatives ‘Strongest Possible Protection’ Against Copyright Theft appeared first on TheWrap.",
-        "imagem": "https://www.thewrap.com/wp-content/uploads/2026/07/anthony-australia.jpg"
-    },
-    {
-        "titulo": "Action1 Named a Strong Performer in the 2026 Gartner® Peer Insights™ Voice of the Customer for Endpoint Management Tools",
+        "titulo": "The CMMC Pause is Not a Pass: What Defense Contractors Should Do Now",
         "fonte": "PRNewswire",
         "autor": "",
-        "data": "2026-07-15",
-        "url": "https://www.prnewswire.com/news-releases/action1-named-a-strong-performer-in-the-2026-gartner-peer-insights-voice-of-the-customer-for-endpoint-management-tools-302826493.html",
-        "resumo": "We believe customer recognition reinforces Action1&#x27;s momentum. 97% of reviewers are willing to recommend the platform HOUSTON, July 15, 2026 /PRNewswire/ -- Action1, a leading provider of autonomous endpoint management (AEM) solutions, today announced that it…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1883498/Action1-Patching-That-Just-Works.jpg?id=OA2764765&p=facebook"
+        "data": "2026-07-16",
+        "url": "https://www.prnewswire.com/news-releases/the-cmmc-pause-is-not-a-pass-what-defense-contractors-should-do-now-302827899.html",
+        "resumo": "PITTSBURGH, July 16, 2026 /PRNewswire/ -- Magna5 today advised defense contractors that while the DoD&#x27;s recent pause of CMMC Phase 2 provides a temporary reprieve, it does not erase their strict obligation to protect federal data. Core requirements, including…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1537928/magna5-color-RGB-Logo-Logo.jpg?id=OA2767982&p=facebook"
     },
     {
-        "titulo": "Threat actor impersonated hundreds of brands on GitHub to push infostealer malware",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-07-15",
-        "url": "https://www.helpnetsecurity.com/2026/07/15/impersonated-brands-github-infostealer-download/",
-        "resumo": "A financially motivated threat actor is impersonating hundreds of brands on GitHub and pushing a smash-and-grab infostealer masquerading as legitimate downloads of popular software, Arctic Wolf threat researchers have warned. “The 292 impersonated repositorie…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/09/22145156/github-red-1500.webp"
+        "titulo": "Why CISOs should automate SBOM management with AI",
+        "fonte": "Techtarget.com",
+        "autor": "Matthew Smith",
+        "data": "2026-07-16",
+        "url": "https://www.techtarget.com/searchsecurity/tip/Why-CISOs-should-automate-SBOM-management-with-AI",
+        "resumo": "AI tools can drive continuous, accurate SBOM management that turns compliance documentation into real-time supply chain security. Here&#x27;s what CISOs should know.",
+        "imagem": "https://www.techtarget.com/visuals/German/article/malware-1-adobe.jpg"
     },
     {
-        "titulo": "Pulse Security Debuts Operational Management Platform Built for Security Leaders",
-        "fonte": "GlobeNewswire",
-        "autor": "Pulse Security AI",
-        "data": "2026-07-15",
-        "url": "https://www.globenewswire.com/news-release/2026/07/15/3327850/0/en/Pulse-Security-Debuts-Operational-Management-Platform-Built-for-Security-Leaders.html",
-        "resumo": "SAN FRANCISCO, July 15, 2026 (GLOBE NEWSWIRE) -- Backed by Foundation Capital and Zetta Venture Partners with $8M in seed funding, Pulse Security delivers the program intelligence and agentic infrastructure that security leaders have been missing.",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/ca2f3889-c408-4867-9c12-90ab4500e612"
+        "titulo": "Begun, the Patch Wars have",
+        "fonte": "Talosintelligence.com",
+        "autor": "Joe Marshall",
+        "data": "2026-07-16",
+        "url": "https://blog.talosintelligence.com/begun-the-patch-wars-have/",
+        "resumo": "Long foretold, the Great Patching has begun and it’s a doozy. Buckle in as Joe takes you through the story.",
+        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/07/threat_source-1.jpg"
+    },
+    {
+        "titulo": "The Strategic Evolution of Infrastructure Engineering",
+        "fonte": "Bloginformatico.com",
+        "autor": "BI Technology Intelligence Content Team",
+        "data": "2026-07-16",
+        "url": "https://bloginformatico.com/the-strategic-evolution-of-infrastructure-engineering/",
+        "resumo": "Understand the strategic evolution of infrastructure engineering in modern enterprises.",
+        "imagem": "https://bloginformatico.com/wp-content/uploads/2026/06/BI-Technology-Intelligence-Social-1024x572.jpg"
     }
 ]
