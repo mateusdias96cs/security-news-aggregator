@@ -1,5 +1,131 @@
 [
     {
+        "titulo": "Trump Is Right About Voting Machines",
+        "fonte": "Americanthinker.com",
+        "autor": "",
+        "data": "2026-07-18",
+        "url": "https://www.americanthinker.com/articles/2026/07/trump-is-right-about-voting-machines/",
+        "resumo": "Photo Credit: American ThinkerBy Don BrownAnd if you doubt that, just ask Obama-Appointed Judge Amy Totenberg.",
+        "imagem": "https://images.americanthinker.com/js/js8xxblegqegm6hzgn1l_1200.jpg"
+    },
+    {
+        "titulo": "FIS Deploys Anthropic’s Mythos 5 to Strengthen Global Financial Infrastructure",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-07-17",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/fis-deploys-anthropics-mythos-5-to-strengthen-global-financial-infrastructure/",
+        "resumo": "FIS has joined Anthropic’s Project Glasswing and is using the artificial intelligence company’s most advanced frontier model, Mythos 5, to secure its own systems. Project Glasswing is Anthropic’s initiative that allows select organizations that build or maint…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2024/02/FIS-Banked.jpg"
+    },
+    {
+        "titulo": "Watchdog Finds Serious Gaps In IRS Contractors&#x27; Taxpayer Data Security",
+        "fonte": "Forbes",
+        "autor": "Kelly Phillips Erb, Forbes Staff, Kelly Phillips Erb, Forbes Staff https://www.forbes.com/sites/kell",
+        "data": "2026-07-17",
+        "url": "https://www.forbes.com/sites/kellyphillipserb/2026/07/17/watchdog-finds-serious-gaps-in-irs-contractors-taxpayer-data-security/",
+        "resumo": "The TIGTA findings include 1,375 unauthorized entries into restricted areas, unpatched system vulnerabilities, and failures to follow IRS security requirements.",
+        "imagem": "https://imageio.forbes.com/specials-images/imageserve/6a5a6d99ee79ca3eb9f3f12a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+        "titulo": "Coca-Cola Unit Becomes 17th US Cyber Incident This Year",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-07-17",
+        "url": "https://www.pymnts.com/cybersecurity/2026/coca-cola-unit-becomes-17th-united-states-cyber-incident-this-year/",
+        "resumo": "Seventeen companies in the United States have reported or been affected by cyber incidents this year amid a worldwide surge in artificial intelligence-driven cyberattacks, Reuters reported Friday (July 17). The latest company to report a cyberattack is Fairli…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/07/Fairlife-Coca-Cola-cybersecurity.jpeg"
+    },
+    {
+        "titulo": "Industry reacts to Gold Eagle vulnerability management plan",
+        "fonte": "Techtarget.com",
+        "autor": "Phil Sweeney",
+        "data": "2026-07-17",
+        "url": "https://www.techtarget.com/searchsecurity/news/366645907/Industry-reacts-to-Gold-Eagle-vulnerability-management-plan",
+        "resumo": "As AI-discovered software vulnerabilities accumulate at an unprecedented pace, security pros say they hope Gold Eagle creates some order from the chaos.",
+        "imagem": "https://www.techtarget.com/rms/onlineimages/security_a296619547.jpg"
+    },
+    {
+        "titulo": "Chinese AI models narrow cyber capability gap with US rivals",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-07-17",
+        "url": "https://cryptobriefing.com/chinese-ai-narrows-cyber-gap-us/",
+        "resumo": "Zhipu AI&#x27;s GLM-5.2 matches Anthropic&#x27;s Mythos in cybersecurity benchmarks at one quarter the cost, narrowing the gap between Chinese and US AI capabilities. The post Chinese AI models narrow cyber capability gap with US rivals appeared first on Crypto Briefin…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/17092144/merics-ai-entanglement-chinese-investors-are-diversifying-th-800x420.png"
+    },
+    {
+        "titulo": "AI Cybersecurity Firm TAC InfoSec Sets INR 100 Crore Revenue Guidance for FY27, Q1 FY27 Results Total Income Rises 97% YoY, PAT Surges 137% YoY",
+        "fonte": "BusinessLine",
+        "autor": "",
+        "data": "2026-07-17",
+        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/ai-cybersecurity-firm-tac-infosec-sets-inr-100-crore-revenue-guidance-for-fy27-q1-fy27-results-total-income-rises-97-yoy-pat-surges-137-yoy/article71233267.ece",
+        "resumo": "AI cybersecurity company targets continued sequential expansion through enterprise adoption, ESOF Cybersecurity Platform Business, Socify.ai growth, global partnerships and U.S. operations",
+        "imagem": "https://th-i.thgim.com/public/incoming/eme28w/article71233254.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-17%20at%2010.03.46%E2%80%AFAM.png"
+    },
+    {
+        "titulo": "Best Keynote Speakers for a High-End Client Event",
+        "fonte": "Socialnomics.net",
+        "autor": "Gaby Allegues",
+        "data": "2026-07-17",
+        "url": "https://socialnomics.net/2026/07/17/best-keynote-speakers-for-a-high-end-client-event/",
+        "resumo": "Best Keynote Speakers for a High-End Client Event A high-end client event is more than an opportunity to bring people together—it’s a chance to strengthen relationships, showcase your organization’s values, and create an experience attendees will remember lon…",
+        "imagem": "https://socialnomics.net/wp-content/uploads/2026/06/BLS-Erik-Qualman-Smiling-2017-scaled.jpg"
+    },
+    {
+        "titulo": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-07-17",
+        "url": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
+        "resumo": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that fires with the display off, and the ability to drive other …",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdUt3BtyXt68oBeDmMvhp3Sg9c8WNu5xCMYsjqNGGg1A84ykQQ3qpk3Kfsq-msZGxHxtu-gZjML5fDvgV7CoakS6D-_-h2oWAd4m8b4dIS9p1C_003gGvCmg1SDwE7HYc64tdglQW5JWq6XYfssJibuxnxwtd7pu7fbvvkzDIPqdBOQwguwPKAXC2zVOU/s1700-e365/google-android.jpg"
+    },
+    {
+        "titulo": "New Windows LegacyHive zero-day gives hackers admin privileges",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-07-17",
+        "url": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
+        "resumo": "A security researcher using the &quot;Nightmare Eclipse&quot; handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Windows-headpic.jpg"
+    },
+    {
+        "titulo": "Microsoft Patches a Record 570 Security Flaws in July as AI Accelerates the Pace of Vulnerability Discovery",
+        "fonte": "Ibtimes.com.au",
+        "autor": "George Anton",
+        "data": "2026-07-17",
+        "url": "https://www.ibtimes.com.au/microsoft-record-patch-release-ai-security-fixes-1872463",
+        "resumo": "Microsoft&#x27;s July update addresses 570 security vulnerabilities, driven by AI&#x27;s role in accelerating flaw discovery. The surge highlights AI&#x27;s dual impact on cybersecurity, aiding both defenders and attackers.",
+        "imagem": "https://d.ibtimes.com.au/en/full/213116/microsoft-joins-companies-penalizing-russia-over-ukraine-invasion.jpg"
+    },
+    {
+        "titulo": "Human-led, AI-assisted testing: Why AI won’t replace penetration testers...yet.",
+        "fonte": "TechRadar",
+        "autor": "Shaun Peapell",
+        "data": "2026-07-17",
+        "url": "https://www.techradar.com/pro/human-led-ai-assisted-testing-why-ai-wont-replace-penetration-testers-yet",
+        "resumo": "Why human expertise remains essential in AI-powered testing.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX-2560-80.jpg"
+    },
+    {
+        "titulo": "CISA Mandates Urgent Patch for Actively Exploited Critical Fortinet Vulnerabilities",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Kevin Poireault",
+        "data": "2026-07-17",
+        "url": "https://www.infosecurity-magazine.com/news/cisa-urgent-patch-fortinet/",
+        "resumo": "US government agencies have until July 19 to patch two critical Fortinet vulnerabilities",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/6230c8d5-8285-4c91-be7b-196bd44ffc26.jpg"
+    },
+    {
+        "titulo": "US companies face rise in cyber attacks",
+        "fonte": "The Times of India",
+        "autor": "Reuters",
+        "data": "2026-07-17",
+        "url": "https://economictimes.indiatimes.com/tech/technology/us-companies-face-rise-in-cyber-attacks/articleshow/132457917.cms",
+        "resumo": "Companies worldwide are experiencing a rise in AI-driven cyberattacks and ransomware incidents. Fairlife, a Coca-Cola-owned dairy company, recently suspended U.S. production after a system breach. The White House is forming a group to share cybersecurity vuln…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-118146,resizemode-75,msid-132457917/tech/technology/us-companies-face-rise-in-cyber-attacks.jpg"
+    },
+    {
         "titulo": "Low cost data poisoning attacks compromise open weight AI models",
         "fonte": "4sysops.com",
         "autor": "IT News",
@@ -52,122 +178,5 @@
         "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
         "resumo": "CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform. [...]",
         "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/19/Fortinet.jpg"
-    },
-    {
-        "titulo": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-07-17",
-        "url": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) age…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH1X7ZnvKsW37BBvjNfEzT4Imh9ZIRL4_2W1JaNVe_MyO3Q5H1MPsET-SASqznhlfOExRrLj4-6NzhgvGi76w4U5tSmlM-pJLIqO5jF3g9G1DR_FNhuwcatBFb8ARvD4PPMiQvMCFiTlEOlc13nQbQqCn5ZHf1J2ZOqDeG3_pmBiQ92hTfMErJKcjKbNtZ/s1700-e365/sharepoint-cisa.jpg"
-    },
-    {
-        "titulo": "White House Unveils AI Clearinghouse for Cybersecurity Risks",
-        "fonte": "Insurance Journal",
-        "autor": "Admin",
-        "data": "2026-07-17",
-        "url": "https://www.insurancejournal.com/news/national/2026/07/17/877965.htm",
-        "resumo": "The Trump administration is moving to strengthen coordination on artificial intelligence cybersecurity through a new industry clearinghouse to improve the detection and patching of network vulnerabilities, especially in open-source software. The clearinghouse…",
-        "imagem": "https://www.insurancejournal.com/app/uploads/2026/07/National-Cyber-Director-Sean-Cairncross-Bloomberg-scaled.jpg"
-    },
-    {
-        "titulo": "Microsoft’s MDASH AI beats Anthropic’s Mythos in bug detection, finds 16 new Windows flaws",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-07-17",
-        "url": "https://cryptobriefing.com/microsoft-mdash-ai-bug-detection/",
-        "resumo": "Microsoft&#x27;s MDASH AI system found 16 new Windows vulnerabilities, scored 88.45% on CyberGym, and outperformed Anthropic and OpenAI in security bug The post Microsoft’s MDASH AI beats Anthropic’s Mythos in bug detection, finds 16 new Windows flaws appeared fir…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/16204652/microsoft-headquarters-4-800x420.jpeg"
-    },
-    {
-        "titulo": "China’s Economic Espionage and Subnational Influence in the United States",
-        "fonte": "Smallwarsjournal.com",
-        "autor": "SWJ Staff",
-        "data": "2026-07-17",
-        "url": "https://smallwarsjournal.com/2026/07/17/chinas-economic-espionage-and-subnational-influence-in-the-united-states/",
-        "resumo": "Streamed live on Jun 25, 2026 The House Select Committee on China held a hearing titled “China’s Economic Espionage and Subnational Influence in the United States” on Thursday, June 25 at 10:30 A.M. in the Cannon House Office Building, Room 390. The witnesses…",
-        "imagem": "https://smallwarsjournal.com/wp-content/uploads/2026/02/House-Select-Committee-on-the-CCP.webp"
-    },
-    {
-        "titulo": "Why You Need AI Agent Security Validation in Software Testing",
-        "fonte": "DevOps.com",
-        "autor": "Puspita Pradhan",
-        "data": "2026-07-16",
-        "url": "https://devops.com/why-you-need-ai-agent-security-validation-in-software-testing/",
-        "resumo": "Engineering teams have been racing for the last two years to deploy AI agents that can find bugs faster than any QA team ever could. Autonomous testing agents can crawl through codebases, identify vulnerabilities, and generate test coverage reports while deve…",
-        "imagem": "https://devops.com/wp-content/uploads/2026/07/SecurityValidationSoftwareTesting-e1784238557901.jpeg"
-    },
-    {
-        "titulo": "Researcher poisons open-weight AI model for under $100",
-        "fonte": "Theregister.com",
-        "autor": "Thomas Claburn",
-        "data": "2026-07-16",
-        "url": "https://www.theregister.com/ai-and-ml/2026/07/16/researcher-poisons-open-weight-ai-model-for-under-100/5273880",
-        "resumo": "Models demand trust without offering verification",
-        "imagem": "https://image.theregister.com/227279.jpg?imageId=227279&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-    },
-    {
-        "titulo": "Bank of America CEO Brian Moynihan Joins Wall Street Leaders in Warning of Mythos AI Risks",
-        "fonte": "pymnts.com",
-        "autor": "PYMNTS",
-        "data": "2026-07-16",
-        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bank-of-america-ceo-brian-moynihan-joins-wall-street-leaders-in-warning-of-mythos-ai-risks/",
-        "resumo": "Bank of America CEO Brian Moynihan joined other Wall Street executives expressing concerns about the security risks posed by artificial intelligence (AI) models, specifically Anthropic’s Mythos system, Bloomberg reported on Thursday (July 16). The evolution o…",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/07/Wall-Street-AI-risks.png"
-    },
-    {
-        "titulo": "Special Breaking Analysis: Nvidia’s AI networking moat is real – but the lock-in debate continues",
-        "fonte": "SiliconANGLE News",
-        "autor": "Dave Vellante and Bob Laliberte",
-        "data": "2026-07-16",
-        "url": "https://siliconangle.com/2026/07/16/special-breaking-analysis-nvidias-ai-networking-moat-real-lock-debate-continues/",
-        "resumo": "In a special editorial discussion hosted by Dave Vellante and Bob Laliberte, Nvidia Corp. networking chief Gilad Shainer explains why agentic inference turns the network into part of the computer. We believe Nvidia is materially ahead of the field, but in thi…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/giladshainer-nvidia-2026.jpg"
-    },
-    {
-        "titulo": "Bank of America CEO raises concerns over Anthropic’s Mythos AI and its threat to financial systems",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-07-16",
-        "url": "https://cryptobriefing.com/bank-of-america-ceo-anthropic-mythos-ai-concerns/",
-        "resumo": "The rise of AI like Mythos could revolutionize cybersecurity, prompting urgent collaboration and regulatory action to safeguard financial systems. The post Bank of America CEO raises concerns over Anthropic’s Mythos AI and its threat to financial systems appe…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/14195906/ChatGPT-Image-Feb-10-2026-04_45_28-PM-800x420.png"
-    },
-    {
-        "titulo": "The CMMC Pause is Not a Pass: What Defense Contractors Should Do Now",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-07-16",
-        "url": "https://www.prnewswire.com/news-releases/the-cmmc-pause-is-not-a-pass-what-defense-contractors-should-do-now-302827899.html",
-        "resumo": "PITTSBURGH, July 16, 2026 /PRNewswire/ -- Magna5 today advised defense contractors that while the DoD&#x27;s recent pause of CMMC Phase 2 provides a temporary reprieve, it does not erase their strict obligation to protect federal data. Core requirements, including…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1537928/magna5-color-RGB-Logo-Logo.jpg?id=OA2767982&p=facebook"
-    },
-    {
-        "titulo": "Why CISOs should automate SBOM management with AI",
-        "fonte": "Techtarget.com",
-        "autor": "Matthew Smith",
-        "data": "2026-07-16",
-        "url": "https://www.techtarget.com/searchsecurity/tip/Why-CISOs-should-automate-SBOM-management-with-AI",
-        "resumo": "AI tools can drive continuous, accurate SBOM management that turns compliance documentation into real-time supply chain security. Here&#x27;s what CISOs should know.",
-        "imagem": "https://www.techtarget.com/visuals/German/article/malware-1-adobe.jpg"
-    },
-    {
-        "titulo": "Begun, the Patch Wars have",
-        "fonte": "Talosintelligence.com",
-        "autor": "Joe Marshall",
-        "data": "2026-07-16",
-        "url": "https://blog.talosintelligence.com/begun-the-patch-wars-have/",
-        "resumo": "Long foretold, the Great Patching has begun and it’s a doozy. Buckle in as Joe takes you through the story.",
-        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/07/threat_source-1.jpg"
-    },
-    {
-        "titulo": "The Strategic Evolution of Infrastructure Engineering",
-        "fonte": "Bloginformatico.com",
-        "autor": "BI Technology Intelligence Content Team",
-        "data": "2026-07-16",
-        "url": "https://bloginformatico.com/the-strategic-evolution-of-infrastructure-engineering/",
-        "resumo": "Understand the strategic evolution of infrastructure engineering in modern enterprises.",
-        "imagem": "https://bloginformatico.com/wp-content/uploads/2026/06/BI-Technology-Intelligence-Social-1024x572.jpg"
     }
 ]
