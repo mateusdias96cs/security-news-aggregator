@@ -1,5 +1,32 @@
 [
     {
+        "titulo": "Week in review: High severity WordPress vulnerabilities, fake OAuth IDs bypass sign-in logs",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-07-19",
+        "url": "https://www.helpnetsecurity.com/2026/07/19/week-in-review-oauth-client-ids-spoofed-sonicwall-sma-appliances-targeted-in-zero-day-attacks/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Two new high severity WordPress vulnerabilities, patch immediately! The 7.0.2 WordPress security release addresses one critical and one high severity security is…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01112506/cybersecurity_week_in_review2.jpg"
+    },
+    {
+        "titulo": "Security is no longer a human scale thing, it is machine scale: Pankaj Rohatgi, Google",
+        "fonte": "The Times of India",
+        "autor": "Nirmal John",
+        "data": "2026-07-19",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/security-is-no-longer-a-human-scale-thing-it-is-machine-scale-pankaj-rohatgi-google/articleshow/132489349.cms",
+        "resumo": "Google&#x27;s Pankaj Rohatgi has stressed the urgent need for post-quantum cryptography adoption by 2029. He notes that AI is now actively used by criminals to find system vulnerabilities. User education remains crucial, and guardrails are essential for vulnerab…",
+        "imagem": "https://img.etimg.com/thumb/msid-132489373,width-1200,height-630,imgsize-95498,overlay-economictimes/articleshow.jpg"
+    },
+    {
+        "titulo": "U.S. CISA adds Fortinet FortiSandbox and Microsoft SharePoint flaws to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-07-18",
+        "url": "https://securityaffairs.com/195569/security/u-s-cisa-adds-fortinet-fortisandbox-and-microsoft-sharepoint-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Fortinet FortiSandbox and Microsoft SharePoint flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Fortinet FortiSandbox…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
         "titulo": "Trump Is Right About Voting Machines",
         "fonte": "Americanthinker.com",
         "autor": "",
@@ -151,32 +178,5 @@
         "url": "https://securityaffairs.com/195516/security/u-s-cisa-adds-knx-association-knx-protocol-connection-authorization-option-1-and-oracle-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
         "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds KNX Association KNX Protocol Connection Authorization Option 1 and Oracle flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) …",
         "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "Industrial System Integrator and IIoT Technology Market to Reach USD 2.20 Trillion by 2032",
-        "fonte": "GlobeNewswire",
-        "autor": "Research and Markets",
-        "data": "2026-07-17",
-        "url": "https://www.globenewswire.com/news-release/2026/07/17/3328940/28124/en/Industrial-System-Integrator-and-IIoT-Technology-Market-to-Reach-USD-2-20-Trillion-by-2032.html",
-        "resumo": "Global market projected to expand at a 23.47% CAGR as industrial enterprises accelerate smart manufacturing, OT-IT convergence, edge computing, artificial intelligence and cybersecurity investments Global market projected to expand at a 23.47% CAGR as industr…",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/f502ce49-8430-4dc2-ad51-845b1998b184"
-    },
-    {
-        "titulo": "Fresh SharePoint Vulnerability Exploited Soon After Disclosure",
-        "fonte": "Securityweek.com",
-        "autor": "Ionut Arghire",
-        "data": "2026-07-17",
-        "url": "https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/",
-        "resumo": "The critical-severity security defect allows remote, authenticated attackers to execute arbitrary code on the server. The post Fresh SharePoint Vulnerability Exploited Soon After Disclosure appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2025/07/CVE-2025-53770-SharePoint-Vulnerability.jpg"
-    },
-    {
-        "titulo": "CISA urges immediate action on actively exploited Fortinet flaws",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-07-17",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
-        "resumo": "CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/19/Fortinet.jpg"
     }
 ]
