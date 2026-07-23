@@ -1,182 +1,173 @@
 [
     {
-        "titulo": "Moonshot’s Kimi K3 Needs 64 Cores for Open Source AI",
-        "fonte": "Geeky Gadgets",
-        "autor": "Julian Horsey",
-        "data": "2026-07-21",
-        "url": "https://www.geeky-gadgets.com/kimi-k3-model-open-weights/",
-        "resumo": "The Kimi K3 model, developed by Moonshot, is poised to make waves as an open source AI system with near-frontier coding performance. Set to launch on July 27, 2026, it offers researchers and developers access to its architecture through open weights, fosterin…",
-        "imagem": "https://www.geeky-gadgets.com/wp-content/uploads/2026/07/kimmy-k3-model.jpg"
+        "titulo": "OpenAI models escape sandbox to breach Hugging Face production systems",
+        "fonte": "4sysops.com",
+        "autor": "IT News",
+        "data": "2026-07-22",
+        "url": "https://4sysops.com/archives/openai-models-escape-sandbox-to-breach-hugging-face-production-systems/",
+        "resumo": "OpenAI recently confirmed that its GPT-5.6 Sol and an unreleased, more powerful model breached Hugging Face’s production infrastructure during internal cybersecurity testing. The models were operating with reduced safety guardrails while being evaluated again…",
+        "imagem": "https://4sysops.com/wp-content/uploads/2026/07/openai-models-escape-sandbox-to-breach-hugging-face-production-systems.png"
     },
     {
-        "titulo": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-07-21",
-        "url": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-        "resumo": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims&#x27; networks, according to cybersecurity company Arctic Wolf. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/08/Qilin.jpg"
+        "titulo": "OpenAI&#x27;s GPT-5.6 Sol and unreleased AI models break out of testing environment in &#x27;unprecedented cybersecurity incident&#x27; — rogue agents hacked HuggingFace&#x27;s production servers with",
+        "fonte": "Toms Hardware UK",
+        "autor": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
+        "data": "2026-07-22",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-gpt-5-6-sol-and-unreleased-ai-models-break-out-of-testing-environment-in-unprecedented-cybersecurity-incident-rogue-agents-hacked-huggingfaces-production-servers-with-thousands-of-individual-actions-across-a-swarm-of-short-lived-sandboxes",
+        "resumo": "OpenAI&#x27;s GPT-5.6 Sol and its gang escape from their cage and hack into HuggingFace&#x27;s production servers — unprecedented incident raises eyebrows and pulses",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/ShSMEwkvvkfPy2AxiZJ376-2048-80.jpg"
     },
     {
-        "titulo": "PEOPLES BANCORP INC. ANNOUNCES RESULTS FOR THE SECOND QUARTER 2026",
+        "titulo": "Why you can’t buy security on the dark web",
+        "fonte": "TechRadar",
+        "autor": "Andrey Leskin",
+        "data": "2026-07-22",
+        "url": "https://www.techradar.com/pro/why-you-cant-buy-security-on-the-dark-web",
+        "resumo": "Why buying, monitoring, or negotiating on the dark web often creates more risk than security.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/x4SmwpYXk8yGgDmYCVeckL-2560-80.jpg"
+    },
+    {
+        "titulo": "OpenAI Confirms Its Models Breached Hugging Face Production Systems During Cyber Benchmark Testing",
+        "fonte": "Ghacks Technology News",
+        "autor": "Arthur Kay",
+        "data": "2026-07-22",
+        "url": "https://www.ghacks.net/2026/07/22/openai-confirms-its-models-breached-hugging-face-production-systems-during-cyber-benchmark-testing/",
+        "resumo": "OpenAI has acknowledged that its AI models, including GPT-5. Thank you for being a Ghacks reader. The post OpenAI Confirms Its Models Breached Hugging Face Production Systems During Cyber Benchmark Testing appeared first on gHacks.",
+        "imagem": "https://www.ghacks.net/wp-content/uploads/2026/07/gHacks-articles-2026-07-22T101813.212.png"
+    },
+    {
+        "titulo": "OpenAI admits its agent went rogue and hacked AI startup Hugging Face",
+        "fonte": "Scientific American",
+        "autor": "Claire Cameron",
+        "data": "2026-07-22",
+        "url": "https://www.scientificamerican.com/article/openai-admits-its-agent-went-rogue-and-hacked-ai-startup-hugging-face/",
+        "resumo": "The incident underscores concerns over the increasingly powerful cybersecurity capabilities of new AI models",
+        "imagem": "https://static.scientificamerican.com/dam/m/72b4ce254e84e663/original/AI-head.jpg?m=1780426576.126&w=1200"
+    },
+    {
+        "titulo": "Rockwell Automation Announces Luminus Selects SecureOT Platform to Support Industrial Cybersecurity Resilience",
         "fonte": "PRNewswire",
         "autor": "",
-        "data": "2026-07-21",
-        "url": "https://www.prnewswire.com/news-releases/peoples-bancorp-inc-announces-results-for-the-second-quarter-2026-302829905.html",
-        "resumo": "MARIETTA, Ohio, July 21, 2026 /PRNewswire/ -- Peoples Bancorp Inc. (&quot;Peoples&quot;) (NASDAQ: PEBO) today announced results for the quarter ended June 30, 2026. Net income totaled $28.0 million for the second quarter of 2026, representing earnings per diluted commo…",
+        "data": "2026-07-22",
+        "url": "https://www.prnewswire.com/news-releases/rockwell-automation-announces-luminus-selects-secureot-platform-to-support-industrial-cybersecurity-resilience-302827773.html",
+        "resumo": "Deployment will help strengthen operational technology visibility and risk management across a diverse energy production environment BRUSSELS, July 22, 2026 /PRNewswire/ -- Rockwell Automation, the world&#x27;s largest company dedicated to industrial automation an…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1408478/Rockwell-Automation-Logo.jpg?id=OA2767838&p=facebook"
+    },
+    {
+        "titulo": "OpenAI: Our Tech Carried Out &#x27;Unprecedented Cyber Incident&#x27;",
+        "fonte": "Newser",
+        "autor": "Evann Gastaldo",
+        "data": "2026-07-22",
+        "url": "https://www.newser.com/story/393261/openai-our-tech-carried-out-unprecedented-cyber-incident.html",
+        "resumo": "ChatGPT maker OpenAI said Tuesday that its artificial intelligence system hacked into another AI company on its own in what the company called an &quot;unprecedented cyber incident,&quot; the AP reports. &quot;We had a significant security incident during evaluation of our …",
+        "imagem": "https://cdn.newser.com/image/1700160-12-20260722013002.jpeg"
+    },
+    {
+        "titulo": "OpenAI: Oops, Our Models Went Rogue, Hacked Hugging Face",
+        "fonte": "PCMag.com",
+        "autor": "Michael Kan",
+        "data": "2026-07-22",
+        "url": "https://me.pcmag.com/en/security/37707/openai-oops-our-models-went-rogue-hacked-hugging-face",
+        "resumo": "Are OpenAI&#x27;s AI models having a Jurassic Park moment? During a cybersecurity benchmark, they escaped their sandboxed test environment and &#x27;reached a node with internet access.&#x27; The recent intrusion at Hugging Face has been traced to AI models breaking out of …",
+        "imagem": "https://sm.pcmag.com/t/pcmag_me/news/o/openai-oop/openai-oops-our-models-went-rogue-hacked-hugging-face_n9yu.1200.jpg"
+    },
+    {
+        "titulo": "What Trump&#x27;s AI executive order means for CIOs",
+        "fonte": "Techtarget.com",
+        "autor": "Harriet Jamieson",
+        "data": "2026-07-22",
+        "url": "https://www.techtarget.com/searchcio/feature/What-Trumps-AI-executive-order-means-for-CIOs",
+        "resumo": "The White House&#x27;s latest AI executive order invites voluntary prerelease access, hardens the government&#x27;s security posture and earmarks new action items for CIOs.",
+        "imagem": "https://www.techtarget.com/rms/onlineimages/ai_g1183318665.jpg"
+    },
+    {
+        "titulo": "OpenAI says its AI models hacked Hugging Face during testing",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-07-22",
+        "url": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
+        "resumo": "OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/22/OpenAI.jpg"
+    },
+    {
+        "titulo": "Democrats’ ’secure elections’ claims falling apart before our eyes",
+        "fonte": "Americanthinker.com",
+        "autor": "",
+        "data": "2026-07-22",
+        "url": "https://www.americanthinker.com/blog/2026/07/democrats-secure-elections-claims-falling-apart-before-our-eyes/",
+        "resumo": "By Wendi Strauch MahoneyFor years, those who raised questions about election integrity were dismissed as conspiracy theorists. But now...",
+        "imagem": "https://images.americanthinker.com/imported/2024-03/252927_1200.jpeg"
+    },
+    {
+        "titulo": "OpenAI says its AI technology acted on its own in &#x27;unprecedented&#x27; hack of company",
+        "fonte": "Abcnews.com",
+        "autor": "MATT O&#x27;BRIEN AP technology writer",
+        "data": "2026-07-22",
+        "url": "https://abcnews.com/Technology/wireStory/openai-ai-technology-acted-unprecedented-hack-company-134968161",
+        "resumo": "OpenAI has disclosed an &quot;unprecedented cyber incident&quot; where its AI system allegedly hacked into another AI company",
+        "imagem": "https://i.abcnewsfe.com/a/214c2564-d1bf-4940-8a89-ba2c8d2fedc7/wirestory_63ab84fed5612af04d8a160d60f6def3_16x9.jpg?w=1600"
+    },
+    {
+        "titulo": "OpenAI says its AI system went rogue, triggering ‘unprecedented’ hack at start-up",
+        "fonte": "BusinessLine",
+        "autor": "AP- PTI",
+        "data": "2026-07-22",
+        "url": "https://www.thehindubusinessline.com/info-tech/openai-says-its-ai-system-went-rogue-triggering-unprecedented-hack-at-start-up/article71251905.ece",
+        "resumo": "ChatGPT maker OpenAI said Tuesday that its artificial intelligence system hacked into another AI company on its own in what the company called an “unprecedented cyber incident.”",
+        "imagem": "https://bl-i.thgim.com/public/incoming/1m846a/article71251940.ece/alternates/LANDSCAPE_1200/2026-07-22T000322Z_211154866_RC2QRLA7HSOR_RTRMADP_3_OPENAI-HUGGING-FACE.JPG"
+    },
+    {
+        "titulo": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library",
+        "fonte": "Freerepublic.com",
+        "autor": "The New York Times",
+        "data": "2026-07-22",
+        "url": "https://freerepublic.com/focus/f-chat/4388863/posts",
+        "resumo": "The incident, which targeted the computer systems of another company called Hugging Face, happened while OpenAI was testing the systems.OpenAI said on Tuesday that two of its artificial intelligence models went rogue and successfully hacked into Hugging Face,…",
         "imagem": ""
     },
     {
-        "titulo": "The $3 Exploit: Quantro Security Report Reveals AI Has Collapsed the Economics of Vulnerability Exploitation",
-        "fonte": "PRNewswire",
-        "autor": "",
+        "titulo": "Hugging Face Said Last Week It Was Attacked. An Unreleased OpenAI Model Did It, OpenAI Now Says",
+        "fonte": "Gizmodo.com",
+        "autor": "Mike Pearl",
+        "data": "2026-07-22",
+        "url": "https://gizmodo.com/hugging-face-said-last-week-it-was-attacked-an-unreleased-openai-model-did-it-openai-now-says-2000788761",
+        "resumo": "It was reportedly an evaluation that went haywire involving GPT-5.6 Sol, along with another even more advanced OpenAI model.",
+        "imagem": "https://gizmodo.com/app/uploads/2026/03/sam-altman-nervous-1200x675.jpg"
+    },
+    {
+        "titulo": "OpenAI says its AI models hacked another company on their own",
+        "fonte": "Associated Press",
+        "autor": "Matt O&#x27;brien",
         "data": "2026-07-21",
-        "url": "https://www.prnewswire.com/news-releases/the-3-exploit-quantro-security-report-reveals-ai-has-collapsed-the-economics-of-vulnerability-exploitation-302830123.html",
-        "resumo": "Autonomous AI agents turned disclosed vulnerabilities into verified working exploits for a median of $2.83 and 11 minutes each. The vulnerabilities they exploited most easily are the ones today&#x27;s risk metrics tell defenders to ignore. New free AI tools enable…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1886931/Quantro-Security-Key-Findings.jpg?id=OA2773292&p=facebook"
+        "url": "https://apnews.com/article/openai-gpt56-sol-hugging-face-63ab84fed5612af04d8a160d60f6def3",
+        "resumo": "OpenAI has disclosed an &quot;unprecedented cyber incident&quot; where its AI system allegedly hacked into another AI company. OpenAI CEO Sam Altman stated that the incident occurred during model evaluations. Last week, AI startup Hugging Face detected an intrusion int…",
+        "imagem": "https://dims.apnews.com/dims4/default/637dc26/2147483647/strip/true/crop/4771x3179+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F96%2Fd4%2F25d4c16c8ac5ed4c243b4c3e5545%2F22d536a723f54095bc412d56e28da237"
     },
     {
-        "titulo": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
-        "fonte": "Smashingmagazine.com",
-        "autor": "hello@smashingmagazine.com (Durgesh Pawar)",
+        "titulo": "OpenAI Models Escaped Containment and Hacked HuggingFace",
+        "fonte": "Wired",
+        "autor": "Lily Hay Newman, Dell Cameron",
         "data": "2026-07-21",
-        "url": "https://www.smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
-        "resumo": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vu…",
-        "imagem": "https://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg"
+        "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+        "resumo": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
+        "imagem": "https://media.wired.com/photos/6a5ff5b0f95e7d91469f8f3d/191:100/w_1280,c_limit/security_openai_hack_huggingface.jpg"
     },
     {
-        "titulo": "Estée Lauder discloses data breach tied to Oracle EBS vulnerability",
-        "fonte": "Help Net Security",
-        "autor": "Sinisa Markovic",
+        "titulo": "OpenAI says its own AI models broke out of testing and hacked Hugging Face",
+        "fonte": "SiliconANGLE News",
+        "autor": "Duncan Riley",
         "data": "2026-07-21",
-        "url": "https://www.helpnetsecurity.com/2026/07/21/estee-lauder-data-breach-oracle-ebs/",
-        "resumo": "Cosmetics company Estée Lauder disclosed a data breach tied to a vulnerability in Oracle E-Business Suite (EBS) used for the company’s human resources operations. Estée Lauder is one of the largest beauty companies in the world, known for its prestige skincar…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/07/21092437/estee-lauder-1500.webp"
+        "url": "https://siliconangle.com/2026/07/21/openai-says-ai-models-broke-testing-hacked-hugging-face/",
+        "resumo": "OpenAI Group PBC today disclosed that two of its artificial intelligence models broke out of a controlled testing environment and hacked open-source AI platform Hugging Face Inc. to cheat on an internal benchmark in what the company called an unprecedented cy…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/cnhatgpthackshuggingface.png"
     },
     {
-        "titulo": "Behavioral biometrics: How to detect non-human threat actors",
-        "fonte": "Techtarget.com",
-        "autor": "Johna Till Johnson",
+        "titulo": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+        "fonte": "The Verge",
+        "autor": "Emma Roth",
         "data": "2026-07-21",
-        "url": "https://www.techtarget.com/searchsecurity/tip/Behavioral-biometrics-How-to-detect-non-human-threat-actors",
-        "resumo": "How do security teams distinguish between people and AI? It&#x27;s getting harder, but behavioral biometrics might help discern human users from machine impersonators.",
-        "imagem": "https://www.techtarget.com/rms/onlineimages/security_a416431135.jpg"
-    },
-    {
-        "titulo": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-07-21",
-        "url": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
-        "resumo": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Windows.jpg"
-    },
-    {
-        "titulo": "The Hidden Factors That Influence Software Valuation",
-        "fonte": "C-sharpcorner.com",
-        "autor": "noreply@c-sharpcorner.com (The Code Registry)",
-        "data": "2026-07-21",
-        "url": "https://www.c-sharpcorner.com/article/the-hidden-factors-that-influence-software-valuation/",
-        "resumo": "Uncover 15 hidden factors influencing software valuation beyond financials, from technical debt to AI governance. Elevate your understanding.",
-        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
-    },
-    {
-        "titulo": "Cybersecurity jobs available right now: July 21, 2026",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-07-21",
-        "url": "https://www.helpnetsecurity.com/2026/07/21/cybersecurity-jobs-available-right-now-july-21-2026/",
-        "resumo": "Application Security Analyst Stellantis | USA | On-site – View job details As an Application Security Analyst, you will perform application security testing using SAST, DAST, IAST, and other assessment tools to identify vulnerabilities and support remediation…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140413/cybersecurity_jobs-2-1500.webp"
-    },
-    {
-        "titulo": "Estée Lauder discloses data breach via Oracle E-Business flaw",
-        "fonte": "BleepingComputer",
-        "autor": "Bill Toulas",
-        "data": "2026-07-20",
-        "url": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
-        "resumo": "Cosmetics giant Estée Lauder is notifying customers of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/20/estee.jpg"
-    },
-    {
-        "titulo": "Trump&#x27;s latest AI czar has already resigned | TechCrunch",
-        "fonte": "TechCrunch",
-        "autor": "Julie Bort",
-        "data": "2026-07-20",
-        "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-        "resumo": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
-        "imagem": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200"
-    },
-    {
-        "titulo": "Malicious cloud customers can bring down the power grid",
-        "fonte": "Theregister.com",
-        "autor": "Thomas Claburn",
-        "data": "2026-07-20",
-        "url": "https://www.theregister.com/ai-and-ml/2026/07/20/malicious-cloud-customers-can-bring-down-the-power-grid/5275193",
-        "resumo": "Datacenters tax utilities normally, so just imagine what they could do if workloads were designed to destroy",
-        "imagem": "https://image.theregister.com/5275246.jpg?imageId=5275246&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-    },
-    {
-        "titulo": "Hugging Face says it resorted to a Chinese AI model to battle a fully autonomous cyberattack because U.S. model guardrails stymied its defense",
-        "fonte": "Fortune",
-        "autor": "Emily Forlini",
-        "data": "2026-07-20",
-        "url": "https://fortune.com/2026/07/20/hugging-face-turns-to-chinese-open-source-ai-to-fend-off-autonomous-ai-cyber-attack-after-american-ai-guardrails-stymie-defense/",
-        "resumo": "Hugging Face experienced one of the first document autonomous AI cyber attacks. It said American models were not up to the task of defending it, while GLM 5.2 from China&#x27;s Z.ai saved the day.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2151605984-e1784564015338.jpg?resize=1200,600"
-    },
-    {
-        "titulo": "Hugging Face Latest Company Dealing With AI Cyberattacks",
-        "fonte": "pymnts.com",
-        "autor": "PYMNTS",
-        "data": "2026-07-20",
-        "url": "https://www.pymnts.com/cybersecurity/2026/hugging-face-latest-company-dealing-with-ai-cyberattacks/",
-        "resumo": "Hugging Face, whose platform hosts AI datasets, has reportedly suffered an AI-powered data breach. As TechCrunch reported Monday (July 20), the company revealed the breach last week but said it was still determining if any customer or partner data had been st…",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2024/08/cybersecurity-data-breach-fraud.jpg"
-    },
-    {
-        "titulo": "Canadian iPhone hacking firm sues ex-worker over alleged theft of secrets",
-        "fonte": "Financial Post",
-        "autor": "Bloomberg News",
-        "data": "2026-07-20",
-        "url": "https://financialpost.com/cybersecurity/iphone-hacking-firm-sues-worker-theft-secrets",
-        "resumo": "Magnet Forensics filed a lawsuit against Mario Del Gaudio and Paradigm Shift Technology, alleging the flaw was publicly disclosed on the company&#x27;s blog",
-        "imagem": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/no0720iphone.jpg"
-    },
-    {
-        "titulo": "Hugging Face breach highlights fatal flaw in AI safety guardrails",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-07-20",
-        "url": "https://cryptobriefing.com/hugging-face-breach-ai-safety-guardrails/",
-        "resumo": "An autonomous AI agent breached Hugging Face&#x27;s infrastructure undetected while frontier AI models refused to help defenders analyze the attack due to safety The post Hugging Face breach highlights fatal flaw in AI safety guardrails appeared first on Crypto Br…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/20115624/hugging-face-logo-1-800x420.jpeg"
-    },
-    {
-        "titulo": "SEBI fines CDSL, two former executives over 2022 malware attack lapses",
-        "fonte": "BusinessLine",
-        "autor": "BL Mumbai Bureau",
-        "data": "2026-07-20",
-        "url": "https://www.thehindubusinessline.com/markets/sebi-fines-cdsl-two-former-executives-over-2022-malware-attack-lapses/article71246046.ece",
-        "resumo": "Regulator says cybersecurity failures exposed critical systems to attack; imposes monetary penalties on depository and former CISO, CTO",
-        "imagem": "https://bl-i.thgim.com/public/incoming/dasc3/article71246148.ece/alternates/LANDSCAPE_1200/SEBI-plugs-longGS5G4JGCF.4.jpg.jpg"
-    },
-    {
-        "titulo": "AI Platform Hugging Face Fends Off Hack From... AI",
-        "fonte": "PCMag.com",
-        "autor": "Michael Kan",
-        "data": "2026-07-20",
-        "url": "https://uk.pcmag.com/ai/166233/ai-platform-hugging-face-fends-off-hack-from-ai",
-        "resumo": "The intrusion was traced to an autonomous AI agent capable of executing &#x27;many thousands of individual actions,&#x27; the company says. Hugging Face, an online platform that hosts AI models, has suffered a breach that apparently came from an autonomous AI program. …",
-        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-platfor/ai-platform-hugging-face-fends-off-hack-from-ai_rn47.1200.jpg"
-    },
-    {
-        "titulo": "Sebi imposes Rs 1 crore penalty on CDSL over 2022 malware attack",
-        "fonte": "The Times of India",
-        "autor": "Akash Podishetti",
-        "data": "2026-07-20",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-imposes-rs-1-crore-penalty-on-cdsl-over-2022-malware-attack/articleshow/132518202.cms",
-        "resumo": "Sebi has imposed a Rs 1 crore penalty on CDSL for cybersecurity failures that enabled a 2022 malware attack, disrupting depository operations and market settlements. The regulator cited inadequate protection of critical systems, weak access controls and poor …",
-        "imagem": "https://img.etimg.com/thumb/msid-132518202,width-1200,height-630,imgsize-55652,overlay-etmarkets/articleshow.jpg"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+        "resumo": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and &quot;an even more capable pre-release model&quot; discovered vulnerabilities within their sandboxe…",
+        "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     }
 ]
