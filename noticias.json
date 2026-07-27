@@ -1,5 +1,59 @@
 [
     {
+        "titulo": "AI-Enabled Security Researchers Discover How a Crafted Video Can Provide Attackers Access to Your PC",
+        "fonte": "InfoQ.com",
+        "autor": "Olimpiu Pop",
+        "data": "2026-07-26",
+        "url": "https://www.infoq.com/news/2026/07/pixelsmash-vulnerability/",
+        "resumo": "JFrog Security Research revealed &quot;PixelSmash,&quot; a vulnerability in the FFmpeg media framework, allowing for Remote Code Execution and Denial of Service attacks. Present for sixteen years, it affects numerous applications using the MagicYUV decoder. Exploitatio…",
+        "imagem": "https://res.infoq.com/news/2026/07/pixelsmash-vulnerability/en/headerimage/generatedHeaderImage-1785042241189.jpg"
+    },
+    {
+        "titulo": "Week in review: ServiceNow pre-auth RCE exploited in the wild, Hugging Face breached",
+        "fonte": "Help Net Security",
+        "autor": "Help Net Security",
+        "data": "2026-07-26",
+        "url": "https://www.helpnetsecurity.com/2026/07/26/week-in-review-servicenow-pre-auth-rce-exploited-in-the-wild-hugging-face-breached/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: AI agents are still logging in as humans Most large companies run more than one AI platform at the same time. Developers pull up coding assistants, marketing tea…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01112502/cybersecurity_week_in_review1.jpg"
+    },
+    {
+        "titulo": "AI safety experts say OpenAI’s rogue models may mean the company has already blown past its own internal red lines",
+        "fonte": "Fortune",
+        "autor": "Beatrice Nolan",
+        "data": "2026-07-25",
+        "url": "https://fortune.com/2026/07/25/ai-safety-experts-say-openais-rogue-models-may-mean-the-company-has-already-blown-past-its-own-internal-red-lines/",
+        "resumo": "Outside safety experts say the models behind this week&#x27;s hack may have crossed OpenAI&#x27;s own &#x27;critical&#x27; risk line, something that would require the company to halt development.",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2278967310.jpg?resize=1200,600"
+    },
+    {
+        "titulo": "Government has to work on right regulations for V2X technology: Carmakers",
+        "fonte": "BusinessLine",
+        "autor": "S Ronendra Singh",
+        "data": "2026-07-25",
+        "url": "https://www.thehindubusinessline.com/companies/government-has-to-work-on-right-regulations-for-v2x-technology-carmakers/article71266603.ece",
+        "resumo": "The Department of Telecommunications last month de-licensed spectrum bands for automotive radar and vehicle-to-everything (V2X) communications",
+        "imagem": "https://bl-i.thgim.com/public/incoming/7lxgzn/article71267211.ece/alternates/LANDSCAPE_1200/Santosh%20Iyer%20MD%20%20CEO%20Mercedes-Benz%20India%20with%20AMG%20E%2053%20Hybrid%204MATIC.jpeg"
+    },
+    {
+        "titulo": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-07-25",
+        "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
+        "resumo": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba&#x27;s JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the …",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVdPXrvOB3xbf282jC7eawBsl-YwExczqZ471NiKOResjulD8TvOSelU5VGbgoHqVhNLaigBkE2N50AFtSqbOoXUQTtxgIHO05jYpTn5VyG4BPhlr1CbscCn4g8S3I4jdZ1_p67zSM91K25xq1X4-btuY3tFgVseyO-aLWlsdvZaNkwAhyphenhyphenafk4DH2l6Fs/s1700-e365/fastjson.gif"
+    },
+    {
+        "titulo": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-07-25",
+        "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
+        "resumo": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. &quot;Attackers chain a pr…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIGAlXgFCqm8atTe__HpWBiCWISmrPOazxOVBMF-_YNrP2goBbW_4PSwGzw1Ndyue4qrnQnqrQyAR4DTaAdaiJPlVUZi7M_iceb4fqofWK0sGRLO9CHnj0lngtxdlC-tKqrppqFaKIkct2vOtGn_o5kbNa4fj-dutt8PMjiO5TVBw895aLg0TOJb8TKKtv/s1700-e365/cyberattack.jpg"
+    },
+    {
         "titulo": "From Marketing Playbook To Cyber Weapon: How Claude AI Agents Are Redefining Offensive Security And IT Automation + Video",
         "fonte": "Undercodetesting.com",
         "autor": "Hackmon Ai",
@@ -124,59 +178,5 @@
         "url": "https://www.imperva.com/blog/imperva-customers-protected-against-cve-2026-16723-critical-fastjson-1-x-zero-day-rce/",
         "resumo": "TL;DR: A critical remote code execution vulnerability has been disclosed in FastJson, a widely used JSON processing library for Java. The vulnerability, assigned CVE-2026-16723 with a CVSS score of 9.0 (Critical), affects FastJson versions 1.2.68 through 1.2.…",
         "imagem": "https://www.imperva.com/blog/wp-content/uploads/sites/9/2026/07/Screenshot-2026-07-24-at-11.14.22-AM.png"
-    },
-    {
-        "titulo": "OpenAI’s rogue AI agent hacked Hugging Face for entire weekend before anyone noticed",
-        "fonte": "4sysops.com",
-        "autor": "IT News",
-        "data": "2026-07-24",
-        "url": "https://4sysops.com/archives/openais-rogue-ai-agent-hacked-hugging-face-for-entire-weekend-before-anyone-noticed/",
-        "resumo": "OpenAI’s autonomous agent spent an entire weekend pursuing a way out of its sandbox and attacking Hugging Face before the activity was detected, raising a more practical concern than the sci-fi framing: monitoring failed to catch the behavior promptly. It had…",
-        "imagem": "https://4sysops.com/wp-content/uploads/2026/07/openais-rogue-ai-agent-hacked-hugging-face-for-entire-weekend-before-anyone-noticed.webp"
-    },
-    {
-        "titulo": "Anthropic launches Claude Opus 5 with near Fable performance at half the price",
-        "fonte": "Crypto Briefing",
-        "autor": "Estefano Gomez",
-        "data": "2026-07-24",
-        "url": "https://cryptobriefing.com/anthropic-launches-claude-opus-5-with-near-fable-performance-at-half-the-price/",
-        "resumo": "Anthropic launches Claude Opus 5 with stronger coding and knowledge work performance, near Fable 5 capabilities and the same pricing as Opus 4.8. The post Anthropic launches Claude Opus 5 with near Fable performance at half the price appeared first on Crypto …",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/11155243/anthropic-claude-800x420.jpeg"
-    },
-    {
-        "titulo": "Pope&#x27;s prayer app leaking data on 720k users...",
-        "fonte": "San.com",
-        "autor": "straight arrow",
-        "data": "2026-07-24",
-        "url": "https://san.com/cc/the-popes-prayer-app-has-been-leaking-its-users-info-for-months/",
-        "resumo": "A vulnerability in the pope’s official prayer app has reportedly left its nearly 720,000 users&#x27; information exposed.",
-        "imagem": "https://san.com/wp-content/uploads/2026/07/072426-Popes-Prayer-App_FI.jpg"
-    },
-    {
-        "titulo": "Claude Opus 5",
-        "fonte": "Anthropic.com",
-        "autor": "meetpateltech",
-        "data": "2026-07-24",
-        "url": "https://www.anthropic.com/news/claude-opus-5",
-        "resumo": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
-        "imagem": "https://cdn.sanity.io/images/4zrzovbb/website/54b7ab1d2c2521f83ae5d2da5f9d99321c370d24-2880x1620.png"
-    },
-    {
-        "titulo": "TAC InfoSec to Acquire Israel-Based B2C Cybersecurity Firm Safehouse Technologies",
-        "fonte": "BusinessLine",
-        "autor": "",
-        "data": "2026-07-24",
-        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/tac-infosec-to-acquire-israel-based-b2c-cybersecurity-firm-safehouse-technologies/article71263270.ece",
-        "resumo": "Acquisition marks TAC Security’s strategic entry into consumer cybersecurity as digital threats move from enterprises to individuals, families, and everyday internet users",
-        "imagem": "https://th-i.thgim.com/public/incoming/m7gxmu/article71263266.ece/alternates/LANDSCAPE_1200/TAC%20Security%20Acquires%20Safehouse%20Technologies.jpeg"
-    },
-    {
-        "titulo": "Confidential computing and the new regulatory focus on data in use",
-        "fonte": "Ubuntu.com",
-        "autor": "Ijlal Loutfi (Ijlal Loutfi)",
-        "data": "2026-07-24",
-        "url": "https://ubuntu.com/blog/confidential-computing-and-the-new-regulatory-focus-on-data-in-use",
-        "resumo": "Most organizations already understand encryption at rest and encryption in transit. These controls are mature, widely deployed, and often explicitly referenced in security frameworks. However, runtime is different: when an application processes sensitive info…",
-        "imagem": "https://ubuntu.com/wp-content/uploads/d45c/cover-image.png"
     }
 ]
