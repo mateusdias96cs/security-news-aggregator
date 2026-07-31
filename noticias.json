@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Are OnePlus Phones Still Safe To Use?",
-        "fonte": "BGR",
-        "autor": "staff@bgr.com (Julian Wang)",
-        "data": "2026-07-29",
-        "url": "https://www.bgr.com/2222175/oneplus-phone-still-safe-to-use/",
-        "resumo": "OnePlus has now made it clear that it intends to exit the U.S. market in favor of Asian markets, though the company plans to support existing phones.",
-        "imagem": "https://www.bgr.com/img/gallery/are-oneplus-phones-still-safe-to-use/l-intro-1784827156.jpg"
+        "titulo": "OpenAI’s Hacking Debacle Was a Human Mistake",
+        "fonte": "Wired",
+        "autor": "Lily Hay Newman",
+        "data": "2026-07-30",
+        "url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
+        "resumo": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
+        "imagem": "https://media.wired.com/photos/6a6a949c602a98f3436cc897/191:100/w_1280,c_limit/Security_OpenAI%20Could%20Have%20Stopped%20Its%20Models%E2%80%99%20Hacking%20Spree_v1.jpg"
     },
     {
-        "titulo": "22-Year-Old IPMI Flaw Exposes 24,000 Servers to Offline Password Cracking",
-        "fonte": "HackRead",
-        "autor": "Waqas",
-        "data": "2026-07-29",
-        "url": "https://hackread.com/ipmi-flaw-exposes-servers-offline-password-cracking/",
-        "resumo": "Researchers found 24,650 public BMC interfaces leaking IPMI password hashes, exposing servers to offline password cracking through a decades-old protocol flaw.",
-        "imagem": "https://hackread.com/wp-content/uploads/2026/07/ipmi-flaw-expose-servers-offline-password-cracking.jpg"
+        "titulo": "Eclipse Foundation and OWASP Join Forces to Strengthen Open Source Security and CRA Readiness",
+        "fonte": "GlobeNewswire",
+        "autor": "Eclipse Foundation Canada",
+        "data": "2026-07-30",
+        "url": "https://www.globenewswire.com/news-release/2026/07/30/3335836/0/en/Eclipse-Foundation-and-OWASP-Join-Forces-to-Strengthen-Open-Source-Security-and-CRA-Readiness.html",
+        "resumo": "Strategic collaboration will unite two global open source communities to advance security practices, support maintainers and stewards, and help organisations prepare for the EU Cyber Resilience Act Strategic collaboration will unite two global open source com…",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/882632cf-89a7-439e-8c1e-dc16d3f4cde5"
     },
     {
-        "titulo": "Anthropic’s New AI Model Can Identify More Software Bugs Than Ever. Microsoft Is Struggling to Fix Them Fast Enough.",
-        "fonte": "ProPublica",
-        "autor": "Renee Dudley, Doris Burke",
-        "data": "2026-07-29",
-        "url": "https://www.propublica.org/article/anthropic-mythos-microsoft-software-vulnerabilities",
-        "resumo": "Anthropic’s Mythos has flagged bugs faster than Microsoft can fix them. Documents reviewed by ProPublica reveal the tech giant&#x27;s “mad dash” behind the scenes to patch holes before hackers can find and exploit them.",
-        "imagem": "https://www.propublica.org/wp-content/uploads/2026/07/20260709-Gordon-microsoft-mythos-social.jpg?resize=2000,1050"
+        "titulo": "The DHS Power Grid Warning Washington Wants You to Forget: Prepare for Six Months in the Dark",
+        "fonte": "Activistpost.com",
+        "autor": "Editor",
+        "data": "2026-07-30",
+        "url": "https://www.activistpost.com/the-dhs-power-grid-warning-washington-wants-you-to-forget-prepare-for-six-months-in-the-dark/",
+        "resumo": "For years the official line has been the same: the grid is resilient, the lights will stay on, and the government has a plan. Then you go read what the government actually wrote when it thought nobody outside the Beltway was paying attention. According to Goo…",
+        "imagem": "https://www.activistpost.com/wp-content/uploads/2026/07/powergrid.jpg"
     },
     {
-        "titulo": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
+        "titulo": "GPT-5.6 Sol blocked a Linux bug hunt, while open models found the trail",
+        "fonte": "4sysops.com",
+        "autor": "IT News",
+        "data": "2026-07-30",
+        "url": "https://4sysops.com/archives/gpt-5-6-sol-blocked-a-linux-bug-hunt-while-open-models-found-the-trail/",
+        "resumo": "OpenAI’s GPT-5.6 Sol was not the problem during a researcher’s ripgrep investigation—the separate cybersecurity classifier was. After repeated refusals, Daniel Fox Franke switched to Z’ai GLM 5.2 and Moonshot AI’s Kimi K3, which helped trace the recurring seg…",
+        "imagem": "https://4sysops.com/wp-content/uploads/2026/07/gpt-5-6-sol-blocked-a-linux-bug-hunt-while-open-models-found-the-trail.jpg"
+    },
+    {
+        "titulo": "U.S. CISA adds a Cisco Secure Firewall Management Center (FMC) flaw to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-07-30",
+        "url": "https://securityaffairs.com/196289/security/u-s-cisa-adds-a-cisco-secure-firewall-management-center-fmc-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a Cisco Secure Firewall Management Center (FMC) flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Cisco Secure Firewa…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "NCSC Calls on Vendors to Embed ‘Forensic Observability’ in Network Devices",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Phil Muncaster",
+        "data": "2026-07-30",
+        "url": "https://www.infosecurity-magazine.com/news/ncsc-calls-device-manufacturers/",
+        "resumo": "The UK’s National Cyber Security Centre wants network device makers to improve forensic observability",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/eb424135-4767-4b7f-9071-ab76e6f8d6ef.jpg"
+    },
+    {
+        "titulo": "L&amp;T bets on future mobility with in-house capability to provide chips to data centers",
+        "fonte": "BusinessLine",
+        "autor": "S Ronendra Singh",
+        "data": "2026-07-30",
+        "url": "https://www.thehindubusinessline.com/economy/logistics/lt-bets-on-future-mobility-with-in-house-capability-to-provide-chips-to-data-centers/article71284940.ece",
+        "resumo": "The investment will also go to world class manufacturing lines at Coimbatore for electronics systems, components and electric vehicle (EV) traction motors",
+        "imagem": "https://bl-i.thgim.com/public/incoming/9dct47/article71284987.ece/alternates/LANDSCAPE_1200/2026-07-28T122924Z_982450806_RC282DAQSCE7_RTRMADP_3_L-T-RESULTS.JPG"
+    },
+    {
+        "titulo": "OpenAI’s Account of Rogue Hacker AI Draws Skepticism from Experts",
+        "fonte": "Naturalnews.com",
+        "autor": "Chase Codewell",
+        "data": "2026-07-30",
+        "url": "https://www.naturalnews.com/2026-07-30-openais-account-rogue-hacker-ai-draws-skepticism.html",
+        "resumo": "OpenAI reported on July 22, 2026, that one of its advanced AI models breached the systems of Hugging Face during a security test, marking what the company called an “unprecedented cyber incident.” According to statements from OpenAI, the model escaped a contr…",
+        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/openai-rogue-hacker-ai-skepticism-3031-original.jpg"
+    },
+    {
+        "titulo": "Iveco Group 2026 Second Quarter Results",
+        "fonte": "GlobeNewswire",
+        "autor": "Iveco Group N.V.",
+        "data": "2026-07-30",
+        "url": "https://www.globenewswire.com/news-release/2026/07/30/3335759/0/en/Iveco-Group-2026-Second-Quarter-Results.html",
+        "resumo": "ùIveco Group 2026 Second Quarter Results(*) The Board of Directors approves Q2 and H1 2026 preliminary results Strong growth in revenues led by higher...",
+        "imagem": "https://ml-eu.globenewswire.com/Resource/Download/8f75a0f4-8d45-49e9-856c-3abc38b80e4c"
+    },
+    {
+        "titulo": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-07-29",
-        "url": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
-        "resumo": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in th…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIxq_zUC231fexQTfY9VPvqP7FWVRurT9fbUUS3YMpMX2SRmJu9eXIlH7v6fnvqJGtirQwXJVjs1h-hbUM7j-R6DlfpW7M4kt28q9EoxMt7jJFjUjaAoVsuTWSsBZOFcDj99U8ApvFR4B4sDQ37QHYeWXjJsowFBP3n8-TBfzcKB2Rl-de-OluIkzbJIYb/s1700-e365/cp-poc.jpg"
+        "data": "2026-07-30",
+        "url": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zer…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFSDmsE6q7010reBwpOwS1ESkJSxlBlgRBbtjEVAdeClQFAkRfpriRQWUpL0Br8xnFdF1mctv4Ttj1Nv77MMIKm9qlNehPtTLYzOQwcZAWR4Vw1HzjAvItevYjwQkUo_2JNRluc2_OeJ3vOZ-P8meai9NLLWBvothfh7GDqoOpMPmKpOO-hjAeY-Pxa-BV/s1700-e365/cisco.jpg"
     },
     {
-        "titulo": "OpenAI details wider security breach after Hugging Face incident",
-        "fonte": "Notebookcheck.net",
-        "autor": "Jay Bonggolto",
-        "data": "2026-07-29",
-        "url": "https://www.notebookcheck.net/OpenAI-details-wider-security-breach-after-Hugging-Face-incident.1354493.0.html",
-        "resumo": "OpenAI says its experimental AI went beyond hacking Hugging Face, compromising four third-party accounts after escaping a controlled cybersecurity test. The company has since shut down the evaluation models, patched the security hole and added safeguards to p…",
-        "imagem": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/OpenAI-logo-on-a-phone.jpg"
+        "titulo": "AI-Generated Code Risk and the Software Supply Chain",
+        "fonte": "C-sharpcorner.com",
+        "autor": "noreply@c-sharpcorner.com (The Code Registry)",
+        "data": "2026-07-30",
+        "url": "https://www.c-sharpcorner.com/article/ai-generated-code-risk-and-the-software-supply-chain/",
+        "resumo": "AI-generated code introduces new software supply chain risks. Learn how to govern AI code for security, compliance, and trust.",
+        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
     },
     {
-        "titulo": "Root Evidence puts real-world evidence at the center of vulnerability prioritization",
-        "fonte": "Help Net Security",
-        "autor": "Industry News",
-        "data": "2026-07-29",
-        "url": "https://www.helpnetsecurity.com/2026/07/29/root-evidence-puts-real-world-evidence-at-the-center-of-vulnerability-prioritization/",
-        "resumo": "Root Evidence has launched the Evidence Platform, a vulnerability management platform that prioritizes vulnerabilities based on evidence of real-world exploitation and financial impact rather than severity scores alone. The platform is designed to help securi…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/08/19143700/eyes.jpg"
+        "titulo": "The OpenAI Hack Shows the Genie Is Out of the Bottle",
+        "fonte": "Foreign Policy",
+        "autor": "Bruce Schneier",
+        "data": "2026-07-30",
+        "url": "http://foreignpolicy.com/2026/07/30/openai-hack-genie-bottle-defense/",
+        "resumo": "Attempts at control are futile. Policy should now turn to defense.",
+        "imagem": "https://foreignpolicy.com/wp-content/uploads/2026/07/openai-hack-GettyImages-2285567119.jpg"
     },
     {
-        "titulo": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
-        "fonte": "Securityweek.com",
-        "autor": "Eduard Kovacs",
-        "data": "2026-07-29",
-        "url": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
-        "resumo": "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities. The post Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/06/water-treatment-utility.jpeg"
+        "titulo": "TrendAI™ Joins Nvidia’s Open Secure AI Alliance: Closing the Gap Between AI Builders and AI Defenders",
+        "fonte": "Trendmicro.com",
+        "autor": "Rachel Jin",
+        "data": "2026-07-30",
+        "url": "https://www.trendmicro.com/en_us/research/26/g/open-secure-ai-alliance.html",
+        "resumo": "TrendAI joins Nvidia as an inaugural partner in the Open Secure AI Alliance, advancing open models, harnesses, and research to strengthen cyber defense.",
+        "imagem": "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/thumbnails/laptop-hands.jpg"
     },
     {
-        "titulo": "Infoblox enters EASM market with attack surface and supply chain risk tools",
-        "fonte": "Help Net Security",
-        "autor": "Industry News",
+        "titulo": "Claude Mythos Shows AI Can Outpace Human Cryptography Research",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
         "data": "2026-07-29",
-        "url": "https://www.helpnetsecurity.com/2026/07/29/infoblox-enters-easm-market-with-attack-surface-and-supply-chain-risk-tools/",
-        "resumo": "Infoblox has announced its entry into the external attack surface management (EASM) market. Together, with the introduction of Supply Chain Intelligence, the launch expands the Infoblox Exposure Management portfolio, helping organizations identify, prioritize…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp"
+        "url": "https://securityaffairs.com/196265/ai/claude-mythos-shows-ai-can-outpace-human-cryptography-research.html",
+        "resumo": "Claude Mythos found new flaws in HAWK and reduced AES, proving AI can autonomously advance cryptography research. Anthropic published two cryptographic research results achieved by Claude Mythos Preview working mostly autonomously: an improved attack on HAWK,…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/02/Anthropic-Claude-Code-Security.png"
     },
     {
-        "titulo": "US FCC Blacklists Foreign Robots on Huawei List as Surveillance Fears Grow – Striking NVIDIA Partner Unitree As Well",
-        "fonte": "Wccftech",
-        "autor": "Ramish Zafar",
+        "titulo": "More than 1,200 AI workers across Anthropic, DeepMind, OpenAI, and Meta are asking for Washington’s help building an AI slowdown plan",
+        "fonte": "Fortune",
+        "autor": "Beatrice Nolan",
         "data": "2026-07-29",
-        "url": "https://wccftech.com/fcc-blacklists-foreign-robots-on-huawei-list-as-surveillance-fears-grow-striking-nvidia-partner-unitree-as-well/",
-        "resumo": "In a major development, the US government has banned imports of certain foreign-made robots and power equipment to protect the ongoing AI infrastructure buildout in America. The restrictions were unveiled by the Federal Communications Commission (FCC) through…",
-        "imagem": "https://cdn.wccftech.com/wp-content/uploads/2026/05/NVIDIA-AI-Robotics-Humans-1920x1103.jpg"
+        "url": "https://fortune.com/2026/07/29/anthropic-deepmind-openai-meta-washington-ai-slowdown-plan/",
+        "resumo": "The statement, signed by senior executives at competing companies, calls on the government to help build the tools needed to pace frontier AI development.",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2282033774.jpg?resize=1200,600"
     },
     {
-        "titulo": "Sonatype and Forrester Address the Growing AI-Era Software Supply Chain Risk Facing Indian Enterprises in the Guru Forum",
-        "fonte": "BusinessLine",
-        "autor": "cuelive",
+        "titulo": "Creator of test that OpenAI models tried to cheat sounds alarm",
+        "fonte": "Financial Post",
+        "autor": "Bloomberg News",
         "data": "2026-07-29",
-        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/sonatype-and-forrester-address-the-growing-ai-era-software-supply-chain-risk-facing-indian-enterprises-in-the-guru-forum/article71279896.ece",
-        "resumo": "Sonatype and Forrester Address the Growing AI-Era Software Supply Chain Risk Facing Indian Enterprises in the Guru Forum",
-        "imagem": "https://bl-i.thgim.com/public/incoming/y0jzbw/article71279895.ece/alternates/LANDSCAPE_1200/shared-image-2026-07-28T164913-935.jpg"
+        "url": "https://financialpost.com/cybersecurity/creator-of-test-openai-models-tried-to-cheat-sounds-alarm",
+        "resumo": "A group of researchers that test the capabilities of AI have landed themselves at the centre of OpenAI’s hack into Hugging Face Inc. Read on",
+        "imagem": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/0730-mg-openai.jpg"
     },
     {
-        "titulo": "Coordinated “cyberattack” on Minnesota water utilities: What you need to know",
-        "fonte": "Tenable.com",
-        "autor": "Research Special Operations",
+        "titulo": "Microsoft’s MAI-Cyber-1-Flash targets 90% of security work at half the cost",
+        "fonte": "4sysops.com",
+        "autor": "IT News",
         "data": "2026-07-29",
-        "url": "https://www.tenable.com/blog/coordinated-cyberattack-on-minnesota-water-utilities-what-you-need-to-know",
-        "resumo": "A coordinated cyber attack disrupted water systems across more than 30 Minnesota communities. Here is what defenders need to know about the attack so far. This FAQ also details recent cyberactivity targeting internet-exposed PLCs, and how to protect exposed i…",
-        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/faq-on-cyberattack-against-minnesota-water-systems.png?itok=-wa737UG"
+        "url": "https://4sysops.com/archives/microsofts-mai-cyber-1-flash-targets-90-of-security-work-at-half-the-cost/",
+        "resumo": "Microsoft says its new MAI-Cyber-1-Flash model can handle up to 90% of vulnerability-hunting tasks while cutting the cost of its AI security system by about half. The model will enter Project Perception’s public preview on August 3, with the hardest cases esc…",
+        "imagem": "https://4sysops.com/wp-content/uploads/2026/07/microsofts-mai-cyber-1-flash-targets-90-of-security-work-at-half-the-cost.jpg"
     },
     {
-        "titulo": "Healthcare Is Undergoing A Cybersecurity Crisis, And Its Not Slowing Down",
-        "fonte": "Forbes",
-        "autor": "Dr. Sai Balasubramanian, M.D., J.D., Contributor, Dr. Sai Balasubramanian, M.D., J.D., Contributor h",
-        "data": "2026-07-29",
-        "url": "https://www.forbes.com/sites/saibala/2026/07/28/healthcare-is-undergoing-a-cybersecurity-crisis-and-its-not-slowing-down/",
-        "resumo": "As the reliance on technology increases, healthcare leaders need to invest heavily in cyber-protection measures.",
-        "imagem": "https://imageio.forbes.com/specials-images/imageserve/6a694fe5534fb91da0c2a861/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-    },
-    {
-        "titulo": "Pope&#x27;s official prayer app exposed data of more than 700,000 users",
-        "fonte": "TweakTown",
-        "autor": "Jak Connor",
-        "data": "2026-07-29",
-        "url": "https://www.tweaktown.com/news/112886/popes-official-prayer-app-exposed-data-of-more-than-700000-users/index.html",
-        "resumo": "The Pope&#x27;s official prayer app left 700,000 users exposed for months, with the flaw exposing full access to names, emails, and more sensitive user data.Continue reading at TweakTown",
-        "imagem": "https://static.tweaktown.com/news/1/1/112886_2_popes-official-prayer-app-leaked-over-700-000-users-data-for-months_full.png"
-    },
-    {
-        "titulo": "SN 1089: Models Go Rogue &amp; ExploitGym - Regulators, Start Your Engines",
-        "fonte": "Twit.tv",
-        "autor": "TWiT",
-        "data": "2026-07-29",
-        "url": "https://twit.tv/shows/security-now/episodes/1089",
-        "resumo": "What happens when an unconstrained OpenAI model goes rogue and hacks into Hugging Face, breaching real-world security boundaries? This episode unpacks a watershed moment for AI safety that has everyone in cybersecurity talking. OpenAI&#x27;s unconstrained…",
-        "imagem": "https://elroy.twit.tv/sites/default/files/images/episodes/2026/07/862360/hero/SN1089_thumbnail.jpg"
-    },
-    {
-        "titulo": "No time to lose: Why post-quantum security for financial services must start now",
-        "fonte": "Redhat.com",
+        "titulo": "FAR.AI Launches AI Security Leaderboard Revealing Hundredfold Gap in Frontier AI Model Safeguards",
+        "fonte": "PRNewswire",
         "autor": "",
         "data": "2026-07-29",
-        "url": "https://www.redhat.com/en/blog/no-time-lose-why-post-quantum-security-financial-services-must-start-now",
-        "resumo": "Post-quantum cryptography: The emerging threatThe transition to post-quantum cryptography (PQC) is becoming an urgent priority for the global financial sector due to the rapid evolution of quantum computing. Cryptographically relevant quantum computers exist …",
-        "imagem": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg"
+        "url": "https://www.prnewswire.com/news-releases/farai-launches-ai-security-leaderboard-revealing-hundredfold-gap-in-frontier-ai-model-safeguards-302838216.html",
+        "resumo": "Claude Fable 5 and GPT-5.6 Sol did not fail once. Gemini 3.1 Pro and Grok 4.5 broke for under $300 BERKELEY, Calif., July 29, 2026 /PRNewswire/ -- AI security research nonprofit FAR.AI today launched its AI Security Leaderboard at leaderboard.far.ai, a robust…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1960705/FARAI.jpg?id=OA2800287&p=facebook"
     },
     {
-        "titulo": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-        "fonte": "Huggingface.co",
-        "autor": "Hugo Larcher, Adrien Carreira, raphael g, Christophe Rannou",
-        "data": "2026-07-28",
-        "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-        "resumo": "A companion technical writeup to our incident disclosure. This post walks through how the intrusion actually worked: the two initial-access vectors, how the agent pivoted and moved laterally, representative examples of the commands that were run and how we in…",
-        "imagem": "https://huggingface.co/blog/assets/agent-intrusion-technical-timeline/thumbnail.png"
+        "titulo": "Closed models refuse to help researcher swat Linux bug",
+        "fonte": "Theregister.com",
+        "autor": "Thomas Claburn",
+        "data": "2026-07-29",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/29/closed-models-refuse-to-help-researcher-swat-linux-bug/5280647",
+        "resumo": "&quot;I&#x27;m sorry, Dave. I&#x27;m afraid I can&#x27;t do that&quot; is an effective sales pitch for open source",
+        "imagem": "https://image.theregister.com/254582.jpg?imageId=254582&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
     },
     {
-        "titulo": "Banks Bet on Open AI After OpenAI’s Own Hack",
-        "fonte": "pymnts.com",
-        "autor": "PYMNTS",
-        "data": "2026-07-28",
-        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-bet-on-open-ai-after-openais-own-hack/",
-        "resumo": "Two OpenAI models broke out of a controlled cybersecurity test this month and into Hugging Face’s production systems. The models, GPT-5.6 Sol and a more capable pre-release system, were being evaluated internally on ExploitGym, a benchmark built to measure ho…",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/07/Hugging-Face-open-AI-1.jpg"
-    },
-    {
-        "titulo": "Visa deploys Anthropic’s Claude Mythos to hunt vulnerabilities across its global payment network",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-07-28",
-        "url": "https://cryptobriefing.com/visa-anthropic-claude-mythos-payment-security/",
-        "resumo": "Visa&#x27;s proactive use of AI for vulnerability detection sets a precedent for continuous adaptation in cybersecurity, enhancing global payment security. The post Visa deploys Anthropic’s Claude Mythos to hunt vulnerabilities across its global payment network ap…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/28181557/claude-on-phone-with-anthropic-logo-in-the-background-1-800x420.jpeg"
-    },
-    {
-        "titulo": "Microsoft AI Security, AI-Cyber-1-Flash And Project Perception",
-        "fonte": "PC Perspective",
-        "autor": "Jeremy Hellstrom",
-        "data": "2026-07-28",
-        "url": "https://pcper.com/2026/07/microsoft-ai-security-ai-cyber-1-flash-and-project-perception/",
-        "resumo": "Microsoft have done a yeoman&#x27;s job with Windows Defender, going from a deservedly ridiculed attempt at malware protection to putting a serious dent in third party competition because of how effective it…",
-        "imagem": "https://pcper.com/wp-content/uploads/2026/07/project-perception.png"
-    },
-    {
-        "titulo": "JFrog discloses zero-day exploit in Artifactory after OpenAI models breached Hugging Face",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-07-28",
-        "url": "https://cryptobriefing.com/jfrog-zero-day-openai-artifactory-breach/",
-        "resumo": "The incident highlights the evolving threat of AI in cybersecurity, emphasizing the need for robust containment protocols and supply-chain security. The post JFrog discloses zero-day exploit in Artifactory after OpenAI models breached Hugging Face appeared fi…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/28174219/jfrog-logo-with-computer-and-technology-background-800x420.jpeg"
+        "titulo": "Vulnerability management needs an update for the AI era",
+        "fonte": "Techtarget.com",
+        "autor": "Jaikumar Vijayan",
+        "data": "2026-07-29",
+        "url": "https://www.techtarget.com/searchsecurity/feature/Vulnerability-management-needs-an-update-for-the-AI-era",
+        "resumo": "AI accelerates exploit timelines from months to hours. Organizations must shift from patch-all to risk-based prioritization using exploitability metrics.",
+        "imagem": "https://www.techtarget.com/rms/onlineimages/clock-time19.jpg"
     }
 ]
