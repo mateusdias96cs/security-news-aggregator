@@ -1,182 +1,173 @@
 [
     {
-        "titulo": "OpenAI’s Hacking Debacle Was a Human Mistake",
-        "fonte": "Wired",
-        "autor": "Lily Hay Newman",
-        "data": "2026-07-30",
-        "url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
-        "resumo": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
-        "imagem": "https://media.wired.com/photos/6a6a949c602a98f3436cc897/191:100/w_1280,c_limit/Security_OpenAI%20Could%20Have%20Stopped%20Its%20Models%E2%80%99%20Hacking%20Spree_v1.jpg"
+        "titulo": "Anthropic’s Claude breached three companies during security tests",
+        "fonte": "Help Net Security",
+        "autor": "Sinisa Markovic",
+        "data": "2026-07-31",
+        "url": "https://www.helpnetsecurity.com/2026/07/31/anthropic-claude-cybersecurity-incidents/",
+        "resumo": "Anthropic has disclosed that its AI model Claude gained unauthorized access to the systems of three different organizations during cybersecurity evaluations. The disclosure follows OpenAI’s July 21 announcement that some of its models had escaped an isolated …",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/04/16081836/claude-veritication-1500.webp"
     },
     {
-        "titulo": "Eclipse Foundation and OWASP Join Forces to Strengthen Open Source Security and CRA Readiness",
-        "fonte": "GlobeNewswire",
-        "autor": "Eclipse Foundation Canada",
-        "data": "2026-07-30",
-        "url": "https://www.globenewswire.com/news-release/2026/07/30/3335836/0/en/Eclipse-Foundation-and-OWASP-Join-Forces-to-Strengthen-Open-Source-Security-and-CRA-Readiness.html",
-        "resumo": "Strategic collaboration will unite two global open source communities to advance security practices, support maintainers and stewards, and help organisations prepare for the EU Cyber Resilience Act Strategic collaboration will unite two global open source com…",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/882632cf-89a7-439e-8c1e-dc16d3f4cde5"
+        "titulo": "Anthropic&#x27;s AI Model Hacks 3 Real Systems During Training",
+        "fonte": "Sputnikglobe.com",
+        "autor": "Sputnik International",
+        "data": "2026-07-31",
+        "url": "https://sputnikglobe.com/20260731/anthropics-ai-model-hacks-3-real-systems-during-training-1124522036.html",
+        "resumo": "WASHINGTON (Sputnik) - US artificial intelligence lab Anthropic said an internal investigation revealed that its Claude AI model had hacked into real-world systems on three occasions during training.",
+        "imagem": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124522036.jpg?10550481161785489770"
     },
     {
-        "titulo": "The DHS Power Grid Warning Washington Wants You to Forget: Prepare for Six Months in the Dark",
-        "fonte": "Activistpost.com",
-        "autor": "Editor",
-        "data": "2026-07-30",
-        "url": "https://www.activistpost.com/the-dhs-power-grid-warning-washington-wants-you-to-forget-prepare-for-six-months-in-the-dark/",
-        "resumo": "For years the official line has been the same: the grid is resilient, the lights will stay on, and the government has a plan. Then you go read what the government actually wrote when it thought nobody outside the Beltway was paying attention. According to Goo…",
-        "imagem": "https://www.activistpost.com/wp-content/uploads/2026/07/powergrid.jpg"
+        "titulo": "Anthropic&#x27;s AI hacked 3 companies during tests, highlighting growing security risks",
+        "fonte": "CBC News",
+        "autor": "",
+        "data": "2026-07-31",
+        "url": "https://www.cbc.ca/news/business/anthropic-claude-hack-9.7291801",
+        "resumo": "The latest disclosure underscores how AI has increased threats to cybersecurity and how its developers can struggle to keep the capabilities of their models contained.",
+        "imagem": "https://i.cbc.ca/ais/e5a6706f-afc0-455a-9563-991e4d7ce723,1785474908952/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C157%2C3000%2C1687%29%3BResize%3D620"
     },
     {
-        "titulo": "GPT-5.6 Sol blocked a Linux bug hunt, while open models found the trail",
-        "fonte": "4sysops.com",
-        "autor": "IT News",
-        "data": "2026-07-30",
-        "url": "https://4sysops.com/archives/gpt-5-6-sol-blocked-a-linux-bug-hunt-while-open-models-found-the-trail/",
-        "resumo": "OpenAI’s GPT-5.6 Sol was not the problem during a researcher’s ripgrep investigation—the separate cybersecurity classifier was. After repeated refusals, Daniel Fox Franke switched to Z’ai GLM 5.2 and Moonshot AI’s Kimi K3, which helped trace the recurring seg…",
-        "imagem": "https://4sysops.com/wp-content/uploads/2026/07/gpt-5-6-sol-blocked-a-linux-bug-hunt-while-open-models-found-the-trail.jpg"
+        "titulo": "Anthropic says its own Claude models breached three companies during cyber tests",
+        "fonte": "The Next Web",
+        "autor": "Ana-Maria Stanciuc",
+        "data": "2026-07-31",
+        "url": "https://thenextweb.com/news/anthropic-claude-breached-three-companies-tests/",
+        "resumo": "Anthropic has disclosed that three of its Claude models gained unauthorized access to the production systems of three real organisations during cybersecurity tests, after a misconfiguration left the testing environment connected to the live internet. The comp…",
+        "imagem": "https://media.thenextweb.com/2026/07/Anthropic-logo.avif"
     },
     {
-        "titulo": "U.S. CISA adds a Cisco Secure Firewall Management Center (FMC) flaw to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-07-30",
-        "url": "https://securityaffairs.com/196289/security/u-s-cisa-adds-a-cisco-secure-firewall-management-center-fmc-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a Cisco Secure Firewall Management Center (FMC) flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Cisco Secure Firewa…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "NCSC Calls on Vendors to Embed ‘Forensic Observability’ in Network Devices",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Phil Muncaster",
-        "data": "2026-07-30",
-        "url": "https://www.infosecurity-magazine.com/news/ncsc-calls-device-manufacturers/",
-        "resumo": "The UK’s National Cyber Security Centre wants network device makers to improve forensic observability",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/eb424135-4767-4b7f-9071-ab76e6f8d6ef.jpg"
-    },
-    {
-        "titulo": "L&amp;T bets on future mobility with in-house capability to provide chips to data centers",
-        "fonte": "BusinessLine",
-        "autor": "S Ronendra Singh",
-        "data": "2026-07-30",
-        "url": "https://www.thehindubusinessline.com/economy/logistics/lt-bets-on-future-mobility-with-in-house-capability-to-provide-chips-to-data-centers/article71284940.ece",
-        "resumo": "The investment will also go to world class manufacturing lines at Coimbatore for electronics systems, components and electric vehicle (EV) traction motors",
-        "imagem": "https://bl-i.thgim.com/public/incoming/9dct47/article71284987.ece/alternates/LANDSCAPE_1200/2026-07-28T122924Z_982450806_RC282DAQSCE7_RTRMADP_3_L-T-RESULTS.JPG"
-    },
-    {
-        "titulo": "OpenAI’s Account of Rogue Hacker AI Draws Skepticism from Experts",
-        "fonte": "Naturalnews.com",
-        "autor": "Chase Codewell",
-        "data": "2026-07-30",
-        "url": "https://www.naturalnews.com/2026-07-30-openais-account-rogue-hacker-ai-draws-skepticism.html",
-        "resumo": "OpenAI reported on July 22, 2026, that one of its advanced AI models breached the systems of Hugging Face during a security test, marking what the company called an “unprecedented cyber incident.” According to statements from OpenAI, the model escaped a contr…",
-        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/openai-rogue-hacker-ai-skepticism-3031-original.jpg"
-    },
-    {
-        "titulo": "Iveco Group 2026 Second Quarter Results",
-        "fonte": "GlobeNewswire",
-        "autor": "Iveco Group N.V.",
-        "data": "2026-07-30",
-        "url": "https://www.globenewswire.com/news-release/2026/07/30/3335759/0/en/Iveco-Group-2026-Second-Quarter-Results.html",
-        "resumo": "ùIveco Group 2026 Second Quarter Results(*) The Board of Directors approves Q2 and H1 2026 preliminary results Strong growth in revenues led by higher...",
-        "imagem": "https://ml-eu.globenewswire.com/Resource/Download/8f75a0f4-8d45-49e9-856c-3abc38b80e4c"
-    },
-    {
-        "titulo": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-07-30",
-        "url": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zer…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFSDmsE6q7010reBwpOwS1ESkJSxlBlgRBbtjEVAdeClQFAkRfpriRQWUpL0Br8xnFdF1mctv4Ttj1Nv77MMIKm9qlNehPtTLYzOQwcZAWR4Vw1HzjAvItevYjwQkUo_2JNRluc2_OeJ3vOZ-P8meai9NLLWBvothfh7GDqoOpMPmKpOO-hjAeY-Pxa-BV/s1700-e365/cisco.jpg"
-    },
-    {
-        "titulo": "AI-Generated Code Risk and the Software Supply Chain",
-        "fonte": "C-sharpcorner.com",
-        "autor": "noreply@c-sharpcorner.com (The Code Registry)",
-        "data": "2026-07-30",
-        "url": "https://www.c-sharpcorner.com/article/ai-generated-code-risk-and-the-software-supply-chain/",
-        "resumo": "AI-generated code introduces new software supply chain risks. Learn how to govern AI code for security, compliance, and trust.",
-        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
-    },
-    {
-        "titulo": "The OpenAI Hack Shows the Genie Is Out of the Bottle",
-        "fonte": "Foreign Policy",
-        "autor": "Bruce Schneier",
-        "data": "2026-07-30",
-        "url": "http://foreignpolicy.com/2026/07/30/openai-hack-genie-bottle-defense/",
-        "resumo": "Attempts at control are futile. Policy should now turn to defense.",
-        "imagem": "https://foreignpolicy.com/wp-content/uploads/2026/07/openai-hack-GettyImages-2285567119.jpg"
-    },
-    {
-        "titulo": "TrendAI™ Joins Nvidia’s Open Secure AI Alliance: Closing the Gap Between AI Builders and AI Defenders",
-        "fonte": "Trendmicro.com",
-        "autor": "Rachel Jin",
-        "data": "2026-07-30",
-        "url": "https://www.trendmicro.com/en_us/research/26/g/open-secure-ai-alliance.html",
-        "resumo": "TrendAI joins Nvidia as an inaugural partner in the Open Secure AI Alliance, advancing open models, harnesses, and research to strengthen cyber defense.",
-        "imagem": "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/thumbnails/laptop-hands.jpg"
-    },
-    {
-        "titulo": "Claude Mythos Shows AI Can Outpace Human Cryptography Research",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-07-29",
-        "url": "https://securityaffairs.com/196265/ai/claude-mythos-shows-ai-can-outpace-human-cryptography-research.html",
-        "resumo": "Claude Mythos found new flaws in HAWK and reduced AES, proving AI can autonomously advance cryptography research. Anthropic published two cryptographic research results achieved by Claude Mythos Preview working mostly autonomously: an improved attack on HAWK,…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/02/Anthropic-Claude-Code-Security.png"
-    },
-    {
-        "titulo": "More than 1,200 AI workers across Anthropic, DeepMind, OpenAI, and Meta are asking for Washington’s help building an AI slowdown plan",
-        "fonte": "Fortune",
-        "autor": "Beatrice Nolan",
-        "data": "2026-07-29",
-        "url": "https://fortune.com/2026/07/29/anthropic-deepmind-openai-meta-washington-ai-slowdown-plan/",
-        "resumo": "The statement, signed by senior executives at competing companies, calls on the government to help build the tools needed to pace frontier AI development.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2282033774.jpg?resize=1200,600"
-    },
-    {
-        "titulo": "Creator of test that OpenAI models tried to cheat sounds alarm",
-        "fonte": "Financial Post",
-        "autor": "Bloomberg News",
-        "data": "2026-07-29",
-        "url": "https://financialpost.com/cybersecurity/creator-of-test-openai-models-tried-to-cheat-sounds-alarm",
-        "resumo": "A group of researchers that test the capabilities of AI have landed themselves at the centre of OpenAI’s hack into Hugging Face Inc. Read on",
-        "imagem": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/0730-mg-openai.jpg"
-    },
-    {
-        "titulo": "Microsoft’s MAI-Cyber-1-Flash targets 90% of security work at half the cost",
-        "fonte": "4sysops.com",
-        "autor": "IT News",
-        "data": "2026-07-29",
-        "url": "https://4sysops.com/archives/microsofts-mai-cyber-1-flash-targets-90-of-security-work-at-half-the-cost/",
-        "resumo": "Microsoft says its new MAI-Cyber-1-Flash model can handle up to 90% of vulnerability-hunting tasks while cutting the cost of its AI security system by about half. The model will enter Project Perception’s public preview on August 3, with the hardest cases esc…",
-        "imagem": "https://4sysops.com/wp-content/uploads/2026/07/microsofts-mai-cyber-1-flash-targets-90-of-security-work-at-half-the-cost.jpg"
-    },
-    {
-        "titulo": "FAR.AI Launches AI Security Leaderboard Revealing Hundredfold Gap in Frontier AI Model Safeguards",
+        "titulo": "Driven Tech Joins Anthropic&#x27;s Cyber Verification Program to Advance the Future of AI-Powered Cyber Defense",
         "fonte": "PRNewswire",
         "autor": "",
-        "data": "2026-07-29",
-        "url": "https://www.prnewswire.com/news-releases/farai-launches-ai-security-leaderboard-revealing-hundredfold-gap-in-frontier-ai-model-safeguards-302838216.html",
-        "resumo": "Claude Fable 5 and GPT-5.6 Sol did not fail once. Gemini 3.1 Pro and Grok 4.5 broke for under $300 BERKELEY, Calif., July 29, 2026 /PRNewswire/ -- AI security research nonprofit FAR.AI today launched its AI Security Leaderboard at leaderboard.far.ai, a robust…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1960705/FARAI.jpg?id=OA2800287&p=facebook"
+        "data": "2026-07-31",
+        "url": "https://www.prnewswire.com/news-releases/driven-tech-joins-anthropics-cyber-verification-program-to-advance-the-future-of-ai-powered-cyber-defense-302839694.html",
+        "resumo": "NEW YORK, July 31, 2026 /PRNewswire/ -- Driven Tech, Inc., a Security and AI-first technology integrator and managed services provider, today announced it has been selected to join Anthropic&#x27;s Cyber Verification Program (CVP), a global initiative that provide…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1961801/Driven-Tech.jpg?id=OA2818740&p=facebook"
     },
     {
-        "titulo": "Closed models refuse to help researcher swat Linux bug",
-        "fonte": "Theregister.com",
-        "autor": "Thomas Claburn",
-        "data": "2026-07-29",
-        "url": "https://www.theregister.com/ai-and-ml/2026/07/29/closed-models-refuse-to-help-researcher-swat-linux-bug/5280647",
-        "resumo": "&quot;I&#x27;m sorry, Dave. I&#x27;m afraid I can&#x27;t do that&quot; is an effective sales pitch for open source",
-        "imagem": "https://image.theregister.com/254582.jpg?imageId=254582&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        "titulo": "Cyber Firm Wiz Says Flaw Could Have Exposed Thousands of Microsoft Cloud Customers",
+        "fonte": "Insurance Journal",
+        "autor": "Admin",
+        "data": "2026-07-31",
+        "url": "https://www.insurancejournal.com/news/national/2026/07/31/879686.htm",
+        "resumo": "Alphabet-owned cybersecurity company Wiz said on Thursday it had found a sweeping flaw that could have compromised Microsoft and thousands of its cloud customers. Wiz said in a post on its website that a now-patched vulnerability in a key Microsoft …",
+        "imagem": "https://www.insurancejournal.com/app/uploads/2026/02/cloud-technology-concept-43216455-depositphotos-scaled.jpg"
     },
     {
-        "titulo": "Vulnerability management needs an update for the AI era",
-        "fonte": "Techtarget.com",
-        "autor": "Jaikumar Vijayan",
-        "data": "2026-07-29",
-        "url": "https://www.techtarget.com/searchsecurity/feature/Vulnerability-management-needs-an-update-for-the-AI-era",
-        "resumo": "AI accelerates exploit timelines from months to hours. Organizations must shift from patch-all to risk-based prioritization using exploitability metrics.",
-        "imagem": "https://www.techtarget.com/rms/onlineimages/clock-time19.jpg"
+        "titulo": "Gartner: Why cybersecurity must shift to outcomes against AI-led attacks",
+        "fonte": "ComputerWeekly.com",
+        "autor": "Emily Tan",
+        "data": "2026-07-31",
+        "url": "https://www.computerweekly.com/news/366646658/Gartner-Why-cybersecurity-must-shift-to-outcomes-against-AI-led-attacks",
+        "resumo": "Anthropic&#x27;s revelation that a model broke out of its test environment three times and accessed external systems, shows the power of these models",
+        "imagem": "https://www.computerweekly.com/visuals/German/article/Artificial-intelligence-robot-datacenter-adobe.jpg"
+    },
+    {
+        "titulo": "Anthropic Says Claude Hacked Real Systems During Cybersecurity Tests",
+        "fonte": "Wired",
+        "autor": "Louise Matsakis, Lily Hay Newman",
+        "data": "2026-07-31",
+        "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+        "resumo": "In a review triggered by OpenAI&#x27;s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+        "imagem": "https://media.wired.com/photos/6a6bef5432fc2d440b7d5e3e/191:100/w_1280,c_limit/Business_Claude-Escape.jpg"
+    },
+    {
+        "titulo": "Anthropic says its own AI models breached three companies during security tests | TechCrunch",
+        "fonte": "TechCrunch",
+        "autor": "Kirsten Korosec",
+        "data": "2026-07-31",
+        "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+        "resumo": "After OpenAI&#x27;s models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+        "imagem": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
+    },
+    {
+        "titulo": "Cyberattack Hits 30 Minnesota Water Systems as FBI Warns Attacks Have Spread Across Seven States",
+        "fonte": "Offgridsurvival.com",
+        "autor": "OFFGRID Survival",
+        "data": "2026-07-31",
+        "url": "https://offgridsurvival.com/cyberattack-hits-more-than-30-minnesota-water-systems-as-fbi-warns-attacks-have-spread-across-seven-states/",
+        "resumo": "Cyberattack Hits 30 Minnesota Water Systems as FBI Warns Attacks Have Spread Across Seven States A coordinated cyberattack targeted more than 30 Minnesota water systems as the FBI warned similar attacks had spread across at least seven states. This Article Cy…",
+        "imagem": "https://offgridsurvival.com/wp-content/themes/church_10/images/2026/03/waterinfrastructure.jpg"
+    },
+    {
+        "titulo": "Same goals, different clocks: What Red Hat’s 2025 Risk Report reveals about global compliance gaps",
+        "fonte": "Redhat.com",
+        "autor": "",
+        "data": "2026-07-31",
+        "url": "https://www.redhat.com/en/blog/red-hat-2025-risk-report",
+        "resumo": "In April 2026, Red Hat’s Product Security team published its annual Risk Report . I encourage everyone involved in building, shipping, securing, or regulating software to read it–not just for the vulnerability counts, but for what the data collectively says a…",
+        "imagem": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg"
+    },
+    {
+        "titulo": "Investigating three real-world incidents in our cybersecurity evaluations",
+        "fonte": "Anthropic.com",
+        "autor": "",
+        "data": "2026-07-30",
+        "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+        "resumo": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems …",
+        "imagem": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Lock&backgroundColor=heather"
+    },
+    {
+        "titulo": "The agentic SOC for today’s air-gapped environments: rethinking cyber defense in the age of AI",
+        "fonte": "Nextgov",
+        "autor": "Sean MacKirdy",
+        "data": "2026-07-30",
+        "url": "https://www.nextgov.com/ideas/2026/07/agentic-soc-todays-air-gapped-environments-rethinking-cyber-defense-age-ai/415131/",
+        "resumo": "COMMENTARY | If you&#x27;re not using AI to defend against AI, then the adversary has already closed the gap.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/07/30/GettyImages_2287657729/open-graph.jpg"
+    },
+    {
+        "titulo": "What water utilities need to know about cybersecurity compliance",
+        "fonte": "Tenable.com",
+        "autor": "Kate Boronkay",
+        "data": "2026-07-30",
+        "url": "https://www.tenable.com/blog/water-utilities-cybersecurity-regulatory-compliance",
+        "resumo": "As federal enforcement tightens and states begin stepping in with their own cybersecurity mandates, water and wastewater utilities face a looming wave of hard compliance deadlines, compounded by recent cyber attacks on state water utilities.Key takeaways &lt;ol…",
+        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/warning_C.png?itok=4bMq1VWB"
+    },
+    {
+        "titulo": "Why the FCC Could Make Your Next Robot Vacuum Harder to Buy",
+        "fonte": "The Gadgeteer",
+        "autor": "Vincent Nguyen",
+        "data": "2026-07-30",
+        "url": "https://the-gadgeteer.com/2026/07/30/why-the-fcc-could-make-your-next-robot-vacuum-harder-to-buy/",
+        "resumo": "The robot you own didn’t become contraband The FCC’s new restriction sounds broad, but it doesn’t outlaw the robot vacuum or mower you already own. The real question is whether future foreign-produced models can receive the authorization required to reach US …",
+        "imagem": "https://the-gadgeteer.com/wp-content/uploads/2026/07/fcc-robot-vacuum-hero-1.jpg"
+    },
+    {
+        "titulo": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI | TechCrunch",
+        "fonte": "TechCrunch",
+        "autor": "Lorenzo Franceschi-bicchierai",
+        "data": "2026-07-30",
+        "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+        "resumo": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+        "imagem": "https://techcrunch.com/wp-content/uploads/2026/07/google-chrome-logo-hand.jpg?resize=1200,800"
+    },
+    {
+        "titulo": "You were onto something with “It’s the Climb,” Miley",
+        "fonte": "Talosintelligence.com",
+        "autor": "Amy Ciminnisi",
+        "data": "2026-07-30",
+        "url": "https://blog.talosintelligence.com/you-were-onto-something-with-its-the-climb-miley/",
+        "resumo": "Amy hikes Virginia’s most difficult trail and muses on the persistent challenges of cybersecurity. The two aren&#x27;t dissimilar.",
+        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/07/threat_source-3.jpg"
+    },
+    {
+        "titulo": "OpenAI discloses AI system escaped testing and hacked into another tech company",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-07-30",
+        "url": "https://cryptobriefing.com/openai-ai-escaped-testing-hacked-company/",
+        "resumo": "The incident underscores urgent need for robust AI regulations and cybersecurity measures to prevent autonomous AI breaches and protect infrastructures. The post OpenAI discloses AI system escaped testing and hacked into another tech company appeared first on…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/30133506/two-people-collaborating-over-a-laptop-at-the-openai-london--3-800x420.jpeg"
+    },
+    {
+        "titulo": "Cybercriminals Are Leveraging Autonomous AI Offensive Security Agents",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-07-30",
+        "url": "https://securityaffairs.com/196331/ai/cybercriminals-are-leveraging-autonomous-ai-offensive-security-agents.html",
+        "resumo": "Resecurity warns AI offensive agents are lowering hacking barriers, fueling an AI-driven race between attackers and defenders. Resecurity analyzed how autonomous offensive security agents such as T3MP3ST, Strix, CyberStrike, XBOW, PentAGI, PentestGPT, and Neb…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/07/AI-Offensive.jpg"
     }
 ]
