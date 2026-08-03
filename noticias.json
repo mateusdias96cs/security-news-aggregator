@@ -1,5 +1,41 @@
 [
     {
+        "titulo": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released",
+        "fonte": "Help Net Security",
+        "autor": "Help Net Security",
+        "data": "2026-08-02",
+        "url": "https://www.helpnetsecurity.com/2026/08/02/week-in-review-claude-breached-three-companies-during-tests-ad-cs-domain-takeover-poc-released/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Nono: Open-source sandbox for AI agents AI coding agents run with the same permissions as their users, meaning they can access sensitive files, credentials, and …",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124834/cybersecurity-week-review-3-1500.webp"
+    },
+    {
+        "titulo": "CISA Urges Utilities to Remove Internet-Exposed PLCs After Minnesota Attacks",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-08-02",
+        "url": "https://securityaffairs.com/196453/ics-scada/cisa-urges-utilities-to-remove-internet-exposed-plcs-after-minnesota-attacks.html",
+        "resumo": "After attacks hit 30+ Minnesota water systems, CISA urged utilities to remove internet-exposed PLCs and strengthen OT security. Between Sunday and Monday, July 26 and 27, a coordinated cyberattack hit operational technology (OT) systems at more than 30 commun…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "Iran Vows to Hit U.S. Energy Assets: Hacks Water Plants in attempt to Poison Water in 7 States",
+        "fonte": "Offgridsurvival.com",
+        "autor": "OFFGRID Survival",
+        "data": "2026-08-01",
+        "url": "https://offgridsurvival.com/iran-vows-to-hit-u-s-energy-assets-hacks-water-plants-in-attempt-to-poison-water-in-7-states/",
+        "resumo": "Iran Vows to Hit U.S. Energy Assets: Hacks Water Plants in attempt to Poison Water in 7 States In June the US destroyed an Iranian water plant and cut off 20,000 people. A day later four California water systems were breached. Now Minnesota This Article Iran …",
+        "imagem": "https://offgridsurvival.com/wp-content/themes/church_10/images/2026/08/iranwar.jpg"
+    },
+    {
+        "titulo": "Will The Cyberattacks On Water Systems In 7 States Be A Wakeup Call?",
+        "fonte": "Forbes",
+        "autor": "Steve Weisman, Contributor, Steve Weisman, Contributor https://www.forbes.com/sites/steveweisman/",
+        "data": "2026-08-01",
+        "url": "https://www.forbes.com/sites/steveweisman/2026/08/01/will-the-cyberattacks-on-water-systems-in-7-states-be-a-wakeup-call/",
+        "resumo": "Cyberattacks on water systems may be the latest warning about vulnerabilities in America&#x27;s critical infrastructure",
+        "imagem": "https://imageio.forbes.com/specials-images/imageserve/6a6e17290bafc22751dd15c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
         "titulo": "Why did OpenAI&#x27;s and Anthropic&#x27;s AI models hack other companies?",
         "fonte": "NPR",
         "autor": "Huo Jingnan",
@@ -133,50 +169,5 @@
         "url": "https://www.zdnet.com/article/how-openais-agent-escaped-mapping-a-series-of-preventable-events/",
         "resumo": "Behind the rogue agent&#x27;s attack on Hugging Face was a particular sequence of human decisions. We all need to pay better attention - because threat actors are learning, too.",
         "imagem": "https://www.zdnet.com/a/img/resize/1da8b6817877255374d6b387bfd823c4bb9254b7/2026/07/31/669ad9cd-386d-465c-9832-6242e0254b14/spacedoor-screenshot-2026-07-31-094111.jpg?auto=webp&fit=crop&height=675&width=1200"
-    },
-    {
-        "titulo": "U.S. lawmakers request information from DoorDash on use of Chinese AI models",
-        "fonte": "CNBC",
-        "autor": "Kai Nicol-Schwarz",
-        "data": "2026-07-31",
-        "url": "https://www.cnbc.com/2026/07/31/us-lawmakers-doordash-chinese-ai-models.html",
-        "resumo": "The food delivery company is the latest to be asked to share details of AI use by a House Committee joint investigation.",
-        "imagem": "https://image.cnbcfm.com/api/v1/image/108253180-1768504949374-gettyimages-2255805905-NYC_DELIVERY_APPS.jpeg?v=1768504994&w=1920&h=1080"
-    },
-    {
-        "titulo": "&#x27;C-suite executives need to upskill themselves to really understand the threats&#x27;: AI is becoming a tool for attackers and defenders, but true resilience requires a constantly changing strate",
-        "fonte": "TechRadar",
-        "autor": "benedict.collins@futurenet.com (Benedict Collins) , Benedict Collins",
-        "data": "2026-07-31",
-        "url": "https://www.techradar.com/pro/security/c-suite-executives-need-to-upskill-themselves-to-really-understand-the-threats-ai-is-becoming-a-tool-for-attackers-and-defenders-but-true-resilience-requires-a-constantly-changing-strategy-says-former-gchq-intelligence-expert",
-        "resumo": "The only choice for businesses it to adapt and respond, and that means using an evolving resilience strategy.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/uFka7M2YjcFGhhtPTMDnJY-2560-80.jpg"
-    },
-    {
-        "titulo": "Hackers targeted municipal water systems in 7 states this week, FBI says",
-        "fonte": "NBC News",
-        "autor": "Michael Kosnar, Daniel Arkin",
-        "data": "2026-07-31",
-        "url": "https://www.nbcnews.com/tech/security/hackers-targeted-municipal-water-systems-7-states-week-fbi-says-rcna590210",
-        "resumo": "Cyberattacks targeting municipal water systems have been reported in at least seven states this week, prompting the FBI and the Environmental Protection Agency to warn utilities nationwide that hackers are trying to disrupt critical water infrastructure.",
-        "imagem": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260731-minnesota-water-mn-0905-878e3e.jpg"
-    },
-    {
-        "titulo": "Claude Hacked Three Companies in Internal Testing: Anthropic",
-        "fonte": "Decrypt",
-        "autor": "Jason Nelson",
-        "data": "2026-07-31",
-        "url": "https://decrypt.co/374784/claude-hacked-three-companies-in-internal-testing-anthropic",
-        "resumo": "Anthropic says three Claude models compromised the companies after a testing misconfiguration exposed the AI to the public internet.",
-        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png"
-    },
-    {
-        "titulo": "Counter Drone Zero Days",
-        "fonte": "Aclu.org",
-        "autor": "jstanley",
-        "data": "2026-07-31",
-        "url": "https://www.aclu.org/news/privacy-technology/counter-drone-zero-days",
-        "resumo": "Return of the zombie idea that software vulnerabilities can be reserved for good actors",
-        "imagem": "https://assets.aclu.org/live/uploads/2026/07/Drone-zero-days2.jpg"
     }
 ]
