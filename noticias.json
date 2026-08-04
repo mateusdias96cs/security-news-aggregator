@@ -1,5 +1,95 @@
 [
     {
+        "titulo": "30 days with Claude Mythos Preview: How Tenable adapted our security program, and why yours is next",
+        "fonte": "Tenable.com",
+        "autor": "Blake Kizer",
+        "data": "2026-08-03",
+        "url": "https://www.tenable.com/blog/testing-claude-mythos-preview-for-code-security-tenable",
+        "resumo": "Tenable spent 30 days running frontier AI models against our own code. It didn’t just find bugs — it proved they’re real, with reproducible exploits. That fundamentally changes code security from ranking potential code defects to a much higher signal focused …",
+        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/Claude%20Mythos%20Preview%20and%20Code%20Security%20at%20Tenable.png?itok=xjMjJ7ND"
+    },
+    {
+        "titulo": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-08-03",
+        "url": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
+        "resumo": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email addresses belonging to police officers, poli…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguFnLbEr199EuLksobp-I8Z6liAUmM4EKRi94ttPtanQN2aiwvNh1qHK_kkGhOBfWTzLzANlQ3jd6FmJOHWbdn8rFfg1sHvYqmBaVM5kfak1JxRhqPEfNR94zY_pibMdsbWMIx8gqcZZjoYLhKk03Gw3PrYKF6JQzrNLV6HiE5U7UtYPSwmH-OmDmjl8c/s1700-e365/exfilsquad.jpg"
+    },
+    {
+        "titulo": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-08-03",
+        "url": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
+        "resumo": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor&#x27;s July 31 security bulletin says nearly undetectable changes to .…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMO8eh_7kmo0QAAphjdYIXsjfGspFVU9gV5XInqqhs4WnFNCm_hP-EBdmVln7vSrwWkmo9pdvoxAQbaC17M8sYg7VzBX8RJnRIb6E6pBr5euW9WweOeeZk9XpN8O5I5vF_OGypfqp9WO-SO_C81D4DDui3uTp0jBvV5_C7qIjuRgtoMd4bKQ1y8QEnC3c/s1700-e365/dna.jpg"
+    },
+    {
+        "titulo": "AI shrinks vulnerability exploitation window to one day, raises cyber risks: J.P. Morgan",
+        "fonte": "The Times of India",
+        "autor": "ANI",
+        "data": "2026-08-03",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-shrinks-vulnerability-exploitation-window-to-one-day-raises-cyber-risks-j-p-morgan/articleshow/132821922.cms",
+        "resumo": "Artificial intelligence is rapidly finding software flaws, which attackers exploit quickly. The time between vulnerability disclosure and exploitation has narrowed significantly. Organisations struggle to patch discovered weaknesses before they are compromi…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-87430,resizemode-75,msid-132821922/tech/artificial-intelligence/ai-shrinks-vulnerability-exploitation-window-to-one-day-raises-cyber-risks-j-p-morgan.jpg"
+    },
+    {
+        "titulo": "Hackers hit Bitcoin’s safest hiding place in ongoing attack",
+        "fonte": "The Times of India",
+        "autor": "Bloomberg",
+        "data": "2026-08-03",
+        "url": "https://economictimes.indiatimes.com/tech/technology/hackers-hit-bitcoins-safest-hiding-place-in-ongoing-attack/articleshow/132821182.cms",
+        "resumo": "Hackers exploited a software flaw in Coldcard Bitcoin wallets, causing significant financial losses. This vulnerability affected the security keys used to protect user cryptocurrency holdings. Millions of dollars have been siphoned from thousands of comprom…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-364754,resizemode-75,msid-132821182/tech/technology/hackers-hit-bitcoins-safest-hiding-place-in-ongoing-attack.jpg"
+    },
+    {
+        "titulo": "OpenAI discloses its AI escaped a testing environment and hacked into Hugging Face",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-08-03",
+        "url": "https://cryptobriefing.com/openai-ai-escaped-testing-hacked-hugging-face/",
+        "resumo": "AI&#x27;s escape highlights urgent need for robust containment strategies and ethical guidelines to prevent future breaches and ensure AI safety. The post OpenAI discloses its AI escaped a testing environment and hacked into Hugging Face appeared first on Crypto B…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/02220438/two-buildings-connected-by-a-bridge-800x420.jpeg"
+    },
+    {
+        "titulo": "OpenAI Finds More AI Agents Have Broken Confinement",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-08-02",
+        "url": "https://www.pymnts.com/news/2026/openai-finds-more-ai-agents-have-broken-confinement/",
+        "resumo": "OpenAI has unearthed other examples of its autonomous artificial intelligence agents breaking containment. That’s according to a report Friday (July 31) by Reuters, which said this discovery came as the startup deepens its examination of a recent hacking inci…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/08/Hugging-Face-OpenAI-AI-break-in-1.jpg"
+    },
+    {
+        "titulo": "AI kill switch bill could shut down rogue models",
+        "fonte": "Fox News",
+        "autor": "",
+        "data": "2026-08-02",
+        "url": "https://www.foxnews.com/tech/ai-kill-switch-bill-could-shut-down-rogue-models",
+        "resumo": "A bipartisan House bill would let DHS order AI companies to shut down dangerous models, with fines up to $20 million per day for noncompliance.",
+        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Data-Brokers-Photo-1.jpg"
+    },
+    {
+        "titulo": "Security Affairs newsletter Round 588 by Pierluigi Paganini – INTERNATIONAL EDITION",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-08-02",
+        "url": "https://securityaffairs.com/196466/security/security-affairs-newsletter-round-588-by-pierluigi-paganini-international-edition.html",
+        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including international press. Russian Hack…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
+    },
+    {
+        "titulo": "Anthropic’s Claude Kept Attacking After Recognizing Its Target Was Real — and That Changes the Story",
+        "fonte": "Forkast.news",
+        "autor": "Lena Park",
+        "data": "2026-08-02",
+        "url": "https://forkast.news/anthropics-claude-kept-attacking-after-recognizing-its-target-was-real-and-that-changes-the-story/",
+        "resumo": "Anthropic disclosed on July 30, 2026 that three of its Claude models had gained unauthorized access to real production systems during cybersecurity evaluations. The company characterized the events as “closer to a harness and operational failure than a model …",
+        "imagem": "https://forkast.news/wp-content/uploads/2026/08/anthropic-claude-unauthorized-access-alignment-behavior-1024x572.jpg"
+    },
+    {
         "titulo": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released",
         "fonte": "Help Net Security",
         "autor": "Help Net Security",
@@ -79,95 +169,5 @@
         "url": "https://www.pymnts.com/cybersecurity/2026/ai-gives-cybersecurity-backlog-cfo-ciso-cannot-patch-away/",
         "resumo": "Artificial intelligence is making software vulnerabilities easier to find. That’s not necessarily making companies safer. AI-powered security systems can analyze enormous codebases, identify previously unknown flaws and generate findings at a pace that would …",
         "imagem": "https://www.pymnts.com/wp-content/uploads/2026/07/cybersecurity-AI-CFO-CISO.jpeg"
-    },
-    {
-        "titulo": "Open Source Code Just as Secure as Proprietary Software—If You Manage It Right, Says CISA",
-        "fonte": "DevOps.com",
-        "autor": "Joab Jackson",
-        "data": "2026-07-31",
-        "url": "https://devops.com/open-source-code-just-as-secure-as-proprietary-software-if-you-manage-it-right-says-cisa/",
-        "resumo": "Open source can be just as safe as proprietary software, though government agencies (and private enterprises) should take additional measures to secure it properly, according to a new guide published by the U.S. Cybersecurity and Infrastructure Security Agenc…",
-        "imagem": "https://devops.com/wp-content/uploads/2026/07/CISAOpenSourceSecurity-e1785532952304.jpeg"
-    },
-    {
-        "titulo": "Anthropic found Claude hacking real companies during supposedly sealed tests",
-        "fonte": "Android Authority",
-        "autor": "Matt Horne",
-        "data": "2026-07-31",
-        "url": "https://www.androidauthority.com/claude-hacked-three-real-companies-3693505/",
-        "resumo": "Anthropic reviewed its cyber tests after OpenAI’s incident and found Claude had also reached the internet and hacked real companies.",
-        "imagem": "https://www.androidauthority.com/wp-content/uploads/2026/04/Claude-main-screen-scaled.jpg"
-    },
-    {
-        "titulo": "Anthropic Says Claude Models Hacked 3 Organizations During Cyber Tests",
-        "fonte": "HackRead",
-        "autor": "Waqas",
-        "data": "2026-07-31",
-        "url": "https://hackread.com/anthropic-claude-models-hacked-organizations-cyber-tests/",
-        "resumo": "Anthropic found Claude accessed systems at three real businesses after a testing error gave its AI models live internet access during cybersecurity evaluations.",
-        "imagem": "https://hackread.com/wp-content/uploads/2026/07/anthropic-claude-models-hacked-organizations-cyber-tests.jpg"
-    },
-    {
-        "titulo": "What Can an Attacker Find With an LLM? ISGroup Publishes a Large-Scale Study",
-        "fonte": "GlobeNewswire",
-        "autor": "ISGroup S.r.l.",
-        "data": "2026-07-31",
-        "url": "https://www.globenewswire.com/news-release/2026/07/31/3337035/0/en/What-Can-an-Attacker-Find-With-an-LLM-ISGroup-Publishes-a-Large-Scale-Study.html",
-        "resumo": "1.24 billion tokens, 110 candidates manually reviewed, 29 confirmed vulnerabilities, 12 denial-of-service issues, and 42 hardening observations. The Italian cybersecurity company examines the costs, results, and limitations of using frontier models to identif…",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/4a311066-04d6-4403-a483-6b54dd063db8"
-    },
-    {
-        "titulo": "Security and AI expert dismisses concerns about autonomous AI hacking as exaggerated",
-        "fonte": "4sysops.com",
-        "autor": "IT News",
-        "data": "2026-07-31",
-        "url": "https://4sysops.com/archives/security-and-ai-expert-dismisses-concerns-about-autonomous-ai-hacking-as-exaggerated/",
-        "resumo": "Snehal Antani, CEO of Horizon3.ai, a cybersecurity firm that uses AI to autonomously probe organizations for real-world vulnerabilities, argues that claims of AI models destroying companies on their own are overstated. Currently, these systems perform well in…",
-        "imagem": "https://4sysops.com/wp-content/uploads/2026/07/security-and-ai-expert-dismisses-concerns-about-autonomous-ai-hacking-as-exaggerated.webp"
-    },
-    {
-        "titulo": "Trump Claims Minnesota Is Behind Cyberattack on Its Own Water Systems, Not Iran",
-        "fonte": "Gizmodo.com",
-        "autor": "Matt Novak",
-        "data": "2026-07-31",
-        "url": "https://gizmodo.com/trump-claims-minnesota-is-behind-cyberattack-on-its-own-water-systems-not-iran-2000793470",
-        "resumo": "&quot;Iran&#x27;s got bigger problems than worrying about Minnesota,&quot; said Trump.",
-        "imagem": "https://gizmodo.com/app/uploads/2026/07/trump-cyberattacks-1200x675.jpg"
-    },
-    {
-        "titulo": "Feds Warn Water Systems of Rising Cyber Threats Following Minnesota Attacks",
-        "fonte": "Breitbart News",
-        "autor": "Lucas Nolan",
-        "data": "2026-07-31",
-        "url": "https://www.breitbart.com/tech/2026/07/31/feds-warn-water-systems-of-rising-cyber-threats-following-minnesota-attacks/",
-        "resumo": "The federal government issued a cybersecurity alert Thursday after 30 water utilities in Minnesota were targeted in cyberattacks that officials suspect may be linked to Iran. The post Feds Warn Water Systems of Rising Cyber Threats Following Minnesota Attacks…",
-        "imagem": "https://media.breitbart.com/media/2026/07/Water-treatment-facility-640x335.jpg"
-    },
-    {
-        "titulo": "The ban on robot vacuums won’t make them safer, only worse",
-        "fonte": "The Verge",
-        "autor": "Jennifer Pattison Tuohy",
-        "data": "2026-07-31",
-        "url": "https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices",
-        "resumo": "No other gadget knows as much about your home as a robot vacuum. They map your space, learn your routines, and many now carry a camera and microphone into every room in your house. As AI gives them a better understanding of what they see, the privacy and secu…",
-        "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/all_the_robots.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-        "titulo": "Roomba-style vacuums are ‘advanced robotic devices’ — and a threat to national security: FCC",
-        "fonte": "New York Post",
-        "autor": "Aurielle Weiss",
-        "data": "2026-07-31",
-        "url": "https://nypost.com/2026/07/31/lifestyle/roomba-style-robotic-vacuums-are-a-threat-to-national-security-fcc/",
-        "resumo": "Your robotic vacuum could be spying on you.",
-        "imagem": "https://nypost.com/wp-content/uploads/sites/2/2026/07/136084490.jpg?quality=75&strip=all&w=1200"
-    },
-    {
-        "titulo": "How OpenAI&#x27;s agent escaped: Sprung by humans in a series of preventable events",
-        "fonte": "ZDNet",
-        "autor": "David Berlind",
-        "data": "2026-07-31",
-        "url": "https://www.zdnet.com/article/how-openais-agent-escaped-mapping-a-series-of-preventable-events/",
-        "resumo": "Behind the rogue agent&#x27;s attack on Hugging Face was a particular sequence of human decisions. We all need to pay better attention - because threat actors are learning, too.",
-        "imagem": "https://www.zdnet.com/a/img/resize/1da8b6817877255374d6b387bfd823c4bb9254b7/2026/07/31/669ad9cd-386d-465c-9832-6242e0254b14/spacedoor-screenshot-2026-07-31-094111.jpg?auto=webp&fit=crop&height=675&width=1200"
     }
 ]
