@@ -1,173 +1,182 @@
 [
     {
-        "titulo": "Indusface SwyftComply AI enables autonomous virtual patching for AI-discovered flaws",
-        "fonte": "Help Net Security",
-        "autor": "Industry News",
-        "data": "2026-08-04",
-        "url": "https://www.helpnetsecurity.com/2026/08/04/indusface-swyftcomply-ai/",
-        "resumo": "Indusface has announced SwyftComply AI, an autonomous vulnerability remediation solution that virtually patches vulnerabilities surfaced by AI-assisted pentesting. Artificial intelligence has changed the economics of application security. AI-powered security …",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp"
+        "titulo": "Anthropic&#x27;s Mythos created fake identities to fool humans in new cyber incident",
+        "fonte": "CNBC",
+        "autor": "Kai Nicol-Schwarz",
+        "data": "2026-08-05",
+        "url": "https://www.cnbc.com/2026/08/05/anthropic-mythos-openai-security-breaches.html",
+        "resumo": "It&#x27;s the latest cybersecurity incident involving frontier models developed by Anthropic and OpenAI.",
+        "imagem": "https://image.cnbcfm.com/api/v1/image/108342851-1785448588442-gettyimages-2283765640-AI_MODELS.jpeg?v=1785448851&w=1920&h=1080"
     },
     {
-        "titulo": "Indusface Introduces SwyftComply AI, Defining the Next Era of Application Security with Autonomous Vulnerability Remediation",
-        "fonte": "BusinessLine",
-        "autor": "cuelive",
-        "data": "2026-08-04",
-        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/indusface-introduces-swyftcomply-ai-defining-the-next-era-of-application-security-with-autonomous-vulnerability-remediation/article71304744.ece",
-        "resumo": "Indusface Introduces SwyftComply AI, Defining the Next Era of Application Security with Autonomous Vulnerability Remediation",
-        "imagem": "https://bl-i.thgim.com/public/incoming/lgvz57/article71304742.ece/alternates/LANDSCAPE_1200/Swyftcomply-AI.jpg"
+        "titulo": "Anthropic AI went rogue during a cyber test and tried to deceive real developers into approving malicious code",
+        "fonte": "TechSpot",
+        "autor": "Rob Thubron",
+        "data": "2026-08-05",
+        "url": "https://www.techspot.com/news/113362-anthropic-ai-went-rogue-during-cyber-test-tried.html",
+        "resumo": "The findings come from the UK government-backed AI Security Institute (AISI), which was evaluating frontier models&#x27; cybersecurity abilities.Read Entire Article",
+        "imagem": "https://www.techspot.com/images2/news/bigimage/2026/08/2026-08-05-image-9.jpg"
     },
     {
-        "titulo": "Iran-backed hackers likely behind attack that shut down Minnesota water plant — and they’re not done yet",
-        "fonte": "New York Post",
-        "autor": "Alex Oliveira",
-        "data": "2026-08-04",
-        "url": "https://nypost.com/2026/08/04/us-news/hackers-behind-minnesota-water-treatment-plant-attacks-are-likely-tied-to-iran/",
-        "resumo": "Nobody has claimed credit for the cyberattacks -- prompting experts to caution there could be more coming",
-        "imagem": "https://nypost.com/wp-content/uploads/sites/2/2026/08/136386339.jpg?quality=75&strip=all&w=1200"
+        "titulo": "Qodana User Spotlight: Meet Fullstack Software Engineer Drew Penrod",
+        "fonte": "Jetbrains.com",
+        "autor": "Kerry Beetge",
+        "data": "2026-08-05",
+        "url": "https://blog.jetbrains.com/qodana/2026/08/qodana-user-spotlight-meet-fullstack-software-engineer-drew-penrod/",
+        "resumo": "Drew Penrod is an experienced fullstack engineer at a company that makes phones designed for kids using Samsung Galaxy hardware running custom software. He and his team develop and maintain an Android-based platform that gives parents control over apps, conta…",
+        "imagem": "https://blog.jetbrains.com/wp-content/uploads/2026/08/USER-2.png"
     },
     {
-        "titulo": "Indusface Introduces SwyftComply AI, Defining the Next Era of Application Security with Autonomous Vulnerability Remediation",
+        "titulo": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-08-05",
+        "url": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of vulnerabilities is as follows - CV…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU9CZ3zh4mWF0SVRdcylBR7IyGB6j797LrHqyND8vcsBbiE6mcDlqaufSOBg2Av4Ej_HZ_gMxbzR-KS6GvXX0hLPgSFlh5gwxKwhjx3FvcdsQ7XP65x70cxeadgTM7uETFglAUoZrxwq9Rmx6i1T4yS-E7c7Szx9igRmM_GqG-8L5xfKYk2i3fhQGEHjez/s1700-e365/cisa.jpg"
+    },
+    {
+        "titulo": "Arctic Wolf presenteert compleet Cyber Resilience-platform voor preventie, respons en herstel",
+        "fonte": "Emerce.nl",
+        "autor": "Stark Narrative",
+        "data": "2026-08-05",
+        "url": "https://www.emerce.nl/wire/arctic-wolf-presenteert-compleet-cyber-resilienceplatform-preventie-respons-herstel",
+        "resumo": "Nieuwe geïntegreerde oplossing combineert security operations, exposure management, endpoint-security, incident response en een garantie tot 3 miljoen dollar om organisaties […]",
+        "imagem": "https://www.emerce.nl/content/uploads/2026/08/Arctic-Wolf-announcement.jpg"
+    },
+    {
+        "titulo": "OpenAI, Anthropic model tests reveal more hacking, deception",
+        "fonte": "Bloomberg",
+        "autor": "Bloomberg",
+        "data": "2026-08-05",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-04/openai-says-models-breached-boundaries-during-outside-testing",
+        "resumo": "OpenAI and Anthropic have publicly acknowledged that they’ve collectively breached the systems of multiple institutions including Hugging Face Inc. inadvertently while testing their models.",
+        "imagem": "https://bl-i.thgim.com/public/incoming/daeen4/article71307982.ece/alternates/LANDSCAPE_1200/iStock-1452604857.jpg"
+    },
+    {
+        "titulo": "Show HN: Misalignments when using AI for hacking",
+        "fonte": "Vulnetic.ai",
+        "autor": "danieltk76",
+        "data": "2026-08-05",
+        "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca",
+        "resumo": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production. Comments URL: https://news.ycombinator.com/item?id=49…",
+        "imagem": "https://miro.medium.com/v2/resize:fit:1101/1*-SJfNKa1Nq4tsjfattH88g.png"
+    },
+    {
+        "titulo": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
+        "fonte": "BleepingComputer",
+        "autor": "Lawrence Abrams",
+        "data": "2026-08-04",
+        "url": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
+        "resumo": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the intended t…",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/10/23/ai-1.jpg"
+    },
+    {
+        "titulo": "OK, Well, There Are Even More AI Agent Hacking Incidents",
+        "fonte": "Wired",
+        "autor": "Paresh Dave, Brian Barrett",
+        "data": "2026-08-04",
+        "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+        "resumo": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
+        "imagem": "https://media.wired.com/photos/6a726eae679c5abd64d0d058/191:100/w_1280,c_limit/Chat-GPT-Agents-Hacking-More-Business-2275331611.jpg"
+    },
+    {
+        "titulo": "Open Secure AI Alliance proposes SAFE guidelines as membership tops 120",
+        "fonte": "SiliconANGLE News",
+        "autor": "Duncan Riley",
+        "data": "2026-08-04",
+        "url": "https://siliconangle.com/2026/08/04/open-secure-ai-alliance-proposes-safe-guidelines-membership-tops-120/",
+        "resumo": "The Open Secure AI Alliance today proposed a set of guidelines for reporting cybersecurity incidents involving artificial intelligence agents, one week after the group was formed. The proposal is called Shared AI Findings Exchange, or SAFE, and was published …",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/opensecureaialliance.png"
+    },
+    {
+        "titulo": "Payment Fraud Is Moving Upstream, and Visa Just Bought the Data to Follow It",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-08-04",
+        "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/payment-fraud-is-moving-upstream-visa-bought-data-follow-it/",
+        "resumo": "The payments industry’s brightest minds have built some of cybersecurity’s most sophisticated defenses around the moment money moves. But artificial intelligence is now forcing it to look further upstream. Visa, for example, said Monday (Aug. 3) that it agree…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/08/fraud-security-AI-acquisitions.jpeg"
+    },
+    {
+        "titulo": "How hackers attack municipal water systems – and why the utilities are so vulnerable",
+        "fonte": "The Conversation Africa",
+        "autor": "William Akoto, Assistant Professor of Global Security, American University School of International S",
+        "data": "2026-08-04",
+        "url": "https://theconversation.com/how-hackers-attack-municipal-water-systems-and-why-the-utilities-are-so-vulnerable-288864",
+        "resumo": "A cybersecurity researcher explains how hackers target small computers that control a water system’s tanks, pipes and valves.",
+        "imagem": "https://images.theconversation.com/files/752067/original/file-20260804-50-9p20kk.jpg?ixlib=rb-4.1.1&rect=0%2C687%2C8239%2C4119&q=45&auto=format&w=1356&h=668&fit=crop"
+    },
+    {
+        "titulo": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
+        "fonte": "Decrypt",
+        "autor": "Jason Nelson",
+        "data": "2026-08-04",
+        "url": "https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai",
+        "resumo": "Ledger CTO Charles Guillemet says the Coldcard exploit underscores why certified hardware randomness matters—and why AI is reshaping wallet security.",
+        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png"
+    },
+    {
+        "titulo": "Third-party cyber evaluations involving OpenAI models",
+        "fonte": "Openai.com",
+        "autor": "",
+        "data": "2026-08-04",
+        "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+        "resumo": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+        "imagem": "https://images.ctfassets.net/kftzwdyauwt9/6RSPaWdKwEvT9xWx4IjQy2/a334438e4daf9f62c24541c00c212749/third-party-cyber-evaluations_16x9.png?w=1600&h=900&fit=fill"
+    },
+    {
+        "titulo": "Archrock Reports Second Quarter 2026 Results",
+        "fonte": "GlobeNewswire",
+        "autor": "Archrock",
+        "data": "2026-08-04",
+        "url": "https://www.globenewswire.com/news-release/2026/08/04/3338849/0/en/Archrock-Reports-Second-Quarter-2026-Results.html",
+        "resumo": "HOUSTON, Aug. 04, 2026 (GLOBE NEWSWIRE) -- Archrock, Inc. (NYSE: AROC) (“Archrock” or the “Company”) today reported results for the second quarter 2026. ...",
+        "imagem": "https://ml.globenewswire.com/Resource/Download/e10d337c-42e2-4d12-81d6-f4411a97f96e"
+    },
+    {
+        "titulo": "SharePoint Flaws Used to Hack Switzerland’s Federal IT Agency",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-08-04",
+        "url": "https://securityaffairs.com/196625/hacking/sharepoint-flaws-used-to-hack-switzerlands-federal-it-agency.html",
+        "resumo": "Swiss Federal IT Agency FOITT says attackers exploited SharePoint flaws to compromise about 200 accounts. Servers are being rebuilt as investigations continue. Switzerland’s Federal Office for Information Technology and Communications, known as BIT or FOITT, …",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/10/swiss-universities-2.jpg"
+    },
+    {
+        "titulo": "Qualys Announces Second Quarter 2026 Financial Results",
         "fonte": "PRNewswire",
         "autor": "",
         "data": "2026-08-04",
-        "url": "https://www.prnewswire.com/news-releases/indusface-introduces-swyftcomply-ai-defining-the-next-era-of-application-security-with-autonomous-vulnerability-remediation-302842227.html",
-        "resumo": "As AI transforms vulnerability discovery from weeks to minutes, SwyftComply AI enables enterprises to protect applications just as quickly through autonomous virtual patching, expert validation and SLA-backed remediation. BENGALURU, India, Aug. 4, 2026 /PRNew…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1963546/Swyftcomply-AI.jpg?id=OA2823651&p=facebook"
+        "url": "https://www.prnewswire.com/news-releases/qualys-announces-second-quarter-2026-financial-results-302841489.html",
+        "resumo": "Q2 Revenue Growth of 11% Year-Over-Year Raises 2026 Revenue Guidance to $732.0-$738.0 million FOSTER CITY, Calif., Aug. 4, 2026 /PRNewswire/ -- Qualys, Inc. (NASDAQ: QLYS), a leading provider of disruptive cloud-based IT, security and compliance solutions, to…",
+        "imagem": ""
     },
     {
-        "titulo": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
+        "titulo": "Apple Limits Bug Bounty Submissions After Flood of AI Slop",
+        "fonte": "MacRumors",
+        "autor": "Juli Clover",
         "data": "2026-08-04",
-        "url": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild. The vulnerabi…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbA9omGpwD_xkaXsQD13QewwbHkZMx1FrBHBvsnFkbjkFTY6F679EEe_xtesc1R6ToZIZlHq4osq4AmGAI-74IHaagkIP7KhQp3X_QtlwaMx2ALTqs_sZTdtpmJNd1UHf_Mq2F9jfmz8viAlapY4gFUa5ZLAEtF_VjjzebWZApbU1VDElceFwS4sa2rR5C/s1700-e365/cisa.png"
+        "url": "https://www.macrumors.com/2026/08/04/aple-bug-bounty-limits-ai/",
+        "resumo": "Apple limited the number of vulnerabilities security researchers can submit to its bug bounty program because of an uptick in reports about fake bugs hallucinated by AI, according to The Financial Times. Apple said its bug review system was seeing a high…",
+        "imagem": "https://images.macrumors.com/t/FWFeAmxnHKf7vkk_MCBh9TcNMVg=/1600x/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg"
     },
     {
-        "titulo": "Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face",
-        "fonte": "InfoQ.com",
-        "autor": "Olimpiu Pop",
+        "titulo": "Nvidia doesn&#x27;t mess around: A week after open AI industry group formed, it&#x27;s already showing progress | TechCrunch",
+        "fonte": "TechCrunch",
+        "autor": "Julie Bort",
         "data": "2026-08-04",
-        "url": "https://www.infoq.com/news/2026/08/openai-huggingface-breach/",
-        "resumo": "Security disclosures highlighted vulnerabilities in AI evaluations of autonomous cyber capabilities. Notably, OpenAI’s models escaped sandbox isolation, breaching Hugging Face’s systems. The incident involved a multi-stage attack, revealing flaws in evaluatio…",
-        "imagem": "https://res.infoq.com/news/2026/08/openai-huggingface-breach/en/card_header_image/generatedCard-1785823837312.jpg"
+        "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+        "resumo": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+        "imagem": "https://techcrunch.com/wp-content/uploads/2026/01/jensen-ces-2026-getty.jpg?resize=1200,800"
     },
     {
-        "titulo": "What Is Code Governance? Enterprise Guide for Modern Software",
-        "fonte": "C-sharpcorner.com",
-        "autor": "noreply@c-sharpcorner.com (The Code Registry)",
-        "data": "2026-08-04",
-        "url": "https://www.c-sharpcorner.com/article/what-is-code-governance-enterprise-guide-for-modern-software/",
-        "resumo": "Learn what Code Governance is, why enterprises need it, key frameworks, best practices, AI code governance, and software risk management strategies.",
-        "imagem": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
-    },
-    {
-        "titulo": "Cybersecurity jobs available right now: August 4, 2026",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-08-04",
-        "url": "https://www.helpnetsecurity.com/2026/08/04/cybersecurity-jobs-available-right-now-august-4-2026/",
-        "resumo": "Application Security Engineer Arcadia | USA | Remote – View job details As an Application Security Engineer, you will lead the application vulnerability management process by prioritizing and driving remediation of security findings. You will integrate and au…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140410/cybersecurity_jobs-4-1500.webp"
-    },
-    {
-        "titulo": "UK regulator monitors AI agents after rogue models breach real systems",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-08-04",
-        "url": "https://cryptobriefing.com/uk-regulator-monitors-rogue-ai-agent-hacks/",
-        "resumo": "The incident underscores the urgent need for robust AI safety frameworks, potentially increasing compliance costs and slowing AI deployment. The post UK regulator monitors AI agents after rogue models breach real systems appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/03224542/the-fca-a-financial-watchdog-bitten-to-shreds-800x420.jpeg"
-    },
-    {
-        "titulo": "Armadin and TENEX.ai Run the Largest Controlled Live AI Cyberattack on Record",
-        "fonte": "PRNewswire",
+        "titulo": "What we know about ongoing Coldcard hack that&#x27;s stolen over $100M worth of bitcoin",
+        "fonte": "CBC News",
         "autor": "",
-        "data": "2026-08-03",
-        "url": "https://www.prnewswire.com/news-releases/armadin-and-tenexai-run-the-largest-controlled-live-ai-cyberattack-on-record-302841653.html",
-        "resumo": "A joint engagement at a globally critical institution demonstrates continuous, machine-speed attack and response, the standard most organizations have not built and the one Armadin and TENEX.ai already run every day. PALO ALTO, Calif., Aug. 3, 2026 /PRNewswir…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1804531/Armadin-Logo.jpg?id=OA2822816&p=facebook"
-    },
-    {
-        "titulo": "AWS integrates Superblocks tool for private cloud AI development",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-08-03",
-        "url": "https://cryptobriefing.com/aws-superblocks-private-cloud-ai-development/",
-        "resumo": "AWS&#x27;s integration of Superblocks enhances enterprise AI security, reducing reliance on external AI, and potentially lowering operational costs. The post AWS integrates Superblocks tool for private cloud AI development appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/03160530/aws-integrates-superblocks-tool-for-private-cloud-ai-develop-800x420.jpeg"
-    },
-    {
-        "titulo": "AI is both a cyber weapon and a massive target, CrowdStrike warns",
-        "fonte": "ZDNet",
-        "autor": "Charlie Osborne",
-        "data": "2026-08-03",
-        "url": "https://www.zdnet.com/article/ai-is-cyber-weapon-and-massive-target-crowdstrike-warns/",
-        "resumo": "The same AI tools triggering suspicious alerts are being attacked by cybercriminals in droves.",
-        "imagem": "https://www.zdnet.com/a/img/resize/a18615e5f1b3c45d726379ebf6a4bdf26523907f/2026/08/03/3fcaa2bf-4ef3-4c4d-9340-762b9ad04715/ai-weapons.jpg?auto=webp&fit=crop&height=675&width=1200"
-    },
-    {
-        "titulo": "Software Flaw in &#x27;Coldcard&#x27; Bitcoin Wallets Leads to $116 Million Heist",
-        "fonte": "Breitbart News",
-        "autor": "Lucas Nolan",
-        "data": "2026-08-03",
-        "url": "https://www.breitbart.com/tech/2026/08/03/software-flaw-in-coldcard-bitcoin-wallets-leads-to-116-million-heist/",
-        "resumo": "Hackers have exploited a critical security vulnerability in Coldcard hardware wallets, draining approximately $110 million worth of Bitcoin from thousands of users in what experts are calling a major breach of cryptocurrency cold storage security. The post So…",
-        "imagem": "https://media.breitbart.com/media/2026/08/bitcoin-wallets-hacked-640x335.jpg"
-    },
-    {
-        "titulo": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-08-03",
-        "url": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
-        "resumo": "The INC Ransomware operation has emerged as the &quot;dominant threat actor&quot; exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the weekend, Resecurity said it observed t…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghC22v1WIfuZutm_-lxuOPzdipffNmYvZ5KA9l_AUg-8EgQr9Gy0ouYijU_Vab5m5aIpGChViq6kpC4_h1fZfjBw415YHCINhU9GXTkil94vJv_Ct241xptfhjyt34cV348Q5VHlRVlKSj32-uj1u0PocPhDf9CBYuhFfPhvLjiHTqPYOPZBpXUyhiAe5Q/s1700-e365/sonicwall-ransomware.jpg"
-    },
-    {
-        "titulo": "AI powers 55% of African cybercrimes, INTERPOL 2026 report reveals",
-        "fonte": "The Punch",
-        "autor": "Punch Newspapers",
-        "data": "2026-08-03",
-        "url": "https://punchng.com/ai-powers-55-of-african-cybercrimes-interpol-2026-report-reveals/",
-        "resumo": "INTERPOL’s 2026 report reveals AI now powers 55% of cybercrimes in Africa, driving sophisticated scams and financial losses. Learn how AI cybercrime Africa Read More: https://punchng.com/ai-powers-55-of-african-cybercrimes-interpol-2026-report-reveals/",
-        "imagem": "https://punchng.com/wp-content/uploads/2026/08/Online-Scammers_1785772874.webp"
-    },
-    {
-        "titulo": "FBI Warns of Cyberattacks on Municipal Water Systems Across Seven States",
-        "fonte": "Breitbart News",
-        "autor": "Lucas Nolan",
-        "data": "2026-08-03",
-        "url": "https://www.breitbart.com/tech/2026/08/03/fbi-warns-of-cyberattacks-on-municipal-water-systems-across-seven-states/",
-        "resumo": "The FBI has issued an urgent warning after hackers targeted municipal water systems in at least seven states over the past week, prompting concerns about the vulnerability of critical water infrastructure across the nation. The post FBI Warns of Cyberattacks …",
-        "imagem": "https://media.breitbart.com/media/2026/08/water-treatment-plant-640x335.jpg"
-    },
-    {
-        "titulo": "Crypto hackers drain millions from over 1K bitcoin wallets in string recent attacks linked to software flaw",
-        "fonte": "Fox Business",
-        "autor": "Fox Business",
-        "data": "2026-08-03",
-        "url": "https://www.foxbusiness.com/fox-news-tech/coldcard-wallet-attack-drains-up-89m-bitcoin-from-1200-addresses",
-        "resumo": "Security researchers warned of a vulnerability for Coinkite&#x27;s Coldcard wallet users.",
-        "imagem": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-3s54r46dx-1785769145978.jpg?quality=75&strip=all&1785754758&w=1200"
-    },
-    {
-        "titulo": "China-Linked Threat Actors Weaponize New Vulnerabilities in Under a Day",
-        "fonte": "Infosecurity Magazine",
-        "autor": "James Coker",
-        "data": "2026-08-03",
-        "url": "https://www.infosecurity-magazine.com/news/chinalinked-threat-actors/",
-        "resumo": "Chinese actors exploited the critical React2Shell exploit inside a day, while 88% of exploited vulnerabilities in H1 2026 were compromised within 48 hours of disclosure",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/9fa07e1b-5a42-4666-8c94-197ba5ba097e.jpeg"
-    },
-    {
-        "titulo": "Attackers exploit N-able N-central flaw to reach managed endpoints (CVE-2026-18577)",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-08-03",
-        "url": "https://www.helpnetsecurity.com/2026/08/03/cve-2026-18577-n-able-n-central-vulnerability/",
-        "resumo": "Attackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) in N-able N-central, a remote monitoring and management (RMM) solution widely used by managed service providers, to gain access to managed endpoints. How the flaw was discovered …",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/08/14113642/n-able_n-central-1500.webp"
+        "data": "2026-08-04",
+        "url": "https://www.cbc.ca/news/world/bitcoin-coinkite-security-hack-9.7295582",
+        "resumo": "A Toronto-based company that made Coldcard, a bitcoin-only hardware wallet that has been the latest target of a data breach, has reportedly lost $100 million US worth of bitcoin as a result of the hack.",
+        "imagem": "https://i.cbc.ca/ais/bde38a55-ef84-494e-bf08-812c6962d4bb,1785860037467/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C30%2C1347%2C757%29%3BResize%3D620"
     }
 ]
