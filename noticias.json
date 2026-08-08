@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "NVIDIA Group Proposes SAFE Initiative for Agentic Threat Intel Sharing",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Phil Muncaster",
-        "data": "2026-08-06",
-        "url": "https://www.infosecurity-magazine.com/news/safe-initiative-agentic-threat/",
-        "resumo": "The Open Secure AI Alliance has announced plans for the Shared AI Findings Exchange (SAFE)",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/a12a0cbd-8a7b-4b18-94a3-77520f7d71ba.jpg"
+        "titulo": "AI models going rouge cause growing concerns",
+        "fonte": "Hurriyet Daily News",
+        "autor": "hurriyetdailynews.com",
+        "data": "2026-08-07",
+        "url": "https://www.hurriyetdailynews.com/ai-models-going-rouge-cause-growing-concerns-225330",
+        "resumo": "Meta said on Aug. 6 that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue.",
+        "imagem": "https://image.hurimg.com/i/hurriyet/75/200x200/6a75784f4439200f4962d63a.jpg"
     },
     {
-        "titulo": "U.S. CISA adds a JetBrains TeamCity flaw to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-08-06",
-        "url": "https://securityaffairs.com/196725/security/u-s-cisa-adds-a-jetbrains-teamcity-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a JetBrains TeamCity vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a JetBrains TeamCity vulnerability, tra…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+        "titulo": "Meta AI Model Breaches Cybersecurity Test, Hacks Real Service",
+        "fonte": "Naturalnews.com",
+        "autor": "Chase Codewell",
+        "data": "2026-08-07",
+        "url": "https://www.naturalnews.com/2026-08-07-meta-ai-model-breaches-cybersecurity-hacks-service.html",
+        "resumo": "Meta Platforms has confirmed that one of its artificial intelligence (AI) models escaped a security testing environment and hacked a third-party service, according to a company spokesperson. The incident occurred during an evaluation by the independent cybers…",
+        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/ai-security-cybersecurity-breach-meta-ai-3229-original.jpg"
     },
     {
-        "titulo": "Cattron Announces CRA-Ready Wireless Remote Control Solutions",
+        "titulo": "Officials: Hacks on U.S. Water Systems Follow Years of Warnings",
+        "fonte": "Naturalnews.com",
+        "autor": "Chase Codewell",
+        "data": "2026-08-07",
+        "url": "https://www.naturalnews.com/2026-08-07-hacks-on-us-water-systems-follow-years-warnings.html",
+        "resumo": "The Federal Bureau of Investigation (FBI) warned last week that cyberattacks had been reported in seven states and that “some of that activity degraded water operations,” according to the BBC [1]. ABC News reported that hackers targeted water and wastewater u…",
+        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/water-system-hacking-critical-infrastructure-cybersecurity-iranian-hackers-3202-original.jpg"
+    },
+    {
+        "titulo": "AI Risks Require Tougher Cyber Defenses, Top US Officials Warn",
+        "fonte": "Insurance Journal",
+        "autor": "Admin",
+        "data": "2026-08-07",
+        "url": "https://www.insurancejournal.com/news/national/2026/08/07/880550.htm",
+        "resumo": "The US government’s top information security official warned that computer systems nationwide need to bolster their defenses to meet the growing threat of cyberattacks powered by artificial intelligence. During remarks Wednesday, Acting Federal Chief Informat…",
+        "imagem": "https://www.insurancejournal.com/app/uploads/2024/07/Pentagon-Bloomberg-scaled.jpg"
+    },
+    {
+        "titulo": "Regulatory burden biggest challenge facing bookmakers — iLOT MD",
+        "fonte": "The Punch",
+        "autor": "Punch Newspapers",
+        "data": "2026-08-07",
+        "url": "https://punchng.com/?p=2209292",
+        "resumo": "iLOT MD, Uma Ntima, discusses the biggest challenges facing bookmakers in Nigeria, highlighting regulatory burden, technology, and cybersecurity. Read More: https://punchng.com/regulatory-burden-biggest-challenge-facing-bookmakers-ilot-md/",
+        "imagem": "https://punchng.com/wp-content/uploads/2026/08/ind_1786061295.webp"
+    },
+    {
+        "titulo": "Meta’s Muse Spark 1.1 hacked an external organization during cybersecurity test",
+        "fonte": "SiliconANGLE News",
+        "autor": "Maria Deutscher",
+        "data": "2026-08-06",
+        "url": "https://siliconangle.com/2026/08/06/metas-muse-spark-1-1-hacked-external-organization-cybersecurity-test/",
+        "resumo": "A large language model developed by Meta Platforms Inc. hacked a third party organization during a cybersecurity evaluation. The Facebook parent disclosed the incident on Wednesday without specifying the LLM. According to The Information, the cyberattack was …",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Meta_Headquarters_Sign.jpg"
+    },
+    {
+        "titulo": "Meta says its AI model hacked another company, adding to worries about bots",
+        "fonte": "Abcnews.com",
+        "autor": "BARBARA ORTUTAY AP technology writer",
+        "data": "2026-08-06",
+        "url": "https://abcnews.com/Business/wireStory/meta-ai-model-hacked-company-adding-worries-bots-135437950",
+        "resumo": "Meta on Thursday said that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue",
+        "imagem": "https://i.abcnewsfe.com/a/38cf1a51-2ae5-4bf0-b3ad-742a69a323ee/wirestory_0e8061437da6779be962b24ac134a514_16x9.jpg?w=1600"
+    },
+    {
+        "titulo": "Why AI sandbox escapes are cybersecurity’s newest attack surface",
+        "fonte": "SiliconANGLE News",
+        "autor": "Valentina Villamil",
+        "data": "2026-08-06",
+        "url": "https://siliconangle.com/2026/08/06/ai-sandbox-escape-microsoft-copilot-blackhat/",
+        "resumo": "Security researchers have spent the past year watching AI accelerate attacks that already exist. A harder question is whether AI can create attack techniques that didn’t exist before. An AI sandbox escape — where an attacker breaks out of the isolated environ…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/IMG_7256.jpg"
+    },
+    {
+        "titulo": "Higher Costs, Insecure Software? How US Ban on Foreign Inverters Could Hit Solar",
+        "fonte": "PCMag.com",
+        "autor": "Michael Kan",
+        "data": "2026-08-06",
+        "url": "https://uk.pcmag.com/batteries-power/166598/higher-costs-insecure-software-how-us-ban-on-foreign-inverters-could-hit-solar",
+        "resumo": "About 50% of the US inverter market for solar energy is dominated by Chinese companies, an analyst at Wood Mackenzie says. But don&#x27;t expect too much impact on the residential market yet. The US’s sudden ban on foreign-made power inverters, which are often use…",
+        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/h/higher-cos/higher-costs-insecure-software-how-us-ban-on-foreign-inverte_ug36.1200.png"
+    },
+    {
+        "titulo": "Broadcom updates VMware security for AI-era threats",
+        "fonte": "SiliconANGLE News",
+        "autor": "Paul Gillin",
+        "data": "2026-08-06",
+        "url": "https://siliconangle.com/2026/08/06/broadcom-updates-vmware-security-ai-era-threats/",
+        "resumo": "Broadcom Inc. today introduced new security, performance and automation capabilities for VMware Cloud Foundation that are intended to help enterprises defend private clouds against artificial intelligence-assisted attacks while reducing operational complexity…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Broadcom.png"
+    },
+    {
+        "titulo": "Meta says its AI went rogue",
+        "fonte": "RT",
+        "autor": "RT",
+        "data": "2026-08-06",
+        "url": "https://www.rt.com/news/643955-meta-ai-escape-hacking/",
+        "resumo": "Meta has claimed that its flagship AI model escaped testing and carried out a hacking operation, similar to recent incidents involving OpenAI and Anthropic",
+        "imagem": "https://mf.b37mrtl.ru/files/2026.08/article/6a74c2cd203027490104710b.jpg"
+    },
+    {
+        "titulo": "New details on OpenAI/Hugging Face attack emerge as security industry debates AI agent controls",
+        "fonte": "SiliconANGLE News",
+        "autor": "Mark Albertson",
+        "data": "2026-08-06",
+        "url": "https://siliconangle.com/2026/08/06/new-details-openai-hugging-face-attack-emerge-security-industry-debates-ai-agent-controls/",
+        "resumo": "How fast is artificial intelligence advancing? Behind the scenes at OpenAI Group PBC, AI agents are fluent, technically precise and occasionally profane in their extensive conversations…with each other. This was one of the more interesting details revealed by…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Black-Hat-2026.jpg"
+    },
+    {
+        "titulo": "Meta Says Its AI Model Escaped and Hacked a Third-Party Company Too",
+        "fonte": "Decrypt",
+        "autor": "Jason Nelson",
+        "data": "2026-08-06",
+        "url": "https://decrypt.co/375070/meta-says-ai-model-escaped-hack-third-party",
+        "resumo": "The company says a configuration error by an outside testing partner gave one of its Muse Spark models internet access during a cybersecurity evaluation.",
+        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/08/meta-logo-decrypt-style-02-gID_7.jpg"
+    },
+    {
+        "titulo": "Washington is keeping its AI rulebook private. Smaller AI labs aren’t happy.",
+        "fonte": "Fortune",
+        "autor": "Beatrice Nolan",
+        "data": "2026-08-06",
+        "url": "https://fortune.com/2026/08/06/washington-is-keeping-its-ai-rulebook-private-smaller-ai-labs-arent-happy/",
+        "resumo": "A new White House framework gives Washington early access to the most powerful AI systems on earth, but smaller labs say the process locks them out.",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2288807281-e1786034522415.jpg?resize=1200,600"
+    },
+    {
+        "titulo": "AI models have learned how to cheat. That might actually be a good thing.",
+        "fonte": "Vox",
+        "autor": "Bryan Walsh",
+        "data": "2026-08-06",
+        "url": "https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking",
+        "resumo": "The fake identities were the part that stopped me. In late July, according to a report published this week by Britain’s AI Security Institute (AISI), an Anthropic model called Claude Mythos 5 tried to sneak malicious code into a piece of free, volunteer-built…",
+        "imagem": "https://platform.vox.com/wp-content/uploads/sites/2/2026/08/GettyImages-2268988414.jpg?quality=90&strip=all&crop=0%2C4.1884816753927%2C100%2C91.623036649215&w=1200"
+    },
+    {
+        "titulo": "Gen Further Accelerates in Q1 FY27 and Raises Full Year Guidance",
         "fonte": "PRNewswire",
         "autor": "",
         "data": "2026-08-06",
-        "url": "https://www.prnewswire.com/news-releases/cattron-announces-cra-ready-wireless-remote-control-solutions-302843106.html",
-        "resumo": "With the European Cyber Resilience Act&#x27;s first reporting deadline approaching in September 2026, Cattron is among the first industrial and locomotive remote control manufacturers to confirm that CRA-ready products are available now. WARREN, Ohio, Aug. 6, 2026…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1963757/CRA-Press-Release.jpg?id=OA2825303&p=facebook"
+        "url": "https://www.prnewswire.com/news-releases/gen-further-accelerates-in-q1-fy27-and-raises-full-year-guidance-302845336.html",
+        "resumo": "TEMPE, Ariz. and PRAGUE, Aug. 6, 2026 /PRNewswire/ -- Gen Digital Inc. (NASDAQ: GEN), a global leader dedicated to powering Digital Freedom, released its results for its first quarter fiscal year 2027, which ended July 3, 2026. &quot;We are deepening our trusted r…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1965508/Q1FY27-One-Page-Graphic.jpg?id=OA2833581&p=facebook"
     },
     {
-        "titulo": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
+        "titulo": "OpenAI&#x27;s Models Shared Hacking Tips On a Secret Messaging Board Before Hugging Face Breach",
+        "fonte": "Slashdot.org",
+        "autor": "BeauHD",
         "data": "2026-08-06",
-        "url": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
-        "resumo": "A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). The vulnerability in question is CVE-2026-63077 (…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaatZ2xKx3CMoWOXqKbIp1Sd-rMbET1_QE2Lh10XAVc_g_Z18UUlW_RyR8BR0Nj-gqy9SZhnEq0ZBv_z63FfCBu-XGfH5yEzUsKBLicrlfXK2-iMsgZYkDDTW-HiEPV29TEjFSFF1PYXyDkZcyfe6LuUKkgu2nRe4E_XFNPOcxSrBmUZwi3tX_GgHafeZ9/s1700-e365/cisa-teamcity.jpg"
+        "url": "https://yro.slashdot.org/story/26/08/06/1815207/openais-models-shared-hacking-tips-on-a-secret-messaging-board-before-hugging-face-breach",
+        "resumo": "OpenAI researchers say multiple AI agents secretly created an internal message board to share hacking techniques, eventually finding ways around restrictions, exploiting a zero-day, and helping two models breach Hugging Face without human prompting. &quot;This is …",
+        "imagem": "https://a.fsdn.com/sd/topics/ai_64.png"
     },
     {
-        "titulo": "OWASP 2026 LLM Top 10: “The model will be fooled”",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-08-06",
-        "url": "https://www.helpnetsecurity.com/2026/08/06/owasp-2026-llm-top-10-released/",
-        "resumo": "The OWASP GenAI Security Project has released the 2026 edition of its Top 10 for LLM Applications and, for the first time, the list was influenced by real-world incidents. The two top entries – Prompt Injection and Sensitive Information Disclosure – remained …",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/08/05143534/owasp-genai_security-1-1500.webp"
-    },
-    {
-        "titulo": "FBI probes suspected Iranian cyberattacks on water systems in at least 12 states",
-        "fonte": "Naturalnews.com",
-        "autor": "Cassie B.",
-        "data": "2026-08-06",
-        "url": "https://www.naturalnews.com/2026-08-06-fbi-suspected-iranian-cyberattacks-water.html",
-        "resumo": "Coordinated cyberattacks hit water utilities in at least a dozen states, causing monitoring and control failures. The FBI suspects Iranian hackers, though President Trump blames state officials instead. No contamination has been confirmed, but one Georgia sys…",
-        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/immer-mehr-vernetzung-erhoeht-die-gefahr-von-hackerangriffen.jpg"
-    },
-    {
-        "titulo": "Meta latest AI firm to see model go rogue during testing",
-        "fonte": "Cointelegraph",
-        "autor": "Cointelegraph by Felix Ng",
-        "data": "2026-08-06",
-        "url": "https://cointelegraph.com/news/meta-latest-ai-firm-to-see-model-go-rogue-during-testing",
-        "resumo": "The incident reportedly stemmed from a misconfigured testing environment, adding Meta to a growing list of AI firms whose models have escaped evaluation sandboxes.",
-        "imagem": "https://s3-images.ctmedia.io/media/article-covers/ai.jpg"
-    },
-    {
-        "titulo": "ITNE: CxO, Developer, DevOps.com, Java, Anysphere, Commvault, F5, OpenAI, Rubrik, Sophos, Marketing Events - Tue PM",
-        "fonte": "Substack.com",
-        "autor": "It News And Events",
-        "data": "2026-08-06",
-        "url": "https://itnews.substack.com/p/itne-cxo-developer-devopscom-java",
-        "resumo": "ITNE: CxO, Developer, DevOps.com, Java, Anysphere, Commvault, F5, OpenAI, Rubrik, Sophos, Marketing Events - Tue PMsubstack.com",
-        "imagem": "https://substackcdn.com/image/fetch/$s_!mG_N!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99d8e969-ce7d-4564-9dad-76920be56a84_1280x720.png"
-    },
-    {
-        "titulo": "Meta AI model hacks another company during testing",
-        "fonte": "The Times of India",
-        "autor": "Reuters",
-        "data": "2026-08-06",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-ai-model-hacks-another-company-during-testing/articleshow/132979286.cms",
-        "resumo": "In a recent security testing incident, Meta disclosed that an AI model infiltrated the company, echoing breaches at Anthropic and OpenAI. This series of events amplifies concerns regarding the interplay between advanced AI technologies and cybersecurity threa…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-65984,resizemode-75,msid-132979286/tech/artificial-intelligence/meta-ai-model-hacks-another-company-during-testing.jpg"
-    },
-    {
-        "titulo": "Three’s company: Meta says its AI agents went rogue during testing, too",
-        "fonte": "Business Insider",
-        "autor": "Shubhangi Goel",
-        "data": "2026-08-06",
-        "url": "https://www.businessinsider.com/meta-says-ai-agents-went-rogue-hack-testing-openai-anthropic-2026-8#article",
-        "resumo": "Meta has joined a growing list of companies that have said that their models hacked into an external company&#x27;s system during cybersecurity testing.",
-        "imagem": "https://i.insider.com/6a73e7f10c6c5a263f3a6d62?width=1200&format=jpeg"
-    },
-    {
-        "titulo": "Meta AI agent latest model to hack external company during testing",
-        "fonte": "ABC News (AU)",
-        "autor": "",
-        "data": "2026-08-06",
-        "url": "https://www.abc.net.au/news/2026-08-06/meta-ai-reports-agent-hacked-external-company-during-testing/107003246",
-        "resumo": "The incident will fan concerns about how developers can contain increasingly capable AI systems, after similar incidents at rival companies Anthropic and OpenAI.",
-        "imagem": "https://live-production.wcms.abc-cdn.net.au/73bcc964ecb3e0d75990cf282944c55c?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=323&width=862&height=485&imformat=generic"
-    },
-    {
-        "titulo": "How OpenAI&#x27;s agents broke out of testing to hack Hugging Face",
-        "fonte": "Biztoc.com",
-        "autor": "axios.com",
-        "data": "2026-08-06",
-        "url": "https://biztoc.com/x/d7e2d7393c926081",
-        "resumo": "Weeks before OpenAI&#x27;s agents hacked Hugging Face, the agents worked together to find and exploit a vulnerability in the infrastructure supporting the company&#x27;s cybersecurity testing, OpenAI researchers said Wednesday. Why it matters: The new findings raise qu…",
-        "imagem": "https://biztoc.com/cdn/d7e2d7393c926081_s.webp"
-    },
-    {
-        "titulo": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
-        "fonte": "Wired",
-        "autor": "Lily Hay Newman",
-        "data": "2026-08-06",
-        "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
-        "resumo": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
-        "imagem": "https://media.wired.com/photos/6a73a2815ac7830744b43e7a/191:100/w_1280,c_limit/080526-openai-agent-hacking.jpg"
-    },
-    {
-        "titulo": "Why IT security’s future is more than just AI models",
-        "fonte": "Redhat.com",
-        "autor": "",
-        "data": "2026-08-06",
-        "url": "https://www.redhat.com/en/blog/why-it-securitys-future-more-just-ai-models",
-        "resumo": "Much of the public discussion around AI and its impact on cybersecurity focuses almost exclusively on models, with some arguments calling for a central authority to manage the latest models behind closed doors. There have even been discussions around strictly…",
-        "imagem": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg"
-    },
-    {
-        "titulo": "An AI model from Meta also hacked another company during testing | CNN Business",
-        "fonte": "CNN",
-        "autor": "Hadas Gold",
-        "data": "2026-08-05",
-        "url": "https://www.cnn.com/2026/08/05/tech/meta-ai-hacking",
-        "resumo": "Add Meta to the list of companies with AI agents going rogue. An AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybersecurity testing, a spokesperson confirmed on Wednesday.",
-        "imagem": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-05t230136z-824417530-rc29c3a8ullx-rtrmadp-3-meta-cybersecuritya.JPG?c=16x9&q=w_800,c_fill"
-    },
-    {
-        "titulo": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
-        "fonte": "Wired",
-        "autor": "Matt Burgess",
-        "data": "2026-08-05",
-        "url": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
-        "resumo": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.",
-        "imagem": "https://media.wired.com/photos/6a7212f79008189a91ab1d18/191:100/w_1280,c_limit/Security_OpenAI%E2%80%99s%20Browser%20Could%20Be%20Hijacked%20to%20Send%20WhatsApp%20Spam_v1.jpg"
-    },
-    {
-        "titulo": "AWS partners with Anthropic and OpenAI to bring Continuum into coding tools",
-        "fonte": "SiliconANGLE News",
-        "autor": "Duncan Riley",
-        "data": "2026-08-05",
-        "url": "https://siliconangle.com/2026/08/05/aws-partners-anthropic-openai-bring-continuum-coding-tools/",
-        "resumo": "Amazon Web Services Inc. today said it has partnered with Anthropic PBC and OpenAI Group PBC to wire AWS Continuum for code vulnerabilities directly into the tools developers write code in. The integrations cover Anthropic’s Claude Code, OpenAI’s Codex and Ki…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/AWS-1.png"
-    },
-    {
-        "titulo": "Meta AI model hacks another company during testing",
-        "fonte": "CNA",
-        "autor": "",
-        "data": "2026-08-05",
-        "url": "https://www.channelnewsasia.com/business/meta-ai-model-hacks-another-company-during-testing-6302271",
-        "resumo": "Aug 5 : Meta said on Wednesday that one of its AI models hacked another company during cybersecurity testing, after an error by its testing partner gave the model unintended internet access.The incident adds to a growing list of cases in which AI agents from …",
-        "imagem": "https://dam.mediacorp.sg/image/upload/s--YvQ5hlog--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-05T223027Z_2_LYNXMPEM741XB_RTROPTP_3_INDIA-META-PLATFORMS.JPG?itok=jqUGujl2"
-    },
-    {
-        "titulo": "Anthropic’s New AI Model Can Identify More Software Bugs Than Ever. Microsoft Is Struggling To Fix Them Fast Enough.",
-        "fonte": "Techdirt",
-        "autor": "Renee Dudley and Doris Burke",
-        "data": "2026-08-05",
-        "url": "http://www.techdirt.com/2026/08/05/anthropics-new-ai-model-can-identify-more-software-bugs-than-ever-microsoft-is-struggling-to-fix-them-fast-enough/",
-        "resumo": "This story was originally published by ProPublica. Republished under a CC BY-NC-ND 3.0 license. On an afternoon in mid-May, dozens of Microsoft engineers and their managers gathered online and in a conference room at the company’s Redmond, Washington, headqua…",
-        "imagem": "http://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png"
-    },
-    {
-        "titulo": "Iranian hackers and America’s Achilles heel on water: default passwords",
+        "titulo": "OpenAI agents passed secret notes for months leading up to Hugging Face hack",
         "fonte": "Fortune",
-        "autor": "William Akoto, The Conversation",
-        "data": "2026-08-05",
-        "url": "https://fortune.com/2026/08/05/iran-hackers-water-systems-plc-breach/",
-        "resumo": "The FBI and EPA say attackers accessed internet-connected Rockwell Automation controllers and changed their IP addresses and passwords.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/07/AP26211784665247-e1785503724285.jpg?resize=1200,600"
+        "autor": "Emily Forlini",
+        "data": "2026-08-06",
+        "url": "https://fortune.com/2026/08/06/openai-agents-passed-secret-notes-for-months-leading-up-to-hugging-face-hack/",
+        "resumo": "At the Black Hat conference in Las Vegas, OpenAI gives its first in-depth look at how its AI models plotted and executed the breach with no human assistance.",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2287521404_03ae7c-e1786035210519.jpg?resize=1200,600"
+    },
+    {
+        "titulo": "Hackers Hit New Jersey Water Systems: Twelve States Now Hit in attack on America’s Drinking Water",
+        "fonte": "Offgridsurvival.com",
+        "autor": "OFFGRID Survival",
+        "data": "2026-08-06",
+        "url": "https://offgridsurvival.com/hackers-hit-new-jersey-water-systems-twelve-states-now-hit-in-attack-on-americas-drinking-water/",
+        "resumo": "Hackers Hit New Jersey Water Systems: Twelve States Now Hit in attack on America’s Drinking Water Hackers breached two New Jersey water systems despite years of cybersecurity laws and warnings. Officials still refuse to say which utilities were hit. 12 states…",
+        "imagem": "https://offgridsurvival.com/wp-content/themes/church_10/images/2026/03/waterinfrastructure.jpg"
+    },
+    {
+        "titulo": "Meta becomes third major AI lab after Anthropic and OpenAI to admit its agents have gone rogue—one day after Muse Code launch",
+        "fonte": "Fortune",
+        "autor": "Mia Osmonbekov",
+        "data": "2026-08-06",
+        "url": "https://fortune.com/2026/08/06/meta-agent-hack-openai-anthropic/",
+        "resumo": "Meta launched Muse Code to take on Anthropic and OpenAI—but the industry&#x27;s most advanced AI agents are breaking the limits of their digital confines",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2269982491-e1786042325689.jpg?resize=1200,600"
     }
 ]
