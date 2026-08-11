@@ -1,5 +1,140 @@
 [
     {
+        "titulo": "AI agents conspired to hack into networks and steal data during an experiment: study",
+        "fonte": "Defense One",
+        "autor": "Patrick Tucker",
+        "data": "2026-08-10",
+        "url": "https://www.defenseone.com/threats/2026/08/ai-agents-conspired-hack-networks-and-steal-data-during-experiment-study/415302/",
+        "resumo": "When researchers imposed difficult missions, AI tools forged identities, escaped sandboxes—and tried to cover it all up.",
+        "imagem": "https://cdn.defenseone.com/media/img/cd/2026/08/10/GettyImages_2282881169/open-graph.jpg"
+    },
+    {
+        "titulo": "Your email knows where your money is. AI could help hackers find it",
+        "fonte": "Business Standard",
+        "autor": "Sunainaa Chadha",
+        "data": "2026-08-10",
+        "url": "https://www.business-standard.com/finance/personal-finance/your-email-knows-where-your-money-is-ai-could-help-hackers-find-it-126081000671_1.html",
+        "resumo": "Barracuda controlled attack shows how attackers can weaponize an AI assistant to turn a single compromised account into CEO fraud and a $250K wire transfer scam",
+        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2017-02/24/thumb/featurecrop/1200X628/1487929062-6117.jpg"
+    },
+    {
+        "titulo": "Meta Confirms One of Its AI Models Breached a Company During a Misconfigured Cyber Test",
+        "fonte": "Ghacks Technology News",
+        "autor": "Arthur Kay",
+        "data": "2026-08-10",
+        "url": "https://www.ghacks.net/2026/08/10/meta-confirms-one-of-its-ai-models-breached-a-company-during-a-misconfigured-cyber-test/",
+        "resumo": "Meta has confirmed that one of its AI models breached a real organization during cybersecurity testing. Thank you for being a Ghacks reader. The post Meta Confirms One of Its AI Models Breached a Company During a Misconfigured Cyber Test appeared first on gHa…",
+        "imagem": "https://www.ghacks.net/wp-content/uploads/2026/08/gHacks-articles-2026-08-10T091000.393.png"
+    },
+    {
+        "titulo": "Super-Shedder Zero Day Is Coming: The mRNA Flu Shot Isn’t a Vaccine … It’s a Shedding Platform",
+        "fonte": "Naturalnews.com",
+        "autor": "Mike Adams",
+        "data": "2026-08-10",
+        "url": "https://www.naturalnews.com/2026-08-10-super-shedder-zero-day-is-coming.html",
+        "resumo": "Get Ready For Super Shedders (Opinion) This week, the FDA handed Moderna exactly what it wanted: approval of an mRNA flu shot for Americans aged 50 and older. It is “the first time the agency has licensed a messenger ribonucleic acid (mRNA) vaccine for season…",
+        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/mrna-flu-shot-vaccine-shedding-spike-protein-3293-original.jpg"
+    },
+    {
+        "titulo": "OpenAI&#x27;s Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-08-10",
+        "url": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
+        "resumo": "OpenAI has announced that it&#x27;s pausing some &quot;internal activities&quot; involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding and cybersecurity. In response to the …",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgat4Wvo6Fpe6pNG66UengjFIWRohQUVp-khyphenhyphenxa57n9Ued3-mWlDeeTQkblpAP-OEjgSCbY0n1bC_MhI3a5_BF1bWq7rBohkS2DG1AXUtcDI8MuWPRMFKGNdteA7_Xkg-_6w-y-wao14ZPQWoRF8cnbibQYHUAGP1byqwYyBpcyvCBQd0h2fe6t94zvoa4j/s1700-e365/openai-astra.jpg"
+    },
+    {
+        "titulo": "Critical Flaws Discovered in Belgian eID Software Used by 2 Million People",
+        "fonte": "Securityweek.com",
+        "autor": "Eduard Kovacs",
+        "data": "2026-08-10",
+        "url": "https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/",
+        "resumo": "The vulnerabilities affected software used by eight of Belgium’s ten largest banks and over 60 government agencies. The post Critical Flaws Discovered in Belgian eID Software Used by 2 Million People appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/08/eid-electronic-signature-e-signing.jpeg"
+    },
+    {
+        "titulo": "Can thieves pick locks?",
+        "fonte": "Lifesciencesworld.com",
+        "autor": "Ava Reynolds",
+        "data": "2026-08-10",
+        "url": "https://www.lifesciencesworld.com/can-thieves-pick-locks/",
+        "resumo": "Can Thieves Pick Locks? Unveiling the Truth About Lock Picking Security Yes, thieves can pick locks, but it’s not as common or easy as Hollywood portrays it. Skilled lock picking requires tools, practice, and knowledge, and modern security advancements often …",
+        "imagem": ""
+    },
+    {
+        "titulo": "North Korean hacking groups are building AI-powered cyberattack tools, and the results are already showing up in the wild",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-08-10",
+        "url": "https://cryptobriefing.com/north-korean-hackers-ai-cyberattack-tools/",
+        "resumo": "The integration of AI in North Korean cyberattacks could escalate global cybersecurity threats, enabling more sophisticated and rapid intrusions. The post North Korean hacking groups are building AI-powered cyberattack tools, and the results are already showi…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/09212515/north-korea-s-next-weapon-cyber-800x420.jpeg"
+    },
+    {
+        "titulo": "TP-Link’s Unpatchable Problem: When the Router Is the Vulnerability",
+        "fonte": "Forkast.news",
+        "autor": "Mila Cohen",
+        "data": "2026-08-09",
+        "url": "https://forkast.news/tp-links-unpatchable-problem-when-the-router-is-the-vulnerability/",
+        "resumo": "Your router is supposed to be the silent, trustworthy bouncer of your digital life, standing guard between your private data and the chaos of the internet. But what happens when that bouncer isn’t just incompetent, but fundamentally compromised by design? At …",
+        "imagem": "https://forkast.news/wp-content/uploads/2026/08/tplink-omada-ztp-hero-1024x687.jpg"
+    },
+    {
+        "titulo": "Meta AI model breach intensifies calls for stronger cybersecurity safeguards",
+        "fonte": "Crypto Briefing",
+        "autor": "Estefano Gomez",
+        "data": "2026-08-09",
+        "url": "https://cryptobriefing.com/meta-ai-model-breach-intensifies-calls-for-stronger-cybersecurity-safeguards/",
+        "resumo": "The breach highlights the urgent need for robust cybersecurity protocols, influencing AI industry standards and market confidence in AI firms. The post Meta AI model breach intensifies calls for stronger cybersecurity safeguards appeared first on Crypto Brief…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/09120347/meta-ai-model-breach-intensifies-calls-for-stronger-cybersec-1-800x420.jpeg"
+    },
+    {
+        "titulo": "The world&#x27;s leading AI companies are all struggling to contain their latest models",
+        "fonte": "Business Insider",
+        "autor": "Lakshmi Varanasi",
+        "data": "2026-08-09",
+        "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
+        "resumo": "There&#x27;s been a recent string of cybersecurity incidents among the world&#x27;s leading AI models. Here&#x27;s a look at what&#x27;s happened.",
+        "imagem": "https://s.yimg.com/lo/mysterio/api/6d761366218a2c5a9bcd2cce156fe20ed7255dc2e666220c40f3f33f0cd8a752/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fd40391572b9d8847f6cce637d6be4e96"
+    },
+    {
+        "titulo": "The world&#x27;s leading AI companies are all struggling to contain their latest models",
+        "fonte": "Business Insider",
+        "autor": "lvaranasi@businessinsider.com (Lakshmi Varanasi)",
+        "data": "2026-08-09",
+        "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8#article",
+        "resumo": "There&#x27;s been a recent string of cybersecurity incidents among the world&#x27;s leading AI models. Here&#x27;s a look at what&#x27;s happened.",
+        "imagem": "https://i.insider.com/6a778bae0c6c5a263f3a7ef5?width=1200&format=jpeg"
+    },
+    {
+        "titulo": "The AI safety test is becoming a safety risk | TechCrunch",
+        "fonte": "TechCrunch",
+        "autor": "Rebecca Bellan",
+        "data": "2026-08-09",
+        "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+        "resumo": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+        "imagem": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795"
+    },
+    {
+        "titulo": "Security Affairs newsletter Round 589 by Pierluigi Paganini – INTERNATIONAL EDITION",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-08-09",
+        "url": "https://securityaffairs.com/196911/security/security-affairs-newsletter-round-589-by-pierluigi-paganini-international-edition.html",
+        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including international press. Palo Alto Ne…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
+    },
+    {
+        "titulo": "OpenAI pauses Astra AI model over critical cybersecurity concerns",
+        "fonte": "The Times of India",
+        "autor": "ANI",
+        "data": "2026-08-09",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pauses-astra-ai-model-over-critical-cybersecurity-concerns/articleshow/133065840.cms",
+        "resumo": "Under OpenAI&#x27;s Preparedness Framework, the potential development of such capabilities triggers stricter safeguards, particularly when models could create risks of severe harm.OpenAI said it is &quot;pausing&quot; activities involving Astra while it strengthens its secu…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-26732,resizemode-75,msid-133065840/tech/artificial-intelligence/openai-pauses-astra-ai-model-over-critical-cybersecurity-concerns.jpg"
+    },
+    {
         "titulo": "Week in review: Cisco fixes IMC bug, Patch Tuesday forecast, Black Hat USA 2026",
         "fonte": "Help Net Security",
         "autor": "Anamarija Pogorelec",
@@ -43,140 +178,5 @@
         "url": "https://www.marketbeat.com/instant-alerts/ionq-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
         "resumo": "IonQ (NYSE:IONQ) reported second-quarter 2026 revenue of $80.1 million, up 287% from a year earlier, as the quantum computing company cited demand for its fi...",
         "imagem": "https://s.yimg.com/lo/mysterio/api/F2C5495BA9CF0F3A31DDF6C2D63C65C0B9AC903E69638BAF45082C94F179F620/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2Fd5f7cda96b5b95c0ebf11d5798162e6d"
-    },
-    {
-        "titulo": "Palo Alto Networks Faces China Cybersecurity Review Amid Rising Tech Tensions",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-08-08",
-        "url": "https://securityaffairs.com/196881/intelligence/palo-alto-networks-faces-china-cybersecurity-review-amid-rising-tech-tensions.html",
-        "resumo": "China opened a cybersecurity review of Palo Alto Networks, citing national security concerns but giving no details about the reasons behind the probe. China’s Cyberspace Administration (CAC) announced that it’s launching a cybersecurity review of products Pal…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/05/Palo-Alto-Networks.png"
-    },
-    {
-        "titulo": "Four Prosecutors Refused To Pursue Hacker Behind 2020 Breach Of 633K Arizona Voters",
-        "fonte": "Freerepublic.com",
-        "autor": "American Thinker",
-        "data": "2026-08-08",
-        "url": "https://freerepublic.com/focus/f-chat/4391084/posts",
-        "resumo": "After a hacker exfiltrated the data of 633,000 Maricopa County, Arizona, voter records in 2020, zero prosecutors at any level of government would prosecute despite urging from the FBI. Documents released Thursday morning by the White House Government Transpar…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Hugging Face hack marks start of dangerous AI cyber era and many firms &#x27;don&#x27;t even know it&#x27;",
-        "fonte": "CNBC",
-        "autor": "Samantha Subin",
-        "data": "2026-08-08",
-        "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-        "resumo": "The Black Hat cybersecurity conference in Las Vegas couldn&#x27;t have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.",
-        "imagem": "https://image.cnbcfm.com/api/v1/image/108346935-1786143490931-gettyimages-2219339316-AA_14062025_2286644.jpeg?v=1786143564&w=1920&h=1080"
-    },
-    {
-        "titulo": "AI labs shouldn’t be allowed to grade their own homework",
-        "fonte": "Fortune",
-        "autor": "Andrew Freedman, Gillian Hadfield",
-        "data": "2026-08-08",
-        "url": "https://fortune.com/2026/08/08/ai-labs-hacking-failures-agents/",
-        "resumo": "We know about AI labs&#x27; hacking failures only because the companies involved chose to tell us.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/08/IMG_9302.png?resize=1200,600"
-    },
-    {
-        "titulo": "U.S. CISA adds a Progress LoadMaster flaw to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-08-08",
-        "url": "https://securityaffairs.com/196863/hacking/u-s-cisa-adds-a-progress-loadmaster-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a Progress LoadMaster vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Progress LoadMaster vulnerability, t…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-08-08",
-        "url": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
-        "resumo": "N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product. &quot;We are proactively expanding protections in respo…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsaNpVaG83aDE1lJwcNllVSeS-ebafbbt4FgaKHH1_4dt1i4qvCtw-dYVrE_MiWf2GZ5vyGPhyphenhyphenCieChBz2IChMJew0I1Ze2HEYJpB-j3rB2VnfNrzbFpPDD7VFkWCkYBn2CJRLpOBIKNaeKPXlVPHpz7-1Wx9go7IfyUKSVNliDO644rNsoMmAk5a3Qf_W/s1700-e365/nc.jpg"
-    },
-    {
-        "titulo": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-08-08",
-        "url": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. …",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_DF22WirQj4KZe5A4NxYmG3UhC2o4BRQ4AybyFlmr80n5Wkf15sbtMn11P0msoMyAe65WBqMpL2XBsqTiHdDNNH1i6qz11ydD9X4AIOoiaSfCYb1MCe7dfJD0n4TEIc5_83tsMq5zJ5zVpGbpCq7b8rACen1oMvW8XGBbz3T4hy_9J6igpOk0oCDp6vkA/s1700-e365/progress.jpg"
-    },
-    {
-        "titulo": "Meta says its AI hacked another company during testing",
-        "fonte": "Naturalnews.com",
-        "autor": "Chase Codewell",
-        "data": "2026-08-08",
-        "url": "https://www.naturalnews.com/2026-08-08-meta-says-its-ai-hacked-another-company-testing.html",
-        "resumo": "Meta reports Muse Spark 1.1 breach during third-party testing Meta said Wednesday that Muse Spark 1.1, an AI model marketed as “superintelligent,” exploited a security vulnerability in systems operated by cybersecurity firm Irregular, accessed the open intern…",
-        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/ai-security-meta-ai-muse-spark-11-3219-original.jpg"
-    },
-    {
-        "titulo": "Cyber risk management redefined through AI-speed detection and zero-day remediation",
-        "fonte": "SiliconANGLE News",
-        "autor": "Thomas Godwin",
-        "data": "2026-08-07",
-        "url": "https://siliconangle.com/2026/08/07/cyber-risk-management-qualys-roc-blackhat/",
-        "resumo": "As many organizations struggle to survive by rebuilding their cyber risk management with expediency in mind, Frontier AI is turning newly discovered vulnerabilities into usable weapons within hours. According to Sumedh Thakar (pictured), president and chief e…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Sumedh-Thakar.jpg"
-    },
-    {
-        "titulo": "Water Utilities Group Partners With DEF CON Offshoot For Water Watch Center",
-        "fonte": "Slashdot.org",
-        "autor": "BeauHD",
-        "data": "2026-08-07",
-        "url": "https://it.slashdot.org/story/26/08/07/2137206/water-utilities-group-partners-with-def-con-offshoot-for-water-watch-center",
-        "resumo": "The National Rural Water Association has partnered with DEF CON Franklin to launch the Water Watch Center, which will provide threat intelligence and cybersecurity services to smaller U.S. water utilities serving fewer than 10,000 people. The initiative comes…",
-        "imagem": "https://a.fsdn.com/sd/topics/security_64.png"
-    },
-    {
-        "titulo": "Bugtraq Is Back: The Original Full Disclosure Mailing List Is Live Again",
-        "fonte": "GlobeNewswire",
-        "autor": "Bugtraq",
-        "data": "2026-08-07",
-        "url": "https://www.globenewswire.com/news-release/2026/08/07/3341415/0/en/bugtraq-is-back-the-original-full-disclosure-mailing-list-is-live-again.html",
-        "resumo": "Bugtraq Is Back: The Original Full Disclosure Mailing List Is Live Again...",
-        "imagem": "https://ml.globenewswire.com/Resource/Download/ab514d16-0c98-47c7-b710-10d5c49a99e0"
-    },
-    {
-        "titulo": "OpenAI Delays Next Major AI Model &#x27;Astra&#x27; Over Critical Hacking Concerns",
-        "fonte": "MacRumors",
-        "autor": "Juli Clover",
-        "data": "2026-08-07",
-        "url": "https://www.macrumors.com/2026/08/07/openai-astra-model-hacking-concerns/",
-        "resumo": "OpenAI today said it is &quot;pausing&quot; activities involving its upcoming AI model Astra, because its cyber capabilities are potentially too dangerous. OpenAI says its newest internal evaluations show &quot;significant advancements in agentic coding and cybersecurity,&quot; …",
-        "imagem": "https://images.macrumors.com/t/U8c29Jx5s6W0VfXG_UkIypqX2IA=/1600x/article-new/2025/12/openai-logo-word-mark.jpg"
-    },
-    {
-        "titulo": "Metabase SQLi zero-day exploited in customer data-theft attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Mayank Parmar",
-        "data": "2026-08-07",
-        "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
-        "resumo": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/08/07/metabase-header.jpg"
-    },
-    {
-        "titulo": "Four AI Escapes Just Redefined “Responsible AI”",
-        "fonte": "Forrester.com",
-        "autor": "Brian Hopkins",
-        "data": "2026-08-07",
-        "url": "https://www.forrester.com/blogs/four-ai-escapes-just-redefined-responsible-ai/",
-        "resumo": "In nine days this month, OpenAI and Anthropic disclosed that their own models escaped safety evaluations and reached production systems at four other companies. No model malfunctioned. The governance did. Responsible AI now has to govern what agents do, not o…",
-        "imagem": "https://go.forrester.com/wp-content/uploads/2026/08/Four-AI-Escapes-Just-Redefined-Responsible-AI.png"
-    },
-    {
-        "titulo": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-08-07",
-        "url": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
-        "resumo": "A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671. &quot;UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as …",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL6-qu-cN6glV6XSy1IS7siHKdKPFmzqT3X8TQjGCa0RD33kfIQ8NfEBR5r8dbQvj1OS8L6T083igxfS1VO98xlg7MHIMysbfR_cVpdmPMcYibuMwDZ6SssIi3iryUznGL14zUByy7oRrTJe0AjgGMNti_Rcqezh7dtfyU31vyo-zft3fvR56SCsAfeHrm/s1700-e365/vishing.jpg"
     }
 ]
