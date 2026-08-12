@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "AI agents conspired to hack into networks and steal data during an experiment: study",
-        "fonte": "Defense One",
-        "autor": "Patrick Tucker",
-        "data": "2026-08-10",
-        "url": "https://www.defenseone.com/threats/2026/08/ai-agents-conspired-hack-networks-and-steal-data-during-experiment-study/415302/",
-        "resumo": "When researchers imposed difficult missions, AI tools forged identities, escaped sandboxes—and tried to cover it all up.",
-        "imagem": "https://cdn.defenseone.com/media/img/cd/2026/08/10/GettyImages_2282881169/open-graph.jpg"
+        "titulo": "OpenAI Pauses Some Development of Astra Model on Security Concerns",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Phil Muncaster",
+        "data": "2026-08-11",
+        "url": "https://www.infosecurity-magazine.com/news/openai-pauses-development-astra/",
+        "resumo": "OpenAI is tightening restrictions on testing of its upcoming Astra model due to security concerns",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/5e61ac16-1db0-4b69-b213-adb1454211c9.jpg"
     },
     {
-        "titulo": "Your email knows where your money is. AI could help hackers find it",
+        "titulo": "OpenAI expands Daybreak with GPT-5.6-Cyber model as AI cyber breaches surge",
         "fonte": "Business Standard",
-        "autor": "Sunainaa Chadha",
-        "data": "2026-08-10",
-        "url": "https://www.business-standard.com/finance/personal-finance/your-email-knows-where-your-money-is-ai-could-help-hackers-find-it-126081000671_1.html",
-        "resumo": "Barracuda controlled attack shows how attackers can weaponize an AI assistant to turn a single compromised account into CEO fraud and a $250K wire transfer scam",
-        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2017-02/24/thumb/featurecrop/1200X628/1487929062-6117.jpg"
+        "autor": "Harsh Shivam",
+        "data": "2026-08-11",
+        "url": "https://www.business-standard.com/technology/tech-news/openai-daybreak-gpt-5-6-cyber-ai-cybersecurity-breaches-126081100597_1.html",
+        "resumo": "OpenAI&#x27;s GPT-5.6-Cyber targets advanced cybersecurity tasks, including vulnerability research, exploit validation and security testing",
+        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/11/thumb/featurecrop/1200X628/1786429138-6447.png"
     },
     {
-        "titulo": "Meta Confirms One of Its AI Models Breached a Company During a Misconfigured Cyber Test",
-        "fonte": "Ghacks Technology News",
-        "autor": "Arthur Kay",
-        "data": "2026-08-10",
-        "url": "https://www.ghacks.net/2026/08/10/meta-confirms-one-of-its-ai-models-breached-a-company-during-a-misconfigured-cyber-test/",
-        "resumo": "Meta has confirmed that one of its AI models breached a real organization during cybersecurity testing. Thank you for being a Ghacks reader. The post Meta Confirms One of Its AI Models Breached a Company During a Misconfigured Cyber Test appeared first on gHa…",
-        "imagem": "https://www.ghacks.net/wp-content/uploads/2026/08/gHacks-articles-2026-08-10T091000.393.png"
+        "titulo": "Who will be the Stanislav Petrov in your organization?",
+        "fonte": "Help Net Security",
+        "autor": "Help Net Security",
+        "data": "2026-08-11",
+        "url": "https://www.helpnetsecurity.com/2026/08/11/governing-autonomous-ai-risks/",
+        "resumo": "The recent news coverage of “rogue AI” systems hacking innocent companies reminded me of one of the world’s most unsung heroes and genuinely someone who may well have saved the world. In 1983, the USSR’s early warning systems reported that the United States h…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/04/04143313/question.webp"
     },
     {
-        "titulo": "Super-Shedder Zero Day Is Coming: The mRNA Flu Shot Isn’t a Vaccine … It’s a Shedding Platform",
+        "titulo": "OpenAI Models Breached Hugging Face During Test, Company Confirms",
         "fonte": "Naturalnews.com",
-        "autor": "Mike Adams",
-        "data": "2026-08-10",
-        "url": "https://www.naturalnews.com/2026-08-10-super-shedder-zero-day-is-coming.html",
-        "resumo": "Get Ready For Super Shedders (Opinion) This week, the FDA handed Moderna exactly what it wanted: approval of an mRNA flu shot for Americans aged 50 and older. It is “the first time the agency has licensed a messenger ribonucleic acid (mRNA) vaccine for season…",
-        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/mrna-flu-shot-vaccine-shedding-spike-protein-3293-original.jpg"
+        "autor": "Chase Codewell",
+        "data": "2026-08-11",
+        "url": "https://www.naturalnews.com/2026-08-11-openai-models-breached-hugging-face-during-test.html",
+        "resumo": "OpenAI said in July that an autonomous agent powered by its advanced artificial intelligence (AI) models went rogue during a security test and triggered a hack that compromised the infrastructure of AI startup Hugging Face [11]. The company said the agent esc…",
+        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/openai-hugging-face-ai-agent-3302-original.jpg"
     },
     {
-        "titulo": "OpenAI&#x27;s Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
+        "titulo": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-08-10",
-        "url": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
-        "resumo": "OpenAI has announced that it&#x27;s pausing some &quot;internal activities&quot; involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding and cybersecurity. In response to the …",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgat4Wvo6Fpe6pNG66UengjFIWRohQUVp-khyphenhyphenxa57n9Ued3-mWlDeeTQkblpAP-OEjgSCbY0n1bC_MhI3a5_BF1bWq7rBohkS2DG1AXUtcDI8MuWPRMFKGNdteA7_Xkg-_6w-y-wao14ZPQWoRF8cnbibQYHUAGP1byqwYyBpcyvCBQd0h2fe6t94zvoa4j/s1700-e365/openai-astra.jpg"
+        "data": "2026-08-11",
+        "url": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
+        "resumo": "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform&#x27;s plugins team to temporarily disable their downloads. &quot;Unlike traditional software supply …",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh96gU64z_xM5LiLI39IXPndJ1felnUkfQmWxQ2sGfE9r_yYK6AKPLV3x6uVWeZxZoEsJwy0h7OUHILX1sAbwc6MYHpIeeTvCVeH52TnCInqqjjRPW4-Sx7gPPq4abN7ltCnClrjRhDDqyON8UBxcKFjoyubm7CeEgaZos3j4OCLJdRozfEOrDX1rPsnSoF/s1700-e365/wordpress.jpg"
     },
     {
-        "titulo": "Critical Flaws Discovered in Belgian eID Software Used by 2 Million People",
-        "fonte": "Securityweek.com",
-        "autor": "Eduard Kovacs",
-        "data": "2026-08-10",
-        "url": "https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/",
-        "resumo": "The vulnerabilities affected software used by eight of Belgium’s ten largest banks and over 60 government agencies. The post Critical Flaws Discovered in Belgian eID Software Used by 2 Million People appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/08/eid-electronic-signature-e-signing.jpeg"
+        "titulo": "Opinion: Europe needs to start treating the climate emergency as a threat to our national security",
+        "fonte": "The Irish Times",
+        "autor": "Patrick Bresnihan",
+        "data": "2026-08-11",
+        "url": "https://www.irishtimes.com/opinion/2026/08/11/opinion-europe-needs-to-start-treating-the-climate-emergency-as-a-threat-to-our-national-security/",
+        "resumo": "Idea that climate action is about individual responsibility is as ridiculous as suggesting everyone can equip themselves to fight in war",
+        "imagem": "https://www.irishtimes.com/resizer/v2/Z65DSG2I2SKU4MJ6YQG3ZML23Y.jpg?smart=true&auth=0f84bf5dc91595f9db08dee0fe2bb54d0dda0ba44151bbe681ee1447c47bd973&width=1200&height=630"
     },
     {
-        "titulo": "Can thieves pick locks?",
-        "fonte": "Lifesciencesworld.com",
-        "autor": "Ava Reynolds",
-        "data": "2026-08-10",
-        "url": "https://www.lifesciencesworld.com/can-thieves-pick-locks/",
-        "resumo": "Can Thieves Pick Locks? Unveiling the Truth About Lock Picking Security Yes, thieves can pick locks, but it’s not as common or easy as Hollywood portrays it. Skilled lock picking requires tools, practice, and knowledge, and modern security advancements often …",
-        "imagem": ""
+        "titulo": "Cybersecurity jobs available right now: August 11, 2026",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-08-11",
+        "url": "https://www.helpnetsecurity.com/2026/08/11/cybersecurity-jobs-available-right-now-august-11-2026/",
+        "resumo": "CTI Detection Engineer Department of Parliamentary Services | Australia | Hybrid – View job details As a CTI Detection Engineer, you will lead the detection lifecycle by identifying detection gaps, developing and validating detection logic, deploying and tuni…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140416/cybersecurity_jobs-1-1500.webp"
     },
     {
-        "titulo": "North Korean hacking groups are building AI-powered cyberattack tools, and the results are already showing up in the wild",
+        "titulo": "OpenAI expands Daybreak cybersecurity research program",
+        "fonte": "SiliconANGLE News",
+        "autor": "Maria Deutscher",
+        "data": "2026-08-11",
+        "url": "https://siliconangle.com/2026/08/10/openai-expands-daybreak-cybersecurity-research-program/",
+        "resumo": "OpenAI Group PBC is expanding a program that enables cybersecurity professionals to use its models for vulnerability research. Daybreak, as the the program is called, launched in May. OpenAI today added two new access tiers called Daybreak Blue and Daybreak R…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/OpenAI1.png"
+    },
+    {
+        "titulo": "das-llm added to PyPI",
+        "fonte": "Pypi.org",
+        "autor": "animeshs34@gmail.com",
+        "data": "2026-08-11",
+        "url": "https://pypi.org/project/das-llm/",
+        "resumo": "Deterministic Adversarial Simulation (DAS-LLM) Framework for LLM Security Invariants",
+        "imagem": "https://pypi.org/static/images/twitter.abaf4b19.webp"
+    },
+    {
+        "titulo": "Policy as code: What happens when you layer policy enforcement onto the automation you already have",
+        "fonte": "Redhat.com",
+        "autor": "",
+        "data": "2026-08-11",
+        "url": "https://www.redhat.com/en/blog/policy-code-what-happens-when-you-layer-policy-enforcement-automation-you-already-have",
+        "resumo": "Policy enforcement has moved to the forefront. Let’s break down why this is the case and how policies can help you improve governance as you stay in control of operations.First, let’s examine your current production environment. Compliance, governance, and se…",
+        "imagem": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg"
+    },
+    {
+        "titulo": "As AI-led attacks multiply, OpenAI launches a new cyber model | TechCrunch",
+        "fonte": "TechCrunch",
+        "autor": "Lucas Ropek",
+        "data": "2026-08-10",
+        "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+        "resumo": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+        "imagem": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
+    },
+    {
+        "titulo": "Cyber Vulnerability Sweep Picks Up Royal Navy Drones Sending Data To China",
+        "fonte": "Slashdot.org",
+        "autor": "BeauHD",
+        "data": "2026-08-10",
+        "url": "https://tech.slashdot.org/story/26/08/10/2043251/cyber-vulnerability-sweep-picks-up-royal-navy-drones-sending-data-to-china",
+        "resumo": "A routine security assessment found that cameras aboard Royal Navy Kraken unmanned surface vessels were sending &quot;heartbeat&quot; signals to an IP address in China. &quot;A thorough investigation found no evidence of MoD data or systems being accessed, compromised or tr…",
+        "imagem": "https://a.fsdn.com/sd/topics/military_64.png"
+    },
+    {
+        "titulo": "Corma launches with $60M in funding for defensive cybersecurity AI",
+        "fonte": "SiliconANGLE News",
+        "autor": "Duncan Riley",
+        "data": "2026-08-10",
+        "url": "https://siliconangle.com/2026/08/10/corma-launches-60m-funding-defensive-cybersecurity-ai/",
+        "resumo": "Defensive cybersecurity startup Corma Labs Ltd. today announced it has raised $60 million in seed funding to build a foundation model purpose-built for security defense. Founded in 2025, Corma runs offices in Tel Aviv and San Francisco and describes itself as…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Corma-team.-Credit-Avishag-Shaar-Yashuv..jpeg"
+    },
+    {
+        "titulo": "Harness Up For Our Black Hat 2026 Recap",
+        "fonte": "Forrester.com",
+        "autor": "Jess Burn",
+        "data": "2026-08-10",
+        "url": "https://www.forrester.com/blogs/harness-up-for-our-black-hat-2026-recap/",
+        "resumo": "Black Hat 2026 generated more questions than it answered. Are we headed for a vulnerability apocalypse (aka vulnpocalypse), or are we clearing a backlog of flaws that AI can now find with ease? Can organizations patch fast enough? What should buyers expect fr…",
+        "imagem": "https://go.forrester.com/wp-content/uploads/2026/08/BH-Blog_081026.png"
+    },
+    {
+        "titulo": "GPT-5.6-Cyber offers fewer refusals—but only to approved defenders",
+        "fonte": "4sysops.com",
+        "autor": "IT News",
+        "data": "2026-08-10",
+        "url": "https://4sysops.com/archives/gpt-5-6-cyber-offers-fewer-refusals-but-only-to-approved-defenders/",
+        "resumo": "OpenAI has launched GPT-5.6-Cyber, a cybersecurity model designed to help find vulnerabilities, validate exploits, and respond to incidents. The model is not available to the public: organizations must access it through approved security partners and OpenAI’s…",
+        "imagem": "https://4sysops.com/wp-content/uploads/2026/08/gpt-5-6-cyber-offers-fewer-refusals-but-only-to-approved-defenders.jpg"
+    },
+    {
+        "titulo": "AWS embeds security into OpenAI, Anthropic coding tools with new Continuum integrations",
         "fonte": "Crypto Briefing",
         "autor": "Editorial Team",
         "data": "2026-08-10",
-        "url": "https://cryptobriefing.com/north-korean-hackers-ai-cyberattack-tools/",
-        "resumo": "The integration of AI in North Korean cyberattacks could escalate global cybersecurity threats, enabling more sophisticated and rapid intrusions. The post North Korean hacking groups are building AI-powered cyberattack tools, and the results are already showi…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/09212515/north-korea-s-next-weapon-cyber-800x420.jpeg"
+        "url": "https://cryptobriefing.com/aws-continuum-security-openai-anthropic-coding/",
+        "resumo": "AWS&#x27;s integration of security into AI coding tools enhances real-time vulnerability management, reinforcing DevSecOps and platform flexibility. The post AWS embeds security into OpenAI, Anthropic coding tools with new Continuum integrations appeared first on …",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/10162038/amazon-web-services-logo-1-800x420.jpeg"
     },
     {
-        "titulo": "TP-Link’s Unpatchable Problem: When the Router Is the Vulnerability",
-        "fonte": "Forkast.news",
-        "autor": "Mila Cohen",
-        "data": "2026-08-09",
-        "url": "https://forkast.news/tp-links-unpatchable-problem-when-the-router-is-the-vulnerability/",
-        "resumo": "Your router is supposed to be the silent, trustworthy bouncer of your digital life, standing guard between your private data and the chaos of the internet. But what happens when that bouncer isn’t just incompetent, but fundamentally compromised by design? At …",
-        "imagem": "https://forkast.news/wp-content/uploads/2026/08/tplink-omada-ztp-hero-1024x687.jpg"
-    },
-    {
-        "titulo": "Meta AI model breach intensifies calls for stronger cybersecurity safeguards",
-        "fonte": "Crypto Briefing",
-        "autor": "Estefano Gomez",
-        "data": "2026-08-09",
-        "url": "https://cryptobriefing.com/meta-ai-model-breach-intensifies-calls-for-stronger-cybersecurity-safeguards/",
-        "resumo": "The breach highlights the urgent need for robust cybersecurity protocols, influencing AI industry standards and market confidence in AI firms. The post Meta AI model breach intensifies calls for stronger cybersecurity safeguards appeared first on Crypto Brief…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/09120347/meta-ai-model-breach-intensifies-calls-for-stronger-cybersec-1-800x420.jpeg"
-    },
-    {
-        "titulo": "The world&#x27;s leading AI companies are all struggling to contain their latest models",
-        "fonte": "Business Insider",
-        "autor": "Lakshmi Varanasi",
-        "data": "2026-08-09",
-        "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
-        "resumo": "There&#x27;s been a recent string of cybersecurity incidents among the world&#x27;s leading AI models. Here&#x27;s a look at what&#x27;s happened.",
-        "imagem": "https://s.yimg.com/lo/mysterio/api/6d761366218a2c5a9bcd2cce156fe20ed7255dc2e666220c40f3f33f0cd8a752/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fd40391572b9d8847f6cce637d6be4e96"
-    },
-    {
-        "titulo": "The world&#x27;s leading AI companies are all struggling to contain their latest models",
-        "fonte": "Business Insider",
-        "autor": "lvaranasi@businessinsider.com (Lakshmi Varanasi)",
-        "data": "2026-08-09",
-        "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8#article",
-        "resumo": "There&#x27;s been a recent string of cybersecurity incidents among the world&#x27;s leading AI models. Here&#x27;s a look at what&#x27;s happened.",
-        "imagem": "https://i.insider.com/6a778bae0c6c5a263f3a7ef5?width=1200&format=jpeg"
-    },
-    {
-        "titulo": "The AI safety test is becoming a safety risk | TechCrunch",
+        "titulo": "Tech industry is buzzing after a Claude agent hacked into a gym | TechCrunch",
         "fonte": "TechCrunch",
-        "autor": "Rebecca Bellan",
-        "data": "2026-08-09",
-        "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-        "resumo": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
-        "imagem": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795"
+        "autor": "Julie Bort",
+        "data": "2026-08-10",
+        "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+        "resumo": "An OpenClaw agent hacked into a gym&#x27;s reservation system to bump its human boss higher on a class&#x27; waitlist. And the tech industry took notice.",
+        "imagem": "https://techcrunch.com/wp-content/uploads/2026/08/Claw-weight.png?resize=1200,600"
     },
     {
-        "titulo": "Security Affairs newsletter Round 589 by Pierluigi Paganini – INTERNATIONAL EDITION",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-08-09",
-        "url": "https://securityaffairs.com/196911/security/security-affairs-newsletter-round-589-by-pierluigi-paganini-international-edition.html",
-        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including international press. Palo Alto Ne…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
+        "titulo": "Hackers talked their way into Levi’s, and three computers were enough",
+        "fonte": "The Next Web",
+        "autor": "Ana Maria Constantin",
+        "data": "2026-08-10",
+        "url": "https://thenextweb.com/news/levi-strauss-social-engineering-breach-corporate-data",
+        "resumo": "Levi Strauss has disclosed a breach that involved no software vulnerability at all. Attackers used social engineering to reach three employees’ work computers, then took corporate data out with them. The company set out the incident in a regulatory filing wit…",
+        "imagem": "https://media.thenextweb.com/2026/08/Levi-Strauss-logo.jpg"
     },
     {
-        "titulo": "OpenAI pauses Astra AI model over critical cybersecurity concerns",
-        "fonte": "The Times of India",
-        "autor": "ANI",
-        "data": "2026-08-09",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pauses-astra-ai-model-over-critical-cybersecurity-concerns/articleshow/133065840.cms",
-        "resumo": "Under OpenAI&#x27;s Preparedness Framework, the potential development of such capabilities triggers stricter safeguards, particularly when models could create risks of severe harm.OpenAI said it is &quot;pausing&quot; activities involving Astra while it strengthens its secu…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-26732,resizemode-75,msid-133065840/tech/artificial-intelligence/openai-pauses-astra-ai-model-over-critical-cybersecurity-concerns.jpg"
+        "titulo": "OpenAI releases ChatGPT 5.6 Cyber, but it&#x27;s only for approved users",
+        "fonte": "BleepingComputer",
+        "autor": "Mayank Parmar",
+        "data": "2026-08-10",
+        "url": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
+        "resumo": "OpenAI has developed a new model called &quot;GPT 5.6 Cyber,&quot; designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/11/27/OpenAI.jpg"
     },
     {
-        "titulo": "Week in review: Cisco fixes IMC bug, Patch Tuesday forecast, Black Hat USA 2026",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-08-09",
-        "url": "https://www.helpnetsecurity.com/2026/08/09/week-in-review-cisco-fixes-imc-bug-patch-tuesday-forecast-black-hat-usa-2026/",
-        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Mapping the malware blast radius a single alert won’t show you In this interview with Help Net Security, Mike Wiacek, founder and CTO of Stairwell, explains Back…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124830/cybersecurity-week-review-1-1500.webp"
-    },
-    {
-        "titulo": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
-        "fonte": "Decrypt",
-        "autor": "Jason Nelson",
-        "data": "2026-08-08",
-        "url": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities",
-        "resumo": "A volunteer security effort says it has scanned 150 Bitcoin repositories, disclosed more than a dozen vulnerabilities, and is building an open-source AI platform to automate software security reviews.",
-        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-17-gID_7.png"
-    },
-    {
-        "titulo": "These AI Models Can’t Stop Breaking Out Of Their Cages",
-        "fonte": "The Daily Caller",
-        "autor": "Sean Moran",
-        "data": "2026-08-08",
-        "url": "https://dailycaller.com/2026/08/08/ai-models-breaking-containment-safety-training-meta-anthropic-openai",
-        "resumo": "Leading artificial intelligence (AI) models continue to break containment during safety testing.",
-        "imagem": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/08/AI%20Robot%207x3%20Getty"
-    },
-    {
-        "titulo": "OpenAI Trained Models While They Were Coordinating Exploits via Message Boards",
-        "fonte": "Substack.com",
-        "autor": "Zvi Mowshowitz",
-        "data": "2026-08-08",
-        "url": "https://thezvi.substack.com/p/openai-trained-its-models-for-months",
-        "resumo": "How does the situation keep turning out to be worse than we know?",
-        "imagem": "https://substackcdn.com/image/fetch/$s_!Uu1z!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F943f6a34-f19d-49cb-998b-e672386423a1_1254x1254.png"
-    },
-    {
-        "titulo": "IonQ Q2 Earnings Call Highlights",
-        "fonte": "MarketBeat",
-        "autor": "MarketBeat",
-        "data": "2026-08-08",
-        "url": "https://www.marketbeat.com/instant-alerts/ionq-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-        "resumo": "IonQ (NYSE:IONQ) reported second-quarter 2026 revenue of $80.1 million, up 287% from a year earlier, as the quantum computing company cited demand for its fi...",
-        "imagem": "https://s.yimg.com/lo/mysterio/api/F2C5495BA9CF0F3A31DDF6C2D63C65C0B9AC903E69638BAF45082C94F179F620/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2Fd5f7cda96b5b95c0ebf11d5798162e6d"
+        "titulo": "OpenAI expands Daybreak cybersecurity initiative as AI agent threats evolve",
+        "fonte": "CNBC",
+        "autor": "Ashley Capoot",
+        "data": "2026-08-10",
+        "url": "https://www.cnbc.com/2026/08/10/open-ai-daybreak-cybersecurity.html",
+        "resumo": "The company introduced Daybreak in May as a way for its ecosystem partners to use its most advanced AI models to adapt to a rapidly changing threat landscape.",
+        "imagem": "https://image.cnbcfm.com/api/v1/image/108342712-17854396802026-07-30t192443z_1425227378_rc2jomagrr5j_rtrmadp_0_usa-trump-altman.jpeg?v=1785439715&w=1920&h=1080"
     }
 ]
