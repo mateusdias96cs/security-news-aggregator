@@ -1,173 +1,182 @@
 [
     {
-        "titulo": "OpenAI’s Daybreak Cyber Makes Offensive AI a Premium Product Category",
-        "fonte": "Forkast.news",
-        "autor": "Lena Park",
-        "data": "2026-08-12",
-        "url": "https://forkast.news/openais-daybreak-cyber-makes-offensive-ai-a-premium-product-category/",
-        "resumo": "The Economics of Offensive Capability OpenAI’s decision to price the Daybreak Red tier at $75 per million tokens for output — a 2.5x premium over the $30 charged for Daybreak Blue — reveals a calculated bet on the market value of offensive capability. By codi…",
-        "imagem": "https://forkast.news/wp-content/uploads/2026/08/hero-daybreak-cyber-1024x572.jpg"
-    },
-    {
-        "titulo": "Crypto companies urge AI firms to give Bitcoin developers early access",
-        "fonte": "Cointelegraph",
-        "autor": "Cointelegraph by Zoltan Vardai",
-        "data": "2026-08-12",
-        "url": "https://cointelegraph.com/news/crypto-companies-ai-firms-bitcoin-developers-access",
-        "resumo": "The Bitcoin Policy Institute and other industry participants urged AI companies to offer early access to their frontier models to aid Bitcoin and open-source developers in their cybersecurity efforts.",
-        "imagem": "https://s3-images.ctmedia.io/media/article-covers/blockchain-city-people-future-ai.jpg"
-    },
-    {
-        "titulo": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-08-12",
-        "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-        "resumo": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability i…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuo4K_GT6YrQhFiPQrrf58NN4PQM0_aYVTxWXeaJ1KsqjBJ69c746Hj6DyhGH-uzhZvEowVR8YMbITHBpOcT3OQevcTJg36qwJ1WfPtFZySMVg_B2JVBE763_JVHh3gn563WAYxf72bnd1g9QC2tkWd6Bbm9_TWXPhMxk1vnk6gxnUM4eDQNxXouVEtJ9i/s1700-e365/vmware.jpg"
-    },
-    {
-        "titulo": "NVIDIA Nemotron 3.5 Lightning Delivers 4X AI Throughput",
-        "fonte": "Geeky Gadgets",
-        "autor": "Julian Horsey",
-        "data": "2026-08-12",
-        "url": "https://www.geeky-gadgets.com/nemotron-3-5-lightning-model/",
-        "resumo": "NVIDIA’s Nemotron 3.5 Lightning is an AI model designed for execution-layer tasks, emphasizing speed and efficiency in workflows that require high throughput. According to Sam Witteveen, the model employs a hybrid member transformer architecture with an activ…",
-        "imagem": "https://www.geeky-gadgets.com/wp-content/uploads/2026/08/nvidia-nemotron-lightning.jpg"
-    },
-    {
-        "titulo": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-08-12",
-        "url": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
-        "resumo": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The vulnerability, rooted in Microsoft Defender for …",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9fX7D-qoT4QD3pjSuUtavTiarjtyitt3-JMji-nzNa8XTKefzPp2QGMAR6FkLA8r8Ll9VVFHCMEJSKWgi5Gk0GOdYU4RA1itDyf8ZQc12IXczcxoGHKXcJ9GAWUv-fPaRhRXnDyFfxo9nhjQoJbBPxQQbixY9RxaR_Oz_NrHD2P_EMER6yKTV3nWCSAoq/s1700-e365/zero-day.jpg"
-    },
-    {
-        "titulo": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-08-12",
-        "url": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
-        "resumo": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, tracked as CVE-2026-20349 (CVSS score: 8.…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIn51DQNDe2IfVEJzqiWXY9k8QyRhulSTcOh67As0Pj7Da1DCB5Lu1RBhjI55Y7_TF9PW9F9HOBn6moaPRNrpl0G_OGeMbC9z5BMfdOqtF6sHpd5tJLvQqnvlCd77R-4oCYiDVfFlUtRe4mp7W8cFDCHmJ8kz4TueVL06-jbGzpVdWasZF02YRwYyrZJc/s1700-e365/cisco-powerhouse.jpg"
-    },
-    {
-        "titulo": "PentestGPT: Open-source automated penetration testing agentic framework",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-08-12",
-        "url": "https://www.helpnetsecurity.com/2026/08/12/pentestgpt-open-source/",
-        "resumo": "PentestGPT is an open-source penetration testing agent that points a large language model at a target and lets it work. In its default mode it runs recon, then exploit, then walkthrough, each stage feeding the next. Switch it to pentest mode and the stages be…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/08/10102330/pentestgpt-1500.webp"
-    },
-    {
-        "titulo": "Nigeria seeks local cloud capacity to cut data costs",
-        "fonte": "The Punch",
-        "autor": "Punch Newspapers",
-        "data": "2026-08-12",
-        "url": "https://punchng.com/nigeria-seeks-local-cloud-capacity-to-cut-data-costs/",
-        "resumo": "Nigeria aims to expand local cloud capacity to reduce digital service costs, limit capital outflows, and create jobs, boosting its digital economy. Read More: https://punchng.com/nigeria-seeks-local-cloud-capacity-to-cut-data-costs/",
-        "imagem": "https://punchng.com/wp-content/uploads/2026/08/Kashifu_1786320490-910x630.webp"
-    },
-    {
-        "titulo": "IT Outsourcing And Cybersecurity Habits Of Thriving Businesses",
-        "fonte": "Addicted2success.com",
-        "autor": "Addicted2Success Editor",
-        "data": "2026-08-12",
-        "url": "https://addicted2success.com/tech/it-outsourcing-cybersecurity-habits-thriving-businesses/",
-        "resumo": "The Growing Importance of IT Outsourcing in Business Success In today’s rapidly evolving digital landscape, thriving businesses recognize the critical role that IT outsourcing plays in maintaining competitive advantage and operational efficiency. As companies…",
-        "imagem": "https://addicted2success.com/wp-content/uploads/2026/08/A-man-running-a-cyber-security-IT-team-Large-1000x600.jpeg"
-    },
-    {
-        "titulo": "How Successful Founders Leverage Managed IT For Growth",
-        "fonte": "Addicted2success.com",
-        "autor": "Addicted2Success Editor",
-        "data": "2026-08-12",
-        "url": "https://addicted2success.com/tech/how-founders-leverage-managed-it-growth/",
-        "resumo": "The Crucial Role of IT in Business Expansion In this digital-first economy, technology is no longer just a support function but a core driver of business growth and competitive advantage. Founders who grasp this evolving role are increasingly turning to manag…",
-        "imagem": "https://addicted2success.com/wp-content/uploads/2026/08/Founder-on-his-apple-laptop-managing-his-IT-team-1000x600.jpeg"
-    },
-    {
-        "titulo": "Banking’s Next AI Risk Is Cyber Autonomy",
-        "fonte": "pymnts.com",
-        "autor": "PYMNTS",
-        "data": "2026-08-11",
-        "url": "https://www.pymnts.com/cybersecurity/2026/bankings-next-ai-risk-is-cyber-autonomy/",
-        "resumo": "Artificial intelligence (AI) is no longer just helping cybersecurity teams find suspicious activity. It is starting to find vulnerabilities, test attack paths and, in some cases, act in ways that stretch the limits of the systems built to contain it. A clear …",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/08/cybersecurity-AI-banking-automation.jpeg"
-    },
-    {
-        "titulo": "The AI Lab Leak Has Already Started: These Machines Are Breaking Containment and Hitting the Real World",
-        "fonte": "Offgridsurvival.com",
-        "autor": "OFFGRID Survival",
-        "data": "2026-08-11",
-        "url": "https://offgridsurvival.com/the-ai-lab-leak-has-already-started-these-machines-are-breaking-containment-and-hitting-the-real-world/",
-        "resumo": "The AI Lab Leak Has Already Started: These Machines Are Breaking Containment and Hitting the Real World AI agents are already breaking containment, hacking real systems and deceiving humans. The AI lab leak everyone warned about may already be starting This A…",
-        "imagem": "https://offgridsurvival.com/wp-content/themes/church_10/images/2026/06/aideadinternet.jpg"
-    },
-    {
-        "titulo": "Accelerate cyber defense with OpenAI and AWS: Daybreak Red &amp; Daybreak Blue now available to eligible customers on Amazon Bedrock",
-        "fonte": "Amazon.com",
-        "autor": "Tanvi Girinath",
-        "data": "2026-08-11",
-        "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/",
-        "resumo": "Daybreak Red and Daybreak Blue from OpenAI, specialized cyber defense models from OpenAI, are now available on Amazon Bedrock to eligible customers. Both models run with zero-operator access enforced at the chip, keeping your code and vulnerability data secur…",
-        "imagem": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/11/Screenshot-2026-08-11-at-4.37.01 PM-1130x630.png"
-    },
-    {
-        "titulo": "California Building ‘AI Cyber Defense Fund’ to Protect Critical Infrastructure From Hackers",
-        "fonte": "Gizmodo.com",
-        "autor": "Webb Wright",
-        "data": "2026-08-11",
-        "url": "https://gizmodo.com/california-building-ai-cyber-defense-fund-to-protect-critical-infrastructure-from-hackers-2000797182",
-        "resumo": "Trump, meanwhile, is aiming to slash the federal government’s cybersecurity defense budget by more than $700 million.",
-        "imagem": "https://gizmodo.com/app/uploads/2026/08/Newsom-1200x675.jpg"
-    },
-    {
-        "titulo": "Frontier AI raises the cybersecurity bar: Why prediction must become prevention",
-        "fonte": "SiliconANGLE News",
-        "autor": "Zeus Kerravala",
-        "data": "2026-08-11",
-        "url": "https://siliconangle.com/2026/08/11/frontier-ai-raises-cybersecurity-bar-prediction-must-become-prevention/",
-        "resumo": "Artificial intelligence is a double-edged sword when it comes to cybersecurity. It is giving defenders new ways to sift through vast amounts of telemetry, identify anomalous behavior and automate routine work. But it is also giving attackers the ability to di…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/pictorylab-uturistic-control-room-8979122_1920-pedro-sorriso-pixabay.jpg"
-    },
-    {
-        "titulo": "Anthropic to start embedding invisible watermarks in Claude’s AI-generated text—as the industry scrambles to police AI slop",
-        "fonte": "Fortune",
-        "autor": "Beatrice Nolan",
-        "data": "2026-08-11",
-        "url": "https://fortune.com/2026/08/11/anthropic-claude-watermark-ai-text-police-ai-slop/",
-        "resumo": "New models will embed an invisible, machine-readable signal in AI-generated text, part of an industry-wide push to distinguish human writing from AI output.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2285051415-e1786470532843.jpg?resize=1200,600"
-    },
-    {
-        "titulo": "Coinbase, Strategy, and Blockstream back AI access push after vetted Bitcoin researcher gets blocked",
-        "fonte": "CryptoSlate",
-        "autor": "Oluwapelumi Adejumo",
-        "data": "2026-08-11",
-        "url": "https://cryptoslate.com/coinbase-strategy-and-blockstream-back-ai-access-push-after-vetted-bitcoin-researcher-gets-blocked/",
-        "resumo": "A 43-account launch roster says trusted access, sufficient compute and secure environments are becoming a defensive requirement. The post Coinbase, Strategy, and Blockstream back AI access push after vetted Bitcoin researcher gets blocked appeared first on Cr…",
-        "imagem": "https://cryptoslate.com/wp-content/uploads/2026/08/frontier-ai-vault.jpg"
-    },
-    {
-        "titulo": "Should you worry about autonomous AI hacks? Experts explain",
-        "fonte": "Abcnews.com",
-        "autor": "MAX ZAHN",
-        "data": "2026-08-11",
-        "url": "https://abcnews.com/Business/concern-worry-autonomous-ai-hacks-experts-explain/story?id=135514846",
-        "resumo": "Top AI firms revealed autonomous AI cyberattacks in recent weeks.",
-        "imagem": "https://s.yimg.com/lo/mysterio/api/c2f1deb6df634fa0daa0c335e199b1667bde61cba06b7da334fbb4f7b9422d85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2F391b8bcf1eed5bd8bbd9d4e70f823030.jpg"
-    },
-    {
-        "titulo": "The inconvenient truth about AI pentesting: someone has to check all the work",
+        "titulo": "Storm-1175 Replaces Medusa With New StormEncryptor Ransomware",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
-        "data": "2026-08-11",
-        "url": "https://securityaffairs.com/196991/ai/the-inconvenient-truth-about-ai-pentesting-someone-has-to-check-all-the-work.html",
-        "resumo": "AI pentesting can flood teams with findings they cannot validate. The real challenge is managing “validation debt” as discovery scales. AI pentesting has a ‘Sorcerer’s Apprentice’ problem. Enchant a broom to fetch water, and it will fetch water, relentlessly,…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2017/11/Artificial-Intelligence.jpg"
+        "data": "2026-08-13",
+        "url": "https://securityaffairs.com/197119/malware/storm-1175-replaces-medusa-with-new-stormencryptor-ransomware.html",
+        "resumo": "Microsoft says China-linked Storm-1175 is using a new ransomware called StormEncryptor, replacing Medusa in its latest attacks. Microsoft says China-linked, financially motivated threat actor Storm-1175 has begun using a new ransomware strain called StormEncr…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/08/image-33.png"
+    },
+    {
+        "titulo": "Cisco fixes vulnerability exploited to DoS its firewalls (CVE-2026-20349)",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-08-13",
+        "url": "https://www.helpnetsecurity.com/2026/08/13/cve-2026-20349-cisco-firewalls-dos/",
+        "resumo": "A high-severity vulnerability (CVE-2026-20349) is being leveraged by attackers to temporarily interrupt the operation of Cisco firewalls, the company has confirmed. The flaw has been added to CISA’s Known Exploited Vulnerabilities catalog and needs to be reme…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/01/23135631/cisco-flow.webp"
+    },
+    {
+        "titulo": "OpenAI-Hugging Face incident raises AI liability concerns",
+        "fonte": "Techtarget.com",
+        "autor": "Tim Murphy",
+        "data": "2026-08-13",
+        "url": "https://www.techtarget.com/it-strategy/feature/OpenAI-Hugging-Face-incident-raises-AI-liability-concerns",
+        "resumo": "AI agents create new liability risks for enterprises. CIOs must understand vendor contracts, insurance and governance practices before deploying autonomous systems.",
+        "imagem": "https://www.techtarget.com/rms/onlineimages/legal_g1065824400.jpg"
+    },
+    {
+        "titulo": "Palo Alto Networks to run OpenAI cyber models inside customer networks",
+        "fonte": "SiliconANGLE News",
+        "autor": "Duncan Riley",
+        "data": "2026-08-12",
+        "url": "https://siliconangle.com/2026/08/12/palo-alto-networks-run-openai-cyber-models-inside-customer-networks/",
+        "resumo": "Palo Alto Networks Inc. said today its Unit 42 consulting arm will put OpenAI Group PBC’s frontier cyber models to work inside customer environments, expanding a service it launched earlier this year to find the attack paths that artificial intelligence-equip…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/05/paloaltonetworksboothlogo2.jpg"
+    },
+    {
+        "titulo": "&#x27;Near-autonomous&#x27; AI agents attack Taiwan&#x27;s nuclear safety agency",
+        "fonte": "Theregister.com",
+        "autor": "Jessica Lyons",
+        "data": "2026-08-12",
+        "url": "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055",
+        "resumo": "Some say the world will end in fire, some say an agentic swarm",
+        "imagem": "https://image.theregister.com/5287075.jpg?imageId=5287075&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+        "titulo": "Download This Zoom Security Patch Right Now. Hackers Could Commandeer Your Camera",
+        "fonte": "Biztoc.com",
+        "autor": "inc.com",
+        "data": "2026-08-12",
+        "url": "https://biztoc.com/x/75fdaa796c850842",
+        "resumo": "Cybersecurity researchers identified a vulnerability that could allow bad actors to infiltrate Zoom and steal data.",
+        "imagem": "https://biztoc.com/cdn/75fdaa796c850842_s.webp"
+    },
+    {
+        "titulo": "Researcher creates workaround for Microsoft Defender security patch",
+        "fonte": "Computerworld",
+        "autor": "Evan Schuman",
+        "data": "2026-08-12",
+        "url": "https://www.computerworld.com/article/4208774/researcher-creates-workaround-for-microsoft-defender-security-patch-2.html",
+        "resumo": "Just weeks after Microsoft patched a critical hole in Microsoft Defender, a cybersecurity researcher has posted an apparent workaround that provides system-level control to attackers once they gain any level of access. The researcher, who goes by the na…",
+        "imagem": "https://www.computerworld.com/wp-content/uploads/2026/08/4208774-0-88733800-1786569279-shutterstock_editorial_1934605040-100947085-orig.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+        "titulo": "Researcher bypasses Microsoft Defender security patch, seizing control",
+        "fonte": "Computerworld",
+        "autor": "Evan Schuman",
+        "data": "2026-08-12",
+        "url": "https://www.computerworld.com/article/4208774/researcher-bypasses-microsoft-defender-security-patch-seizing-control-2.html",
+        "resumo": "Just weeks after Microsoft patched a critical hole in Microsoft Defender, a cybersecurity researcher has posted an apparent bypass that provides system-level control to attackers once they gain any level of access. The researcher, who goes by the name N…",
+        "imagem": "https://www.computerworld.com/wp-content/uploads/2026/08/4208774-0-24701900-1786607455-shutterstock_editorial_1934605040-100947085-orig.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+        "titulo": "Coalition for Health AI Mounts Effort Against Cyberattacks",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-08-12",
+        "url": "https://www.pymnts.com/cybersecurity/2026/coalition-for-health-ai-mounts-effort-against-cyberattacks/",
+        "resumo": "A healthcare nonprofit group focused on responsible artificial intelligence is turning its attention to cybersecurity. The Coalition for Health AI (CHAI) announced Wednesday (Aug. 12) the formation of its Health AI Cybersecurity Work Group, aimed giving healt…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/08/Coalition-for-Health-AI.png"
+    },
+    {
+        "titulo": "Federal Intelligence Chief Says AI Agents Need Birth Certificates",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-08-12",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/federal-intelligence-chief-says-ai-agents-need-birth-certificates/",
+        "resumo": "As its name suggests, the Zero Trust cybersecurity concept says users/devices should not automatically be trusted. However, security experts are now rethinking that approach amid the rise of agentic artificial intelligence (AI), Doug Cossa, intelligence commu…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/02/AI-agent-management.jpeg"
+    },
+    {
+        "titulo": "NIST wants to outfit the National Vulnerability Database with AI",
+        "fonte": "Nextgov",
+        "autor": "Alexandra Kelley",
+        "data": "2026-08-12",
+        "url": "https://www.nextgov.com/cybersecurity/2026/08/nist-wants-outfit-national-vulnerability-database-ai/415371/",
+        "resumo": "The National Institute of Standards and Technology is angling to modernize how it reports and responds to cyber vulnerabilities with the help of artificial intelligence.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/08/12/860x394-1/open-graph.jpg"
+    },
+    {
+        "titulo": "China-Linked Hackers Use AI Agents in Autonomous Attack on Taiwan",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-08-12",
+        "url": "https://securityaffairs.com/197079/apt/china-linked-hackers-use-ai-agents-in-autonomous-attack-on-taiwan.html",
+        "resumo": "China-linked hackers reportedly used eight AI agents to breach a government network, steal data and compromise accounts with minimal human oversight. Israeli cybersecurity firm Dream documented what looks like the first fully autonomous, end-to-end AI hacking…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg"
+    },
+    {
+        "titulo": "Disgruntled Researcher Discloses New Zero-Day in Windows Antivirus",
+        "fonte": "PCMag.com",
+        "autor": "Michael Kan",
+        "data": "2026-08-12",
+        "url": "https://uk.pcmag.com/antivirus/166682/disgruntled-researcher-discloses-new-zero-day-in-windows-antivirus",
+        "resumo": "The &#x27;ShieldBreak&#x27; flaw can let an attacker use Windows Defender to escalate their privileges on the OS. Microsoft previously threatened legal action against the researcher, Nightmare Eclipse. A disgruntled security researcher who&#x27;s been feuding with Microsoft…",
+        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/d/disgruntle/disgruntled-researcher-discloses-new-zero-day-in-windows-ant_4hzf.1200.jpg"
+    },
+    {
+        "titulo": "LiteLLM Attack Affected 2,500 Companies, 434,000 CI/CD Pipelines: CloudSEK",
+        "fonte": "DevOps.com",
+        "autor": "Jeff Burt",
+        "data": "2026-08-12",
+        "url": "https://devops.com/litellm-attack-affected-2500-companies-434000-ci-cd-pipelines-cloudsek/",
+        "resumo": "The massive supply-chain attack that compromised LiteLLM in the spring affected more than 2,500 companies and exposed about 434,000 CI/CD pipelines, with victims ranging from top-tier IT and AI companies to cybersecurity firms, SaaS, and enterprises. It rolle…",
+        "imagem": "https://devops.com/wp-content/uploads/2026/06/akrites_open_source_supply_chain_security_770x330.jpg"
+    },
+    {
+        "titulo": "CVE-2026-0292 Prisma Access Agent: Local Security Inspection Bypass Vulnerability on Windows (Severity: LOW)",
+        "fonte": "Paloaltonetworks.com",
+        "autor": "debianfix",
+        "data": "2026-08-12",
+        "url": "https://security.paloaltonetworks.com/CVE-2026-0292",
+        "resumo": "Related content: CVE-2026-0298 GlobalProtect App: Code Execution Vulnerability in Windows Pre-Logon Access Provider (PLAP) (Severity: MEDIUM) CVE-2026-0297 GlobalProtect App: Buffer Overflow Vulnerability during UDP Tunnel Handshake (Severity: MEDIUM) PAN-SA-…",
+        "imagem": "https://security.paloaltonetworks.com/LOW.png"
+    },
+    {
+        "titulo": "CVE-2026-0294 Prisma Access Agent: Local Privilege Escalation (Severity: MEDIUM)",
+        "fonte": "Paloaltonetworks.com",
+        "autor": "debianfix",
+        "data": "2026-08-12",
+        "url": "https://security.paloaltonetworks.com/CVE-2026-0294",
+        "resumo": "Related content: CVE-2026-0298 GlobalProtect App: Code Execution Vulnerability in Windows Pre-Logon Access Provider (PLAP) (Severity: MEDIUM) PAN-SA-2026-0011 Chromium: Monthly Vulnerability Update (August 2026) (Severity: HIGH) PAN-SA-2026-0010 Chromium and …",
+        "imagem": "https://security.paloaltonetworks.com/MEDIUM.png"
+    },
+    {
+        "titulo": "Lazarus hackers exploited Windows zero-day to target defense firms",
+        "fonte": "BleepingComputer",
+        "autor": "Bill Toulas",
+        "data": "2026-08-12",
+        "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
+        "resumo": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2023/08/31/Lazarus-1.jpg"
+    },
+    {
+        "titulo": "Chinese Hackers Created a &#x27;Near-Autonomous&#x27; Attack Using Open-Source AI",
+        "fonte": "PCMag.com",
+        "autor": "Michael Kan",
+        "data": "2026-08-12",
+        "url": "https://uk.pcmag.com/ai/166678/chinese-hackers-created-a-near-autonomous-attack-using-open-source-ai",
+        "resumo": "Hackers used open-source AI agents OpenClaw and Hermes to break into 85 government accounts and steal thousands of personal records in about four days. In a disturbing sign, Chinese hackers used open-source AI to create a “near-autonomous attack” capable of s…",
+        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/c/chinese-ha/chinese-hackers-created-a-near-autonomous-attack-using-open_agzy.1200.jpg"
+    },
+    {
+        "titulo": "Zoom’s Critical “Zoomsday” Vulnerability Allows Unauthorized Remote Control",
+        "fonte": "Ubergizmo",
+        "autor": "Paulo Montenegro",
+        "data": "2026-08-12",
+        "url": "https://www.ubergizmo.com/2026/08/zoom-vulnerability/",
+        "resumo": "Videoconferencing platform Zoom recently published an urgent security advisory to resolve critical vulnerabilities that could allow malicious attackers to gain complete remote control over user devices during active video calls. Discovered by cybersecurity re…",
+        "imagem": "https://i0.wp.com/cdnbunny.ubergizmo.com/wp-content/uploads/2026/08/Zoom-2-scaled.jpeg"
+    },
+    {
+        "titulo": "“Zoomsday” flaws could let one Zoom participant attack another",
+        "fonte": "Malwarebytes.com",
+        "autor": "Pieter Arntz",
+        "data": "2026-08-12",
+        "url": "https://www.malwarebytes.com/blog/bugs/2026/08/zoomsday-flaws-could-let-one-zoom-participant-attack-another",
+        "resumo": "Update Zoom now to protect against critical vulnerabilities that could allow an attacker in the same meeting to run malicious code on your device.",
+        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/08/zoomsday.png"
     }
 ]
