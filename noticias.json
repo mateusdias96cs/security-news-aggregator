@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Storm-1175 Replaces Medusa With New StormEncryptor Ransomware",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-08-13",
-        "url": "https://securityaffairs.com/197119/malware/storm-1175-replaces-medusa-with-new-stormencryptor-ransomware.html",
-        "resumo": "Microsoft says China-linked Storm-1175 is using a new ransomware called StormEncryptor, replacing Medusa in its latest attacks. Microsoft says China-linked, financially motivated threat actor Storm-1175 has begun using a new ransomware strain called StormEncr…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/08/image-33.png"
+        "titulo": "You’re easier to find than you think",
+        "fonte": "Americanthinker.com",
+        "autor": "",
+        "data": "2026-08-14",
+        "url": "https://www.americanthinker.com/blog/2026/08/you-re-easier-to-find-than-you-think/",
+        "resumo": "By Andrea WidburgIn the computer era, you are constantly being tracked, destroying your privacy. However, our new sponsor, Incogni, can help you regain your security and privacy.",
+        "imagem": "https://images.americanthinker.com/tf/tfdng0kmfbophig2qk6d_1200.jpg"
     },
     {
-        "titulo": "Cisco fixes vulnerability exploited to DoS its firewalls (CVE-2026-20349)",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-08-13",
-        "url": "https://www.helpnetsecurity.com/2026/08/13/cve-2026-20349-cisco-firewalls-dos/",
-        "resumo": "A high-severity vulnerability (CVE-2026-20349) is being leveraged by attackers to temporarily interrupt the operation of Cisco firewalls, the company has confirmed. The flaw has been added to CISA’s Known Exploited Vulnerabilities catalog and needs to be reme…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/01/23135631/cisco-flow.webp"
-    },
-    {
-        "titulo": "OpenAI-Hugging Face incident raises AI liability concerns",
-        "fonte": "Techtarget.com",
-        "autor": "Tim Murphy",
-        "data": "2026-08-13",
-        "url": "https://www.techtarget.com/it-strategy/feature/OpenAI-Hugging-Face-incident-raises-AI-liability-concerns",
-        "resumo": "AI agents create new liability risks for enterprises. CIOs must understand vendor contracts, insurance and governance practices before deploying autonomous systems.",
-        "imagem": "https://www.techtarget.com/rms/onlineimages/legal_g1065824400.jpg"
-    },
-    {
-        "titulo": "Palo Alto Networks to run OpenAI cyber models inside customer networks",
+        "titulo": "Nozomi partners with Sophos to put operational technology data in IT consoles",
         "fonte": "SiliconANGLE News",
         "autor": "Duncan Riley",
-        "data": "2026-08-12",
-        "url": "https://siliconangle.com/2026/08/12/palo-alto-networks-run-openai-cyber-models-inside-customer-networks/",
-        "resumo": "Palo Alto Networks Inc. said today its Unit 42 consulting arm will put OpenAI Group PBC’s frontier cyber models to work inside customer environments, expanding a service it launched earlier this year to find the attack paths that artificial intelligence-equip…",
-        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/05/paloaltonetworksboothlogo2.jpg"
+        "data": "2026-08-13",
+        "url": "https://siliconangle.com/2026/08/13/nozomi-partners-sophos-put-operational-technology-data-consoles/",
+        "resumo": "Nozomi Networks Inc. and Sophos Ltd. today announced a partnership that pushes operational technology telemetry from Nozomi’s Vantage platform into Sophos Fusion. Sophos launched the artificial intelligence-native defense system in July. It is one of the firs…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/nozomisophos.png"
     },
     {
-        "titulo": "&#x27;Near-autonomous&#x27; AI agents attack Taiwan&#x27;s nuclear safety agency",
-        "fonte": "Theregister.com",
-        "autor": "Jessica Lyons",
-        "data": "2026-08-12",
-        "url": "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055",
-        "resumo": "Some say the world will end in fire, some say an agentic swarm",
-        "imagem": "https://image.theregister.com/5287075.jpg?imageId=5287075&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        "titulo": "Letters to the editor",
+        "fonte": "TheJournal.ie",
+        "autor": "Christine Bohan",
+        "data": "2026-08-13",
+        "url": "https://www.thejournal.ie/letters-to-the-editor-6-7128651-Aug2026/",
+        "resumo": "Our readers on hare coursing, the Triple Lock, and restoring medical cards to people over 70.",
+        "imagem": "https://img2.thejournal.ie/article/7128651/river/?height=400&version=7130129"
     },
     {
-        "titulo": "Download This Zoom Security Patch Right Now. Hackers Could Commandeer Your Camera",
-        "fonte": "Biztoc.com",
-        "autor": "inc.com",
-        "data": "2026-08-12",
-        "url": "https://biztoc.com/x/75fdaa796c850842",
-        "resumo": "Cybersecurity researchers identified a vulnerability that could allow bad actors to infiltrate Zoom and steal data.",
-        "imagem": "https://biztoc.com/cdn/75fdaa796c850842_s.webp"
+        "titulo": "CISA just changed the rules. Is your vulnerability program ready?",
+        "fonte": "Nextgov",
+        "autor": "Tim Miller",
+        "data": "2026-08-13",
+        "url": "https://www.nextgov.com/ideas/2026/08/cisa-just-changed-rules-your-vulnerability-program-ready/415413/",
+        "resumo": "COMMENTARY | BOD 26-04 is a mandate about process. What it implies is a mandate about intelligence.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/08/13/GettyImages_2229245475/open-graph.jpg"
     },
     {
-        "titulo": "Researcher creates workaround for Microsoft Defender security patch",
-        "fonte": "Computerworld",
-        "autor": "Evan Schuman",
-        "data": "2026-08-12",
-        "url": "https://www.computerworld.com/article/4208774/researcher-creates-workaround-for-microsoft-defender-security-patch-2.html",
-        "resumo": "Just weeks after Microsoft patched a critical hole in Microsoft Defender, a cybersecurity researcher has posted an apparent workaround that provides system-level control to attackers once they gain any level of access. The researcher, who goes by the na…",
-        "imagem": "https://www.computerworld.com/wp-content/uploads/2026/08/4208774-0-88733800-1786569279-shutterstock_editorial_1934605040-100947085-orig.jpg?quality=50&strip=all&w=1024"
-    },
-    {
-        "titulo": "Researcher bypasses Microsoft Defender security patch, seizing control",
-        "fonte": "Computerworld",
-        "autor": "Evan Schuman",
-        "data": "2026-08-12",
-        "url": "https://www.computerworld.com/article/4208774/researcher-bypasses-microsoft-defender-security-patch-seizing-control-2.html",
-        "resumo": "Just weeks after Microsoft patched a critical hole in Microsoft Defender, a cybersecurity researcher has posted an apparent bypass that provides system-level control to attackers once they gain any level of access. The researcher, who goes by the name N…",
-        "imagem": "https://www.computerworld.com/wp-content/uploads/2026/08/4208774-0-24701900-1786607455-shutterstock_editorial_1934605040-100947085-orig.jpg?quality=50&strip=all&w=1024"
-    },
-    {
-        "titulo": "Coalition for Health AI Mounts Effort Against Cyberattacks",
-        "fonte": "pymnts.com",
-        "autor": "PYMNTS",
-        "data": "2026-08-12",
-        "url": "https://www.pymnts.com/cybersecurity/2026/coalition-for-health-ai-mounts-effort-against-cyberattacks/",
-        "resumo": "A healthcare nonprofit group focused on responsible artificial intelligence is turning its attention to cybersecurity. The Coalition for Health AI (CHAI) announced Wednesday (Aug. 12) the formation of its Health AI Cybersecurity Work Group, aimed giving healt…",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/08/Coalition-for-Health-AI.png"
-    },
-    {
-        "titulo": "Federal Intelligence Chief Says AI Agents Need Birth Certificates",
-        "fonte": "pymnts.com",
-        "autor": "PYMNTS",
-        "data": "2026-08-12",
-        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/federal-intelligence-chief-says-ai-agents-need-birth-certificates/",
-        "resumo": "As its name suggests, the Zero Trust cybersecurity concept says users/devices should not automatically be trusted. However, security experts are now rethinking that approach amid the rise of agentic artificial intelligence (AI), Doug Cossa, intelligence commu…",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/02/AI-agent-management.jpeg"
-    },
-    {
-        "titulo": "NIST wants to outfit the National Vulnerability Database with AI",
+        "titulo": "GAO official suggests addressing AI risks through existing legislation",
         "fonte": "Nextgov",
         "autor": "Alexandra Kelley",
-        "data": "2026-08-12",
-        "url": "https://www.nextgov.com/cybersecurity/2026/08/nist-wants-outfit-national-vulnerability-database-ai/415371/",
-        "resumo": "The National Institute of Standards and Technology is angling to modernize how it reports and responds to cyber vulnerabilities with the help of artificial intelligence.",
-        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/08/12/860x394-1/open-graph.jpg"
+        "data": "2026-08-13",
+        "url": "https://www.nextgov.com/policy/2026/08/gao-official-suggests-addressing-ai-risks-through-existing-legislation/415410/",
+        "resumo": "Nick Marinos, the managing director of IT and cybersecurity issues at GAO, said leveraging existing avenues for cybersecurity information sharing can expedite getting AI safety policies into law.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/08/13/GettyImages_1262381535/open-graph.jpg"
     },
     {
-        "titulo": "China-Linked Hackers Use AI Agents in Autonomous Attack on Taiwan",
+        "titulo": "Curiouser and Curiouser",
+        "fonte": "Talosintelligence.com",
+        "autor": "William Largent",
+        "data": "2026-08-13",
+        "url": "https://blog.talosintelligence.com/curiouser-and-curiouser/",
+        "resumo": "In this edition of the Threat Source newsletter, William reflects on the “Make Hazel a Hacker” segment in Beers with Talos, and how cybersecurity is a field where questions can lead to multiple correct answers.",
+        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/08/threat_source-1.jpg"
+    },
+    {
+        "titulo": "Adobe Commerce CVE-2026-71362 Comes Under Attack Shortly After Public Disclosure",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
-        "data": "2026-08-12",
-        "url": "https://securityaffairs.com/197079/apt/china-linked-hackers-use-ai-agents-in-autonomous-attack-on-taiwan.html",
-        "resumo": "China-linked hackers reportedly used eight AI agents to breach a government network, steal data and compromise accounts with minimal human oversight. Israeli cybersecurity firm Dream documented what looks like the first fully autonomous, end-to-end AI hacking…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg"
+        "data": "2026-08-13",
+        "url": "https://securityaffairs.com/197149/hacking/adobe-commerce-cve-2026-71362-comes-under-attack-shortly-after-public-disclosure.html",
+        "resumo": "Hackers began targeting a critical Adobe Commerce flaw that could let unauthenticated attackers hijack customer accounts and access private data. Hackers began targeting CVE-2026-71362 (CVSS score of 9.1), a critical Adobe Commerce flaw, shortly after its pub…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/08/image-34.png"
     },
     {
-        "titulo": "Disgruntled Researcher Discloses New Zero-Day in Windows Antivirus",
-        "fonte": "PCMag.com",
-        "autor": "Michael Kan",
-        "data": "2026-08-12",
-        "url": "https://uk.pcmag.com/antivirus/166682/disgruntled-researcher-discloses-new-zero-day-in-windows-antivirus",
-        "resumo": "The &#x27;ShieldBreak&#x27; flaw can let an attacker use Windows Defender to escalate their privileges on the OS. Microsoft previously threatened legal action against the researcher, Nightmare Eclipse. A disgruntled security researcher who&#x27;s been feuding with Microsoft…",
-        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/d/disgruntle/disgruntled-researcher-discloses-new-zero-day-in-windows-ant_4hzf.1200.jpg"
-    },
-    {
-        "titulo": "LiteLLM Attack Affected 2,500 Companies, 434,000 CI/CD Pipelines: CloudSEK",
-        "fonte": "DevOps.com",
-        "autor": "Jeff Burt",
-        "data": "2026-08-12",
-        "url": "https://devops.com/litellm-attack-affected-2500-companies-434000-ci-cd-pipelines-cloudsek/",
-        "resumo": "The massive supply-chain attack that compromised LiteLLM in the spring affected more than 2,500 companies and exposed about 434,000 CI/CD pipelines, with victims ranging from top-tier IT and AI companies to cybersecurity firms, SaaS, and enterprises. It rolle…",
-        "imagem": "https://devops.com/wp-content/uploads/2026/06/akrites_open_source_supply_chain_security_770x330.jpg"
-    },
-    {
-        "titulo": "CVE-2026-0292 Prisma Access Agent: Local Security Inspection Bypass Vulnerability on Windows (Severity: LOW)",
-        "fonte": "Paloaltonetworks.com",
-        "autor": "debianfix",
-        "data": "2026-08-12",
-        "url": "https://security.paloaltonetworks.com/CVE-2026-0292",
-        "resumo": "Related content: CVE-2026-0298 GlobalProtect App: Code Execution Vulnerability in Windows Pre-Logon Access Provider (PLAP) (Severity: MEDIUM) CVE-2026-0297 GlobalProtect App: Buffer Overflow Vulnerability during UDP Tunnel Handshake (Severity: MEDIUM) PAN-SA-…",
-        "imagem": "https://security.paloaltonetworks.com/LOW.png"
-    },
-    {
-        "titulo": "CVE-2026-0294 Prisma Access Agent: Local Privilege Escalation (Severity: MEDIUM)",
-        "fonte": "Paloaltonetworks.com",
-        "autor": "debianfix",
-        "data": "2026-08-12",
-        "url": "https://security.paloaltonetworks.com/CVE-2026-0294",
-        "resumo": "Related content: CVE-2026-0298 GlobalProtect App: Code Execution Vulnerability in Windows Pre-Logon Access Provider (PLAP) (Severity: MEDIUM) PAN-SA-2026-0011 Chromium: Monthly Vulnerability Update (August 2026) (Severity: HIGH) PAN-SA-2026-0010 Chromium and …",
-        "imagem": "https://security.paloaltonetworks.com/MEDIUM.png"
-    },
-    {
-        "titulo": "Lazarus hackers exploited Windows zero-day to target defense firms",
+        "titulo": "Microsoft patches LegacyHive Windows zero-day vulnerability",
         "fonte": "BleepingComputer",
-        "autor": "Bill Toulas",
-        "data": "2026-08-12",
-        "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
-        "resumo": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2023/08/31/Lazarus-1.jpg"
+        "autor": "Sergiu Gatlan",
+        "data": "2026-08-13",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
+        "resumo": "Microsoft has released security patches to address a Windows zero-day vulnerability known as &quot;LegacyHive,&quot; disclosed after the July 2026 Patch Tuesday. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Windows.jpg"
     },
     {
-        "titulo": "Chinese Hackers Created a &#x27;Near-Autonomous&#x27; Attack Using Open-Source AI",
-        "fonte": "PCMag.com",
-        "autor": "Michael Kan",
-        "data": "2026-08-12",
-        "url": "https://uk.pcmag.com/ai/166678/chinese-hackers-created-a-near-autonomous-attack-using-open-source-ai",
-        "resumo": "Hackers used open-source AI agents OpenClaw and Hermes to break into 85 government accounts and steal thousands of personal records in about four days. In a disturbing sign, Chinese hackers used open-source AI to create a “near-autonomous attack” capable of s…",
-        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/c/chinese-ha/chinese-hackers-created-a-near-autonomous-attack-using-open_agzy.1200.jpg"
+        "titulo": "Microsoft&#x27;s nemesis drops new zero-day privilege escalation vulnerability — attack grants system-level privileges, but it could already be patched",
+        "fonte": "Toms Hardware UK",
+        "autor": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
+        "data": "2026-08-13",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-nemesis-drops-new-zero-day-privilege-escalation-vulnerability-attack-grants-system-level-privileges-but-it-could-already-be-patched",
+        "resumo": "Nightmare Eclipse drops ShieldBreak, another Windows zero-day privilege escalation vulnerability, but Microsoft has rushed quickly to block it with Defender",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/CrscyWC2mg69wBbrK9dcpa-2176-80.jpg"
     },
     {
-        "titulo": "Zoom’s Critical “Zoomsday” Vulnerability Allows Unauthorized Remote Control",
-        "fonte": "Ubergizmo",
-        "autor": "Paulo Montenegro",
-        "data": "2026-08-12",
-        "url": "https://www.ubergizmo.com/2026/08/zoom-vulnerability/",
-        "resumo": "Videoconferencing platform Zoom recently published an urgent security advisory to resolve critical vulnerabilities that could allow malicious attackers to gain complete remote control over user devices during active video calls. Discovered by cybersecurity re…",
-        "imagem": "https://i0.wp.com/cdnbunny.ubergizmo.com/wp-content/uploads/2026/08/Zoom-2-scaled.jpeg"
+        "titulo": "U.S. CISA adds Metabase, Windows, and Cisco Secure Firewall flaws to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-08-13",
+        "url": "https://securityaffairs.com/197110/hacking/u-s-cisa-adds-metabase-windows-and-cisco-secure-firewall-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Metabase, Windows, and Cisco Secure Firewall flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabi…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
     },
     {
-        "titulo": "“Zoomsday” flaws could let one Zoom participant attack another",
-        "fonte": "Malwarebytes.com",
-        "autor": "Pieter Arntz",
-        "data": "2026-08-12",
-        "url": "https://www.malwarebytes.com/blog/bugs/2026/08/zoomsday-flaws-could-let-one-zoom-participant-attack-another",
-        "resumo": "Update Zoom now to protect against critical vulnerabilities that could allow an attacker in the same meeting to run malicious code on your device.",
-        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/08/zoomsday.png"
+        "titulo": "U.S. CISA adds Metabase, Windows, and Cisco Secure Firewall flaws to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-08-13",
+        "url": "https://securityaffairs.com/197110/uncategorized/u-s-cisa-adds-metabase-windows-and-cisco-secure-firewall-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Metabase, Windows, and Cisco Secure Firewall flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabi…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund",
+        "fonte": "Sniffnet.app",
+        "autor": "Giuliano Bellini",
+        "data": "2026-08-13",
+        "url": "https://sniffnet.app/news/github-secure-open-source-fund/",
+        "resumo": "Sniffnet took part in the GitHub Secure Open Source Fund. What the three-week sprint changed, and the steps any maintainer can follow to do the same.",
+        "imagem": "https://sniffnet.app/assets/img/post/github-secure-open-source-fund/cover.png"
+    },
+    {
+        "titulo": "Why Hackers Keep Going After U.S. Water Supplies",
+        "fonte": "Foreign Policy",
+        "autor": "Rishi Iyengar and Christina Lu",
+        "data": "2026-08-13",
+        "url": "http://foreignpolicy.com/2026/08/13/cyberattack-water-iran-united-states/",
+        "resumo": "A spate of new attacks believed to be linked to Iran has highlighted the water sector’s vulnerability.",
+        "imagem": "https://foreignpolicy.com/wp-content/uploads/2026/08/GettyImages-2180129278-1.jpg"
+    },
+    {
+        "titulo": "Daybreak Red and Daybreak Blue from OpenAI are now available to eligible customers on Amazon Bedrock",
+        "fonte": "Amazon.com",
+        "autor": "aws@amazon.com",
+        "data": "2026-08-13",
+        "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/openai-daybreak-red-and-blue-on-amazon-bedrock/",
+        "resumo": "Security teams can now access Daybreak Red and Daybreak Blue from OpenAI on Amazon Bedrock. Both are part of Daybreak, the cyber defense initiative from OpenAI that gives defenders governed access to frontier AI for cybersecurity work. Daybreak Blue is the s…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Rational Security: The &quot;Sloop John Stamos&quot; Edition",
+        "fonte": "Acast.com",
+        "autor": "",
+        "data": "2026-08-13",
+        "url": "https://shows.acast.com/lawfare/episodes/rational-security-the-sloop-john-stamos-edition",
+        "resumo": "This week, Scott sat down with his Lawfare colleagues Alan Rozenshtein, Michael Feinberg, and Loren Voss to talk through the week’s big news in national security, including:“Under Pressure.” Over the past two weeks, hackers have breached the industria…",
+        "imagem": "https://open-images.acast.com/shows/60518a52f69aa815d2dba41c/1786635008768-9d82555a-0ae9-4f77-aa7f-dcaf223ab06c.jpeg?height=315"
+    },
+    {
+        "titulo": "Halifax Water portal remains offline months after privacy incident",
+        "fonte": "CBC News",
+        "autor": "",
+        "data": "2026-08-13",
+        "url": "https://www.cbc.ca/news/canada/nova-scotia/halifax-water-web-portal-remains-offline-months-after-privacy-incident-9.7305938",
+        "resumo": "Halifax Water customers will continue getting paper bills while the utility works to address a recent privacy incident that saw 16 accounts affected.",
+        "imagem": "https://i.cbc.ca/ais/1.3415552,1453497080000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620"
+    },
+    {
+        "titulo": "A month with Anthropic’s Mythos left Rubrik rethinking remediation",
+        "fonte": "SiliconANGLE News",
+        "autor": "Duncan Riley",
+        "data": "2026-08-13",
+        "url": "https://siliconangle.com/2026/08/13/month-anthropics-mythos-left-rubrik-rethinking-remediation/",
+        "resumo": "Data resilience company Rubrik Inc. today said a month of scanning its own code with Anthropic PBC’s Mythos Preview model surfaced so many potential security issues that it rebuilt its review pipeline rather than hire reviewers. The details came in a blog pos…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/rubrikglasswing.png"
+    },
+    {
+        "titulo": "The backup Microsoft never promised you",
+        "fonte": "Theregister.com",
+        "autor": "Guy Matthews",
+        "data": "2026-08-13",
+        "url": "https://www.theregister.com/security/2026/08/13/sponsored-the-backup-microsoft-never-promised-you/5284957",
+        "resumo": "SPONSORED FEATURE: Your M365 and Azure data might not be as safe as you think from ransomware; time for a reality check",
+        "imagem": "https://image.theregister.com/5284959.jpg?imageId=5284959&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+        "titulo": "Crooks Are Learning to Love AI Hallucinations",
+        "fonte": "Ieee.org",
+        "autor": "David Berreby",
+        "data": "2026-08-13",
+        "url": "https://spectrum.ieee.org/ai-cyberattacks-llm-slop-squatting",
+        "resumo": "Large language model hallucinations are becoming a profitable side business for cybercriminals. They prod the AI models to answer prompts with non-existent but plausible-looking URLs, registering the domain names that recur often. Then the criminals set up ma…",
+        "imagem": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-an-ai-chatbot-thinking-about-a-secure-website-but-providing-information-about-an-illegitimate-url-in.jpg?id=67609971&width=1200&height=600&coordinates=0%2C87%2C0%2C413"
+    },
+    {
+        "titulo": "Black Hat USA 2026: Will vulnerability discovery eventually decline in the AI era?",
+        "fonte": "We Live Security",
+        "autor": "",
+        "data": "2026-08-13",
+        "url": "https://www.welivesecurity.com/en/business-security/black-hat-usa-2026-vulnerability-discovery-decline-ai-era/",
+        "resumo": "And will today’s surge in AI-driven vulnerability discovery eventually make tomorrow’s software safer?",
+        "imagem": ""
     }
 ]
