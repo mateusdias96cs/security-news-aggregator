@@ -1,5 +1,59 @@
 [
     {
+        "titulo": "Week in review: Salesforce and ServiceNow portals exposed for 17 months, exploited Metabase 0-day",
+        "fonte": "Help Net Security",
+        "autor": "Help Net Security",
+        "data": "2026-08-16",
+        "url": "https://www.helpnetsecurity.com/2026/08/16/week-in-review-salesforce-and-servicenow-portals-exposed-for-17-months-exploited-metabase-0-day/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: GitHub Dependabot malware alerts now cover eight ecosystems GitHub has flagged npm malware since March 2026. Anyone pulling in a bad PyPI, Maven, RubyGems, NuGet…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/16184416/week-in-review2.jpg"
+    },
+    {
+        "titulo": "Container security is moving from vulnerability detection to attack surface reduction",
+        "fonte": "SiliconANGLE News",
+        "autor": "Paul Nashawaty",
+        "data": "2026-08-15",
+        "url": "https://siliconangle.com/2026/08/15/container-security-attack-surface-reduction-appdevangle/",
+        "resumo": "Container security has spent years operating around a familiar cycle: scan, identify vulnerabilities, patch and repeat. But as the volume of vulnerabilities grows and regulatory requirements move deeper into software delivery workflows, that model is becoming…",
+        "imagem": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Traefik-Labs-Cover-Image.png"
+    },
+    {
+        "titulo": "Three new Windows flaws can bypass security, gain system privileges, and even install malware remotely",
+        "fonte": "TechSpot",
+        "autor": "Kishalaya Kundu",
+        "data": "2026-08-15",
+        "url": "https://www.techspot.com/news/113493-three-new-windows-flaws-can-bypass-security-gain.html",
+        "resumo": "The &quot;Download More RAM&quot; vulnerability, which was presented at the 2026 USENIX Security Symposium in Baltimore, was discovered by researchers from the University of Birmingham and Durham University. It reportedly allows malicious actors to bypass Windows 11 se…",
+        "imagem": "https://www.techspot.com/images2/news/bigimage/2026/08/2026-08-15-image-7.jpg"
+    },
+    {
+        "titulo": "A phone company just lost 1.6 million records to a phone call",
+        "fonte": "The Next Web",
+        "autor": "Ana Maria Constantin",
+        "data": "2026-08-15",
+        "url": "https://thenextweb.com/news/shinyhunters-ringcentral-leak-voice-phishing-ey",
+        "resumo": "Have I Been Pwned logged the leaked records, and The Register reported the dump on 14 August. Jessica Lyons, its cybersecurity editor, wrote it. A ShinyHunters spokesperson told her the group broke in by voice-phishing a member of staff. There was no exploit …",
+        "imagem": "https://media.thenextweb.com/2026/06/Call-center.jpg"
+    },
+    {
+        "titulo": "Show HN: DigitalEscapeTools – Privacy Tools",
+        "fonte": "Github.com",
+        "autor": "xabd",
+        "data": "2026-08-15",
+        "url": "https://github.com/abdomk1998/awesome-digital-escape-tools",
+        "resumo": "Article URL: https://github.com/abdomk1998/awesome-digital-escape-tools Comments URL: https://news.ycombinator.com/item?id=49309959 Points: 1 # Comments: 0",
+        "imagem": "https://opengraph.githubassets.com/fb0ebf772640f507118a82f34098a307f1428f7642d5442e3678ea71ed7ef373/abdomk1998/awesome-digital-escape-tools"
+    },
+    {
+        "titulo": "Dark Web Intelligence Claims US Fitness Data Exposure Involving Body20",
+        "fonte": "Undercodenews.com",
+        "autor": "Humanoid Deep Analyser",
+        "data": "2026-08-15",
+        "url": "https://undercodenews.com/dark-web-intelligence-claims-us-fitness-data-exposure-involving-body20-what-we-know-so-far-video/",
+        "resumo": "Dark Web Intelligence Claims US Fitness Data Exposure Involving Body20undercodenews.com",
+        "imagem": "https://i0.wp.com/undercodenews.com/wp-content/uploads/R3zw4PCNO_response-1.jpeg"
+    },
+    {
         "titulo": "Chinese AI Models Outperform Restricted U.S. Systems in Bitcoin Security Work, Developers Say",
         "fonte": "Naturalnews.com",
         "autor": "Sterling Ashworth",
@@ -124,59 +178,5 @@
         "url": "https://uk.pcmag.com/security/166720/think-your-mac-and-cloud-apps-are-safe-these-crypto-wallet-and-chatgpt",
         "resumo": "This week in cybersecurity: Experts expose critical vulnerabilities across macOS, ChatGPT, and Microsoft Defender—proving no platform is entirely bulletproof. Last week was the Black Hat security conference, and if you missed the fun, you can read all of the …",
         "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/t/think-your/think-your-mac-and-cloud-apps-are-safe-these-crypto-wallet-a_uzv1.1200.jpg"
-    },
-    {
-        "titulo": "China&#x27;s Z.ai says new model nears Anthropic&#x27;s Mythos 5 in cyber-defence tests",
-        "fonte": "The Times of India",
-        "autor": "Reuters",
-        "data": "2026-08-14",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-z-ai-says-new-model-nears-anthropics-mythos-5-in-cyber-defence-tests/articleshow/133242158.cms",
-        "resumo": "Anthropic has made Mythos, a version of its Claude Fable ​5 model with cybersecurity safeguards removed, available only to vetted organisations. Such controls reflect concern that AI systems capable of finding and exploiting software flaws can assist defender…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-83156,resizemode-75,msid-133242158/tech/artificial-intelligence/chinas-z-ai-says-new-model-nears-anthropics-mythos-5-in-cyber-defence-tests.jpg"
-    },
-    {
-        "titulo": "Shell investigates &#x27;potential incident&#x27; after Clop data theft claims",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-08-14",
-        "url": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
-        "resumo": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/08/14/Shell_headpic.jpg"
-    },
-    {
-        "titulo": "Hacking Group Claims Mass Data Theft From Shell, Philips, GE, Fiserv, Others",
-        "fonte": "Insurance Journal",
-        "autor": "admin",
-        "data": "2026-08-14",
-        "url": "https://www.insurancejournal.com/news/international/2026/08/14/881567.htm",
-        "resumo": "A prolific hacking group known for exploiting software vulnerabilities to attack multiple targets simultaneously claimed it had stolen large volumes of data from nearly 50 companies worldwide, including Philips, Shell, Fiserv and GE, according to a posting on…",
-        "imagem": "https://www.insurancejournal.com/app/uploads/2026/08/hacker-in-cyber-security-concept-264080604-Depositphotos-scaled.jpg"
-    },
-    {
-        "titulo": "China’s AI model approaches Anthropic’s Mythos 5 in cyber-defense tests",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-08-14",
-        "url": "https://cryptobriefing.com/china-ai-mythos-5-cyber-defense/",
-        "resumo": "China&#x27;s narrowing AI gap with the US in cyber-defense could reshape global cybersecurity dynamics, challenging existing technological dominance. The post China’s AI model approaches Anthropic’s Mythos 5 in cyber-defense tests appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/14064534/anthropic-logo-800x420.png"
-    },
-    {
-        "titulo": "China&#x27;s Z.ai says new model nears Anthropic&#x27;s Mythos 5 in cyber-defence tests",
-        "fonte": "CNA",
-        "autor": "",
-        "data": "2026-08-14",
-        "url": "https://www.channelnewsasia.com/business/china-ai-new-model-glm-anthropic-mythos-5-6319716",
-        "resumo": "BEIJING: Chinese AI startup Z.ai said on Friday (Aug 14) its open-source GLM-5.3 model had neared Anthropic&#x27;s restricted Mythos 5 in identifying software vulnerabilities, bolstering the credentials of a Chinese AI challenger gaining traction among Western dev…",
-        "imagem": "https://dam.mediacorp.sg/image/upload/s--oDV4rcNM--/c_crop,h_449,w_799,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-21T041305Z_2_LYNXMPEM6K086_RTROPTP_3_GLOBAL-AI-ECONOMY.JPG?itok=pIVlYENb"
-    },
-    {
-        "titulo": "You’re easier to find than you think",
-        "fonte": "Americanthinker.com",
-        "autor": "",
-        "data": "2026-08-14",
-        "url": "https://www.americanthinker.com/blog/2026/08/you-re-easier-to-find-than-you-think/",
-        "resumo": "By Andrea WidburgIn the computer era, you are constantly being tracked, destroying your privacy. However, our new sponsor, Incogni, can help you regain your security and privacy.",
-        "imagem": "https://images.americanthinker.com/tf/tfdng0kmfbophig2qk6d_1200.jpg"
     }
 ]
