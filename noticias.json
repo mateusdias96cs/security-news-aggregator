@@ -1,5 +1,86 @@
 [
     {
+        "titulo": "Sebi launches portals to strengthen cybersecurity incident reporting",
+        "fonte": "Business Standard",
+        "autor": "Khushboo Tiwari",
+        "data": "2026-08-17",
+        "url": "https://www.business-standard.com/markets/news/sebi-launches-cyber-portals-to-strengthen-incident-reporting-information-sharing-126081700515_1.html",
+        "resumo": "The Incident Reporting Portal will streamline cybersecurity incident reporting, while the Cyber Suraksha Portal will serve as a central hub for information sharing",
+        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/13/thumb/fitandfill/1200X628/1783932131-3694.JPG"
+    },
+    {
+        "titulo": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-08-17",
+        "url": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+        "resumo": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of CVE-2026-59310 (CVSS score: 9.8), a se…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN5GzIjo1DOb9leWRsG7hi5zemNCi6kb_NBf-391nF9pphXhTgf8DZLMlk-fUyp-j4rT_cFv4coBpP821rfQkUc4ydAu5YQBcn9Y6nj-SeQGDNu10DmSN2JYDmWJTzLUSXsvDYPTBQ_cQkkCFAIkdMCyRgRv5YIPdMgkp62BtqaYE49b3aWnm4QbYM7YeK/s1700-e365/vmware.jpg"
+    },
+    {
+        "titulo": "Z.ai launches GLM-5.3 with claimed 50% gain on coding benchmark",
+        "fonte": "TechNode",
+        "autor": "TechNode Feed",
+        "data": "2026-08-17",
+        "url": "https://technode.com/2026/08/17/z-ai-launches-glm-5-3-with-claimed-50-gain-on-coding-benchmark/",
+        "resumo": "Z.ai, the international brand of Chinese AI company Zhipu, has launched GLM-5.3, an update focused on coding, long-horizon tasks and cybersecurity. The model uses the same base model as GLM-5.2, with the company attributing the latest gains to post-training. …",
+        "imagem": "https://technode.com/wp-content/uploads/2026/08/z-ai.png"
+    },
+    {
+        "titulo": "Western resilience and trade policy",
+        "fonte": "Americanthinker.com",
+        "autor": "",
+        "data": "2026-08-17",
+        "url": "https://www.americanthinker.com/blog/2026/08/western-resilience-and-trade-policy/",
+        "resumo": "By Gerti TokuAs the world navigates a period of uncertainty, Western economies stand out as a beacon of stability.",
+        "imagem": "https://images.americanthinker.com/27/27v9x6wowh3axtqbylbw_1200.jpg"
+    },
+    {
+        "titulo": "The Navy and the Midterms",
+        "fonte": "Americanthinker.com",
+        "autor": "",
+        "data": "2026-08-17",
+        "url": "https://www.americanthinker.com/articles/2026/08/the-navy-and-the-midterms/",
+        "resumo": "Photo Credit: National ArchivesBy Joseph Ford CottoIn this pivotal midterm year, Trump’s record of action demonstrates why voters who value national security should turn out in November.",
+        "imagem": "https://images.americanthinker.com/tq/tqc63fevd6wfbik1kars_1200.jpg"
+    },
+    {
+        "titulo": "Chinese AI company Zhipu claims its new model is a better bug-finder than Anthropic, OpenAI",
+        "fonte": "Theregister.com",
+        "autor": "Simon Sharwood",
+        "data": "2026-08-17",
+        "url": "https://www.theregister.com/security/2026/08/17/chinese-ai-company-zhipu-claims-its-new-model-is-a-better-bug-finder-than-anthropic-openai/5288203",
+        "resumo": "PLUS: HCL, TCS, admit data breaches; South Korea to fine Apple, Google; India bans some rideshare tips; and more!",
+        "imagem": "https://image.theregister.com/5288224.jpg?imageId=5288224&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+        "titulo": "Chinese AI company Zhipu claims its new is a better bug-finder than Anthropic, OpenAI",
+        "fonte": "Theregister.com",
+        "autor": "Simon Sharwood",
+        "data": "2026-08-17",
+        "url": "https://www.theregister.com/security/2026/08/17/chinese-ai-company-zhipu-claims-its-new-is-a-better-bug-finder-than-anthropic-openai/5288203",
+        "resumo": "PLUS: HCL, TCS, admit data breaches; Google, Apple, India bans some rideshare tips; and more!",
+        "imagem": "https://image.theregister.com/5288224.jpg?imageId=5288224&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+        "titulo": "Qualys Conference: ETM and Patch Management Drive Growth Ambitions",
+        "fonte": "MarketBeat",
+        "autor": "MarketBeat",
+        "data": "2026-08-16",
+        "url": "https://www.marketbeat.com/instant-alerts/qualys-conference-etm-and-patch-management-drive-growth-ambitions-2026-08-16/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+        "resumo": "Qualys (NASDAQ:QLYS) executives said the company’s second-quarter performance reflected growing customer demand for vulnerability remediation, patch manageme...",
+        "imagem": "https://s.yimg.com/lo/mysterio/api/AEB71847752A5DD4F04FBAC55F1DEAE5DB66EAE0F51CCABE7F17394D583C6764/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F84431eb6f6cf14bff6d1be2d82d0167b.png"
+    },
+    {
+        "titulo": "Stopping a cyberattack while walking your dog - defensive AI security CEO says it&#x27;s not ruff to do",
+        "fonte": "Theregister.com",
+        "autor": "Jessica Lyons",
+        "data": "2026-08-16",
+        "url": "https://www.theregister.com/security/2026/08/16/stopping-a-cyberattack-while-walking-your-dog-defensive-ai-security-ceo-says-its-not-ruff-to-do/5288126",
+        "resumo": "Corma CEO tells The Reg it&#x27;s building &#x27;One ring to rule them all, for the defenders to have this power&#x27;",
+        "imagem": "https://image.theregister.com/5288148.jpg?imageId=5288148&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
         "titulo": "Week in review: Salesforce and ServiceNow portals exposed for 17 months, exploited Metabase 0-day",
         "fonte": "Help Net Security",
         "autor": "Help Net Security",
@@ -7,6 +88,15 @@
         "url": "https://www.helpnetsecurity.com/2026/08/16/week-in-review-salesforce-and-servicenow-portals-exposed-for-17-months-exploited-metabase-0-day/",
         "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: GitHub Dependabot malware alerts now cover eight ecosystems GitHub has flagged npm malware since March 2026. Anyone pulling in a bad PyPI, Maven, RubyGems, NuGet…",
         "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/16184416/week-in-review2.jpg"
+    },
+    {
+        "titulo": "Who’s To Blame For AI Breaking Containment? Turns Out The Answer Is More Complicated",
+        "fonte": "The Daily Caller",
+        "autor": "Sean Moran",
+        "data": "2026-08-15",
+        "url": "https://dailycaller.com/2026/08/15/artificial-intelligence-models-breaking-containment-safety-testing-irregular-meta-anthropic",
+        "resumo": "AI labs received most of the criticism for their models escaping containment during safety testing. It turns out AI labs are not entirely to blame.",
+        "imagem": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/08/AI%20Apps%20Getty%207x3.jpg"
     },
     {
         "titulo": "Container security is moving from vulnerability detection to attack surface reduction",
@@ -88,95 +178,5 @@
         "url": "https://cryptobriefing.com/glm-5-3-cursor-vulnerability-cybersecurity/",
         "resumo": "The discovery highlights the critical need for enhanced security measures in AI-assisted development tools, emphasizing dual-use risks. The post GLM-5.3 identifies serious vulnerability in Cursor code editor appeared first on Crypto Briefing.",
         "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/14190226/cursor-ide-1-800x420.jpeg"
-    },
-    {
-        "titulo": "Researchers Built a Coin-Sized Device That Can Hack a Boeing 737’s Electronics",
-        "fonte": "Gizmodo.com",
-        "autor": "Bruce Gil",
-        "data": "2026-08-14",
-        "url": "https://gizmodo.com/researchers-built-a-coin-sized-device-that-can-hack-a-boeing-737s-electronics-2000798711",
-        "resumo": "The under-$100 device shows how hackers with brief physical access to an aircraft could pose a serious cybersecurity risk.",
-        "imagem": "https://gizmodo.com/app/uploads/2025/10/United-Airlines-Boeing-737-Max-8-1200x675.jpg"
-    },
-    {
-        "titulo": "Frontier AI Threats Drive Companies to Boost Security Budgets",
-        "fonte": "pymnts.com",
-        "autor": "PYMNTS",
-        "data": "2026-08-14",
-        "url": "https://www.pymnts.com/cybersecurity/2026/frontier-ai-threats-drive-companies-boost-security-budgets/",
-        "resumo": "After learning about the cyber capabilities of frontier artificial intelligence models, a higher percentage of organizations plan to increase their security spending, IBM said in a July 29 press release. The share of organizations planning to increase securit…",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/06/cybersecurity-security-fraud.jpeg"
-    },
-    {
-        "titulo": "EU introduces strict new security rules for VPNs with the help of industry giants",
-        "fonte": "TechRadar",
-        "autor": "Rene Millman",
-        "data": "2026-08-14",
-        "url": "https://www.techradar.com/vpn/vpn-services/eu-introduces-strict-new-security-rules-for-vpns-with-the-help-of-industry-giants",
-        "resumo": "The EU is introducing official security standards for all VPNs sold in Europe. Backed by industry heavyweights like NordVPN and Surfshark, this new regulatory framework aims to keep your digital life safer.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/72vjQXmi4arSDj4JeoWXse-2121-80.jpg"
-    },
-    {
-        "titulo": "GLM-5.3 promises a 50% coding leap, claims to be the best open weights model",
-        "fonte": "4sysops.com",
-        "autor": "IT News",
-        "data": "2026-08-14",
-        "url": "https://4sysops.com/archives/glm-5-3-promises-a-50-coding-leap-claims-to-be-the-best-open-weights-model/",
-        "resumo": "Zhipu AI says GLM-5.3 delivers a 50% coding improvement through post-training alone, while its cybersecurity skills have advanced enough to uncover thousands of vulnerabilities. Z.ai now claims GLM-5.3 has taken the open-weight coding crown from Alibaba’s com…",
-        "imagem": "https://4sysops.com/wp-content/uploads/2026/08/glm-5-3-promises-a-50-coding-leap-claims-to-be-the-best-open-weights-model.jpg"
-    },
-    {
-        "titulo": "Zhipu’s GLM-5.3 Matches Fable 5 On Coding Using Only Post-Training, And Stuns Fans By Unearthing A Vulnerability All The Way From 1981",
-        "fonte": "Wccftech",
-        "autor": "Rohail Saleem",
-        "data": "2026-08-14",
-        "url": "https://wccftech.com/zhipus-glm-5-3-matches-fable-5-on-coding-using-only-post-training-and-stuns-fans-by-unearthing-a-vulnerability-all-the-way-from-1981/",
-        "resumo": "Another day brings yet another impressive model from a China-based AI lab, with Zhipu&#x27;s GLM-5.3 taking the center stage today after Meta&#x27;s Muse Glimmer, NVIDIA&#x27;s Nemotron 3.5 Lightning, DeepSeek&#x27;s V4 Pro, and Google&#x27;s Gemini 3.7 Flash dominated the airwaves e…",
-        "imagem": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Zhipu-GLM-5.3-Cover-1920x1080.jpg"
-    },
-    {
-        "titulo": "Researchers Confirm ExfilSquad’s Access to Sensitive Data Across 13 Organizations",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Beth Maundrill",
-        "data": "2026-08-14",
-        "url": "https://www.infosecurity-magazine.com/news/exfilsquads-13-organizations/",
-        "resumo": "Researchers have verified that ExfilSquad possesses sensitive data stolen from at least 13 victims after the extortion group published leaked datasets via torrents",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/c58fa6b5-ac02-420a-af41-70c67faff6d9.jpg"
-    },
-    {
-        "titulo": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-08-14",
-        "url": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
-        "resumo": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/08/14/SAP.jpg"
-    },
-    {
-        "titulo": "The privacy myth crumbles: Inside the iCloud+ flaws threatening Apple&#x27;s most valuable promise",
-        "fonte": "TechRadar",
-        "autor": "chiara.castro@futurenet.com (Chiara Castro) , Chiara Castro",
-        "data": "2026-08-14",
-        "url": "https://www.techradar.com/vpn/vpn-privacy-security/the-privacy-myth-crumbles-inside-the-icloud-flaws-threatening-apples-most-valuable-promise",
-        "resumo": "The use of facial recognition technology to police protesters is growing in Europe and this “erosion of privacy” may shape how citizens express dissent.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/fFoMeDF6W3WoQiiwUufqzR-2560-80.png"
-    },
-    {
-        "titulo": "Think Your Mac and Cloud Apps Are Safe? These Crypto Wallet and ChatGPT Hacks Prove Otherwise",
-        "fonte": "PCMag.com",
-        "autor": "PCMag UK",
-        "data": "2026-08-14",
-        "url": "https://uk.pcmag.com/security/166720/think-your-mac-and-cloud-apps-are-safe-these-crypto-wallet-and-chatgpt-hacks-prove-otherwise",
-        "resumo": "This week in cybersecurity: Experts expose critical vulnerabilities across macOS, ChatGPT, and Microsoft Defender—proving no platform is entirely bulletproof. Last week was the Black Hat security conference, and if you missed the fun, you can read all of the …",
-        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/t/think-your/think-your-mac-and-cloud-apps-are-safe-these-crypto-wallet-a_5813.1200.jpg"
-    },
-    {
-        "titulo": "Think Your Mac and Cloud Apps Are Safe? These Crypto Wallet and ChatGPT Hacks Prove Otherwise",
-        "fonte": "PCMag.com",
-        "autor": "Alan Henry",
-        "data": "2026-08-14",
-        "url": "https://uk.pcmag.com/security/166720/think-your-mac-and-cloud-apps-are-safe-these-crypto-wallet-and-chatgpt",
-        "resumo": "This week in cybersecurity: Experts expose critical vulnerabilities across macOS, ChatGPT, and Microsoft Defender—proving no platform is entirely bulletproof. Last week was the Black Hat security conference, and if you missed the fun, you can read all of the …",
-        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/t/think-your/think-your-mac-and-cloud-apps-are-safe-these-crypto-wallet-a_uzv1.1200.jpg"
     }
 ]
