@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "U.S. CISA adds Apple macOS, Microsoft SharePoint, Broadcom VMware vCenter, and Microsoft IKE flaws to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-08-19",
-        "url": "https://securityaffairs.com/197490/hacking/u-s-cisa-adds-apple-macos-microsoft-sharepoint-broadcom-vmware-vcenter-and-microsoft-ike-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Apple macOS, Microsoft SharePoint, Broadcom VMware vCenter, and Microsoft IKE flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CI…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "AUTOCRYPT Wins DEF CON 34 Automotive Hacking Competition, Ranking First Among 83 Teams",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-08-19",
-        "url": "https://www.prnewswire.com/news-releases/autocrypt-wins-def-con-34-automotive-hacking-competition-ranking-first-among-83-teams-302854766.html",
-        "resumo": "SEOUL, South Korea, Aug. 19, 2026 /PRNewswire/ -- AUTOCRYPT, a leading Physical AI security solutions provider, announced that its Red Team won first place at the Car Hacking Village CTF, held from August 7 to 9 at DEF CON 34 in Las Vegas, one of the world&#x27;s …",
-        "imagem": "https://mmx.prnewswire.com/media/MS1694841/PRN-AUTOCRYPT-Logo-250716-Logo.jpg?id=OA2895944&p=facebook"
-    },
-    {
-        "titulo": "The Defender’s Window",
-        "fonte": "Gregbrockman.com",
-        "autor": "bradbarrish",
-        "data": "2026-08-19",
-        "url": "https://blog.gregbrockman.com/the-defenders-window",
-        "resumo": "The OpenAI-Hugging Face incident was a watershed moment for cybersecurity because it gave a peek into how the capabilities of a typical threat actor will evolve in upcoming months. I’ve spoken with many organizations over the past few weeks, and... | Greg Bro…",
-        "imagem": "https://svbtleusercontent.com/68QXrhgeTFeubaoodrJdiJ0xspap.png"
-    },
-    {
-        "titulo": "Risky Business #849 -- Trump will unleash contractors on cybercriminals",
-        "fonte": "Risky.biz",
-        "autor": "James Wilson",
-        "data": "2026-08-19",
-        "url": "https://risky.biz/RB849/",
-        "resumo": "On this week’s show Patrick Gray and James Wilson are joined by guest co-host Dmitri Alperovitch to talk through the week’s news, including: Trump’s memo authorising the private sector to release the cyber hounds is fine, don’t worry! OpenAI finally decides …",
-        "imagem": "https://risky.biz/static/img/RB-OG-Social.jpg"
-    },
-    {
-        "titulo": "CyberStrikeAI v1.7.15",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-19",
-        "url": "https://kitploit.com/en/posts/github-ed1s0nz-cyberstrikeai-v1715",
-        "resumo": "The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.",
-        "imagem": "https://kitploit.com/production/public/tools/8/7515842e367d7b0acd1e7a946949289d1a9f14edd3dda50f803e171d3de0034d.png"
-    },
-    {
-        "titulo": "Z.ai says GLM-5.3 lifts coding and cyber tests, flags Cursor vulnerability",
-        "fonte": "Digitimes",
-        "autor": "DIGITIMES",
-        "data": "2026-08-19",
-        "url": "https://www.digitimes.com/news/a20260818PD201/z.ai-cybersecurity-training-startup.html",
-        "resumo": "Z.ai has released GLM-5.3, a new AI model that it said delivers major gains in coding and cybersecurity through post-training alone. The Chinese startup also said the model uncovered a potentially serious vulnerability in Cursor, the AI coding company recentl…",
-        "imagem": "https://img.digitimes.com/newsshow/20260818pd201_files/1_2b.jpg"
-    },
-    {
-        "titulo": "What is driving cyberattacks on U.S. water systems?",
-        "fonte": "KPBS",
-        "autor": "Jade Hindmon, Ashley Rusch",
-        "data": "2026-08-19",
-        "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/what-is-driving-cyberattacks-on-us-water-systems",
-        "resumo": "In recent weeks, at least seven U.S. states have been hit with cyberattacks that appear to be targeting critical infrastructure — like water and wastewater utilities.The FBI is investigating the attacks and has not publicly identified a culprit. However, many…",
-        "imagem": "https://cdn.kpbs.org/dims4/default/11b515f/2147483647/strip/true/crop/8239x4325+0+584/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F07%2Fd4eff6414dcfb0ba5e6c807d4d15%2Fap26211784665247.jpg"
-    },
-    {
-        "titulo": "Safety and security of large language models in healthcare",
-        "fonte": "Nature.com",
-        "autor": "Jan Clusmann, Oscar Freyer, Max Ostermann, Dyke Ferber, Narmin Ghaffari Laleh, Lars Hilgers, Fiona R",
-        "data": "2026-08-19",
-        "url": "https://www.nature.com/articles/s41586-026-10687-1",
-        "resumo": "The Review examines rapid LLM adoption in clinical care, outlining emerging security and safety risks across development stages, key protective layers, clinically relevant threats and current mitigation responsibilities in a single integrated framework.",
-        "imagem": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10687-1/MediaObjects/41586_2026_10687_Fig1_HTML.png"
-    },
-    {
-        "titulo": "Bybit Strengthens Security Defences Against Evolving Crypto Threats, Intercepting $700 Million in Potential User Losses",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-08-19",
-        "url": "https://www.prnewswire.com/news-releases/bybit-strengthens-security-defences-against-evolving-crypto-threats-intercepting-700-million-in-potential-user-losses-302854288.html",
-        "resumo": "Bybit&#x27;s H1 2026 report details expanded account protection, 100% on-chain monitoring and AI-assisted threat detection following 2025 security incident DUBAI, UAE, Aug. 18, 2026 /PRNewswire/ -- Bybit, the world&#x27;s second-largest cryptocurrency exchange by tradi…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1971655/Bybit-Updated-Logo_18-Aug-2026.jpg?id=OA2894234&p=facebook"
-    },
-    {
-        "titulo": "David Sacks says Anthropic’s Dario Amodei wants a ‘DMV for AI.’ But plenty of industries thrive despite safety regulation",
-        "fonte": "Fortune",
-        "autor": "Jeremy Kahn",
-        "data": "2026-08-18",
-        "url": "https://fortune.com/2026/08/18/david-sacks-says-anthropics-dario-amodei-wants-a-dmv-for-ai-but-plenty-of-industries-thrive-despite-safety-regulation/",
-        "resumo": "Amodei took to social media to defend his approach to regulation and his discussion of AI risks following criticism from investor Gavin Baker.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2280291366-1-e1787080684351.jpg?resize=1200,600"
-    },
-    {
-        "titulo": "The First Principles Of Cybersecurity Still Apply",
-        "fonte": "Forrester.com",
-        "autor": "Paddy Harrington",
-        "data": "2026-08-18",
-        "url": "https://www.forrester.com/?p=302835",
-        "resumo": "As cyber threats evolve and AI accelerates attacker capabilities, the most effective defenses remain the foundational practices many organizations overlook. Learn why recent attacks on critical infrastructure reinforce the need to focus on basic security prin…",
-        "imagem": "https://go.forrester.com/wp-content/uploads/2026/08/The-First-Principles-Of-Cybersecurity-Still-Apply.png"
-    },
-    {
-        "titulo": "Clop created custom web shell for Windchill data theft attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Lawrence Abrams",
-        "data": "2026-08-18",
-        "url": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
-        "resumo": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2022/10/28/hand-sifting-data.jpg"
-    },
-    {
-        "titulo": "Security Hub Extended adds Supply Chain Security as its tenth category",
-        "fonte": "Amazon.com",
-        "autor": "Michael Fuller",
-        "data": "2026-08-18",
-        "url": "https://aws.amazon.com/blogs/security/security-hub-extended-adds-supply-chain-security-as-its-tenth-category/",
-        "resumo": "Since February, we’ve grown AWS Security Hub Extended from 14 curated partners across 9 categories to 23 partners across 10. At Black Hat this month, 14 of those partners were at the Amazon Web Services (AWS) booth demoing live. Four of those partners deliver…",
-        "imagem": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/08/17/Security-hub-feat-img.png"
-    },
-    {
-        "titulo": "Hackers Tricked a Major Retailer’s AI Shopping Bot to Do Something It Was Never Supposed To",
-        "fonte": "CNET",
-        "autor": "Nelson Aguilar",
-        "data": "2026-08-18",
-        "url": "https://www.cnet.com/tech/services-and-software/hackers-tricked-a-major-retailers-ai-shopping-bot-to-do-something-it-was-never-supposed-to/",
-        "resumo": "At the cybersecurity conference Black Hat, researchers showed how an AI assistant at one of America’s largest retailers could be tricked into following hidden instructions and exposing sensitive system information.",
-        "imagem": "https://www.cnet.com/wp-content/uploads/sites/2/AgentBreakers_final-dragged-3.png"
-    },
-    {
-        "titulo": "CyberGym results show AI surpasses 90% in vulnerability detection",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-08-18",
-        "url": "https://cryptobriefing.com/cybergym-ai-vulnerability-detection-results/",
-        "resumo": "AI&#x27;s leap in vulnerability detection could revolutionize cybersecurity, but also heightens risks of automated exploitation and patch verification. The post CyberGym results show AI surpasses 90% in vulnerability detection appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/18094036/illustration-of-two-hands-made-out-of-glowing-binary-code-ty-800x420.jpeg"
-    },
-    {
-        "titulo": "AI-Driven Vulnerability Surge Breaks the Traditional Patching Model",
+        "titulo": "Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler",
         "fonte": "Securityweek.com",
-        "autor": "Kevin Townsend",
-        "data": "2026-08-18",
-        "url": "https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/",
-        "resumo": "Rapid7 warns that traditional patch cycles cannot keep pace with soaring vulnerability disclosures and faster exploitation, forcing defenders to prioritize exposure over severity scores. The post AI-Driven Vulnerability Surge Breaks the Traditional Patching M…",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/02/API-security-risks.jpeg"
+        "autor": "Ionut Arghire",
+        "data": "2026-08-20",
+        "url": "https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/",
+        "resumo": "Remote, unauthenticated attackers could exploit the critical-severity flaw without user interaction. The post Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2023/07/Citrix-zero-day.jpg"
     },
     {
-        "titulo": "OpenAI Exec: The Solution to AI Doing Bad Cybercrimes Is Even More AI",
+        "titulo": "War: Watt Is It Good For?",
+        "fonte": "War on the Rocks",
+        "autor": "Harry Krejsa, Phoebe Benich",
+        "data": "2026-08-20",
+        "url": "https://warontherocks.com/cogs-of-war/war-watt-is-it-good-for/",
+        "resumo": "Military analysts are captivated by how the material nature of war is transforming in Ukraine. Unmanned systems have captured Russian infantry units, battered Russian naval and commercial ships, and even, with the help of on-board AI, conducted autonomous str…",
+        "imagem": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-46235-4ae874411be0.jpg"
+    },
+    {
+        "titulo": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-08-20",
+        "url": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
+        "resumo": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. The vulnerability, tracked as CVE-2026-32475, carries a CVSS score of 9.0 out of 1…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitKWjeNJOL_DEahUmMAYpH9qh94s2iFi8igtfSlAzOVWiUBU-EIM0MWMsFYPmA5NDL6Rs9E-w9vvCmw3Cc6Og0q-TDt87Q2hwYIePNAQ0xQ3OJYHzgCizDFm-YK9SxW4ncWnuVLaOzgb3SPO7Qpx17zHMaFzBQfYllgz5IP-p1jMALgWlasRkj1nV3Tq3G/s1700-e365/wordpress.jpg"
+    },
+    {
+        "titulo": "8,539 reasons to rethink how vulnerabilities get patched",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-08-20",
+        "url": "https://www.helpnetsecurity.com/2026/08/20/rapid7-vulnerability-patch-cycles-report/",
+        "resumo": "The window for responding to newly disclosed security flaws is getting shorter. Exploit code can appear quickly, exploitability can be tested soon after disclosure, and organizations have a growing number of weaknesses to sort through. Rapid7’s Q2 2026 Threat…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/07/08083233/monitor-crack-1500.webp"
+    },
+    {
+        "titulo": "Stocks in news: Hyundai Motor India, BSE, HEG, Hexaware Tech and Oil India",
+        "fonte": "The Times of India",
+        "autor": "Kumar Gaurav",
+        "data": "2026-08-20",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hyundai-motor-india-bse-heg-hexaware-tech-and-oil-india/articleshow/133353448.cms",
+        "resumo": "Indian equity markets extended their losing streak to a seventh consecutive session, with the Nifty50 closing lower at 24,078.30. Key corporate developments are expected to influence Thursday&#x27;s trade, including Hyundai Motor India&#x27;s planned price increase, Ad…",
+        "imagem": "https://img.etimg.com/thumb/msid-133353626,width-1200,height-630,imgsize-122928,overlay-etmarkets/articleshow.jpg"
+    },
+    {
+        "titulo": "FBI Warns That Hackers Are Targeting Siemens Equipment Amid Recent Water Plant Breaches",
         "fonte": "Gizmodo.com",
-        "autor": "Tom McKay",
-        "data": "2026-08-18",
-        "url": "https://gizmodo.com/openai-exec-the-solution-to-ai-doing-bad-cybercrimes-is-even-more-ai-2000799666",
-        "resumo": "Unfortunately, OpenAI’s Greg Brockman might be right that AI offense is dominating human defense.",
-        "imagem": "https://gizmodo.com/app/uploads/2026/02/greg-brockman-jan-2026-1200x675.jpg"
+        "autor": "Bruce Gil",
+        "data": "2026-08-19",
+        "url": "https://gizmodo.com/fbi-warns-that-hackers-are-targeting-siemens-equipment-amid-recent-water-plant-breaches-2000800534",
+        "resumo": "The advisory says attackers are using AI to go after the company’s industrial computers used in water plants and other critical infrastructure facilities.",
+        "imagem": "https://gizmodo.com/app/uploads/2022/06/782954258bc3f210c71a2a32444493b1.jpg"
     },
     {
-        "titulo": "AI drives 36% surge in disclosed vulnerabilities; yet two-thirds of ransomware deployments still start with compromised credentials",
+        "titulo": "So About That Iranian Cyberattack on Our Water Supply",
+        "fonte": "Slate Magazine",
+        "autor": "Scott Pilutik",
+        "data": "2026-08-19",
+        "url": "https://slate.com/news-and-politics/2026/08/iran-cyberattack-water-supply-trump-fail.html",
+        "resumo": "It&#x27;s only the most essential component of human life.",
+        "imagem": "https://compote.slate.com/images/6e544a3c-3d5b-4c9b-8d71-f69f8fc55a50.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560"
+    },
+    {
+        "titulo": "Researchers complain that OpenAI revoked their access to limited cyber program | TechCrunch",
+        "fonte": "TechCrunch",
+        "autor": "Lorenzo Franceschi-bicchierai",
+        "data": "2026-08-19",
+        "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+        "resumo": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users.",
+        "imagem": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798"
+    },
+    {
+        "titulo": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-08-19",
+        "url": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+        "resumo": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging Face-like…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Ar7QFukiqBWatGeVdffG393l7GwFmzYBSWvv6Um7gPNIzeL8p3gfO_2C1rvVGPSUh00KWZAB8wFs9Xdz6h7uWDd7MYyWuuzLciO6NX1Y4mln1LqxK-skWP7VEdFD3BOhP1msTaM7F1ZgBeGyDUuLUaNlXAroEXHH6aYPgWluliMNUrozkKKeGK9kf-Ri/s1700-e365/open.jpg"
+    },
+    {
+        "titulo": "Apple just patched a critical macOS flaw that let hackers break in without a password",
+        "fonte": "TechSpot",
+        "autor": "Alfonso Maruccia",
+        "data": "2026-08-19",
+        "url": "https://www.techspot.com/news/113532-apple-patched-critical-macos-flaw-hackers-break-without.html",
+        "resumo": "The Netherlands&#x27; National Cyber Security Centre (NCSC-NL) recently published an alarming security advisory about the new macOS flaw. It describes a vulnerability tied to an improper authentication process in Apple&#x27;s line of desktop operating systems, which ca…",
+        "imagem": "https://www.techspot.com/images2/news/bigimage/2026/08/2026-08-19-image-15.jpg"
+    },
+    {
+        "titulo": "Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026",
+        "fonte": "Microsoft.com",
+        "autor": "Ran Rosin",
+        "data": "2026-08-19",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
+        "resumo": "Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection …",
+        "imagem": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/Security-ImageryScan-Device-Yellow-03-2026-scaled.jpg"
+    },
+    {
+        "titulo": "Exclusive: Linux Foundation&#x27;s Akrites to Go Live in September",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Kevin Poireault",
+        "data": "2026-08-19",
+        "url": "https://www.infosecurity-magazine.com/news/linux-foundations-akrites-go-live/",
+        "resumo": "The Linux Foundation&#x27;s Akrites initiative will become operational in September, when it will begin accepting AI-powered vulnerability reports for open-source projects",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/5fef4d92-8f0f-4cbb-b595-b48f6ff06874.jpg"
+    },
+    {
+        "titulo": "TopHat Security, Inc. Announces Series A Financing Led by Landolt Securities to Accelerate OT and AI Infrastructure Security",
         "fonte": "PRNewswire",
         "autor": "",
-        "data": "2026-08-18",
-        "url": "https://www.prnewswire.com/news-releases/ai-drives-36-surge-in-disclosed-vulnerabilities-yet-two-thirds-of-ransomware-deployments-still-start-with-compromised-credentials-302853575.html",
-        "resumo": "Beazley Security&#x27;s Q2 2026 Quarterly Threat Report finds agentic AI reshaping vulnerability research far faster than it is changing how attackers break in. Disclosed vulnerabilities increased 36% in Q2, while confirmed exploitations in the wild only grew 10% …",
-        "imagem": "https://mmx.prnewswire.com/media/MS1573561/BeazleySecurityLogoBlack-Logo-Logo.jpg?id=OA2890301&p=facebook"
+        "data": "2026-08-19",
+        "url": "https://www.prnewswire.com/news-releases/tophat-security-inc-announces-series-a-financing-led-by-landolt-securities-to-accelerate-ot-and-ai-infrastructure-security-302855369.html",
+        "resumo": "Investment will support the expansion of O-RANGE and TopHat Security&#x27;s enterprise cybersecurity portfolio for government and critical infrastructure ATLANTA, Aug. 19, 2026 /PRNewswire/ -- TopHat Security, Inc., a provider of purpose-built cybersecurity soluti…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1971258/Tophat_Logo.jpg?id=OA2892421&p=facebook"
     },
     {
-        "titulo": "Siemens Simcenter Nastran",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-08-18",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-230-02",
-        "resumo": "View CSAF Summary Simcenter Nastran is affected by a stack overflow vulnerability that could be triggered when an application binary reads arbitrary string as a file argument. If a user is tricked to run one of the impacted application binary with a malicious…",
+        "titulo": "Harness launches AI agents that triage and patch vulnerabilities",
+        "fonte": "SiliconANGLE News",
+        "autor": "Duncan Riley",
+        "data": "2026-08-19",
+        "url": "https://siliconangle.com/2026/08/19/harness-launches-ai-agents-triage-patch-vulnerabilities/",
+        "resumo": "Software delivery platform provider Harness Inc. today launched a set of artificial intelligence agents that find software vulnerabilities and write the patches. Developers approve the fixes before anything ships. AI SAST runs a deterministic static scanner, …",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/harness.png"
+    },
+    {
+        "titulo": "Who Is on the Shortlist to Acquire Ziff Davis?",
+        "fonte": "Trefis",
+        "autor": "Trefis Team",
+        "data": "2026-08-19",
+        "url": "https://www.trefis.com/articles/611841/who-is-on-the-shortlist-to-acquire-ziff-davis/2026-08-19",
+        "resumo": "The market may be overlooking a portfolio of valuable digital assets, but a strategic buyer likely sees a bargain waiting to be claimed.",
+        "imagem": "https://s.yimg.com/lo/mysterio/api/97BC7C77E328B809935D28F129489859F8A9DB9070F14E724229C34A72B1589F/subgraphmysterio/resizefill_w1200_h760;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2Fb06b683d5d2915a4494ac5d31c8a87d6.jpg"
+    },
+    {
+        "titulo": "Critical Infrastructure Protection Market worth $206.31 billion by 2031 - Report by MarketsandMarkets™",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-08-19",
+        "url": "https://www.prnewswire.com/news-releases/critical-infrastructure-protection-market-worth-206-31-billion-by-2031--report-by-marketsandmarkets-302855026.html",
+        "resumo": "DELRAY BEACH, Fla., Aug. 19, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the global Critical Infrastructure Protection Market is projected to grow from USD 160.28 billion in 2026 and to reach USD 206.31 billion by 2031, at a Compound Annual Growth R…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA2896578&p=facebook"
+    },
+    {
+        "titulo": "agentack added to PyPI",
+        "fonte": "Pypi.org",
+        "autor": "",
+        "data": "2026-08-19",
+        "url": "https://pypi.org/project/agentack/",
+        "resumo": "Test whether human approval controls for AI agents actually work.",
         "imagem": ""
     },
     {
-        "titulo": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-08-18",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2021/10/05/Windows-keyboard.jpg"
+        "titulo": "Palo Alto Networks Introduces Frontier AI Critical Defense Program",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-08-19",
+        "url": "https://www.prnewswire.com/news-releases/palo-alto-networks-introduces-frontier-ai-critical-defense-program-302855274.html",
+        "resumo": "A collaboration of leading technology providers to protect critical infrastructure against the rapid rise of AI-discovered vulnerabilities SANTA CLARA, Calif., Aug. 19, 2026 /PRNewswire/ -- Palo Alto Networks (NASDAQ: PANW) today announced the Frontier AI Cri…",
+        "imagem": "https://mmx.prnewswire.com/media/MS381466/Palo-Alto-Networks-Logo-2025.jpg?id=OA2896381&p=facebook"
+    },
+    {
+        "titulo": "Hexaware Introduces Zero Vulnerability as AI Raises the Pressure on Enterprise Remediation",
+        "fonte": "BusinessLine",
+        "autor": "cuelive",
+        "data": "2026-08-19",
+        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/hexaware-introduces-zero-vulnerability-as-ai-raises-the-pressure-on-enterprise-remediation/article71365119.ece",
+        "resumo": "Hexaware Introduces Zero Vulnerability as AI Raises the Pressure on Enterprise Remediation",
+        "imagem": "https://bl-i.thgim.com/public/incoming/4pvaof/article71365118.ece/alternates/LANDSCAPE_1200/Hexaware-Logo.jpg"
+    },
+    {
+        "titulo": "Spatial Intelligence Company, Schemata Expands Cybersecurity Team with Search for Next Security Engineer",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-08-19",
+        "url": "https://www.prnewswire.com/news-releases/spatial-intelligence-company-schemata-expands-cybersecurity-team-with-search-for-next-security-engineer-302854379.html",
+        "resumo": "New Hire Search is the Latest in the Company&#x27;s Ongoing Cybersecurity Strategy SAN FRANCISCO, Aug. 19, 2026 /PRNewswire/ -- Schemata, the company pioneering spatial intelligence by connecting AI to the physical world, announced today the opening of a search fo…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1971620/Symbol-Small-Black.jpg?id=OA2894094&p=facebook"
     }
 ]
