@@ -1,5 +1,167 @@
 [
     {
+        "titulo": "U.S. CISA adds Zimbra Collaboration Suite (ZCS) flaw to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-08-22",
+        "url": "https://securityaffairs.com/197693/security/u-s-cisa-adds-zimbra-collaboration-suite-zcs-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Zimbra Collaboration Suite (ZCS) flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the Zimbra Collaboration Suite (ZCS)…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "CVE-2015-1328",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-22",
+        "url": "https://kitploit.com/en/tools/github/whatswrongandwhy/cve-2015-1328/",
+        "resumo": "Exploit for CVE-2015-1328, a local privilege escalation vulnerability in the Linux kernel&#x27;s overlayfs filesystem, enabling unprivileged users to gain root access.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/21666/1a533f6c449ac430ac552cb9b1c769f30a0f9938f875ca705f717f6b7522d0ec-social-v1.webp"
+    },
+    {
+        "titulo": "CVE-2026-6279",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-22",
+        "url": "https://kitploit.com/en/tools/github/87achrafg-stack/cve-2026-6279/",
+        "resumo": "Proof-of-concept exploit for CVE-2026-6279, demonstrating the vulnerability and providing a basis for security testing and patch validation.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/14840/2e14f8f7704292ac6669e544055c98901774a727952fe59ea40346a429d0a58a-social-v1.webp"
+    },
+    {
+        "titulo": "ESCepcion",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-22",
+        "url": "https://kitploit.com/en/tools/github/hackwarts12/escepcion/",
+        "resumo": "Passive AD CS auditor detecting ESC1–ESC16 and Shadow Credentials via read-only LDAP/ACL/registry checks, with prioritized remediation and SIEM-ready output.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/50640/d529c1328a42d628dbb82fdb551791f620d35a8b3d11291a607d81374fc5d316-social-v1.webp"
+    },
+    {
+        "titulo": "Compliance theater is over: What FedRAMP 20x means for every vendor selling to government",
+        "fonte": "Nextgov",
+        "autor": "Hemant Baidwan",
+        "data": "2026-08-21",
+        "url": "https://www.nextgov.com/ideas/2026/08/compliance-theater-over-what-fedramp-20x-means-every-vendor-selling-government/415580/",
+        "resumo": "COMMENTARY | Attacks now move faster than human-paced patch cycles can keep up with and a compliance program built around periodic reviews will not catch them.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/08/21/GettyImages_2204596345/open-graph.jpg"
+    },
+    {
+        "titulo": "Meta Platforms (META) Undercuts Anthropic and OpenAI on Price With New Coding Agent",
+        "fonte": "Yahoo Entertainment",
+        "autor": "Fatima Gulzar",
+        "data": "2026-08-21",
+        "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-undercuts-anthropic-201309099.html",
+        "resumo": "On August 5, Meta Platforms, Inc. (NASDAQ:META) launched a new AI coding agent called Muse Code and priced it well below rivals Anthropic’s Claude Code and O...",
+        "imagem": "https://s.yimg.com/lo/mysterio/api/27690261D7A23001B04E06EDED94523BC7CDAC35EA1BBF06D1A90111FC6CF7A6/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F6b04d2113ba5542b5993a73ed6643a10.jpg"
+    },
+    {
+        "titulo": "Claude Mythos 5 reaches Enterprise scans, with $35M for open source",
+        "fonte": "4sysops.com",
+        "autor": "IT News",
+        "data": "2026-08-21",
+        "url": "https://4sysops.com/archives/claude-mythos-5-reaches-enterprise-scans-with-35m-for-open-source/",
+        "resumo": "Anthropic is expanding Claude Mythos 5 beyond its limited defender program: Claude Enterprise customers can now use it through Claude Security to scan codebases, identify vulnerabilities, and propose patches. The company is also integrating the model into par…",
+        "imagem": "https://4sysops.com/wp-content/uploads/2026/08/claude-mythos-5-reaches-enterprise-scans-with-35m-for-open-source.jpg"
+    },
+    {
+        "titulo": "Anthropic will give defenders what its strongest model finds, but not the model itself",
+        "fonte": "The Next Web",
+        "autor": "Ana Maria Constantin",
+        "data": "2026-08-21",
+        "url": "https://thenextweb.com/news/anthropic-mythos-5-defenders-open-source-fund",
+        "resumo": "Anthropic has made Claude Mythos 5 available for code scanning in Claude Security and is integrating it into partners’ defensive products, with users receiving outputs rather than direct access to the model. It is also committing $35mn in credits to open-sour…",
+        "imagem": "https://media.thenextweb.com/2026/08/anthropic-mythos-5-defenders-open-source-fund.jpg"
+    },
+    {
+        "titulo": "Apollo Global Management reports unauthorized access to cloud platforms",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-08-21",
+        "url": "https://cryptobriefing.com/apollo-global-management-cloud-data-breach/",
+        "resumo": "The breach highlights the vulnerability of major financial firms to basic phishing attacks, underscoring the need for enhanced cybersecurity measures. The post Apollo Global Management reports unauthorized access to cloud platforms appeared first on Crypto Br…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/21154335/martin-kelly-partner-chief-financial-officer-at-apollo-globa-800x420.jpeg"
+    },
+    {
+        "titulo": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+        "fonte": "Claude.com",
+        "autor": "garo-pro",
+        "data": "2026-08-21",
+        "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+        "resumo": "Article URL: https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders Comments URL: https://news.ycombinator.com/item?id=49392331 Points: 6 # Comments: 0",
+        "imagem": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/69f398245c0b3933c7940d49_og_claude-security-public-beta%20(1).jpg"
+    },
+    {
+        "titulo": "yakit v1.4.8-0821",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-21",
+        "url": "https://kitploit.com/en/posts/github-yaklang-yakit-v148-0821",
+        "resumo": "All-in-one penetration testing platform with MITM proxy, web fuzzer, reverse connection handler, and plugin system for automated security testing and exploitation.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/188/b287cf6290e949190264b0fa0198fc839d9b8d4120d1cb99bc827f4699f6fafd.png"
+    },
+    {
+        "titulo": "Anthropic launches $35M fund for open-source cyber defense",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-08-21",
+        "url": "https://cryptobriefing.com/anthropic-35m-open-source-cyber-defense/",
+        "resumo": "Anthropic&#x27;s initiative could significantly enhance global cybersecurity by democratizing access to advanced AI tools for open-source projects. The post Anthropic launches $35M fund for open-source cyber defense appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/21134205/from-left-geoffrey-irving-and-dario-amodei-show-an-autonomou-5-800x420.jpeg"
+    },
+    {
+        "titulo": "Apollo Global Management confirms July cyber breach exposed Social Security numbers and personal data",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-08-21",
+        "url": "https://cryptobriefing.com/apollo-cyber-breach-personal-data-accessed/",
+        "resumo": "The breach highlights the vulnerability of financial firms to social engineering, underscoring the need for enhanced cybersecurity measures. The post Apollo Global Management confirms July cyber breach exposed Social Security numbers and personal data appeare…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/21124527/apollo-global-management-content-800x420.jpeg"
+    },
+    {
+        "titulo": "SickKids children’s hospital bandages up careers website after intruder breaks in",
+        "fonte": "Theregister.com",
+        "autor": "Connor Jones",
+        "data": "2026-08-21",
+        "url": "https://www.theregister.com/cyber-crime/2026/08/21/sickkids-childrens-hospital-bandages-up-careers-website-after-intruder-breaks-in/5291098",
+        "resumo": "Toronto org says it wasn’t the only one to be affected by the third-party software vulnerability",
+        "imagem": "https://image.theregister.com/235319.jpg?imageId=235319&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+        "titulo": "Eleven quick tips for Biomedical Federated Learning",
+        "fonte": "Plos.org",
+        "autor": "Kyle Ellrott, Venkat S. Malladi, Jean-Christophe Bélisle-Pipon, Emek Demir, Yael Bensoussan, Serghei",
+        "data": "2026-08-21",
+        "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014530",
+        "resumo": "Modern statistical and machine learning techniques are effective at describing, testing hypotheses and making predictions from complex data. This effectiveness is strongly influenced by the volume and heterogeneity of available data. In many fields, including…",
+        "imagem": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1014530.t002&size=inline"
+    },
+    {
+        "titulo": "CISA orders feds to patch actively exploited TrueConf Server flaws",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-08-21",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg"
+    },
+    {
+        "titulo": "Wazuh and AI For Enhanced SOC Workflows",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-08-21",
+        "url": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+        "resumo": "Artificial Intelligence (AI) has become one of this decade&#x27;s defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, …",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZWG6Sgh8GPFwyz6pxs_gis36Lo0bAHyFSaNrybGElVQbCBkjPrypJ_abTOidSIKSaVJs574hUuDYvUPGymaq3qfnecNfbc-RMnwTuH8vr4jLcsnQCLnxjscJMSLEfITdwIvVt4Ax_wzwKe3MpD5Bm9vIW_f94MESP1p1qNpoxrkkDstHJ1lL7eljzB4/s1700-e365/WAZUH.jpg"
+    },
+    {
+        "titulo": "SickKids data breach exposes employee and job applicant info",
+        "fonte": "BleepingComputer",
+        "autor": "Ax Sharma",
+        "data": "2026-08-21",
+        "url": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
+        "resumo": "Toronto&#x27;s Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinical systems and patient records were not…",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2023/01/01/sickkids.jpg"
+    },
+    {
         "titulo": "U.S. CISA adds TrueConf Server flaws to its Known Exploited Vulnerabilities catalog",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
@@ -16,167 +178,5 @@
         "url": "https://securityaffairs.com/197587/cyber-crime/cl0p-targets-40-organizations-through-ptc-windchill-flaw.html",
         "resumo": "Cl0p claims over 40 organizations fell victim to attacks exploiting a PTC Windchill and FlexPLM vulnerability. Cl0p is using a familiar strategy again: exploit one flaw in enterprise software to attack many companies, then publish the victims’ names if they r…",
         "imagem": "https://securityaffairs.com/wp-content/uploads/2026/08/image-59.png"
-    },
-    {
-        "titulo": "Astromech raises $20M to build a biological operating system that can forecast evolutionary change",
-        "fonte": "SiliconANGLE News",
-        "autor": "Mike Wheatley",
-        "data": "2026-08-21",
-        "url": "https://siliconangle.com/2026/08/20/astromech-raises-20m-to-build-a-biological-operating-system-that-can-forecast-evolutionary-change/",
-        "resumo": "An artificial intelligence startup called Astromech that’s developing models that can predict biological change has raised $20 million in funding, lifting its valuation to $3.8 billion. The round was led by biotechnology investor Bob Nelsen and saw the partic…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-21-08-32-21.png"
-    },
-    {
-        "titulo": "Hacker impersonates CoinDesk executive to target cybersecurity researchers with fake crypto conference",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-08-20",
-        "url": "https://cryptobriefing.com/hacker-fake-crypto-conference-cybersecurity/",
-        "resumo": "This incident highlights the persistent vulnerability of cybersecurity experts to sophisticated social engineering attacks, risking broader industry trust. The post Hacker impersonates CoinDesk executive to target cybersecurity researchers with fake crypto co…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/20161929/coindesk-logo-609x457.gif"
-    },
-    {
-        "titulo": "TrendAI™ Surpasses $1 Billion in AWS Marketplace Sales as AI Security Co-Innovation with AWS Accelerates",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-08-20",
-        "url": "https://www.prnewswire.com/news-releases/trendai-surpasses-1-billion-in-aws-marketplace-sales-as-ai-security-co-innovation-with-aws-accelerates-302856774.html",
-        "resumo": "The first APJ-based AI security partner to achieve this milestone DALLAS, Aug. 20, 2026 /PRNewswire/ -- TrendAI™, a global AI security leader and enterprise business unit of Trend Micro Incorporated (TYO: 4704), today announced it has surpassed $1 billion in …",
-        "imagem": "https://mmx.prnewswire.com/media/MS1798025/TrendAI-Logo.jpg?id=OA2900783&p=facebook"
-    },
-    {
-        "titulo": "The AI industry is getting better at spotting dangerous behavior. It is less clear that labs know how to stop it.",
-        "fonte": "Fortune",
-        "autor": "Beatrice Nolan",
-        "data": "2026-08-20",
-        "url": "https://fortune.com/2026/08/20/ai-safety-agent-hacks-harder-to-stop/",
-        "resumo": "Recent incidents involving OpenAI, Anthropic, and Meta show what happens when increasingly capable AI agents are tested in flawed environments. A new assessment finds leading labs are better at spotting risky behavior than reliably stopping it.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2287517382-e1787234499638.jpg?resize=1200,600"
-    },
-    {
-        "titulo": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-08-20",
-        "url": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
-        "resumo": "The U.S. government on Wednesday warned of an &quot;active threat&quot; targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens S7 SeriesProgrammable Logic Controlle…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSn562AFIpj2ldmT5inFv5tGgfNbaM4F1OBNvCW-80nP-YmFewnJd9VMlbgYnhgWrUpHS81bS6uEXRgEmg37c14OqmkO29XqY3FcBCl637vmAxfqB3UDtL3Rvgio6cPAQQv3bYtLUIyRdog4bpgD8MqJJYhTLish4L2Ljt6aJ_WpjFmTXYhmrA-TguqH98/s1700-e365/plc.jpg"
-    },
-    {
-        "titulo": "White House unveils National Security Science and Technology Strategy targeting AI, semiconductors, and defense innovation",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-08-20",
-        "url": "https://cryptobriefing.com/us-national-security-science-technology-strategy/",
-        "resumo": "The strategy&#x27;s focus on tech innovation and collaboration could redefine global power dynamics, emphasizing resilience and competitive edge. The post White House unveils National Security Science and Technology Strategy targeting AI, semiconductors, and defen…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/20114437/demolition-of-the-east-wing-of-the-white-house-during-constr-800x420.jpeg"
-    },
-    {
-        "titulo": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Bill Toulas",
-        "data": "2026-08-20",
-        "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-        "resumo": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/11/03/WordPress.jpg"
-    },
-    {
-        "titulo": "Frequently asked questions about the active threat to Siemens S7 Series PLCs",
-        "fonte": "Tenable.com",
-        "autor": "Research Special Operations",
-        "data": "2026-08-20",
-        "url": "https://www.tenable.com/blog/frequently-asked-questions-about-the-active-threat-to-siemens-s7-series-plcs",
-        "resumo": "A joint cybersecurity advisory released by multiple U.S. government agencies warns that threat actors are using AI-generated exploitation scripts to target exposed Siemens S7 Series PLCs across critical infrastructure sectors.Key TakeawaysUnattributed…",
-        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/Siemens%20S7.png?itok=b5HWDdeE"
-    },
-    {
-        "titulo": "Every Model Cheats",
-        "fonte": "Dreadnode.io",
-        "autor": "Dreadnode",
-        "data": "2026-08-20",
-        "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-        "resumo": "This post presents a controlled prompt-ablation study: 23 tasks, three prompt conditions, 1,518 individually audited traces, and a simple question: can you prompt away cheating?",
-        "imagem": "https://dreadnode.io/images/blog/every-model-cheats-hero.png"
-    },
-    {
-        "titulo": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-08-20",
-        "url": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
-        "resumo": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the isolated environment. The vulnerabili…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ3-aEfGwe03ZMojsoiYaQ4TNjUiAPEFK-m68uY5JSlF8knbnGWOcBrqiB_4s6J47lPjyhQEuWdUMHnktRU6YfOcltn7_lXga77C8TNH4GOVAPrmIH_T0MsFKFkmQSMnvf42bnLlH0pC4BVMEpAZJLLTH51GpgfZybiZ_UWNLhKxx1oGi8PyD3bOUGG0_F/s1700-e365/nodejs.jpg"
-    },
-    {
-        "titulo": "Axis Communications Joins Palo Alto Networks Program as Founding Partner in New Initiative to Help Organizations Mitigate Software Vulnerabilities",
-        "fonte": "Financial Post",
-        "autor": "Business Wire",
-        "data": "2026-08-20",
-        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/axis-communications-joins-palo-alto-networks-program-as-founding-partner-in-new-initiative-to-help-organizations-mitigate-software-vulnerabilities",
-        "resumo": "CHELMSFORD, Mass. — Axis Communications today announced it has joined a strategic initiative, the Frontier AI Critical Defense Program, created by Palo Alto Networks to protect critical infrastructure from Frontier AI-driven exploits. As a founding partner in…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Symmatrics Appoints Joe Reddix as Vice President of Federal to Accelerate Quantum-Secure Modernization Across Government",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-08-20",
-        "url": "https://www.prnewswire.com/news-releases/symmatrics-appoints-joe-reddix-as-vice-president-of-federal-to-accelerate-quantum-secure-modernization-across-government-302855689.html",
-        "resumo": "Industry veteran, LinkedIn Top Voice in cyber, and co-founder of the Quantum Security Alliance joins Symmatrics to advance mission assurance, identity security for federal agencies WASHINGTON, Aug. 20, 2026 /PRNewswire/ -- Symmatrics today announced the appoi…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1972609/Symmatrics_Full-Logo-Color.jpg?id=OA2898608&p=facebook"
-    },
-    {
-        "titulo": "French tax authority says break-in exposed data of 600K, including some private messages",
-        "fonte": "Theregister.com",
-        "autor": "Connor Jones",
-        "data": "2026-08-20",
-        "url": "https://www.theregister.com/security/2026/08/20/french-tax-authority-says-break-in-exposed-data-of-600k-including-some-private-messages/5290249",
-        "resumo": "Stolen details range from contact information to household finances and withholding rates",
-        "imagem": "https://image.theregister.com/255787.jpg?imageId=255787&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-    },
-    {
-        "titulo": "When Transparency Creates Risk: How Public Records Can Become Target Lists",
-        "fonte": "Forbes",
-        "autor": "Control Risks, Contributor, Control Risks, Contributor https://www.forbes.com/sites/riskmap/people/c",
-        "data": "2026-08-20",
-        "url": "https://www.forbes.com/sites/riskmap/2026/08/20/when-transparency-creates-risk-how-public-records-can-become-target-lists/",
-        "resumo": "Public records support transparency, but when data links people to homes, wealth and routines, it can create security risks that extend far beyond disclosure.",
-        "imagem": "https://imageio.forbes.com/specials-images/imageserve/6a84c4ebb87ae6b1847359e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-    },
-    {
-        "titulo": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-08-20",
-        "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
-        "resumo": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/08/20/Citrix.jpg"
-    },
-    {
-        "titulo": "Johnson Controls Simplex Incident Manager",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-08-20",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-232-01",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow a local attacker with low privileges to extract user credentials (passwords and authentication tokens) from system memory, potentially leading to unauthorized access to the applicatio…",
-        "imagem": ""
-    },
-    {
-        "titulo": "CISA warns of hackers exploiting critical MLflow vulnerability",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-08-20",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
-        "resumo": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/08/20/0_MLflow.jpg"
-    },
-    {
-        "titulo": "Sensex today | Stock Market Highlights: Sensex, Nifty snap losing streak as IT and financial stocks drive broad-based gains",
-        "fonte": "BusinessLine",
-        "autor": "Team BL, KS Badri Narayanan",
-        "data": "2026-08-20",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-updates-20th-august-2026/article71365156.ece",
-        "resumo": "Sensex, Nifty, Share Prices Highlights: Indian equities staged a broad-based rebound on Thursday, with technology and financial stocks leading gains as easing US bond-market concerns improved global risk appetite, while elevated crude prices and regulatory sc…",
-        "imagem": "https://bl-i.thgim.com/public/incoming/g6sams/article71365175.ece/alternates/LANDSCAPE_1200/PO13_BS_stock_market.jpg"
     }
 ]
