@@ -1,5 +1,149 @@
 [
     {
+        "titulo": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-08-24",
+        "url": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
+        "resumo": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that&#x27;s targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors. The vast majority of the targets are…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4-mx98ENuq77sCTBd49TSl4Ov5dD1Wua0Vf1MiyVVPfcFckY__TjnTEOeC5CIQWX4L_OLA-xZHHY5nAlp926SIpa3eK8Tvfw1HSHHK1GMot7noTz4Cg36t-ZuZ-NUh5mnsfzs0HJ8F7p410LgWFVPN39PYh8YR6qkDlE8duNKmKpOtJHW4NA9T_ddTGLp/s1700-e365/hackers.jpg"
+    },
+    {
+        "titulo": "Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund",
+        "fonte": "Securityweek.com",
+        "autor": "Eduard Kovacs",
+        "data": "2026-08-24",
+        "url": "https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/",
+        "resumo": "Claude Security, currently in public beta for Claude Enterprise customers, now runs codebase scans on Mythos 5. The post Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/05/Claude-Mythos.jpeg"
+    },
+    {
+        "titulo": "Ledger fixes vulnerability in Ethereum app’s signing flows",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-08-24",
+        "url": "https://cryptobriefing.com/ledger-ethereum-app-vulnerability-fix/",
+        "resumo": "The incident underscores the critical need for transparency and proactive communication in cybersecurity to maintain user trust and safety. The post Ledger fixes vulnerability in Ethereum app’s signing flows appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/24000747/ledger-nano-s-plus-800x420.png"
+    },
+    {
+        "titulo": "badBANANA-threat-observatory",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-24",
+        "url": "https://kitploit.com/en/tools/gitlab/gnomeman/badbanana-threat-observatory/",
+        "resumo": "Threat intel observatory aggregating CISA KEV, ThreatFox, URLhaus, and MalwareBazaar feeds with search, change tracking, and STIX/CSV/JSONL export.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/51054/b95230843455be5b069845753b863e3dbb0e03beb8737fae60fa7f1d7fe3202c-social-v1.webp"
+    },
+    {
+        "titulo": "backdoor-learning-resources",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-24",
+        "url": "https://kitploit.com/en/tools/github/thuyimingli/backdoor-learning-resources/",
+        "resumo": "Curated list of backdoor learning papers, surveys, and toolboxes, organizing poisoning-based attacks and defenses in deep learning for researchers and security practitioners.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/51003/f85c9254ffa10445ac6a24b302a874b8850622ea85627f598968f8b7ab885f8d-social-v1.webp"
+    },
+    {
+        "titulo": "awesome-cybersecurity-blueteam",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-24",
+        "url": "https://kitploit.com/en/tools/github/fabacab/awesome-cybersecurity-blueteam/",
+        "resumo": "️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/51009/e0dcf03f17fa5e8d5dde581cd4fe09879a1668b8aa18d16c352a10e779994f83-social-v1.webp"
+    },
+    {
+        "titulo": "MS10-059",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-24",
+        "url": "https://kitploit.com/en/tools/github/h3x0v3rl0rd/ms10-059/",
+        "resumo": "Standalone exploit for MS10-059 vulnerability in Windows Canonical Display Driver, enabling local privilege escalation.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/44900/85f14de91adbbb8c8b1b9eb0131daebca7e0b55d3d5f72e1a63e4b6d8881a618-social-v1.webp"
+    },
+    {
+        "titulo": "hakrevdns",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-24",
+        "url": "https://kitploit.com/en/tools/github/hakluke/hakrevdns/",
+        "resumo": "Small, fast tool for performing reverse DNS lookups en masse.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/50703/711a1c136daa0b41b47a531a78c426b8775aeac7472558fe01b8cb63b3fea532-social-v1.webp"
+    },
+    {
+        "titulo": "giskard-oss",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-23",
+        "url": "https://kitploit.com/en/tools/github/giskard-ai/giskard-oss/",
+        "resumo": "Open-Source Evaluation &amp; Testing library for LLM Agents",
+        "imagem": "https://assets.kitploit.com/production/public/tools/50936/65cc932276b9d3a86425700b3717748e952a622722b9e129ff43efb0fb91c4d1-social-v1.webp"
+    },
+    {
+        "titulo": "Dark-Moon v1.3.1",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-23",
+        "url": "https://kitploit.com/en/posts/github-ascit31-dark-moon-v131",
+        "resumo": "Autonomous AI penetration testing platform with agentic reasoning, privacy gateway, and 50+ integrated tools for continuous offensive security across web, cloud, AD, and Kubernetes environments.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/42241/a6c09be49941b1844e75087bff9ea1ff5c266216f8ed1445e2edad8a6effdbce.png"
+    },
+    {
+        "titulo": "Why every AI agent needs an org chart",
+        "fonte": "SiliconANGLE News",
+        "autor": "Dux Raymond Sy",
+        "data": "2026-08-23",
+        "url": "https://siliconangle.com/2026/08/23/why-every-ai-agent-needs-an-org-chart/",
+        "resumo": "A chief information officer I was talking with recently said something that stuck with me: Permissions tell an agent what it’s allowed to do. They say nothing about what you meant. This observation touches on one of the core artificial intelligence challenges…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2024/08/an-ai-agent-using-a-keyboard.png"
+    },
+    {
+        "titulo": "spire",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-23",
+        "url": "https://kitploit.com/en/tools/github/spiffe/spire/",
+        "resumo": "Workload identity platform that attests running services, issues SPIFFE IDs/SVIDs, and enables mTLS and JWT authentication for Kubernetes, containers, and cloud.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/50744/eccffda11f43c6a5b7abd1c2fbc0c384cc1f8005aee486f1324d732a7da437dd-social-v1.webp"
+    },
+    {
+        "titulo": "Slovakia finds Russian backdoor in traffic speed cameras",
+        "fonte": "Risky.biz",
+        "autor": "Catalin Cimpanu",
+        "data": "2026-08-23",
+        "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+        "resumo": "Slovakia&#x27;s national security service NBU has issued a security alert against the use of NERO R-ONE high-speed traffic cameras.The agency s [Read More]",
+        "imagem": "https://risky.biz/static/img/RB-OG-Social.jpg"
+    },
+    {
+        "titulo": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+        "fonte": "Github.io",
+        "autor": "",
+        "data": "2026-08-23",
+        "url": "https://ericpardee.github.io/fire-hd-ownership/",
+        "resumo": "Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five months",
+        "imagem": ""
+    },
+    {
+        "titulo": "AI agent hacks gym system to move up waitlist",
+        "fonte": "Fox News",
+        "autor": "",
+        "data": "2026-08-23",
+        "url": "https://www.foxnews.com/tech/ai-agent-hacks-gym-system-move-up-waitlist",
+        "resumo": "An AI agent using Claude AI canceled another person&#x27;s gym booking after finding a security flaw in the reservation system&#x27;s authorization checks.",
+        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/ai-gym-hack.jpg"
+    },
+    {
+        "titulo": "wapiti",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-23",
+        "url": "https://kitploit.com/en/tools/github/wapiti-scanner/wapiti/",
+        "resumo": "Web vulnerability scanner written in Python3",
+        "imagem": "https://assets.kitploit.com/production/public/tools/50705/12e4afd900747f87e9e8e679e31f4c08d7c1569f3791c5e105e8965897c65701-social-v1.webp"
+    },
+    {
         "titulo": "Security Affairs newsletter Round 591 by Pierluigi Paganini – INTERNATIONAL EDITION",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
@@ -34,149 +178,5 @@
         "url": "https://www.nzherald.co.nz/business/business-reports/infrastructure-report/data-centres-why-new-zealands-digital-backbone-needs-more-than-power/premium/NRD3SEJJVVAGJCJF55LI5YFVI4/",
         "resumo": "Data centres are expanding, but sovereignty and connectivity remain unsettled.",
         "imagem": "https://www.nzherald.co.nz/resizer/v2/YTLGFK7OERDJBOKN6H7G6UH2GQ.jpg?auth=f61bef1cffd920794f0446a7bae94b08d4f6388ec9c64d96e0f23e5f626322f3&width=1200&height=675&quality=70&focal=890%2C707&smart=false"
-    },
-    {
-        "titulo": "attackgen v0.16.0",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-22",
-        "url": "https://kitploit.com/en/posts/github-mrwadams-attackgen-v0160",
-        "resumo": "AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&amp;CK framework. The tool generates tailored incident response scenarios based on user-selected threat actor groups and …",
-        "imagem": "https://assets.kitploit.com/production/public/tools/6464/58525fd72c40f62c39a5defdd2565e26c374c60d481898a3abcd8d2b65f92b52.png"
-    },
-    {
-        "titulo": "Microsoft Fixes &#x27;Perfect 10&#x27; Exploit That Could Have Let Hackers Run Code Remotely",
-        "fonte": "Decrypt",
-        "autor": "Jason Nelson",
-        "data": "2026-08-22",
-        "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
-        "resumo": "The Entra ID flaw earned the highest possible severity score, but Microsoft says it patched the bug before publishing the CVE and found no evidence it was ever exploited.",
-        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/microsoft-decrypt-style-01-gID_7.png"
-    },
-    {
-        "titulo": "8 Experts Weigh In On The FCC Foreign Robot Ban: Good Or Bad?",
-        "fonte": "Forbes",
-        "autor": "John Koetsier, Senior Contributor, John Koetsier, Senior Contributor https://www.forbes.com/sites/jo",
-        "data": "2026-08-22",
-        "url": "https://www.forbes.com/sites/johnkoetsier/2026/08/22/8-experts-weigh-in-on-the-fcc-foreign-robot-ban-good-or-bad/",
-        "resumo": "Will the FCC foreign robot ban help the American robotic industry or hurt it? And, will it explode domestic robot prices up 3X? 8 experts weigh in ...",
-        "imagem": "https://imageio.forbes.com/specials-images/imageserve/6937747c047dd55d391174f2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-    },
-    {
-        "titulo": "I gave Claude Code its own disposable computer, and stopped caring what it installed",
-        "fonte": "XDA Developers",
-        "autor": "Anurag Singh",
-        "data": "2026-08-22",
-        "url": "https://www.xda-developers.com/gave-claude-code-disposable-computer-stopped-caring-installed/",
-        "resumo": "I can finally stop approving commands.",
-        "imagem": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/1787251717430.jpg?w=1600&h=900&fit=crop"
-    },
-    {
-        "titulo": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
-        "fonte": "Decrypt",
-        "autor": "Jason Nelson",
-        "data": "2026-08-22",
-        "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
-        "resumo": "A group of 20-odd developers is scanning the Bitcoin ecosystem for AI-discoverable flaws, warning that cheap, powerful models have handed attackers unprecedented reach.",
-        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/bitcoin-decrypt-style-specs-gID_7.png"
-    },
-    {
-        "titulo": "NVD-Database",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-22",
-        "url": "https://kitploit.com/en/tools/github/nomi-sec/nvd-database/",
-        "resumo": "Curated mirror of the National Vulnerability Database (NVD) providing structured CVE data for vulnerability research, threat intelligence, and security automation workflows.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/41027/028cc95bb6924f511778a41d9f3f106bf0304aad1cf7b2191d3cf0ffd94027c0-social-v1.webp"
-    },
-    {
-        "titulo": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
-        "fonte": "BleepingComputer",
-        "autor": "Sponsored by ThreatLocker",
-        "data": "2026-08-22",
-        "url": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
-        "resumo": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly scoped p…",
-        "imagem": "https://www.bleepstatic.com/content/posts/2026/08/18/0_named-pipe-header-image.jpg"
-    },
-    {
-        "titulo": "cve-2025-29927",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-22",
-        "url": "https://kitploit.com/en/tools/github/kuyrathdaro/cve-2025-29927/",
-        "resumo": "Proof-of-concept exploit for CVE-2025-29927, demonstrating the vulnerability and its impact for security research and testing.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/28231/b309c4014df7a9c9a46c89e8cbe7c3d9de8282cb747f4dcabfa5aabba9d0976a-social-v1.webp"
-    },
-    {
-        "titulo": "Pigeon’s AI Growth Hacking Blueprint: Automating Scale And Securing The Unscalable + Video - Undercode Testing",
-        "fonte": "Undercodetesting.com",
-        "autor": "Hackmon Ai",
-        "data": "2026-08-22",
-        "url": "https://undercodetesting.com/pigeons-ai-growth-hacking-blueprint-automating-scale-and-securing-the-unscalable-video/",
-        "resumo": "Pigeon’s AI Growth Hacking Blueprint: Automating Scale and Securing the Unscalable + Video - &quot;Undercode Testing&quot;: Monitor hackers like a pro. Get real-time",
-        "imagem": "https://i0.wp.com/undercodetesting.com/wp-content/uploads/2026/08/RIZsaGKNg_response.jpeg"
-    },
-    {
-        "titulo": "CVE-2026-53582",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-22",
-        "url": "https://kitploit.com/en/tools/github/eev4n/cve-2026-53582/",
-        "resumo": "Proof-of-concept exploit for CVE-2026-53582 targeting OPNsense firewall. Demonstrates vulnerability exploitation for security testing and research purposes.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/25041/c475535f2d9d709104c9bef528a193de24d1a17bfb21ae589dc367093cefa55b-social-v1.webp"
-    },
-    {
-        "titulo": "CVE-2025-32375-PoC",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-22",
-        "url": "https://kitploit.com/en/tools/github/sevdakhidirova/cve-2025-32375-poc/",
-        "resumo": "Python proof-of-concept exploit for CVE-2025-32375 in BentoML, demonstrating and validating the vulnerability against affected deployments.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/49332/033f416c7c8fd5099fdbb74964c32ecb0f71f448596df0867536142a48e15ca6-social-v1.webp"
-    },
-    {
-        "titulo": "U.S. CISA adds Zimbra Collaboration Suite (ZCS) flaw to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-08-22",
-        "url": "https://securityaffairs.com/197693/security/u-s-cisa-adds-zimbra-collaboration-suite-zcs-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Zimbra Collaboration Suite (ZCS) flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the Zimbra Collaboration Suite (ZCS)…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "CVE-2015-1328",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-22",
-        "url": "https://kitploit.com/en/tools/github/whatswrongandwhy/cve-2015-1328/",
-        "resumo": "Exploit for CVE-2015-1328, a local privilege escalation vulnerability in the Linux kernel&#x27;s overlayfs filesystem, enabling unprivileged users to gain root access.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/21666/1a533f6c449ac430ac552cb9b1c769f30a0f9938f875ca705f717f6b7522d0ec-social-v1.webp"
-    },
-    {
-        "titulo": "CVE-2026-6279",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-22",
-        "url": "https://kitploit.com/en/tools/github/87achrafg-stack/cve-2026-6279/",
-        "resumo": "Proof-of-concept exploit for CVE-2026-6279, demonstrating the vulnerability and providing a basis for security testing and patch validation.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/14840/2e14f8f7704292ac6669e544055c98901774a727952fe59ea40346a429d0a58a-social-v1.webp"
-    },
-    {
-        "titulo": "ESCepcion",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-22",
-        "url": "https://kitploit.com/en/tools/github/hackwarts12/escepcion/",
-        "resumo": "Passive AD CS auditor detecting ESC1–ESC16 and Shadow Credentials via read-only LDAP/ACL/registry checks, with prioritized remediation and SIEM-ready output.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/50640/d529c1328a42d628dbb82fdb551791f620d35a8b3d11291a607d81374fc5d316-social-v1.webp"
-    },
-    {
-        "titulo": "Compliance theater is over: What FedRAMP 20x means for every vendor selling to government",
-        "fonte": "Nextgov",
-        "autor": "Hemant Baidwan",
-        "data": "2026-08-21",
-        "url": "https://www.nextgov.com/ideas/2026/08/compliance-theater-over-what-fedramp-20x-means-every-vendor-selling-government/415580/",
-        "resumo": "COMMENTARY | Attacks now move faster than human-paced patch cycles can keep up with and a compliance program built around periodic reviews will not catch them.",
-        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/08/21/GettyImages_2204596345/open-graph.jpg"
     }
 ]
