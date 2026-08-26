@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
+        "titulo": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-08-24",
-        "url": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
-        "resumo": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that&#x27;s targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors. The vast majority of the targets are…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4-mx98ENuq77sCTBd49TSl4Ov5dD1Wua0Vf1MiyVVPfcFckY__TjnTEOeC5CIQWX4L_OLA-xZHHY5nAlp926SIpa3eK8Tvfw1HSHHK1GMot7noTz4Cg36t-ZuZ-NUh5mnsfzs0HJ8F7p410LgWFVPN39PYh8YR6qkDlE8duNKmKpOtJHW4NA9T_ddTGLp/s1700-e365/hackers.jpg"
+        "data": "2026-08-25",
+        "url": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitat…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl_xYf_N0l1MVU0TVJFootEd6UCngqtfmbbEKRc06D7-0-ehjKU2SrBoA3qKaSkUWrOzgAu6hkbtimW8U7M4zgfH_6jXzgy6w7aQEGQKni-doNdQFCmAm9_vI_Zq4I6tx7lO2q533pbWWOLKBuUUYLGdY9O7SfBcwcGrqvsMLaFMPL09xXK86vRu38JfEp/s1700-e365/oracle.jpg"
     },
     {
-        "titulo": "Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund",
-        "fonte": "Securityweek.com",
-        "autor": "Eduard Kovacs",
-        "data": "2026-08-24",
-        "url": "https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/",
-        "resumo": "Claude Security, currently in public beta for Claude Enterprise customers, now runs codebase scans on Mythos 5. The post Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/05/Claude-Mythos.jpeg"
+        "titulo": "Judge Approves $117.5 Million Settlement in ‘Complex’ Comcast Data Breach Case",
+        "fonte": "Insurance Journal",
+        "autor": "admin",
+        "data": "2026-08-25",
+        "url": "https://www.insurancejournal.com/news/east/2026/08/25/882611.htm",
+        "resumo": "A federal judge has approved a $117.5 million data breach settlement against Comcast Cable Communications. The agreement represents one of the largest data breach settlement amounts and, with 31.7 million potential members, one of the largest classes in a dat…",
+        "imagem": "https://www.insurancejournal.com/app/uploads/2015/04/data-breach2.jpg"
     },
     {
-        "titulo": "Ledger fixes vulnerability in Ethereum app’s signing flows",
+        "titulo": "cvedb",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-25",
+        "url": "https://kitploit.com/en/tools/github/trailofbits/cvedb/",
+        "resumo": "CVE querying library and utility that uses a local store syncing directly to the National Vulnerability Database",
+        "imagem": "https://assets.kitploit.com/production/public/tools/51223/fc9056dee66f844bc7fb408ea1fef0cad07cfc0e1566bed1dc62ae0bacd85708-social-v1.webp"
+    },
+    {
+        "titulo": "Cybersecurity jobs available right now: August 25, 2026",
+        "fonte": "Help Net Security",
+        "autor": "Sinisa Markovic",
+        "data": "2026-08-25",
+        "url": "https://www.helpnetsecurity.com/2026/08/25/cybersecurity-jobs-available-right-now-august-25-2026/",
+        "resumo": "Specialist Compliance Security AT&amp;T | USA | On-site – View job details As a Specialist Compliance Security, you will serve as AT&amp;T’s liaison for law enforcement, first responders, and emergency personnel nationwide. Respond 24×7 to emergency requests, process…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140407/cybersecurity_jobs-3-1500.webp"
+    },
+    {
+        "titulo": "SEBI joins hands with RRU, NISM to boost cybersecurity and securities market intelligence",
+        "fonte": "BusinessLine",
+        "autor": "PTI",
+        "data": "2026-08-25",
+        "url": "https://www.thehindubusinessline.com/markets/sebi-joins-hands-with-rru-nism-to-boost-cybersecurity-and-securities-market-intelligence/article71386336.ece",
+        "resumo": "SEBI, RRU and NISM have signed an MoU to boost cybersecurity training, research and capacity building, including a proposed Technical Innovation Unit.",
+        "imagem": "https://bl-i.thgim.com/public/incoming/6facap/article71387100.ece/alternates/LANDSCAPE_1200/Financial-sectoGP8FGO86H.3.jpg.jpg"
+    },
+    {
+        "titulo": "HPE-Aruba-AOS8-Vulnerabilities",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-24",
+        "url": "https://kitploit.com/en/tools/github/jm00nj/hpe-aruba-aos8-vulnerabilities/",
+        "resumo": "ArubaOS 8.13.2.0 pre-auth attack surface research. XXE+SSRF, ICMP reflection, buffer over-read, hardcoded credentials — all submitted to HPE Bugcrowd, marked N/A. No fixes issued.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/51061/f8b8c72c4b920a141841ea8118bde2f51d6dfbc26f17298ceece689a0096b595-social-v1.webp"
+    },
+    {
+        "titulo": "claude-bug-bounty",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-24",
+        "url": "https://kitploit.com/en/tools/github/awarexone/claude-bug-bounty/",
+        "resumo": "AI-powered bug bounty hunting toolkit that works with or without subscription.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/51066/8b735147a39d67f81ef8827d6dc67efdc24467056cfb5b6f6f5fd02b03dd8b37-social-v1.webp"
+    },
+    {
+        "titulo": "GOP civil war erupts over the creepy &#x27;Big Brother&#x27; weapon following MILLIONS of Americans as ex-CIA officer delivers chilling warning",
+        "fonte": "Dailymail.com",
+        "autor": "Jon Michael Raasch",
+        "data": "2026-08-24",
+        "url": "https://www.dailymail.com/news/article-16070909/gop-flock-safety-surveillance-debate.html",
+        "resumo": "Republicans are split over license plate-reading surveillance cameras that some argue can help solve crimes while others say they infringe on liberty as &#x27; Big Brother&#x27; debate sparks major divide.",
+        "imagem": "https://i.dailymail.com/1s/2026/08/24/21/110784181-0-image-m-10_1787604688759.jpg"
+    },
+    {
+        "titulo": "Chinese hackers are using DeepSeek AI to launch autonomous cyberattacks",
         "fonte": "Crypto Briefing",
         "autor": "Editorial Team",
         "data": "2026-08-24",
-        "url": "https://cryptobriefing.com/ledger-ethereum-app-vulnerability-fix/",
-        "resumo": "The incident underscores the critical need for transparency and proactive communication in cybersecurity to maintain user trust and safety. The post Ledger fixes vulnerability in Ethereum app’s signing flows appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/24000747/ledger-nano-s-plus-800x420.png"
+        "url": "https://cryptobriefing.com/chinese-hackers-deepseek-ai-cyberattacks/",
+        "resumo": "The rise of AI-driven cyberattacks necessitates enhanced cybersecurity measures and vigilance to protect vulnerable systems globally. The post Chinese hackers are using DeepSeek AI to launch autonomous cyberattacks appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/24154529/deepseek-ai-10-800x420.jpeg"
     },
     {
-        "titulo": "badBANANA-threat-observatory",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-24",
-        "url": "https://kitploit.com/en/tools/gitlab/gnomeman/badbanana-threat-observatory/",
-        "resumo": "Threat intel observatory aggregating CISA KEV, ThreatFox, URLhaus, and MalwareBazaar feeds with search, change tracking, and STIX/CSV/JSONL export.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/51054/b95230843455be5b069845753b863e3dbb0e03beb8737fae60fa7f1d7fe3202c-social-v1.webp"
-    },
-    {
-        "titulo": "backdoor-learning-resources",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-24",
-        "url": "https://kitploit.com/en/tools/github/thuyimingli/backdoor-learning-resources/",
-        "resumo": "Curated list of backdoor learning papers, surveys, and toolboxes, organizing poisoning-based attacks and defenses in deep learning for researchers and security practitioners.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/51003/f85c9254ffa10445ac6a24b302a874b8850622ea85627f598968f8b7ab885f8d-social-v1.webp"
-    },
-    {
-        "titulo": "awesome-cybersecurity-blueteam",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-24",
-        "url": "https://kitploit.com/en/tools/github/fabacab/awesome-cybersecurity-blueteam/",
-        "resumo": "️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/51009/e0dcf03f17fa5e8d5dde581cd4fe09879a1668b8aa18d16c352a10e779994f83-social-v1.webp"
-    },
-    {
-        "titulo": "MS10-059",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-24",
-        "url": "https://kitploit.com/en/tools/github/h3x0v3rl0rd/ms10-059/",
-        "resumo": "Standalone exploit for MS10-059 vulnerability in Windows Canonical Display Driver, enabling local privilege escalation.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/44900/85f14de91adbbb8c8b1b9eb0131daebca7e0b55d3d5f72e1a63e4b6d8881a618-social-v1.webp"
-    },
-    {
-        "titulo": "hakrevdns",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-24",
-        "url": "https://kitploit.com/en/tools/github/hakluke/hakrevdns/",
-        "resumo": "Small, fast tool for performing reverse DNS lookups en masse.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/50703/711a1c136daa0b41b47a531a78c426b8775aeac7472558fe01b8cb63b3fea532-social-v1.webp"
-    },
-    {
-        "titulo": "giskard-oss",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-23",
-        "url": "https://kitploit.com/en/tools/github/giskard-ai/giskard-oss/",
-        "resumo": "Open-Source Evaluation &amp; Testing library for LLM Agents",
-        "imagem": "https://assets.kitploit.com/production/public/tools/50936/65cc932276b9d3a86425700b3717748e952a622722b9e129ff43efb0fb91c4d1-social-v1.webp"
-    },
-    {
-        "titulo": "Dark-Moon v1.3.1",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-23",
-        "url": "https://kitploit.com/en/posts/github-ascit31-dark-moon-v131",
-        "resumo": "Autonomous AI penetration testing platform with agentic reasoning, privacy gateway, and 50+ integrated tools for continuous offensive security across web, cloud, AD, and Kubernetes environments.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/42241/a6c09be49941b1844e75087bff9ea1ff5c266216f8ed1445e2edad8a6effdbce.png"
-    },
-    {
-        "titulo": "Why every AI agent needs an org chart",
-        "fonte": "SiliconANGLE News",
-        "autor": "Dux Raymond Sy",
-        "data": "2026-08-23",
-        "url": "https://siliconangle.com/2026/08/23/why-every-ai-agent-needs-an-org-chart/",
-        "resumo": "A chief information officer I was talking with recently said something that stuck with me: Permissions tell an agent what it’s allowed to do. They say nothing about what you meant. This observation touches on one of the core artificial intelligence challenges…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2024/08/an-ai-agent-using-a-keyboard.png"
-    },
-    {
-        "titulo": "spire",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-23",
-        "url": "https://kitploit.com/en/tools/github/spiffe/spire/",
-        "resumo": "Workload identity platform that attests running services, issues SPIFFE IDs/SVIDs, and enables mTLS and JWT authentication for Kubernetes, containers, and cloud.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/50744/eccffda11f43c6a5b7abd1c2fbc0c384cc1f8005aee486f1324d732a7da437dd-social-v1.webp"
-    },
-    {
-        "titulo": "Slovakia finds Russian backdoor in traffic speed cameras",
-        "fonte": "Risky.biz",
-        "autor": "Catalin Cimpanu",
-        "data": "2026-08-23",
-        "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-        "resumo": "Slovakia&#x27;s national security service NBU has issued a security alert against the use of NERO R-ONE high-speed traffic cameras.The agency s [Read More]",
-        "imagem": "https://risky.biz/static/img/RB-OG-Social.jpg"
-    },
-    {
-        "titulo": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-        "fonte": "Github.io",
-        "autor": "",
-        "data": "2026-08-23",
-        "url": "https://ericpardee.github.io/fire-hd-ownership/",
-        "resumo": "Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five months",
-        "imagem": ""
-    },
-    {
-        "titulo": "AI agent hacks gym system to move up waitlist",
-        "fonte": "Fox News",
-        "autor": "",
-        "data": "2026-08-23",
-        "url": "https://www.foxnews.com/tech/ai-agent-hacks-gym-system-move-up-waitlist",
-        "resumo": "An AI agent using Claude AI canceled another person&#x27;s gym booking after finding a security flaw in the reservation system&#x27;s authorization checks.",
-        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/ai-gym-hack.jpg"
-    },
-    {
-        "titulo": "wapiti",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-23",
-        "url": "https://kitploit.com/en/tools/github/wapiti-scanner/wapiti/",
-        "resumo": "Web vulnerability scanner written in Python3",
-        "imagem": "https://assets.kitploit.com/production/public/tools/50705/12e4afd900747f87e9e8e679e31f4c08d7c1569f3791c5e105e8965897c65701-social-v1.webp"
-    },
-    {
-        "titulo": "Security Affairs newsletter Round 591 by Pierluigi Paganini – INTERNATIONAL EDITION",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-08-23",
-        "url": "https://securityaffairs.com/197728/breaking-news/security-affairs-newsletter-round-591-by-pierluigi-paganini-international-edition.html",
-        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including international press. ToxicPanda 2…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
-    },
-    {
-        "titulo": "Week in review: Records allegedly stolen from Azure tenants, Medusa ransomware hits 500+ orgs",
-        "fonte": "Help Net Security",
-        "autor": "Help Net Security",
-        "data": "2026-08-23",
-        "url": "https://www.helpnetsecurity.com/2026/08/23/week-in-review-records-allegedly-stolen-from-azure-tenants-medusa-ransomware-hits-500-orgs/",
-        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Windows 11’s strongest security defenses can be bypassed without a screwdriver Researchers from the University of Birmingham and Durham University have found a w…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/16184227/week-in-review.jpg"
-    },
-    {
-        "titulo": "China’s Z.AI challenges Anthropic with new AI cybersecurity model GLM-5.3",
+        "titulo": "Alabama AG subpoenas OpenAI over AI model breach of Hugging Face",
         "fonte": "Crypto Briefing",
-        "autor": "Estefano Gomez",
-        "data": "2026-08-23",
-        "url": "https://cryptobriefing.com/chinas-zai-challenges-anthropic-with-new-ai-cybersecurity-model-glm-53/",
-        "resumo": "Z.ai&#x27;s advancement may disrupt AI cybersecurity dynamics, challenging Anthropic&#x27;s dominance and prompting shifts in market strategies. The post China’s Z.AI challenges Anthropic with new AI cybersecurity model GLM-5.3 appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/23030413/interfaz-de-z-ai-en-el-navegador-1-800x420.jpeg"
+        "autor": "Editorial Team",
+        "data": "2026-08-24",
+        "url": "https://cryptobriefing.com/alabama-ag-subpoenas-openai-hugging-face-breach/",
+        "resumo": "The incident highlights the urgent need for robust AI safety protocols and could lead to stricter regulations on autonomous AI systems. The post Alabama AG subpoenas OpenAI over AI model breach of Hugging Face appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/24145146/photo-illustration-of-openai-gpt-5-3-codex-21-800x420.jpeg"
     },
     {
-        "titulo": "Data centres: Why New Zealand’s digital backbone is at risk",
-        "fonte": "New Zealand Herald",
-        "autor": "Bill Bennett",
-        "data": "2026-08-23",
-        "url": "https://www.nzherald.co.nz/business/business-reports/infrastructure-report/data-centres-why-new-zealands-digital-backbone-needs-more-than-power/premium/NRD3SEJJVVAGJCJF55LI5YFVI4/",
-        "resumo": "Data centres are expanding, but sovereignty and connectivity remain unsettled.",
-        "imagem": "https://www.nzherald.co.nz/resizer/v2/YTLGFK7OERDJBOKN6H7G6UH2GQ.jpg?auth=f61bef1cffd920794f0446a7bae94b08d4f6388ec9c64d96e0f23e5f626322f3&width=1200&height=675&quality=70&focal=890%2C707&smart=false"
+        "titulo": "hardware-compliance-handbook",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-24",
+        "url": "https://kitploit.com/en/tools/github/platanor/hardware-compliance-handbook/",
+        "resumo": "AI-ready knowledge base of security &amp; compliance regulations for hardware and connected-device manufacturers - structured, indexed, and machine-readable for LLMs and agents.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/51190/e0c69b50f5be67df2eeaee4bb3d0e8314e8e968a30f24e1bd4e48d59f3fef3b4-social-v1.webp"
+    },
+    {
+        "titulo": "NIST Warns of Unique Security Risks in Multi-Cloud Environments",
+        "fonte": "Infosecurity Magazine",
+        "autor": "James Coker",
+        "data": "2026-08-24",
+        "url": "https://www.infosecurity-magazine.com/news/nist-risks-multi-cloud/",
+        "resumo": "NIST has set out 23 novel challenges that arise in multi-cloud environments and has encouraged the cyber community to find solutions",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/455e6395-166e-4f2a-9d75-6f215a6ce1b3.jpeg"
+    },
+    {
+        "titulo": "Hackers Are Using Fake Android Updates To Hijack Smart Car Displays",
+        "fonte": "Hot Hardware",
+        "autor": "Aaron Leong",
+        "data": "2026-08-24",
+        "url": "https://hothardware.com/news/hackers-using-fake-android-updates-to-hijack-smart-car-displays",
+        "resumo": "Cybersecurity researchers at Kaspersky have uncovered a malware downloader that targets Android-based automotive head units, marking the first documented case of malicious code explicitly engineered to compromise vehicle infotainment systems with the main int…",
+        "imagem": "https://hothardware.com/contentimages/NewsItem/71459/content/16x9_2133x1200_highres-dofun-headunit.jpg"
+    },
+    {
+        "titulo": "Sebi launches Cyber Suraksha portal",
+        "fonte": "The Times of India",
+        "autor": "PTI",
+        "data": "2026-08-24",
+        "url": "https://economictimes.indiatimes.com/tech/technology/sebi-launches-cyber-suraksha-portal/articleshow/133471754.cms",
+        "resumo": "The Securities and Exchange Board of India (Sebi) has introduced a cybersecurity portal, designed to act as a comprehensive resource for the securities sector. This portal will distribute vital information and updates regarding cybersecurity practices.",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-56808,resizemode-75,msid-133471754/tech/technology/sebi-launches-cyber-suraksha-portal.jpg"
+    },
+    {
+        "titulo": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-08-24",
+        "url": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
+        "resumo": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes exploit work cheaper, and researchers k…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBxfnZQzz7hUDdRKPJM-KWXJAJemk0-S3QlOB71Z1Bq9nVxHA4G0VtkwUUVJjgO-2gtDImMt-ktLnUQd3rkScujv0fWVlfc_tr3qO7sZ-MI2QDtoyT8pKx4q_ZCndRyxhPQcNtZB70fZ4VlaBuE3YaMcE__MWrRtngOU0rTHcSmOXsGkhlARwfUkIBUj9Q/s1700-e365/recap-n.jpg"
+    },
+    {
+        "titulo": "Canadian SickKids hospital hit again by cyberattacks, more data stolen",
+        "fonte": "TechRadar",
+        "autor": "Sead Fadilpašić",
+        "data": "2026-08-24",
+        "url": "https://www.techradar.com/pro/security/canadian-sickkids-hospital-hit-again-by-cyberattacks-more-data-stolen",
+        "resumo": "Patient care has continued as usual following cyberattack.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/fLLbfyMxWuqokngy6WuMzH-1981-80.jpg"
+    },
+    {
+        "titulo": "Athena Agentic Acquires Maxxsure, Adding Cyber Risk Quantification to Its Unified Cyber Operations Platform",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-08-24",
+        "url": "https://www.prnewswire.com/news-releases/athena-agentic-acquires-maxxsure-adding-cyber-risk-quantification-to-its-unified-cyber-operations-platform-302857988.html",
+        "resumo": "Strategic acquisition brings the industry-leading M-Score™ cyber risk platform under the Athena Agentic umbrella, extending the Athena Unified Cyber Operations Platform to include a complete GRC module. DALLAS, Aug. 24, 2026 /PRNewswire/ -- Athena Agentic tod…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1974087/Athena-Agentic-logo.jpg?id=OA2905114&p=facebook"
+    },
+    {
+        "titulo": "AWS patches SDK flaw that turned a region field into credential theft",
+        "fonte": "SiliconANGLE News",
+        "autor": "Duncan Riley",
+        "data": "2026-08-24",
+        "url": "https://siliconangle.com/2026/08/24/aws-patches-sdk-flaw-that-turned-a-region-field-into-credential-theft/",
+        "resumo": "Amazon Web Services Inc. has patched a flaw across seven of its software development kits after product security startup Pi Inc. traced a single bug report to roughly 2,500 instances of the same defect, Pi revealed today. Every AWS SDK builds the hostname it …",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/piawsflaw.png"
+    },
+    {
+        "titulo": "Has AI Gone Rogue?",
+        "fonte": "Calnewport.com",
+        "autor": "Study Hacks",
+        "data": "2026-08-24",
+        "url": "https://calnewport.com/has-ai-gone-rogue/",
+        "resumo": "The AI story of the summer should probably be the ​uncertain financial position​ of the AI labs hoping to launch record-breaking IPOs shortly. Technology news, ... Read more The post Has AI Gone Rogue? appeared first on Cal Newport.",
+        "imagem": "https://calnewport.com/wp-content/uploads/2026/08/Newsletter-Images-6-7-scaled.png"
+    },
+    {
+        "titulo": "CISA orders urgent patching of actively exploited Zimbra flaw",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-08-24",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
+        "resumo": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/08/24/Zimbra.jpg"
     }
 ]
