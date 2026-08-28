@@ -1,173 +1,182 @@
 [
     {
-        "titulo": "Federal cybersecurity compliance moves toward continuous assurance",
-        "fonte": "Digital Journal",
-        "autor": "Jake Cole",
-        "data": "2026-08-26",
-        "url": "https://www.digitaljournal.com/article/federal-cybersecurity-compliance-moves-toward-continuous-assurance/",
-        "resumo": "Supply chain exposure appears to be becoming a more consequential part of the federal cybersecurity conversation as organizations rely on expanding networks of software, cloud services, and third-party providers. Google Cloud’s Cloud Threat Horizons Report H1…",
-        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2026/08/TechTO-11-50.png"
-    },
-    {
-        "titulo": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-08-26",
-        "url": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
-        "resumo": "Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/08/26/Microsoft-SharePoint.jpg"
-    },
-    {
-        "titulo": "TrendAI™ Ranks First on CyberGym Agentic AI Security Benchmark",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-08-26",
-        "url": "https://www.prnewswire.com/news-releases/trendai-ranks-first-on-cybergym-agentic-ai-security-benchmark-302860172.html",
-        "resumo": "The 97% success rate places TrendAI™ ahead of all other entrants on the AI security benchmark DALLAS, Aug. 26, 2026 /PRNewswire/ -- The TrendAI™ agentic exploit-remediation engine, codename AESIR, achieved the top position on CyberGym, an independent evaluati…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1798025/TrendAI-Logo.jpg?id=OA2911568&p=facebook"
-    },
-    {
-        "titulo": "Ubiquiti patches three max severity security vulnerabilities",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-08-26",
-        "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
-        "resumo": "Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/08/Ubiquiti-headpic.jpg"
-    },
-    {
-        "titulo": "Edge infrastructure under siege: what two independent datasets reveal about who&#x27;s exploiting your perimeter",
-        "fonte": "Tenable.com",
-        "autor": "Research Special Operations",
-        "data": "2026-08-26",
-        "url": "https://www.tenable.com/blog/edge-infrastructure-under-siege",
-        "resumo": "A joint Tenable-SentinelOne analysis of 93 CVE-actor attribution pairs reveals that both state-sponsored actors and cybercriminals independently converge on the same edge infrastructure. Special thanks to SentinelOne® Incident Readiness &amp; Response for their c…",
-        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/S1.png?itok=SWqQ-KTH"
-    },
-    {
-        "titulo": "EXCLUSIVE: Iranian Hackers &#x27;Target U.S. Water Supply&#x27; as Revenge Plot Fears Rise",
-        "fonte": "Radaronline.com",
-        "autor": "Aaron Johnson",
-        "data": "2026-08-26",
-        "url": "https://radaronline.com/p/iranian-hackers-target-us-water-supply-revenge-fears/",
-        "resumo": "Iranian hackers &#x27;target U.S. water supply&#x27; as fears rise over a possible revenge plot against America.",
-        "imagem": "https://media.radaronline.com/brand-img/rfNrI8koe/1200x628/iranian-hackers-target-us-water-supply-revenge-fears-1787645322098.jpg"
-    },
-    {
-        "titulo": "Hackers now exploit critical Gitea flaw in code injection attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-08-26",
-        "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
-        "resumo": "Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/08/26/Gitea.jpg"
-    },
-    {
-        "titulo": "VMs won&#x27;t contain cyber-capable agents",
-        "fonte": "Trailofbits.com",
-        "autor": "Artem Dinaburg",
-        "data": "2026-08-26",
-        "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
-        "resumo": "As part of Patch the Planet, we received preview access to GPT 5.6-Cyber with a simple task: evaluate its cyber capabilities. Recent events inspired me to give it a challenge to work through: escape the VM I’d normally use for sandboxing. The target was a QEM…",
-        "imagem": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/vm-cyber-capable-agents-social-banner.png"
-    },
-    {
-        "titulo": "Critical Gitea vulnerability now exploited in the wild (CVE-2026-60004)",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-08-26",
-        "url": "https://www.helpnetsecurity.com/2026/08/26/gitea-cve-2026-60004-exploited-in-the-wild/",
-        "resumo": "Attackers have begun exploiting CVE-2026-60004, a critical code injection vulnerability in the Gitea Git platform, CISA confirmed on Tuesday by adding the vulnerability to its Known Exploited Vulnerabilities (KEV) catalog. The KEV entry does not contain or po…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/08/26114351/gitea-1500.webp"
-    },
-    {
-        "titulo": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users&#x27; Reservations in Tests",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-08-26",
-        "url": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
-        "resumo": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only booking restriction in 9 of 10 runs. The o…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiLH7AlxOwnKOlTs4Zi3D7tyko_H-564oFmjcBu-YP4_YR7HMgRvWhGB9r0NhXwpVoqVk82yjCt9XjEcDfo7-iSoAVduYsjNndt3gU2fHqJ7PlwnFCjRaHJSYEMuZMAZOn6M_yGZ24JuUUjVCs1hTXes8h-q4OLFj2liDETlKzvCRAqKa-jX2Yrh-iErI/s1700-e365/claude-gym.jpg"
-    },
-    {
-        "titulo": "U.S. CISA adds Gitea flaw to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-08-26",
-        "url": "https://securityaffairs.com/197854/security/u-s-cisa-adds-gitea-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Gitea flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added an Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in …",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-08-26",
-        "url": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea. The vulnerability in question is CVE-2026-60004 (CVSS score: 9.8), a case o…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfnIeYEGY0lITUrkeCakPqo92gxAk1t2Rduq3Vvt-EkhAxg_vRxWngUZQjifYgv1MUnKyZMOzTPFtlOpkMfpn6K5V0ofNKBc5w0y4X2Kb3Zeoal_5J-yhUX8oPUHY8KUkDHvGc7mwp5mWm1q4pS8Xssnm13SVe9Ziunr0UeNwTq2smwxIXAP7yU_iY2rtz/s1700-e365/cisa-git.jpg"
-    },
-    {
-        "titulo": "Hottest cybersecurity open-source tools of the month: August 2026",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-08-26",
-        "url": "https://www.helpnetsecurity.com/2026/08/26/hottest-cybersecurity-open-source-tools-august-2026/",
-        "resumo": "Presented here is a curated selection of noteworthy open-source cybersecurity solutions that have drawn recognition for their ability to enhance security postures across diverse settings. SkillSpector: NVIDIA’s open-source security scanner for AI agent skills…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/09/09085108/open-source_cybersec_tools-1500.webp"
-    },
-    {
-        "titulo": "Leveraging Databricks to Support FISC Security Guidelines",
-        "fonte": "Databricks.com",
-        "autor": "Jarrett Hoffman, Abhi Arikapudi",
-        "data": "2026-08-25",
-        "url": "https://www.databricks.com/blog/leveraging-databricks-support-fisc-security-guidelines",
-        "resumo": "* The Databricks Platform with Unity Catalog helps Japanese financial institutions implement technical controls that align with the FISC Security Guidelines. * Centralized governance, fine‑grained permissions, encryption, and audit logging make it easier to …",
-        "imagem": "https://www.databricks.com/sites/default/files/2026-06/2026-06-blog-Leveraging-Databricks-to-Support-FISC-Security-Guidelines-og-1200x628-2x-1.png"
-    },
-    {
-        "titulo": "AI labs rethink testing methods after models breach security in multiple incidents",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-08-25",
-        "url": "https://cryptobriefing.com/ai-labs-rethink-testing-after-model-breaches/",
-        "resumo": "AI labs&#x27; security breaches highlight the urgent need for robust containment strategies and regulatory standards to prevent real-world risks. The post AI labs rethink testing methods after models breach security in multiple incidents appeared first on Crypto B…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/25171953/two-researchers-wearing-safety-glasses-observe-an-automated--1-800x420.jpeg"
-    },
-    {
-        "titulo": "trivy-operator v0.34.0",
+        "titulo": "CVE-2014-085",
         "fonte": "Kitploit.com",
         "autor": "Kitploit",
-        "data": "2026-08-25",
-        "url": "https://kitploit.com/en/posts/github-aquasecurity-trivy-operator-v0340",
-        "resumo": "Kubernetes-native security operator that automates vulnerability scanning, configuration auditing, secret detection, RBAC analysis, and compliance reporting using Trivy.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/6579/0759e5e8be3e5f6b9f978e8f2a690f5a66c5ce2af4709f914926778ecc0e12cd.png"
+        "data": "2026-08-27",
+        "url": "https://kitploit.com/en/tools/github/ehaoxiongdiycw/cve-2014-085",
+        "resumo": "Nuclei template and PoC for exploiting ZooKeeper unauthorized access vulnerability (CVE-2014-085), enabling automated security testing against target IPs.",
+        "imagem": "https://assets.kitploit.com/production/public/brand/social-default-v2.png"
     },
     {
-        "titulo": "Q&amp;A: It is time for healthcare to embrace AIU to boost cybersecurity",
-        "fonte": "Digital Journal",
-        "autor": "Dr. Tim Sandle",
-        "data": "2026-08-25",
-        "url": "https://www.digitaljournal.com/article/qa-it-is-time-for-healthcare-to-embrace-aiu-to-boost-cybersecurity/",
-        "resumo": "As healthcare organizations expand interconnected systems, APIs, data platforms, vendors, and AI-enabled technologies, the risk of PHI being accessed, shared, or transferred outside approved controls increases. To mitigate this risk, organizations should enfo…",
-        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2023/09/croppedGettyImages12450647130424jpg-scaled.jpeg"
+        "titulo": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-08-27",
+        "url": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+        "resumo": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May. The incident, the company said, took…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpo4ImsmaHcawsJN9e4E5SzjUF-nbgOxCyybx3DIguSY_exMP1jhR2BZJ3yE2ZqGOE5c6_NvldW6id4Nm_NgcVrrRPALnw1fNbiisTiy8QFiIKriNiWRq6JMb5QcQTcDBaV_T3r6QYR9VC_FwtLg-G6lSYNM0F3n7q_HXI7aScGzMNB-OwLs6U9iqdk7Gs/s1700-e365/openai.jpg"
     },
     {
-        "titulo": "Cybersecurity Firms Weigh Controlled Internet Access for Frontier AI During Testing",
+        "titulo": "“Sorry, I can’t help with that”: How your guardrails might become the attacker’s best friend",
+        "fonte": "Talosintelligence.com",
+        "autor": "David J. Bianco",
+        "data": "2026-08-27",
+        "url": "https://blog.talosintelligence.com/sorry-i-cant-help-with-that-how-your-guardrails-might-become-the-attackers-best-friend/",
+        "resumo": "In his first Threat Source newsletter, David Bianco explores the critical need for operational sovereignty in customizing AI guardrails to maintain the defender’s advantage.",
+        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/08/threat_source-3.jpg"
+    },
+    {
+        "titulo": "OpenAI, Anthropic, and 100+ firms warn of AI-enabled hacks after models breach test environments",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-08-27",
+        "url": "https://cryptobriefing.com/openai-anthropic-ai-enabled-hacks-warning/",
+        "resumo": "The rise in AI-enabled cyber threats underscores the urgent need for robust cybersecurity measures and regulatory oversight to prevent future breaches. The post OpenAI, Anthropic, and 100+ firms warn of AI-enabled hacks after models breach test environments a…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/27132459/library-openai-anthropic-and-100-firms-warn-of-ai-enabled-hacks--800x450.png"
+    },
+    {
+        "titulo": "binviz",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-27",
+        "url": "https://kitploit.com/en/tools/github/karankantaria/binviz/",
+        "resumo": "Binary visualiser and triage tool — entropy, byte-class and Hilbert surfaces, dot plots and control-flow graphs over one shared address-space model.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/53209/d77df4e6a92791a7b4577f9bfad1ff5b8691e6a2f5b6758b7bf756630f96441e-social-v1.webp"
+    },
+    {
+        "titulo": "Visa Rolls Out AI-Powered Cyber Vulnerability Patching for Clients",
         "fonte": "pymnts.com",
         "autor": "PYMNTS",
-        "data": "2026-08-25",
-        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/cybersecurity-firms-weigh-controlled-internet-access-for-frontier-ai-during-testing/",
-        "resumo": "Artificial intelligence (AI) labs and cybersecurity firms are considering ways to give advanced AI models controlled access to the internet during testing, rather than trying to keep the models confined to a sandbox, Bloomberg reported Tuesday (Aug. 25). This…",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2023/08/AI-cybersecurity.jpg"
+        "data": "2026-08-27",
+        "url": "https://www.pymnts.com/cybersecurity/2026/visa-rolls-out-ai-powered-cyber-vulnerability-patching-clients/",
+        "resumo": "Visa expanded the capabilities of its artificial intelligence-powered cyber risk management tool, Visa Vulnerability Agentic Harness (VVAH), to include not only discovery of vulnerabilities but also remediation and validation, the company said in a Thursday (…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/05/Visa.jpeg"
     },
     {
-        "titulo": "OpenAI asks for more regulation from California after its own cybersecurity incidents prove just how capable AI is at hacking",
-        "fonte": "Fortune",
-        "autor": "Marco Quiroz-Gutierrez",
-        "data": "2026-08-25",
-        "url": "https://fortune.com/2026/08/25/openai-california-ai-safety-law-sb53-regulation-cybersecurity-hugging-face-hack-competitors-regulatory-moat/",
-        "resumo": "The company wants California to strengthen its landmark AI safety law following the Hugging Face incident its models executed last month.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2287521404-1-e1787681889278.jpg?resize=1200,600"
+        "titulo": "China-linked hackers infiltrated US government networks before FBI takedown",
+        "fonte": "Fox News",
+        "autor": "",
+        "data": "2026-08-27",
+        "url": "https://www.foxnews.com/politics/china-linked-hackers-infiltrated-us-government-networks-before-fbi-takedown",
+        "resumo": "QTFY hackers breached three Energy Department labs and stole data from over 300 organizations before the FBI seized domains powering their platforms.",
+        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/donald-trump-xi-jinping-2026.jpg"
+    },
+    {
+        "titulo": "How AI-armed script kiddies will soon wield the power of state-sponsored threat actors",
+        "fonte": "ZDNet",
+        "autor": "Charlie Osborne",
+        "data": "2026-08-27",
+        "url": "https://www.zdnet.com/article/ai-armed-script-kiddies-power-of-state-threat-actors-unit-42/",
+        "resumo": "Low-skill hacktivists are now &#x27;enabled with the same tooling and sophistication as a state-sponsored group,&#x27; according to cybersecurity consultant Unit 42.",
+        "imagem": "https://www.zdnet.com/a/img/resize/bbfaac58daeb1ef8fd5e554d4a46f4d8798bdf57/2026/08/27/a04ae3e2-7149-473c-b6a7-067e8b72ee87/glowing-keyboardgettyimages-2210577818.jpg?auto=webp&fit=crop&height=675&width=1200"
+    },
+    {
+        "titulo": "The New Way Security Teams Evaluate Pentesting Vendors",
+        "fonte": "Linuxjournal.com",
+        "autor": "George Whittaker",
+        "data": "2026-08-27",
+        "url": "https://www.linuxjournal.com/content/new-way-security-teams-evaluate-pentesting-vendors",
+        "resumo": "by George Whittaker Why security buyers are rethinking what matters most. Security teams typically don’t struggle to find vulnerabilities as much as they have in the past. The harder part usually begins after the report arrives, once dozens of finding…",
+        "imagem": ""
+    },
+    {
+        "titulo": "AI Finds Critical Flaw in Bitcoin Lightning, Devs Issue Emergency Warning",
+        "fonte": "Decrypt",
+        "autor": "Jason Nelson",
+        "data": "2026-08-27",
+        "url": "https://decrypt.co/376714/ai-critical-flaw-bitcoin-lightning-warning",
+        "resumo": "The Lightning software project said it is preparing fixes after confirming that several AI-generated vulnerability reports were accurate.",
+        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png"
+    },
+    {
+        "titulo": "Vulnerability-free container image startup Echo acquires Minimus",
+        "fonte": "SiliconANGLE News",
+        "autor": "Kyt Dotson",
+        "data": "2026-08-27",
+        "url": "https://siliconangle.com/2026/08/27/vulnerability-free-container-image-startup-echo-acquires-minimus/",
+        "resumo": "Echo Software Ltd., a startup that’s using artificial intelligence agents to secure container images, today announced it’s acquiring the assets of Minimus Inc. following the company’s wind-down. The core proposition of Echo is that it uses AI agents to replac…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2025/04/An-abstract-cybersecurity-AI-protecting-a-laptop-floating-in-space-using-ghostly-blue-luminous-locks.jpeg"
+    },
+    {
+        "titulo": "WinFlesher",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-27",
+        "url": "https://kitploit.com/en/tools/github/mindsflee/winflesher/",
+        "resumo": "Automated attack surface assessment framework for Active Directory and local infrastructures, correlating vulnerabilities with attack paths to domain compromise, privilege escalation, and lateral movement, with remediation guidance.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/53205/e103d8127a70b19eb21959997062e1372c3366e62e1db673aa2a0a5edc78b829-social-v1.webp"
+    },
+    {
+        "titulo": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-08-27",
+        "url": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
+        "resumo": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine. The rest of the week gets stranger: botnets borrowing AI, command traffic hiding in public infrastructure, m…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwWCb2shFhaav60Wjr2-8DoStCVaQrYqkE6EBZ8F5sREap-Khi19y-w9NVmFHyHosV6xVB0fTeN_DcSpGIyCZ621SnjqZozRVG70ceOey_D8djA5r5rpP9tFkRSESgs4kHZilTMoz2y8uqX-iTLR0JjjZkhypYjCCAEvQKzyU7xarQpt3sYvJc-fnWSWlb/s1700-e365/threats.jpg"
+    },
+    {
+        "titulo": "AI-Driven Hacks Shake Up Cyber Insurance Industry",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-08-27",
+        "url": "https://www.pymnts.com/insurance/2026/ai-driven-hacks-shake-up-cyber-insurance-industry/",
+        "resumo": "The rise of artificial intelligence-powered hacks has cyber insurance firms rethinking their policies, Reuters reported Thursday (Aug. 27). The industry shakeup follows a series of cyberattacks by AI models from companies like Anthropic, Meta and OpenAI, the …",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2025/09/payments-innovation-trust-security.jpg"
+    },
+    {
+        "titulo": "How to build an exposure management program the business trusts: Lessons from Tenable’s CSO",
+        "fonte": "Tenable.com",
+        "autor": "Robert Huber",
+        "data": "2026-08-27",
+        "url": "https://www.tenable.com/blog/how-to-build-an-exposure-management-program-the-business-trusts-lessons-from-tenables-cso",
+        "resumo": "Discover how Tenable’s shift to an AI-driven exposure management program helped Tenable’s CSO, Robert Huber, overcome tool sprawl, unify data silos, mitigate the risk of rapid AI adoption, and shift from presenting granular, technical metrics to communicating…",
+        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/Bob%20Huber%20blog%20about%20EM%20maturity.png?itok=W03GoVYE"
+    },
+    {
+        "titulo": "Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others | TechCrunch",
+        "fonte": "TechCrunch",
+        "autor": "Zack Whittaker",
+        "data": "2026-08-27",
+        "url": "https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/",
+        "resumo": "The arrests come after a wave of cyberattacks earlier this year targeting tech companies that rely on high-profile and widely used open source software.",
+        "imagem": "https://techcrunch.com/wp-content/uploads/2026/08/teampcp-hacker-afp.jpg?resize=1200,744"
+    },
+    {
+        "titulo": "FBI Seizes Chinese Hacker Platforms That Targeted NASA And The Senate",
+        "fonte": "Hot Hardware",
+        "autor": "Aaron Leong",
+        "data": "2026-08-27",
+        "url": "https://hothardware.com/news/fbi-seizes-chinese-hacker-platforms-that-targeted-nasa-and-the-senate",
+        "resumo": "Federal law enforcement has dismantled a major Chinese state-sponsored cyber-espionage apparatus that targeted critical infrastructure and key government agencies across the United States for nearly eight years. It also makes us wonder again how these operati…",
+        "imagem": "https://hothardware.com/contentimages/NewsItem/71491/content/16x9_2133x1200_highres-government-hack.jpg"
+    },
+    {
+        "titulo": "Here’s all the times AI has gone rogue and hacked other companies | TechCrunch",
+        "fonte": "TechCrunch",
+        "autor": "Lorenzo Franceschi-bicchierai",
+        "data": "2026-08-27",
+        "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+        "resumo": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+        "imagem": "https://techcrunch.com/wp-content/uploads/2026/08/open-ai-chatgpt-anthropic-claude-icons.jpg?resize=1200,800"
+    },
+    {
+        "titulo": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-08-27",
+        "url": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
+        "resumo": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via prompt injection and Kiro Powers. The s…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUdyQnHdjoEXFnc-5nB-6oglAbvpOYwuWqfjYkgeKH6HaqUjosKOHhmEQ_7StMkMBv53gz27Ilg-15yRaQ-hxoYi0ASuRMOCuPTHa8gP6a6PzYSewTWsDkKAx8dsMByZXDYDlRE1wRYoCvE7NuYqXdCpZ8_Y4E4tAUy0SBFl0S_XxLvpnjFRbqat0EwggW/s1700-e365/kiro-amazon.jpg"
+    },
+    {
+        "titulo": "Positive Technologies positioned as a Leader in the SPARK Matrix™: Extended Detection and Response (XDR), 2026 by QKS Group",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-08-27",
+        "url": "https://www.prnewswire.com/news-releases/positive-technologies-positioned-as-a-leader-in-the-spark-matrix-extended-detection-and-response-xdr-2026-by-qks-group-302861874.html",
+        "resumo": "The QKS Group SPARK Matrix™ provides competitive analysis &amp; ranking of the leading Extended Detection and Response (XDR) vendors. Positive Technologies, with its comprehensive platform, has received strong ratings across technology excellence and customer imp…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1596754/QKS-Group-Logo.jpg?id=OA2916245&p=facebook"
     }
 ]
