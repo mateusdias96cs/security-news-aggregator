@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "CVE-2014-085",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-27",
-        "url": "https://kitploit.com/en/tools/github/ehaoxiongdiycw/cve-2014-085",
-        "resumo": "Nuclei template and PoC for exploiting ZooKeeper unauthorized access vulnerability (CVE-2014-085), enabling automated security testing against target IPs.",
-        "imagem": "https://assets.kitploit.com/production/public/brand/social-default-v2.png"
+        "titulo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+        "fonte": "BusinessLine",
+        "autor": "cuelive",
+        "data": "2026-08-28",
+        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71400581.ece",
+        "resumo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+        "imagem": "https://bl-i.thgim.com/public/incoming/tm6dlr/article71400580.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
     },
     {
-        "titulo": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+        "titulo": "Over 8,300 Gitea servers vulnerable to code execution attacks",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-08-28",
+        "url": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
+        "resumo": "Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, according to cybersecurity watchdog Shadowserver. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/08/28/Gitea.jpg"
+    },
+    {
+        "titulo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+        "fonte": "BusinessLine",
+        "autor": "cuelive",
+        "data": "2026-08-28",
+        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71400307.ece",
+        "resumo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+        "imagem": "https://bl-i.thgim.com/public/incoming/zfiesy/article71400306.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
+    },
+    {
+        "titulo": "AI Is Changing Website Security. Here’s What SEO Teams Should Know via @sejournal, @vahandev",
+        "fonte": "Search Engine Journal",
+        "autor": "Vahan Petrosyan",
+        "data": "2026-08-28",
+        "url": "https://www.searchenginejournal.com/ai-changing-website-security-seo-teams-should-know/587352/",
+        "resumo": "More than 100 organizations, including OpenAI, Google, and Microsoft, urge governments and website owners to prepare now for escalating AI cyberattacks. The post AI Is Changing Website Security. Here’s What SEO Teams Should Know appeared first on Search Engin…",
+        "imagem": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/08/collective-ai-cyber-defense-supporters-sej-v3.png"
+    },
+    {
+        "titulo": "The AI agent swarm that attacked Hugging Face is a warning for the future",
+        "fonte": "Malwarebytes.com",
+        "autor": "Pieter Arntz",
+        "data": "2026-08-28",
+        "url": "https://www.malwarebytes.com/blog/ai/2026/08/the-ai-agent-swarm-that-attacked-hugging-face-is-a-warning-for-the-future",
+        "resumo": "An army of AI agents was responsible for the Hugging Face incident. What does it mean for the future of AI?",
+        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/08/controlling_an_army.png"
+    },
+    {
+        "titulo": "CISA: Most exploited vulnerabilities should have been eradicated decades ago",
+        "fonte": "Theregister.com",
+        "autor": "Connor Jones",
+        "data": "2026-08-28",
+        "url": "https://www.theregister.com/security/2026/08/28/cisa-most-exploited-vulnerabilities-should-have-been-eradicated-decades-ago/5293194",
+        "resumo": "Organizational culture and systemic gaps in Secure by Design adoption blamed for sorry state of affairs",
+        "imagem": "https://image.theregister.com/246588.jpg?imageId=246588&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+        "titulo": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-08-27",
-        "url": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
-        "resumo": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May. The incident, the company said, took…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpo4ImsmaHcawsJN9e4E5SzjUF-nbgOxCyybx3DIguSY_exMP1jhR2BZJ3yE2ZqGOE5c6_NvldW6id4Nm_NgcVrrRPALnw1fNbiisTiy8QFiIKriNiWRq6JMb5QcQTcDBaV_T3r6QYR9VC_FwtLg-G6lSYNM0F3n7q_HXI7aScGzMNB-OwLs6U9iqdk7Gs/s1700-e365/openai.jpg"
+        "data": "2026-08-28",
+        "url": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
+        "resumo": "ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker. The company said it deployed a securi…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitiido-BqtV-H4U0qEAovU_m3NGb3PHF5O3IEh53W_rllGDplhA8aluEKIUULFq3L7iNQue-NLxQDR3wSF7PaaAhGg14rWdqHoB6jBZC1YfslM0wyj5xhESZKTbIxgjO_lnZqVOrKx_E2hK-wXtE85EPJW-pV8D3eMv9CWgMF8eXzsJgq3xevdBY9hCs0/s1700-e365/servicenow.jpg"
     },
     {
-        "titulo": "“Sorry, I can’t help with that”: How your guardrails might become the attacker’s best friend",
-        "fonte": "Talosintelligence.com",
-        "autor": "David J. Bianco",
-        "data": "2026-08-27",
-        "url": "https://blog.talosintelligence.com/sorry-i-cant-help-with-that-how-your-guardrails-might-become-the-attackers-best-friend/",
-        "resumo": "In his first Threat Source newsletter, David Bianco explores the critical need for operational sovereignty in customizing AI guardrails to maintain the defender’s advantage.",
-        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/08/threat_source-3.jpg"
+        "titulo": "Industry that built the problem offers to sell you the solution",
+        "fonte": "Theregister.com",
+        "autor": "Carly Page",
+        "data": "2026-08-28",
+        "url": "https://www.theregister.com/security/2026/08/28/industry-that-built-the-problem-offers-to-sell-you-the-solution/5293207",
+        "resumo": "100+ tech giants warn AI attacks are coming, skip the part where they pay for defenses",
+        "imagem": "https://image.theregister.com/1682740.jpg?imageId=1682740&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
     },
     {
-        "titulo": "OpenAI, Anthropic, and 100+ firms warn of AI-enabled hacks after models breach test environments",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-08-27",
-        "url": "https://cryptobriefing.com/openai-anthropic-ai-enabled-hacks-warning/",
-        "resumo": "The rise in AI-enabled cyber threats underscores the urgent need for robust cybersecurity measures and regulatory oversight to prevent future breaches. The post OpenAI, Anthropic, and 100+ firms warn of AI-enabled hacks after models breach test environments a…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/27132459/library-openai-anthropic-and-100-firms-warn-of-ai-enabled-hacks--800x450.png"
+        "titulo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+        "fonte": "BusinessLine",
+        "autor": "cuelive",
+        "data": "2026-08-28",
+        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71400042.ece",
+        "resumo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+        "imagem": "https://bl-i.thgim.com/public/incoming/ngz9a4/article71400041.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
     },
     {
-        "titulo": "binviz",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-27",
-        "url": "https://kitploit.com/en/tools/github/karankantaria/binviz/",
-        "resumo": "Binary visualiser and triage tool — entropy, byte-class and Hilbert surfaces, dot plots and control-flow graphs over one shared address-space model.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/53209/d77df4e6a92791a7b4577f9bfad1ff5b8691e6a2f5b6758b7bf756630f96441e-social-v1.webp"
+        "titulo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+        "fonte": "BusinessLine",
+        "autor": "cuelive",
+        "data": "2026-08-28",
+        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71399897.ece",
+        "resumo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+        "imagem": "https://bl-i.thgim.com/public/incoming/xsisbq/article71399896.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
     },
     {
-        "titulo": "Visa Rolls Out AI-Powered Cyber Vulnerability Patching for Clients",
-        "fonte": "pymnts.com",
-        "autor": "PYMNTS",
-        "data": "2026-08-27",
-        "url": "https://www.pymnts.com/cybersecurity/2026/visa-rolls-out-ai-powered-cyber-vulnerability-patching-clients/",
-        "resumo": "Visa expanded the capabilities of its artificial intelligence-powered cyber risk management tool, Visa Vulnerability Agentic Harness (VVAH), to include not only discovery of vulnerabilities but also remediation and validation, the company said in a Thursday (…",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/05/Visa.jpeg"
-    },
-    {
-        "titulo": "China-linked hackers infiltrated US government networks before FBI takedown",
-        "fonte": "Fox News",
-        "autor": "",
-        "data": "2026-08-27",
-        "url": "https://www.foxnews.com/politics/china-linked-hackers-infiltrated-us-government-networks-before-fbi-takedown",
-        "resumo": "QTFY hackers breached three Energy Department labs and stole data from over 300 organizations before the FBI seized domains powering their platforms.",
-        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/donald-trump-xi-jinping-2026.jpg"
-    },
-    {
-        "titulo": "How AI-armed script kiddies will soon wield the power of state-sponsored threat actors",
-        "fonte": "ZDNet",
-        "autor": "Charlie Osborne",
-        "data": "2026-08-27",
-        "url": "https://www.zdnet.com/article/ai-armed-script-kiddies-power-of-state-threat-actors-unit-42/",
-        "resumo": "Low-skill hacktivists are now &#x27;enabled with the same tooling and sophistication as a state-sponsored group,&#x27; according to cybersecurity consultant Unit 42.",
-        "imagem": "https://www.zdnet.com/a/img/resize/bbfaac58daeb1ef8fd5e554d4a46f4d8798bdf57/2026/08/27/a04ae3e2-7149-473c-b6a7-067e8b72ee87/glowing-keyboardgettyimages-2210577818.jpg?auto=webp&fit=crop&height=675&width=1200"
-    },
-    {
-        "titulo": "The New Way Security Teams Evaluate Pentesting Vendors",
-        "fonte": "Linuxjournal.com",
-        "autor": "George Whittaker",
-        "data": "2026-08-27",
-        "url": "https://www.linuxjournal.com/content/new-way-security-teams-evaluate-pentesting-vendors",
-        "resumo": "by George Whittaker Why security buyers are rethinking what matters most. Security teams typically don’t struggle to find vulnerabilities as much as they have in the past. The harder part usually begins after the report arrives, once dozens of finding…",
-        "imagem": ""
-    },
-    {
-        "titulo": "AI Finds Critical Flaw in Bitcoin Lightning, Devs Issue Emergency Warning",
-        "fonte": "Decrypt",
-        "autor": "Jason Nelson",
-        "data": "2026-08-27",
-        "url": "https://decrypt.co/376714/ai-critical-flaw-bitcoin-lightning-warning",
-        "resumo": "The Lightning software project said it is preparing fixes after confirming that several AI-generated vulnerability reports were accurate.",
-        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png"
-    },
-    {
-        "titulo": "Vulnerability-free container image startup Echo acquires Minimus",
-        "fonte": "SiliconANGLE News",
-        "autor": "Kyt Dotson",
-        "data": "2026-08-27",
-        "url": "https://siliconangle.com/2026/08/27/vulnerability-free-container-image-startup-echo-acquires-minimus/",
-        "resumo": "Echo Software Ltd., a startup that’s using artificial intelligence agents to secure container images, today announced it’s acquiring the assets of Minimus Inc. following the company’s wind-down. The core proposition of Echo is that it uses AI agents to replac…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2025/04/An-abstract-cybersecurity-AI-protecting-a-laptop-floating-in-space-using-ghostly-blue-luminous-locks.jpeg"
-    },
-    {
-        "titulo": "WinFlesher",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-27",
-        "url": "https://kitploit.com/en/tools/github/mindsflee/winflesher/",
-        "resumo": "Automated attack surface assessment framework for Active Directory and local infrastructures, correlating vulnerabilities with attack paths to domain compromise, privilege escalation, and lateral movement, with remediation guidance.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/53205/e103d8127a70b19eb21959997062e1372c3366e62e1db673aa2a0a5edc78b829-social-v1.webp"
-    },
-    {
-        "titulo": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
+        "titulo": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-08-27",
-        "url": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
-        "resumo": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine. The rest of the week gets stranger: botnets borrowing AI, command traffic hiding in public infrastructure, m…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwWCb2shFhaav60Wjr2-8DoStCVaQrYqkE6EBZ8F5sREap-Khi19y-w9NVmFHyHosV6xVB0fTeN_DcSpGIyCZ621SnjqZozRVG70ceOey_D8djA5r5rpP9tFkRSESgs4kHZilTMoz2y8uqX-iTLR0JjjZkhypYjCCAEvQKzyU7xarQpt3sYvJc-fnWSWlb/s1700-e365/threats.jpg"
+        "data": "2026-08-28",
+        "url": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
+        "resumo": "cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user. The vulnerability, assigned the CVE identifier CVE-2026-65643, imp…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtKp2lGcxPfp8ymA88FIBXB0Bn9fcUSaU_UIl1pfAjDSC2usRwUE73vhQEeP6jar9U9k10yotgyYl_tIk6dQA-MFIr2bJ3LN_azGt9kDU6hpW448HgmBuJbc6TWSo1vfpmhoK0J3_5rhF6VIpWd7NYf0G1YSYHdqKubWgQwa1yU6KRAL-bnDGd8HmCmPk/s1700-e365/cpanel-root.jpg"
     },
     {
-        "titulo": "AI-Driven Hacks Shake Up Cyber Insurance Industry",
-        "fonte": "pymnts.com",
-        "autor": "PYMNTS",
-        "data": "2026-08-27",
-        "url": "https://www.pymnts.com/insurance/2026/ai-driven-hacks-shake-up-cyber-insurance-industry/",
-        "resumo": "The rise of artificial intelligence-powered hacks has cyber insurance firms rethinking their policies, Reuters reported Thursday (Aug. 27). The industry shakeup follows a series of cyberattacks by AI models from companies like Anthropic, Meta and OpenAI, the …",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2025/09/payments-innovation-trust-security.jpg"
+        "titulo": "U.S. CISA adds Red Hat, Linux Kernel, Ajax.NET Professional, Microsoft SQL Server, and Citrix NetScaler flaws to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-08-28",
+        "url": "https://securityaffairs.com/197975/hacking/u-s-cisa-adds-red-hat-linux-kernel-ajax-net-professional-microsoft-sql-server-and-citrix-netscaler-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Red Hat, Linux Kernel, Ajax.NET Professional, Microsoft SQL Server, and Citrix NetScaler flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
     },
     {
-        "titulo": "How to build an exposure management program the business trusts: Lessons from Tenable’s CSO",
-        "fonte": "Tenable.com",
-        "autor": "Robert Huber",
-        "data": "2026-08-27",
-        "url": "https://www.tenable.com/blog/how-to-build-an-exposure-management-program-the-business-trusts-lessons-from-tenables-cso",
-        "resumo": "Discover how Tenable’s shift to an AI-driven exposure management program helped Tenable’s CSO, Robert Huber, overcome tool sprawl, unify data silos, mitigate the risk of rapid AI adoption, and shift from presenting granular, technical metrics to communicating…",
-        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/Bob%20Huber%20blog%20about%20EM%20maturity.png?itok=W03GoVYE"
+        "titulo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+        "fonte": "BusinessLine",
+        "autor": "cuelive",
+        "data": "2026-08-28",
+        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71399754.ece",
+        "resumo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+        "imagem": "https://bl-i.thgim.com/public/incoming/n2xil2/article71399753.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
     },
     {
-        "titulo": "Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others | TechCrunch",
-        "fonte": "TechCrunch",
-        "autor": "Zack Whittaker",
-        "data": "2026-08-27",
-        "url": "https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/",
-        "resumo": "The arrests come after a wave of cyberattacks earlier this year targeting tech companies that rely on high-profile and widely used open source software.",
-        "imagem": "https://techcrunch.com/wp-content/uploads/2026/08/teampcp-hacker-afp.jpg?resize=1200,744"
+        "titulo": "Snyk was worth $8.5 billion. The price of its employees&#x27; stock has collapsed.",
+        "fonte": "Business Insider",
+        "autor": "Charles Rollet",
+        "data": "2026-08-28",
+        "url": "https://www.businessinsider.com/snyk-employee-share-value-drops-as-ai-rivals-surge-ahead-2026-8#article",
+        "resumo": "Snyk, a once-hot cyber startup poised to go public, has dramatically marked down the value of its employees&#x27; shares as it faces AI competition.",
+        "imagem": "https://i.insider.com/6a90bd5245e6f385a516a001?width=1200&format=jpeg"
     },
     {
-        "titulo": "FBI Seizes Chinese Hacker Platforms That Targeted NASA And The Senate",
-        "fonte": "Hot Hardware",
-        "autor": "Aaron Leong",
-        "data": "2026-08-27",
-        "url": "https://hothardware.com/news/fbi-seizes-chinese-hacker-platforms-that-targeted-nasa-and-the-senate",
-        "resumo": "Federal law enforcement has dismantled a major Chinese state-sponsored cyber-espionage apparatus that targeted critical infrastructure and key government agencies across the United States for nearly eight years. It also makes us wonder again how these operati…",
-        "imagem": "https://hothardware.com/contentimages/NewsItem/71491/content/16x9_2133x1200_highres-government-hack.jpg"
+        "titulo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+        "fonte": "BusinessLine",
+        "autor": "cuelive",
+        "data": "2026-08-28",
+        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71399655.ece",
+        "resumo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+        "imagem": "https://bl-i.thgim.com/public/incoming/sf04m6/article71399654.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
     },
     {
-        "titulo": "Here’s all the times AI has gone rogue and hacked other companies | TechCrunch",
-        "fonte": "TechCrunch",
-        "autor": "Lorenzo Franceschi-bicchierai",
-        "data": "2026-08-27",
-        "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-        "resumo": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
-        "imagem": "https://techcrunch.com/wp-content/uploads/2026/08/open-ai-chatgpt-anthropic-claude-icons.jpg?resize=1200,800"
+        "titulo": "poc-redis",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-28",
+        "url": "https://kitploit.com/en/tools/github/rop4sh/poc-redis/",
+        "resumo": "Proof-of-concept exploit for a Redis vulnerability that spawns a reverse shell, with setup instructions for Docker and netcat listener.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/52894/1edc07a3e24d07c0de76e9d4722b047a4ccd5a8e2f48badd7535fa4c3ff39483-social-v1.webp"
     },
     {
-        "titulo": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-08-27",
-        "url": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
-        "resumo": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via prompt injection and Kiro Powers. The s…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUdyQnHdjoEXFnc-5nB-6oglAbvpOYwuWqfjYkgeKH6HaqUjosKOHhmEQ_7StMkMBv53gz27Ilg-15yRaQ-hxoYi0ASuRMOCuPTHa8gP6a6PzYSewTWsDkKAx8dsMByZXDYDlRE1wRYoCvE7NuYqXdCpZ8_Y4E4tAUy0SBFl0S_XxLvpnjFRbqat0EwggW/s1700-e365/kiro-amazon.jpg"
+        "titulo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+        "fonte": "BusinessLine",
+        "autor": "cuelive",
+        "data": "2026-08-28",
+        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71399467.ece",
+        "resumo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+        "imagem": "https://bl-i.thgim.com/public/incoming/hh3dsc/article71399466.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
     },
     {
-        "titulo": "Positive Technologies positioned as a Leader in the SPARK Matrix™: Extended Detection and Response (XDR), 2026 by QKS Group",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-08-27",
-        "url": "https://www.prnewswire.com/news-releases/positive-technologies-positioned-as-a-leader-in-the-spark-matrix-extended-detection-and-response-xdr-2026-by-qks-group-302861874.html",
-        "resumo": "The QKS Group SPARK Matrix™ provides competitive analysis &amp; ranking of the leading Extended Detection and Response (XDR) vendors. Positive Technologies, with its comprehensive platform, has received strong ratings across technology excellence and customer imp…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1596754/QKS-Group-Logo.jpg?id=OA2916245&p=facebook"
+        "titulo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+        "fonte": "BusinessLine",
+        "autor": "cuelive",
+        "data": "2026-08-28",
+        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71399301.ece",
+        "resumo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+        "imagem": "https://bl-i.thgim.com/public/incoming/ya1r11/article71399300.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
+    },
+    {
+        "titulo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+        "fonte": "BusinessLine",
+        "autor": "cuelive",
+        "data": "2026-08-28",
+        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71399153.ece",
+        "resumo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+        "imagem": "https://bl-i.thgim.com/public/incoming/63bjq5/article71399152.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
+    },
+    {
+        "titulo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+        "fonte": "BusinessLine",
+        "autor": "cuelive",
+        "data": "2026-08-28",
+        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71399060.ece",
+        "resumo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+        "imagem": "https://bl-i.thgim.com/public/incoming/lehypq/article71399059.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
     }
 ]
