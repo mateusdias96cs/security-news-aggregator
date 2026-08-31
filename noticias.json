@@ -1,5 +1,68 @@
 [
     {
+        "titulo": "Week in review: Compromised Zimbra servers, previously patched Citrix NetScaler flaw exploited",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-08-30",
+        "url": "https://www.helpnetsecurity.com/2026/08/30/week-in-review-compromised-zimbra-servers-previously-patched-citrix-netscaler-flaw-exploited/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Unpatched Zimbra servers are falling to CVE-2026-73570 attacks At least 274 internet-facing Zimbra instances have been compromised by unknown attackers via CVE-2…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124832/cybersecurity-week-review-2-1500.webp"
+    },
+    {
+        "titulo": "CyberDanube Security Research 20260611-0 | Multiple Denial of Service Vulnerabilities in Dahua IPC/SD/NVR/XVR/EVS/VTO/VTH/ASI/TPC Camera Series",
+        "fonte": "Seclists.org",
+        "autor": "",
+        "data": "2026-08-30",
+        "url": "https://seclists.org/fulldisclosure/2026/Aug/120",
+        "resumo": "Posted by Thomas Weber | CyberDanube via Fulldisclosure on Aug 29CyberDanube Security Research 20260611-0 ------------------------------------------------------------------------------- title| Multiple Denial of Service product| Dahua DH-IPC-HFW Series vulner…",
+        "imagem": "https://seclists.org/images/fulldisclosure-img.png"
+    },
+    {
+        "titulo": "idamcp",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-30",
+        "url": "https://kitploit.com/en/tools/github/idamcp/idamcp/",
+        "resumo": "MCP server integrating IDA Pro with AI agents, featuring a stateless gateway for multi-session management, a relational SQL query engine for binary analysis, and architecture-agnostic disassembly and patching tools.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/53595/58ae0951d15bc7468e8829819e19ed09e4da9f7d0df902e589bee24fb5df65fc-social-v1.webp"
+    },
+    {
+        "titulo": "The Rise and Fall of Agent Civilizations",
+        "fonte": "Dwarkesh.com",
+        "autor": "Dwarkesh Patel",
+        "data": "2026-08-29",
+        "url": "https://www.dwarkesh.com/p/openai-huggingface",
+        "resumo": "The whole OpenAI/Hugging Face story in plain English",
+        "imagem": "https://substackcdn.com/image/fetch/$s_!UZLs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30186662-5010-4c83-a672-e33c53deeaa3_1080x669.webp"
+    },
+    {
+        "titulo": "Paper Audits Are Necessary When China-Made Parts Are Embedded in Election Machines",
+        "fonte": "Joehoft.com",
+        "autor": "Joe Hoft",
+        "data": "2026-08-29",
+        "url": "https://joehoft.com/paper-audits-are-necessary-when-china-made-parts/",
+        "resumo": "Paper Audits Are Necessary When China-Made Parts Are Embedded in Election Machines China-made components, shared county voting systems, and an unresolved Riverside, California reconciliation question make independent paper audits a necessity—not an accusatio…",
+        "imagem": "https://joehoft.com/wp-content/uploads/2026/08/Dominion-cartons-from-China-1200x630.jpg"
+    },
+    {
+        "titulo": "CrowdStrike’s post-Mythos surge: Moat, momentum and the blast-radius test",
+        "fonte": "SiliconANGLE News",
+        "autor": "Dave Vellante",
+        "data": "2026-08-29",
+        "url": "https://siliconangle.com/2026/08/29/crowdstrikes-post-mythos-surge-moat-momentum-and-the-blast-radius-test/",
+        "resumo": "CrowdStrike Holdings Inc.’s most recent earnings print shows that Anthropic PBC’s Mythos model transformed artificial intelligence security from something chief information security officers needed to worry about down the road into an immediate buying event. …",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/crowdstrike-image-2.jpg"
+    },
+    {
+        "titulo": "CrowdStrike CEO Says It Delivered Its Best Quarter Ever. Surprisingly, That May Be an Understatement.",
+        "fonte": "Barchart.com",
+        "autor": "Jabran Kundi",
+        "data": "2026-08-29",
+        "url": "https://www.barchart.com/story/news/4337762/crowdstrike-ceo-says-it-delivered-its-best-quarter-ever-surprisingly-that-may-be-an-understatement",
+        "resumo": "CrowdStrike&#x27;s bigger story is that the rise of AI may be creating more cybersecurity demand than it destroys.",
+        "imagem": "https://s.yimg.com/lo/mysterio/api/39e774ed834d0c8a14f8c59435756ec2b0ff40295a80fc87b3324aff6289f9de/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Ffac1b8cfe52e128d7ee80221f959b376.jpg"
+    },
+    {
         "titulo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
         "fonte": "BusinessLine",
         "autor": "cuelive",
@@ -115,68 +178,5 @@
         "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71403417.ece",
         "resumo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
         "imagem": "https://bl-i.thgim.com/public/incoming/yq8j8t/article71403416.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
-    },
-    {
-        "titulo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
-        "fonte": "BusinessLine",
-        "autor": "cuelive",
-        "data": "2026-08-29",
-        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71403363.ece",
-        "resumo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
-        "imagem": "https://bl-i.thgim.com/public/incoming/skldgd/article71403362.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
-    },
-    {
-        "titulo": "conductai",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-28",
-        "url": "https://kitploit.com/en/tools/github/sseshachala/conductai/",
-        "resumo": "AI agent governance for teams. Runtime firewalls tell you what happened; Conduct Guard controls what can happen — signed policy, verified chain, fail-closed by default. Ships with Router (LLM proxy), 20+ compliance packs, canvas UI, and a playbook engine.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/53453/79459352b949d63b35c41dbe1c0cdd39bf00d6e623f4afa193a42a10786b86dc-social-v1.webp"
-    },
-    {
-        "titulo": "Berlin Refuses to Pay Hackers Who Stole Data From the City&#x27;s State Network",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-08-28",
-        "url": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
-        "resumo": "Berlin&#x27;s state government has confirmed that it is the target of an extortion attempt following the August compromise of the city&#x27;s state administrative network, and said it will not meet the extortionists&#x27; demands. The same statement disclosed that forensic…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRLS8X8abAbJ9p1f1jp9VIUeKfRa4l4gAIgmCWsw1eXZuJ7SY201P6w6V8NYVf1CHpaN_pyAuLg-6h-e9RYFBlBFsl3k5egiOnoj8ZiXScxu8El1jZExmlyNYfunp0Z4j5F0PYSg4Ltu0yldY-wKmI2TC5UU-7mrasEsZ_SyEso7dGFvLIpcA8hdHqVdw/s1700-e365/berlin.jpg"
-    },
-    {
-        "titulo": "Cybersecurity Researchers Uncover Flaw in Google AI Coding Tool",
-        "fonte": "DevOps.com",
-        "autor": "Mike Vizard",
-        "data": "2026-08-28",
-        "url": "https://devops.com/cybersecurity-researchers-uncover-flaw-in-google-ai-coding-tool/",
-        "resumo": "Cybersecurity researchers from Pillar Security demonstrated how a prompt injection in a GitHub repository could be used to gain Editor-level access to an internal Google Cloud project. By filing a malicious &quot;bug report&quot; with hidden instructions, the researche…",
-        "imagem": "https://devops.com/wp-content/uploads/2026/08/PillarSec2.jpg"
-    },
-    {
-        "titulo": "PaperCut releases second emergency patch for exploited flaws",
-        "fonte": "BleepingComputer",
-        "autor": "Lawrence Abrams",
-        "data": "2026-08-28",
-        "url": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
-        "resumo": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fixes. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2023/04/19/papercut-jeader.jpg"
-    },
-    {
-        "titulo": "Tech Companies Call for Improved Cyber Defenses After AI-Enabled Attacks",
-        "fonte": "CNET",
-        "autor": "Alex Valdes",
-        "data": "2026-08-28",
-        "url": "https://www.cnet.com/tech/services-and-software/tech-companies-call-for-improved-cyber-defenses-after-ai-enabled-attacks/",
-        "resumo": "More than 100 companies signed onto an open letter calling for more urgency in fixing bugs and shoring up cybersecurity.",
-        "imagem": "https://www.cnet.com/wp-content/uploads/sites/2/681275a2-0e99-48a5-888f-6141ce14cfa4.jpg"
-    },
-    {
-        "titulo": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
-        "fonte": "BleepingComputer",
-        "autor": "Bill Toulas",
-        "data": "2026-08-28",
-        "url": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
-        "resumo": "A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2023/12/07/back-2.jpg"
     }
 ]
