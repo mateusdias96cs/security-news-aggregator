@@ -1,5 +1,95 @@
 [
     {
+        "titulo": "Athena Agentic Acquires Omni Cyber Solutions Agentic Platform, it&#x27;s Second Acquisition this Year",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-08-31",
+        "url": "https://www.prnewswire.com/news-releases/athena-agentic-acquires-omni-cyber-solutions-agentic-platform-its-second-acquisition-this-year-302864973.html",
+        "resumo": "This asset purchase brings the Omni Cyber Solutions Agentic Platform and its AI-powered security operations technology into the Athena Agentic portfolio, enhancing the Athena Unified Cyber Operations Platform&#x27;s vulnerability scanning, Shadow AI, and penetrati…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1974087/Athena-Agentic-logo.jpg?id=OA2920370&p=facebook"
+    },
+    {
+        "titulo": "Dawn Buckingham: The &#x27;Texas Engine&#x27; -- Fueling, Feeding, and Fortifying America",
+        "fonte": "Breitbart News",
+        "autor": "Breitbart Texas",
+        "data": "2026-08-31",
+        "url": "https://www.breitbart.com/border/2026/08/31/op-ed-dawn-buckingham-the-texas-engine-fueling-feeding-and-fortifying-america/",
+        "resumo": "Every American depends on three things that are so fundamental they often go unnoticed until they are threatened: dependable energy, a secure food supply, and a safe nation. The post Dawn Buckingham: The ‘Texas Engine’ — Fueling, Feeding, and Fortifying Ameri…",
+        "imagem": "https://media.breitbart.com/media/2026/08/Rare-Earth-Minerals-Stones-1-640x335.jpg"
+    },
+    {
+        "titulo": "Cognizant and CrowdStrike Protect Critical Operations Across Converged IT and OT Environments",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-08-31",
+        "url": "https://www.prnewswire.com/news-releases/cognizant-and-crowdstrike-protect-critical-operations-across-converged-it-and-ot-environments-302863250.html",
+        "resumo": "Collaboration introduces Cognizant Cybersecurity for Operational Technology, powered by CrowdStrike Falcon® for XIoT TEANECK, N.J. and AUSTIN, Texas and LAS VEGAS, Aug. 31, 2026 /PRNewswire/ -- Cognizant (NASDAQ: CTSH) and CrowdStrike (NASDAQ: CRWD) today ann…",
+        "imagem": "https://mmx.prnewswire.com/media/MS607279/Cognizant-Logo-V1.jpg?id=OA2918815&p=facebook"
+    },
+    {
+        "titulo": "I Think the Military Commissary&#x27;s Freezers Were Hacked",
+        "fonte": "Substack.com",
+        "autor": "jcurbo",
+        "data": "2026-08-31",
+        "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+        "resumo": "Article URL: https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary Comments URL: https://news.ycombinator.com/item?id=49508506 Points: 3 # Comments: 0",
+        "imagem": "https://substackcdn.com/image/fetch/$s_!3uKC!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a6cccd5-5043-47d2-a2b2-d39c0b076f56_6451x4301.jpeg"
+    },
+    {
+        "titulo": "CISA Adds Linux Kernel + JFrog Artifactory CVEs to KEV After OpenAI Agent Exploitation",
+        "fonte": "Forkast.news",
+        "autor": "Blair Hayes",
+        "data": "2026-08-31",
+        "url": "https://forkast.news/cisa-adds-linux-kernel-jfrog-artifactory-cves-to-kev-after-openai-agent-exploitation/",
+        "resumo": "On August 27, 2026, the Cybersecurity and Infrastructure Security Agency (CISA) updated its Known Exploited Vulnerabilities (KEV) catalog to include two specific entries: CVE-2026-53362 and CVE-2026-66384. While routine updates to the KEV are standard operati…",
+        "imagem": "https://forkast.news/wp-content/uploads/2026/08/hero-4-1024x687.jpg"
+    },
+    {
+        "titulo": "AI &#x27;bubble&#x27; bursting could cause a global economic crash, Bank of England chief warns",
+        "fonte": "Dailymail.com",
+        "autor": "James Tapsfield",
+        "data": "2026-08-31",
+        "url": "https://www.dailymail.com/news/article-16092617/AI-global-economy-Bank-England-chief-Bailey-shares-borrowing.html",
+        "resumo": "Andrew Bailey delivered a stark message about the consequences of a &#x27;future market correction&#x27; in a letter to powerful finance ministers.",
+        "imagem": "https://i.dailymail.com/1s/2026/08/31/09/110949547-0-image-m-15_1788166675528.jpg"
+    },
+    {
+        "titulo": "AI will reach superhuman ability across digital tasks by 2027: Elon Musk",
+        "fonte": "Business Standard",
+        "autor": "Anjaly Raj",
+        "data": "2026-08-31",
+        "url": "https://www.business-standard.com/technology/artificial-intelligence/ai-will-reach-superhuman-ability-across-digital-tasks-by-2027-elon-musk-126083100431_1.html",
+        "resumo": "Elon Musk claimed by the end of next year, artificial intelligence will be able to do anything digital that humans can",
+        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/20/thumb/featurecrop/1200X628/1768897195-446.jpg"
+    },
+    {
+        "titulo": "As AI Agents Go Rogue, Cyber Insurers Are Adapting Their Policies",
+        "fonte": "Insurance Journal",
+        "autor": "Admin",
+        "data": "2026-08-31",
+        "url": "https://www.insurancejournal.com/news/national/2026/08/31/883343.htm",
+        "resumo": "Cyber insurers have spent years defining what constitutes a hack and when coverage should pay out, but the rapid emergence of AI agents is raising new questions, forcing insurers to review their policies. Leading AI developers OpenAI, Anthropic and Meta …",
+        "imagem": "https://www.insurancejournal.com/app/uploads/2025/10/hooded-figure-with-ai-laptop-1652291456-AdobeStock-scaled.jpeg"
+    },
+    {
+        "titulo": "Hacking-Tools — Updated!",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-08-30",
+        "url": "https://kitploit.com/en/posts/github-yogsec-hacking-tools-77a506dadd7a5adba04af2c11d658fb17db0b40004261c3adfb71ef3bfa9069c",
+        "resumo": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/15/459f8a56ac442a7e405677b8a16ff5ad6bd577662204fc3e41eb0769ed9a6095.png"
+    },
+    {
+        "titulo": "[Security Blog] Mid-Year Review: HKCERT Security Incident Statistics and Cybersecurity Trends in the First Half of 2026",
+        "fonte": "Hkcert.org",
+        "autor": "",
+        "data": "2026-08-30",
+        "url": "https://www.hkcert.org/blog/mid-year-review-hkcert-security-incident-statistics-and-cybersecurity-trends-in-the-first-half-of-2026",
+        "resumo": "In the first half of 2026, the cybersecurity landscape continued to evolve as organizations and individuals faced a wide range of digital threats. HKCERT observed ongoing attacks involving phishing, malware, web defacement, botnets, and other security inc",
+        "imagem": "https://www.hkcert.org/f/blog/914754/1200c630/Picture1.png"
+    },
+    {
         "titulo": "Week in review: Compromised Zimbra servers, previously patched Citrix NetScaler flaw exploited",
         "fonte": "Help Net Security",
         "autor": "Anamarija Pogorelec",
@@ -88,95 +178,5 @@
         "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71404353.ece",
         "resumo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
         "imagem": "https://bl-i.thgim.com/public/incoming/o19mpx/article71404352.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
-    },
-    {
-        "titulo": "Rhysida Ransomware Group Targets Berlin Government Ahead of Vote",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-08-29",
-        "url": "https://securityaffairs.com/198064/cyber-crime/rhysida-ransomware-group-targets-berlin-government-ahead-of-vote.html",
-        "resumo": "Berlin ‘s government faces a Rhysida ransomware attack weeks before elections, with officials refusing to pay despite a claimed 5.79 TB data theft. Berlin’s state government confirmed this week it’s dealing with an extortion attempt following an August cybera…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/08/image-89.png"
-    },
-    {
-        "titulo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
-        "fonte": "BusinessLine",
-        "autor": "cuelive",
-        "data": "2026-08-29",
-        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71404214.ece",
-        "resumo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
-        "imagem": "https://bl-i.thgim.com/public/incoming/fckl7n/article71404213.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
-    },
-    {
-        "titulo": "AI-Generated Scripts Eliminate the Expertise Barrier for Attacking Industrial Control Systems",
-        "fonte": "Forkast.news",
-        "autor": "Heath Callahan",
-        "data": "2026-08-29",
-        "url": "https://forkast.news/ai-generated-scripts-eliminate-the-expertise-barrier-for-attacking-industrial-control-systems/",
-        "resumo": "The release of CISA advisory AA26-231A, titled Defending Against an Active Threat to Siemens S7 Series PLCs, marks a significant inflection point in the industrial control systems (ICS) threat landscape. Published on August 19, 2026, by a coalition including …",
-        "imagem": "https://forkast.news/wp-content/uploads/2026/08/ai-ics-exploitation-hero-1024x572.jpg"
-    },
-    {
-        "titulo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
-        "fonte": "BusinessLine",
-        "autor": "cuelive",
-        "data": "2026-08-29",
-        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71404090.ece",
-        "resumo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
-        "imagem": "https://bl-i.thgim.com/public/incoming/9dyyl1/article71404089.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
-    },
-    {
-        "titulo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
-        "fonte": "BusinessLine",
-        "autor": "cuelive",
-        "data": "2026-08-29",
-        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71403966.ece",
-        "resumo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
-        "imagem": "https://bl-i.thgim.com/public/incoming/5ebd5r/article71403965.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
-    },
-    {
-        "titulo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
-        "fonte": "BusinessLine",
-        "autor": "cuelive",
-        "data": "2026-08-29",
-        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71403834.ece",
-        "resumo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
-        "imagem": "https://bl-i.thgim.com/public/incoming/ulmuxl/article71403833.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
-    },
-    {
-        "titulo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
-        "fonte": "BusinessLine",
-        "autor": "cuelive",
-        "data": "2026-08-29",
-        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71403711.ece",
-        "resumo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
-        "imagem": "https://bl-i.thgim.com/public/incoming/zhk9bc/article71403710.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
-    },
-    {
-        "titulo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
-        "fonte": "BusinessLine",
-        "autor": "cuelive",
-        "data": "2026-08-29",
-        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71403596.ece",
-        "resumo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
-        "imagem": "https://bl-i.thgim.com/public/incoming/nkpdgz/article71403595.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
-    },
-    {
-        "titulo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
-        "fonte": "BusinessLine",
-        "autor": "cuelive",
-        "data": "2026-08-29",
-        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71403484.ece",
-        "resumo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
-        "imagem": "https://bl-i.thgim.com/public/incoming/4wgt5b/article71403483.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
-    },
-    {
-        "titulo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
-        "fonte": "BusinessLine",
-        "autor": "cuelive",
-        "data": "2026-08-29",
-        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71403417.ece",
-        "resumo": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
-        "imagem": "https://bl-i.thgim.com/public/incoming/yq8j8t/article71403416.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
     }
 ]
