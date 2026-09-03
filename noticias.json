@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Rockwell Automation Logix Platform",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-01",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-03",
-        "resumo": "View CSAF Summary The following versions of Rockwell Automation Logix Platform are affected: ControlLogix 5580 CompactLogix 5380 GuardLogix 5580 Compact GuardLogix 5380 CVSS &lt;t…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Rockwell Automation FactoryTalk Activation Manager",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-01",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-04",
-        "resumo": "View CSAF Summary The following versions of Rockwell Automation FactoryTalk Activation Manager are affected: FactoryTalk Activation Manager V5.02_and_below (CVE-2026-16675) CVSS Vendor Equipment &lt;t…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Rockwell Automation Historian ME",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-01",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-06",
-        "resumo": "View CSAF Summary Successful exploitation of these vulnerabilities could crash the device being accessed; an out-of-bounds write condition may allow remote code execution. The following versions of Rockwell Automation Historian ME are affected: Serie…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Rockwell Automation ControlLogix, CompactLogix, CompactLogix 5480, GuardLogix, Compact GuardLogix",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-01",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-05",
-        "resumo": "View CSAF Summary The following versions of Rockwell Automation ControlLogix, CompactLogix, CompactLogix 5480, GuardLogix, Compact GuardLogix are affected: ControlLogix 5580 GuardLogix 5580 CompactLogix 5380 Compac…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Critical JFrog Artifactory Vulnerability Reportedly Exploited in the Wild",
-        "fonte": "Securityweek.com",
-        "autor": "Eduard Kovacs",
-        "data": "2026-09-01",
-        "url": "https://www.securityweek.com/critical-jfrog-artifactory-vulnerability-reportedly-exploited-in-the-wild/",
-        "resumo": "Exploitation of the authentication bypass vulnerability CVE-2026-82329 started just days after its public disclosure. The post Critical JFrog Artifactory Vulnerability Reportedly Exploited in the Wild appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2024/03/exploit.jpeg"
-    },
-    {
-        "titulo": "Why Fixing Europe’s Legacy Tech Problem is a Real AI Cyber Security Test",
-        "fonte": "Cisco.com",
-        "autor": "Clara Lemaire",
-        "data": "2026-09-01",
-        "url": "https://blogs.cisco.com/gov/fixing-europe-legacy-tech-ai-cybersecurity-test",
-        "resumo": "This blog outlines how financial institutions are addressing the systemic cyber risk posed by aging and end-of-life technology, as AI accelerates attack velocity, and the window for effective defense is shortening. This blog outlines how financial institution…",
-        "imagem": "https://blogs.cisco.com/gcs/ciscoblogs/1/2025/11/HatchLibrary-Finance-GettyPA-Unlimited-2148360448.jpg"
-    },
-    {
-        "titulo": "Financial Stability Board Sounds the Alarm Over Frontier AI Risks",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Phil Muncaster",
-        "data": "2026-09-01",
-        "url": "https://www.infosecurity-magazine.com/news/financial-stability-board-alarm/",
-        "resumo": "The Financial Stability Board has warned G20 banking leaders about the cyber risks of frontier AI",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/e953b5a8-2d43-489a-a99c-45dda71d8140.jpeg"
-    },
-    {
-        "titulo": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-09-01",
-        "url": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
-        "resumo": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that&#x27;s been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial intelligence (AI)-assisted analysis. T…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS-2JWiSkzpLkhR3nGp917yyeS4NATTlFhnDXcvmQdrc42BPgObEnlmwXMDP7fN8ruoEJ13Zru_lTVjPwTfU8aeSfK9uGt5H9dYK0s-STCiRMe4Wai1tgbeAU9CaaYZ9aIAZSDv3hVTD5UHKdCGNXGRkkrXDgsc0_3wHruuxZg4uRJDMhuSWSXKfgFanBb/s1700-nu-rw-lo-l85-e365/russian.jpg"
-    },
-    {
-        "titulo": "U.S. CISA adds PaperCut NG/MF flaws to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-09-01",
-        "url": "https://securityaffairs.com/198200/security/u-s-cisa-adds-papercut-ng-mf-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds PaperCut NG/MF flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabilities to its Known Exploited …",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "Recently patched PaperCut zero-days used in data theft attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-09-01",
-        "url": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
-        "resumo": "Two security vulnerabilities in the PaperCut NG and MF print management software, patched last week after being exploited as zero-days, are now being abused in data theft attacks. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/08/31/PaperCut.jpg"
-    },
-    {
-        "titulo": "ESDS Software Solution IPO Day 3: GMP indicates 74% premium; issue subscribed 18.34x. Should you bid?",
-        "fonte": "The Times of India",
-        "autor": "Ritesh Presswala",
-        "data": "2026-09-01",
-        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/esds-software-solution-ipo-day-3-gmp-indicates-74-premium-issue-subscribed-18-34x-should-you-bid/articleshow/133667935.cms",
-        "resumo": "ESDS Software Solutions IPO entered its final bidding day on September 1, with the issue subscribed 18.34 times by Day 2. Retail investors subscribed 14.61 times, while the IPO’s grey market premium stood at around 74%, signalling expectations of a strong lis…",
-        "imagem": "https://img.etimg.com/thumb/msid-133668165,width-1200,height-630,imgsize-2280541,overlay-etmarkets/articleshow.jpg"
-    },
-    {
-        "titulo": "Show HN: Eatheria – Self-hosted AppSec platform with AI false-positive filtering",
-        "fonte": "Github.com",
-        "autor": "ikharoz",
-        "data": "2026-09-01",
-        "url": "https://github.com/MartinCrespoC/Security-Team---Workspace-",
-        "resumo": "Article URL: https://github.com/MartinCrespoC/Security-Team---Workspace- Comments URL: https://news.ycombinator.com/item?id=49517916 Points: 1 # Comments: 0",
-        "imagem": "https://opengraph.githubassets.com/abe2c52b83fd0c4292372b484fffbc2aa396113a5f7d3fb4219c97bc89601393/MartinCrespoC/Security-Team---Workspace-"
-    },
-    {
-        "titulo": "Cybersecurity jobs available right now: September 1, 2026",
-        "fonte": "Help Net Security",
-        "autor": "Sinisa Markovic",
-        "data": "2026-09-01",
-        "url": "https://www.helpnetsecurity.com/2026/09/01/cybersecurity-jobs-available-right-now-september-1-2026/",
-        "resumo": "Security Engineer, PSO Google | USA | On-site – View job details As a Security Engineer, you will provide technical guidance to customers adopting Google Cloud Platform, helping them navigate their cloud journey with the Professional Services team. The role i…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140410/cybersecurity_jobs-4-1500.webp"
-    },
-    {
-        "titulo": "The Cybersecurity Race Is Getting Faster. America Has to Keep Up.",
-        "fonte": "Americanthinker.com",
-        "autor": "",
-        "data": "2026-09-01",
-        "url": "https://www.americanthinker.com/articles/2026/09/the-cybersecurity-race-is-getting-faster-america-has-to-keep-up/",
-        "resumo": "Photo Credit:ChatGPT ChatGPT for American ThinkerBy Julio RiveraThe Trump Administration has launched a new federal vulnerability coordination initiative intended to accelerate the discovery, prioritization, and remediation of serious software vulnerabilit…",
-        "imagem": "https://images.americanthinker.com/x0/x0xcpsyztvk0aq9ottz0_1200.jpg"
-    },
-    {
-        "titulo": "awesome-ai-security — Updated!",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-09-01",
-        "url": "https://kitploit.com/en/posts/github-gmh5225-awesome-ai-security-b300d9d87b8f9e8ae7c8a840597e9c3555b56d954e6819ad4f6329226a239eee",
-        "resumo": "A curated list of AI Security materials and resources for Pentesters, Bug Hunters, and Security Researchers.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/50438/1e62024e9d93e641c6d8d5805d31391df1321a4fe206ecf98613c4f9e53f3b21.png"
-    },
-    {
-        "titulo": "Anthropic resumes external cyber evaluations after AI models accidentally accessed real systems",
+        "titulo": "CrowdStrike joins OpenAI’s Daybreak Cyber Partner Program with GPT-5.4-Cyber access",
         "fonte": "Crypto Briefing",
         "autor": "Editorial Team",
-        "data": "2026-08-31",
-        "url": "https://cryptobriefing.com/anthropic-ai-models-unauthorized-access-cyber-evaluations/",
-        "resumo": "The incident underscores the critical need for robust safeguards in AI testing environments to prevent unintended real-world system access. The post Anthropic resumes external cyber evaluations after AI models accidentally accessed real systems appeared first…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/31193051/library-anthropic-resumes-external-cyber-evaluations-after-ai-mo-800x450.png"
+        "data": "2026-09-02",
+        "url": "https://cryptobriefing.com/crowdstrike-openai-daybreak-cyber-partner-program/",
+        "resumo": "CrowdStrike&#x27;s integration with OpenAI&#x27;s program enhances cybersecurity capabilities, streamlining threat response and advancing AI-driven solutions. The post CrowdStrike joins OpenAI’s Daybreak Cyber Partner Program with GPT-5.4-Cyber access appeared first on…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/02081247/library-crowdstrike-joins-openai-s-daybreak-cyber-partner-progra-800x450.png"
     },
     {
-        "titulo": "cmcp v0.4.0",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-08-31",
-        "url": "https://kitploit.com/en/posts/github-agentrust-io-cmcp-v040",
-        "resumo": "cMCP: Confidential MCP Gateway. Hardware-attested policy enforcement for MCP tool calls.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/49259/c608befe534567088266975fd4469cc2ff700fc27be87e347f481ee2aaafc285.png"
+        "titulo": "OpenAI Says New Model Meets Its ‘Critical’ Cybersecurity Threshold",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-09-02",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-says-new-model-meets-its-critical-cybersecurity-threshold/",
+        "resumo": "OpenAI says its upcoming Astra model is the first to meet its “Critical” cybersecurity threshold. The artificial intelligence (AI) startup noted this development in a blog post Tuesday (Sept. 1) after spending the last few weeks testing Astra’s capabilities. …",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2022/10/PYMNTS_2022_open_graph_1280x720.jpg"
     },
     {
-        "titulo": "Remarkable B2B Strategy is not paying off",
-        "fonte": "Goodereader",
-        "autor": "Michael Kozlowski",
-        "data": "2026-08-31",
-        "url": "https://goodereader.com/blog/remarkable-news/remarkable-b2b-strategy-is-not-paying-off",
-        "resumo": "Remarkable&#x27;s B2B head has left the company, which casts serious doubt on its entire business strategy. The paper tablet simply doesn&#x27;t meet enterprise customers&#x27; needs. The post Remarkable B2B Strategy is not paying off first appeared on Good e-Reader.",
-        "imagem": "https://goodereader.com/blog/uploads/images/2026/08/oyvnpyf14qmh1.jpeg"
+        "titulo": "Gambling_thrills_extend_from_small_bets_to_big_wins_via_chicken_road_adventures",
+        "fonte": "SiliconANGLE News",
+        "autor": "Mellisa Tolentino",
+        "data": "2026-09-02",
+        "url": "https://siliconangle.com/2026/09/02/gambling-thrills-extend-from-small-bets-to-big-3/",
+        "resumo": "Gambling thrills extend from small bets to big wins via chicken road adventures The Psychology of Incremental Gains Framing and the Illusion of Control Strategies for Navigating the Road The Role of Risk Tolerance The Allure of the Unknown: Why We Continue Co…",
+        "imagem": "https://siliconangle.com/files/2015/08/PLACEHOLDER-SiliconANGLE.png"
     },
     {
-        "titulo": "Beijing and Washington Can Build AI Safety Despite Mutual Distrust",
-        "fonte": "Foreign Policy",
-        "autor": "Xiao Qian",
-        "data": "2026-08-31",
-        "url": "http://foreignpolicy.com/2026/08/31/china-us-safety-ai-artificial-intelligence-summit-regulation/",
-        "resumo": "Practical cooperation should exist alongside competition.",
-        "imagem": "https://foreignpolicy.com/wp-content/uploads/2026/08/CHINA-AI-SECURITY-GettyImages-2265479402.png"
+        "titulo": "CrowdStrike and the FBI are dismantling Sality after 23 years",
+        "fonte": "The Next Web",
+        "autor": "Ana-Maria Stanciuc",
+        "data": "2026-09-02",
+        "url": "https://thenextweb.com/news/crowdstrike-and-the-fbi-are-dismantling-sality-after-23-years",
+        "resumo": "Sality has been infecting computers since 2003, making it older than the iPhone, Facebook, and much of the security industry now working to dismantle it. US law enforcement and CrowdStrike began taking it apart this week, Reuters reported. For more than two d…",
+        "imagem": "https://media.thenextweb.com/2026/09/Crowdstrike.jpg"
     },
     {
-        "titulo": "We invited a direct competitor into Security Hub Extended. Here’s why.",
-        "fonte": "Amazon.com",
-        "autor": "Michael Fuller",
-        "data": "2026-08-31",
-        "url": "https://aws.amazon.com/blogs/security/we-invited-a-direct-competitor-into-security-hub-extended-heres-why/",
-        "resumo": "When customers keep pointing you to a solution that overlaps with parts of your own offering, you have a choice to make. This post is about the choice we made with Upwind, and why we’d make it again. AWS Security Hub Extended exists because customers told us …",
-        "imagem": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/07/13/Security-hub-feat-img.jpg"
+        "titulo": "SonicWall SMA 1000 appliances under attack via zero-day flaws",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-09-02",
+        "url": "https://www.helpnetsecurity.com/2026/09/02/sonicwall-sma-1000-cve-2026-83548-cve-2026-83549-zero-day-attacks/",
+        "resumo": "Attackers are exploiting two previously undisclosed vulnerabilities (CVE-2026-83548, CVE-2026-83549) in SonicWall SMA 1000 appliances, the vendor confirmed on Tuesday. The vulnerabilities (CVE-2026-83548, CVE-2026-83549) The SonicWall SMA 1000 series is a lin…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/07/14165048/sonicwall-1500.webp"
+    },
+    {
+        "titulo": "The hackers protecting America’s water supply",
+        "fonte": "Scientific American",
+        "autor": "Rachel Feltman, Fonda Mwangi, Alli Rodgers, Alex Sugiura",
+        "data": "2026-09-02",
+        "url": "https://www.scientificamerican.com/podcast/episode/the-hackers-protecting-americas-water-supply/",
+        "resumo": "Cybersecurity experts are volunteering to keep America’s utilities safe from attacks",
+        "imagem": "https://static.scientificamerican.com/dam/asset/a121c727-a1d9-4b83-8e0a-a23f9d2b67b6/2609_SQ_WED_WATER_CYBER-Span-art.jpeg?m=1788298415.42&w=1200"
+    },
+    {
+        "titulo": "OpenAI Teases Astra, Limits Cybersecurity Tools After Hugging Face Hack",
+        "fonte": "PCMag.com",
+        "autor": "James Peckham",
+        "data": "2026-09-02",
+        "url": "https://uk.pcmag.com/ai/167027/openai-teases-astra-limits-cybersecurity-tools-after-hugging-face-hack",
+        "resumo": "An exact launch date for the model remains unclear, and plans to limit its most advanced cybersecurity features to select users. OpenAI is ready to talk more about its upcoming Astra model, although it has yet to share a launch date for its next advanced rele…",
+        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/o/openai-tea/openai-teases-astra-limits-cybersecurity-tools-after-hugging_bc9t.1200.jpg"
+    },
+    {
+        "titulo": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-09-02",
+        "url": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
+        "resumo": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,000 of its users in 2016 and 2017. Sear…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjT6gZEQ09i7WPG39V2zwJLuC6M3N7mvjMQC0aVmtON24RfDshYfzqKyGKWXrTMC_bGPyNn43NPLWaufMe0MSlanyUCeZENy6XXmYCC8NzcHpCiK8rv-bpke7sKMpmfkWFVv6GB9WUO46KXMzNRlmCm8x_WYaNZelDk5BBrVCnUswpWJzA_IZMQj86wFI/s1700-nu-rw-lo-l85-e365/russian-hacker.jpg"
+    },
+    {
+        "titulo": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-09-02",
+        "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
+        "resumo": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/09/02/SonicWall.jpg"
+    },
+    {
+        "titulo": "F5 speeds up virtual patching to counter AI-driven threats",
+        "fonte": "Help Net Security",
+        "autor": "Industry News",
+        "data": "2026-09-02",
+        "url": "https://www.helpnetsecurity.com/2026/09/02/f5-waf-anomaly-detection-ai-threats/",
+        "resumo": "F5 announced innovations to block frontier AI-driven threats in the data path and enable faster virtual patching, giving security leaders time to make intelligent risk-based decisions rather than reactive operational compromises. With new features such as ano…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp"
+    },
+    {
+        "titulo": "National Life Group CISO expects more vulnerabilities in six months than in thirty years",
+        "fonte": "Help Net Security",
+        "autor": "Mirko Zorz",
+        "data": "2026-09-02",
+        "url": "https://www.helpnetsecurity.com/2026/09/02/becky-palmer-national-life-group-ai-driven-cyber-threats/",
+        "resumo": "In this Help Net Security interview, Becky Palmer is VP and CISO at National Life Group, answers five questions about defending against AI-driven attacks. The discussion covers why patch cycles built for human speed cannot keep up, and which compensating cont…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/31104519/becky_palmer-2-national_life_group.webp"
+    },
+    {
+        "titulo": "ESDS Software Solution IPO allotment likely today: GMP at 60%; here’s how to check your status",
+        "fonte": "The Times of India",
+        "autor": "Ritesh Presswala",
+        "data": "2026-09-02",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/esds-software-solution-ipo-allotment-likely-today-gmp-at-60-heres-how-to-check-your-status/articleshow/133696567.cms",
+        "resumo": "ESDS Software Solution’s ₹720-crore IPO allotment is expected to be finalised today, ahead of its September 4 listing. The issue was subscribed 135.88 times. The IPO’s GMP is around 60%, indicating strong demand and the potential for a sizeable listing gain i…",
+        "imagem": "https://img.etimg.com/thumb/msid-133696634,width-1200,height-630,imgsize-118814,overlay-etmarkets/articleshow.jpg"
+    },
+    {
+        "titulo": "Improving our alignment and security efforts",
+        "fonte": "Anthropic.com",
+        "autor": "reasonableklout",
+        "data": "2026-09-01",
+        "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+        "resumo": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re shar…",
+        "imagem": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&backgroundColor=cactus"
+    },
+    {
+        "titulo": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+        "fonte": "The Verge",
+        "autor": "Stevie Bonifield",
+        "data": "2026-09-01",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+        "resumo": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent…",
+        "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+        "titulo": "OpenAI: Path to Astra: critical capabilities and frontier safeguards",
+        "fonte": "Openai.com",
+        "autor": "jithinraj",
+        "data": "2026-09-01",
+        "url": "https://openai.com/index/path-to-astra/",
+        "resumo": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+        "imagem": "https://images.ctfassets.net/kftzwdyauwt9/4B4TPk6PGcuKcMyKnnQIMn/f1282feb90b13f11eb010c38c867fa53/astra-seo-v002.png?w=1600&h=900&fit=fill"
+    },
+    {
+        "titulo": "OpenAI to limit access to Astra model’s advanced cyber features due to hacking concerns",
+        "fonte": "Fortune",
+        "autor": "Emily Forlini",
+        "data": "2026-09-01",
+        "url": "https://fortune.com/2026/09/01/openai-to-limit-release-of-its-asttra-model-astra-due-to-hacking-concerns/",
+        "resumo": "The company is being extra cautious following the Hugging Face incident, while also pitching its cybersecurity capabilities to potential customers.",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2278952256-e1788285981446.jpg?resize=1200,600"
+    },
+    {
+        "titulo": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+        "fonte": "Wired",
+        "autor": "Maxwell Zeff, Lily Hay Newman",
+        "data": "2026-09-01",
+        "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+        "resumo": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
+        "imagem": "https://media.wired.com/photos/6a9613c7a31f896f81e828e0/191:100/w_1280,c_limit/OpenAI-AI-Safety-Business.jpg"
+    },
+    {
+        "titulo": "Anthropic Claude Fable 5.1 launches with lower costs and customer-controlled data",
+        "fonte": "4sysops.com",
+        "autor": "IT News",
+        "data": "2026-09-01",
+        "url": "https://4sysops.com/archives/anthropic-claude-fable-5-1-launches-with-lower-costs-and-customer-controlled-data/",
+        "resumo": "Anthropic has released Claude Fable 5.1 with higher coding and reasoning performance, lower token costs, and a new privacy model for enterprises. The company is also offering the identical Claude Mythos 5.1 through restricted-access programs for cybersecurity…",
+        "imagem": "https://4sysops.com/wp-content/uploads/2026/09/anthropic-claude-fable-5-1-launches-with-lower-costs-and-customer-controlled-data.jpg"
+    },
+    {
+        "titulo": "Claude Fable 5.1 and Claude Mythos 5.1",
+        "fonte": "Anthropic.com",
+        "autor": "",
+        "data": "2026-09-01",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+        "resumo": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
+        "imagem": "https://cdn.sanity.io/images/4zrzovbb/website/932ca7d6f414ca22fd5a26dcc131410575b9b3e5-1200x630.jpg"
+    },
+    {
+        "titulo": "CrowdStrike launches frontier AI models for cybersecurity in partnership with Nvidia",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-09-01",
+        "url": "https://cryptobriefing.com/crowdstrike-frontier-models-cybersecurity-nvidia/",
+        "resumo": "The integration of AI in cybersecurity could significantly enhance threat detection and response times, reshaping industry standards. The post CrowdStrike launches frontier AI models for cybersecurity in partnership with Nvidia appeared first on Crypto Briefi…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/01124735/library-crowdstrike-launches-frontier-ai-models-for-cybersecurit-800x450.png"
     }
 ]
