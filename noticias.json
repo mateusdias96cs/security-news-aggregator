@@ -1,5 +1,131 @@
 [
     {
+        "titulo": "OpenAI admits it didn&#x27;t disclose rogue AI wiki hijacking incident",
+        "fonte": "BleepingComputer",
+        "autor": "Ax Sharma",
+        "data": "2026-09-05",
+        "url": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
+        "resumo": "OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model &quot;misalignment&quot; rather than a security breach. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/03/28/OpenAI.jpg"
+    },
+    {
+        "titulo": "The Rise of the AI Agent Firewall: Securing the Execution Layer",
+        "fonte": "Forkast.news",
+        "autor": "Heath Callahan",
+        "data": "2026-09-05",
+        "url": "https://forkast.news/the-rise-of-the-ai-agent-firewall-securing-the-execution-layer/",
+        "resumo": "The rapid integration of autonomous agents into enterprise environments has exposed a critical security gap at the execution layer. Traditional network firewalls and point-in-time security assessments are increasingly insufficient for managing the risks inher…",
+        "imagem": "https://forkast.news/wp-content/uploads/2026/09/ai-agent-firewall-category-1024x572.jpg"
+    },
+    {
+        "titulo": "U.S. CISA adds Google Chromium V8 flaw to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-09-04",
+        "url": "https://securityaffairs.com/198455/security/u-s-cisa-adds-google-chromium-v8-flaw-to-its-known-exploited-vulnerabilities-catalog-2.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Google Chromium V8 flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Google Chromium V8 flaw, tracked as CVE-2026-850…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "Cisco remakes the edge for AI’s data-heavy future",
+        "fonte": "SiliconANGLE News",
+        "autor": "Mark Albertson",
+        "data": "2026-09-04",
+        "url": "https://siliconangle.com/2026/09/04/cisco-delivers-edge-computing-ai-ciscoaward/",
+        "resumo": "The modern edge computing platform has arrived. Before the explosion of artificial intelligence, edge computing sites were generally regarded as a back-end support function, smaller and more remote copies of a data center. However, as agentic AI has intensifi…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/07/Cisco-CUBEd-Award-Feature.jpg"
+    },
+    {
+        "titulo": "Tech bills of the week: Ban on AI superintelligence; AI oversight at the Pentagon; and more",
+        "fonte": "Nextgov",
+        "autor": "Alexandra Kelley and Edward Graham",
+        "data": "2026-09-04",
+        "url": "https://www.nextgov.com/policy/2026/09/tech-bills-week-ban-ai-superintelligence-ai-oversight-pentagon-and-more/415815/",
+        "resumo": "Among this week’s bills is a sweeping measure to address the rapid pace of advanced AI development and deployment by banning work on superintelligent AI and temporarily pausing advanced AI development.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/09/03/GettyImages_1399560076/open-graph.jpg"
+    },
+    {
+        "titulo": "OpenAI warns about how good Astra model is at cracking cybersecurity, releases it anyway because it took &#x27;years of research and big bets&#x27;",
+        "fonte": "TechRadar",
+        "autor": "Sead Fadilpašić",
+        "data": "2026-09-04",
+        "url": "https://www.techradar.com/pro/security/openai-warns-about-how-good-astra-model-is-at-cracking-cybersecurity-releases-it-anyway-because-it-took-years-of-research-and-big-bets",
+        "resumo": "GPT-6 Astra was paused a month ago for triggering safety protocols and now it&#x27;s being slowly rolled out.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/S8KxZGx6n8eh2LiPG7yz36-1280-80.jpg"
+    },
+    {
+        "titulo": "The hidden work of modernizing Malwarebytes",
+        "fonte": "Malwarebytes.com",
+        "autor": "Anna Tukhtarova",
+        "data": "2026-09-04",
+        "url": "https://www.malwarebytes.com/blog/inside-malwarebytes/2026/09/the-hidden-work-of-modernizing-malwarebytes",
+        "resumo": "Why disciplined dependency modernization is one of the highest-leverage engineering investments a security product can make.",
+        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2025/10/Inside-Malwarebytes_02.png"
+    },
+    {
+        "titulo": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-09-04",
+        "url": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
+        "resumo": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/09/04/Citrix-headpic.jpg"
+    },
+    {
+        "titulo": "OpenAI Subsidizes $1 Billion in Cybersecurity to Protect Community Banks and Essential Services",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-09-04",
+        "url": "https://www.pymnts.com/cybersecurity/2026/openai-subsidizes-1-billion-dollars-cybersecurity-protect-community-banks-essential-services/",
+        "resumo": "OpenAI committed $1 billion in subsidized access to its security program, Daybreak, for community and regional banks and other operators of essential services, the company said in a Thursday (Sept. 3) blog post. The new global initiative, Daybreak for Frontli…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2023/12/OpenAI.jpg"
+    },
+    {
+        "titulo": "OpenAI publishes GPT-6 Astra safety overview",
+        "fonte": "4sysops.com",
+        "autor": "IT News",
+        "data": "2026-09-04",
+        "url": "https://4sysops.com/archives/openai-publishes-gpt-6-astra-safety-overview/",
+        "resumo": "GPT-6 Astra is the first OpenAI model classified at the “Critical” cybersecurity level, meaning it can potentially discover unknown vulnerabilities and develop exploits against well-protected systems with limited human guidance. OpenAI says Astra is safer and…",
+        "imagem": "https://4sysops.com/wp-content/uploads/2026/09/openai-publishes-gpt-6-astra-safety-overview.webp"
+    },
+    {
+        "titulo": "Frontier AI just raised the stakes, and the old playbook won’t hold up",
+        "fonte": "Cisco.com",
+        "autor": "Jason Maynard",
+        "data": "2026-09-04",
+        "url": "https://blogs.cisco.com/?p=496762",
+        "resumo": "Frontier AI is accelerating vulnerability discovery. Learn why layered defenses, faster remediation, and cyber resilience matter more than ever.",
+        "imagem": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/08/FY27_Q1_frontier-ai-just-raised-the-stakes-and-the-old-playbook-wont-hold-up_blog_social_card-3.jpeg.jpeg"
+    },
+    {
+        "titulo": "New CrowdStrike &#x27;FalconFlank&#x27; zero-day grants SYSTEM privileges",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-09-04",
+        "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
+        "resumo": "An anonymous security researcher who uses the &quot;Nightmare Eclipse&quot; handle released a CrowdStrike Falcon zero-day exploit named &quot;FalconFlank&quot; that lets attackers escalate privileges on up-to-date Windows systems. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/09/04/CrowdStrike.jpg"
+    },
+    {
+        "titulo": "US Unpredictability Is Giving Its Asian Allies New Reasons to Cooperate",
+        "fonte": "The Diplomat",
+        "autor": "Donggak Heo",
+        "data": "2026-09-04",
+        "url": "https://thediplomat.com/2026/09/us-unpredictability-is-giving-its-asian-allies-new-reasons-to-cooperate/",
+        "resumo": "Across the Indo-Pacific, several of the United States’ closest partners are investing more heavily in relationships with one another – and, increasingly, with Europe.",
+        "imagem": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-04-212252.jpg"
+    },
+    {
+        "titulo": "SubImage (YC W25) Is Hiring a Founding Engineer in SF",
+        "fonte": "Hacker News",
+        "autor": "",
+        "data": "2026-09-04",
+        "url": "https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer",
+        "resumo": "SubImage maps infrastructure the way an attacker does so security teams at scale-ups and enterprises can find and fix problems. We’re built on Cartography, the open source tool our founders helped create at Lyft that’s now a CNCF project, adopted at over 70 c…",
+        "imagem": "https://bookface-images.s3.amazonaws.com/logos/6ebcc02aa222f9d8c6e08ff7f160eee57405333c.png?1740708577"
+    },
+    {
         "titulo": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
@@ -52,131 +178,5 @@
         "url": "https://www.trefis.com/articles/614227/the-business-accenture-now-mentions-in-passing/2026-09-03",
         "resumo": "Accenture (ACN) is redirecting where its next growth comes from, and the business underneath is in decent shape. What deserves a second look is what got left...",
         "imagem": "https://s.yimg.com/lo/mysterio/api/ff044163a4ee86c31e216004ed6ba7796b1bfd71fed404d5f0c8de8d89c6038e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2Faec1911f7df19eee11f9c07efd02521d.jpg"
-    },
-    {
-        "titulo": "Linux Threat Hunting - PSW #942",
-        "fonte": "Libsyn.com",
-        "autor": "",
-        "data": "2026-09-03",
-        "url": "https://sites.libsyn.com/18678/linux-threat-hunting-psw-942",
-        "resumo": "First up: a technical segment on Linux threat hunting. We&#x27;ll start this series by covering the best places to look for IoCs on Linux systems and devices, starting with startup services and scheduled tasks. Then, in the security news this week: SonicW…",
-        "imagem": "http://assets.libsyn.com/content/205891290?height=250&width=250&overlay=true"
-    },
-    {
-        "titulo": "Nightingale v1.1.47",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-09-03",
-        "url": "https://kitploit.com/en/posts/github-rajanagori-nightingale-v1147",
-        "resumo": "Nightingale Docker for Pentesters is a comprehensive Dockerized environment tailored for penetration testing and vulnerability assessment. It comes preconfigured with all essential tools and utilities required for efficient Vulnerability Assessment and Penetr…",
-        "imagem": "https://assets.kitploit.com/production/public/tools/5425/b57e9529b451aad7779e825164cc08012637083bdbfc3c62bdf86f80c6f60b38.png"
-    },
-    {
-        "titulo": "OpenAI Releases GPT-6 Astra: The Closest AI Model Yet to AGI",
-        "fonte": "Decrypt",
-        "autor": "Jose Antonio Lanz",
-        "data": "2026-09-03",
-        "url": "https://decrypt.co/377341/openai-releases-gpt-6-astra-agi",
-        "resumo": "The model can independently discover and exploit unknown security flaws across hardened systems, triggering a staged rollout and White House review before public access.",
-        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png"
-    },
-    {
-        "titulo": "ThreatLocker Highlights Key Cyber Threat Activity and Research from August 2026",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-09-03",
-        "url": "https://www.prnewswire.com/news-releases/threatlocker-highlights-key-cyber-threat-activity-and-research-from-august-2026-302869364.html",
-        "resumo": "Recap includes AI agent security, ClickFix attacks, exposed infrastructure, zero-day research, and company momentum ORLANDO, Fla., Sept. 3, 2026 /PRNewswire/ -- ThreatLocker today released highlights of the company&#x27;s cybersecurity research and company news fr…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1802838/ThreatLocker-Logo.jpg?id=OA2929267&p=facebook"
-    },
-    {
-        "titulo": "&#x27;Welcome to the AGI era&#x27;: OpenAI launches GPT-6 Astra",
-        "fonte": "VentureBeat",
-        "autor": "Carl Franzen",
-        "data": "2026-09-03",
-        "url": "https://venturebeat.com/technology/welcome-to-the-agi-era-openai-launches-gpt-6-astra",
-        "resumo": "Astra is designed to navigate software much as a person does — working across browsers, spreadsheets, websites and desktop applications, producing finished documents and presentations, and carrying out multistep workflows.",
-        "imagem": "https://images.ctfassets.net/jdtwqhzvc2n1/7BwAXDCmDn9UWCm6xJlALO/dc62713fa34b189cba7ed9dc6c3ff490/ChatGPT_Image_Sep_3__2026__01_08_17_PM.png?w=800&q=75"
-    },
-    {
-        "titulo": "Prolific Microsoft 0-day hunter drops CrowdStrike Falcon exploit PoC",
-        "fonte": "Theregister.com",
-        "autor": "Jessica Lyons",
-        "data": "2026-09-03",
-        "url": "https://www.theregister.com/security/2026/09/03/prolific-microsoft-0-day-hunter-drops-crowdstrike-falcon-exploit-poc/5294318",
-        "resumo": "A shared security &#x27;Nightmare&#x27;",
-        "imagem": "https://image.theregister.com/5294333.jpg?imageId=5294333&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-    },
-    {
-        "titulo": "Cisco and the DISA STIG: Turning Zero Trust Policy into Repeatable Practice – Part 1: Cisco ISE",
-        "fonte": "Cisco.com",
-        "autor": "Norman St. Laurent",
-        "data": "2026-09-03",
-        "url": "https://blogs.cisco.com/industries/cisco-and-the-disa-stig-turning-zero-trust-policy-into-repeatable-practice-part-1-cisco-ise",
-        "resumo": "The updated DISA STIG for Cisco Identity Services Engine (ISE) helps DoD teams translate security policies into practical controls. Discover how to enforce Zero Trust and secure network access in critical environments.",
-        "imagem": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/09/Screenshot-2026-09-02-at-3.07.50 PM.png"
-    },
-    {
-        "titulo": "OpenAI’s next big AI model has ‘entered the AGI era’",
-        "fonte": "The Verge",
-        "autor": "Hayden Field",
-        "data": "2026-09-03",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-        "resumo": "OpenAI&#x27;s next big model is here: GPT-6 Astra. The company calls it a &quot;generational leap in capability&quot; for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it&#x27;s also the first…",
-        "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-        "titulo": "ZEVENET: Vendor Security Assessment: Why the Security of Your ADC Provider Matters",
-        "fonte": "Skudonet.com",
-        "autor": "",
-        "data": "2026-09-03",
-        "url": "https://www.skudonet.com/blog/vendor-security-assessment-adc/",
-        "resumo": "Choosing infrastructure technology has traditionally involved a familiar set of questions. Does it meet the technical requirements? Will it handle the expected traffic? Is it compatible with the existing environment? What will it cost to deploy and maintain? …",
-        "imagem": "https://www.skudonet.com/wp-content/uploads/2026/09/Featured-Blog-Post-1-3.jpg"
-    },
-    {
-        "titulo": "Guardio raises $40M at $1.1B valuation to enhance consumer cybersecurity",
-        "fonte": "SiliconANGLE News",
-        "autor": "Kyt Dotson",
-        "data": "2026-09-03",
-        "url": "https://siliconangle.com/2026/09/03/guardio-raises-40m-at-1-1b-valuation-to-enhance-consumer-cybersecurity/",
-        "resumo": "Israeli cybersecurity startup Guardio Ltd. today announced it raised $40 million in new funding at a $1.1 billion valuation. Wiz co-founder and Chief Executive Assaf Rappaport joined the round alongside existing investors ION Crossover Partners, Union Tech Ve…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/image002.jpg"
-    },
-    {
-        "titulo": "Virtual patching closes the gap as AI erases the patch window",
-        "fonte": "SiliconANGLE News",
-        "autor": "Kristen Nicole",
-        "data": "2026-09-03",
-        "url": "https://siliconangle.com/2026/09/03/virtual-patching-f5-crowdstrike-falcon/",
-        "resumo": "Patch Tuesday used to buy defenders a short head start. Now the exploit often lands before the patch does, since automated scanners can weaponize a newly disclosed vulnerability within hours. That inversion is pushing security teams toward virtual patching: s…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/IMG_0566-2.jpg"
-    },
-    {
-        "titulo": "Over 5,000 Dropbox Accounts Compromised In Targeted Breach",
-        "fonte": "Ubergizmo",
-        "autor": "Paulo Montenegro",
-        "data": "2026-09-03",
-        "url": "https://www.ubergizmo.com/2026/09/over-5000-dropbox-accounts-compromised-in-targeted-breach/",
-        "resumo": "A security vulnerability involving Lenovo ID single sign-on authentication resulted in unauthorized access to approximately 5,000 Dropbox accounts. The cloud storage provider notified affected individuals by email, confirming that unauthorized activity was de…",
-        "imagem": "https://i0.wp.com/cdnbunny.ubergizmo.com/wp-content/uploads/2026/09/dropbox.png"
-    },
-    {
-        "titulo": "Fortinet and FIRST: Strengthening Cyber Resilience through Global Collaboration",
-        "fonte": "Fortinet.com",
-        "autor": "Fortinet",
-        "data": "2026-09-03",
-        "url": "https://www.fortinet.com/blog/industry-trends/fortinet-and-first-strengthening-cyber-resilience-through-global-collaboration",
-        "resumo": "Fortinet and FIRST CORE are strengthening global cyber resilience through trusted collaboration, training, and incident response capacity building.…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Drowning in CVEs and thirsty for answers? Try CTEM",
-        "fonte": "Theregister.com",
-        "autor": "Robin Birtstone",
-        "data": "2026-09-03",
-        "url": "https://www.theregister.com/security/2026/09/03/sponsored-drowning-in-cves-and-thirsty-for-answers-try-ctem/5293906",
-        "resumo": "Boards want to know if they&#x27;re less exposed than last quarter. Patching metrics aren&#x27;t the solution",
-        "imagem": "https://image.theregister.com/5293920.jpg?imageId=5293920&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
     }
 ]
