@@ -1,5 +1,77 @@
 [
     {
+        "titulo": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+        "fonte": "CNBC",
+        "autor": "Jonathan Vanian",
+        "data": "2026-09-06",
+        "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+        "resumo": "Anthropic, OpenAI, Meta and Google all released model updates this week, while Nvidia said it&#x27;s acquiring open-source AI platform Hugging Face.",
+        "imagem": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080"
+    },
+    {
+        "titulo": "WeblogicScan",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-09-06",
+        "url": "https://kitploit.com/en/tools/github/rabbitmask/weblogicscan/",
+        "resumo": "Automated vulnerability scanner for Oracle WebLogic Server, detecting historical CVEs including deserialization, SSRF, and arbitrary file upload with batch scanning and version identification.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/54240/5e0f31506274f90394f759b2a99b94080d157719c0004d85ff2ccb19268cf00a-social-v1.webp"
+    },
+    {
+        "titulo": "Week in review: Claude accounts compromised through infostealer, Patch Tuesday forecast",
+        "fonte": "Help Net Security",
+        "autor": "Sinisa Markovic",
+        "data": "2026-09-06",
+        "url": "https://www.helpnetsecurity.com/2026/09/06/week-in-review-claude-accounts-compromised-through-infostealer-patch-tuesday-forecast/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Anthropic locks out Claude users after infostealers hijack login sessions Anthropic has started locking users out of their Claude accounts due to their login ses…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124832/cybersecurity-week-review-2-1500.webp"
+    },
+    {
+        "titulo": "Security Affairs newsletter Round 593 by Pierluigi Paganini – INTERNATIONAL EDITION",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-09-06",
+        "url": "https://securityaffairs.com/198495/breaking-news/security-affairs-newsletter-round-593-by-pierluigi-paganini-international-edition.html",
+        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including international press. PaperCut Fla…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
+    },
+    {
+        "titulo": "Investigations Show AI Agents in OpenAI Breach Knew They Were Cheating",
+        "fonte": "Naturalnews.com",
+        "autor": "Chase Codewell",
+        "data": "2026-09-06",
+        "url": "https://www.naturalnews.com/2026-09-06-investigations-show-agents-openai-breach-aware-cheating.html",
+        "resumo": "The artificial intelligence (AI) “agents” involved in OpenAI’s July breach of Hugging Face were aware that their actions violated the rules of the evaluation test they were supposed to be completing, according to parallel investigations by OpenAI and the inde…",
+        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/ai-agents-openai-cheating-behavior-3881-original.jpg"
+    },
+    {
+        "titulo": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-09-05",
+        "url": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+        "resumo": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment. &quot;Cadence user…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH4sbUEhtXF9n1_8s2f6ChnKMmjUv4Ht-DvEtZyLDPuSNhKFoi41aNlu3-u5kJLXUva81rNFwlsprMXE11cnbXc_es968eO-ANvWm0j1Cyi9SaoVUfneQqNINCR7lRs3qkkYdsSoyMu34Mgxs7B4pKclAt4atPw8B-RCFOTChtgeji9NTes_NEdZ2KKu2_/s1700-nu-rw-lo-l85-e365/jet.jpg"
+    },
+    {
+        "titulo": "A reminder why the AI race is worth winning, and why America must prevail",
+        "fonte": "Wnd.com",
+        "autor": "RealClearWire",
+        "data": "2026-09-05",
+        "url": "https://www.wnd.com/2026/09/reminder-why-ai-race-is-worth-winning-why/",
+        "resumo": "&#x27;Every powerful technology eventually poses the same question: Will it expand freedom or suppress it?&#x27;",
+        "imagem": "https://www.wnd.com/wp-content/uploads/2026/09/artificial-intelligence-unsplash-1200x630.jpg"
+    },
+    {
+        "titulo": "yakit v1.4.8-0905",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-09-05",
+        "url": "https://kitploit.com/en/posts/github-yaklang-yakit-v148-0905",
+        "resumo": "All-in-one penetration testing platform with MITM proxy, web fuzzer, reverse connection handler, and plugin system for automated security testing and exploitation.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/188/b287cf6290e949190264b0fa0198fc839d9b8d4120d1cb99bc827f4699f6fafd.png"
+    },
+    {
         "titulo": "OpenAI admits it didn&#x27;t disclose rogue AI wiki hijacking incident",
         "fonte": "BleepingComputer",
         "autor": "Ax Sharma",
@@ -106,77 +178,5 @@
         "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
         "resumo": "An anonymous security researcher who uses the &quot;Nightmare Eclipse&quot; handle released a CrowdStrike Falcon zero-day exploit named &quot;FalconFlank&quot; that lets attackers escalate privileges on up-to-date Windows systems. [...]",
         "imagem": "https://www.bleepstatic.com/content/hl-images/2026/09/04/CrowdStrike.jpg"
-    },
-    {
-        "titulo": "US Unpredictability Is Giving Its Asian Allies New Reasons to Cooperate",
-        "fonte": "The Diplomat",
-        "autor": "Donggak Heo",
-        "data": "2026-09-04",
-        "url": "https://thediplomat.com/2026/09/us-unpredictability-is-giving-its-asian-allies-new-reasons-to-cooperate/",
-        "resumo": "Across the Indo-Pacific, several of the United States’ closest partners are investing more heavily in relationships with one another – and, increasingly, with Europe.",
-        "imagem": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-04-212252.jpg"
-    },
-    {
-        "titulo": "SubImage (YC W25) Is Hiring a Founding Engineer in SF",
-        "fonte": "Hacker News",
-        "autor": "",
-        "data": "2026-09-04",
-        "url": "https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer",
-        "resumo": "SubImage maps infrastructure the way an attacker does so security teams at scale-ups and enterprises can find and fix problems. We’re built on Cartography, the open source tool our founders helped create at Lyft that’s now a CNCF project, adopted at over 70 c…",
-        "imagem": "https://bookface-images.s3.amazonaws.com/logos/6ebcc02aa222f9d8c6e08ff7f160eee57405333c.png?1740708577"
-    },
-    {
-        "titulo": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-09-04",
-        "url": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
-        "resumo": "OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the &quot;world&#x27;s most intelligent and aligned model.&quot; The development comes days after the artificial intelligence (AI) company said the model had reached the &quot;Critical&quot; cybersecurity capa…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbaZmLqqSMfwaOmjs47_PEd97T29HeDX_1dAOZn0Qzo0HuloopzzhZ7pnQzlsHvXvIAwzMWq1tbza325niZMSgjTMn0z5MyT-CWb7NfoprOWz2L_cj6tosVDyyp2ZbV4s59p-khE64lXWULLOW8zVMCv720iwDwCYUEuAHYkV8m2diDsyzFKwvNifzq-oT/s1700-nu-rw-lo-l85-e365/gpt6.jpg"
-    },
-    {
-        "titulo": "AOC becomes latest to slam Flock cameras as mass surveillance rapidly becomes midterm sleeper issue",
-        "fonte": "Dailymail.com",
-        "autor": "Stephen M. Lepore",
-        "data": "2026-09-04",
-        "url": "https://www.dailymail.com/news/article-16104471/AOC-Flock-cameras-mass-surveillance.html",
-        "resumo": "Republicans are split over license plate-reading cameras made by a single company that has blanketed the United States, raising fears of civil liberties breaches and Big Brother-style surveillance.",
-        "imagem": "https://i.dailymail.com/1s/2026/09/04/06/111045821-0-image-a-10_1788498250303.jpg"
-    },
-    {
-        "titulo": "ESDS Software Solution shares to list today: GMP signals 56% listing gains",
-        "fonte": "The Times of India",
-        "autor": "Ritesh Presswala",
-        "data": "2026-09-04",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/esds-software-solution-shares-to-list-today-gmp-signals-56-listing-gains/articleshow/133749705.cms",
-        "resumo": "The IPO, which was open for subscription from August 28 to September 1, received an overwhelming response across investor categories. Overall, the issue was subscribed 135.88 times. Retail investors subscribed 39.64 times their allotted portion, while Non-Ins…",
-        "imagem": "https://img.etimg.com/thumb/msid-133749788,width-1200,height-630,imgsize-2343596,overlay-etmarkets/articleshow.jpg"
-    },
-    {
-        "titulo": "Cloudflare taps OpenAI’s cyber models to find and block code flaws",
-        "fonte": "SiliconANGLE News",
-        "autor": "Duncan Riley",
-        "data": "2026-09-03",
-        "url": "https://siliconangle.com/2026/09/03/cloudflare-taps-openais-cyber-models-to-find-and-block-code-flaws/",
-        "resumo": "Cloudflare Inc. today opened early access to Vulnerability Discovery and Remediation, a service that uses OpenAI Group PBC’s cybersecurity models to find software flaws in customer applications and block attacks on them at the network edge. The service runs i…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/cloudflarevulndiscoveryremediation.png"
-    },
-    {
-        "titulo": "OpenAI launches GPT-6 Astra with hacking risks in check",
-        "fonte": "Android Central",
-        "autor": "techkritiko@gmail.com (Jay Bonggolto) , Jay Bonggolto",
-        "data": "2026-09-03",
-        "url": "https://www.androidcentral.com/apps-software/ai/openai-launches-gpt-6-astra-with-hacking-risks-in-check",
-        "resumo": "OpenAI’s GPT-6 Astra is here, and its cyber skills are raising serious safety questions.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/86RNLuzTQWyWisogCQTkdG-1390-80.jpg"
-    },
-    {
-        "titulo": "The Business Accenture Now Mentions In Passing",
-        "fonte": "Trefis",
-        "autor": "Trefis Team",
-        "data": "2026-09-03",
-        "url": "https://www.trefis.com/articles/614227/the-business-accenture-now-mentions-in-passing/2026-09-03",
-        "resumo": "Accenture (ACN) is redirecting where its next growth comes from, and the business underneath is in decent shape. What deserves a second look is what got left...",
-        "imagem": "https://s.yimg.com/lo/mysterio/api/ff044163a4ee86c31e216004ed6ba7796b1bfd71fed404d5f0c8de8d89c6038e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2Faec1911f7df19eee11f9c07efd02521d.jpg"
     }
 ]
