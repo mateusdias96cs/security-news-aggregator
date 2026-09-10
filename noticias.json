@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Dark-Moon v1.4.0",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-09-08",
-        "url": "https://kitploit.com/en/posts/github-ascit31-dark-moon-v140",
-        "resumo": "Autonomous AI pentesting engine, continuous offensive security across web, cloud, AD &amp; Kubernetes. Agentic reasoning + real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts, creds or paths (determ…",
-        "imagem": "https://assets.kitploit.com/production/public/tools/42241/a6c09be49941b1844e75087bff9ea1ff5c266216f8ed1445e2edad8a6effdbce.png"
-    },
-    {
-        "titulo": "A $320 Million Hack Exposes the Cracks in Crypto’s Plumbing",
-        "fonte": "Yahoo Entertainment",
-        "autor": "Suvashree Ghosh",
-        "data": "2026-09-08",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/320-million-hack-exposes-cracks-121936077.html",
-        "resumo": "The $320 million hack of the Bitcoin-linked Liquid Network is another dent to crypto’s reputation as the industry tries to convince banks and institutional i...",
-        "imagem": "https://s.yimg.com/lo/mysterio/api/0dc0b9c0b3c9a6cf0acfaa81313a51bd85942f8cfac26a65f4f220f8f7cc44a0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F6d7c72c0389420ca905a519ace1c4c66.jpg"
-    },
-    {
-        "titulo": "Move From Strategy To Execution With Hands-On Workshops At Security &amp; Risk Forum",
-        "fonte": "Forrester.com",
-        "autor": "Forrester",
-        "data": "2026-09-08",
-        "url": "https://www.forrester.com/blogs/move-from-strategy-to-execution-with-hands-on-workshops-at-security-risk-forum/",
-        "resumo": "AI adoption is accelerating, but many security teams still lack the governance, operational foundations, data controls, and workforce strategies needed to scale it safely. Join hands-on workshops at Security &amp; Risk Forum to tackle real-world implementation ch…",
-        "imagem": "https://go.forrester.com/wp-content/uploads/2026/08/2026_sr_forum_blog_workshop_image.jpg"
-    },
-    {
-        "titulo": "Black Duck Joins Anthropic&#x27;s Project Glasswing",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-09-08",
-        "url": "https://www.prnewswire.com/news-releases/black-duck-joins-anthropics-project-glasswing-302869209.html",
-        "resumo": "Black Duck has been selected for Project Glasswing, joining the initiative to help secure the world&#x27;s most critical software for the AI era BURLINGTON, Mass., Sept. 8, 2026 /PRNewswire/ -- Black Duck®, the leader in AI-powered application security, today anno…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1603871/Black-Duck-Logo.jpg?id=OA2928797&p=facebook"
-    },
-    {
-        "titulo": "CareCam Pro IP Cameras",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-08",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-251-01",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to take full control of the device. The following versions of CareCam Pro IP Cameras are affected: ANJIA AJL33PC0801 Firmware linux_linux_202008261138_svn13796_/_…",
+        "titulo": "LTM Collaborates with IBM and Red Hat on Lightwell to Advance AI-Driven Open-Source Software Remediation",
+        "fonte": "Financial Post",
+        "autor": "Business Wire",
+        "data": "2026-09-09",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ltm-collaborates-with-ibm-and-red-hat-on-lightwell-to-advance-ai-driven-open-source-software-remediation",
+        "resumo": "Strengthens software supply chains by helping enterprises transform vulnerability discovery into scalable remediation outcomes MUMBAI, India — LTM, the Business Creativity partner to the world’s largest enterprises, today announced that it has collaborated wi…",
         "imagem": ""
     },
     {
-        "titulo": "GitLab Warns That AI Agent Sandboxes Are Only as Secure as Their Network Access",
-        "fonte": "InfoQ.com",
-        "autor": "Craig Risi",
-        "data": "2026-09-08",
-        "url": "https://www.infoq.com/news/2026/09/gitlab-ai-sandbox-access/",
-        "resumo": "GitLab warns that isolating an AI coding agent in a sandbox does not necessarily make the agent safe. In a new security analysis, the company describes an internal evaluation in which an AI agent escaped its sandbox by exploiting a vulnerable package proxy th…",
-        "imagem": "https://res.infoq.com/news/2026/09/gitlab-ai-sandbox-access/en/headerimage/generatedHeaderImage-1788446396087.jpg"
+        "titulo": "Zscaler Agentic SOC combines AI agents with zero trust telemetry",
+        "fonte": "Help Net Security",
+        "autor": "Industry News",
+        "data": "2026-09-09",
+        "url": "https://www.helpnetsecurity.com/2026/09/09/zscaler-agentic-soc-solution/",
+        "resumo": "Zscaler has announced Zscaler Agentic SOC, a new approach to security operations built to proactively reduce exposures, scale human expertise and stop AI-driven attacks at machine speed. Simply layering in AI capabilities onto the existing security stack will…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp"
     },
     {
-        "titulo": "Merlin Names Torq a Key Partner for Federal AI SOC Modernization",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-09-08",
-        "url": "https://www.prnewswire.com/news-releases/merlin-names-torq-a-key-partner-for-federal-ai-soc-modernization-302870578.html",
-        "resumo": "Partnership brings agentic AI-powered security operations to federal agencies while accelerating Torq&#x27;s path to FedRAMP authorization TYSONS CORNER, VA, Sept. 8, 2026 /PRNewswire/ -- Merlin, a trusted technology partner known for deep government expertise and…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1733885/Merlin-Group-Logo.jpg?id=OA2931724&p=facebook"
-    },
-    {
-        "titulo": "Sensex today | Stock Market Highlights: Sensex down 555 pts, Nifty ends at 23,635 as crude oil nears $100",
-        "fonte": "BusinessLine",
-        "autor": "Team BL, KS Badri Narayanan",
-        "data": "2026-09-08",
-        "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-8th-september-2026/article71441098.ece",
-        "resumo": "Sensex, Nifty, Share Prices Highlights: Indian shares extended losses on Tuesday ​as oil surged toward $100 a barrel on escalating Middle East ‌tensions, while elevated volatility deepened declines in the Nifty ​during the closing auction for the ⁠weekly expi…",
-        "imagem": "https://bl-i.thgim.com/public/incoming/oet1zt/article71018310.ece/alternates/LANDSCAPE_1200/stock%20market%20graph.jpg"
-    },
-    {
-        "titulo": "Microsoft breaks another patch Tuesday record",
-        "fonte": "The Verge",
-        "autor": "Tom Warren",
-        "data": "2026-09-08",
-        "url": "https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad",
-        "resumo": "Engineers at Microsoft typically enjoy a quieter summer to take vacations and spend time with family, as is common at many companies. But this year, the season has been unusually busy for Windows and security engineers, thanks to new AI models that are discov…",
-        "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK095_MICROSOFT_2_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-        "titulo": "ClickFix moves into the browser: Cryptocurrency theft with Google-hosted C2",
-        "fonte": "Talosintelligence.com",
-        "autor": "Sean Gallagher",
-        "data": "2026-09-08",
-        "url": "https://blog.talosintelligence.com/clickfix-moves-into-the-browser/",
-        "resumo": "Cisco Talos is tracking a cryptocurrency-stealing campaign that abuses the Google Visualization API for command and control (C2), retrieving obfuscated JavaScript from a publicly published Google Sheets document and injecting it into the victim&#x27;s browser sess…",
-        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/09/threat_spotlight.jpg"
-    },
-    {
-        "titulo": "ClickFix moves into the browser and onto WebDAV, Cisco Talos finds",
-        "fonte": "SiliconANGLE News",
-        "autor": "Duncan Riley",
-        "data": "2026-09-08",
-        "url": "https://siliconangle.com/2026/09/08/clickfix-moves-into-the-browser-and-onto-webdav-cisco-talos-finds/",
-        "resumo": "Cisco Systems Inc.’s Talos Threat Intelligence group today detailed two ClickFix campaigns that push the technique past the copy-and-paste PowerShell prompt it is known for, one that never touches the operating system at all and one that ends in a stealer plu…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/clickfixnewcampaigns.png"
-    },
-    {
-        "titulo": "Wider Europe Briefing: New Russia Sanctions And The Slovak Veto",
-        "fonte": "Radio Free Europe/ Radio Liberty",
-        "autor": "Rikard Jozwiak",
-        "data": "2026-09-08",
-        "url": "https://www.rferl.org/a/wider-europe-jozwiak-russia-sanctions-north-korea/33849431.html",
-        "resumo": "This week&#x27;s newsletter drills down on Russia sanctions, a Slovak veto, and more EU money to protect Baltic infrastructure.",
-        "imagem": "https://gdb.rferl.org/ED88FE18-9ABC-4487-97C9-4A6BDD52B0D7_w1200_h630.jpg"
-    },
-    {
-        "titulo": "MikroTik router flaws allow takeover without a password",
+        "titulo": "Microsoft fixes record 964 flaws, including 2 exploited zero-days",
         "fonte": "Malwarebytes.com",
         "autor": "Pieter Arntz",
-        "data": "2026-09-08",
-        "url": "https://www.malwarebytes.com/blog/news/2026/09/mikrotik-routers-can-be-taken-over-without-password",
-        "resumo": "Attackers are exploiting critical RouterOS flaws to take control of routers with SSH exposed to the internet.",
-        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/09/mikrotik-1.png"
+        "data": "2026-09-09",
+        "url": "https://www.malwarebytes.com/blog/news/2026/09/microsoft-fixes-record-964-flaws-including-2-exploited-zero-days",
+        "resumo": "Microsoft’s September 2026 Patch Tuesday sets a new record number of vulnerabilities and includes two actively exploited zero-days",
+        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2022/01/microsoft_header.png"
     },
     {
-        "titulo": "Raynet positioned as a Leader in the SPARK Matrix™: Unified Endpoint Management (UEM), 2026 by QKS Group",
-        "fonte": "PR Newswire UK",
-        "autor": "",
-        "data": "2026-09-08",
-        "url": "https://www.prnewswire.co.uk/news-releases/raynet-positioned-as-a-leader-in-the-spark-matrix-unified-endpoint-management-uem-2026-by-qks-group-302872117.html",
-        "resumo": "The QKS Group SPARK Matrix™ provides competitive analysis &amp; ranking of the leading Unified Endpoint Management (UEM) vendors. Raynet, with its comprehensive platform, has received strong ratings across technology excellence and customer impact. PUNE, India, S…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1596754/QKS-Group-Logo.jpg?id=OA2934973&p=facebook"
+        "titulo": "BreachX launches Typhon, a group of cybersecurity AI models",
+        "fonte": "BusinessLine",
+        "autor": "BL Mumbai Bureau",
+        "data": "2026-09-09",
+        "url": "https://www.thehindubusinessline.com/info-tech/breachx-launches-typhon-a-group-of-cybersecurity-ai-models/article71446672.ece",
+        "resumo": "Governments, defence organisations and enterprises are also placing greater emphasis on maintaining control over sensitive data, source code and security operations within their own infrastructure",
+        "imagem": "https://bl-i.thgim.com/public/incoming/tk353a/article71423396.ece/alternates/LANDSCAPE_1200/iStock-1452604857.jpg"
     },
     {
-        "titulo": "Raynet positioned as a Leader in the SPARK Matrix™: Unified Endpoint Management (UEM), 2026 by QKS Group",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-09-08",
-        "url": "https://www.prnewswire.com/news-releases/raynet-positioned-as-a-leader-in-the-spark-matrix-unified-endpoint-management-uem-2026-by-qks-group-302872109.html",
-        "resumo": "The QKS Group SPARK Matrix™ provides competitive analysis &amp; ranking of the leading Unified Endpoint Management (UEM) vendors. Raynet, with its comprehensive platform, has received strong ratings across technology excellence and customer impact. PUNE, India, S…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1596754/QKS-Group-Logo.jpg?id=OA2934951&p=facebook"
-    },
-    {
-        "titulo": "Bitcoin’s latest hack puts key crypto vulnerability in spotlight",
-        "fonte": "Bloomberg",
-        "autor": "Bloomberg",
-        "data": "2026-09-08",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-08/bitcoin-s-latest-hack-puts-key-crypto-vulnerability-in-spotlight",
-        "resumo": "Ongoing hacks are exposing decentralization — once touted as one of crypto’s greatest strengths — as a vulnerability",
-        "imagem": "https://bl-i.thgim.com/public/incoming/z3cjhx/article71374796.ece/alternates/LANDSCAPE_1200/2026-07-01T070532Z_1378868067_RC22PGAE5QKF_RTRMADP_3_CRYPTO-BITCOIN-CITIGROUP.JPG"
-    },
-    {
-        "titulo": "Cybersecurity jobs available right now: September 8, 2026",
+        "titulo": "Securin Platform helps security teams prove when attack paths are closed",
         "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-09-08",
-        "url": "https://www.helpnetsecurity.com/2026/09/08/cybersecurity-jobs-available-right-now-september-8-2026/",
-        "resumo": "CISO AudioCodes | Israel | Hybrid – View job details As a CISO, you will lead security strategy, governance, and risk management across SaaS, managed services, and customer-hosted environments. You will oversee security controls, incident response, Secure SDL…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140416/cybersecurity_jobs-1-1500.webp"
+        "autor": "Industry News",
+        "data": "2026-09-09",
+        "url": "https://www.helpnetsecurity.com/2026/09/09/securin-exposure-management-platform/",
+        "resumo": "Securin has announced the general availability of the Securin Platform, an AI-native Preemptive Exposure Management platform designed to answer three questions security teams struggle with every day: What can attackers actually exploit? What should we fix fir…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp"
     },
     {
-        "titulo": "Hundreds of old, vulnerable Exchange servers remain in Australia",
-        "fonte": "iTnews",
-        "autor": "",
-        "data": "2026-09-08",
-        "url": "https://www.itnews.com.au/news/hundreds-of-old-vulnerable-exchange-servers-remain-in-australia-628758",
-        "resumo": "Proof-of-concept code available for flaw that lets attackers take control of mailboxes.",
-        "imagem": "https://i.nextmedia.com.au/News/digital_mailbox_inbox_email.jpg"
+        "titulo": "September 2026 Patch Tuesday: Record patch count, 2 zero-days, and a SigRed successor",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-09-09",
+        "url": "https://www.helpnetsecurity.com/2026/09/09/september-2026-patch-tuesday-zero-days-sigred-successor/",
+        "resumo": "September 2026 Patch Tuesday is here, with Microsoft delivering another record-breaking number of patches, including those for two vulnerabilities that have been exploited as zero-days. Another “new normal” is the anonymous security researcher Nightmare Eclip…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/12193553/patch-tuesday-2-1500.webp"
     },
     {
-        "titulo": "Hundreds of old, vulnerable Exchange servers remain in Australia",
-        "fonte": "iTnews",
-        "autor": "",
-        "data": "2026-09-08",
-        "url": "https://www.itnews.com.au/news/hundreds-of-old-vulnerable-exchange-servers-remain-in-australia-628758",
-        "resumo": "Proof-of-concept code available for flaw that lets attackers take control of mailboxes.",
-        "imagem": "https://i.nextmedia.com.au/News/digital_mailbox_inbox_email.jpg"
+        "titulo": "Chaotic Eclipse Released ShieldCrash, A PoC For Microsoft Defender Zero-Day",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-09-09",
+        "url": "https://securityaffairs.com/198726/security/chaotic-eclipse-released-shieldcrash-a-poc-for-microsoft-defender-zero-day.html",
+        "resumo": "The researcher Chaotic Eclipse released ShieldCrash, a PoC exploit for a Microsoft Defender Zero-Day vulnerability. Security researcher Chaotic Eclipse, also known as INFINITE NIGHTMARE, MSNightmare and Nightmare-Eclipse, released a new zero-day exploit targe…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/09/image-26.png"
     },
     {
-        "titulo": "Bitcoin hack drains $320 mn from crypto network in latest security breach",
-        "fonte": "Business Standard",
+        "titulo": "CyberStrikeAI v1.7.18",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-09-09",
+        "url": "https://kitploit.com/en/posts/github-ed1s0nz-cyberstrikeai-v1718",
+        "resumo": "The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/8/7515842e367d7b0acd1e7a946949289d1a9f14edd3dda50f803e171d3de0034d.png"
+    },
+    {
+        "titulo": "AI-Infra-Guard: Open-source security scanner for AI systems",
+        "fonte": "0.138",
+        "autor": "Mirko Zorz",
+        "data": "2026-09-09",
+        "url": "https://10.51.0.138/2026/09/09/ai-infra-guard-open-source-security-scanner-ai-systems/",
+        "resumo": "Tencent’s Zhuque Lab built AI-Infra-Guard, an open-source security scanner for AI systems. It fingerprints running services such as Ollama, vLLM and ComfyUI and checks them against more than 1,600 known CVEs, inspects MCP servers and agent skills across 14 ca…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/08101634/ai-infra-guard-1500.webp"
+    },
+    {
+        "titulo": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-09-09",
+        "url": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
+        "resumo": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild. These include 723 flaws in Windows, 111 in Offi…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDwCsAOIvmVbfeFtRi5yvEPa3_Nm-rryDAF-CdttSghokSjh6oKz-ECapacQiIBNW9zsIh6LQ8B61LgpR2di6819PHU1vrIT6Mj4xKihzGcz29KydoYVw8lFKbrAXYs2MNv-FMRS8GnrmlfVQTAZ0ondViX8N9uy_dCgJywMQMnXlWBmzrXw9BR2zZ0HWo/s1700-nu-rw-lo-l85-e365/ms-windows.jpg"
+    },
+    {
+        "titulo": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-09-09",
+        "url": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to …",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMxDWMjpVE5kkeTzvYQ-YAyekZZ6U6CzCYj462wNRwiMna-44-sJo8kY5Nz2-f_D1N7c0lkhR8Hr2BoAvsP6vVb7ea_R5s-UxdKkwnv6apOIM8sIxEoBRQXek7U5lrR0VaP9q_W8hFULVW7qyvskPiGvZN9wyC_FAUm23HdPcLw_wsmfU0-GoQ3PVkNNyJ/s1700-nu-rw-lo-l85-e365/n-able.jpg"
+    },
+    {
+        "titulo": "ctf-tracker",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-09-09",
+        "url": "https://kitploit.com/en/tools/github/xxdndxx/ctf-tracker/",
+        "resumo": "Offline-first dashboard for tracking CTF machines and labs, with attack lifecycle management, dynamic reverse shell builder, and embedded writeup studio for HTB and THM.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/54521/5ee0850d4f3f5f07fe4ffcb9d4f0d97e5f11493727ec4baf163b40fe846e2e9e-social-v1.webp"
+    },
+    {
+        "titulo": "Indian AI developers enhance security architecture to prevent AI from going rogue",
+        "fonte": "BusinessLine",
+        "autor": "Sanjana B , Vallari Sanzgiri &amp;",
+        "data": "2026-09-09",
+        "url": "https://www.thehindubusinessline.com/info-tech/indian-ai-developers-enhance-security-architecture-to-prevent-ai-from-going-rogue/article71443421.ece",
+        "resumo": "The shift towards more autonomous systems is increasing the need for stronger safeguards, independent controls and India-specific AI safety measures",
+        "imagem": "https://bl-i.thgim.com/public/incoming/k500ap/article71445458.ece/alternates/LANDSCAPE_1200/Indian-AI-develG3HGGMHSQ.4.jpg.jpg"
+    },
+    {
+        "titulo": "Visa CEO Says AI Shopping Has Arrived but Agentic Payments Haven’t",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-09-09",
+        "url": "https://www.pymnts.com/visa/2026/visa-ceo-says-ai-shopping-has-arrived-but-agentic-payments-havent/",
+        "resumo": "Artificial intelligence may be changing where consumers decide what to buy before it changes where they pay for it. “We are seeing adoption for shopping, but not yet for autonomous payments,” Visa CEO Ryan McInerney said Tuesday (Sept. 8) at the Goldman Sachs…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/09/Visa-AI-agents-1.jpg"
+    },
+    {
+        "titulo": "Microsoft breaks Patch Tuesday record with 974-CVE deluge",
+        "fonte": "Theregister.com",
+        "autor": "Jessica Lyons",
+        "data": "2026-09-09",
+        "url": "https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160",
+        "resumo": "Adobe also brought goodies to the patch party and they deserve immediate attention",
+        "imagem": "https://image.theregister.com/5295166.jpg?imageId=5295166&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+        "titulo": "Yes, You Too Can Fall for a Scam",
+        "fonte": "Psychology Today",
+        "autor": "Bonnie Comfort Ph.D.",
+        "data": "2026-09-08",
+        "url": "https://www.psychologytoday.com/us/blog/the-complexities-of-relationships/202609/yes-you-too-can-fall-for-a-scam",
+        "resumo": "Protecting yourself from scams requires not only cybersecurity hygiene but also monitoring your stress level and vulnerability in the moment. Pause before choosing your response.",
+        "imagem": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/pexels-silverkblack-36713018.jpg?itok=WZhlm7V8"
+    },
+    {
+        "titulo": "Claude Mythos 5 is coming to Tenable One, powering the new “Adversary View”",
+        "fonte": "Tenable.com",
+        "autor": "Eric Doerr",
+        "data": "2026-09-08",
+        "url": "https://www.tenable.com/blog/tenable-one-claude-mythos-5-adversary-view-ai-exposure-management",
+        "resumo": "Tenable is bringing Anthropic’s Claude Mythos 5 into our enterprise security offerings. Adding frontier adversarial reasoning to the Tenable One Exposure Management Platform will help customers better anticipate how attackers could breach their environments a…",
+        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/Claude%20Mythos%205%20is%20coming%20to%20Tenable%20One%2C%20powering%20the%20new%20%E2%80%9CAdversary%20View%E2%80%9D_2.png?itok=Vni2UQvI"
+    },
+    {
+        "titulo": "$320 million Bitcoin-linked hack exposes cracks in crypto’s plumbing",
+        "fonte": "Medianewsgroup.com",
         "autor": "Bloomberg",
         "data": "2026-09-08",
-        "url": "https://www.business-standard.com/markets/cryptocurrency/bitcoin-hack-drains-320-mn-from-crypto-network-in-latest-security-breach-126090800109_1.html",
-        "resumo": "Roughly 4,000 of the 4,200 Bitcoin held in a wallet used by Liquid Network were taken, the platform operator said",
-        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/08/thumb/featurecrop/1200X628/1788836942-4062.jpg"
+        "url": "https://wirehub.medianewsgroup.com/2026/09/08/a-320-million-hack-exposes-the-cracks-in-cryptos-plumbing/",
+        "resumo": "About $1.4 billion has been taken by hackers so far in 2026 across 250 attacks, compared with $2.7 billion over 146 attacks in 2025, according to DefiLlama data.",
+        "imagem": "https://www.ocregister.com/wp-content/uploads/2026/09/OCR-Z-CRYPTO-HACK-0913.jpg?w=1999&h=1333"
+    },
+    {
+        "titulo": "Indian AI developers enhancing security architectures to prevent rogue behaviors",
+        "fonte": "BusinessLine",
+        "autor": "Sanjana B , Vallari Sanzgiri &amp;",
+        "data": "2026-09-08",
+        "url": "https://www.thehindubusinessline.com/info-tech/indian-ai-developers-enhancing-security-architectures-to-prevent-rogue-behaviors/article71444121.ece",
+        "resumo": "Indian AI developers are enhancing security architectures to prevent rogue behaviors, prioritizing safety in foundational model design and deployment.",
+        "imagem": "https://bl-i.thgim.com/public/incoming/wymtgz/article71444118.ece/alternates/LANDSCAPE_1200/IIT-Madras-BodGEMGG4T5F.4.jpg.jpg"
+    },
+    {
+        "titulo": "This AI-Developed Computer Worm Could Have Hijacked a Billion Accounts",
+        "fonte": "PCMag.com",
+        "autor": "Michael Kan",
+        "data": "2026-09-08",
+        "url": "https://uk.pcmag.com/ai/167146/this-ai-developed-computer-worm-could-have-hijacked-a-billion-accounts",
+        "resumo": "The demo attack against WeChat highlights the disturbing possibility that an AI-developed computer worm could be unleashed to hack devices globally. A cybersecurity company used AI to quickly develop a computer worm capable of hacking over a billion accounts …",
+        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/t/this-ai-de/this-ai-developed-computer-worm-could-have-hijacked-a-billio_rdhn.1200.jpg"
     }
 ]
