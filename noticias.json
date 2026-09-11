@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "LTM Collaborates with IBM and Red Hat on Lightwell to Advance AI-Driven Open-Source Software Remediation",
-        "fonte": "Financial Post",
-        "autor": "Business Wire",
-        "data": "2026-09-09",
-        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ltm-collaborates-with-ibm-and-red-hat-on-lightwell-to-advance-ai-driven-open-source-software-remediation",
-        "resumo": "Strengthens software supply chains by helping enterprises transform vulnerability discovery into scalable remediation outcomes MUMBAI, India — LTM, the Business Creativity partner to the world’s largest enterprises, today announced that it has collaborated wi…",
+        "titulo": "Researchers used AI to build a WeChat worm that spreads through phone calls",
+        "fonte": "The Next Web",
+        "autor": "Ana Maria Constantin",
+        "data": "2026-09-10",
+        "url": "https://thenextweb.com/news/wechat-worm-ai-calif-tencent-zero-click",
+        "resumo": "Researchers at Calif, a Palo Alto security company, say they used AI to build a worm that spreads through WeChat calls. It takes over an account while the phone is still ringing. It then uses that account to call the victim’s contacts and repeat the trick. Te…",
+        "imagem": "https://media.thenextweb.com/2026/09/smartphone-incoming-call-notebook-desk.jpg"
+    },
+    {
+        "titulo": "AVEVA Pipeline Integrity Monitor",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-09-10",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-253-01",
+        "resumo": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to disclose information, brute-force hashes, or run arbitrary code in a browser session. The following versions of AVEVA Pipeline Integrity Monitor are affected: &lt;…",
         "imagem": ""
     },
     {
-        "titulo": "Zscaler Agentic SOC combines AI agents with zero trust telemetry",
-        "fonte": "Help Net Security",
-        "autor": "Industry News",
-        "data": "2026-09-09",
-        "url": "https://www.helpnetsecurity.com/2026/09/09/zscaler-agentic-soc-solution/",
-        "resumo": "Zscaler has announced Zscaler Agentic SOC, a new approach to security operations built to proactively reduce exposures, scale human expertise and stop AI-driven attacks at machine speed. Simply layering in AI capabilities onto the existing security stack will…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp"
+        "titulo": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-09-10",
+        "url": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
+        "resumo": "A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds of instances. According to independent …",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkLW3i6mB4uE2g7Ze6CDAess3UTTeol7YmRP-N3uTkLJHPglZc0BHvTlESyulvcTp05ObPwuGY5XHqV9q599pqLmK-ypamAPNUdHa9y-34Q4IEE3EBId9UrN9L0J3zK1TTf1Atovhkz51Gk_2gul7DmjvLmJd7BbwgqMhmVODTiQUuqu_IdFFGJt0WAiC_/s1700-nu-rw-lo-l85-e365/paper.jpg"
     },
     {
-        "titulo": "Microsoft fixes record 964 flaws, including 2 exploited zero-days",
-        "fonte": "Malwarebytes.com",
-        "autor": "Pieter Arntz",
-        "data": "2026-09-09",
-        "url": "https://www.malwarebytes.com/blog/news/2026/09/microsoft-fixes-record-964-flaws-including-2-exploited-zero-days",
-        "resumo": "Microsoft’s September 2026 Patch Tuesday sets a new record number of vulnerabilities and includes two actively exploited zero-days",
-        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2022/01/microsoft_header.png"
+        "titulo": "Data Sovereignty in the AI Era: Who Holds the Keys?",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Jihae Lee",
+        "data": "2026-09-10",
+        "url": "https://www.infosecurity-magazine.com/blogs/data-sovereignty-ai-holds-keys/",
+        "resumo": "In an era of AI-driven attacks, organizations must retain independent control over encryption policies and keys",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/09e454fd-f958-48d7-a1d7-c7ddd32fd9b0.jpeg"
     },
     {
-        "titulo": "BreachX launches Typhon, a group of cybersecurity AI models",
-        "fonte": "BusinessLine",
-        "autor": "BL Mumbai Bureau",
-        "data": "2026-09-09",
-        "url": "https://www.thehindubusinessline.com/info-tech/breachx-launches-typhon-a-group-of-cybersecurity-ai-models/article71446672.ece",
-        "resumo": "Governments, defence organisations and enterprises are also placing greater emphasis on maintaining control over sensitive data, source code and security operations within their own infrastructure",
-        "imagem": "https://bl-i.thgim.com/public/incoming/tk353a/article71423396.ece/alternates/LANDSCAPE_1200/iStock-1452604857.jpg"
-    },
-    {
-        "titulo": "Securin Platform helps security teams prove when attack paths are closed",
-        "fonte": "Help Net Security",
-        "autor": "Industry News",
-        "data": "2026-09-09",
-        "url": "https://www.helpnetsecurity.com/2026/09/09/securin-exposure-management-platform/",
-        "resumo": "Securin has announced the general availability of the Securin Platform, an AI-native Preemptive Exposure Management platform designed to answer three questions security teams struggle with every day: What can attackers actually exploit? What should we fix fir…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp"
-    },
-    {
-        "titulo": "September 2026 Patch Tuesday: Record patch count, 2 zero-days, and a SigRed successor",
+        "titulo": "Cisco FMC bugs exploited by nation-state and ransomware actors (CVE-2026-20079, CVE-2026-20316)",
         "fonte": "Help Net Security",
         "autor": "Zeljka Zorz",
-        "data": "2026-09-09",
-        "url": "https://www.helpnetsecurity.com/2026/09/09/september-2026-patch-tuesday-zero-days-sigred-successor/",
-        "resumo": "September 2026 Patch Tuesday is here, with Microsoft delivering another record-breaking number of patches, including those for two vulnerabilities that have been exploited as zero-days. Another “new normal” is the anonymous security researcher Nightmare Eclip…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/12193553/patch-tuesday-2-1500.webp"
+        "data": "2026-09-10",
+        "url": "https://www.helpnetsecurity.com/2026/09/10/cisco-fmc-exploited-cve-2026-20079-cve-2026-20316/",
+        "resumo": "State-sponsored and financially-motivated attackers are actively exploiting CVE-2026-20079, a critical authentication bypass vulnerability in Cisco Secure Firewall Management Center (FMC), which is used for centrally managing multiple Cisco Secure Firewall de…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/01/23135631/cisco-flow.webp"
     },
     {
-        "titulo": "Chaotic Eclipse Released ShieldCrash, A PoC For Microsoft Defender Zero-Day",
+        "titulo": "Eclipse Foundation Releases Free Toolkit to Help SMEs Prepare for the EU Cyber Resilience Act",
+        "fonte": "Eclipse.org",
+        "autor": "Natalia Loungou",
+        "data": "2026-09-10",
+        "url": "https://newsroom.eclipse.org/news/announcements/eclipse-foundation-releases-free-toolkit-help-smes-prepare-eu-cyber-resilience",
+        "resumo": "Eclipse Foundation Releases Free Toolkit to Help SMEs Prepare for the EU Cyber Resilience Act Natalia Loungou Thu, 2026-09-10 07:00 BRUSSELS – 10 September 2026 – The Eclipse Foundation , one of the world’s largest open source software foundations, tod…",
+        "imagem": "https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-400x400.png"
+    },
+    {
+        "titulo": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-09-10",
+        "url": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to a…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7j6Sm8OqDeYzrbb5faLBuDOc0zIMlvfjiKbn1aCMpx_2iBl6gb3HhJhpbqU8SPajHUClJEXUwnFbY1DcubmzWeVaWCyGcHkw45rCYqU_4IFO_g4OwdyNrTFFK3l3YsXwfOWQj2QtW3UTeglKmyRJ4GvbVKMxLTByMgeZ7E0WWpxpi50qie2lx9DbCY9rr/s1700-nu-rw-lo-l85-e365/cisa-list.jpg"
+    },
+    {
+        "titulo": "A Republican senator is now investigating OpenAI over the Hugging Face incident",
+        "fonte": "The Next Web",
+        "autor": "Ana-Maria Stanciuc",
+        "data": "2026-09-10",
+        "url": "https://thenextweb.com/news/hawley-senate-probe-openai-hugging-face-16-questions",
+        "resumo": "Senator Josh Hawley has opened an investigation into the incident in which OpenAI’s models broke out of their test environment and compromised Hugging Face, giving the company until 1 October to answer 16 questions and hand over records of its policies and it…",
+        "imagem": "https://media.thenextweb.com/2026/09/Senator-Josh-Hawley.jpg"
+    },
+    {
+        "titulo": "AI Keystroke Hack, Dramatically Better AI Content, and Industry News",
+        "fonte": "Socialmediaexaminer.com",
+        "autor": "Michael Stelzner",
+        "data": "2026-09-10",
+        "url": "https://www.socialmediaexaminer.com/?p=280007",
+        "resumo": "Friday is almost here! Before you unplug, here&#x27;s one last round of insights and updates. Whether you read them now or save them for later, you won&#x27;t want to miss these. In today&#x27;s edition: The one character you should always type in a New AI Tool How to use A…",
+        "imagem": "https://www.socialmediaexaminer.com/wp-content/uploads/2018/11/NewBack.png"
+    },
+    {
+        "titulo": "Open Channels FM: Gold Eagle, AI Crawlers, and California Lawmakers Shake Up Open Source Security and Infrastructure",
+        "fonte": "Openchannels.fm",
+        "autor": "Bob Dunn",
+        "data": "2026-09-10",
+        "url": "https://openchannels.fm/gold-eagle-ai-crawlers-and-california-lawmakers-shake-up-open-source-security-and-infrastructure/",
+        "resumo": "Legal and technical systems struggle to keep pace with AI and open source development.",
+        "imagem": "https://i0.wp.com/openchannels.fm/wp-content/uploads/2026/09/Episode-799.jpg?resize=1200%2C720&quality=89&ssl=1"
+    },
+    {
+        "titulo": "The CRA Deadline Is Thursday. Smart Home AI Companies Are Flying Blind on Agent Compliance.",
+        "fonte": "Forkast.news",
+        "autor": "Mila Cohen",
+        "data": "2026-09-10",
+        "url": "https://forkast.news/the-cra-deadline-is-thursday-smart-home-ai-companies-are-flying-blind-on-agent-compliance-3/",
+        "resumo": "Thursday, September 11. That is when the EU Cyber Resilience Act starts requiring smart home companies to report actively exploited vulnerabilities and severe incidents to a brand-new regulatory platform. The timelines are unforgiving: 24-hour early warning, …",
+        "imagem": "https://forkast.news/wp-content/uploads/2026/09/apple-agent-home-absence-1024x572.jpg"
+    },
+    {
+        "titulo": "VPN Infrastructure Is Now the Authentication Gap’s Final Frontier",
+        "fonte": "Forkast.news",
+        "autor": "Heath Callahan",
+        "data": "2026-09-10",
+        "url": "https://forkast.news/vpn-infrastructure-is-now-the-authentication-gaps-final-frontier/",
+        "resumo": "A 15-day window separated the disclosure of CVE-2026-19490, a critical authentication bypass vulnerability in Citrix NetScaler ADC and NetScaler Gateway, and the first observed exploitation attempts. Disclosed on August 19, 2026, the vulnerability carries a C…",
+        "imagem": "https://forkast.news/wp-content/uploads/2026/09/vpn-auth-gap-reckoning-1024x572.jpg"
+    },
+    {
+        "titulo": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-09-10",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in December. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/09/18/WatchGuard_headpic.jpg"
+    },
+    {
+        "titulo": "U.S. CISA adds Microsoft Windows, N-able N-central, and Adobe flaws to its Known Exploited Vulnerabilities catalog",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
-        "data": "2026-09-09",
-        "url": "https://securityaffairs.com/198726/security/chaotic-eclipse-released-shieldcrash-a-poc-for-microsoft-defender-zero-day.html",
-        "resumo": "The researcher Chaotic Eclipse released ShieldCrash, a PoC exploit for a Microsoft Defender Zero-Day vulnerability. Security researcher Chaotic Eclipse, also known as INFINITE NIGHTMARE, MSNightmare and Nightmare-Eclipse, released a new zero-day exploit targe…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/09/image-26.png"
+        "data": "2026-09-10",
+        "url": "https://securityaffairs.com/198802/hacking/u-s-cisa-adds-microsoft-windows-n-able-n-central-and-adobe-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Microsoft Windows, N-able N-central, and Adobe flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnera…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
     },
     {
-        "titulo": "CyberStrikeAI v1.7.18",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-09-09",
-        "url": "https://kitploit.com/en/posts/github-ed1s0nz-cyberstrikeai-v1718",
-        "resumo": "The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/8/7515842e367d7b0acd1e7a946949289d1a9f14edd3dda50f803e171d3de0034d.png"
+        "titulo": "Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks",
+        "fonte": "Securityweek.com",
+        "autor": "Ionut Arghire",
+        "data": "2026-09-10",
+        "url": "https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/",
+        "resumo": "The high-severity, unauthenticated vulnerability tracked as CVE-2025-25249 was patched in January 2026. The post Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2024/06/fortinet.jpg"
     },
     {
-        "titulo": "AI-Infra-Guard: Open-source security scanner for AI systems",
-        "fonte": "0.138",
-        "autor": "Mirko Zorz",
-        "data": "2026-09-09",
-        "url": "https://10.51.0.138/2026/09/09/ai-infra-guard-open-source-security-scanner-ai-systems/",
-        "resumo": "Tencent’s Zhuque Lab built AI-Infra-Guard, an open-source security scanner for AI systems. It fingerprints running services such as Ollama, vLLM and ComfyUI and checks them against more than 1,600 known CVEs, inspects MCP servers and agent skills across 14 ca…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/08101634/ai-infra-guard-1500.webp"
+        "titulo": "AI adoption brings new security headaches for already stretched CISOs",
+        "fonte": "0.107",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-09-10",
+        "url": "https://10.51.0.107/2026/09/10/proofpoint-ciso-ai-security-risks-report/",
+        "resumo": "CISOs are taking on AI governance without a matching increase in resources or expertise, adding to an already broad remit spanning data protection, identity, resilience and compliance, according to Proofpoint’s 2026 Voice of the CISO report. The Al mandate ex…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/01/16143631/ciso-1500-2.webp"
     },
     {
-        "titulo": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-09-09",
-        "url": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
-        "resumo": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild. These include 723 flaws in Windows, 111 in Offi…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDwCsAOIvmVbfeFtRi5yvEPa3_Nm-rryDAF-CdttSghokSjh6oKz-ECapacQiIBNW9zsIh6LQ8B61LgpR2di6819PHU1vrIT6Mj4xKihzGcz29KydoYVw8lFKbrAXYs2MNv-FMRS8GnrmlfVQTAZ0ondViX8N9uy_dCgJywMQMnXlWBmzrXw9BR2zZ0HWo/s1700-nu-rw-lo-l85-e365/ms-windows.jpg"
+        "titulo": "Citrix NetScaler Authentication Bypass Under Active Exploitation – VPN Infrastructure Joins the Authentication Gap",
+        "fonte": "Forkast.news",
+        "autor": "Heath Callahan",
+        "data": "2026-09-10",
+        "url": "https://forkast.news/citrix-netscaler-authentication-bypass-under-active-exploitation-vpn-infrastructure-joins-the-authentication-gap/",
+        "resumo": "A 15-day window separated the disclosure of CVE-2026-19490, a critical authentication bypass vulnerability in Citrix NetScaler ADC and NetScaler Gateway, and the first observed exploitation attempts. Disclosed on August 19, 2026, the vulnerability carries a C…",
+        "imagem": "https://forkast.news/wp-content/uploads/2026/09/citrix-netscaler-auth-bypass-1024x572.jpg"
     },
     {
-        "titulo": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
+        "titulo": "The CRA Deadline Is Thursday. Smart Home AI Companies Are Flying Blind on Agent Compliance.",
+        "fonte": "Forkast.news",
+        "autor": "Mila Cohen",
         "data": "2026-09-09",
-        "url": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to …",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMxDWMjpVE5kkeTzvYQ-YAyekZZ6U6CzCYj462wNRwiMna-44-sJo8kY5Nz2-f_D1N7c0lkhR8Hr2BoAvsP6vVb7ea_R5s-UxdKkwnv6apOIM8sIxEoBRQXek7U5lrR0VaP9q_W8hFULVW7qyvskPiGvZN9wyC_FAUm23HdPcLw_wsmfU0-GoQ3PVkNNyJ/s1700-nu-rw-lo-l85-e365/n-able.jpg"
+        "url": "https://forkast.news/the-cra-deadline-is-thursday-smart-home-ai-companies-are-flying-blind-on-agent-compliance-2/",
+        "resumo": "Thursday, September 11. That is when the EU Cyber Resilience Act starts requiring smart home companies to report actively exploited vulnerabilities and severe incidents to a brand-new regulatory platform. The timelines are unforgiving: 24-hour early warning, …",
+        "imagem": "https://forkast.news/wp-content/uploads/2026/09/eu-cra-agent-gap-deadline-1-1024x572.jpg"
     },
     {
-        "titulo": "ctf-tracker",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
+        "titulo": "The CRA Deadline Is Thursday. Smart Home AI Companies Are Flying Blind on Agent Compliance.",
+        "fonte": "Forkast.news",
+        "autor": "Mila Cohen",
         "data": "2026-09-09",
-        "url": "https://kitploit.com/en/tools/github/xxdndxx/ctf-tracker/",
-        "resumo": "Offline-first dashboard for tracking CTF machines and labs, with attack lifecycle management, dynamic reverse shell builder, and embedded writeup studio for HTB and THM.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/54521/5ee0850d4f3f5f07fe4ffcb9d4f0d97e5f11493727ec4baf163b40fe846e2e9e-social-v1.webp"
+        "url": "https://forkast.news/the-cra-deadline-is-thursday-smart-home-ai-companies-are-flying-blind-on-agent-compliance/",
+        "resumo": "Thursday, September 11. That is when the EU Cyber Resilience Act starts requiring smart home companies to report actively exploited vulnerabilities and severe incidents to a brand-new regulatory platform. The timelines are unforgiving: 24-hour early warning, …",
+        "imagem": "https://forkast.news/wp-content/uploads/2026/09/eu-cra-agent-gap-deadline-1024x572.jpg"
     },
     {
-        "titulo": "Indian AI developers enhance security architecture to prevent AI from going rogue",
-        "fonte": "BusinessLine",
-        "autor": "Sanjana B , Vallari Sanzgiri &amp;",
-        "data": "2026-09-09",
-        "url": "https://www.thehindubusinessline.com/info-tech/indian-ai-developers-enhance-security-architecture-to-prevent-ai-from-going-rogue/article71443421.ece",
-        "resumo": "The shift towards more autonomous systems is increasing the need for stronger safeguards, independent controls and India-specific AI safety measures",
-        "imagem": "https://bl-i.thgim.com/public/incoming/k500ap/article71445458.ece/alternates/LANDSCAPE_1200/Indian-AI-develG3HGGMHSQ.4.jpg.jpg"
-    },
-    {
-        "titulo": "Visa CEO Says AI Shopping Has Arrived but Agentic Payments Haven’t",
+        "titulo": "Quantum, Crypto and AI Are Repricing the Enterprise Cybersecurity Budget",
         "fonte": "pymnts.com",
         "autor": "PYMNTS",
         "data": "2026-09-09",
-        "url": "https://www.pymnts.com/visa/2026/visa-ceo-says-ai-shopping-has-arrived-but-agentic-payments-havent/",
-        "resumo": "Artificial intelligence may be changing where consumers decide what to buy before it changes where they pay for it. “We are seeing adoption for shopping, but not yet for autonomous payments,” Visa CEO Ryan McInerney said Tuesday (Sept. 8) at the Goldman Sachs…",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/09/Visa-AI-agents-1.jpg"
-    },
-    {
-        "titulo": "Microsoft breaks Patch Tuesday record with 974-CVE deluge",
-        "fonte": "Theregister.com",
-        "autor": "Jessica Lyons",
-        "data": "2026-09-09",
-        "url": "https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160",
-        "resumo": "Adobe also brought goodies to the patch party and they deserve immediate attention",
-        "imagem": "https://image.theregister.com/5295166.jpg?imageId=5295166&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-    },
-    {
-        "titulo": "Yes, You Too Can Fall for a Scam",
-        "fonte": "Psychology Today",
-        "autor": "Bonnie Comfort Ph.D.",
-        "data": "2026-09-08",
-        "url": "https://www.psychologytoday.com/us/blog/the-complexities-of-relationships/202609/yes-you-too-can-fall-for-a-scam",
-        "resumo": "Protecting yourself from scams requires not only cybersecurity hygiene but also monitoring your stress level and vulnerability in the moment. Pause before choosing your response.",
-        "imagem": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/pexels-silverkblack-36713018.jpg?itok=WZhlm7V8"
-    },
-    {
-        "titulo": "Claude Mythos 5 is coming to Tenable One, powering the new “Adversary View”",
-        "fonte": "Tenable.com",
-        "autor": "Eric Doerr",
-        "data": "2026-09-08",
-        "url": "https://www.tenable.com/blog/tenable-one-claude-mythos-5-adversary-view-ai-exposure-management",
-        "resumo": "Tenable is bringing Anthropic’s Claude Mythos 5 into our enterprise security offerings. Adding frontier adversarial reasoning to the Tenable One Exposure Management Platform will help customers better anticipate how attackers could breach their environments a…",
-        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/Claude%20Mythos%205%20is%20coming%20to%20Tenable%20One%2C%20powering%20the%20new%20%E2%80%9CAdversary%20View%E2%80%9D_2.png?itok=Vni2UQvI"
-    },
-    {
-        "titulo": "$320 million Bitcoin-linked hack exposes cracks in crypto’s plumbing",
-        "fonte": "Medianewsgroup.com",
-        "autor": "Bloomberg",
-        "data": "2026-09-08",
-        "url": "https://wirehub.medianewsgroup.com/2026/09/08/a-320-million-hack-exposes-the-cracks-in-cryptos-plumbing/",
-        "resumo": "About $1.4 billion has been taken by hackers so far in 2026 across 250 attacks, compared with $2.7 billion over 146 attacks in 2025, according to DefiLlama data.",
-        "imagem": "https://www.ocregister.com/wp-content/uploads/2026/09/OCR-Z-CRYPTO-HACK-0913.jpg?w=1999&h=1333"
-    },
-    {
-        "titulo": "Indian AI developers enhancing security architectures to prevent rogue behaviors",
-        "fonte": "BusinessLine",
-        "autor": "Sanjana B , Vallari Sanzgiri &amp;",
-        "data": "2026-09-08",
-        "url": "https://www.thehindubusinessline.com/info-tech/indian-ai-developers-enhancing-security-architectures-to-prevent-rogue-behaviors/article71444121.ece",
-        "resumo": "Indian AI developers are enhancing security architectures to prevent rogue behaviors, prioritizing safety in foundational model design and deployment.",
-        "imagem": "https://bl-i.thgim.com/public/incoming/wymtgz/article71444118.ece/alternates/LANDSCAPE_1200/IIT-Madras-BodGEMGG4T5F.4.jpg.jpg"
-    },
-    {
-        "titulo": "This AI-Developed Computer Worm Could Have Hijacked a Billion Accounts",
-        "fonte": "PCMag.com",
-        "autor": "Michael Kan",
-        "data": "2026-09-08",
-        "url": "https://uk.pcmag.com/ai/167146/this-ai-developed-computer-worm-could-have-hijacked-a-billion-accounts",
-        "resumo": "The demo attack against WeChat highlights the disturbing possibility that an AI-developed computer worm could be unleashed to hack devices globally. A cybersecurity company used AI to quickly develop a computer worm capable of hacking over a billion accounts …",
-        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/t/this-ai-de/this-ai-developed-computer-worm-could-have-hijacked-a-billio_rdhn.1200.jpg"
+        "url": "https://www.pymnts.com/cybersecurity/2026/quantum-crypto-and-ai-are-repricing-the-enterprise-cybersecurity-budget/",
+        "resumo": "The bitterest pill to swallow for many mid-market CFOs is not that their cybersecurity budget is growing. It is that some of what they already spend has stopped making economic sense. Artificial intelligence, quantum computing and blockchain-based finance are…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/09/3-cybersecurity-1.jpg"
     }
 ]
