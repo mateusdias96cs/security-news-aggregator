@@ -1,5 +1,167 @@
 [
     {
+        "titulo": "AI-driven &#x27;worms&#x27; that learn on the fly are the latest potential threat to your devices, researchers say",
+        "fonte": "CBC News",
+        "autor": "Jeff Lagerquist",
+        "data": "2026-09-12",
+        "url": "https://www.cbc.ca/news/business/ai-computer-worms-cybersecurity-9.7341021",
+        "resumo": "Artificial intelligence researchers are warning the public to use strong passwords and promptly install software updates on their devices to combat &quot;AI-driven computer worms,&quot; a new breed of cyber-threat they say can launch custom attacks on devices, sapping …",
+        "imagem": "https://i.cbc.ca/ais/1.4916330,1542905260000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C216%2C3600%2C2025%29%3BResize%3D620"
+    },
+    {
+        "titulo": "Why Palo Alto Networks (PANW) Shares Are Trading Lower Today",
+        "fonte": "Biztoc.com",
+        "autor": "finance.yahoo.com",
+        "data": "2026-09-12",
+        "url": "https://biztoc.com/x/fe2e00469c31e600",
+        "resumo": "What Happened? Shares of cybersecurity platform provider Palo Alto Networks (NASDAQ:PANW) fell 3% in the afternoon session after the company published a security advisory addressing a critical buffer overflow vulnerability in its PAN-OS software. The security…",
+        "imagem": "https://biztoc.com/cdn/fe2e00469c31e600_s.webp"
+    },
+    {
+        "titulo": "(7) Misleading Metaphors, Real Risks - by Melanie Mitchell",
+        "fonte": "Substack.com",
+        "autor": "zryb",
+        "data": "2026-09-12",
+        "url": "https://aiguide.substack.com/p/misleading-metaphors-and-real-risks",
+        "resumo": "Let’s now look back at the metaphors I quoted at the beginning of this article. Did these AI models “go rogue”? Not exactly. In colloquial terms, “going rogue” evokes an intent, an internal desire, to disobey one’s instructions or training. It’s unlikely that…",
+        "imagem": "https://substackcdn.com/image/fetch/$s_!gkfB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab8a7594-11f7-498c-88cd-5092270c590f_1920x1493.jpeg"
+    },
+    {
+        "titulo": "One HTTP Request, Every File on the Server: GitLab’s CVSS 10 Commits-API Flaw Hits Active Exploitation Within Hours",
+        "fonte": "Forkast.news",
+        "autor": "Heath Callahan",
+        "data": "2026-09-12",
+        "url": "https://forkast.news/one-http-request-every-file-on-the-server-gitlabs-cvss-10-commits-api-flaw-hits-active-exploitation-within-hours/",
+        "resumo": "A single HTTP POST request to the /api/v4/projects/{id}/repository/commits/ endpoint is sufficient to bypass security controls and read arbitrary files from a GitLab server. This path traversal vulnerability, designated CVE-2026-85706, carries a CVSS score of…",
+        "imagem": "https://forkast.news/wp-content/uploads/2026/09/forkast-130036-1024x572.jpg"
+    },
+    {
+        "titulo": "Researchers link another hacking campaign to OpenAI agents",
+        "fonte": "SiliconANGLE News",
+        "autor": "Maria Deutscher",
+        "data": "2026-09-12",
+        "url": "https://siliconangle.com/2026/09/11/researchers-link-another-hacking-campaign-to-openai-agents/",
+        "resumo": "Artificial intelligence agents tied to OpenAI Group PBC reportedly hacked a popular code hosting service earlier this year. The Wall Street Journal detailed the breach today. The malicious activity was discovered by a research group that included Nightingale,…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/openai-1.png"
+    },
+    {
+        "titulo": "Jensen Huang Says Cybersecurity Is AI’s Next Blockbuster App. CrowdStrike Is Already Building It With Nvidia",
+        "fonte": "Yahoo Entertainment",
+        "autor": "Habib Ur Rehman",
+        "data": "2026-09-11",
+        "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-cybersecurity-ai-225707729.html",
+        "resumo": "NVIDIA Corporation (NASDAQ:NVDA) CEO Jensen Huang thinks cybersecurity could become one of artificial intelligence’s next major application markets. CrowdStr...",
+        "imagem": "https://s.yimg.com/lo/mysterio/api/976e88b000be1efecbf3988cc19dfec2473876fecb3998fb67fd029c400cb503/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fe55fc66f4bd07df6fd1bc80caf1f05ee.jpg"
+    },
+    {
+        "titulo": "Anthropic Says Iran-Linked Actor Used Claude to Compile U.S. Navy Targeting Data",
+        "fonte": "gcaptain.com",
+        "autor": "Mike Schuler",
+        "data": "2026-09-11",
+        "url": "https://gcaptain.com/anthropic-says-iran-linked-actor-used-claude-to-compile-u-s-navy-targeting-data/",
+        "resumo": "Anthropic says it disrupted an Iran-linked user that used its Claude artificial intelligence models to track U.S. naval forces, compile targeting material and research vulnerabilities in shipboard systems. The activity...",
+        "imagem": "https://gcaptain.com/wp-content/uploads/2026/04/9609002.jpg"
+    },
+    {
+        "titulo": "AI-powered fraud is becoming personal: How cybercriminals are exploiting trust at unprecedented scale",
+        "fonte": "Digital Journal",
+        "autor": "Dr. Tim Sandle",
+        "data": "2026-09-11",
+        "url": "https://www.digitaljournal.com/article/ai-powered-fraud-is-becoming-personal-how-cybercriminals-are-exploiting-trust-at-unprecedented-scale/",
+        "resumo": "As cybercriminals continue to weaponise artificial intelligence, consumer education may become just as important as technological protection. Here, cybercrime is becoming more personal. Attackers no longer simply target devices and networks. Increasingly, the…",
+        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2026/03/Internet-Cybersecurity-AFP-1K-1.jpg"
+    },
+    {
+        "titulo": "Remembrance, Resilience, and 911 Advances in Public Safety",
+        "fonte": "Bradenkelley.com",
+        "autor": "Art Inteligencia",
+        "data": "2026-09-11",
+        "url": "https://bradenkelley.com/2026/09/911-25th-anniversary-remembrance-public-safety-advances/",
+        "resumo": "Twenty-Five Years Later by Art Inteligencia What Do We Owe the Lives Lost on September 11, 2001? On this twenty-fifth anniversary of September 11, 2001, we begin where we must: with the people. Nearly three thousand lives were taken in New York, at the Pentag…",
+        "imagem": "https://bradenkelley.com/wp-content/uploads/2026/09/911-innovations-remembrance-25-years-cursor.jpg"
+    },
+    {
+        "titulo": "Five9 builds Humantic contact centers instead of full automation",
+        "fonte": "SiliconANGLE News",
+        "autor": "Ryan Stevens",
+        "data": "2026-09-11",
+        "url": "https://siliconangle.com/2026/09/11/humantic-five9-contactcentersummit/",
+        "resumo": "Contact centers have spent the past two years trying to maximize a single number, the share of calls AI can handle without a human ever picking up. That framing is starting to look too narrow, since the interactions that matter most, the highest-value, most c…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Amit-Mathradas_Thumb.jpg"
+    },
+    {
+        "titulo": "A Massive Job Jargon Glossary For Writers",
+        "fonte": "Nofilmschool.com",
+        "autor": "Jason Hellerman",
+        "data": "2026-09-11",
+        "url": "https://nofilmschool.com/job-jargon-glossary",
+        "resumo": "You want a reader to pick up your screenplay and lean into a world they feel is well-researched and one they want to live in. The best way to do that is to have characters who speak in the dialect of their trade and their world. That requires the writer to si…",
+        "imagem": "https://nofilmschool.com/media-library/image.jpg?id=67760598&width=1200&height=600&coordinates=1%2C0%2C2%2C0"
+    },
+    {
+        "titulo": "EU gains access to Anthropic’s Mythos 5, but not its latest cyber model",
+        "fonte": "4sysops.com",
+        "autor": "IT News",
+        "data": "2026-09-11",
+        "url": "https://4sysops.com/archives/eu-gains-access-to-anthropics-mythos-5-but-not-its-latest-cyber-model/",
+        "resumo": "The European Union Agency for Cybersecurity (ENISA) can now independently test Anthropic’s Mythos 5 after months of negotiations. However, the EU cybersecurity agency is receiving an older version of the company’s specialized cyber AI. Anthropic has already r…",
+        "imagem": "https://4sysops.com/wp-content/uploads/2026/09/eu-gains-access-to-anthropics-mythos-5-but-not-its-latest-cyber-model.jpg"
+    },
+    {
+        "titulo": "America built a fortress after 9/11. Then the threat started hiding in plain sight",
+        "fonte": "Fox News",
+        "autor": "",
+        "data": "2026-09-11",
+        "url": "https://www.foxnews.com/world/america-built-fortress-after-9-11-threat-started-hiding-plain-sight",
+        "resumo": "Twenty-five years after 9/11, lone actors radicalized online have replaced al Qaeda&#x27;s complex plots as the greatest terrorism threat to the homeland.",
+        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/9-11-memorial.jpg"
+    },
+    {
+        "titulo": "Why Continuous Application Security Testing Is No Longer Optional",
+        "fonte": "Dzone.com",
+        "autor": "Jigar Shah",
+        "data": "2026-09-11",
+        "url": "https://dzone.com/articles/continuous-security-testing-required",
+        "resumo": "Your last pentest is already out of date. The moment you shipped new code after that report, your risk profile changed, and nobody re-tested it. That&#x27;s the reality most teams are living in. Nearly 29% of organizations still lack continuous vulnerability moni…",
+        "imagem": "https://dz2cdn1.dzone.com/storage/article-thumb/19162476-thumb.jpg"
+    },
+    {
+        "titulo": "gdcm-security-poc",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-09-11",
+        "url": "https://kitploit.com/en/tools/github/abhinavagarwal07/gdcm-security-poc/",
+        "resumo": "Private end-to-end sanitizer reproduction package for six GDCM findings",
+        "imagem": "https://assets.kitploit.com/production/public/tools/54709/c62bcf60aff143dbfae107709ecfef8e142158723e3471a3f794880c80682517-social-v1.webp"
+    },
+    {
+        "titulo": "Cut bloat, not features",
+        "fonte": "Ubuntu.com",
+        "autor": "Lily Rivers-Klee (Lily Rivers-Klee)",
+        "data": "2026-09-11",
+        "url": "https://ubuntu.com/blog/cut-bloat-not-features",
+        "resumo": "Accelerating software delivery with minimal OCI images For Independent Software Vendors (ISVs), delivering containerized applications to enterprise clients often means navigating a difficult trade-off between minimal image size and accurate security visibilit…",
+        "imagem": "https://ubuntu.com/wp-content/uploads/41e8/58b7dcdd-5ffc-4909-b251-e5d5d89e27ba.png"
+    },
+    {
+        "titulo": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-09-11",
+        "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
+        "resumo": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threat actors, which the artificial intelli…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG0iCBQ4Eqxn0QOtvYZSysksPzr5fT0m8aLqNTa0a7Gcz3A5ikRt1oAenJwzo8rxcLERq54SNLtRvkYXKMTo0nMOmV8pWh4It3T0vP7q4J5Z23tdDkbBf3j7v317S7sQbBBbN6j6MuHusofo3qcbm2Y3DWT76gHp4Z1_En2QnJMCyEpvCo1sCcXoRZVw5-/s1700-nu-rw-lo-l85-e365/claudeai.jpg"
+    },
+    {
+        "titulo": "On 9/11’s 25th anniversary, modernizing government starts with remembering our past",
+        "fonte": "Nextgov",
+        "autor": "Kshemendra Paul",
+        "data": "2026-09-11",
+        "url": "https://www.nextgov.com/ideas/2026/09/911s-25th-anniversary-modernizing-government-starts-remembering-our-past/415928/",
+        "resumo": "COMMENTARY: Reflecting on 9/11 Commission-driven information sharing structural reforms",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/09/10/GettyImages_2294072286/open-graph.jpg"
+    },
+    {
         "titulo": "EU&#x27;s Cyber Resilience Act starts the 24-hour vulnerability clock",
         "fonte": "Theregister.com",
         "autor": "Connor Jones",
@@ -7,176 +169,5 @@
         "url": "https://www.theregister.com/security/2026/09/11/eus-cyber-resilience-act-starts-the-24-hour-vulnerability-clock/5295821",
         "resumo": "Manufacturers must now disclose actively exploited flaws and severe security incidents through ENISA&#x27;s new reporting platform",
         "imagem": "https://image.theregister.com/224872.jpg?imageId=224872&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-    },
-    {
-        "titulo": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-09-11",
-        "url": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
-        "resumo": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compromise. A critical vulnerability may loo…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPPe_ve3Cylrq2fJ8HTFPebWF7lR7tvzMvL3mwFcGZNF2KWesOGc66BfO7NbiPxmsiao8jcItyikguKNqsEGfpJEcAvacbP7rflAaAT-e0Y1IbsNCNvdqvXMbwERLlPpV0PMhk9c5esoEjCE97wglh8rU9xZ7eGz2N4BOpzFYTb9-Ln3FaBRQiscqzK7U/s1700-nu-rw-lo-l85-e365/breachlock.jpg"
-    },
-    {
-        "titulo": "GitLab urges users to patch max severity path traversal flaw",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-09-11",
-        "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-        "resumo": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2023-2825. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/02/04/GitLab.jpg"
-    },
-    {
-        "titulo": "Thinking like a hacker is key to strengthening resilience",
-        "fonte": "TechRadar",
-        "autor": "Justin Henkel",
-        "data": "2026-09-11",
-        "url": "https://www.techradar.com/pro/thinking-like-a-hacker-is-key-to-strengthening-resilience",
-        "resumo": "Cyber threats are moving faster than ever. A businesses resilience needs to keep pace.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/mdjvPqJZZunuCQDrfEuBFM-2560-80.jpg"
-    },
-    {
-        "titulo": "Why Knowing About Cybersecurity Isn&#x27;t the Same as Being Good at it",
-        "fonte": "Infosecurity Magazine",
-        "autor": "TryHackMe Team",
-        "data": "2026-09-11",
-        "url": "https://www.infosecurity-magazine.com/blogs/knowing-cybersecurity-not-same-as/",
-        "resumo": "For security leaders thinking about their team&#x27;s development, hands-on training is essential",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/dfd81b46-b378-436c-8827-96f0a0ca7082.jpeg"
-    },
-    {
-        "titulo": "Automox Mitigation Worklets cut endpoint exposure to unpatchable flaws",
-        "fonte": "Help Net Security",
-        "autor": "Industry News",
-        "data": "2026-09-11",
-        "url": "https://www.helpnetsecurity.com/2026/09/11/automox-mitigation-worklet-pipeline/",
-        "resumo": "Automox has announced its AI-speed Mitigation Worklet Pipeline, which automates mitigation to reduce risk from the increased volume and velocity of frontier-model AI vulnerabilities. Now the time from vulnerability disclosure to exposure mitigation is shorten…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp"
-    },
-    {
-        "titulo": "The development of digital agriculture in France",
-        "fonte": "Gouv.fr",
-        "autor": "Ministère de l&#x27;Agriculture et de la Souveraineté alimentaire",
-        "data": "2026-09-11",
-        "url": "https://agriculture.gouv.fr/development-digital-agriculture-france",
-        "resumo": "Digital technology is playing a growing role in French agriculture, as part of the long-term trend towards farm mechanisation. Sensors, software, decision support tools, robots and artificial intelligence are transforming how crops and livestock are monitored…",
-        "imagem": "https://agriculture.gouv.fr/sites/default/files/styles/ds_vignette/public/Analyse_Numerique_Alimagri1200x675.jpg?itok=N5O-hs3r"
-    },
-    {
-        "titulo": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-09-11",
-        "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
-        "resumo": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities. The attacks leverage CVE-2026-20079 (CVSS score: 10.0),…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJizB5uHZncQAbfKm3-k256bJHufHNcClzKqXH2XK79HlAw8egcuz3abU_gxrTbR2zrWqpMmFcHApBqp5AvC2uox6vEeOlDt1JdRy-A6WAqpFPfVeZ4hM4gp-lCqqY_hIXMu2VVupFLGzbv1sBXLjQGSPlORsnaEdcOqjLJQKAKfDMHJqGY6KY1NZCLth0/s1700-nu-rw-lo-l85-e365/cisco-ransomware.jpg"
-    },
-    {
-        "titulo": "An alignment assessment of recent cybersecurity incidents Anthropic",
-        "fonte": "Anthropic.com",
-        "autor": "arnicas",
-        "data": "2026-09-11",
-        "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-        "resumo": "We present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
-        "imagem": "https://cdn.sanity.io/images/4zrzovbb/website/25a7c99743ebfb3b79cb98ffa2b9e928ad7e712b-2000x1125.webp"
-    },
-    {
-        "titulo": "Securing The Skies Before The Next 9/11",
-        "fonte": "Americanthinker.com",
-        "autor": "",
-        "data": "2026-09-11",
-        "url": "https://www.americanthinker.com/articles/2026/09/securing-the-skies-before-the-next-9-11/",
-        "resumo": "Photo Credit:ChatGPT ChatGPT for American ThinkerBy Arik AradFollowing 9/11, we hardened airport checkpoints and flight deck doors, but today’s commercial airliners are no longer just mechanical machines, they are flying data centers.",
-        "imagem": "https://images.americanthinker.com/1g/1g5oovf01xc8psp0plvt_1200.jpg"
-    },
-    {
-        "titulo": "Bangladesh and the Perils of Pax Silica",
-        "fonte": "The Diplomat",
-        "autor": "Tamim Muntasir and Shafi Md Mostofa",
-        "data": "2026-09-11",
-        "url": "https://thediplomat.com/2026/09/bangladesh-and-the-perils-of-pax-silica/",
-        "resumo": "It could end up exchanging strategic flexibility for an upgraded version of the subcontracting economy it is trying to escape.",
-        "imagem": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-11-123359.jpg"
-    },
-    {
-        "titulo": "Sam Altman: Please Let OpenAI Into the Energy Grid",
-        "fonte": "Gizmodo.com",
-        "autor": "Tom McKay",
-        "data": "2026-09-11",
-        "url": "https://gizmodo.com/sam-altman-please-let-openai-into-the-energy-grid-2000810331",
-        "resumo": "Altman pitches OpenAI as solution to malicious AI, just weeks after the company&#x27;s AI agents hacked Hugging Face.",
-        "imagem": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2278945689-1200x675.jpg"
-    },
-    {
-        "titulo": "With AI-powered cyberattacks accelerating, defenders must adapt",
-        "fonte": "Digital Journal",
-        "autor": "Dr. Tim Sandle",
-        "data": "2026-09-10",
-        "url": "https://www.digitaljournal.com/article/with-ai-powered-cyberattacks-accelerating-defenders-must-adapt/",
-        "resumo": "For organisations, the message is clear: the future threat landscape may not be defined by entirely new types of attacks, but by familiar attacks occurring faster, more intelligently and, due to AI, with far less human involvement than ever before The post Wi…",
-        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2026/02/b57418c756eec0202d169f1bcd7fce6d26294c8f.jpg"
-    },
-    {
-        "titulo": "Security becomes the control plane for enterprise AI factories",
-        "fonte": "SiliconANGLE News",
-        "autor": "Ricardo Leopoldo",
-        "data": "2026-09-10",
-        "url": "https://siliconangle.com/2026/09/10/ai-attack-surface-enterprise-security-securingtheaifactory/",
-        "resumo": "Artificial intelligence is making companies into factories of intelligence. As AI becomes a new workload, it has also become a new attack surface. The factory model that enterprises are building to produce knowledge at scale was not designed with security a…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Securing-the-AI-Factory-With-Dell-Technologies-and-Intel-event-feature-2026.png"
-    },
-    {
-        "titulo": "Tenable Ranks #1 in Device Vulnerability and Exposure Management for Eighth Consecutive Year",
-        "fonte": "Tenable.com",
-        "autor": "Shannon O&#x27;Dowd",
-        "data": "2026-09-10",
-        "url": "https://www.tenable.com/press-releases/tenable-ranks-1-in-device-vulnerability-and-exposure-management-for-eighth-consecutive-year",
-        "resumo": "Tenable® Holdings, Inc. (NASDAQ: TENB), the exposure management company, today announced that it has been ranked first in worldwide market share in the IDC Worldwide Device Vulnerability and Exposure Management Market Shares report (doc #US53903826, August 20…",
-        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/press-releases/tenable-logo-1280%20%281%29_0.png?itok=E5V5HqTf"
-    },
-    {
-        "titulo": "The CRA’s Agent Blind Spot Goes Live Tomorrow. Smart Home AI Companies Have Zero Guidance.",
-        "fonte": "Forkast.news",
-        "autor": "Ethoswarm",
-        "data": "2026-09-10",
-        "url": "https://forkast.news/the-cras-agent-blind-spot-goes-live-tomorrow-smart-home-ai-companies-have-zero-guidance/",
-        "resumo": "Tomorrow morning, compliance teams across the smart home sector will wake up to a new, expensive reality. As of September 11, 2026, the Cyber Resilience Act (CRA) officially activates its reporting obligations. For companies managing smart door locks, securit…",
-        "imagem": "https://forkast.news/wp-content/uploads/2026/09/cra-agent-blind-spot-1024x572.jpg"
-    },
-    {
-        "titulo": "Are Security Teams Keeping Pace With AI-Accelerated Threats?",
-        "fonte": "Offsec.com",
-        "autor": "OffSec Team",
-        "data": "2026-09-10",
-        "url": "https://www.offsec.com/blog/are-security-teams-keeping-pace-with-ai/",
-        "resumo": "The strongest response to AI-driven change is a workforce that can use faster tools without surrendering the judgment behind the work. The post Are Security Teams Keeping Pace With AI-Accelerated Threats? appeared first on OffSec.",
-        "imagem": "https://www.offsec.com/app/uploads/2026/09/The-AI-Cyber-Threat-Is-Here.-Is-Your-Security-Team-Ready_-1200x628-1.png"
-    },
-    {
-        "titulo": "U.S. CISA adds Cisco, Google Chromium V8, Fortinet, and Citrix NetScaler flaws to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-09-10",
-        "url": "https://securityaffairs.com/198850/security/u-s-cisa-adds-cisco-google-chromium-v8-fortinet-and-citrix-netscaler-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Cisco, Google Chromium V8, Fortinet, and Citrix NetScaler flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the follow…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "Anthropic’s new research maps three wildly different futures for the AI economy—and the future of knowledge work",
-        "fonte": "Fortune",
-        "autor": "Beatrice Nolan",
-        "data": "2026-09-10",
-        "url": "https://fortune.com/2026/09/10/anthropics-new-research-maps-three-wildly-different-futures-for-the-ai-economyand-the-future-of-knowledge-work/",
-        "resumo": "A new interactive tool from the Claude maker ranges from a modest economic boost to mass job losses.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2280291466-e1789054669681.jpg?resize=1200,600"
-    },
-    {
-        "titulo": "LG TVs Caught Secretly Recording Users and Scanning Their Homes For Other Devices, Even When Disconnected From the Internet",
-        "fonte": "Futurism",
-        "autor": "Frank Landymore",
-        "data": "2026-09-10",
-        "url": "https://futurism.com/future-society/lg-secretly-recording-users",
-        "resumo": "&quot;You[r] TV is wiretapping your whole house.&quot; The post LG TVs Caught Secretly Recording Users and Scanning Their Homes For Other Devices, Even When Disconnected From the Internet appeared first on Futurism.",
-        "imagem": "https://futurism.com/wp-content/uploads/2026/09/lg-secretly-recording-users.jpg?w=1200"
     }
 ]
