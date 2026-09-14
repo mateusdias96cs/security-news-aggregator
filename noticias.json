@@ -1,5 +1,86 @@
 [
     {
+        "titulo": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
+        "fonte": "BleepingComputer",
+        "autor": "Bill Toulas",
+        "data": "2026-09-13",
+        "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
+        "resumo": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent&#x27;s Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/09/11/rabbit.jpg"
+    },
+    {
+        "titulo": "Security Affairs newsletter Round 594 by Pierluigi Paganini – INTERNATIONAL EDITION",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-09-13",
+        "url": "https://securityaffairs.com/198957/security/security-affairs-newsletter-round-594-by-pierluigi-paganini-international-edition.html",
+        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including international press. The AI Suppl…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
+    },
+    {
+        "titulo": "Crypto wallet creators now have just 24 hours to alert regulators when flaws are exploited",
+        "fonte": "CryptoSlate",
+        "autor": "Liam &#x27;Akiba&#x27; Wright",
+        "data": "2026-09-13",
+        "url": "https://cryptoslate.com/crypto-wallet-creators-now-have-just-24-hours-to-alert-regulators-when-flaws-are-exploited/",
+        "resumo": "Qualifying commercial wallet hardware and software now face a rapid three-stage reporting process for serious security events. The post Crypto wallet creators now have just 24 hours to alert regulators when flaws are exploited appeared first on CryptoSlate.",
+        "imagem": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-cra-compliance-path.jpg"
+    },
+    {
+        "titulo": "atomicvulns",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-09-13",
+        "url": "https://kitploit.com/en/tools/github/doretox/atomicvulns",
+        "resumo": "Atomic web vulnerability labs. One OWASP flaw per app — minimal Flask + Docker, intentionally broken for hands-on study with Burp Suite.",
+        "imagem": "https://assets.kitploit.com/production/public/brand/social-default-v2.png"
+    },
+    {
+        "titulo": "Week in review: Linux rootkit deployed on F5 BIG-IP APM devices, Cisco FMC bugs exploited",
+        "fonte": "18.133",
+        "autor": "Help Net Security",
+        "data": "2026-09-13",
+        "url": "https://44.231.18.133/2026/09/13/week-in-review-linux-rootkit-deployed-on-f5-big-ip-apm-devices-cisco-fmc-bugs-exploited/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Zero trust AI agents demand a different kind of security In this interview, Chris Webber, VP, Product Marketing at Teleport, explains why zero trust principles n…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01112502/cybersecurity_week_in_review1.jpg"
+    },
+    {
+        "titulo": "When AI Agents Started Working Together",
+        "fonte": "Wattsupwiththat.com",
+        "autor": "Willis Eschenbach",
+        "data": "2026-09-12",
+        "url": "https://wattsupwiththat.com/2026/09/12/when-ai-agents-started-working-together/",
+        "resumo": "Guest Post by Willis Eschenbach (@WEschenbach on X, my own blog is here.) Ever wonder what happens when you take a few thousand highly capable computer agents, tell them to… The post When AI Agents Started Working Together appeared first on Watts Up With Tha…",
+        "imagem": "https://wattsupwiththat.com/wp-content/uploads/2026/09/ai-agent-swarm.png"
+    },
+    {
+        "titulo": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-09-12",
+        "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active expl…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhva55LDIsAmtR2cRnUJw2XZ3Rvo4YhdJe39cfng8EZ1oHjLevxwRcYoFdg-ydI2I7fdt9OxGj7aMcaHMekZmy9hwSlopIZ4_KQgRnmiSy0OfGh8zO26StiEeOsHaQ4fYed0dbEUCUcz4gJM9Lu6Wt7m-ppDmI7iMl52-cRfQfsu9d90Sp2ncuvbVpAPupe/s1700-nu-rw-lo-l85-e365/jj.jpg"
+    },
+    {
+        "titulo": "Anthropic CEO says AI swarm could ‘take over the entire Internet’ in 6-12 months, commits to AI slowdown plan",
+        "fonte": "VentureBeat",
+        "autor": "Carl Franzen",
+        "data": "2026-09-12",
+        "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
+        "resumo": "Dario Amodei is publicly arguing that the frontier itself is advancing too quickly — and committing his company to the first piece of a system intended to slow it down.",
+        "imagem": "https://images.ctfassets.net/jdtwqhzvc2n1/5ydrgfA7rDddgNfsfAcavv/89f67050c4f0f9c7e75c2572909d6394/ChatGPT_Image_Sep_12__2026__11_10_14_AM.png?w=800&q=75"
+    },
+    {
+        "titulo": "gori",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-09-12",
+        "url": "https://kitploit.com/en/tools/github/hahwul/gori/",
+        "resumo": "A fast, keyboard-driven HTTP intercepting proxy and hacking &amp; pentesting toolkit for the terminal.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/54802/e819690aafa11d4d995c1c0871c4715800ac98c0b0b428321e34607b79982241-social-v1.webp"
+    },
+    {
         "titulo": "AI-driven &#x27;worms&#x27; that learn on the fly are the latest potential threat to your devices, researchers say",
         "fonte": "CBC News",
         "autor": "Jeff Lagerquist",
@@ -88,86 +169,5 @@
         "url": "https://siliconangle.com/2026/09/11/humantic-five9-contactcentersummit/",
         "resumo": "Contact centers have spent the past two years trying to maximize a single number, the share of calls AI can handle without a human ever picking up. That framing is starting to look too narrow, since the interactions that matter most, the highest-value, most c…",
         "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Amit-Mathradas_Thumb.jpg"
-    },
-    {
-        "titulo": "A Massive Job Jargon Glossary For Writers",
-        "fonte": "Nofilmschool.com",
-        "autor": "Jason Hellerman",
-        "data": "2026-09-11",
-        "url": "https://nofilmschool.com/job-jargon-glossary",
-        "resumo": "You want a reader to pick up your screenplay and lean into a world they feel is well-researched and one they want to live in. The best way to do that is to have characters who speak in the dialect of their trade and their world. That requires the writer to si…",
-        "imagem": "https://nofilmschool.com/media-library/image.jpg?id=67760598&width=1200&height=600&coordinates=1%2C0%2C2%2C0"
-    },
-    {
-        "titulo": "EU gains access to Anthropic’s Mythos 5, but not its latest cyber model",
-        "fonte": "4sysops.com",
-        "autor": "IT News",
-        "data": "2026-09-11",
-        "url": "https://4sysops.com/archives/eu-gains-access-to-anthropics-mythos-5-but-not-its-latest-cyber-model/",
-        "resumo": "The European Union Agency for Cybersecurity (ENISA) can now independently test Anthropic’s Mythos 5 after months of negotiations. However, the EU cybersecurity agency is receiving an older version of the company’s specialized cyber AI. Anthropic has already r…",
-        "imagem": "https://4sysops.com/wp-content/uploads/2026/09/eu-gains-access-to-anthropics-mythos-5-but-not-its-latest-cyber-model.jpg"
-    },
-    {
-        "titulo": "America built a fortress after 9/11. Then the threat started hiding in plain sight",
-        "fonte": "Fox News",
-        "autor": "",
-        "data": "2026-09-11",
-        "url": "https://www.foxnews.com/world/america-built-fortress-after-9-11-threat-started-hiding-plain-sight",
-        "resumo": "Twenty-five years after 9/11, lone actors radicalized online have replaced al Qaeda&#x27;s complex plots as the greatest terrorism threat to the homeland.",
-        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/9-11-memorial.jpg"
-    },
-    {
-        "titulo": "Why Continuous Application Security Testing Is No Longer Optional",
-        "fonte": "Dzone.com",
-        "autor": "Jigar Shah",
-        "data": "2026-09-11",
-        "url": "https://dzone.com/articles/continuous-security-testing-required",
-        "resumo": "Your last pentest is already out of date. The moment you shipped new code after that report, your risk profile changed, and nobody re-tested it. That&#x27;s the reality most teams are living in. Nearly 29% of organizations still lack continuous vulnerability moni…",
-        "imagem": "https://dz2cdn1.dzone.com/storage/article-thumb/19162476-thumb.jpg"
-    },
-    {
-        "titulo": "gdcm-security-poc",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-09-11",
-        "url": "https://kitploit.com/en/tools/github/abhinavagarwal07/gdcm-security-poc/",
-        "resumo": "Private end-to-end sanitizer reproduction package for six GDCM findings",
-        "imagem": "https://assets.kitploit.com/production/public/tools/54709/c62bcf60aff143dbfae107709ecfef8e142158723e3471a3f794880c80682517-social-v1.webp"
-    },
-    {
-        "titulo": "Cut bloat, not features",
-        "fonte": "Ubuntu.com",
-        "autor": "Lily Rivers-Klee (Lily Rivers-Klee)",
-        "data": "2026-09-11",
-        "url": "https://ubuntu.com/blog/cut-bloat-not-features",
-        "resumo": "Accelerating software delivery with minimal OCI images For Independent Software Vendors (ISVs), delivering containerized applications to enterprise clients often means navigating a difficult trade-off between minimal image size and accurate security visibilit…",
-        "imagem": "https://ubuntu.com/wp-content/uploads/41e8/58b7dcdd-5ffc-4909-b251-e5d5d89e27ba.png"
-    },
-    {
-        "titulo": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-09-11",
-        "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-        "resumo": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threat actors, which the artificial intelli…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG0iCBQ4Eqxn0QOtvYZSysksPzr5fT0m8aLqNTa0a7Gcz3A5ikRt1oAenJwzo8rxcLERq54SNLtRvkYXKMTo0nMOmV8pWh4It3T0vP7q4J5Z23tdDkbBf3j7v317S7sQbBBbN6j6MuHusofo3qcbm2Y3DWT76gHp4Z1_En2QnJMCyEpvCo1sCcXoRZVw5-/s1700-nu-rw-lo-l85-e365/claudeai.jpg"
-    },
-    {
-        "titulo": "On 9/11’s 25th anniversary, modernizing government starts with remembering our past",
-        "fonte": "Nextgov",
-        "autor": "Kshemendra Paul",
-        "data": "2026-09-11",
-        "url": "https://www.nextgov.com/ideas/2026/09/911s-25th-anniversary-modernizing-government-starts-remembering-our-past/415928/",
-        "resumo": "COMMENTARY: Reflecting on 9/11 Commission-driven information sharing structural reforms",
-        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/09/10/GettyImages_2294072286/open-graph.jpg"
-    },
-    {
-        "titulo": "EU&#x27;s Cyber Resilience Act starts the 24-hour vulnerability clock",
-        "fonte": "Theregister.com",
-        "autor": "Connor Jones",
-        "data": "2026-09-11",
-        "url": "https://www.theregister.com/security/2026/09/11/eus-cyber-resilience-act-starts-the-24-hour-vulnerability-clock/5295821",
-        "resumo": "Manufacturers must now disclose actively exploited flaws and severe security incidents through ENISA&#x27;s new reporting platform",
-        "imagem": "https://image.theregister.com/224872.jpg?imageId=224872&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
     }
 ]
