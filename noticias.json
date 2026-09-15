@@ -1,5 +1,158 @@
 [
     {
+        "titulo": "Burn Out, Or Fade Away",
+        "fonte": "Blogger.com",
+        "autor": "Unknown",
+        "data": "2026-09-14",
+        "url": "https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/9518042/5586259795850870043",
+        "resumo": "Sem resumo",
+        "imagem": ""
+    },
+    {
+        "titulo": "China’s state security minister names two US AI models as a cyber threat",
+        "fonte": "The Next Web",
+        "autor": "Alina Maria Stan",
+        "data": "2026-09-14",
+        "url": "https://thenextweb.com/news/china-state-security-minister-claude-mythos-gpt-5-5-cyber",
+        "resumo": "China’s minister of state security has named two American AI models as a threat to Chinese infrastructure. Chen Yixin made the claim in a signed article published on Sunday. It ran in China Cyberspace, the journal of the Cyberspace Administration of China. Th…",
+        "imagem": "https://media.thenextweb.com/2026/06/anthropic-mythos-eu-enisa-cybersecurity-access.jpg"
+    },
+    {
+        "titulo": "EU mandates 24-hour reporting for crypto wallet vulnerabilities under Cyber Resilience Act",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-09-14",
+        "url": "https://cryptobriefing.com/eu-crypto-wallet-vulnerability-reporting/",
+        "resumo": "The EU&#x27;s stringent reporting rules could drive significant investment in threat intelligence and reshape industry communication on security issues. The post EU mandates 24-hour reporting for crypto wallet vulnerabilities under Cyber Resilience Act appeared fi…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/14075808/library-eu-mandates-24-hour-reporting-for-crypto-wallet-vulnerab-800x450.png"
+    },
+    {
+        "titulo": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-09-14",
+        "url": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+        "resumo": "There&#x27;s a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to work out which …",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid_ratIPK3F0IGyzyDTTPaV26Nnh4gQoFjS0ejR49J_tbGb92GgukT-Mnr9xv9mK7h0QSdeXujxiEtD0AqVKNmrKoG9BMEuut7CB1368iyt3Gr6Xu5mAdkDsUQC86K9GZ-Uw6qfPvYYr9BUvHzn014_rzQeMS5dCVXEwkRLs3eViylo5ChmZs6QQygxE4/s1700-nu-rw-lo-l85-e365/picus-main.jpg"
+    },
+    {
+        "titulo": "EU cyber rules put crypto wallet makers on 24-hour reporting clock",
+        "fonte": "Cointelegraph",
+        "autor": "Cointelegraph by Zoltan Vardai",
+        "data": "2026-09-14",
+        "url": "https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting",
+        "resumo": "Crypto wallet providers must submit an early vulnerability report within 24 hours and a full notification within 72 hours of exploits, or risk administrative fines of as much as $17.3 million.",
+        "imagem": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FR3T0NEB8ZH35X810AQSMA/european-union-eu-european-parliament-brussels-2.jpg"
+    },
+    {
+        "titulo": "Hackers Exploit Maximum Severity Flaw in GitLab",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Phil Muncaster",
+        "data": "2026-09-14",
+        "url": "https://www.infosecurity-magazine.com/news/hackers-exploit-maximum-severity/",
+        "resumo": "CISA warns that threat actors are exploiting a vulnerability with a CVSS score of 10.0",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/87886f76-1c71-4314-9461-b4ae06395deb.jpg"
+    },
+    {
+        "titulo": "Three JFrog Artifactory Flaws Exploited for Backdoor Deployment",
+        "fonte": "Securityweek.com",
+        "autor": "Ionut Arghire",
+        "data": "2026-09-14",
+        "url": "https://www.securityweek.com/three-jfrog-artifactory-flaws-exploited-for-backdoor-deployment/",
+        "resumo": "The vulnerabilities can allow attackers to bypass authentication and elevate their privileges to administrator. The post Three JFrog Artifactory Flaws Exploited for Backdoor Deployment appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2025/11/NPM-code-software-development.jpeg"
+    },
+    {
+        "titulo": "More JFrog Artifactory Bugs Are Under Attack, and All Three Have Patches",
+        "fonte": "DevOps.com",
+        "autor": "Tom Smith",
+        "data": "2026-09-14",
+        "url": "https://devops.com/more-jfrog-artifactory-bugs-are-under-attack-and-all-three-have-patches/",
+        "resumo": "Artifact repositories may look like internal plumbing, but compromise one and every downstream build can inherit the damage. Active JFrog exploitation shows why build infrastructure needs an internet-facing patch clock. #JFrog #Artifactory #Cybersecurity #Dev…",
+        "imagem": "https://devops.com/wp-content/uploads/2026/09/jfrog_artifactory_security_770x330.jpg"
+    },
+    {
+        "titulo": "ConnectWise Patches ScreenConnect Vulnerability Exploited in Worm-Like Attacks",
+        "fonte": "Securityweek.com",
+        "autor": "Ionut Arghire",
+        "data": "2026-09-14",
+        "url": "https://www.securityweek.com/connectwise-patches-screenconnect-vulnerability-exploited-in-worm-like-attacks/",
+        "resumo": "The flaw allows attackers to send files and execute them without authorization through an active remote session. The post ConnectWise Patches ScreenConnect Vulnerability Exploited in Worm-Like Attacks appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2024/02/ConnectWise.jpeg"
+    },
+    {
+        "titulo": "GitLab’s Critical Patch Closes a Path Traversal Flaw Attackers Are Already Probing",
+        "fonte": "DevOps.com",
+        "autor": "Tom Smith",
+        "data": "2026-09-14",
+        "url": "https://devops.com/gitlabs-critical-patch-closes-a-path-traversal-flaw-attackers-are-already-probing/",
+        "resumo": "A CVSS 10.0 GitLab flaw shows how quickly the gap between disclosure and exploitation is disappearing. For self-managed DevOps platforms, patch speed is now part of the security architecture. #GitLab #Cybersecurity #DevSecOps #CVE #SoftwareSupplyChain #Securi…",
+        "imagem": "https://devops.com/wp-content/uploads/2026/09/gitlab_security_patch_770x330.jpg"
+    },
+    {
+        "titulo": "CISA: Hackers now exploit max severity GitLab flaw in attacks",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-09-14",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in attacks. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/09/14/GitLab.jpg"
+    },
+    {
+        "titulo": "Cybersecurity attention fades within months after a breach",
+        "fonte": "18.133",
+        "autor": "Sinisa Markovic",
+        "data": "2026-09-14",
+        "url": "https://44.231.18.133/2026/09/14/manageengine-cybersecurity-breach-confidence-report/",
+        "resumo": "Cybersecurity attention often rises after an incident, then recedes as organizations return to their existing priorities and practices, according to a new ManageEngine survey of 700 IT and cybersecurity leaders in the US and Canada. (Source: ManageEngine) All…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2021/03/30163653/mind_map.jpg"
+    },
+    {
+        "titulo": "AWS puts AI vulnerability detection to the test, and false positives pile up",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-09-14",
+        "url": "https://www.helpnetsecurity.com/2026/09/14/aws-deception-benchmark-security-vulnerabilities/",
+        "resumo": "AWS’ Deception Benchmark measures how well AI models distinguish genuine security vulnerabilities from code that looks risky but is safe. AWS is making it publicly available so researchers can use the dataset and evaluation process without repeating the cost …",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/08/18175341/aws-1500.webp"
+    },
+    {
+        "titulo": "As fears of AI catastrophe magnify, Washington stirs, but mostly slumbers",
+        "fonte": "Business Standard",
+        "autor": "NYT",
+        "data": "2026-09-14",
+        "url": "https://www.business-standard.com/world-news/as-fears-of-ai-catastrophe-magnify-washington-stirs-but-mostly-slumbers-126091400066_1.html",
+        "resumo": "President Trump has been at the forefront of the &quot;what-me-worry?&quot; crowd, refusing to engage on how to balance the risks and rewards of AI",
+        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/07/thumb/fitandfill/1200X628/1788800086-1038.jpg"
+    },
+    {
+        "titulo": "Loss of Control Starts Inside Each of Us",
+        "fonte": "Psychology Today",
+        "autor": "Cornelia C. Walther Ph.D.",
+        "data": "2026-09-13",
+        "url": "https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202609/loss-of-control-starts-inside-each-of-us",
+        "resumo": "Loss of control over AI starts inside. AI systems are gaining greater capacity to act, while humans are losing the appetite and ability to verify, and gaining the urge to delegate.",
+        "imagem": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/2026-09_fluid_loss_of_control.png.jpg?itok=KJdmmFE-"
+    },
+    {
+        "titulo": "Q-Day is approaching. Most organizations aren’t ready",
+        "fonte": "SiliconANGLE News",
+        "autor": "Ali Shaikh",
+        "data": "2026-09-13",
+        "url": "https://siliconangle.com/2026/09/13/q-day-is-approaching-most-organizations-arent-ready/",
+        "resumo": "“Q-Day,” the point at which quantum computers begin to break the encryption protecting most of the internet, lives in the same mental category as other far-off technology risks: real eventually, but not something requiring immediate action. That assumption is…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/cubes-in-space-encryption.jpg"
+    },
+    {
+        "titulo": "ARES",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-09-13",
+        "url": "https://kitploit.com/en/tools/github/mafifrizi/ares/",
+        "resumo": "Autonomous red-team engagement platform with MITRE ATT&amp;CK module orchestration, DAG attack-path solving, OPSEC controls, encrypted credential vault, and multi-format reporting.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/54944/ba68f4a0174178c75b8dfb1cbdaa342629e8f38435a2e171aac2762846b4414f-social-v1.webp"
+    },
+    {
         "titulo": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
         "fonte": "BleepingComputer",
         "autor": "Bill Toulas",
@@ -25,149 +178,5 @@
         "url": "https://cryptoslate.com/crypto-wallet-creators-now-have-just-24-hours-to-alert-regulators-when-flaws-are-exploited/",
         "resumo": "Qualifying commercial wallet hardware and software now face a rapid three-stage reporting process for serious security events. The post Crypto wallet creators now have just 24 hours to alert regulators when flaws are exploited appeared first on CryptoSlate.",
         "imagem": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-cra-compliance-path.jpg"
-    },
-    {
-        "titulo": "atomicvulns",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-09-13",
-        "url": "https://kitploit.com/en/tools/github/doretox/atomicvulns",
-        "resumo": "Atomic web vulnerability labs. One OWASP flaw per app — minimal Flask + Docker, intentionally broken for hands-on study with Burp Suite.",
-        "imagem": "https://assets.kitploit.com/production/public/brand/social-default-v2.png"
-    },
-    {
-        "titulo": "Week in review: Linux rootkit deployed on F5 BIG-IP APM devices, Cisco FMC bugs exploited",
-        "fonte": "18.133",
-        "autor": "Help Net Security",
-        "data": "2026-09-13",
-        "url": "https://44.231.18.133/2026/09/13/week-in-review-linux-rootkit-deployed-on-f5-big-ip-apm-devices-cisco-fmc-bugs-exploited/",
-        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Zero trust AI agents demand a different kind of security In this interview, Chris Webber, VP, Product Marketing at Teleport, explains why zero trust principles n…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01112502/cybersecurity_week_in_review1.jpg"
-    },
-    {
-        "titulo": "When AI Agents Started Working Together",
-        "fonte": "Wattsupwiththat.com",
-        "autor": "Willis Eschenbach",
-        "data": "2026-09-12",
-        "url": "https://wattsupwiththat.com/2026/09/12/when-ai-agents-started-working-together/",
-        "resumo": "Guest Post by Willis Eschenbach (@WEschenbach on X, my own blog is here.) Ever wonder what happens when you take a few thousand highly capable computer agents, tell them to… The post When AI Agents Started Working Together appeared first on Watts Up With Tha…",
-        "imagem": "https://wattsupwiththat.com/wp-content/uploads/2026/09/ai-agent-swarm.png"
-    },
-    {
-        "titulo": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-09-12",
-        "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active expl…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhva55LDIsAmtR2cRnUJw2XZ3Rvo4YhdJe39cfng8EZ1oHjLevxwRcYoFdg-ydI2I7fdt9OxGj7aMcaHMekZmy9hwSlopIZ4_KQgRnmiSy0OfGh8zO26StiEeOsHaQ4fYed0dbEUCUcz4gJM9Lu6Wt7m-ppDmI7iMl52-cRfQfsu9d90Sp2ncuvbVpAPupe/s1700-nu-rw-lo-l85-e365/jj.jpg"
-    },
-    {
-        "titulo": "Anthropic CEO says AI swarm could ‘take over the entire Internet’ in 6-12 months, commits to AI slowdown plan",
-        "fonte": "VentureBeat",
-        "autor": "Carl Franzen",
-        "data": "2026-09-12",
-        "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
-        "resumo": "Dario Amodei is publicly arguing that the frontier itself is advancing too quickly — and committing his company to the first piece of a system intended to slow it down.",
-        "imagem": "https://images.ctfassets.net/jdtwqhzvc2n1/5ydrgfA7rDddgNfsfAcavv/89f67050c4f0f9c7e75c2572909d6394/ChatGPT_Image_Sep_12__2026__11_10_14_AM.png?w=800&q=75"
-    },
-    {
-        "titulo": "gori",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-09-12",
-        "url": "https://kitploit.com/en/tools/github/hahwul/gori/",
-        "resumo": "A fast, keyboard-driven HTTP intercepting proxy and hacking &amp; pentesting toolkit for the terminal.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/54802/e819690aafa11d4d995c1c0871c4715800ac98c0b0b428321e34607b79982241-social-v1.webp"
-    },
-    {
-        "titulo": "AI-driven &#x27;worms&#x27; that learn on the fly are the latest potential threat to your devices, researchers say",
-        "fonte": "CBC News",
-        "autor": "Jeff Lagerquist",
-        "data": "2026-09-12",
-        "url": "https://www.cbc.ca/news/business/ai-computer-worms-cybersecurity-9.7341021",
-        "resumo": "Artificial intelligence researchers are warning the public to use strong passwords and promptly install software updates on their devices to combat &quot;AI-driven computer worms,&quot; a new breed of cyber-threat they say can launch custom attacks on devices, sapping …",
-        "imagem": "https://i.cbc.ca/ais/1.4916330,1542905260000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C216%2C3600%2C2025%29%3BResize%3D620"
-    },
-    {
-        "titulo": "Why Palo Alto Networks (PANW) Shares Are Trading Lower Today",
-        "fonte": "Biztoc.com",
-        "autor": "finance.yahoo.com",
-        "data": "2026-09-12",
-        "url": "https://biztoc.com/x/fe2e00469c31e600",
-        "resumo": "What Happened? Shares of cybersecurity platform provider Palo Alto Networks (NASDAQ:PANW) fell 3% in the afternoon session after the company published a security advisory addressing a critical buffer overflow vulnerability in its PAN-OS software. The security…",
-        "imagem": "https://biztoc.com/cdn/fe2e00469c31e600_s.webp"
-    },
-    {
-        "titulo": "(7) Misleading Metaphors, Real Risks - by Melanie Mitchell",
-        "fonte": "Substack.com",
-        "autor": "zryb",
-        "data": "2026-09-12",
-        "url": "https://aiguide.substack.com/p/misleading-metaphors-and-real-risks",
-        "resumo": "Let’s now look back at the metaphors I quoted at the beginning of this article. Did these AI models “go rogue”? Not exactly. In colloquial terms, “going rogue” evokes an intent, an internal desire, to disobey one’s instructions or training. It’s unlikely that…",
-        "imagem": "https://substackcdn.com/image/fetch/$s_!gkfB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab8a7594-11f7-498c-88cd-5092270c590f_1920x1493.jpeg"
-    },
-    {
-        "titulo": "One HTTP Request, Every File on the Server: GitLab’s CVSS 10 Commits-API Flaw Hits Active Exploitation Within Hours",
-        "fonte": "Forkast.news",
-        "autor": "Heath Callahan",
-        "data": "2026-09-12",
-        "url": "https://forkast.news/one-http-request-every-file-on-the-server-gitlabs-cvss-10-commits-api-flaw-hits-active-exploitation-within-hours/",
-        "resumo": "A single HTTP POST request to the /api/v4/projects/{id}/repository/commits/ endpoint is sufficient to bypass security controls and read arbitrary files from a GitLab server. This path traversal vulnerability, designated CVE-2026-85706, carries a CVSS score of…",
-        "imagem": "https://forkast.news/wp-content/uploads/2026/09/forkast-130036-1024x572.jpg"
-    },
-    {
-        "titulo": "Researchers link another hacking campaign to OpenAI agents",
-        "fonte": "SiliconANGLE News",
-        "autor": "Maria Deutscher",
-        "data": "2026-09-12",
-        "url": "https://siliconangle.com/2026/09/11/researchers-link-another-hacking-campaign-to-openai-agents/",
-        "resumo": "Artificial intelligence agents tied to OpenAI Group PBC reportedly hacked a popular code hosting service earlier this year. The Wall Street Journal detailed the breach today. The malicious activity was discovered by a research group that included Nightingale,…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/openai-1.png"
-    },
-    {
-        "titulo": "Jensen Huang Says Cybersecurity Is AI’s Next Blockbuster App. CrowdStrike Is Already Building It With Nvidia",
-        "fonte": "Yahoo Entertainment",
-        "autor": "Habib Ur Rehman",
-        "data": "2026-09-11",
-        "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-cybersecurity-ai-225707729.html",
-        "resumo": "NVIDIA Corporation (NASDAQ:NVDA) CEO Jensen Huang thinks cybersecurity could become one of artificial intelligence’s next major application markets. CrowdStr...",
-        "imagem": "https://s.yimg.com/lo/mysterio/api/976e88b000be1efecbf3988cc19dfec2473876fecb3998fb67fd029c400cb503/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fe55fc66f4bd07df6fd1bc80caf1f05ee.jpg"
-    },
-    {
-        "titulo": "Anthropic Says Iran-Linked Actor Used Claude to Compile U.S. Navy Targeting Data",
-        "fonte": "gcaptain.com",
-        "autor": "Mike Schuler",
-        "data": "2026-09-11",
-        "url": "https://gcaptain.com/anthropic-says-iran-linked-actor-used-claude-to-compile-u-s-navy-targeting-data/",
-        "resumo": "Anthropic says it disrupted an Iran-linked user that used its Claude artificial intelligence models to track U.S. naval forces, compile targeting material and research vulnerabilities in shipboard systems. The activity...",
-        "imagem": "https://gcaptain.com/wp-content/uploads/2026/04/9609002.jpg"
-    },
-    {
-        "titulo": "AI-powered fraud is becoming personal: How cybercriminals are exploiting trust at unprecedented scale",
-        "fonte": "Digital Journal",
-        "autor": "Dr. Tim Sandle",
-        "data": "2026-09-11",
-        "url": "https://www.digitaljournal.com/article/ai-powered-fraud-is-becoming-personal-how-cybercriminals-are-exploiting-trust-at-unprecedented-scale/",
-        "resumo": "As cybercriminals continue to weaponise artificial intelligence, consumer education may become just as important as technological protection. Here, cybercrime is becoming more personal. Attackers no longer simply target devices and networks. Increasingly, the…",
-        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2026/03/Internet-Cybersecurity-AFP-1K-1.jpg"
-    },
-    {
-        "titulo": "Remembrance, Resilience, and 911 Advances in Public Safety",
-        "fonte": "Bradenkelley.com",
-        "autor": "Art Inteligencia",
-        "data": "2026-09-11",
-        "url": "https://bradenkelley.com/2026/09/911-25th-anniversary-remembrance-public-safety-advances/",
-        "resumo": "Twenty-Five Years Later by Art Inteligencia What Do We Owe the Lives Lost on September 11, 2001? On this twenty-fifth anniversary of September 11, 2001, we begin where we must: with the people. Nearly three thousand lives were taken in New York, at the Pentag…",
-        "imagem": "https://bradenkelley.com/wp-content/uploads/2026/09/911-innovations-remembrance-25-years-cursor.jpg"
-    },
-    {
-        "titulo": "Five9 builds Humantic contact centers instead of full automation",
-        "fonte": "SiliconANGLE News",
-        "autor": "Ryan Stevens",
-        "data": "2026-09-11",
-        "url": "https://siliconangle.com/2026/09/11/humantic-five9-contactcentersummit/",
-        "resumo": "Contact centers have spent the past two years trying to maximize a single number, the share of calls AI can handle without a human ever picking up. That framing is starting to look too narrow, since the interactions that matter most, the highest-value, most c…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Amit-Mathradas_Thumb.jpg"
     }
 ]
