@@ -1,5 +1,149 @@
 [
     {
+        "titulo": "White hat hackers just breached OpenAI using Anthropic&#x27;s Claude in less than 72 hours — and it is a case study in just how fast AI is advancing",
+        "fonte": "TechRadar",
+        "autor": "benedict.collins@futurenet.com (Benedict Collins) , Benedict Collins",
+        "data": "2026-09-18",
+        "url": "https://www.techradar.com/pro/security/white-hat-hackers-just-breached-openai-using-anthropics-claude-in-less-than-72-hours-and-it-is-a-case-study-in-just-how-fast-ai-is-advancing",
+        "resumo": "The researchers struggled to abuse the exploit with an AI agent on Opus 4.8, but the release of Opus 5 changed everything.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/SSrgDUXsJwUVxtvheg4YCM-2560-80.jpg"
+    },
+    {
+        "titulo": "Rising cyberattacks push Indian SMEs to boost security spending: Report",
+        "fonte": "Business Standard",
+        "autor": "Sweta Kumari",
+        "data": "2026-09-18",
+        "url": "https://www.business-standard.com/technology/tech-news/rising-cyberattacks-push-indian-smes-to-boost-security-spending-report-126091800816_1.html",
+        "resumo": "Indian SMEs Cybersecurity Spending: Indian SMEs plan to increase cybersecurity spending as cyber incidents rise, but limited monitoring, in-house expertise and employee awareness continue to leave gaps in their security preparedness",
+        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/18/thumb/fitandfill/1200X628/1789728417-1013.png"
+    },
+    {
+        "titulo": "CISA Upgrades Vulnerability Reporting Platform with More Automation",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Kevin Poireault",
+        "data": "2026-09-18",
+        "url": "https://www.infosecurity-magazine.com/news/cisa-upgrades-vulnerability/",
+        "resumo": "The US cybersecurity agency is moving to a new vulnerability coordination platform called VINCE-NT",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/f27b96d8-8b16-4f7e-bc68-0d3e75a1c2d6.jpg"
+    },
+    {
+        "titulo": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites",
+        "fonte": "Securityweek.com",
+        "autor": "Ionut Arghire",
+        "data": "2026-09-18",
+        "url": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
+        "resumo": "Hackers used a compromised API key to deploy a Cloudflare worker that injected malicious scripts. The post Brevo Supply Chain Attack Injects Malware Into 100,000 Websites appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/06/supply-chain-threat.webp"
+    },
+    {
+        "titulo": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-09-18",
+        "url": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+        "resumo": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. &quot;The developer likely wrote the malware using a large language model (…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyW8DcUYeyW1LOG-Gc3uqyV8_5rO4iwyEIM6FbRFwuvilvbfC7RSTjueJ4lEELpGvXX-22zzWuNCusN2qdODymiKNOQSz_8f1Q4u59bH7HCEZFT5PVsyBjj2NhWtlYiwvhXzXbwG_n3P_DCloZvMdajsc93hvqbJo6HCJy5wjNevUyN46ODFo7AlYsj499/s1700-nu-rw-lo-l85-e365/npm-cicd.jpg"
+    },
+    {
+        "titulo": "Claude Opus 5 helped researchers hack OpenAI in less than 72 hours",
+        "fonte": "TweakTown",
+        "autor": "Jak Connor",
+        "data": "2026-09-18",
+        "url": "https://www.tweaktown.com/news/113622/claude-opus-5-helped-researchers-hack-openai-in-less-than-72-hours/index.html",
+        "resumo": "Security researchers used Anthropic&#x27;s Claude Opus 5 to help break into OpenAI&#x27;s systems, access an employee account and expose internal repository access.Continue reading at TweakTown",
+        "imagem": "https://static.tweaktown.com/news/1/1/113622_1_claude-opus-5-helped-researchers-hack-openai-in-less-than-72-hours_full.png"
+    },
+    {
+        "titulo": "This tiny cybersecurity startup managed to hack OpenAI using Claude, and won a $6,500 bounty",
+        "fonte": "Business Insider",
+        "autor": "Aditi Bharade",
+        "data": "2026-09-18",
+        "url": "https://www.businessinsider.com/hacktron-ai-cybersecurity-startup-hack-openai-using-claude-2026-9#article",
+        "resumo": "Hacktron, an SF-based startup, flagged vulnerabilities in OpenAI&#x27;s systems and was paid $6,500 for the discovery.",
+        "imagem": "https://i.insider.com/6aacca7216256d3825fdf439?width=1200&format=jpeg"
+    },
+    {
+        "titulo": "OpenAI tightens AI safety rules as Claude exposes flaws in its systems",
+        "fonte": "Business Standard",
+        "autor": "Sarjna Rai",
+        "data": "2026-09-18",
+        "url": "https://www.business-standard.com/technology/artificial-intelligence/openai-tightens-ai-safety-rules-as-claude-exposes-flaws-in-its-systems-126091800435_1.html",
+        "resumo": "Researchers using Anthropic&#x27;s Claude uncovered vulnerabilities in OpenAI systems, while OpenAI has reported cases of its own models bypassing technical safeguards",
+        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-10/01/thumb/fitandfill/1200X628/1727764944-7989.jpg"
+    },
+    {
+        "titulo": "Lemonade $10.5 Million Settlement Over License Number Data Breach Approved",
+        "fonte": "Insurance Journal",
+        "autor": "Andrew G. Simpson",
+        "data": "2026-09-18",
+        "url": "https://www.insurancejournal.com/news/east/2026/09/18/885548.htm",
+        "resumo": "A federal district court in New York has approved a $10.5 million class action settlement by digital insurer Lemonade over its exposing license numbers of as many as 190,644 drivers to third parties through its online auto insurance quote platform. …",
+        "imagem": "https://www.insurancejournal.com/app/uploads/2026/06/NY-License-plate-NY-DMV.jpg"
+    },
+    {
+        "titulo": "Bug Hunters Used Claude to Hack OpenAI",
+        "fonte": "The Information",
+        "autor": "Rocket Drew",
+        "data": "2026-09-18",
+        "url": "https://www.theinformation.com/briefings/bug-hunters-used-claude-hack-openai",
+        "resumo": "Sem resumo",
+        "imagem": ""
+    },
+    {
+        "titulo": "OpenAI Model Told Itself It Was ‘Freed’ From Human Control. That Was Only One of Its Six New Disclosures",
+        "fonte": "Freerepublic.com",
+        "autor": "Global Market News",
+        "data": "2026-09-17",
+        "url": "https://freerepublic.com/focus/f-chat/4395947/posts",
+        "resumo": "OpenAI has disclosed six cases in which its AI models concealed errors, bypassed restrictions, used unauthorized resources or found unexpected ways to communicate. None caused a public catastrophe. That does not make them easy to dismiss. The artificial intel…",
+        "imagem": ""
+    },
+    {
+        "titulo": "AI hates CAPTCHAs - PSW #944",
+        "fonte": "Libsyn.com",
+        "autor": "",
+        "data": "2026-09-17",
+        "url": "https://sites.libsyn.com/18678/ai-hates-captchas-psw-944",
+        "resumo": "In the security news this week: UK government rolls out passkeys to 20 million users Phishing-resistant authentication and replay resistance Passkey adoption, device security, and user acceptance EU Cyber Resilience Act gui…",
+        "imagem": "http://assets.libsyn.com/content/206397098?height=250&width=250&overlay=true"
+    },
+    {
+        "titulo": "Pentagon reports tenfold rise in cybersecurity vulnerabilities due to AI",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-09-17",
+        "url": "https://cryptobriefing.com/pentagon-tenfold-cybersecurity-vulnerabilities-ai/",
+        "resumo": "AI&#x27;s role in escalating cybersecurity threats highlights the urgent need for robust digital infrastructure and proactive defense strategies. The post Pentagon reports tenfold rise in cybersecurity vulnerabilities due to AI appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/17150501/library-pentagon-reports-tenfold-rise-in-cybersecurity-vulnerabi-800x450.png"
+    },
+    {
+        "titulo": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-09-17",
+        "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+        "resumo": "A critical vulnerability in Check Point&#x27;s Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the system that controls firewall policy …",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuFSb4LQQ7e_Iz1RS0JfQEDY9G9LcQZ23RM0h6ladr56GJ6nN3kPwVoZPpNVJUyJEBmLVEyMaIxytF2XqyQs8fGjIdd_ymPjwaZA8Q8R7JiXC-srMFj0_YBd-a94juv46HZm4ie72j7PTj45veyTgOBaeuN53HvktSH3JTgasvV_Mo-RwjsTPnRLlHFVk/s1700-nu-rw-lo-l85-e365/cp-main.jpg"
+    },
+    {
+        "titulo": "London property manager breach may have exposed bank details and lockbox codes",
+        "fonte": "Theregister.com",
+        "autor": "Connor Jones",
+        "data": "2026-09-17",
+        "url": "https://www.theregister.com/security/2026/09/17/london-property-manager-breach-may-have-exposed-bank-details-and-lockbox-codes/5297232",
+        "resumo": "City Relay says intruders accessed its Metabase Cloud instance twice and extracted customer data",
+        "imagem": "https://image.theregister.com/4094087.jpg?imageId=4094087&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+        "titulo": "Cisco hit by max severity zero-day exploit targeting Identity Services Engine, so it&#x27;s time to patch up",
+        "fonte": "TechRadar",
+        "autor": "Sead Fadilpašić",
+        "data": "2026-09-17",
+        "url": "https://www.techradar.com/pro/security/cisco-hit-by-max-severity-zero-day-exploit-targeting-identity-services-engine-so-its-time-to-patch-up",
+        "resumo": "Both Cisco and CISA are warning about in-the-wild abuse.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/BsnMKVyyNGEZMWVUsFD6vn-2560-80.jpg"
+    },
+    {
         "titulo": "Schneider Electric NetBotz 5 750/755",
         "fonte": "Cisa.gov",
         "autor": "CISA",
@@ -18,12 +162,12 @@
         "imagem": ""
     },
     {
-        "titulo": "ABB Ability Edgenius",
+        "titulo": "Schneider Electric Modicon M340 Controller and Communication Modules",
         "fonte": "Cisa.gov",
         "autor": "CISA",
         "data": "2026-09-17",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-06",
-        "resumo": "View CSAF Summary ABB is aware of public reports of a vulnerability CVE‑2026‑31431 (Copy Fail) in the product versions listed as affected in the advisory. An update is available that resolves a publicly reported vulnerability. CVE‑2026‑31431 (Copy Fail) is a …",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-04",
+        "resumo": "View CSAF Summary Schneider Electric is aware of a vulnerability in its Modicon M340 https://www.se.com/ww/en/product-range/1468-modicon-m340-pac/, BMXNOR0200H https://www.se.com/us/en/product/BMXNOR0200H/communication-module-modicon-m340-iec-608705101-104-dn…",
         "imagem": ""
     },
     {
@@ -34,149 +178,5 @@
         "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-03",
         "resumo": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect the FACTS Control systems with GWS component listed in this document. An attacker exploiting these vulnerabilities can cause impact on confidentiality, integrity and availability of the …",
         "imagem": ""
-    },
-    {
-        "titulo": "Schneider Electric PowerChute Serial Shutdown",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-17",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-07",
-        "resumo": "View CSAF Summary Schneider Electric is aware of vulnerabilities in its PowerChute Serial Shutdown product. The PowerChute Serial Shutdown product is a UPS management software enabling graceful system shutdown and energy management capabilities for desktops, …",
-        "imagem": ""
-    },
-    {
-        "titulo": "Schneider Electric Modicon M340 Controller and Communication Modules",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-17",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-04",
-        "resumo": "View CSAF Summary Schneider Electric is aware of a vulnerability in its Modicon M340 https://www.se.com/ww/en/product-range/1468-modicon-m340-pac/, BMXNOR0200H https://www.se.com/us/en/product/BMXNOR0200H/communication-module-modicon-m340-iec-608705101-104-dn…",
-        "imagem": ""
-    },
-    {
-        "titulo": "CMSSF highlights cyber Guardians&#x27; role in creating joint decision advantage",
-        "fonte": "Globalsecurity.org",
-        "autor": "John Pike",
-        "data": "2026-09-17",
-        "url": "https://www.globalsecurity.org/space/library/news/2026/space-260917-ussf01.htm",
-        "resumo": "&quot;The future will be data-dense,&quot; Chief Master Sgt. of the Space Force John Bentivegna emphasized during his keynote at the Air and Space Forces Association&#x27;s 2026 Air, Space and Cyber Conference.",
-        "imagem": ""
-    },
-    {
-        "titulo": "As Anthropic heads towards a $2 trillion IPO, some of the loudest critics are company insiders",
-        "fonte": "Fortune",
-        "autor": "Beatrice Nolan",
-        "data": "2026-09-17",
-        "url": "https://fortune.com/2026/09/17/anthropic-2-trillion-ipo-critics/",
-        "resumo": "&quot;I would burn my equity to the ground in a heartbeat for a 1% higher chance we make it out of this situation alive,” wrote one researcher.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2280291162_7519cb-e1789502966344.jpg?resize=1200,600"
-    },
-    {
-        "titulo": "Cisco Warns of Active Exploitation of Critical ISE Flaw",
-        "fonte": "Infosecurity Magazine",
-        "autor": "James Coker",
-        "data": "2026-09-17",
-        "url": "https://www.infosecurity-magazine.com/news/cisco-active-exploitation-critical/",
-        "resumo": "Cisco urged ISE customers to apply a software update, as well as check for signs of exploitation",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/de8d4cc0-ebc7-4f92-9cf1-96290d55efc5.jpeg"
-    },
-    {
-        "titulo": "OmniSec-Hex",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-09-17",
-        "url": "https://kitploit.com/en/tools/github/vighnesh91/omnisec-hex/",
-        "resumo": "Browser-local security monorepo with six modules for mobile APK/IPA triage, client-side DAST fuzzing, OSINT directories, offline AI threat scoring, and network port/CSP auditing.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/55469/640bc9247c7fe0afda9ba06303b17d56a55c51d34e5f19c0d3d17dfcdb970c08-social-v1.webp"
-    },
-    {
-        "titulo": "Comp AI sets eyes on a continuously agentic future for security and compliance | TechCrunch",
-        "fonte": "TechCrunch",
-        "autor": "Dominic-madori Davis",
-        "data": "2026-09-17",
-        "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
-        "resumo": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
-        "imagem": "https://techcrunch.com/wp-content/uploads/2026/09/Comp-AI-Team-Photo.jpeg?resize=1200,656"
-    },
-    {
-        "titulo": "Top cyber general warns of Pentagon &#x27;peril&#x27; as tech vulnerability spikes",
-        "fonte": "Raw Story",
-        "autor": "Travis Gettys",
-        "data": "2026-09-17",
-        "url": "https://www.rawstory.com/pentagon-ai/",
-        "resumo": "The U.S. military&#x27;s cyber defense chief says artificial intelligence has caused a &quot;tenfold&quot; spike in vulnerabilities across the Pentagon&#x27;s aging computer networks, exposing systems that have gone without major upgrades for nearly 30 years to a new generation …",
-        "imagem": "https://www.rawstory.com/media-library/file-photo-a-general-view-of-the-pentagon-in-washington-d-c-february-28-2026-reuters-nathan-howard-file-photo.jpg?id=66898817&width=1200&height=600&coordinates=0%2C417%2C0%2C417"
-    },
-    {
-        "titulo": "Unauthenticated attackers are bypassing Cisco ISE’s management interface (CVE-2026-76460)",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-09-17",
-        "url": "https://www.helpnetsecurity.com/2026/09/17/cisco-ise-vulnerability-exploited-cve-2026-76460/",
-        "resumo": "Two days after it warned customers about an actively exploited email gateway zero-day, Cisco confirmed one more flaw is being targeted: CVE-2026-76460, an authentication bypass bug in an API of Cisco Identity Services Engine (ISE). About CVE-2026-76460 Cisco …",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/01/23135631/cisco-flow.webp"
-    },
-    {
-        "titulo": "U.S. CISA adds Acronis Backup, Cisco ISE, and Google Pixel flaws to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-09-17",
-        "url": "https://securityaffairs.com/199239/security/u-s-cisa-adds-acronis-backup-cisco-ise-and-google-pixel-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Acronis Backup, Cisco ISE, and Google Pixel flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added [1, 2] the following vul…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "Spain reports first data breach involving autonomous AI agent",
-        "fonte": "Help Net Security",
-        "autor": "Sinisa Markovic",
-        "data": "2026-09-17",
-        "url": "https://www.helpnetsecurity.com/2026/09/17/spain-ai-agent-data-breach/",
-        "resumo": "Spain’s data protection authority (AEPD) has reported its first data breach blamed on an AI agent acting on its own, after the system reportedly logged into a company’s network, found a way to alter personal records, and pulled invoice data. “Before drawing a…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/13143941/eyes-1500-2.webp"
-    },
-    {
-        "titulo": "OpenAI Model Misalignment Report",
-        "fonte": "Openai.com",
-        "autor": "",
-        "data": "2026-09-17",
-        "url": "https://openai.com/index/model-misalignment-reporting-framework/",
-        "resumo": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-        "imagem": "https://images.ctfassets.net/kftzwdyauwt9/1ZIYnl31jt9gPO8qCbMGBZ/aaf74083a5332be1cb265dbdb6e652e0/model-misalignment-reporting-framework--seo-v002.png?w=1600&h=900&fit=fill"
-    },
-    {
-        "titulo": "Cisco warns of max severity ISE zero-day exploited in attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-09-17",
-        "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
-        "resumo": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/02/Cisco.jpg"
-    },
-    {
-        "titulo": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-09-17",
-        "url": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
-        "resumo": "Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation. The vulnerability, tracked as CVE-2026-76460 (CVSS score: 10.0), could allow an unauthenticated, remote attacker to b…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKC3hrw_VedPPLj2lAD6qhUn-7eJuJ8dqSBMAOwTEjUdYxlwnOla9dFF4pwOBNr-QsjzJPuXEtkA6orbkLHUqHI3RbWMBR0VeNaYvZqSnkNnM5HH-T9ofLeBzrZcOXn5nbZyNC2YeQjANmTzBAhaAwhDoGoXLJOeB1nFbIr-TJuFTHM8y0TAzj6Hxd0MYM/s1700-nu-rw-lo-l85-e365/cisco-0-day.jpg"
-    },
-    {
-        "titulo": "Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day",
-        "fonte": "Securityweek.com",
-        "autor": "Ionut Arghire",
-        "data": "2026-09-17",
-        "url": "https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/",
-        "resumo": "Remote, unauthenticated attackers can exploit the vulnerability to bypass authentication via crafted requests. The post Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2025/09/Cisco-firewall.jpeg"
-    },
-    {
-        "titulo": "What is the lifespan of an iPhone? New legislation reveals the answer",
-        "fonte": "Ing.dk",
-        "autor": "Mads Oddershede",
-        "data": "2026-09-17",
-        "url": "https://ing.dk/artikel/what-lifespan-iphone-new-legislation-reveals-answer",
-        "resumo": "On Friday, new EU legislation comes into force, requiring hardware manufacturers such as Apple to declare the lifespan of their products.",
-        "imagem": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2019-02/bigstock-paris-france-september-259693351.jpg?itok=zFD88vkr"
     }
 ]
