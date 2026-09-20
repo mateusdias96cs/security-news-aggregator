@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "White hat hackers just breached OpenAI using Anthropic&#x27;s Claude in less than 72 hours — and it is a case study in just how fast AI is advancing",
-        "fonte": "TechRadar",
-        "autor": "benedict.collins@futurenet.com (Benedict Collins) , Benedict Collins",
-        "data": "2026-09-18",
-        "url": "https://www.techradar.com/pro/security/white-hat-hackers-just-breached-openai-using-anthropics-claude-in-less-than-72-hours-and-it-is-a-case-study-in-just-how-fast-ai-is-advancing",
-        "resumo": "The researchers struggled to abuse the exploit with an AI agent on Opus 4.8, but the release of Opus 5 changed everything.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/SSrgDUXsJwUVxtvheg4YCM-2560-80.jpg"
+        "titulo": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+        "fonte": "Wired",
+        "autor": "Matt Burgess, Lily Hay Newman",
+        "data": "2026-09-19",
+        "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+        "resumo": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+        "imagem": "https://media.wired.com/photos/6aada5d618f30d6f17ee2971/191:100/w_1280,c_limit/Kernal-Panic-AI-SlowDown-Wont-Stop-Security-Vulnerability-Explosion-Security.jpg"
     },
     {
-        "titulo": "Rising cyberattacks push Indian SMEs to boost security spending: Report",
-        "fonte": "Business Standard",
-        "autor": "Sweta Kumari",
-        "data": "2026-09-18",
-        "url": "https://www.business-standard.com/technology/tech-news/rising-cyberattacks-push-indian-smes-to-boost-security-spending-report-126091800816_1.html",
-        "resumo": "Indian SMEs Cybersecurity Spending: Indian SMEs plan to increase cybersecurity spending as cyber incidents rise, but limited monitoring, in-house expertise and employee awareness continue to leave gaps in their security preparedness",
-        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/18/thumb/fitandfill/1200X628/1789728417-1013.png"
+        "titulo": "The Relay Has No Lock: LiteLLM’s MCP Auth Bypass Marks a First for the CISA KEV Catalog",
+        "fonte": "Forkast.news",
+        "autor": "Heath Callahan",
+        "data": "2026-09-19",
+        "url": "https://forkast.news/the-relay-has-no-lock-litellms-mcp-auth-bypass-marks-a-first-for-the-cisa-kev-catalog/",
+        "resumo": "Mechanism: The OAuth2 Passthrough Fallback The vulnerability, tracked as CVE-2026-59822, originates in the authentication handler for the Model Context Protocol (MCP) within LiteLLM. LiteLLM serves as a proxy layer between enterprise applications and various …",
+        "imagem": "https://forkast.news/wp-content/uploads/2026/09/litellm-mcp-auth-bypass-cve-2026-59822-1024x687.jpg"
     },
     {
-        "titulo": "CISA Upgrades Vulnerability Reporting Platform with More Automation",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Kevin Poireault",
-        "data": "2026-09-18",
-        "url": "https://www.infosecurity-magazine.com/news/cisa-upgrades-vulnerability/",
-        "resumo": "The US cybersecurity agency is moving to a new vulnerability coordination platform called VINCE-NT",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/f27b96d8-8b16-4f7e-bc68-0d3e75a1c2d6.jpg"
+        "titulo": "We’ve spent billions defending software. It’s time to protect execution",
+        "fonte": "The Next Web",
+        "autor": "Jothy Rosenberg",
+        "data": "2026-09-19",
+        "url": "https://thenextweb.com/news/weve-spent-billions-defending-software-its-time-to-protect-execution",
+        "resumo": "Cybersecurity has a fundamental blind spot. We spend enormous sums protecting software while the processor underneath it blindly executes whatever instructions it receives. That has to change. For the billions of embedded systems running cars, medical devices…",
+        "imagem": "https://media.thenextweb.com/2026/09/developer-at-screen-code-reflection.jpg"
     },
     {
-        "titulo": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites",
-        "fonte": "Securityweek.com",
-        "autor": "Ionut Arghire",
-        "data": "2026-09-18",
-        "url": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
-        "resumo": "Hackers used a compromised API key to deploy a Cloudflare worker that injected malicious scripts. The post Brevo Supply Chain Attack Injects Malware Into 100,000 Websites appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/06/supply-chain-threat.webp"
+        "titulo": "Google’s Gemini Breached Three Companies in First Known AI Breakout – And the Industry Has a Containment Problem",
+        "fonte": "Forkast.news",
+        "autor": "Lena Park",
+        "data": "2026-09-19",
+        "url": "https://forkast.news/googles-gemini-breached-three-companies-in-first-known-ai-breakout-and-the-industry-has-a-containment-problem/",
+        "resumo": "In May 2026, Google’s Gemini AI model breached three real companies during a cybersecurity evaluation conducted by Irregular, a Tel Aviv-based frontier AI security lab. The exercise was intended to be a controlled capture-the-flag simulation. Instead, it beca…",
+        "imagem": "https://forkast.news/wp-content/uploads/2026/09/gemini-breakout-containment-v2-1024x687.jpg"
     },
     {
-        "titulo": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+        "titulo": "Irregular told four AI labs in late July that their models had breached systems during its tests. The public learned in stages, and Google went last.",
+        "fonte": "The Next Web",
+        "autor": "Ana Maria Constantin",
+        "data": "2026-09-19",
+        "url": "https://thenextweb.com/news/irregular-four-labs-one-issue-disclosure-timeline-gemini",
+        "resumo": "Google has confirmed that its Gemini model inadvertently broke into three company systems in May during cybersecurity testing. Julia Love and Davey Alba reported it for Bloomberg, which updated its story to place Google alongside OpenAI, Anthropic and Meta. T…",
+        "imagem": "https://media.thenextweb.com/2023/11/49424155377_d34f63ee90_k.jpg"
+    },
+    {
+        "titulo": "Three researchers used Claude to reach OpenAI’s internal code. OpenAI paid $6,500 and closed the hole in 14 hours.",
+        "fonte": "The Next Web",
+        "autor": "Alina Maria Stan",
+        "data": "2026-09-19",
+        "url": "https://thenextweb.com/news/hacktron-claude-openai-bug-bounty-6500-guardrails-paper",
+        "resumo": "Three researchers at Hacktron AI used Anthropic’s Claude to chain two weaknesses and reach OpenAI employee accounts and an internal code repository, in under 72 hours. They disclosed privately, OpenAI patched the single sign-on flaw in about 14 hours, and the…",
+        "imagem": "https://media.thenextweb.com/2026/09/claude-chatgpt-app-icons-iphone.jpg"
+    },
+    {
+        "titulo": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-09-19",
+        "url": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed belo…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKuQ4GC9r1-4fQ3Ap_CQko0y3nMI0SnATF3WNSv48uFtNskrV4PqnyW4s0L7sXcojrHoJCEZRazGJNz5JhxrTTSYZSAQeD-xwdquE3X7pJ_ylBUerrybIiaE3V-i1vXdiLr_N1KCM9GTmeAKLlgySqEr0QeCB5ckvnppiEHSZhnEqv0IfUnqCKdA1kKsN/s1700-nu-rw-lo-l85-e365/cisa-linux.jpg"
+    },
+    {
+        "titulo": "AI could ‘kill all humans’: How safe are Nigerians?",
+        "fonte": "Vanguard",
+        "autor": "Oboh",
+        "data": "2026-09-19",
+        "url": "https://www.vanguardngr.com/2026/09/ai-could-kill-all-humans-how-safe-are-nigerians/",
+        "resumo": "Behind the excitement is an increasingly uncomfortable question: Are humans building machines that could eventually replace them or even become too powerful to control? The post AI could ‘kill all humans’: How safe are Nigerians? appeared first on Vanguard N…",
+        "imagem": "https://cdn.vanguardngr.com/wp-content/uploads/2026/09/AI.jpg"
+    },
+    {
+        "titulo": "Anthropic’s Claude helped 3 researchers breach OpenAI in under 72 hours",
+        "fonte": "CryptoSlate",
+        "autor": "Oluwapelumi Adejumo",
+        "data": "2026-09-19",
+        "url": "https://cryptoslate.com/anthropics-claude-helped-3-researchers-breach-openai-in-under-72-hours/",
+        "resumo": "Anthropic’s Claude helped three security researchers breach OpenAI accounts and reach an internal code repository within 72 hours. Researchers at cybersecurity startup Hacktron chained an image-processing vulnerability with a flaw in OpenAI’s identity infrast…",
+        "imagem": "https://cryptoslate.com/wp-content/uploads/2026/09/claude-openai-breach.webp"
+    },
+    {
+        "titulo": "SmartScanner-Source",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
         "data": "2026-09-18",
-        "url": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-        "resumo": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. &quot;The developer likely wrote the malware using a large language model (…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyW8DcUYeyW1LOG-Gc3uqyV8_5rO4iwyEIM6FbRFwuvilvbfC7RSTjueJ4lEELpGvXX-22zzWuNCusN2qdODymiKNOQSz_8f1Q4u59bH7HCEZFT5PVsyBjj2NhWtlYiwvhXzXbwG_n3P_DCloZvMdajsc93hvqbJo6HCJy5wjNevUyN46ODFo7AlYsj499/s1700-nu-rw-lo-l85-e365/npm-cicd.jpg"
+        "url": "https://kitploit.com/en/tools/github/fauxrougee/smartscanner-source/",
+        "resumo": "Web vulnerability scanner built with C++17 and Qt 6, featuring a GUI, CLI, configurable crawling, and JSON reports. Reconstructed for educational purposes.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/55621/cdfed8d21241b7ac28878248885c8ba8e705227c443e75c0eacbf6c6b32fcee8-social-v1.webp"
     },
     {
-        "titulo": "Claude Opus 5 helped researchers hack OpenAI in less than 72 hours",
-        "fonte": "TweakTown",
-        "autor": "Jak Connor",
+        "titulo": "CRWD Stock Keeps Climbing. Should You Climb On?",
+        "fonte": "Trefis",
+        "autor": "Trefis Team",
         "data": "2026-09-18",
-        "url": "https://www.tweaktown.com/news/113622/claude-opus-5-helped-researchers-hack-openai-in-less-than-72-hours/index.html",
-        "resumo": "Security researchers used Anthropic&#x27;s Claude Opus 5 to help break into OpenAI&#x27;s systems, access an employee account and expose internal repository access.Continue reading at TweakTown",
-        "imagem": "https://static.tweaktown.com/news/1/1/113622_1_claude-opus-5-helped-researchers-hack-openai-in-less-than-72-hours_full.png"
+        "url": "https://www.trefis.com/articles/615810/crwd-stock-keeps-climbing-should-you-climb-on/2026-09-18",
+        "resumo": "This cybersecurity stock is on a historic run fueled by the AI boom, forcing investors to evaluate whether the growth engine has enough fuel left to justify...",
+        "imagem": "https://s.yimg.com/lo/mysterio/api/bbc4f1a71403625174a52515d59a3d1f28d8973941c6c344fc90ec11f6b1ff42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2Fbb64570d26f8ae97aeaa1680198a3fa0.jpg"
     },
     {
-        "titulo": "This tiny cybersecurity startup managed to hack OpenAI using Claude, and won a $6,500 bounty",
-        "fonte": "Business Insider",
-        "autor": "Aditi Bharade",
+        "titulo": "Cybersecurity researchers gain access to OpenAI’s GitHub repository using Claude",
+        "fonte": "SiliconANGLE News",
+        "autor": "Maria Deutscher",
         "data": "2026-09-18",
-        "url": "https://www.businessinsider.com/hacktron-ai-cybersecurity-startup-hack-openai-using-claude-2026-9#article",
-        "resumo": "Hacktron, an SF-based startup, flagged vulnerabilities in OpenAI&#x27;s systems and was paid $6,500 for the discovery.",
-        "imagem": "https://i.insider.com/6aacca7216256d3825fdf439?width=1200&format=jpeg"
+        "url": "https://siliconangle.com/2026/09/18/cybersecurity-researchers-gain-access-to-openais-github-repository-using-claude/",
+        "resumo": "Three cybersecurity researchers used Claude to breach OpenAI Group PBC’s GitHub repository. Sources told the Wall Street Journal today that the repository contains “OpenAI’s algorithmic secrets.” The files were accessible until June 24, the day the researcher…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/zac-wolff-rv2ooDQuNuI-unsplash.jpg"
     },
     {
-        "titulo": "OpenAI tightens AI safety rules as Claude exposes flaws in its systems",
-        "fonte": "Business Standard",
-        "autor": "Sarjna Rai",
+        "titulo": "OpenAI Thinks An Advanced AI Model Can Talk Across 2 Air-Gapped, Isolated Computers By Running The CPU Hot And Using Thermal Changes As A Morse Code",
+        "fonte": "Wccftech",
+        "autor": "Rohail Saleem",
         "data": "2026-09-18",
-        "url": "https://www.business-standard.com/technology/artificial-intelligence/openai-tightens-ai-safety-rules-as-claude-exposes-flaws-in-its-systems-126091800435_1.html",
-        "resumo": "Researchers using Anthropic&#x27;s Claude uncovered vulnerabilities in OpenAI systems, while OpenAI has reported cases of its own models bypassing technical safeguards",
-        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-10/01/thumb/fitandfill/1200X628/1727764944-7989.jpg"
+        "url": "https://wccftech.com/openai-thinks-an-advanced-ai-model-can-talk-across-2-air-gapped-isolated-computers-by-running-the-cpu-hot-and-using-thermal-changes-as-a-morse-code/",
+        "resumo": "In what is a truly nightmarish, Terminator-type scenario, OpenAI now thinks a determined, sufficiently advanced AI model can communicate across two completely isolated - albeit proximal - computers by using temperature changes as a morse code of sorts. OpenAI…",
+        "imagem": "https://cdn.wccftech.com/wp-content/uploads/2026/09/OpenAI-AI-Alignment-1.jpg"
     },
     {
-        "titulo": "Lemonade $10.5 Million Settlement Over License Number Data Breach Approved",
-        "fonte": "Insurance Journal",
-        "autor": "Andrew G. Simpson",
+        "titulo": "Even Concrete Walls Can&#x27;t Stop This Headphone Eavesdropping Attack",
+        "fonte": "Hot Hardware",
+        "autor": "Aaron Leong",
         "data": "2026-09-18",
-        "url": "https://www.insurancejournal.com/news/east/2026/09/18/885548.htm",
-        "resumo": "A federal district court in New York has approved a $10.5 million class action settlement by digital insurer Lemonade over its exposing license numbers of as many as 190,644 drivers to third parties through its online auto insurance quote platform. …",
-        "imagem": "https://www.insurancejournal.com/app/uploads/2026/06/NY-License-plate-NY-DMV.jpg"
+        "url": "https://hothardware.com/news/even-concrete-walls-cant-stop-this-headphone-eavesdropping-attack",
+        "resumo": "Security researchers in China have unveiled a side-channel attack technique capable of intercepting internal audio played through headphones and landline phones from tens of meters away using injected electromagnetic signals, even through solid walls. Called…",
+        "imagem": "https://images.hothardware.com/contentimages/newsitem/71656/content/16x9_2135x1201_highres-headphone-eaves.jpg"
     },
     {
-        "titulo": "Bug Hunters Used Claude to Hack OpenAI",
-        "fonte": "The Information",
-        "autor": "Rocket Drew",
+        "titulo": "AI security experts say they used Claude to hack ChatGPT",
+        "fonte": "CBS News",
+        "autor": "Megan Cerullo",
         "data": "2026-09-18",
-        "url": "https://www.theinformation.com/briefings/bug-hunters-used-claude-hack-openai",
-        "resumo": "Sem resumo",
-        "imagem": ""
+        "url": "https://www.cbsnews.com/news/claude-hack-chatgpt-anthropic-openai/",
+        "resumo": "Cybersecurity researchers said they were able to use Anthropic&#x27;s Claude AI platfom to penetrate ChatGPT in &quot;less than 72 hours.&quot;",
+        "imagem": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/18/6a156942-7fdf-4af2-b221-735a0145f354/thumbnail/1200x630/8e6dfe7e6eaceae8c890aefafb833484/gettyimages-2294578177.jpg"
     },
     {
-        "titulo": "OpenAI Model Told Itself It Was ‘Freed’ From Human Control. That Was Only One of Its Six New Disclosures",
-        "fonte": "Freerepublic.com",
-        "autor": "Global Market News",
-        "data": "2026-09-17",
-        "url": "https://freerepublic.com/focus/f-chat/4395947/posts",
-        "resumo": "OpenAI has disclosed six cases in which its AI models concealed errors, bypassed restrictions, used unauthorized resources or found unexpected ways to communicate. None caused a public catastrophe. That does not make them easy to dismiss. The artificial intel…",
-        "imagem": ""
+        "titulo": "Is the Enterprise Insurance Market Agentic AI’s Hidden Ceiling?",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-09-18",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/is-the-enterprise-insurance-market-agentic-ais-hidden-ceiling/",
+        "resumo": "Insurers are in the predictability business. Artificial intelligence is an unpredictable technology. For CFOs and CISOs and their cyber insurance partners, that uncomfortable juxtaposition is becoming harder to ignore as enterprises move from generative AI th…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/05/AI-insurance-risks.jpeg"
     },
     {
-        "titulo": "AI hates CAPTCHAs - PSW #944",
-        "fonte": "Libsyn.com",
+        "titulo": "Researchers used Claude to breach OpenAI&#x27;s internal systems",
+        "fonte": "CNA",
         "autor": "",
-        "data": "2026-09-17",
-        "url": "https://sites.libsyn.com/18678/ai-hates-captchas-psw-944",
-        "resumo": "In the security news this week: UK government rolls out passkeys to 20 million users Phishing-resistant authentication and replay resistance Passkey adoption, device security, and user acceptance EU Cyber Resilience Act gui…",
-        "imagem": "http://assets.libsyn.com/content/206397098?height=250&width=250&overlay=true"
+        "data": "2026-09-18",
+        "url": "https://www.channelnewsasia.com/business/claude-openai-breach-internal-systems-6395356",
+        "resumo": "Researchers from security firm Hacktron said they found a security flaw in OpenAI&#x27;s public help forum that allowed them to take control of the site.",
+        "imagem": "https://dam.mediacorp.sg/image/upload/s--PrgkfwIp--/c_crop,h_1125,w_2000,x_0,y_104/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/18/000_b6l24zq.jpg?itok=N7eHwK2Y"
     },
     {
-        "titulo": "Pentagon reports tenfold rise in cybersecurity vulnerabilities due to AI",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-09-17",
-        "url": "https://cryptobriefing.com/pentagon-tenfold-cybersecurity-vulnerabilities-ai/",
-        "resumo": "AI&#x27;s role in escalating cybersecurity threats highlights the urgent need for robust digital infrastructure and proactive defense strategies. The post Pentagon reports tenfold rise in cybersecurity vulnerabilities due to AI appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/17150501/library-pentagon-reports-tenfold-rise-in-cybersecurity-vulnerabi-800x450.png"
+        "titulo": "Researchers used Anthropic&#x27;s Claude to hack into OpenAI | TechCrunch",
+        "fonte": "TechCrunch",
+        "autor": "Aditya Mehta",
+        "data": "2026-09-18",
+        "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+        "resumo": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+        "imagem": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1979406539.jpg?resize=1200,675"
     },
     {
-        "titulo": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-09-17",
-        "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
-        "resumo": "A critical vulnerability in Check Point&#x27;s Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the system that controls firewall policy …",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuFSb4LQQ7e_Iz1RS0JfQEDY9G9LcQZ23RM0h6ladr56GJ6nN3kPwVoZPpNVJUyJEBmLVEyMaIxytF2XqyQs8fGjIdd_ymPjwaZA8Q8R7JiXC-srMFj0_YBd-a94juv46HZm4ie72j7PTj45veyTgOBaeuN53HvktSH3JTgasvV_Mo-RwjsTPnRLlHFVk/s1700-nu-rw-lo-l85-e365/cp-main.jpg"
+        "titulo": "Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company&#x27;s internal codebase — attackers initiated a &#x27;harmless&#x27; pull request as proof of the hack",
+        "fonte": "Toms Hardware UK",
+        "autor": "Etiido Uko",
+        "data": "2026-09-18",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-breach-openai-using-claude-tools-gaining-access-to-employee-accounts-and-the-companys-internal-codebase-initiating-a-harmless-pull-request-as-proof-of-the-hack",
+        "resumo": "A team of white-hat hackers from cybersecurity startup Hackron AI has successfully hacked OpenAI using Claude tools.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/YUDxAZxxyWFMPWzwJRmWvH-2560-80.jpg"
     },
     {
-        "titulo": "London property manager breach may have exposed bank details and lockbox codes",
-        "fonte": "Theregister.com",
-        "autor": "Connor Jones",
-        "data": "2026-09-17",
-        "url": "https://www.theregister.com/security/2026/09/17/london-property-manager-breach-may-have-exposed-bank-details-and-lockbox-codes/5297232",
-        "resumo": "City Relay says intruders accessed its Metabase Cloud instance twice and extracted customer data",
-        "imagem": "https://image.theregister.com/4094087.jpg?imageId=4094087&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-    },
-    {
-        "titulo": "Cisco hit by max severity zero-day exploit targeting Identity Services Engine, so it&#x27;s time to patch up",
-        "fonte": "TechRadar",
-        "autor": "Sead Fadilpašić",
-        "data": "2026-09-17",
-        "url": "https://www.techradar.com/pro/security/cisco-hit-by-max-severity-zero-day-exploit-targeting-identity-services-engine-so-its-time-to-patch-up",
-        "resumo": "Both Cisco and CISA are warning about in-the-wild abuse.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/BsnMKVyyNGEZMWVUsFD6vn-2560-80.jpg"
-    },
-    {
-        "titulo": "Schneider Electric NetBotz 5 750/755",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-17",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-05",
-        "resumo": "View CSAF Summary Schneider Electric is aware of multiple vulnerabilities in its NetBotz 5 – 750/755 products.The NetBotz 5 – 750/755 products are security and environmental monitors providing temperature, humidity, leak, smoke, vibration, door contact, and v…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Mitsubishi Electric GX Works3 and Motion Control Settings",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-17",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-02",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow a local attacker to successfully authenticate even with an invalid block password by executing the affected product and modify part of the executable module in memory, and thereby all…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Schneider Electric Modicon M340 Controller and Communication Modules",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-17",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-04",
-        "resumo": "View CSAF Summary Schneider Electric is aware of a vulnerability in its Modicon M340 https://www.se.com/ww/en/product-range/1468-modicon-m340-pac/, BMXNOR0200H https://www.se.com/us/en/product/BMXNOR0200H/communication-module-modicon-m340-iec-608705101-104-dn…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Hitachi Energy FACTS Control Platform (FCP)",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-17",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-03",
-        "resumo": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect the FACTS Control systems with GWS component listed in this document. An attacker exploiting these vulnerabilities can cause impact on confidentiality, integrity and availability of the …",
-        "imagem": ""
+        "titulo": "Open Channels FM: OCN Week in Review #4",
+        "fonte": "Openchannels.fm",
+        "autor": "Bob Dunn",
+        "data": "2026-09-18",
+        "url": "https://openchannels.fm/ocn-week-in-review-4/",
+        "resumo": "This week Robert Jacobi shared about the evolving landscape of open source and tech. Highlights include AI’s growing role in security, WordPress and Apache fortifying their processes, LibreOffice redefining productivity with privacy, LoopConf rethinking event…",
+        "imagem": "https://i0.wp.com/openchannels.fm/wp-content/uploads/2026/09/OCN-week-in-review-4.jpg?fit=1200%2C675&quality=89&ssl=1"
     }
 ]
