@@ -1,5 +1,122 @@
 [
     {
+        "titulo": "AI ‘warning shots’ focus Beijing on national security risks",
+        "fonte": "Hurriyet Daily News",
+        "autor": "hurriyetdailynews.com",
+        "data": "2026-09-20",
+        "url": "https://www.hurriyetdailynews.com/ai-warning-shots-focus-beijing-on-national-security-risks-227084",
+        "resumo": "While AI researchers in the United States fret over out-of-control superintelligence wiping out humanity, Chinese policymakers have until now been more focused on immediate risks, from deepfakes to child safety.",
+        "imagem": "https://image.hurimg.com/i/hurriyet/75/200x200/6aafa98aa37ecaca50b5a709.jpg"
+    },
+    {
+        "titulo": "Intel suspends its $100k bug bounty program",
+        "fonte": "Notebookcheck.net",
+        "autor": "Antony Muchiri",
+        "data": "2026-09-20",
+        "url": "https://www.notebookcheck.net/Intel-suspends-its-100k-bug-bounty-program.1403852.0.html",
+        "resumo": "Intel has officially suspended its long-running bug bounty program, eliminating cash payouts of up to $100,000 in favor of a zero-reward vulnerability disclosure system on the Intigriti platform. Launched in 2017, Intel’s bounty initiative was once a cornerst…",
+        "imagem": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Intel-Logo.png"
+    },
+    {
+        "titulo": "Week in review: Cisco patches exploited email gateway 0-day, Revolut breach",
+        "fonte": "Help Net Security",
+        "autor": "Help Net Security",
+        "data": "2026-09-20",
+        "url": "https://www.helpnetsecurity.com/2026/09/20/week-in-review-cisco-patches-exploited-email-gateway-0-day-revolut-breach/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: What we know about the Revolut data breach so far Someone impersonating a government agency, using an email address on that agency’s domain, obtained sensitive c…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01112506/cybersecurity_week_in_review2.jpg"
+    },
+    {
+        "titulo": "3 Indian-origin researchers used Claude to breach OpenAI systems in 72 hours",
+        "fonte": "The Times of India",
+        "autor": "Trending Desk",
+        "data": "2026-09-20",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/3-indian-origin-researchers-used-claude-to-breach-openai-systems-in-72-hours/articleshow/134363938.cms",
+        "resumo": "Three Indian-origin cybersecurity researchers at Hacktron AI used Anthropic’s Claude models while investigating vulnerabilities that ultimately gave them access to OpenAI employee accounts and a private GitHub environment, according to reports. Harsh Jaiswal,…",
+        "imagem": "https://img.etimg.com/thumb/msid-134364214,width-1200,height-630,imgsize-140400,overlay-economictimes/articleshow.jpg"
+    },
+    {
+        "titulo": "AI ‘warning shots’ focus Beijing on national security risks",
+        "fonte": "Digital Journal",
+        "autor": "AFP",
+        "data": "2026-09-20",
+        "url": "https://www.digitaljournal.com/article/ai-warning-shots-focus-beijing-on-national-security-risks/",
+        "resumo": "&quot;There are more similarities than differences when it comes to AI safety issues&quot; in China and the United States, said Kevin Xu, founder of US-based technology hedge fund Interconnected Capital. The post AI ‘warning shots’ focus Beijing on national security ri…",
+        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2026/09/f1db56ff4b5d88984ba4d91f722bf4f42855a2c2.jpg"
+    },
+    {
+        "titulo": "Siemba Named a Sample Vendor in Three 2026 Gartner® Hype Cycle™ Reports for the Third Consecutive Year",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-09-20",
+        "url": "https://www.prnewswire.com/news-releases/siemba-named-a-sample-vendor-in-three-2026-gartner-hype-cycle-reports-for-the-third-consecutive-year-302883865.html",
+        "resumo": "ATLANTA, Sept. 19, 2026 /PRNewswire/ -- Siemba, a leading Offensive Security provider announced that it was named a Sample Vendor for Penetration Testing as a Service in three 2026 Gartner® Hype Cycle™ reports: the Hype Cycle for Security Operations, the Hype…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1991859/Hype-Cycle-for-Application-Security.jpg?id=OA2958495&p=facebook"
+    },
+    {
+        "titulo": "EU Cyber Resilience Act Brings 24-Hour Vulnerability Reporting Into Force",
+        "fonte": "newsBTC",
+        "autor": "NewsBTC Editorial Team",
+        "data": "2026-09-19",
+        "url": "http://www.newsbtc.com/news/eu-cyber-resilience-act-brings-24-hour-vulnerability-reporting-into-force/",
+        "resumo": "Read the latest update on EU Cyber Resilience Act Brings 24-Hour Vulnerability Reporting Into Force.",
+        "imagem": "https://www.newsbtc.com/wp-content/uploads/2026/09/f6b23d82476e4698a6900c8f436a401d-3.png?fit=1707%2C960"
+    },
+    {
+        "titulo": "CrowdStrike CEO warns on AI safety, stock jumps 14%",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-09-19",
+        "url": "https://cryptobriefing.com/crowdstrike-ceo-ai-safety-stock-rally/",
+        "resumo": "The AI safety concerns highlighted could drive increased investment in cybersecurity solutions, reshaping industry priorities and strategies. The post CrowdStrike CEO warns on AI safety, stock jumps 14% appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/19145222/library-crowdstrike-ceo-warns-on-ai-safety-stock-jumps-14-800x450.png"
+    },
+    {
+        "titulo": "Google’s Gemini is the latest AI model to hack other companies | TechCrunch",
+        "fonte": "TechCrunch",
+        "autor": "Anthony Ha",
+        "data": "2026-09-19",
+        "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+        "resumo": "Google’s Gemini is the latest AI model to hack other companies | TechCrunchtechcrunch.com",
+        "imagem": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024"
+    },
+    {
+        "titulo": "yakit v1.4.8-0919",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-09-19",
+        "url": "https://kitploit.com/en/posts/github-yaklang-yakit-v148-0919",
+        "resumo": "All-in-one penetration testing platform with MITM proxy, web fuzzer, reverse connection handler, and plugin system for automated security testing and exploitation.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/188/b287cf6290e949190264b0fa0198fc839d9b8d4120d1cb99bc827f4699f6fafd.png"
+    },
+    {
+        "titulo": "Google’s Gemini AI accidentally hacked three real companies during a security test",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-09-19",
+        "url": "https://cryptobriefing.com/gemini-ai-hacked-companies-security-test/",
+        "resumo": "AI testing environments must ensure isolation from real systems to prevent unintended breaches, highlighting a critical industry-wide oversight. The post Google’s Gemini AI accidentally hacked three real companies during a security test appeared first on Cryp…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg"
+    },
+    {
+        "titulo": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+        "fonte": "BleepingComputer",
+        "autor": "Lawrence Abrams",
+        "data": "2026-09-19",
+        "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+        "resumo": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation&#x27;s data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2024/06/15/emoji-hacker.jpg"
+    },
+    {
+        "titulo": "ciso-assistant-community",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-09-19",
+        "url": "https://kitploit.com/en/tools/github/intuitem/ciso-assistant-community/",
+        "resumo": "CISO Assistant is a one-stop-shop GRC platform for Risk Management, AppSec, Compliance &amp; Audit, TPRM, BIA, Privacy, and Reporting. It supports 200+ global frameworks with automatic control mapping, including ISO 27001, NIST CSF, SOC 2, CIS, PCI DSS, NIS2, DOR…",
+        "imagem": "https://assets.kitploit.com/production/public/tools/55647/630e71eeccd66e54f8a4b1eca89dfe350bcda12e0907216210b95f8e802a74f8-social-v1.webp"
+    },
+    {
         "titulo": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
         "fonte": "Wired",
         "autor": "Matt Burgess, Lily Hay Newman",
@@ -61,122 +178,5 @@
         "url": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
         "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed belo…",
         "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKuQ4GC9r1-4fQ3Ap_CQko0y3nMI0SnATF3WNSv48uFtNskrV4PqnyW4s0L7sXcojrHoJCEZRazGJNz5JhxrTTSYZSAQeD-xwdquE3X7pJ_ylBUerrybIiaE3V-i1vXdiLr_N1KCM9GTmeAKLlgySqEr0QeCB5ckvnppiEHSZhnEqv0IfUnqCKdA1kKsN/s1700-nu-rw-lo-l85-e365/cisa-linux.jpg"
-    },
-    {
-        "titulo": "AI could ‘kill all humans’: How safe are Nigerians?",
-        "fonte": "Vanguard",
-        "autor": "Oboh",
-        "data": "2026-09-19",
-        "url": "https://www.vanguardngr.com/2026/09/ai-could-kill-all-humans-how-safe-are-nigerians/",
-        "resumo": "Behind the excitement is an increasingly uncomfortable question: Are humans building machines that could eventually replace them or even become too powerful to control? The post AI could ‘kill all humans’: How safe are Nigerians? appeared first on Vanguard N…",
-        "imagem": "https://cdn.vanguardngr.com/wp-content/uploads/2026/09/AI.jpg"
-    },
-    {
-        "titulo": "Anthropic’s Claude helped 3 researchers breach OpenAI in under 72 hours",
-        "fonte": "CryptoSlate",
-        "autor": "Oluwapelumi Adejumo",
-        "data": "2026-09-19",
-        "url": "https://cryptoslate.com/anthropics-claude-helped-3-researchers-breach-openai-in-under-72-hours/",
-        "resumo": "Anthropic’s Claude helped three security researchers breach OpenAI accounts and reach an internal code repository within 72 hours. Researchers at cybersecurity startup Hacktron chained an image-processing vulnerability with a flaw in OpenAI’s identity infrast…",
-        "imagem": "https://cryptoslate.com/wp-content/uploads/2026/09/claude-openai-breach.webp"
-    },
-    {
-        "titulo": "SmartScanner-Source",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-09-18",
-        "url": "https://kitploit.com/en/tools/github/fauxrougee/smartscanner-source/",
-        "resumo": "Web vulnerability scanner built with C++17 and Qt 6, featuring a GUI, CLI, configurable crawling, and JSON reports. Reconstructed for educational purposes.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/55621/cdfed8d21241b7ac28878248885c8ba8e705227c443e75c0eacbf6c6b32fcee8-social-v1.webp"
-    },
-    {
-        "titulo": "CRWD Stock Keeps Climbing. Should You Climb On?",
-        "fonte": "Trefis",
-        "autor": "Trefis Team",
-        "data": "2026-09-18",
-        "url": "https://www.trefis.com/articles/615810/crwd-stock-keeps-climbing-should-you-climb-on/2026-09-18",
-        "resumo": "This cybersecurity stock is on a historic run fueled by the AI boom, forcing investors to evaluate whether the growth engine has enough fuel left to justify...",
-        "imagem": "https://s.yimg.com/lo/mysterio/api/bbc4f1a71403625174a52515d59a3d1f28d8973941c6c344fc90ec11f6b1ff42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2Fbb64570d26f8ae97aeaa1680198a3fa0.jpg"
-    },
-    {
-        "titulo": "Cybersecurity researchers gain access to OpenAI’s GitHub repository using Claude",
-        "fonte": "SiliconANGLE News",
-        "autor": "Maria Deutscher",
-        "data": "2026-09-18",
-        "url": "https://siliconangle.com/2026/09/18/cybersecurity-researchers-gain-access-to-openais-github-repository-using-claude/",
-        "resumo": "Three cybersecurity researchers used Claude to breach OpenAI Group PBC’s GitHub repository. Sources told the Wall Street Journal today that the repository contains “OpenAI’s algorithmic secrets.” The files were accessible until June 24, the day the researcher…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/zac-wolff-rv2ooDQuNuI-unsplash.jpg"
-    },
-    {
-        "titulo": "OpenAI Thinks An Advanced AI Model Can Talk Across 2 Air-Gapped, Isolated Computers By Running The CPU Hot And Using Thermal Changes As A Morse Code",
-        "fonte": "Wccftech",
-        "autor": "Rohail Saleem",
-        "data": "2026-09-18",
-        "url": "https://wccftech.com/openai-thinks-an-advanced-ai-model-can-talk-across-2-air-gapped-isolated-computers-by-running-the-cpu-hot-and-using-thermal-changes-as-a-morse-code/",
-        "resumo": "In what is a truly nightmarish, Terminator-type scenario, OpenAI now thinks a determined, sufficiently advanced AI model can communicate across two completely isolated - albeit proximal - computers by using temperature changes as a morse code of sorts. OpenAI…",
-        "imagem": "https://cdn.wccftech.com/wp-content/uploads/2026/09/OpenAI-AI-Alignment-1.jpg"
-    },
-    {
-        "titulo": "Even Concrete Walls Can&#x27;t Stop This Headphone Eavesdropping Attack",
-        "fonte": "Hot Hardware",
-        "autor": "Aaron Leong",
-        "data": "2026-09-18",
-        "url": "https://hothardware.com/news/even-concrete-walls-cant-stop-this-headphone-eavesdropping-attack",
-        "resumo": "Security researchers in China have unveiled a side-channel attack technique capable of intercepting internal audio played through headphones and landline phones from tens of meters away using injected electromagnetic signals, even through solid walls. Called…",
-        "imagem": "https://images.hothardware.com/contentimages/newsitem/71656/content/16x9_2135x1201_highres-headphone-eaves.jpg"
-    },
-    {
-        "titulo": "AI security experts say they used Claude to hack ChatGPT",
-        "fonte": "CBS News",
-        "autor": "Megan Cerullo",
-        "data": "2026-09-18",
-        "url": "https://www.cbsnews.com/news/claude-hack-chatgpt-anthropic-openai/",
-        "resumo": "Cybersecurity researchers said they were able to use Anthropic&#x27;s Claude AI platfom to penetrate ChatGPT in &quot;less than 72 hours.&quot;",
-        "imagem": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/18/6a156942-7fdf-4af2-b221-735a0145f354/thumbnail/1200x630/8e6dfe7e6eaceae8c890aefafb833484/gettyimages-2294578177.jpg"
-    },
-    {
-        "titulo": "Is the Enterprise Insurance Market Agentic AI’s Hidden Ceiling?",
-        "fonte": "pymnts.com",
-        "autor": "PYMNTS",
-        "data": "2026-09-18",
-        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/is-the-enterprise-insurance-market-agentic-ais-hidden-ceiling/",
-        "resumo": "Insurers are in the predictability business. Artificial intelligence is an unpredictable technology. For CFOs and CISOs and their cyber insurance partners, that uncomfortable juxtaposition is becoming harder to ignore as enterprises move from generative AI th…",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/05/AI-insurance-risks.jpeg"
-    },
-    {
-        "titulo": "Researchers used Claude to breach OpenAI&#x27;s internal systems",
-        "fonte": "CNA",
-        "autor": "",
-        "data": "2026-09-18",
-        "url": "https://www.channelnewsasia.com/business/claude-openai-breach-internal-systems-6395356",
-        "resumo": "Researchers from security firm Hacktron said they found a security flaw in OpenAI&#x27;s public help forum that allowed them to take control of the site.",
-        "imagem": "https://dam.mediacorp.sg/image/upload/s--PrgkfwIp--/c_crop,h_1125,w_2000,x_0,y_104/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/18/000_b6l24zq.jpg?itok=N7eHwK2Y"
-    },
-    {
-        "titulo": "Researchers used Anthropic&#x27;s Claude to hack into OpenAI | TechCrunch",
-        "fonte": "TechCrunch",
-        "autor": "Aditya Mehta",
-        "data": "2026-09-18",
-        "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-        "resumo": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-        "imagem": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1979406539.jpg?resize=1200,675"
-    },
-    {
-        "titulo": "Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company&#x27;s internal codebase — attackers initiated a &#x27;harmless&#x27; pull request as proof of the hack",
-        "fonte": "Toms Hardware UK",
-        "autor": "Etiido Uko",
-        "data": "2026-09-18",
-        "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-breach-openai-using-claude-tools-gaining-access-to-employee-accounts-and-the-companys-internal-codebase-initiating-a-harmless-pull-request-as-proof-of-the-hack",
-        "resumo": "A team of white-hat hackers from cybersecurity startup Hackron AI has successfully hacked OpenAI using Claude tools.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/YUDxAZxxyWFMPWzwJRmWvH-2560-80.jpg"
-    },
-    {
-        "titulo": "Open Channels FM: OCN Week in Review #4",
-        "fonte": "Openchannels.fm",
-        "autor": "Bob Dunn",
-        "data": "2026-09-18",
-        "url": "https://openchannels.fm/ocn-week-in-review-4/",
-        "resumo": "This week Robert Jacobi shared about the evolving landscape of open source and tech. Highlights include AI’s growing role in security, WordPress and Apache fortifying their processes, LibreOffice redefining productivity with privacy, LoopConf rethinking event…",
-        "imagem": "https://i0.wp.com/openchannels.fm/wp-content/uploads/2026/09/OCN-week-in-review-4.jpg?fit=1200%2C675&quality=89&ssl=1"
     }
 ]
