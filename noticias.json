@@ -1,173 +1,182 @@
 [
     {
-        "titulo": "CHAD WOLF: Congress has a chance to stop China from turning your car into a Chinese spy",
+        "titulo": "BackBox Recognized as AI-Powered Enterprise Solution of the Year by 2026 Tech Ascension Awards",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-09-22",
+        "url": "https://www.prnewswire.com/news-releases/backbox-recognized-as-ai-powered-enterprise-solution-of-the-year-by-2026-tech-ascension-awards-302885751.html",
+        "resumo": "Kilter AI also named a finalist for Best AI-Driven Automation Solution in the 2026 A.I. Awards DALLAS, Sept. 22, 2026 /PRNewswire/ -- BackBox, a network cyber resilience company, today announced that Kilter AI, the intelligence layer of its Kilter Platform, h…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1577509/BackBox-logo-transparent-large-Logo-Logo.jpg?id=OA2962209&p=facebook"
+    },
+    {
+        "titulo": "D-Link warns of max severity zero-day bug in DIR-822A routers",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-09-22",
+        "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
+        "resumo": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/09/22/D-Link.jpg"
+    },
+    {
+        "titulo": "AI malware can rewrite itself to evade detection",
         "fonte": "Fox News",
         "autor": "",
-        "data": "2026-09-21",
-        "url": "https://www.foxnews.com/opinion/chad-wolf-congress-chance-stop-china-turning-car-chinese-spy",
-        "resumo": "The Connected Vehicle Security Act aims to shield the United States from Chinese espionage via batteries, sensors and software in modern cars.",
-        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/China-electric-vehicle.jpg"
+        "data": "2026-09-22",
+        "url": "https://www.foxnews.com/tech/ai-malware-rewrite-itself-evade-detection",
+        "resumo": "Google&#x27;s Threat Intelligence Group found PROMPTFLUX malware that uses Gemini to rewrite its own code every hour, raising urgent cybersecurity alarms.",
+        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/software-engineers-coding.jpg"
     },
     {
-        "titulo": "Microsoft and Amazon linked to AI model risks after Hugging Face incident",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-09-21",
-        "url": "https://cryptobriefing.com/microsoft-amazon-ai-risks-hugging-face/",
-        "resumo": "The incident underscores the urgent need for robust AI governance and security measures to mitigate cascading risks in interconnected ecosystems. The post Microsoft and Amazon linked to AI model risks after Hugging Face incident appeared first on Crypto Brief…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg"
+        "titulo": "Siemens SIPLUS and SIMATIC Products",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-09-22",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-04",
+        "resumo": "View CSAF Summary Multiple Siemens products are vulnerable to the &quot;Copy Fail&quot; vulnerability. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fix versions and recomme…",
+        "imagem": ""
     },
     {
-        "titulo": "ShinyHunters hacks rival extortion gang and takes over its dark web site",
+        "titulo": "Siemens Desigo CC family",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-09-22",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-05",
+        "resumo": "View CSAF Summary A Client Code Execution (CCE) vulnerability has been identified in Desigo CC, potentially allowing malicious actors to execute arbitrary code on client devices through specially crafted graphics documents. This vulnerability leverages user-d…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Siemens SIMOVE Fleetmanager and SIPLANT",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-09-22",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-07",
+        "resumo": "View CSAF Summary SIMOVE Fleetmanager and SIPLANT contain a path traversal vulnerability that could allow an attacker to access files outside of intended scope. Siemens has released new versions for the affected products and recommends to update to the latest…",
+        "imagem": ""
+    },
+    {
+        "titulo": "lwIP (Lightweight IP)",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-09-22",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-02",
+        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could result in a system crash, a DoS, or memory corruption, which could lead to code execution on the victim system. The following versions of lwIP (Lightweight IP) are affected: API &gt;=…",
+        "imagem": ""
+    },
+    {
+        "titulo": "OpenPLC Runtime v3",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-09-22",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-09",
+        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to hijack session cookies and issue state-changing requests as an operator which would allow the attacker to control the programmable logic controller and the physical pro…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Siemens Industrial Edge Management",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-09-22",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-06",
+        "resumo": "View CSAF Summary Industrial Edge Management contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to perform full account takeover by resetting user credentials without completing email verification. Siemens has …",
+        "imagem": ""
+    },
+    {
+        "titulo": "lwIP TCP/IP Stack MQTT Client Application",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-09-22",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-01",
+        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain full code execution on the device. The following versions of lwIP TCP/IP Stack MQTT Client Application are affected: MQTT Client Application &gt;=2.0.1| &lt;/l…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Siemens Siveillance Control",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-09-22",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-03",
+        "resumo": "View CSAF Summary A vulnerability has been identified in the Open Interface Services (OIS) web module affecting Siveillance Control and Siveillance Control Pro (versions OIS 3.x.y and OIS 4.x.y) . This vulnerability allows an attacker to upload arbitrary file…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Siemens WTV676 and WTV776",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-09-22",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-08",
+        "resumo": "View CSAF Summary The products listed below contain a denial of service vulnerability that could allow an attacker to force the devices into protection mode under certain conditions. This disables remote connectivity functions (Web Access) to the devices. Sie…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Meta’s Muse AI assistant has a zero-day that can turn it into a Mac backdoor",
         "fonte": "Malwarebytes.com",
         "autor": "Pieter Arntz",
-        "data": "2026-09-21",
-        "url": "https://www.malwarebytes.com/blog/news/2026/09/shinyhunters-hacks-rival-extortion-gang-and-takes-over-its-dark-web-site",
-        "resumo": "Hackers hacked the hackers as a feud between two cybercrime groups escalated, leaving ShinyHunters with the upper hand over rival Clop.",
-        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/09/cat_fight.png"
+        "data": "2026-09-22",
+        "url": "https://www.malwarebytes.com/blog/bugs/2026/09/metas-muse-ai-assistant-has-a-zero-day-that-can-turn-it-into-a-mac-backdoor",
+        "resumo": "A simple terminal command can hijack Muse and use its extensive permissions to spy on Mac users and control their connected accounts.",
+        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/09/Muse_logo_on_phone.png"
     },
     {
-        "titulo": "Frontier Overhangs",
-        "fonte": "Stratechery.com",
-        "autor": "Ben Thompson",
-        "data": "2026-09-21",
-        "url": "https://stratechery.com/2026/frontier-overhangs/",
-        "resumo": "Pacing the frontier may be sincere, but it would also be strategically useful for the frontier labs to have time to reduce overhangs caused by model advancement.",
-        "imagem": "https://stratechery.com/wp-content/uploads/2026/09/overhang-1.png"
+        "titulo": "Attacker compromised nearly 1000 Zyxel switches since August (CVE-2026-7273)",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-09-22",
+        "url": "https://www.helpnetsecurity.com/2026/09/22/zyxel-switches-cve-2026-7273-vulnerability-exploited/",
+        "resumo": "A Chinese-speaking threat actor has exploited a vulnerability (CVE-2026-7273) in unpatched ZyXEL GS1900 Smart Managed Switches and has exfiltrated sensitive data from 996 devices across 48 countries, GreyNoise reported on Monday. The affected switches are pre…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/06/05194535/zyxel-1500.webp"
     },
     {
-        "titulo": "Experts Alarmed Over Gyazo’s Breach of 490 Million Metadata Records",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Phil Muncaster",
-        "data": "2026-09-21",
-        "url": "https://www.infosecurity-magazine.com/news/experts-gyazos-breach-490-million/",
-        "resumo": "A breach at image-sharing service Gyazo on September 11 affected over 23 million customers",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/a440dfcf-0c92-4c3e-b8ac-3aa0e2936d61.jpg"
+        "titulo": "Researchers used Claude to hack OpenAI",
+        "fonte": "Malwarebytes.com",
+        "autor": "Danny Bradbury",
+        "data": "2026-09-22",
+        "url": "https://www.malwarebytes.com/blog/news/2026/09/researchers-used-claude-to-hack-openai",
+        "resumo": "Claude helped researchers break into OpenAI in under 72 hours, and exposed how quickly AI is lowering the bar for sophisticated hacking.",
+        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/09/robots-fighting-claude-openai.jpg"
     },
     {
-        "titulo": "The SMB cybersecurity squeeze: AI agents at work, old attacks in overdrive",
-        "fonte": "We Live Security",
-        "autor": "",
-        "data": "2026-09-21",
-        "url": "https://www.welivesecurity.com/en/business-security/smb-cybersecurity-squeeze-ai-agents-work-old-attacks-overdrive/",
-        "resumo": "As AI opens new paths to company data while making familiar attacks faster and cheaper, SMBs need protection designed around the time and expertise available to operate it.",
-        "imagem": "https://web-assets.esetstatic.com/wls/2026/09-26/agents-ai-cybersecurity.png"
-    },
-    {
-        "titulo": "AI has crossed a cybersecurity redline – now what?",
-        "fonte": "TechRadar",
-        "autor": "James Griffiths",
-        "data": "2026-09-21",
-        "url": "https://www.techradar.com/pro/ai-has-crossed-a-cybersecurity-redline-now-what",
-        "resumo": "As AI systems grow more autonomous, organizations must rethink cybersecurity, governance and resilience.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg"
-    },
-    {
-        "titulo": "Drone Warfare Is Coming to America … And We’re Dangerously Unprepared",
-        "fonte": "Naturalnews.com",
-        "autor": "Mike Adams",
-        "data": "2026-09-21",
-        "url": "https://www.naturalnews.com/2026-09-21-drone-warfare-coming-to-america-dangerously-unprepared.html",
-        "resumo": "If It Sits Above Ground, It Can Be Destroyed by Drones The drone revolution has quietly ended the era when America’s above-ground infrastructure could be considered safe. The same precision-strike capability that hit Saudi pipelines and Qatari gas trains can …",
-        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/drone-warfare-critical-infrastructure-unmanned-aerial-vehicles-4332-original.jpg"
-    },
-    {
-        "titulo": "Revisiting Last Week: Governance, Accountability and Disaster",
-        "fonte": "Khabarhub.com",
-        "autor": "Khabarhub",
-        "data": "2026-09-21",
-        "url": "https://english.khabarhub.com/2026/21/568550/",
-        "resumo": "KATHMANDU: The events of last week presented a revealing picture of Nepal at an important stage of its constitutional journey. The central theme running through the week’s political statements, parliamentary discussions, disaster response and diplomatic engag…",
-        "imagem": "https://english.khabarhub.com/wp-content/uploads/2026/09/Khabarhub-_Saata-Ko-Khabar-English_1200px-630X-px-Final_2026.09.20.jpg"
-    },
-    {
-        "titulo": "Cybercrime feud erupts on dark web as notorious group claims hijack of rival&#x27;s website",
-        "fonte": "The Times of India",
-        "autor": "Reuters",
-        "data": "2026-09-21",
-        "url": "https://economictimes.indiatimes.com/tech/technology/cybercrime-feud-erupts-on-dark-web-as-notorious-group-claims-hijack-of-rivals-website/articleshow/134378242.cms",
-        "resumo": "One of the world&#x27;s best-known cybercrime groups said on Sunday it had hijacked one of its chief rivals&#x27; dark web site, bringing what it said was a long-simmering feud out into the open.",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-5089503,resizemode-75,msid-134378242/tech/technology/cybercrime-feud-erupts-on-dark-web-as-notorious-group-claims-hijack-of-rivals-website.jpg"
-    },
-    {
-        "titulo": "Turning security complexity into useful intelligence: What’s new in Red Hat Lightspeed",
-        "fonte": "Redhat.com",
-        "autor": "",
-        "data": "2026-09-21",
-        "url": "https://www.redhat.com/en/blog/turning-security-complexity-useful-intelligence-whats-new-red-hat-lightspeed",
-        "resumo": "In a post-Mythos world, IT teams face a mounting crisis. Many are doing more with the same staff, and security work hasn’t gotten simpler. Alerts still land without context. Compliance still means chasing down answers across tools. A single incident can consu…",
-        "imagem": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg"
-    },
-    {
-        "titulo": "U.S. CISA adds Linux Kernel flaws to its Known Exploited Vulnerabilities catalog",
+        "titulo": "U.S. CISA adds Zyxel flaw to its Known Exploited Vulnerabilities catalog",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
-        "data": "2026-09-20",
-        "url": "https://securityaffairs.com/199430/security/u-s-cisa-adds-linux-kernel-flaws-to-its-known-exploited-vulnerabilities-catalog-2.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Linux Kernel flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added [1, 2] the following vulnerabilities to its Known Explo…",
+        "data": "2026-09-22",
+        "url": "https://securityaffairs.com/199518/hacking/u-s-cisa-adds-zyxel-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Zyxel flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Zyxel GS1900 Series Switches flaw, tracked as CVE-2026-7273 (…",
         "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
     },
     {
-        "titulo": "AI ‘warning shots’ focus Beijing on national security risks",
-        "fonte": "Hurriyet Daily News",
-        "autor": "hurriyetdailynews.com",
-        "data": "2026-09-20",
-        "url": "https://www.hurriyetdailynews.com/ai-warning-shots-focus-beijing-on-national-security-risks-227084",
-        "resumo": "While AI researchers in the United States fret over out-of-control superintelligence wiping out humanity, Chinese policymakers have until now been more focused on immediate risks, from deepfakes to child safety.",
-        "imagem": "https://image.hurimg.com/i/hurriyet/75/200x200/6aafa98aa37ecaca50b5a709.jpg"
+        "titulo": "CISA orders feds to patch Zyxel flaw exploited for data theft",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-09-22",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
+        "resumo": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/04/08/CISA.jpg"
     },
     {
-        "titulo": "Intel suspends its $100k bug bounty program",
-        "fonte": "Notebookcheck.net",
-        "autor": "Antony Muchiri",
-        "data": "2026-09-20",
-        "url": "https://www.notebookcheck.net/Intel-suspends-its-100k-bug-bounty-program.1403852.0.html",
-        "resumo": "Intel has officially suspended its long-running bug bounty program, eliminating cash payouts of up to $100,000 in favor of a zero-reward vulnerability disclosure system on the Intigriti platform. Launched in 2017, Intel’s bounty initiative was once a cornerst…",
-        "imagem": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Intel-Logo.png"
+        "titulo": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-09-22",
+        "url": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilit…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj9eouOxeSvnYBzl5A8tWvEQ4w_CCx94YcFmpBAXXqHWNqvFBWj4vOgeZdHYAf0MU-chY63biCpHDnzRC0pwR7s3pTdQAWwPAVI-olRZuBwG0ilgAxnIY_1KofE3cpuA8lKOE01U26EFHYE_nLrXYXOWl47G1KaoFTZ5UOO81Cw0Kb20pFSfAc1b9i9E_K/s1700-nu-rw-lo-l85-e365/veeam.jpg"
     },
     {
-        "titulo": "Week in review: Cisco patches exploited email gateway 0-day, Revolut breach",
+        "titulo": "Cybersecurity jobs available right now: September 22, 2026",
         "fonte": "Help Net Security",
-        "autor": "Help Net Security",
-        "data": "2026-09-20",
-        "url": "https://www.helpnetsecurity.com/2026/09/20/week-in-review-cisco-patches-exploited-email-gateway-0-day-revolut-breach/",
-        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: What we know about the Revolut data breach so far Someone impersonating a government agency, using an email address on that agency’s domain, obtained sensitive c…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01112506/cybersecurity_week_in_review2.jpg"
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-09-22",
+        "url": "https://www.helpnetsecurity.com/2026/09/22/cybersecurity-jobs-available-right-now-september-22-2026/",
+        "resumo": "Analyst Threat Intelligence Optimum | USA | On-site – View job details As an Analyst Threat Intelligence, you will collect and analyze intelligence to identify threats, threat actors, malware campaigns, and relevant TTPs. You will map adversary behavior to MI…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140407/cybersecurity_jobs-3-1500.webp"
     },
     {
-        "titulo": "3 Indian-origin researchers used Claude to breach OpenAI systems in 72 hours",
+        "titulo": "China&#x27;s Z.ai disables AI coding assistant features after security issue",
         "fonte": "The Times of India",
-        "autor": "Trending Desk",
-        "data": "2026-09-20",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/3-indian-origin-researchers-used-claude-to-breach-openai-systems-in-72-hours/articleshow/134363938.cms",
-        "resumo": "Three Indian-origin cybersecurity researchers at Hacktron AI used Anthropic’s Claude models while investigating vulnerabilities that ultimately gave them access to OpenAI employee accounts and a private GitHub environment, according to reports. Harsh Jaiswal,…",
-        "imagem": "https://img.etimg.com/thumb/msid-134364214,width-1200,height-630,imgsize-140400,overlay-economictimes/articleshow.jpg"
-    },
-    {
-        "titulo": "AI ‘warning shots’ focus Beijing on national security risks",
-        "fonte": "Digital Journal",
-        "autor": "AFP",
-        "data": "2026-09-20",
-        "url": "https://www.digitaljournal.com/article/ai-warning-shots-focus-beijing-on-national-security-risks/",
-        "resumo": "&quot;There are more similarities than differences when it comes to AI safety issues&quot; in China and the United States, said Kevin Xu, founder of US-based technology hedge fund Interconnected Capital. The post AI ‘warning shots’ focus Beijing on national security ri…",
-        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2026/09/f1db56ff4b5d88984ba4d91f722bf4f42855a2c2.jpg"
-    },
-    {
-        "titulo": "Siemba Named a Sample Vendor in Three 2026 Gartner® Hype Cycle™ Reports for the Third Consecutive Year",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-09-20",
-        "url": "https://www.prnewswire.com/news-releases/siemba-named-a-sample-vendor-in-three-2026-gartner-hype-cycle-reports-for-the-third-consecutive-year-302883865.html",
-        "resumo": "ATLANTA, Sept. 19, 2026 /PRNewswire/ -- Siemba, a leading Offensive Security provider announced that it was named a Sample Vendor for Penetration Testing as a Service in three 2026 Gartner® Hype Cycle™ reports: the Hype Cycle for Security Operations, the Hype…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1991859/Hype-Cycle-for-Application-Security.jpg?id=OA2958495&p=facebook"
-    },
-    {
-        "titulo": "EU Cyber Resilience Act Brings 24-Hour Vulnerability Reporting Into Force",
-        "fonte": "newsBTC",
-        "autor": "NewsBTC Editorial Team",
-        "data": "2026-09-19",
-        "url": "http://www.newsbtc.com/news/eu-cyber-resilience-act-brings-24-hour-vulnerability-reporting-into-force/",
-        "resumo": "Read the latest update on EU Cyber Resilience Act Brings 24-Hour Vulnerability Reporting Into Force.",
-        "imagem": "https://www.newsbtc.com/wp-content/uploads/2026/09/f6b23d82476e4698a6900c8f436a401d-3.png?fit=1707%2C960"
+        "autor": "Reuters",
+        "data": "2026-09-22",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-z-ai-disables-ai-coding-assistant-features-after-security-issue/articleshow/134401495.cms",
+        "resumo": "* Z.ai says bug originated from default-enabled feature * Rare security disclosure from Chinese AI lab * Independent review found user data was deleted from cloud --Z.ai By Laurie Chen BEIJING, Sept",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-56474,resizemode-75,msid-134401495/tech/artificial-intelligence/chinas-z-ai-disables-ai-coding-assistant-features-after-security-issue.jpg"
     }
 ]
