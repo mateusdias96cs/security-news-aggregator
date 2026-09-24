@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "BackBox Recognized as AI-Powered Enterprise Solution of the Year by 2026 Tech Ascension Awards",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-09-22",
-        "url": "https://www.prnewswire.com/news-releases/backbox-recognized-as-ai-powered-enterprise-solution-of-the-year-by-2026-tech-ascension-awards-302885751.html",
-        "resumo": "Kilter AI also named a finalist for Best AI-Driven Automation Solution in the 2026 A.I. Awards DALLAS, Sept. 22, 2026 /PRNewswire/ -- BackBox, a network cyber resilience company, today announced that Kilter AI, the intelligence layer of its Kilter Platform, h…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1577509/BackBox-logo-transparent-large-Logo-Logo.jpg?id=OA2962209&p=facebook"
+        "titulo": "Vicarius launches ScriptAI to write fixes for flaws with no vendor patch",
+        "fonte": "SiliconANGLE News",
+        "autor": "Duncan Riley",
+        "data": "2026-09-23",
+        "url": "https://siliconangle.com/2026/09/23/vicarius-launches-scriptai-to-write-fixes-for-flaws-with-no-vendor-patch/",
+        "resumo": "Vulnerability remediation company Vicarius Inc. today launched an artificial intelligence engine that writes detection and remediation scripts for software flaws with no vendor patch available. ScriptAI is aimed at the gap between a public disclosure and a wo…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/viacrius-800x496.png"
     },
     {
-        "titulo": "D-Link warns of max severity zero-day bug in DIR-822A routers",
+        "titulo": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
         "fonte": "BleepingComputer",
         "autor": "Sergiu Gatlan",
-        "data": "2026-09-22",
-        "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
-        "resumo": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/09/22/D-Link.jpg"
+        "data": "2026-09-23",
+        "url": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
+        "resumo": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/09/23/Arista-logo.jpg"
     },
     {
-        "titulo": "AI malware can rewrite itself to evade detection",
-        "fonte": "Fox News",
-        "autor": "",
-        "data": "2026-09-22",
-        "url": "https://www.foxnews.com/tech/ai-malware-rewrite-itself-evade-detection",
-        "resumo": "Google&#x27;s Threat Intelligence Group found PROMPTFLUX malware that uses Gemini to rewrite its own code every hour, raising urgent cybersecurity alarms.",
-        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/software-engineers-coding.jpg"
+        "titulo": "Your AI Coding Assistant Has the Keys to the Repo. Z.ai Just Showed Why That Matters",
+        "fonte": "DevOps.com",
+        "autor": "Tom Smith",
+        "data": "2026-09-23",
+        "url": "https://devops.com/your-ai-coding-assistant-has-the-keys-to-the-repo-z-ai-just-showed-why-that-matters/",
+        "resumo": "AI coding assistants need deep access to repositories to be useful — and that makes their data-handling practices a security issue, not just a product feature.The ZCode controversy is a reminder that DevOps teams need to know exactly what an AI assistant can …",
+        "imagem": "https://devops.com/wp-content/uploads/2026/09/zcode_ai_coding_assistant_770x330.jpg"
     },
     {
-        "titulo": "Siemens SIPLUS and SIMATIC Products",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-22",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-04",
-        "resumo": "View CSAF Summary Multiple Siemens products are vulnerable to the &quot;Copy Fail&quot; vulnerability. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fix versions and recomme…",
-        "imagem": ""
+        "titulo": "Could an AI swarm take over the internet? A doomsday scenario gains urgency",
+        "fonte": "Wokv.com",
+        "autor": "Barbara Ortutay",
+        "data": "2026-09-23",
+        "url": "https://www.wokv.com/news/business/worries-about-an-ai/3WZYPSOLVE52HOXYRIQ2BELEUU/",
+        "resumo": "In a summer filled with revelations about artificial intelligence’s rapid development, researchers were especially alarmed by runaway bots finding their way onto the internet and, in at least one instance, coordinating there with one another",
+        "imagem": "https://cmg-cmg-rd-20056-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F4HV53XYDFIYJNFGCQMS4PK5UYE.jpg?auth=dd5dbca4d4f990cc6f2022be9eb1527430b619852181be0497049f890af266cc&width=1200&height=630&smart=true"
     },
     {
-        "titulo": "Siemens Desigo CC family",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-22",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-05",
-        "resumo": "View CSAF Summary A Client Code Execution (CCE) vulnerability has been identified in Desigo CC, potentially allowing malicious actors to execute arbitrary code on client devices through specially crafted graphics documents. This vulnerability leverages user-d…",
-        "imagem": ""
+        "titulo": "Could an AI swarm take over the internet? A doomsday scenario gains urgency",
+        "fonte": "WPXI Pittsburgh",
+        "autor": "Barbara Ortutay",
+        "data": "2026-09-23",
+        "url": "https://www.wpxi.com/news/business/worries-about-an-ai/3WZYPSOLVE52HOXYRIQ2BELEUU/",
+        "resumo": "In a summer filled with revelations about artificial intelligence’s rapid development, researchers were especially alarmed by runaway bots finding their way onto the internet and, in at least one instance, coordinating there with one another",
+        "imagem": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F4HV53XYDFIYJNFGCQMS4PK5UYE.jpg?auth=dd5dbca4d4f990cc6f2022be9eb1527430b619852181be0497049f890af266cc&width=1200&height=630&smart=true"
     },
     {
-        "titulo": "Siemens SIMOVE Fleetmanager and SIPLANT",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-22",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-07",
-        "resumo": "View CSAF Summary SIMOVE Fleetmanager and SIPLANT contain a path traversal vulnerability that could allow an attacker to access files outside of intended scope. Siemens has released new versions for the affected products and recommends to update to the latest…",
-        "imagem": ""
-    },
-    {
-        "titulo": "lwIP (Lightweight IP)",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-22",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-02",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could result in a system crash, a DoS, or memory corruption, which could lead to code execution on the victim system. The following versions of lwIP (Lightweight IP) are affected: API &gt;=…",
-        "imagem": ""
-    },
-    {
-        "titulo": "OpenPLC Runtime v3",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-22",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-09",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to hijack session cookies and issue state-changing requests as an operator which would allow the attacker to control the programmable logic controller and the physical pro…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Siemens Industrial Edge Management",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-22",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-06",
-        "resumo": "View CSAF Summary Industrial Edge Management contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to perform full account takeover by resetting user credentials without completing email verification. Siemens has …",
-        "imagem": ""
-    },
-    {
-        "titulo": "lwIP TCP/IP Stack MQTT Client Application",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-22",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-01",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain full code execution on the device. The following versions of lwIP TCP/IP Stack MQTT Client Application are affected: MQTT Client Application &gt;=2.0.1| &lt;/l…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Siemens Siveillance Control",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-22",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-03",
-        "resumo": "View CSAF Summary A vulnerability has been identified in the Open Interface Services (OIS) web module affecting Siveillance Control and Siveillance Control Pro (versions OIS 3.x.y and OIS 4.x.y) . This vulnerability allows an attacker to upload arbitrary file…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Siemens WTV676 and WTV776",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-22",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-08",
-        "resumo": "View CSAF Summary The products listed below contain a denial of service vulnerability that could allow an attacker to force the devices into protection mode under certain conditions. This disables remote connectivity functions (Web Access) to the devices. Sie…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Meta’s Muse AI assistant has a zero-day that can turn it into a Mac backdoor",
-        "fonte": "Malwarebytes.com",
-        "autor": "Pieter Arntz",
-        "data": "2026-09-22",
-        "url": "https://www.malwarebytes.com/blog/bugs/2026/09/metas-muse-ai-assistant-has-a-zero-day-that-can-turn-it-into-a-mac-backdoor",
-        "resumo": "A simple terminal command can hijack Muse and use its extensive permissions to spy on Mac users and control their connected accounts.",
-        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/09/Muse_logo_on_phone.png"
-    },
-    {
-        "titulo": "Attacker compromised nearly 1000 Zyxel switches since August (CVE-2026-7273)",
+        "titulo": "Attackers hit Check Point Management Servers and Spark firewalls, F5 BIG-IP APM instances",
         "fonte": "Help Net Security",
         "autor": "Zeljka Zorz",
-        "data": "2026-09-22",
-        "url": "https://www.helpnetsecurity.com/2026/09/22/zyxel-switches-cve-2026-7273-vulnerability-exploited/",
-        "resumo": "A Chinese-speaking threat actor has exploited a vulnerability (CVE-2026-7273) in unpatched ZyXEL GS1900 Smart Managed Switches and has exfiltrated sensitive data from 996 devices across 48 countries, GreyNoise reported on Monday. The affected switches are pre…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/06/05194535/zyxel-1500.webp"
+        "data": "2026-09-23",
+        "url": "https://www.helpnetsecurity.com/2026/09/23/check-point-f5-big-ip-apm-zero-days-targeted/",
+        "resumo": "Check Point Software has released emergency fixes for a critical Check Point Management Server vulnerability (CVE-2026-93616) that has been exploited as far back as July 23, 2026. The company also confirmed that a pre-authentication remote code execution (RCE…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/12143407/target_practice.jpg"
     },
     {
-        "titulo": "Researchers used Claude to hack OpenAI",
-        "fonte": "Malwarebytes.com",
-        "autor": "Danny Bradbury",
-        "data": "2026-09-22",
-        "url": "https://www.malwarebytes.com/blog/news/2026/09/researchers-used-claude-to-hack-openai",
-        "resumo": "Claude helped researchers break into OpenAI in under 72 hours, and exposed how quickly AI is lowering the bar for sophisticated hacking.",
-        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/09/robots-fighting-claude-openai.jpg"
+        "titulo": "MCP Is Not Just Another API Standard",
+        "fonte": "Oreilly.com",
+        "autor": "Balaji Venkatasubramaniyar",
+        "data": "2026-09-23",
+        "url": "https://www.oreilly.com/radar/mcp-is-not-just-another-api-standard/#BlogPosting",
+        "resumo": "Ask most engineers what MCP is and you’ll get the same answer: a way to plug tools into an LLM. Fair enough, as far as it goes. But that description treats MCP like plumbing, and after months building MCP-based integrations for large enterprise platforms, I d…",
+        "imagem": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/09/MCP-is-not-just-another-API-standard-1600x1244.jpg"
     },
     {
-        "titulo": "U.S. CISA adds Zyxel flaw to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-09-22",
-        "url": "https://securityaffairs.com/199518/hacking/u-s-cisa-adds-zyxel-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Zyxel flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Zyxel GS1900 Series Switches flaw, tracked as CVE-2026-7273 (…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+        "titulo": "UK small businesses are facing greater AI security threats than ever — and are sadly woefully unprepapred",
+        "fonte": "TechRadar",
+        "autor": "Mike Moore",
+        "data": "2026-09-23",
+        "url": "https://www.techradar.com/pro/security/uk-small-businesses-are-facing-greater-ai-security-threats-than-ever-and-are-sadly-woefully-unprepapred",
+        "resumo": "Half (49%) of UK SMBs have experienced an incident in the past year, ESET finds.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/nR8ppqg5ArMpGqG3vJ8vuC-1920-80.jpg"
     },
     {
-        "titulo": "CISA orders feds to patch Zyxel flaw exploited for data theft",
+        "titulo": "DROS-VEP-lite",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-09-23",
+        "url": "https://kitploit.com/en/tools/github/top-celestial-company-ltd/dros-vep-lite/",
+        "resumo": "Open-source, 100% reproducible AI Agent Runtime Security Benchmark &amp; Sandbox Environment (RFC-010 Draft Protocol).",
+        "imagem": "https://assets.kitploit.com/production/public/tools/55966/ce62a3dd33e4e0a650e41c2fdfe535257ee447841c74c5e87a085b19065d9623-social-v1.webp"
+    },
+    {
+        "titulo": "EU Auditors Warn Information-Sharing Gaps Are Hindering Cyber Incident Response",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Phil Muncaster",
+        "data": "2026-09-23",
+        "url": "https://www.infosecurity-magazine.com/news/eu-auditors-slam-blocs-cyberinfo/",
+        "resumo": "The EU Court of Auditors has criticized EU shortcomings in responding to major cyber incidents",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/4fa004fc-b644-47fb-9ba1-b228d093d098.jpg"
+    },
+    {
+        "titulo": "Au cœur de l&#x27;entreprise secrète de cyberarmes qui a conquis l&#x27;élite du renseignement israélien (Anglais)",
+        "fonte": "Irpi.eu",
+        "autor": "IrpiMedia",
+        "data": "2026-09-23",
+        "url": "https://irpimedia.irpi.eu/en-inside-the-secretive-cyberweapons-company-that-won-over-israels-intelligence-elite/",
+        "resumo": "The system was being used without an adequate legal basis, in violation of privacy rules. Unpublished documents show that in May 2025, Italy’s Data Protection Authority asked the Interior Ministry to suspend it",
+        "imagem": "https://irpimedia.irpi.eu/public/uploads/2026/09/dataflow-cyber-armi-intelligence-israeliana-cover.webp"
+    },
+    {
+        "titulo": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
         "fonte": "BleepingComputer",
         "autor": "Sergiu Gatlan",
-        "data": "2026-09-22",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
-        "resumo": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/04/08/CISA.jpg"
+        "data": "2026-09-23",
+        "url": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+        "resumo": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/18/F5.jpg"
     },
     {
-        "titulo": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-09-22",
-        "url": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilit…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj9eouOxeSvnYBzl5A8tWvEQ4w_CCx94YcFmpBAXXqHWNqvFBWj4vOgeZdHYAf0MU-chY63biCpHDnzRC0pwR7s3pTdQAWwPAVI-olRZuBwG0ilgAxnIY_1KofE3cpuA8lKOE01U26EFHYE_nLrXYXOWl47G1KaoFTZ5UOO81Cw0Kb20pFSfAc1b9i9E_K/s1700-nu-rw-lo-l85-e365/veeam.jpg"
+        "titulo": "ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report",
+        "fonte": "Securityweek.com",
+        "autor": "Eduard Kovacs",
+        "data": "2026-09-23",
+        "url": "https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/",
+        "resumo": "The cybercrime group is unhappy with its description in an FBI report and threatens to leak stolen information. The post ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/09/data-leak.jpeg"
     },
     {
-        "titulo": "Cybersecurity jobs available right now: September 22, 2026",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-09-22",
-        "url": "https://www.helpnetsecurity.com/2026/09/22/cybersecurity-jobs-available-right-now-september-22-2026/",
-        "resumo": "Analyst Threat Intelligence Optimum | USA | On-site – View job details As an Analyst Threat Intelligence, you will collect and analyze intelligence to identify threats, threat actors, malware campaigns, and relevant TTPs. You will map adversary behavior to MI…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140407/cybersecurity_jobs-3-1500.webp"
+        "titulo": "rcekit",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-09-23",
+        "url": "https://kitploit.com/en/tools/github/kabiri-labs/rcekit/",
+        "resumo": "Test a URL or captured HTTP request for RCE—and know what the evidence actually proves. RCEKit checks command injection, SSTI and blind paths, separates confirmed execution from uncertain signals and untested runs, and generates targeted payloads for Burp, ff…",
+        "imagem": "https://assets.kitploit.com/production/public/tools/55992/4fa723dc49460672a6fe2ca1223f7819edc939b73b78dbff51ee106ddf48fd2d-social-v1.webp"
     },
     {
-        "titulo": "China&#x27;s Z.ai disables AI coding assistant features after security issue",
+        "titulo": "Worries about an AI internet takeover gain new urgency among doomsday scenarios",
+        "fonte": "Abcnews.com",
+        "autor": "BARBARA ORTUTAY AP technology writer",
+        "data": "2026-09-23",
+        "url": "https://abcnews.com/Technology/wireStory/worries-ai-internet-takeover-gain-new-urgency-doomsday-136673685",
+        "resumo": "In a summer filled with revelations about artificial intelligence’s rapid development, researchers were especially alarmed by runaway bots finding their way onto the internet and, in at least one instance, coordinating there with one another",
+        "imagem": "https://i.abcnewsfe.com/a/4b36dc6a-fab7-42c6-beee-4ca586916190/wirestory_0053ba1b6c8144b2927d2501be9eb919_16x9.jpg?w=1600"
+    },
+    {
+        "titulo": "Viewpoint: Surplus Lines Insurers Offer Vital Coverage for Growing Tech-Driven Industries",
+        "fonte": "Insurance Journal",
+        "autor": "Admin",
+        "data": "2026-09-23",
+        "url": "https://www.insurancejournal.com/news/national/2026/09/23/886403.htm",
+        "resumo": "As technological advancements become more ingrained in the development of entirely new industries and change the nature of existing industries, accessing needed coverage for complex risks through surplus lines carriers will become more of the path to success.…",
+        "imagem": "https://www.insurancejournal.com/app/uploads/2023/03/global-social-media-digital-data-sharing-465906685-bigstock-scaled.jpg"
+    },
+    {
+        "titulo": "Worries about an AI internet takeover gain new urgency among doomsday scenarios",
         "fonte": "The Times of India",
-        "autor": "Reuters",
-        "data": "2026-09-22",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-z-ai-disables-ai-coding-assistant-features-after-security-issue/articleshow/134401495.cms",
-        "resumo": "* Z.ai says bug originated from default-enabled feature * Rare security disclosure from Chinese AI lab * Independent review found user data was deleted from cloud --Z.ai By Laurie Chen BEIJING, Sept",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-56474,resizemode-75,msid-134401495/tech/artificial-intelligence/chinas-z-ai-disables-ai-coding-assistant-features-after-security-issue.jpg"
+        "autor": "AP",
+        "data": "2026-09-23",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/articleshow/134426039.cms",
+        "resumo": "What companies have described as their AI agents going rogue has involved bots working toward goals set by humans, skeptics note. But the idea that AI could break away and work toward its own agenda is looking increasingly plausible to other researchers and e…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-7964210,resizemode-75,msid-134426039/tech/artificial-intelligence/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios.jpg"
+    },
+    {
+        "titulo": "ndaal_public_SBOM_Auditor",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-09-23",
+        "url": "https://kitploit.com/en/tools/gitlab/vpierre/ndaal_public_sbom_auditor/",
+        "resumo": "Offline single-binary web app that ingests CycloneDX, SPDX and syft SBOMs, runs an ensemble of CVE scanners, enriches findings with EPSS, CISA-KEV and nuclei, and exports SARIF, CSAF and PDF.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/55944/93ecd900ebbb7373686662ab71e76637cd6ba76db6cff0ae65f22343e6f1576c-social-v1.webp"
+    },
+    {
+        "titulo": "Worried about your car being hacked? You should be – no matter where it was made",
+        "fonte": "The Conversation Africa",
+        "autor": "Dennis B. Desmond, Lecturer, Cyberintelligence and Cybercrime Investigations, University of the Suns",
+        "data": "2026-09-23",
+        "url": "https://theconversation.com/worried-about-your-car-being-hacked-you-should-be-no-matter-where-it-was-made-292607",
+        "resumo": "Connected vehicles can be hacked, posing risks for safety and privacy.",
+        "imagem": "https://images.theconversation.com/files/761639/original/file-20260923-50-to7sld.jpg?ixlib=rb-4.1.1&rect=0%2C500%2C5999%2C2999&q=45&auto=format&w=1356&h=668&fit=crop"
+    },
+    {
+        "titulo": "Web-App-PenTesting",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-09-23",
+        "url": "https://kitploit.com/en/tools/github/sarthak4126/web-app-pentesting/",
+        "resumo": "Web application penetration testing lab — vulnerable Flask app, automated scanner, and professional pentest report. Covers OWASP Top 10, SQLi, XSS, command injection, file upload, and more.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/55926/bce6b25b9972b76792ee09ce350b380e4d4f3b27e67c13ca90eb1bc53026bc54-social-v1.webp"
     }
 ]
