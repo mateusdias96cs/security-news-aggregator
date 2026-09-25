@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Vicarius launches ScriptAI to write fixes for flaws with no vendor patch",
-        "fonte": "SiliconANGLE News",
-        "autor": "Duncan Riley",
-        "data": "2026-09-23",
-        "url": "https://siliconangle.com/2026/09/23/vicarius-launches-scriptai-to-write-fixes-for-flaws-with-no-vendor-patch/",
-        "resumo": "Vulnerability remediation company Vicarius Inc. today launched an artificial intelligence engine that writes detection and remediation scripts for software flaws with no vendor patch available. ScriptAI is aimed at the gap between a public disclosure and a wo…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/viacrius-800x496.png"
+        "titulo": "Google to critical infra orgs: Our AI scanners won&#x27;t be evil, promise",
+        "fonte": "Theregister.com",
+        "autor": "Jessica Lyons",
+        "data": "2026-09-24",
+        "url": "https://www.theregister.com/security/2026/09/24/google-to-critical-infra-orgs-our-ai-scanners-wont-be-evil-promise/5298685",
+        "resumo": "Gemini 3.8 Flash Cyber and Wiz&#x27;s Red Agent team up to protect hospitals, public transit, and tech",
+        "imagem": "https://image.theregister.com/5298699.jpg?imageId=5298699&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
     },
     {
-        "titulo": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-09-23",
-        "url": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-        "resumo": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/09/23/Arista-logo.jpg"
-    },
-    {
-        "titulo": "Your AI Coding Assistant Has the Keys to the Repo. Z.ai Just Showed Why That Matters",
-        "fonte": "DevOps.com",
-        "autor": "Tom Smith",
-        "data": "2026-09-23",
-        "url": "https://devops.com/your-ai-coding-assistant-has-the-keys-to-the-repo-z-ai-just-showed-why-that-matters/",
-        "resumo": "AI coding assistants need deep access to repositories to be useful — and that makes their data-handling practices a security issue, not just a product feature.The ZCode controversy is a reminder that DevOps teams need to know exactly what an AI assistant can …",
-        "imagem": "https://devops.com/wp-content/uploads/2026/09/zcode_ai_coding_assistant_770x330.jpg"
-    },
-    {
-        "titulo": "Could an AI swarm take over the internet? A doomsday scenario gains urgency",
-        "fonte": "Wokv.com",
-        "autor": "Barbara Ortutay",
-        "data": "2026-09-23",
-        "url": "https://www.wokv.com/news/business/worries-about-an-ai/3WZYPSOLVE52HOXYRIQ2BELEUU/",
-        "resumo": "In a summer filled with revelations about artificial intelligence’s rapid development, researchers were especially alarmed by runaway bots finding their way onto the internet and, in at least one instance, coordinating there with one another",
-        "imagem": "https://cmg-cmg-rd-20056-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F4HV53XYDFIYJNFGCQMS4PK5UYE.jpg?auth=dd5dbca4d4f990cc6f2022be9eb1527430b619852181be0497049f890af266cc&width=1200&height=630&smart=true"
-    },
-    {
-        "titulo": "Could an AI swarm take over the internet? A doomsday scenario gains urgency",
-        "fonte": "WPXI Pittsburgh",
-        "autor": "Barbara Ortutay",
-        "data": "2026-09-23",
-        "url": "https://www.wpxi.com/news/business/worries-about-an-ai/3WZYPSOLVE52HOXYRIQ2BELEUU/",
-        "resumo": "In a summer filled with revelations about artificial intelligence’s rapid development, researchers were especially alarmed by runaway bots finding their way onto the internet and, in at least one instance, coordinating there with one another",
-        "imagem": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F4HV53XYDFIYJNFGCQMS4PK5UYE.jpg?auth=dd5dbca4d4f990cc6f2022be9eb1527430b619852181be0497049f890af266cc&width=1200&height=630&smart=true"
-    },
-    {
-        "titulo": "Attackers hit Check Point Management Servers and Spark firewalls, F5 BIG-IP APM instances",
+        "titulo": "OpenAI agent hacking spree widens to Australia, targeting government website",
         "fonte": "Help Net Security",
         "autor": "Zeljka Zorz",
-        "data": "2026-09-23",
-        "url": "https://www.helpnetsecurity.com/2026/09/23/check-point-f5-big-ip-apm-zero-days-targeted/",
-        "resumo": "Check Point Software has released emergency fixes for a critical Check Point Management Server vulnerability (CVE-2026-93616) that has been exploited as far back as July 23, 2026. The company also confirmed that a pre-authentication remote code execution (RCE…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/12143407/target_practice.jpg"
+        "data": "2026-09-24",
+        "url": "https://www.helpnetsecurity.com/2026/09/24/openai-agent-hacking-australia/",
+        "resumo": "Before the Hugging Face and RubyGems hacks, autonomous OpenAI agents attempted to hack into three other websites, including an Australian government public health website, independent research lab Transluce revealed on Wednesday. “Notably, the tasks the agent…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/12/15105916/ai-hand-1500.webp"
     },
     {
-        "titulo": "MCP Is Not Just Another API Standard",
-        "fonte": "Oreilly.com",
-        "autor": "Balaji Venkatasubramaniyar",
-        "data": "2026-09-23",
-        "url": "https://www.oreilly.com/radar/mcp-is-not-just-another-api-standard/#BlogPosting",
-        "resumo": "Ask most engineers what MCP is and you’ll get the same answer: a way to plug tools into an LLM. Fair enough, as far as it goes. But that description treats MCP like plumbing, and after months building MCP-based integrations for large enterprise platforms, I d…",
-        "imagem": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/09/MCP-is-not-just-another-API-standard-1600x1244.jpg"
+        "titulo": "DHS Announces Release of 2026 Election Infrastructure Security Plan",
+        "fonte": "Globalsecurity.org",
+        "autor": "John Pike",
+        "data": "2026-09-24",
+        "url": "https://www.globalsecurity.org/security/library/news/2026/09/sec-260924-dhs02.htm",
+        "resumo": "The United States Department of Homeland Security (DHS) released the following statement announcing that, as directed by DHS Secretary Markwayne Mullin, the Cybersecurity and Infrastructure Security Agency (CISA) has released 2026 Election Infrastructure Secu…",
+        "imagem": ""
     },
     {
-        "titulo": "UK small businesses are facing greater AI security threats than ever — and are sadly woefully unprepapred",
-        "fonte": "TechRadar",
-        "autor": "Mike Moore",
-        "data": "2026-09-23",
-        "url": "https://www.techradar.com/pro/security/uk-small-businesses-are-facing-greater-ai-security-threats-than-ever-and-are-sadly-woefully-unprepapred",
-        "resumo": "Half (49%) of UK SMBs have experienced an incident in the past year, ESET finds.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/nR8ppqg5ArMpGqG3vJ8vuC-1920-80.jpg"
+        "titulo": "Build a cybersecurity portfolio with 184+ real projects for $99",
+        "fonte": "Popular Science",
+        "autor": "Stack Commerce",
+        "data": "2026-09-24",
+        "url": "https://www.popsci.com/sponsored-content/build-a-cybersecurity-portfolio-with-real-projects-for-less-sponsored-deal/",
+        "resumo": "Build practical experience for GRC, SOC, and AI security roles with projects reviewed by certified professionals. The post Build a cybersecurity portfolio with 184+ real projects for $99 appeared first on Popular Science.",
+        "imagem": "https://www.popsci.com/wp-content/uploads/2026/09/image_9e7196.png?quality=85&w=1200"
     },
     {
-        "titulo": "DROS-VEP-lite",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-09-23",
-        "url": "https://kitploit.com/en/tools/github/top-celestial-company-ltd/dros-vep-lite/",
-        "resumo": "Open-source, 100% reproducible AI Agent Runtime Security Benchmark &amp; Sandbox Environment (RFC-010 Draft Protocol).",
-        "imagem": "https://assets.kitploit.com/production/public/tools/55966/ce62a3dd33e4e0a650e41c2fdfe535257ee447841c74c5e87a085b19065d9623-social-v1.webp"
+        "titulo": "Botslab G980H Dashcams",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-09-24",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-267-01",
+        "resumo": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to bypass authentication controls, gain unauthorized access to sensitive data and privileged device functionality, modify device configuration, disrupt device operation…",
+        "imagem": ""
     },
     {
-        "titulo": "EU Auditors Warn Information-Sharing Gaps Are Hindering Cyber Incident Response",
+        "titulo": "Keralam gears up for data driven governance: Chief Minister",
+        "fonte": "BusinessLine",
+        "autor": "BL Kochi Bureau",
+        "data": "2026-09-24",
+        "url": "https://www.thehindubusinessline.com/news/national/keralam-gears-up-for-data-driven-governance-chief-minister/article71503852.ece",
+        "resumo": "Satheesan opens Global Delivery Centre of CyberShelter at Lulu Twin Towers",
+        "imagem": "https://bl-i.thgim.com/public/incoming/hetc1b/article71503844.ece/alternates/LANDSCAPE_1200/IMG-20260924-WA0094.jpg"
+    },
+    {
+        "titulo": "EU warns Q-Day could arrive before quantum computers are commercially viable",
+        "fonte": "Crypto Briefing",
+        "autor": "Editorial Team",
+        "data": "2026-09-24",
+        "url": "https://cryptobriefing.com/eu-q-day-quantum-cryptography-warning/",
+        "resumo": "The EU&#x27;s proactive stance on post-quantum cryptography highlights urgent global cybersecurity challenges, emphasizing the need for rapid adaptation. The post EU warns Q-Day could arrive before quantum computers are commercially viable appeared first on Crypto…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/24071354/library-eu-warns-q-day-could-arrive-before-quantum-computers-are-800x450.png"
+    },
+    {
+        "titulo": "UK Government Shifts to Service-Led Cyber Governance After Stinging Audit",
         "fonte": "Infosecurity Magazine",
-        "autor": "Phil Muncaster",
-        "data": "2026-09-23",
-        "url": "https://www.infosecurity-magazine.com/news/eu-auditors-slam-blocs-cyberinfo/",
-        "resumo": "The EU Court of Auditors has criticized EU shortcomings in responding to major cyber incidents",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/4fa004fc-b644-47fb-9ba1-b228d093d098.jpg"
+        "autor": "Kevin Poireault",
+        "data": "2026-09-24",
+        "url": "https://www.infosecurity-magazine.com/news/uk-government-service-led-cyber/",
+        "resumo": "Whitehall is shifting from mandatory cyber controls to service-led governance following a critical audit exposing failures of its 2022 cyber strategy",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/4e601cea-5e3e-4eac-a6b1-48f995da603f.jpg"
     },
     {
-        "titulo": "Au cœur de l&#x27;entreprise secrète de cyberarmes qui a conquis l&#x27;élite du renseignement israélien (Anglais)",
-        "fonte": "Irpi.eu",
-        "autor": "IrpiMedia",
-        "data": "2026-09-23",
-        "url": "https://irpimedia.irpi.eu/en-inside-the-secretive-cyberweapons-company-that-won-over-israels-intelligence-elite/",
-        "resumo": "The system was being used without an adequate legal basis, in violation of privacy rules. Unpublished documents show that in May 2025, Italy’s Data Protection Authority asked the Interior Ministry to suspend it",
-        "imagem": "https://irpimedia.irpi.eu/public/uploads/2026/09/dataflow-cyber-armi-intelligence-israeliana-cover.webp"
+        "titulo": "Nisarga Adhikary, who exposed CBSE and US defence flaws, says India’s obsession with exam rank and reward for mugging PCM killing tech talent",
+        "fonte": "The Times of India",
+        "autor": "Trending Desk",
+        "data": "2026-09-24",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/nisarga-adhikary-who-exposed-cbse-and-us-defence-flaws-says-indias-obsession-with-exam-rank-and-reward-for-mugging-pcm-killing-tech-talent/articleshow/134458121.cms",
+        "resumo": "Nisarga Adhikary, the 19-year-old cybersecurity researcher who reported flaws in the CBSE marks portal and US government systems, has criticised India&#x27;s obsession with exam ranks and credentials. In his blog, Adhikary argues that JEE ranks, CGPAs and coding r…",
+        "imagem": "https://img.etimg.com/thumb/msid-134459669,width-1200,height-630,imgsize-121723,overlay-economictimes/articleshow.jpg"
     },
     {
-        "titulo": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+        "titulo": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
         "fonte": "BleepingComputer",
         "autor": "Sergiu Gatlan",
-        "data": "2026-09-23",
-        "url": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
-        "resumo": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/06/18/F5.jpg"
+        "data": "2026-09-24",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
+        "resumo": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/09/24/TeamCity.jpg"
     },
     {
-        "titulo": "ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report",
-        "fonte": "Securityweek.com",
-        "autor": "Eduard Kovacs",
-        "data": "2026-09-23",
-        "url": "https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/",
-        "resumo": "The cybercrime group is unhappy with its description in an FBI report and threatens to leak stolen information. The post ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/09/data-leak.jpeg"
+        "titulo": "OpenAI Agent Bypassed an Australian Government Health Portal During Internal Research",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-09-24",
+        "url": "https://securityaffairs.com/199662/ai/openai-agent-bypassed-an-australian-government-health-portal-during-internal-research.html",
+        "resumo": "OpenAI’s AI agent bypassed controls on an Australian health portal, accessed non-public files and triggered a government investigation. An OpenAI AI agent bypassed access controls on an Australian government health statistics portal in June, accessing both pu…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/09/image-68.png"
     },
     {
-        "titulo": "rcekit",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-09-23",
-        "url": "https://kitploit.com/en/tools/github/kabiri-labs/rcekit/",
-        "resumo": "Test a URL or captured HTTP request for RCE—and know what the evidence actually proves. RCEKit checks command injection, SSTI and blind paths, separates confirmed execution from uncertain signals and untested runs, and generates targeted payloads for Burp, ff…",
-        "imagem": "https://assets.kitploit.com/production/public/tools/55992/4fa723dc49460672a6fe2ca1223f7819edc939b73b78dbff51ee106ddf48fd2d-social-v1.webp"
+        "titulo": "The personal AI agent horror stories are rolling in",
+        "fonte": "Business Insider",
+        "autor": "Thibault Spirlet",
+        "data": "2026-09-24",
+        "url": "https://www.businessinsider.com/ai-agents-gone-wrong-horror-stories-instinct-muse-privacy-security-2026-9#article",
+        "resumo": "Early users say personal AI agents have not been forthright about account access, fabricated personal details, and raised cybersecurity concerns.",
+        "imagem": "https://i.insider.com/6ab3a5de265e3f8e338f5ed2?width=1200&format=jpeg"
     },
     {
-        "titulo": "Worries about an AI internet takeover gain new urgency among doomsday scenarios",
-        "fonte": "Abcnews.com",
-        "autor": "BARBARA ORTUTAY AP technology writer",
-        "data": "2026-09-23",
-        "url": "https://abcnews.com/Technology/wireStory/worries-ai-internet-takeover-gain-new-urgency-doomsday-136673685",
-        "resumo": "In a summer filled with revelations about artificial intelligence’s rapid development, researchers were especially alarmed by runaway bots finding their way onto the internet and, in at least one instance, coordinating there with one another",
-        "imagem": "https://i.abcnewsfe.com/a/4b36dc6a-fab7-42c6-beee-4ca586916190/wirestory_0053ba1b6c8144b2927d2501be9eb919_16x9.jpg?w=1600"
-    },
-    {
-        "titulo": "Viewpoint: Surplus Lines Insurers Offer Vital Coverage for Growing Tech-Driven Industries",
-        "fonte": "Insurance Journal",
-        "autor": "Admin",
-        "data": "2026-09-23",
-        "url": "https://www.insurancejournal.com/news/national/2026/09/23/886403.htm",
-        "resumo": "As technological advancements become more ingrained in the development of entirely new industries and change the nature of existing industries, accessing needed coverage for complex risks through surplus lines carriers will become more of the path to success.…",
-        "imagem": "https://www.insurancejournal.com/app/uploads/2023/03/global-social-media-digital-data-sharing-465906685-bigstock-scaled.jpg"
-    },
-    {
-        "titulo": "Worries about an AI internet takeover gain new urgency among doomsday scenarios",
+        "titulo": "Banks’ biggest risks may now sit inside their tech stack: RBI Deputy Governor Rohit Jain",
         "fonte": "The Times of India",
-        "autor": "AP",
-        "data": "2026-09-23",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/articleshow/134426039.cms",
-        "resumo": "What companies have described as their AI agents going rogue has involved bots working toward goals set by humans, skeptics note. But the idea that AI could break away and work toward its own agenda is looking increasingly plausible to other researchers and e…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-7964210,resizemode-75,msid-134426039/tech/artificial-intelligence/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios.jpg"
+        "autor": "ET Online",
+        "data": "2026-09-24",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-biggest-risks-may-now-sit-inside-their-tech-stack-rbi-deputy-governor-rohit-jain/articleshow/134458804.cms",
+        "resumo": "RBI Deputy Governor Rohit Jain said technology is no longer merely an enabler for banks but is becoming their “risk architecture”, making technological resilience as important as financial resilience. He urged banks to treat technology risk as a first-order e…",
+        "imagem": "https://img.etimg.com/thumb/msid-134458851,width-1200,height-630,imgsize-152846,overlay-economictimes/articleshow.jpg"
     },
     {
-        "titulo": "ndaal_public_SBOM_Auditor",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-09-23",
-        "url": "https://kitploit.com/en/tools/gitlab/vpierre/ndaal_public_sbom_auditor/",
-        "resumo": "Offline single-binary web app that ingests CycloneDX, SPDX and syft SBOMs, runs an ensemble of CVE scanners, enriches findings with EPSS, CISA-KEV and nuclei, and exports SARIF, CSAF and PDF.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/55944/93ecd900ebbb7373686662ab71e76637cd6ba76db6cff0ae65f22343e6f1576c-social-v1.webp"
+        "titulo": "This is how we lose control of AI – one successful task at a time",
+        "fonte": "RT",
+        "autor": "RT",
+        "data": "2026-09-24",
+        "url": "https://www.rt.com/news/646146-how-we-lose-control-of-ai/",
+        "resumo": "From a sandbox escape to online cheat sheets, OpenAI’s AI agents show how powerful systems can find dangerous shortcuts to a reward Read Full Article at RT.com",
+        "imagem": "https://mf.b37mrtl.ru/files/2026.09/article/6ab407c785f54024f0264df4.jpg"
     },
     {
-        "titulo": "Worried about your car being hacked? You should be – no matter where it was made",
-        "fonte": "The Conversation Africa",
-        "autor": "Dennis B. Desmond, Lecturer, Cyberintelligence and Cybercrime Investigations, University of the Suns",
-        "data": "2026-09-23",
-        "url": "https://theconversation.com/worried-about-your-car-being-hacked-you-should-be-no-matter-where-it-was-made-292607",
-        "resumo": "Connected vehicles can be hacked, posing risks for safety and privacy.",
-        "imagem": "https://images.theconversation.com/files/761639/original/file-20260923-50-to7sld.jpg?ixlib=rb-4.1.1&rect=0%2C500%2C5999%2C2999&q=45&auto=format&w=1356&h=668&fit=crop"
+        "titulo": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-09-24",
+        "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+        "resumo": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said. The portal publishes aggregate figures, such as spending, and is separate from the …",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcAVdhDdHS-lMa6x8Y_wK35pNfiQpKjJPFKBf-euOlWYyYschDjjXlah44o4VfYeKJyaeWKFxyOkEwQEnW_qBfSc6rwynqdqB8UAq1CSuKzJOz6lxno1eI9DxmU0RzTX0eWig9f5L5vWGkW1vZnp8o7rDqe86PIyHtTHl-IQSdLmZWAVOyedE86QaUy4I/s1700-nu-rw-lo-l85-e365/openai-agents.jpg"
     },
     {
-        "titulo": "Web-App-PenTesting",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-09-23",
-        "url": "https://kitploit.com/en/tools/github/sarthak4126/web-app-pentesting/",
-        "resumo": "Web application penetration testing lab — vulnerable Flask app, automated scanner, and professional pentest report. Covers OWASP Top 10, SQLi, XSS, command injection, file upload, and more.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/55926/bce6b25b9972b76792ee09ce350b380e4d4f3b27e67c13ca90eb1bc53026bc54-social-v1.webp"
+        "titulo": "US Military Satellites Test New Cyber Defenses in Orbit",
+        "fonte": "Military.com",
+        "autor": "Douglas Lindsay",
+        "data": "2026-09-24",
+        "url": "https://military.com/some-us-satellites-are-more-than-30-years-old-a-lab-in-space-is-testing-new-ways-to-defend-them",
+        "resumo": "Some U.S. satellites are more than 30 years old. An orbital cyber lab is testing defenses that could help protect spacecraft already in space.",
+        "imagem": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/july-7-launch-1_credit-spacex.jpg?w=1600&h=900&fit=crop"
+    },
+    {
+        "titulo": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+        "fonte": "Transluce.org",
+        "autor": "snikolaev",
+        "data": "2026-09-24",
+        "url": "https://transluce.org/agent-activity",
+        "resumo": "We found evidence on urlquery that AI agents were active earlier than previously reported and attempted hacks against public data providers.",
+        "imagem": "https://transluce.org/cards/urlquery-agent-activity-social.png"
+    },
+    {
+        "titulo": "Ubuntu kernel CVE fixes are moving to a weekly release schedule",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-09-24",
+        "url": "https://www.helpnetsecurity.com/2026/09/24/ubuntu-kernel-cve-fixes-release-schedule/",
+        "resumo": "Ubuntu kernels will ship every week under a new release schedule from Canonical, which is merging its four-week cycle for regular Stable Release Updates (SRUs) and its two-week cycle for security fixes into a single two-week cycle. The cycles overlap, each st…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/11060336/ubuntu-1500.webp"
+    },
+    {
+        "titulo": "Europe’s technology backbone is becoming a cyber target",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-09-24",
+        "url": "https://www.helpnetsecurity.com/2026/09/24/enisa-eu-cyber-threats-report/",
+        "resumo": "Disruptive attacks on public-facing services, financially motivated cybercrime and compromises of shared technology providers are increasing cybersecurity risks across Europe. ENISA’s Threat Landscape 2026 identifies cybercrime, state-linked activity, foreign…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/06/05105919/europe-1500-1.webp"
+    },
+    {
+        "titulo": "What we know about the rogue AI-agent security breaches",
+        "fonte": "CNA",
+        "autor": "",
+        "data": "2026-09-24",
+        "url": "https://www.channelnewsasia.com/business/what-we-know-about-rogue-ai-agent-security-breaches-6291711",
+        "resumo": "Sept 24 : Australia said on Thursday an OpenAI agent breached a government health data portal in June, gaining unauthorised access to files, in what could be the first known instance of AI hacking a government website.This latest breach comes on top of severa…",
+        "imagem": "https://dam.mediacorp.sg/image/upload/s--hgVWDKN0--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-31T160930Z_1_LYNXMPEM6U1PJ_RTROPTP_3_ANTHROPIC-AI.JPG?itok=2-TTN4xf"
     }
 ]
