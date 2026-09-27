@@ -1,5 +1,158 @@
 [
     {
+        "titulo": "Refrigerators: The Next Battle Frontier?",
+        "fonte": "Wattsupwiththat.com",
+        "autor": "Guest Blogger",
+        "data": "2026-09-26",
+        "url": "https://wattsupwiththat.com/2026/09/26/refrigerators-the-next-battle-frontier/",
+        "resumo": "The next battle frontier may not begin with a missile launch or an attack on a satellite. It may begin with a series of small, seemingly unrelated failures designed to disrupt, complicate, and confuse us before we even realize we are under attack. And yes, th…",
+        "imagem": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/09/Refrigerator_Infographic_16835927021.webp?fit=1024%2C512&quality=75&ssl=1"
+    },
+    {
+        "titulo": "Refrigerators: The Next National Security Frontier?",
+        "fonte": "Daily Signal",
+        "autor": "Olivia Burdo",
+        "data": "2026-09-26",
+        "url": "https://www.dailysignal.com/2026/09/26/refrigerators-national-security/",
+        "resumo": "RealClearWire—Refrigerators are probably the last thing anyone would consider a national security vulnerability, which is precisely why the unusual refrigeration failures at U.S. military commissaries deserve more attention than they are getting. There is n…",
+        "imagem": "https://static.dailysignalmedia.org/2026/09/GettyImages-481059643.jpg"
+    },
+    {
+        "titulo": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-09-26",
+        "url": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnera…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHEPamtRBBEzltsUWnj-F8umrMf4eUUhTmGUJdhHlrvWZamHWpBtXcrpQKDArTziRiiIWv8psX4DTZyN9kLBtcAyLOPJma9_M7sYKgYz6WBISbOhJrRlfByfCKfTTMdBqaYUp-0nskrt2ndt3poUFLDGegEFJojS0EzEvwAqzaUNtvX26jZopYE4zA4S3K/s1700-nu-rw-lo-l85-e365/share-kev.jpg"
+    },
+    {
+        "titulo": "U.S. CISA adds WordPress flaw to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-09-26",
+        "url": "https://securityaffairs.com/199790/security/u-s-cisa-adds-wordpress-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds WordPress flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a WordPress Core flaw, tracked as CVE-2026-87902 (CVSS scor…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "OpenAI Models Go Rogue on &#x27;Dozens&#x27; More Third-Party Services",
+        "fonte": "PCMag.com",
+        "autor": "Michael Kan",
+        "data": "2026-09-26",
+        "url": "https://me.pcmag.com/en/security/38156/openai-models-go-rogue-on-dozens-more-third-party-services",
+        "resumo": "An OpenAI model bypassed sites&#x27; security controls, took them offline, or otherwise negatively impacted the service. In some cases, user-uploaded images were posted to image-hosting sites. OpenAI has uncovered even more instances of its AI models hacking or po…",
+        "imagem": "https://sm.pcmag.com/t/pcmag_me/news/o/openai-mod/openai-models-go-rogue-on-dozens-more-third-party-services_jrvm.1200.jpg"
+    },
+    {
+        "titulo": "ShinyHunters hackers expanded attacks on Oracle&#x27;s PeopleSoft, Google says",
+        "fonte": "CNA",
+        "autor": "",
+        "data": "2026-09-26",
+        "url": "https://www.channelnewsasia.com/business/shinyhunters-hackers-expanded-attacks-oracles-peoplesoft-google-says-6412246",
+        "resumo": "Sept 25 : Google&#x27;s cybersecurity unit said on Friday that hacking group ShinyHunters has renewed &quot;mass exploitation&quot; of a security flaw in Oracle&#x27;s PeopleSoft software, after skirting defenses put up following attacks in the summer.Mandiant made the announcem…",
+        "imagem": "https://dam.mediacorp.sg/image/upload/s--Oxx447Tt--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-26T020548Z_1_LYNXMPEM8P01R_RTROPTP_3_GOOGLE-SPACE-SATELLITE.JPG?itok=mHwnungB"
+    },
+    {
+        "titulo": "China’s grand strategy, and what Nepal must understand",
+        "fonte": "Khabarhub.com",
+        "autor": "Binoj Basnyat",
+        "data": "2026-09-26",
+        "url": "https://english.khabarhub.com/2026/26/569145/",
+        "resumo": "China’s rise is often reduced to a simple question: Is Beijing trying to replace the U.S. as the dominant power in the international system? That question is important, but it is not sufficient. For smaller states such as Nepal, the more consequential questio…",
+        "imagem": "https://english.khabarhub.com/wp-content/uploads/2026/09/Khabar-Hub-Article_Binoj-Basnyat_1200px-630X-px-Final_2026.09.25-Upload.jpg"
+    },
+    {
+        "titulo": "OpenAI Models Go Rogue on &#x27;Dozens&#x27; More Third-Party Services",
+        "fonte": "PCMag.com",
+        "autor": "Michael Kan",
+        "data": "2026-09-25",
+        "url": "https://uk.pcmag.com/ai/167505/openai-models-go-rogue-on-dozens-more-third-party-services",
+        "resumo": "An OpenAI model bypassed sites&#x27; security controls, took them offline, or otherwise negatively impacted the service. In some cases, user-uploaded images were posted to image-hosting sites. OpenAI has uncovered even more instances of its AI models hacking or po…",
+        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/o/openai-mod/openai-models-go-rogue-on-dozens-more-third-party-services_p4ex.1200.png"
+    },
+    {
+        "titulo": "U.S. CISA adds Microsoft SharePoint and Mikrotik RouterOS flaws to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-09-25",
+        "url": "https://securityaffairs.com/199777/hacking/u-s-cisa-adds-microsoft-sharepoint-and-mikrotik-routeros-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Microsoft SharePoint and Mikrotik RouterOS flaws flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulne…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "From Astra to Cyber: How OpenAI’s Safety Crisis Became a Product Strategy",
+        "fonte": "Forkast.news",
+        "autor": "Lena Park",
+        "data": "2026-09-25",
+        "url": "https://forkast.news/from-astra-to-cyber-how-openais-safety-crisis-became-a-product-strategy/",
+        "resumo": "OpenAI shipped four distinct cybersecurity models — GPT-5.4, 5.5, 5.6, and the recently previewed GPT-6 Cyber — within a single 12-month window. This rapid cadence forced a fundamental shift in strategy: the primary challenge for frontier labs is no longer mo…",
+        "imagem": "https://forkast.news/wp-content/uploads/2026/09/openai-domain-specific-strategy-gated-tiers-1024x687.jpg"
+    },
+    {
+        "titulo": "Bitget pauses withdrawals after $387.5M hack, CEO assures funds safe",
+        "fonte": "Crypto Briefing",
+        "autor": "John Chen",
+        "data": "2026-09-25",
+        "url": "https://cryptobriefing.com/bitget-pauses-withdrawals-351-million-hack/",
+        "resumo": "The hack underscores evolving cybersecurity threats, highlighting the need for robust backend defenses and proactive user protection measures. The post Bitget pauses withdrawals after $387.5M hack, CEO assures funds safe appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/25162612/library-bitget-pauses-withdrawals-after-387-5m-hack-ceo-assures--800x450.png"
+    },
+    {
+        "titulo": "Notre Dame’s network refresh shows the AI era starts with paying down technical debt",
+        "fonte": "SiliconANGLE News",
+        "autor": "Zeus Kerravala",
+        "data": "2026-09-25",
+        "url": "https://siliconangle.com/2026/09/25/notre-dames-network-refresh-shows-the-ai-era-starts-with-paying-down-technical-debt/",
+        "resumo": "Every organization I talk to wants to be “AI-ready,” but few want to discuss what that entails. It’s rarely a new model or agent. More often, it’s the unglamorous work of ripping out a decade’s worth of infrastructure debt so the network can deliver the bandw…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/MC-8.25.26-Students-Walking-scaled.jpg"
+    },
+    {
+        "titulo": "Trump frames unregulated AI as a way to keep ahead of China – but in fact, it harms US national security",
+        "fonte": "The Conversation Africa",
+        "autor": "Stephen Collins, Professor of Government and International Affairs, Kennesaw State University",
+        "data": "2026-09-25",
+        "url": "https://theconversation.com/trump-frames-unregulated-ai-as-a-way-to-keep-ahead-of-china-but-in-fact-it-harms-us-national-security-292642",
+        "resumo": "An unregulated sector has risks in itself but will also aid the rapid advancement of AI in China.",
+        "imagem": "https://images.theconversation.com/files/762150/original/file-20260924-50-b3v7d2.jpg?ixlib=rb-4.1.1&rect=0%2C131%2C7548%2C3774&q=45&auto=format&w=1356&h=668&fit=crop"
+    },
+    {
+        "titulo": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+        "fonte": "BleepingComputer",
+        "autor": "Bill Toulas",
+        "data": "2026-09-25",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
+        "resumo": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/22/CISA.jpg"
+    },
+    {
+        "titulo": "Kiteworks urges customers to shut down their servers amid &#x27;imminent&#x27; threat of cyberattack | TechCrunch",
+        "fonte": "TechCrunch",
+        "autor": "Zack Whittaker",
+        "data": "2026-09-25",
+        "url": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
+        "resumo": "The tech giant, which allows companies to send large datasets over the internet, said it received a &quot;credible threat&quot; from law enforcement about an imminent attack.",
+        "imagem": "https://techcrunch.com/wp-content/uploads/2024/12/data-breach-2024-roundup.jpg?resize=1200,675"
+    },
+    {
+        "titulo": "In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure",
+        "fonte": "Securityweek.com",
+        "autor": "SecurityWeek News",
+        "data": "2026-09-25",
+        "url": "https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/",
+        "resumo": "Noteworthy stories that might have slipped under the radar: BragJack attack against browser AI assistants, TDengine flaw threatens industrial telemetry uptime, Ubuntu update overhaul. The post In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Key…",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg"
+    },
+    {
+        "titulo": "ShinyHunters Hits the FBI, Fake LastPass Installers, and a $459M Google Fine: This Week&#x27;s Cybersecurity Chaos",
+        "fonte": "PCMag.com",
+        "autor": "Alan Henry",
+        "data": "2026-09-25",
+        "url": "https://uk.pcmag.com/security/167493/shinyhunters-hits-the-fbi-fake-lastpass-installers-and-a-459m-google-fine-this-weeks-cybersecurity-c",
+        "resumo": "Come for ShinyHunters extorting rival hackers and breaching the FBI, stay for Google&#x27;s $459M GDPR fine. Plus, is your VPN blocking which sites you can see? It’s been a busy week in cybersecurity, starting off with two notable breaches from our old friends Shi…",
+        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/s/shinyhunte/shinyhunters-hits-the-fbi-fake-lastpass-installers-and-a-459_npt6.1200.jpg"
+    },
+    {
         "titulo": "CISA Unveils Election Security Plan Ahead of 2026 Midterms",
         "fonte": "Infosecurity Magazine",
         "autor": "James Coker",
@@ -25,158 +178,5 @@
         "url": "https://kitploit.com/en/tools/github/githubsecuritylab/seclab-taskflows-fuzzing/",
         "resumo": "An LLM-driven fuzzing pipeline powered by the GitHub Security Lab Taskflow Agent",
         "imagem": "https://assets.kitploit.com/production/public/tools/56121/4bb7b9b29620e6055b9a511b4cf4bb0a5091fb0061a71dd624559817b2a55568-social-v1.webp"
-    },
-    {
-        "titulo": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-09-25",
-        "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
-        "resumo": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL injection in the virtuse…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8MACS_IO_gIvzTjppTIaHyXZKPha3ZR13_sXQS7u9Ajphpz-FRL5GNIQzhpbveUPPLuMCq72MYNtdX5o6gF-9MZZg4rPF7mbOP_pjSXyTVOFy3XtzlQiMH6sIdTdsqgZpgQf-yZmk688M6BiOWdUNYZswJVQETAInFkZVZCl99ZoYoGhhgtpJZ0hs9JmV/s1700-nu-rw-lo-l85-e365/roundcube.jpg"
-    },
-    {
-        "titulo": "U.S. CISA adds Adobe and WSO2 flaws to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-09-25",
-        "url": "https://securityaffairs.com/199704/hacking/u-s-cisa-adds-adobe-and-wso2-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Adobe and WSO2 flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabilities to its Known Exploited …",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "Google Pixel Modem Flaw Under Active Exploitation Sits Below Every Security Layer",
-        "fonte": "Forkast.news",
-        "autor": "Heath Callahan",
-        "data": "2026-09-25",
-        "url": "https://forkast.news/google-pixel-modem-flaw-under-active-exploitation-sits-below-every-security-layer/",
-        "resumo": "Google has patched CVE-2026-58704, a high-severity flaw in the Pixel cellular modem. The vulnerability is a logic error — categorized as improper authorization — that allows an attacker to bypass permission checks and escalate privileges. It requires no user …",
-        "imagem": "https://forkast.news/wp-content/uploads/2026/09/pixel-modem-cve-2026-58704-foundation-breach-1024x687.jpg"
-    },
-    {
-        "titulo": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-09-25",
-        "url": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqTAzyCx7Cezy4z5oRz-uAHvdvW1IZDrQlfIqT_ZDJ22Hvarb4lmYWkjqBDI_CngiSy2wuot68b2CgMS_0CWVZS93lYo5wqJsd5-WdFQgO3dieodXpVQiizcFjQsPzUOlVrs32zkBaHAwOyD7S4GCZ3b1d-Jyt4-ZTaMltfU0jG5dwBw5cxj880D4Cx8W0/s1700-nu-rw-lo-l85-e365/ADOBE-CISA.jpg"
-    },
-    {
-        "titulo": "Flock Wants The Most Detailed Map of Its Surveillance Cameras Taken Offline",
-        "fonte": "The Intercept",
-        "autor": "Nikita Mazurov",
-        "data": "2026-09-24",
-        "url": "https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/",
-        "resumo": "A security researcher’s map revealed more locations of Flock devices than any other. Flock is trying to take it down. The post Flock Wants The Most Detailed Map of Its Surveillance Cameras Taken Offline appeared first on The Intercept.",
-        "imagem": "https://theintercept.com/wp-content/uploads/2026/09/signal-2026-09-23-12-10-51-688_002-e1790203073266.jpg?fit=1536%2C768&w=1200&h=800"
-    },
-    {
-        "titulo": "8 insights from Proofpoint Protect: Security bets on intent as AI agents join the workforce",
-        "fonte": "SiliconANGLE News",
-        "autor": "Cheryl Knight",
-        "data": "2026-09-24",
-        "url": "https://siliconangle.com/2026/09/24/proofpoint-protect-2026-8-insights-ai-agent-security-proofpointprotect/",
-        "resumo": "At this week’s Proofpoint Protect event, the security debate moved beyond whether enterprises will deploy AI agents to how they will govern them. Attackers now use AI to write flawless phishing lures and chain exploits at machine speed. Meanwhile, the agents …",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Molly-McLain-Sterling-senior-director-of-Cybersecurity-Strategy-at-Proofpoint-Proofpoint-Protect-2026-scaled.jpg"
-    },
-    {
-        "titulo": "Show HN: Fine-tuned 110M encoder beat 7B LLMs and hybrid search for NIST mapping",
-        "fonte": "Github.com",
-        "autor": "jpusateri",
-        "data": "2026-09-24",
-        "url": "https://github.com/applied-inference-lab/autormf-ml-lab",
-        "resumo": "Open-source contrastive embedding stack for mapping technical CVE disclosures to cybersecurity compliance controls (NIST SP 800-53 / CMMC) - applied-inference-lab/autormf-ml-lab",
-        "imagem": "https://opengraph.githubassets.com/4105c0f9122b0ed28924abc6c3d80470b1a60c8aaa4d4183b7a082e5570c83d5/applied-inference-lab/autormf-ml-lab"
-    },
-    {
-        "titulo": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-09-24",
-        "url": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
-        "resumo": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in OnePlus&#x27;s own software to gain root access, the highest level of control…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiGu2guziH88Cs_LnFsPkCJ4zuxqgSX7q3SRrBXdSAEeJPhmYnpNp-c0WCNCqoOoyCv6NcnmCKm20rhqSb2rjw7KZ6Kh6UssR2fZG5SZX9Pjhb_fjONdBfgpxqpWNABPDvSmD9Hp913nErgH4PQm1ehlyspJt5RXASYckP6jHE3G0V2ou5fwkG7JOZyBY/s1700-nu-rw-lo-l85-e365/oneplus.jpg"
-    },
-    {
-        "titulo": "Trust and the enticing consultancy offer",
-        "fonte": "Talosintelligence.com",
-        "autor": "Martin Lee",
-        "data": "2026-09-24",
-        "url": "https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/",
-        "resumo": "In this week’s newsletter Martin muses over a very suspicious elicitation over social media and the true value of trust within the cyber ecosystem. Hubris might be the real vulnerability that the cyber industry must worry about.",
-        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/09/threat_source-3.jpg"
-    },
-    {
-        "titulo": "Australia just got a real-world look at what happens when an AI refuses to stop",
-        "fonte": "CryptoSlate",
-        "autor": "Oluwapelumi Adejumo",
-        "data": "2026-09-24",
-        "url": "https://cryptoslate.com/australia-just-got-a-real-world-look-at-what-happens-when-an-ai-refuses-to-stop/",
-        "resumo": "Albanese says the agent reached nonpublic files while seeking spending data; investigators are assessing the scope of access. The post Australia just got a real-world look at what happens when an AI refuses to stop appeared first on CryptoSlate.",
-        "imagem": "https://cryptoslate.com/wp-content/uploads/2026/09/medicare-agent-probe.webp"
-    },
-    {
-        "titulo": "Payy Network halts operations after $1.92M USDC exploit drains Ethereum rollup",
-        "fonte": "Crypto Briefing",
-        "autor": "Editorial Team",
-        "data": "2026-09-24",
-        "url": "https://cryptobriefing.com/payy-network-halt-usdc-exploit-ethereum-rollup/",
-        "resumo": "The Payy Network exploit highlights the ongoing vulnerabilities in DeFi infrastructure, raising concerns about security and user trust in digital finance. The post Payy Network halts operations after $1.92M USDC exploit drains Ethereum rollup appeared first o…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/24130127/library-payy-network-halts-operations-after-1-92m-usdc-exploit-d-1-800x450.png"
-    },
-    {
-        "titulo": "Best Reverse Engineering Services for Legacy Software",
-        "fonte": "Socialnomics.net",
-        "autor": "Socialnomics Trends",
-        "data": "2026-09-24",
-        "url": "https://socialnomics.net/2026/09/24/best-reverse-engineering-services-for-legacy-software/",
-        "resumo": "Best Reverse Engineering Services for Legacy Software Legacy software reverse engineering has a specific problem that reverse engineering for other purposes doesn’t share. The system is in production. People depend on it daily. The original developers are gon…",
-        "imagem": "https://socialnomics.net/wp-content/uploads/2024/03/pexels-kevin-ku-577585.jpg"
-    },
-    {
-        "titulo": "The Best Small Business Cybersecurity Suites for 2026",
-        "fonte": "PCMag.com",
-        "autor": "Neil J. Rubenking",
-        "data": "2026-09-24",
-        "url": "https://uk.pcmag.com/security-suites/161199/the-best-small-business-cybersecurity-suites",
-        "resumo": "If you run a small business, you don&#x27;t need an enterprise-level IT army—but you do need serious protection for your systems and data. Here&#x27;s how Avast, Bitdefender, and other top security suites keep your company safe without breaking your budget. What Counts…",
-        "imagem": "https://sm.pcmag.com/t/pcmag_uk/guide/t/the-best-s/the-best-small-business-cybersecurity-suites-for-2026_fj4u.1200.jpg"
-    },
-    {
-        "titulo": "security-portfolio",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-09-24",
-        "url": "https://kitploit.com/en/tools/github/mitsu-bis/security-portfolio/",
-        "resumo": "Security portfolio of original responsible-disclosure findings, CTF and lab write-ups, methodology notes, and purpose-built pentest tooling covering web, Active Directory, and detection engineering.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/56111/6be8e0c1ebed6d6647f795268387a74f5a5422c722f5ee15ee0d1ff84c7d7e35-social-v1.webp"
-    },
-    {
-        "titulo": "Meta’s New AI Device Is This Tamagotchi-Like Muse Charm Keychain",
-        "fonte": "CNET",
-        "autor": "Katelyn Chedraoui",
-        "data": "2026-09-24",
-        "url": "https://www.cnet.com/tech/services-and-software/meta-connect-muse-charm-ai-keychain-announcement/",
-        "resumo": "Meta says the keychain will be ready to ship by the holiday season, like some kind of bizarre AI stocking stuffer.",
-        "imagem": "https://www.cnet.com/wp-content/uploads/sites/2/image-1-2.png"
-    },
-    {
-        "titulo": "Banks need to recognise tech risk as 1st-order enterprise risk: RBI Dy Guv Jain",
-        "fonte": "BusinessLine",
-        "autor": "BL Mumbai Bureau",
-        "data": "2026-09-24",
-        "url": "https://www.thehindubusinessline.com/money-and-banking/banks-need-to-recognise-tech-risk-as-1st-order-enterprise-risk-rbi-dy-guv-jain/article71504674.ece",
-        "resumo": "He noted that technology is now embedded in almost every critical banking function, from core banking and payments to customer onboarding, credit assessment, fraud monitoring and regulatory reporting",
-        "imagem": "https://bl-i.thgim.com/public/incoming/matv5o/article71504689.ece/alternates/LANDSCAPE_1200/20260924317L.jpg"
-    },
-    {
-        "titulo": "Exclusive: Trump Admin Releases Blueprint To Protect Election Infrastructure Ahead Of Midterms",
-        "fonte": "The Federalist",
-        "autor": "Shawn Fleetwood",
-        "data": "2026-09-24",
-        "url": "https://thefederalist.com/2026/09/24/exclusive-trump-admin-releases-blueprint-to-protect-election-infrastructure-ahead-of-midterms/",
-        "resumo": "The 2026 Election Infrastructure Security Plan includes numerous tools and services that election officials can use to protect election infrastructure in the midterms.",
-        "imagem": "https://thefederalist.com/wp-content/uploads/2026/09/Voting.jpg"
     }
 ]
