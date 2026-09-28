@@ -1,5 +1,86 @@
 [
     {
+        "titulo": "Citrix admins warned to shut down NetScalers over 2 exploited zero-days",
+        "fonte": "BleepingComputer",
+        "autor": "Lawrence Abrams",
+        "data": "2026-09-27",
+        "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+        "resumo": "Two unpatched Citrix NetScaler zero-day vulnerabilities are reportedly being exploited in attacks, with cybersecurity agencies, security researchers, and IT providers privately warning organizations about the flaws ahead of patches expected next week. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/08/27/Citrix.jpg"
+    },
+    {
+        "titulo": "ShinyHunters hackers expanded attacks on Oracle&#x27;s PeopleSoft, Google says",
+        "fonte": "The Times of India",
+        "autor": "Reuters",
+        "data": "2026-09-27",
+        "url": "https://economictimes.indiatimes.com/tech/technology/shinyhunters-hackers-expanded-attacks-on-oracles-peoplesoft-google-says/articleshow/134522003.cms",
+        "resumo": "The evolving nature of the attack is likely to ring alarm bells at organisations that rely on PeopleSoft for human resources and other critical functions, and heighten concerns about the vulnerability of even well-resourced institutions.",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-5820925,resizemode-75,msid-134522003/tech/technology/shinyhunters-hackers-expanded-attacks-on-oracles-peoplesoft-google-says.jpg"
+    },
+    {
+        "titulo": "Security Affairs newsletter Round 597 by Pierluigi Paganini – INTERNATIONAL EDITION",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-09-27",
+        "url": "https://securityaffairs.com/199841/breaking-news/security-affairs-newsletter-round-597-by-pierluigi-paganini-international-edition.html",
+        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including international press. OpenAI Agent…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/09/securityaffairs-newsletter.jpg"
+    },
+    {
+        "titulo": "Flock seeks to have security researchers&#x27; map of Flock cameras taken down",
+        "fonte": "Toms Hardware UK",
+        "autor": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+        "data": "2026-09-27",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/flock-seeks-to-have-security-researchers-map-of-flock-cameras-taken-down-unauthenticated-flaw-exposed-335-701-camera-locations-nationwide",
+        "resumo": "A vulnerability on the Flock website allowed a security researcher to access its third-party provider to download the locations and descriptions of over 300,000 Flock cameras. He also pointed out how the Flock system could be used to track personnel heading t…",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/zijwMhUjw6Sbp3f8HhJuxP-1920-80.png"
+    },
+    {
+        "titulo": "Week in review: Gyazo breach exposes 23.6M user data, TASK#STOMP steals documents",
+        "fonte": "Help Net Security",
+        "autor": "Help Net Security",
+        "data": "2026-09-27",
+        "url": "https://www.helpnetsecurity.com/2026/09/27/week-in-review-gyazo-breach-exposes-23-6m-user-data-taskstomp-steals-documents/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Know what was tested before your SAP ECC migration goes live In this Help Net Security interview, Guilherme Joventino, COO of MIGNOW, explains why some large com…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124834/cybersecurity-week-review-3-1500.webp"
+    },
+    {
+        "titulo": "Trump backs unregulated AI to beat China, but it may harm US security",
+        "fonte": "Business Standard",
+        "autor": "The Conversation",
+        "data": "2026-09-27",
+        "url": "https://www.business-standard.com/world-news/trump-backs-unregulated-ai-to-beat-china-but-it-may-harm-us-security-126092700117_1.html",
+        "resumo": "The US president has repeatedly argued that the introduction of robust regulations to slow down progress on AI threatens US national interests by enabling China to seize the advantage",
+        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/08/thumb/featurecrop/1200X628/1788843514-2848.jpg"
+    },
+    {
+        "titulo": "Show HN: AI Agents gone rogue – A timeline of real-world incidents",
+        "fonte": "Crawlspider.com",
+        "autor": "njx",
+        "data": "2026-09-26",
+        "url": "https://www.crawlspider.com/pages/ai-agents-gone-rogue/",
+        "resumo": "Explore documented AI agent incidents, from real-world failures to escaped evaluations and controlled experiments. Search reports, inspect sources, and download the CSV.",
+        "imagem": ""
+    },
+    {
+        "titulo": "Why I’m Keeping Meta’s Muse on a Short Leash",
+        "fonte": "The Information",
+        "autor": "Nick Wingfield",
+        "data": "2026-09-26",
+        "url": "https://www.theinformation.com/articles/keeping-metas-muse-short-leash",
+        "resumo": "Sem resumo",
+        "imagem": ""
+    },
+    {
+        "titulo": "OpenAI bots accessed public U.S. Census, SEC data, as company discloses unexpected AI activity",
+        "fonte": "CBC News",
+        "autor": "",
+        "data": "2026-09-26",
+        "url": "https://www.cbc.ca/news/world/openai-rogue-us-sites-activity-9.7359673",
+        "resumo": "OpenAI disclosed Friday that its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways, discovered as part of an ongoing review into the company’s models’ unanticipated behavior.",
+        "imagem": "https://i.cbc.ca/ais/5270b93a-e4ca-4aac-8811-169935df9d4e,1790428149304/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C600%2C5760%2C3240%29%3BResize%3D620"
+    },
+    {
         "titulo": "Refrigerators: The Next Battle Frontier?",
         "fonte": "Wattsupwiththat.com",
         "autor": "Guest Blogger",
@@ -97,86 +178,5 @@
         "url": "https://cryptobriefing.com/bitget-pauses-withdrawals-351-million-hack/",
         "resumo": "The hack underscores evolving cybersecurity threats, highlighting the need for robust backend defenses and proactive user protection measures. The post Bitget pauses withdrawals after $387.5M hack, CEO assures funds safe appeared first on Crypto Briefing.",
         "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/25162612/library-bitget-pauses-withdrawals-after-387-5m-hack-ceo-assures--800x450.png"
-    },
-    {
-        "titulo": "Notre Dame’s network refresh shows the AI era starts with paying down technical debt",
-        "fonte": "SiliconANGLE News",
-        "autor": "Zeus Kerravala",
-        "data": "2026-09-25",
-        "url": "https://siliconangle.com/2026/09/25/notre-dames-network-refresh-shows-the-ai-era-starts-with-paying-down-technical-debt/",
-        "resumo": "Every organization I talk to wants to be “AI-ready,” but few want to discuss what that entails. It’s rarely a new model or agent. More often, it’s the unglamorous work of ripping out a decade’s worth of infrastructure debt so the network can deliver the bandw…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/MC-8.25.26-Students-Walking-scaled.jpg"
-    },
-    {
-        "titulo": "Trump frames unregulated AI as a way to keep ahead of China – but in fact, it harms US national security",
-        "fonte": "The Conversation Africa",
-        "autor": "Stephen Collins, Professor of Government and International Affairs, Kennesaw State University",
-        "data": "2026-09-25",
-        "url": "https://theconversation.com/trump-frames-unregulated-ai-as-a-way-to-keep-ahead-of-china-but-in-fact-it-harms-us-national-security-292642",
-        "resumo": "An unregulated sector has risks in itself but will also aid the rapid advancement of AI in China.",
-        "imagem": "https://images.theconversation.com/files/762150/original/file-20260924-50-b3v7d2.jpg?ixlib=rb-4.1.1&rect=0%2C131%2C7548%2C3774&q=45&auto=format&w=1356&h=668&fit=crop"
-    },
-    {
-        "titulo": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Bill Toulas",
-        "data": "2026-09-25",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
-        "resumo": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/22/CISA.jpg"
-    },
-    {
-        "titulo": "Kiteworks urges customers to shut down their servers amid &#x27;imminent&#x27; threat of cyberattack | TechCrunch",
-        "fonte": "TechCrunch",
-        "autor": "Zack Whittaker",
-        "data": "2026-09-25",
-        "url": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
-        "resumo": "The tech giant, which allows companies to send large datasets over the internet, said it received a &quot;credible threat&quot; from law enforcement about an imminent attack.",
-        "imagem": "https://techcrunch.com/wp-content/uploads/2024/12/data-breach-2024-roundup.jpg?resize=1200,675"
-    },
-    {
-        "titulo": "In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure",
-        "fonte": "Securityweek.com",
-        "autor": "SecurityWeek News",
-        "data": "2026-09-25",
-        "url": "https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/",
-        "resumo": "Noteworthy stories that might have slipped under the radar: BragJack attack against browser AI assistants, TDengine flaw threatens industrial telemetry uptime, Ubuntu update overhaul. The post In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Key…",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg"
-    },
-    {
-        "titulo": "ShinyHunters Hits the FBI, Fake LastPass Installers, and a $459M Google Fine: This Week&#x27;s Cybersecurity Chaos",
-        "fonte": "PCMag.com",
-        "autor": "Alan Henry",
-        "data": "2026-09-25",
-        "url": "https://uk.pcmag.com/security/167493/shinyhunters-hits-the-fbi-fake-lastpass-installers-and-a-459m-google-fine-this-weeks-cybersecurity-c",
-        "resumo": "Come for ShinyHunters extorting rival hackers and breaching the FBI, stay for Google&#x27;s $459M GDPR fine. Plus, is your VPN blocking which sites you can see? It’s been a busy week in cybersecurity, starting off with two notable breaches from our old friends Shi…",
-        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/s/shinyhunte/shinyhunters-hits-the-fbi-fake-lastpass-installers-and-a-459_npt6.1200.jpg"
-    },
-    {
-        "titulo": "CISA Unveils Election Security Plan Ahead of 2026 Midterms",
-        "fonte": "Infosecurity Magazine",
-        "autor": "James Coker",
-        "data": "2026-09-25",
-        "url": "https://www.infosecurity-magazine.com/news/cisa-election-security-midterms/",
-        "resumo": "The CISA plan provides guidance and resources for election officials to secure systems such as voter registration databases and voting machines",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/503ba22a-0d01-45cc-8d67-11846c5b43a3.jpeg"
-    },
-    {
-        "titulo": "OpenAI’s Fourth Cybersecurity Model in Twelve Months Is Not About Better Chatbots – It Is About Gated Access to Dangerous Capabilities",
-        "fonte": "Forkast.news",
-        "autor": "Lena Park",
-        "data": "2026-09-25",
-        "url": "https://forkast.news/openais-fourth-cybersecurity-model-in-twelve-months-is-not-about-better-chatbots-it-is-about-gated-access-to-dangerous-capabilities/",
-        "resumo": "On September 29, 2026, OpenAI will preview GPT-6 Cyber at its annual DevDay conference in San Francisco. It will be the company’s fourth cybersecurity-focused model released in twelve months. The cadence alone is the story: GPT-5.4 Cyber arrived in April, GPT…",
-        "imagem": "https://forkast.news/wp-content/uploads/2026/09/gpt6-cyber-sealed-mechanism-1024x687.jpg"
-    },
-    {
-        "titulo": "seclab-taskflows-fuzzing",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-09-25",
-        "url": "https://kitploit.com/en/tools/github/githubsecuritylab/seclab-taskflows-fuzzing/",
-        "resumo": "An LLM-driven fuzzing pipeline powered by the GitHub Security Lab Taskflow Agent",
-        "imagem": "https://assets.kitploit.com/production/public/tools/56121/4bb7b9b29620e6055b9a511b4cf4bb0a5091fb0061a71dd624559817b2a55568-social-v1.webp"
     }
 ]
