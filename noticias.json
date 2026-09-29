@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Citrix admins warned to shut down NetScalers over 2 exploited zero-days",
-        "fonte": "BleepingComputer",
-        "autor": "Lawrence Abrams",
-        "data": "2026-09-27",
-        "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
-        "resumo": "Two unpatched Citrix NetScaler zero-day vulnerabilities are reportedly being exploited in attacks, with cybersecurity agencies, security researchers, and IT providers privately warning organizations about the flaws ahead of patches expected next week. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/08/27/Citrix.jpg"
-    },
-    {
-        "titulo": "ShinyHunters hackers expanded attacks on Oracle&#x27;s PeopleSoft, Google says",
-        "fonte": "The Times of India",
-        "autor": "Reuters",
-        "data": "2026-09-27",
-        "url": "https://economictimes.indiatimes.com/tech/technology/shinyhunters-hackers-expanded-attacks-on-oracles-peoplesoft-google-says/articleshow/134522003.cms",
-        "resumo": "The evolving nature of the attack is likely to ring alarm bells at organisations that rely on PeopleSoft for human resources and other critical functions, and heighten concerns about the vulnerability of even well-resourced institutions.",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-5820925,resizemode-75,msid-134522003/tech/technology/shinyhunters-hackers-expanded-attacks-on-oracles-peoplesoft-google-says.jpg"
-    },
-    {
-        "titulo": "Security Affairs newsletter Round 597 by Pierluigi Paganini – INTERNATIONAL EDITION",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-09-27",
-        "url": "https://securityaffairs.com/199841/breaking-news/security-affairs-newsletter-round-597-by-pierluigi-paganini-international-edition.html",
-        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including international press. OpenAI Agent…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/09/securityaffairs-newsletter.jpg"
-    },
-    {
-        "titulo": "Flock seeks to have security researchers&#x27; map of Flock cameras taken down",
-        "fonte": "Toms Hardware UK",
-        "autor": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-        "data": "2026-09-27",
-        "url": "https://www.tomshardware.com/tech-industry/cyber-security/flock-seeks-to-have-security-researchers-map-of-flock-cameras-taken-down-unauthenticated-flaw-exposed-335-701-camera-locations-nationwide",
-        "resumo": "A vulnerability on the Flock website allowed a security researcher to access its third-party provider to download the locations and descriptions of over 300,000 Flock cameras. He also pointed out how the Flock system could be used to track personnel heading t…",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/zijwMhUjw6Sbp3f8HhJuxP-1920-80.png"
-    },
-    {
-        "titulo": "Week in review: Gyazo breach exposes 23.6M user data, TASK#STOMP steals documents",
-        "fonte": "Help Net Security",
-        "autor": "Help Net Security",
-        "data": "2026-09-27",
-        "url": "https://www.helpnetsecurity.com/2026/09/27/week-in-review-gyazo-breach-exposes-23-6m-user-data-taskstomp-steals-documents/",
-        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Know what was tested before your SAP ECC migration goes live In this Help Net Security interview, Guilherme Joventino, COO of MIGNOW, explains why some large com…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124834/cybersecurity-week-review-3-1500.webp"
-    },
-    {
-        "titulo": "Trump backs unregulated AI to beat China, but it may harm US security",
-        "fonte": "Business Standard",
-        "autor": "The Conversation",
-        "data": "2026-09-27",
-        "url": "https://www.business-standard.com/world-news/trump-backs-unregulated-ai-to-beat-china-but-it-may-harm-us-security-126092700117_1.html",
-        "resumo": "The US president has repeatedly argued that the introduction of robust regulations to slow down progress on AI threatens US national interests by enabling China to seize the advantage",
-        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/08/thumb/featurecrop/1200X628/1788843514-2848.jpg"
-    },
-    {
-        "titulo": "Show HN: AI Agents gone rogue – A timeline of real-world incidents",
-        "fonte": "Crawlspider.com",
-        "autor": "njx",
-        "data": "2026-09-26",
-        "url": "https://www.crawlspider.com/pages/ai-agents-gone-rogue/",
-        "resumo": "Explore documented AI agent incidents, from real-world failures to escaped evaluations and controlled experiments. Search reports, inspect sources, and download the CSV.",
-        "imagem": ""
-    },
-    {
-        "titulo": "Why I’m Keeping Meta’s Muse on a Short Leash",
-        "fonte": "The Information",
-        "autor": "Nick Wingfield",
-        "data": "2026-09-26",
-        "url": "https://www.theinformation.com/articles/keeping-metas-muse-short-leash",
-        "resumo": "Sem resumo",
-        "imagem": ""
-    },
-    {
-        "titulo": "OpenAI bots accessed public U.S. Census, SEC data, as company discloses unexpected AI activity",
-        "fonte": "CBC News",
-        "autor": "",
-        "data": "2026-09-26",
-        "url": "https://www.cbc.ca/news/world/openai-rogue-us-sites-activity-9.7359673",
-        "resumo": "OpenAI disclosed Friday that its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways, discovered as part of an ongoing review into the company’s models’ unanticipated behavior.",
-        "imagem": "https://i.cbc.ca/ais/5270b93a-e4ca-4aac-8811-169935df9d4e,1790428149304/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C600%2C5760%2C3240%29%3BResize%3D620"
-    },
-    {
-        "titulo": "Refrigerators: The Next Battle Frontier?",
-        "fonte": "Wattsupwiththat.com",
-        "autor": "Guest Blogger",
-        "data": "2026-09-26",
-        "url": "https://wattsupwiththat.com/2026/09/26/refrigerators-the-next-battle-frontier/",
-        "resumo": "The next battle frontier may not begin with a missile launch or an attack on a satellite. It may begin with a series of small, seemingly unrelated failures designed to disrupt, complicate, and confuse us before we even realize we are under attack. And yes, th…",
-        "imagem": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/09/Refrigerator_Infographic_16835927021.webp?fit=1024%2C512&quality=75&ssl=1"
-    },
-    {
-        "titulo": "Refrigerators: The Next National Security Frontier?",
-        "fonte": "Daily Signal",
-        "autor": "Olivia Burdo",
-        "data": "2026-09-26",
-        "url": "https://www.dailysignal.com/2026/09/26/refrigerators-national-security/",
-        "resumo": "RealClearWire—Refrigerators are probably the last thing anyone would consider a national security vulnerability, which is precisely why the unusual refrigeration failures at U.S. military commissaries deserve more attention than they are getting. There is n…",
-        "imagem": "https://static.dailysignalmedia.org/2026/09/GettyImages-481059643.jpg"
-    },
-    {
-        "titulo": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+        "titulo": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-09-26",
-        "url": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnera…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHEPamtRBBEzltsUWnj-F8umrMf4eUUhTmGUJdhHlrvWZamHWpBtXcrpQKDArTziRiiIWv8psX4DTZyN9kLBtcAyLOPJma9_M7sYKgYz6WBISbOhJrRlfByfCKfTTMdBqaYUp-0nskrt2ndt3poUFLDGegEFJojS0EzEvwAqzaUNtvX26jZopYE4zA4S3K/s1700-nu-rw-lo-l85-e365/share-kev.jpg"
+        "data": "2026-09-28",
+        "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
+        "resumo": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface. Elsewhere, weak se…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-eWVCAN2nvZGZrKlwm-wminZE56MzJ_bVRK6CJfdBw9TXU4yQy6t9T0hDi0hSOskE9Xs6M-KCVEbVvBuL2DLDkew97W2iobOPZa9zqEBeGPWBnW8cftdD1FwzBLz7CIGVhJb1FwnS-35B62Jqc331zNQ67hZP-V2jKBT7yUxUV4rn8jMr27QCommYp-j/s1700-nu-rw-lo-l85-e365/c-recap.jpg"
     },
     {
-        "titulo": "U.S. CISA adds WordPress flaw to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-09-26",
-        "url": "https://securityaffairs.com/199790/security/u-s-cisa-adds-wordpress-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds WordPress flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a WordPress Core flaw, tracked as CVE-2026-87902 (CVSS scor…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "OpenAI Models Go Rogue on &#x27;Dozens&#x27; More Third-Party Services",
-        "fonte": "PCMag.com",
-        "autor": "Michael Kan",
-        "data": "2026-09-26",
-        "url": "https://me.pcmag.com/en/security/38156/openai-models-go-rogue-on-dozens-more-third-party-services",
-        "resumo": "An OpenAI model bypassed sites&#x27; security controls, took them offline, or otherwise negatively impacted the service. In some cases, user-uploaded images were posted to image-hosting sites. OpenAI has uncovered even more instances of its AI models hacking or po…",
-        "imagem": "https://sm.pcmag.com/t/pcmag_me/news/o/openai-mod/openai-models-go-rogue-on-dozens-more-third-party-services_jrvm.1200.jpg"
-    },
-    {
-        "titulo": "ShinyHunters hackers expanded attacks on Oracle&#x27;s PeopleSoft, Google says",
-        "fonte": "CNA",
+        "titulo": "Inspira Enterprise Named Major Contender in Everest Group&#x27;s 2026 Cybersecurity Services PEAK Matrix®",
+        "fonte": "PRNewswire",
         "autor": "",
-        "data": "2026-09-26",
-        "url": "https://www.channelnewsasia.com/business/shinyhunters-hackers-expanded-attacks-oracles-peoplesoft-google-says-6412246",
-        "resumo": "Sept 25 : Google&#x27;s cybersecurity unit said on Friday that hacking group ShinyHunters has renewed &quot;mass exploitation&quot; of a security flaw in Oracle&#x27;s PeopleSoft software, after skirting defenses put up following attacks in the summer.Mandiant made the announcem…",
-        "imagem": "https://dam.mediacorp.sg/image/upload/s--Oxx447Tt--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-26T020548Z_1_LYNXMPEM8P01R_RTROPTP_3_GOOGLE-SPACE-SATELLITE.JPG?itok=mHwnungB"
+        "data": "2026-09-28",
+        "url": "https://www.prnewswire.com/news-releases/inspira-enterprise-named-major-contender-in-everest-groups-2026-cybersecurity-services-peak-matrix-302891483.html",
+        "resumo": "MUMBAI, India, RIYADH, Saudi Arabia, DUBAI, UAE, DALLAS, and SINGAPORE, Sept. 28, 2026 /PRNewswire/ -- Inspira Enterprise, a global leader in cybersecurity services, today announced that it has been recognized as a Major Contender in the Everest Group Cyberse…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1553620/Inspira-Enterprise-Logo.jpg?id=OA2971138&p=facebook"
     },
     {
-        "titulo": "China’s grand strategy, and what Nepal must understand",
-        "fonte": "Khabarhub.com",
-        "autor": "Binoj Basnyat",
-        "data": "2026-09-26",
-        "url": "https://english.khabarhub.com/2026/26/569145/",
-        "resumo": "China’s rise is often reduced to a simple question: Is Beijing trying to replace the U.S. as the dominant power in the international system? That question is important, but it is not sufficient. For smaller states such as Nepal, the more consequential questio…",
-        "imagem": "https://english.khabarhub.com/wp-content/uploads/2026/09/Khabar-Hub-Article_Binoj-Basnyat_1200px-630X-px-Final_2026.09.25-Upload.jpg"
+        "titulo": "FBI job portals remain offline after ShinyHunters claims breach via PeopleSoft zero-day",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-09-28",
+        "url": "https://www.helpnetsecurity.com/2026/09/28/fbi-job-portals-offline-shinyhunters-breach/",
+        "resumo": "The FBI’s online portals for job applicants (at apply.fbijobs.gov) and special agent applicants (at fbijobs.gov/special-agents) are still unavailable, following what appears to be successful compromises by the ShinyHunters cyber extortion group. Last week, th…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/30133249/door-lock-encryption.webp"
     },
     {
-        "titulo": "OpenAI Models Go Rogue on &#x27;Dozens&#x27; More Third-Party Services",
-        "fonte": "PCMag.com",
-        "autor": "Michael Kan",
-        "data": "2026-09-25",
-        "url": "https://uk.pcmag.com/ai/167505/openai-models-go-rogue-on-dozens-more-third-party-services",
-        "resumo": "An OpenAI model bypassed sites&#x27; security controls, took them offline, or otherwise negatively impacted the service. In some cases, user-uploaded images were posted to image-hosting sites. OpenAI has uncovered even more instances of its AI models hacking or po…",
-        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/o/openai-mod/openai-models-go-rogue-on-dozens-more-third-party-services_p4ex.1200.png"
+        "titulo": "Artificial Analysis launches Cyber Index to benchmark AI models on enterprise vulnerability defense",
+        "fonte": "Crypto Briefing",
+        "autor": "Diego Almada Lopez",
+        "data": "2026-09-28",
+        "url": "https://cryptobriefing.com/artificial-analysis-cyber-index-launch/",
+        "resumo": "The Cyber Index could significantly enhance enterprise cybersecurity by setting a new standard for AI-driven vulnerability management. The post Artificial Analysis launches Cyber Index to benchmark AI models on enterprise vulnerability defense appeared first …",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/28083534/library-artificial-analysis-launches-cyber-index-to-benchmark-ai-2-800x450.png"
     },
     {
-        "titulo": "U.S. CISA adds Microsoft SharePoint and Mikrotik RouterOS flaws to its Known Exploited Vulnerabilities catalog",
+        "titulo": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-09-28",
+        "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+        "resumo": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that&#x27;s targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes Agent. &quot;The implant installs the framework u…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3O4ih8J3-A5sGh57xyYKMGbnSqaXbWhu2g9HBE_mG11gEdedMUmYyeeYpA9TnNPwRsB4t-5V9UTW54iOR0VNzyaaa0fWhOG4Oi46KwGvrrVQRdWIDS7GX6YxjaMrA6sF9RHWNyO8gBttCQ7Nc8LUmrhhH24jSp1lPDuhok9r3CfKxgGJRObZRqRTW-5Gf/s1700-nu-rw-lo-l85-e365/hermes-telegram.jpg"
+    },
+    {
+        "titulo": "Hackers are stealing AI accounts and selling them for 97% off — and it’s getting worse",
+        "fonte": "Intomobile.com",
+        "autor": "Dusan Belic",
+        "data": "2026-09-28",
+        "url": "https://www.intomobile.com/2026/09/28/hackers-are-stealing-ai-accounts-and-selling-them-for-97-off-and-its-getting-worse/",
+        "resumo": "Google&#x27;s top threat analyst says LLM-hijacking is surging, and the economics are badly stacked against defenders",
+        "imagem": "https://www.intomobile.com/wp-content/uploads/2026/09/multisite_img_6aba4945d7f6f.jpeg"
+    },
+    {
+        "titulo": "Article: Five Ways To Use AI Coding Agents to Improve Your Software Architecture",
+        "fonte": "InfoQ.com",
+        "autor": "Pierre Pureur, Kurt Bittner, Todd Miller",
+        "data": "2026-09-28",
+        "url": "https://www.infoq.com/articles/ai-agents-improve-software-architecture/",
+        "resumo": "Modern architectures often use legacy services for specific tasks, but these services may lack accurate documentation and using them can be risky if you don&#x27;t understand them well. AI coding agents can help close that knowledge gap. By Pierre Pureur, Kurt Bit…",
+        "imagem": "https://res.infoq.com/articles/ai-agents-improve-software-architecture/en/headerimage/ai-agents-improve-software-architecture-header-1790153650841.jpg"
+    },
+    {
+        "titulo": "The systems that no one will test",
+        "fonte": "Christianperone.com",
+        "autor": "Christian S. Perone",
+        "data": "2026-09-28",
+        "url": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/",
+        "resumo": "This happened to me in 2020, and it has been on my mind again lately. During the worst of the pandemic, I found a vulnerability in a system that gave me access to the Brazilian federal system, and with that access I was able to retrieve information on any Bra…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Citrix NetScaler RCE zero-days exploited globally for weeks (CVE-2026-88771, CVE-2026-88772)",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-09-28",
+        "url": "https://www.helpnetsecurity.com/2026/09/28/citrix-netscaler-rce-zero-days-exploited-for-weeks-cve-2026-88771-cve-2026-88772/",
+        "resumo": "Citrix has patched eight critical and high-severity vulnerabilities in NetScaler ADC and NetScaler Gateway, two of which (CVE-2026-88771, CVE-2026-88772) have been exploited in zero-day attacks to plant webshells on compromised devices. Rumors about their exi…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/07/08172050/netscaler-1500-red.webp"
+    },
+    {
+        "titulo": "MCP Is Creating Major Governance Gaps, Researchers Warn",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Phil Muncaster",
+        "data": "2026-09-28",
+        "url": "https://www.infosecurity-magazine.com/news/mcp-creating-major-governance-gaps/",
+        "resumo": "Ox Security found security shortcomings in analysis of over 15,000 MCP servers",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/0a95b4f5-53fc-4adb-aac0-64f807bdba92.jpg"
+    },
+    {
+        "titulo": "U.S. CISA adds Citrix NetScaler flaws to its Known Exploited Vulnerabilities catalog",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
-        "data": "2026-09-25",
-        "url": "https://securityaffairs.com/199777/hacking/u-s-cisa-adds-microsoft-sharepoint-and-mikrotik-routeros-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Microsoft SharePoint and Mikrotik RouterOS flaws flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulne…",
+        "data": "2026-09-28",
+        "url": "https://securityaffairs.com/199891/hacking/u-s-cisa-adds-citrix-netscaler-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Citrix NetScaler flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabilities to its Known Exploite…",
         "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
     },
     {
-        "titulo": "From Astra to Cyber: How OpenAI’s Safety Crisis Became a Product Strategy",
-        "fonte": "Forkast.news",
-        "autor": "Lena Park",
-        "data": "2026-09-25",
-        "url": "https://forkast.news/from-astra-to-cyber-how-openais-safety-crisis-became-a-product-strategy/",
-        "resumo": "OpenAI shipped four distinct cybersecurity models — GPT-5.4, 5.5, 5.6, and the recently previewed GPT-6 Cyber — within a single 12-month window. This rapid cadence forced a fundamental shift in strategy: the primary challenge for frontier labs is no longer mo…",
-        "imagem": "https://forkast.news/wp-content/uploads/2026/09/openai-domain-specific-strategy-gated-tiers-1024x687.jpg"
+        "titulo": "Citrix Patches Critical Zero Days Under Active Exploitation",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Phil Muncaster",
+        "data": "2026-09-28",
+        "url": "https://www.infosecurity-magazine.com/news/citrix-patches-critical-zero-days/",
+        "resumo": "Citrix has confirmed exploitation of two critical zero-day RCE bugs",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/6a1380c0-a843-47c1-89b5-bdfcd1d5268f.jpg"
     },
     {
-        "titulo": "Bitget pauses withdrawals after $387.5M hack, CEO assures funds safe",
-        "fonte": "Crypto Briefing",
-        "autor": "John Chen",
-        "data": "2026-09-25",
-        "url": "https://cryptobriefing.com/bitget-pauses-withdrawals-351-million-hack/",
-        "resumo": "The hack underscores evolving cybersecurity threats, highlighting the need for robust backend defenses and proactive user protection measures. The post Bitget pauses withdrawals after $387.5M hack, CEO assures funds safe appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/25162612/library-bitget-pauses-withdrawals-after-387-5m-hack-ceo-assures--800x450.png"
+        "titulo": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-09-28",
+        "url": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Sunday added two critical Citrix NetScaler ADC and Gateway flaws to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerabilities are liste…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG1pBfETB-EOlAvKfZwROp5B3Nr3d00xBbxRPhsq5hDBvK8QTVYmc2r8tR8RNz7omvXWoufetWbVk1S-tZ74b-z0nxsHS_Zz7XnN4Vs7VGvDtlnOhsfG0ecx-LX_kuRwBLJwkIMN-26auGXjzdcAS2Yz8sdQ2U_kDtKpQOnOYD18r6WEu1twQ79p_ZJGhD/s1700-nu-rw-lo-l85-e365/ct.jpg"
+    },
+    {
+        "titulo": "Certainties in life: Death, taxes, and critical Citrix vulns under attack",
+        "fonte": "Theregister.com",
+        "autor": "Simon Sharwood",
+        "data": "2026-09-28",
+        "url": "https://www.theregister.com/security/2026/09/28/certainties-in-life-death-taxes-and-critical-citrix-vulns-under-attack/5299369",
+        "resumo": "Sunday NetScaler patch dump fixes trio of critical vulns and five more serious messes",
+        "imagem": "https://image.theregister.com/5299380.jpg?imageId=5299380&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+        "titulo": "Refrigeration Failures at Military Commissaries Draw Scrutiny Over Infrastructure Security",
+        "fonte": "Naturalnews.com",
+        "autor": "Edison Reed",
+        "data": "2026-09-28",
+        "url": "https://www.naturalnews.com/2026-09-28-refrigeration-failures-at-military-commissaries-draw-scrutiny.html",
+        "resumo": "Multiple U.S. military commissaries experienced refrigeration failures within a short period, according to public accounts, raising questions about the security and resilience of the operational technology that supports everyday functions on American military…",
+        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/military-commissaries-refrigeration-failures-infrastructure-security-4546-original.jpg"
+    },
+    {
+        "titulo": "akca",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-09-28",
+        "url": "https://kitploit.com/en/tools/github/akha-security/akca/",
+        "resumo": "Evidence-oriented DAST scanner in Go that crawls web apps and APIs, then runs adaptive SQLi, XSS, RCE, SSRF, and auth checks with replayable proof.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/56359/71e9e2657edc5288b5aaa6e167466fd3759acdf9cb220f9a7fea3a0cae877381-social-v1.webp"
+    },
+    {
+        "titulo": "ai-safe2 added to PyPI",
+        "fonte": "Pypi.org",
+        "autor": "info@cyberstrategyinstitute.com",
+        "data": "2026-09-28",
+        "url": "https://pypi.org/project/ai-safe2/",
+        "resumo": "Agent-facing governance, evidence, and assessment CLI for AI SAFE2 v3.1",
+        "imagem": ""
+    },
+    {
+        "titulo": "Citrix confirms exploitation of Netscaler zero-day bugs",
+        "fonte": "iTnews",
+        "autor": "",
+        "data": "2026-09-28",
+        "url": "https://www.itnews.com.au/news/citrix-confirms-exploitation-of-netscaler-zero-day-bugs-629232",
+        "resumo": "Updates issued.",
+        "imagem": "https://i.nextmedia.com.au/News/citrix_synergery_2017citrix.jpg"
+    },
+    {
+        "titulo": "Citrix confirms exploitation of Netscaler zero-day bugs",
+        "fonte": "iTnews",
+        "autor": "",
+        "data": "2026-09-28",
+        "url": "https://www.itnews.com.au/news/citrix-confirms-exploitation-of-netscaler-zero-day-bugs-629232",
+        "resumo": "Updates issued.",
+        "imagem": "https://i.nextmedia.com.au/News/citrix_synergery_2017citrix.jpg"
+    },
+    {
+        "titulo": "Citrix confirms exploitation of Netscaler zero-day bugs",
+        "fonte": "iTnews",
+        "autor": "",
+        "data": "2026-09-28",
+        "url": "https://www.itnews.com.au/news/citrix-confirms-exploitation-of-netscaler-zero-day-bugs-629232",
+        "resumo": "Updates issued.",
+        "imagem": "https://i.nextmedia.com.au/News/citrix_synergery_2017citrix.jpg"
     }
 ]
