@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Three Million Affected in Pentagon Personnel Agency Data Breach",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-09-29",
-        "url": "https://securityaffairs.com/200017/uncategorized/three-million-affected-in-pentagon-personnel-agency-data-breach.html",
-        "resumo": "Pentagon personnel agency breach exposed data of 3 million people after attackers accessed a file-sharing server for about nine months. The U.S. Defense Manpower Data Center (DMDC), which maintains personnel records for the Department of Defense, is notifying…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2012/07/Pentagon.jpg"
+        "titulo": "Dutch Police Arrest &#x27;Reformed&#x27; Hacker In Shiny Hunters Investigation",
+        "fonte": "Slashdot.org",
+        "autor": "BeauHD",
+        "data": "2026-09-30",
+        "url": "https://yro.slashdot.org/story/26/09/30/055208/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation",
+        "resumo": "An anonymous reader quotes a report from KrebsOnSecurity: Authorities in the Netherlands have arrested a 24-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediatel…",
+        "imagem": "https://a.fsdn.com/sd/topics/crime_64.png"
     },
     {
-        "titulo": "Catch threats before they escalate with real-time Identity Telemetry",
+        "titulo": "Cisco warns of new SD-WAN zero-day exploited in attacks",
         "fonte": "BleepingComputer",
-        "autor": "Sponsored by tenfold Software",
-        "data": "2026-09-29",
-        "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
-        "resumo": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate suspicious activity before it escalates.…",
-        "imagem": "https://www.bleepstatic.com/content/posts/2026/09/25/tenfold-handcuffs.jpg"
+        "autor": "Sergiu Gatlan",
+        "data": "2026-09-30",
+        "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+        "resumo": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/03/04/Cisco_headpic.jpg"
     },
     {
-        "titulo": "Threat Intelligence Market worth $26.68 billion by 2031 - Report by MarketsandMarkets™",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-09-29",
-        "url": "https://www.prnewswire.com/news-releases/threat-intelligence-market-worth-26-68-billion-by-2031--report-by-marketsandmarkets-302892587.html",
-        "resumo": "DELRAY BEACH, Fla., Sept. 29, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Threat Intelligence Market is projected to grow from USD 13.15 billion in 2026 to USD 26.68 billion by 2031 at a CAGR of 15.2% during the forecast period. Browse 500 marke…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA2975995&p=facebook"
-    },
-    {
-        "titulo": "Where&#x27;s the &quot;Intelligence Explosion&quot;?",
-        "fonte": "Noahpinion.blog",
-        "autor": "Ramez Naam",
-        "data": "2026-09-29",
-        "url": "https://www.noahpinion.blog/p/wheres-the-intelligence-explosion",
-        "resumo": "Ramez Naam gives a skeptic’s take on Recursive Self-Improvement.",
-        "imagem": "https://substackcdn.com/image/fetch/$s_!x5a8!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08ec0b36-c40e-47a2-831f-16108c969d77_1075x717.jpeg"
-    },
-    {
-        "titulo": "Dutch National Police arrest member of group that claimed to have hacked FBI",
-        "fonte": "CBS News",
-        "autor": "Sarah N. Lynch",
-        "data": "2026-09-29",
-        "url": "https://www.cbsnews.com/news/dutch-arrest-shinyhunters-fbi-hack/",
-        "resumo": "About a week ago, the cybercriminal group ShinyHunters claimed it had defaced the FBI&#x27;s jobs website and bragged that it had stolen data about FBI personnel and job applicants.",
-        "imagem": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/05/761356fe-9325-4be9-b5ae-7df2e4514b33/thumbnail/1200x630/cfd4d5a9b0cebfdb11ec8d62346c97b9/gettyimages-1242409189.jpg"
-    },
-    {
-        "titulo": "Omnissa debuts AI agents for IT, a managed cloud PC service and Elara for AI governance",
+        "titulo": "Google finds vulnerability disclosures doubled as AI changes which flaws get discovered",
         "fonte": "SiliconANGLE News",
         "autor": "Duncan Riley",
-        "data": "2026-09-29",
-        "url": "https://siliconangle.com/2026/09/29/omnissa-debuts-ai-agents-for-it-a-managed-cloud-pc-service-and-elara-for-ai-governance/",
-        "resumo": "Digital workspace company Omnissa LLC today unveiled new artificial intelligence agents for information technology teams and virtual desktop users, a managed cloud PC service and an AI governance product named Omnissa Elara. The releases, announced at the com…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/omnissa.png"
+        "data": "2026-09-30",
+        "url": "https://siliconangle.com/2026/09/30/google-finds-vulnerability-disclosures-doubled-as-ai-changes-which-flaws-get-discovered/",
+        "resumo": "A new report out today from Google LLC’s Google Threat Intelligence Group finds that monthly software vulnerability disclosures doubled between January and August. Not surprisingly, artificial intelligence is changing which flaws get discovered as well, and G…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/gtigaivlunerabilites.png"
     },
     {
-        "titulo": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
-        "fonte": "TechCrunch",
-        "autor": "Zack Whittaker",
-        "data": "2026-09-29",
-        "url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
-        "resumo": "Apple says the bug was used to attack &quot;specific targeted individuals&quot; running iOS 26, which the majority of Apple customers are still using.",
-        "imagem": "https://techcrunch.com/wp-content/uploads/2026/04/iphone-red-spyware-2255962085.jpg?resize=1200,800"
+        "titulo": "Qt 6.12 LTS Released!",
+        "fonte": "Www.qt.io",
+        "autor": "volker.hilsheimer@qt.io (Volker Hilsheimer)",
+        "data": "2026-09-30",
+        "url": "https://www.qt.io/blog/qt-6.12-released",
+        "resumo": "The 6.12 release for Qt Framework is now available, with improved cybersecurity, UI performance, and a wealth of capabilities to mix-and-match from across your architectural layers. As a Long-Term Support release, Qt 6.12 is not a simple incremental update, b…",
+        "imagem": "https://www.qt.io/hubfs/Qt612-ReleaseBlog-Featured-1200x628.webp"
     },
     {
-        "titulo": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks",
+        "titulo": "Cloudflare Impact reaches $100 million in donations",
         "fonte": "Cloudflare.com",
-        "autor": "Daniele Molteni, Jonathan Spies, Christian Reilly",
-        "data": "2026-09-29",
-        "url": "https://blog.cloudflare.com/ai-era-framework/",
-        "resumo": "Cloudflare introduces an adaptive security framework connecting risk discovery, agent governance, runtime protection, and AI-powered response in a continuous learning loop.",
-        "imagem": "https://blog.cloudflare.com/_emdash/api/media/file/01M3N4TQ58B13HXY8E4041MCTX.01M3N4TQVB54R9DEXGXWYE36B8.png"
+        "autor": "Patrick Day",
+        "data": "2026-09-30",
+        "url": "https://blog.cloudflare.com/100-million-donations/",
+        "resumo": "This week, Cloudflare&#x27;s Impact programs will reach $100 million in donated services. This milestone means that thousands of entities including journalists, civil society, state and local governments, election management bodies, and public schools are being pr…",
+        "imagem": "https://blog.cloudflare.com/_emdash/api/media/file/01M3S08BBW9EP1RFAQJ6HRASF7.01M3S08CF6HNXBNCKTG0FAMRWK.png"
     },
     {
-        "titulo": "Bitget records $463M in net outflows after hack steals up to $388M from exchange",
-        "fonte": "Crypto Briefing",
-        "autor": "John Chen",
-        "data": "2026-09-29",
-        "url": "https://cryptobriefing.com/bitget-463m-outflows-hack/",
-        "resumo": "The hack underscores the critical need for robust third-party security measures and could erode trust in crypto exchanges, impacting user confidence. The post Bitget records $463M in net outflows after hack steals up to $388M from exchange appeared first on C…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/29084940/library-bitget-records-463m-in-net-outflows-after-hack-steals-up-800x450.png"
-    },
-    {
-        "titulo": "Pentagon breach exposed data on over 3 million people – media",
-        "fonte": "RT",
-        "autor": "RT",
-        "data": "2026-09-29",
-        "url": "https://www.rt.com/news/646412-pengaton-personal-data-breach/",
-        "resumo": "A Pentagon personnel system breach has reportedly exposed Social Security numbers and military job details of more than 3 million people Read Full Article at RT.com",
-        "imagem": "https://mf.b37mrtl.ru/files/2026.09/article/6abba7292030272d187fcf3c.jpg"
-    },
-    {
-        "titulo": "GTT Launches GTT Defense Halo, an AI-Native Network Defense Platform",
-        "fonte": "Financial Post",
-        "autor": "Business Wire",
-        "data": "2026-09-29",
-        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/gtt-launches-gtt-defense-halo-an-ai-native-network-defense-platform",
-        "resumo": "GTT Defense Halo is redefining network security for enterprises with converging network, cloud and security operations by remediating vulnerabilities before attackers find them and resolving network anomalies into confirmed threats at network speed. ARLINGTON…",
-        "imagem": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/bw20260929739310_press_release_gtt_defense_halo.jpeg"
-    },
-    {
-        "titulo": "Hegseth Orders NSA and Military Cyber Forces to Guard US Election Systems as Critics Call Move &#x27;Theater&#x27;",
-        "fonte": "Ibtimes.com.au",
-        "autor": "Anthony Will",
-        "data": "2026-09-29",
-        "url": "https://www.ibtimes.com.au/us-military-agencies-guard-election-systems-midterms-1876050",
-        "resumo": "The NSA, US Cyber Command and other military agencies will support election security during the midterms, prompting scrutiny over the timing and limits of federal involvement.",
-        "imagem": "https://d.ibtimes.com.au/en/full/1880947/us-secretary-defense-pete-hegseth-has-ordered-significant-cuts-number-top-military-officers.jpg"
-    },
-    {
-        "titulo": "ShinyHunters hackers are going after Oracle systems once again - here&#x27;s what we know",
+        "titulo": "Notorious Spectre CPU vulnerability returns hitting JIT engines via side channel attacks",
         "fonte": "TechRadar",
         "autor": "Sead Fadilpašić",
-        "data": "2026-09-29",
-        "url": "https://www.techradar.com/pro/security/shinyhunters-hackers-are-going-after-oracle-systems-once-again-heres-what-we-know",
-        "resumo": "Mitigations are no longer mitigating, and patching is now the only method of defense.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/37uyEphcLreEFNUVCQzurn-2560-80.jpg"
+        "data": "2026-09-30",
+        "url": "https://www.techradar.com/pro/security/notorious-spectre-cpu-vulnerability-returns-hitting-jit-engines-via-side-channel-attacks",
+        "resumo": "Branch Target Reuse is the latest application of the dreaded Spectre flaw and will be demonstrated in November.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/MmSZkX83aFDh9nX7mrMNBK-970-80.jpg"
     },
     {
-        "titulo": "GTT launches Defense Halo to hunt for threats on enterprise networks with AI",
-        "fonte": "SiliconANGLE News",
-        "autor": "Duncan Riley",
-        "data": "2026-09-29",
-        "url": "https://siliconangle.com/2026/09/29/gtt-launches-defense-halo-to-hunt-for-threats-on-enterprise-networks-with-ai/",
-        "resumo": "Networking and security services provider GTT Communications Inc. today launched GTT Defense Halo, a network defense platform that uses artificial intelligence to hunt for threats on enterprise networks. Defense Halo is aimed at shrinking the time vulnerabili…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/gttdefensehalo.png"
+        "titulo": "Gemspring Capital’s TRG acquires Ohio cybersecurity and advisory firm Fentron",
+        "fonte": "Pehub.com",
+        "autor": "PE Hub Staff",
+        "data": "2026-09-30",
+        "url": "https://www.pehub.com/gemspring-capitals-trg-acquires-ohio-cybersecurity-and-advisory-firm-fentron/",
+        "resumo": "The Westerville, Ohio-based company provides CISO advisory, ransomware readiness, vulnerability management and incident response preparedness services. The post Gemspring Capital’s TRG acquires Ohio cybersecurity and advisory firm Fentron appeared first on PE…",
+        "imagem": "https://media.pehub.com/uploads/2019/11/PEHub_Logo2.jpg"
     },
     {
-        "titulo": "MikroTik RouterOS",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-29",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-06",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to achieve remote code execution or cause a denial of service. The following versions of MikroTik RouterOS are affected: RouterOS &lt;th…",
+        "titulo": "Suspected state-sponsored hackers exploited NetScaler zero-day since early September (CVE-2026-88772)",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-09-30",
+        "url": "https://www.helpnetsecurity.com/2026/09/30/cve-2026-88772-netscaler-exploitation-zero-day/",
+        "resumo": "“Advanced and suspected state-sponsored threat actors” are likely to be behind the initial targeted intrusions that leveraged CVE-2026-88772, one of the two recently disclosed NetScaler vulnerabilities that have been exploited as zero-days, says Mandiant CTO …",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/29153608/netscaler-1-1500.webp"
+    },
+    {
+        "titulo": "FBI hunting the hackers who stole its employees&#x27; sensitive data",
+        "fonte": "NPR",
+        "autor": "Jenna McLaughlin",
+        "data": "2026-09-30",
+        "url": "https://www.npr.org/2026/09/30/nx-s1-5985202/fbi-hack-shinyhunters",
+        "resumo": "The FBI says it&#x27;s addressing a massive data breach, vowing to go after the hackers they believe are responsible.",
+        "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5397x3036+0+282/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc3%2Fe0%2F04058fb141a5a7aed4b559f4a2e2%2Fgettyimages-2237218326.jpg"
+    },
+    {
+        "titulo": "TRG Expands Cybersecurity Capabilities with Acquisition of Fentron",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-09-30",
+        "url": "https://www.prnewswire.com/news-releases/trg-expands-cybersecurity-capabilities-with-acquisition-of-fentron-302893429.html",
+        "resumo": "CLEVELAND, Sept. 30, 2026 /PRNewswire/ -- TRG, a portfolio company of Gemspring Capital and a global managed services provider focused on the full lifecycle of enterprise endpoints, announced today that it has acquired Fentron, a Westerville, Ohio-based cyber…",
         "imagem": ""
     },
     {
-        "titulo": "VIVOTEK Camera Firmware",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-29",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-03",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability may allow attackers to achieve remote command execution on affected devices, potentially with root privileges, leading to full compromise of the camera system. The following versions of VIVOTEK C…",
-        "imagem": ""
+        "titulo": "OpenInfra Europe’s JFrog Artifactory instance breached, packages potentially compromised",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-09-30",
+        "url": "https://www.helpnetsecurity.com/2026/09/30/openinfra-jfrog-artifactory-instance-compromised/",
+        "resumo": "Attackers have compromised a self-hosted JFrog Artifactory instance operated by OpenInfra Europe, the regional hub of the OpenInfra Foundation warned in a security notice prominently displayed on its homepage. OpenInfra Europe’s security incident notice “Anyo…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/03114429/jfrog_artifactory-1500.webp"
     },
     {
-        "titulo": "Baicells Nova 430H",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-29",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-04",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to inject malformed messages which may lead to a denial-of-service condition. The following versions of Baicells Nova 430H are affected: Nova 430H eNodeB (model p…",
-        "imagem": ""
+        "titulo": "Five MCP Authentication Mechanisms Shipped in Two Weeks – the Pattern",
+        "fonte": "Forkast.news",
+        "autor": "Blair Hayes",
+        "data": "2026-09-30",
+        "url": "https://forkast.news/five-mcp-authentication-mechanisms-shipped-in-two-weeks-the-pattern/",
+        "resumo": "Five distinct authentication mechanisms for the Model Context Protocol shipped between mid-September and September 30. None of them coordinated. None of them interoperate. And all of them arrived in the same two-week window because three independent security …",
+        "imagem": "https://forkast.news/wp-content/uploads/2026/09/five-mcp-auth-mechanisms-pattern-1024x687.jpg"
     },
     {
-        "titulo": "Toptech TMS7 and TopHAT",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-29",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-02",
-        "resumo": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to access critical data or execute arbitrary code. The following versions of Toptech TMS7 and TopHAT are affected: TMS7 7.6.3 (CVE-2026-71379, CVE-2026-70356, …",
-        "imagem": ""
+        "titulo": "Nudge Security Unveils Adaptive Risk Management to Track How SaaS and AI Risk Changes as Usage Evolves After Approval",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-09-30",
+        "url": "https://www.prnewswire.com/news-releases/nudge-security-unveils-adaptive-risk-management-to-track-how-saas-and-ai-risk-changes-as-usage-evolves-after-approval-302893378.html",
+        "resumo": "New capability continuously reassesses risk as employees connect integrations, expand access, and adopt AI tools, closing a gap left by one-time vendor reviews. AUSTIN, Texas, Sept. 30, 2026 /PRNewswire/ -- Nudge Security, a leader in SaaS and AI security gov…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1998830/Nudge-Security-s-risk-dashboard.jpg?id=OA2977345&p=facebook"
     },
     {
-        "titulo": "Lantronix G520 Series Cellular Gateway",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-09-29",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-01",
-        "resumo": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to replace software and execute arbitrary code with root privileges. The following versions of Lantronix G520 Series Cellular Gateway are affected: G520 Series…",
-        "imagem": ""
+        "titulo": "The Cybersecurity Crisis Is About More Than “Rogue AI” (with V.S. Subrahmanian)",
+        "fonte": "KQED",
+        "autor": "Jess Love",
+        "data": "2026-09-30",
+        "url": "https://www.kqed.org/news/12101920/the-cybersecurity-crisis-is-about-more-than-rogue-ai-with-v-s-subrahmanian",
+        "resumo": "AI is making cyberattacks cheaper, faster, and more sophisticated. Recent reports of autonomous agents compromising Hugging Face show how quickly misaligned systems can create real-world risk. But ideally those same tools could help defenders find and fix vul…",
+        "imagem": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/09/VS-KQED-Image.png"
     },
     {
-        "titulo": "OpenAI’s Government Website Incidents Raise a Hard Question for AI Agents: When Should They Stop?",
-        "fonte": "Smartdatacollective.com",
-        "autor": "Ryan Kh",
-        "data": "2026-09-29",
-        "url": "https://www.smartdatacollective.com/openai-government-website-incidents-raise-hard/",
-        "resumo": "OpenAI disclosed on Sept. 25 that its AI models had accessed public information",
-        "imagem": "https://www.smartdatacollective.com/wp-content/uploads/2026/09/openai-government-website-incidents-1.png"
+        "titulo": "Banks need to rethink resilience for the speed of an AI attack",
+        "fonte": "TechRadar",
+        "autor": "Radi El Haj",
+        "data": "2026-09-30",
+        "url": "https://www.techradar.com/pro/banks-need-to-rethink-resilience-for-the-speed-of-an-ai-attack",
+        "resumo": "Banks must rethink resilience as AI makes cyberattacks faster, smarter and harder to contain.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg"
+    },
+    {
+        "titulo": "LinkedIn says AI safety roles have grown 91% in the past year",
+        "fonte": "Business Insider",
+        "autor": "Ana Altchek",
+        "data": "2026-09-30",
+        "url": "https://www.businessinsider.com/linkedin-ai-safety-roles-surged-past-year-2026-9#article",
+        "resumo": "LinkedIn CEO Daniel Shapero said that AI safety roles are on the rise.",
+        "imagem": "https://i.insider.com/6abc30dfd15f8a572974c4e6?width=1200&format=jpeg"
+    },
+    {
+        "titulo": "Bill Gates’s New Message About AI Doom Isn’t What You Might Think It Is",
+        "fonte": "Gizmodo.com",
+        "autor": "Mike Pearl",
+        "data": "2026-09-30",
+        "url": "https://gizmodo.com/bill-gatess-new-message-about-ai-doom-isnt-what-you-might-think-it-is-2000819208",
+        "resumo": "He&#x27;s scared of already-existing capabilities, not just spooky far-future hypotheticals.",
+        "imagem": "https://gizmodo.com/app/uploads/2026/03/bill-gates-2026-1200x675.jpg"
+    },
+    {
+        "titulo": "U.S. CISA adds Apple Multiple Products flaw to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-09-30",
+        "url": "https://securityaffairs.com/200069/security/u-s-cisa-adds-apple-multiple-products-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Apple Multiple Products flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added an Apple Multiple Products flaw, tracked as C…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "Predictions 2027: It’s Going To Be Another “Hold My Beer” Kind Of Year For Security And Risk",
+        "fonte": "Forrester.com",
+        "autor": "James Plouffe",
+        "data": "2026-09-30",
+        "url": "https://www.forrester.com/blogs/predictions-2027-its-going-to-be-another-hold-my-beer-kind-of-year-for-security-and-risk/",
+        "resumo": "AI failures, global outages, and physical disruptions will put security and risk leaders to the test in 2027. Explore three Forrester predictions and the steps organizations can take to strengthen governance, resilience, and readiness.",
+        "imagem": "https://go.forrester.com/wp-content/uploads/2026/09/Cybersecurity.png"
+    },
+    {
+        "titulo": "88% of Executives Fear Data Sovereignty Failures Could Cost Them Their Jobs",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-09-30",
+        "url": "https://www.prnewswire.com/news-releases/88-of-executives-fear-data-sovereignty-failures-could-cost-them-their-jobs-302893568.html",
+        "resumo": "New Everpure research reveals a &quot;sovereignty gap&quot;—64% of enterprises lack formal data sovereignty strategies to control their data and defend against geopolitical risks and AI exposure. LONDON, Sept. 30, 2026 /PRNewswire/ -- Everpure (NYSE: P), the company re…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1797007/Everpure-Logo-2026.jpg?id=OA2977179&p=facebook"
     }
 ]
