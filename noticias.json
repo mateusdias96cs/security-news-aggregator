@@ -1,173 +1,182 @@
 [
     {
-        "titulo": "Insights from the 2026 Microsoft Digital Defense Report",
-        "fonte": "Microsoft.com",
-        "autor": "Terrell Cox",
-        "data": "2026-10-01",
-        "url": "https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/",
-        "resumo": "Read highlights from the 2026 Microsoft Digital Defense Report, which reflects a security environment that continues to grow more interconnected. The post Insights from the 2026 Microsoft Digital Defense Report appeared first on Microsoft Security Blog.",
-        "imagem": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/Microsoft-Digital-Defense-Report.jpg"
+        "titulo": "Your Car Is Doxxing You, Fake iPhone Duo Scams, and a $351M Crypto Heist: This Week&#x27;s Security Scandals",
+        "fonte": "PCMag.com",
+        "autor": "Alan Henry",
+        "data": "2026-10-02",
+        "url": "https://uk.pcmag.com/security/167616/your-car-is-doxxing-you-fake-iphone-duo-scams-and-a-351m-crypto-heist-this-weeks-security-scandals",
+        "resumo": "If you thought your smart car was private or your AI assistant was safe, think again. Here&#x27;s your weekly breakdown of infosec chaos. In a few years, we’re going to get a killer docudrama about ShinyHunters, the hacking group that’s been responsible for breach…",
+        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/y/your-car-i/your-car-is-doxxing-you-fake-iphone-duo-scams-and-a-351m-cry_4za2.1200.jpg"
     },
     {
-        "titulo": "AI agent used Zammad zero-days to breach Dutch vulnerability disclosure non-profit",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-10-01",
-        "url": "https://www.helpnetsecurity.com/2026/10/01/divd-agentic-ai-attack-breach/",
-        "resumo": "An agentic AI-powered attack that hit the Dutch Institute for Vulnerability Disclosure (DIVD) on September 21 exploited two zero-day vulnerabilities in Zammad, an open-source helpdesk and customer support ticketing system. “Used together, [the two flaws] allo…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/23140750/ai-think.webp"
-    },
-    {
-        "titulo": "OpenAI’s OneGov Deal Gives Every Government Agency Free Access. That’s the Distribution Play.",
-        "fonte": "Forkast.news",
-        "autor": "Lena Park",
-        "data": "2026-10-01",
-        "url": "https://forkast.news/openais-onegov-deal-gives-every-government-agency-free-access-thats-the-distribution-play/",
-        "resumo": "On October 1, 2026, a 27-month agreement between the General Services Administration and OpenAI took effect, offering every federal, state, local, and tribal government organization in the United States access to ChatGPT, Codex, and the OpenAI API at $0 per u…",
-        "imagem": "https://forkast.news/wp-content/uploads/2026/10/onegov-free-access-reef-dependency-1024x687.jpg"
-    },
-    {
-        "titulo": "Google unveils Gemini 4 Argon, an AI model built to hunt software bugs",
-        "fonte": "Crypto Briefing",
-        "autor": "Diego Almada Lopez",
-        "data": "2026-10-01",
-        "url": "https://cryptobriefing.com/google-gemini-4-argon-cybersecurity-model/",
-        "resumo": "Google&#x27;s Gemini 4 Argon could revolutionize cybersecurity and software engineering, enhancing efficiency and security across industries. The post Google unveils Gemini 4 Argon, an AI model built to hunt software bugs appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/01082244/library-google-unveils-gemini-4-argon-an-ai-model-built-to-hunt--800x450.png"
-    },
-    {
-        "titulo": "Pentagon breach exposes personal data of more than 3 million people",
+        "titulo": "AI is giving attackers a head start, Microsoft warns",
         "fonte": "Help Net Security",
         "autor": "Sinisa Markovic",
-        "data": "2026-10-01",
-        "url": "https://www.helpnetsecurity.com/2026/10/01/pentagon-dmdc-data-breach-3-million-people/",
-        "resumo": "The Pentagon’s Defense Manpower Data Center (DMDC) is notifying millions of people that hackers gained access to their personal data. The breach affects 2.76 million living individuals, a group that can include current and former defense personnel and their d…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/02/25185231/data_breach-1500.webp"
+        "data": "2026-10-02",
+        "url": "https://www.helpnetsecurity.com/2026/10/02/ai-cybersecurity-threats-microsoft-report/",
+        "resumo": "Threat actors are using AI to find bugs, build malware and run intrusions faster than defenders can keep up. Microsoft’s 2026 Digital Defense Report, covering July 2025 to June 2026, describes a near-term period in which attackers collect the benefits of AI f…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/10102449/ai-hand-1500.webp"
     },
     {
-        "titulo": "Johnson Controls EasyIO Neo Series EC and CW Controllers",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-10-01",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-04",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain access to sensitive information that could be used to conduct further attacks against the system. The following versions of Johnson Controls EasyIO Neo Series EC a…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Monta monta.app",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-10-01",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-02",
-        "resumo": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of M…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Meari IoT Cloud Platform OpenAPI Service",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-10-01",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-06",
-        "resumo": "View CSAF Summary Successful exploitation of these vulnerabilities could allow attackers to manipulate device configurations, trigger unauthorized behaviors, and access sensitive information such as device credentials, owner details, and network data without …",
-        "imagem": ""
-    },
-    {
-        "titulo": "ABB Protection and Control IED Manager PCM600",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-10-01",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-03",
-        "resumo": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to escalate privileges or overwrite files. The following versions of ABB Protection and Control IED Manager PCM600 are affected: Protection and Control IED Man…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Johnson Controls EasyIO Neo Series EC and CW Controllers",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-10-01",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-05",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker tointercept and read sensitive information, including credentials andsession data. The following versions of Johnson Controls EasyIO Neo Series EC and CW Controllers are a…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Kevin Mandia’s Armadin Raises $255 Million at $2.5 Billion Valuation",
-        "fonte": "Securityweek.com",
-        "autor": "Mike Lennon",
-        "data": "2026-10-01",
-        "url": "https://www.securityweek.com/kevin-mandias-armadin-raises-255-million-at-2-5-billion-valuation/",
-        "resumo": "The Series B brings the AI-powered offensive security startup’s total funding to roughly $445 million only seven months after its public launch. The post Kevin Mandia’s Armadin Raises $255 Million at $2.5 Billion Valuation appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/03/Kevin-Mandia-Armadin.jpg"
-    },
-    {
-        "titulo": "Thales Unveils a Global Framework to Protect Critical Organisations from Frontier AI Attacks",
-        "fonte": "Financial Post",
-        "autor": "Business Wire",
-        "data": "2026-10-01",
-        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/thales-unveils-a-global-framework-to-protect-critical-organisations-from-frontier-ai-attacks",
-        "resumo": "Thales believes that frontier models call for a revolution in the pace of cyber defence: while the fundamentals of cybersecurity remain valid, they must now be executed at machine speed, without ever relinquishing human judgement over the decisions that matte…",
-        "imagem": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/bw20261001459724_picture1.jpeg"
-    },
-    {
-        "titulo": "Chinese hackers pose as US AI policy figures in campaign targeting AI experts",
-        "fonte": "Crypto Briefing",
-        "autor": "Diego Almada Lopez",
-        "data": "2026-10-01",
-        "url": "https://cryptobriefing.com/chinese-hackers-impersonate-anthropic-employee-phishing/",
-        "resumo": "The campaign highlights the vulnerability of AI policy networks to cyber threats, emphasizing the need for heightened security measures. The post Chinese hackers pose as US AI policy figures in campaign targeting AI experts appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/01072423/library-chinese-hackers-pose-as-us-ai-policy-figures-in-campaign-800x450.png"
-    },
-    {
-        "titulo": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-01",
-        "url": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following reports of active exploitation. The vuln…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8jgm3LMY2zr1S1DmXnvVEPDiTKYR5FXHW7q_6duG1lVPhzbW2ZfJwRM9glqAJrQhBX3HAAiksz-tUpRN4pfT9VWHUksa-1SgHZmKcNUd1tJfsyFiwhtezZN_zBM_cEmqjkECI_2gfWhnqZ1ry2hgDou-qQCB21zbl1RzYN9JB0bRjqzhB2m6gBomg-ow9/s1700-nu-rw-lo-l85-e365/cisa-wan.jpg"
-    },
-    {
-        "titulo": "New Cisco SD-WAN zero-day exploited in-the-wild (CVE-2026-76504)",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-10-01",
-        "url": "https://www.helpnetsecurity.com/2026/10/01/new-cisco-sd-wan-zero-day-exploited-in-the-wild-cve-2026-76504/",
-        "resumo": "For the fifth time this year, Cisco revealed attackers have exploited a vulnerability (CVE-2026-76504) in its SD-WAN solution in zero-day attacks. The vendor’s incident responders became aware of active exploitation of this vulnerability in September 2026, af…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/01/23135631/cisco-flow.webp"
-    },
-    {
-        "titulo": "Anthropic&#x27;s GLM-5.3 concerns put US-China, open AI debate back in focus",
-        "fonte": "Business Standard",
-        "autor": "Sweta Kumari",
-        "data": "2026-10-01",
-        "url": "https://www.business-standard.com/technology/artificial-intelligence/anthropic-s-glm-5-3-concerns-put-us-china-open-ai-debate-back-in-focus-126100100743_1.html",
-        "resumo": "GLM-5.3: Anthropic says China&#x27;s GLM-5.3 can find vulnerabilities and build end-to-end exploits, while its open weights make safeguards easier to modify, raising concerns over access to cyber capabilities",
-        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/01/thumb/fitandfill/1200X628/1790849089-6066.png"
-    },
-    {
-        "titulo": "Armadin Raises $255.5 Million Series B to Scale Effective Autonomous Security",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-10-01",
-        "url": "https://www.prnewswire.com/news-releases/armadin-raises-255-5-million-series-b-to-scale-effective-autonomous-security-302895278.html",
-        "resumo": "Funding brings Armadin&#x27;s valuation to over $2.5 billion just seven months after its launch as AI compresses the time between vulnerability discovery and exploitation PALO ALTO, Calif., Oct. 1, 2026 /PRNewswire/ -- Armadin, an AI-native cybersecurity company b…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1804531/Armadin-Logo.jpg?id=OA2981676&p=facebook"
-    },
-    {
-        "titulo": "Hackers stole Pentagon personnel records of over 3 million people",
+        "titulo": "Dell asks admins to patch max severity CSM flaws as soon as possible",
         "fonte": "BleepingComputer",
         "autor": "Sergiu Gatlan",
-        "data": "2026-10-01",
-        "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
-        "resumo": "The Pentagon&#x27;s Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon&#x27;s human resources management system in October 2025. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2023/05/22/Pentagon.jpg"
+        "data": "2026-10-02",
+        "url": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
+        "resumo": "Dell has patched two maximum severity vulnerabilities in the Container Storage Modules (CSM) that connect Dell enterprise storage arrays to Kubernetes environments. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/05/14/Dell.jpg"
     },
     {
-        "titulo": "Thinking about a career pivot? A Google engineer shares what he learned from taking a leap of faith.",
-        "fonte": "Business Insider",
-        "autor": "Jacob Zinkula",
+        "titulo": "US moves to fix humanoid robot supply chain gaps as China dominance looms",
+        "fonte": "Crypto Briefing",
+        "autor": "Diego Almada Lopez",
+        "data": "2026-10-02",
+        "url": "https://cryptobriefing.com/us-humanoid-robot-supply-chain-gaps/",
+        "resumo": "The US faces increased production costs and strategic challenges in robotics, potentially spurring domestic innovation and supply chain shifts. The post US moves to fix humanoid robot supply chain gaps as China dominance looms appeared first on Crypto Briefin…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/02083726/library-us-moves-to-fix-humanoid-robot-supply-chain-gaps-as-chin-800x320.png"
+    },
+    {
+        "titulo": "Why CISOs Struggle to Answer the Board&#x27;s Three Hardest Questions, and How to Fix the Report",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-10-02",
+        "url": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
+        "resumo": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone is building a spreadsheet to reconcile them. Someone else i…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0hKMtHvRqPQiVRgaUAvYQ1XOUA_EToiZ3Tx-v7pSvbqwlnoo7qr5jQ_5KJuYpRFW0MzE3bLPePNT-rn4m8bEz7eTMVysO0OcfFwNKKFgKIo6tiT0JKKauf9MFxYTet3LiqJ2lXxfxVuKzRIPloaGR-_bOUEXOz_-ONc3AXfHKZV-PhAW8wEfayC-iwZE/s1700-nu-rw-lo-l85-e365/ciso-ready.jpg"
+    },
+    {
+        "titulo": "From coding to cyber defence: What makes Google&#x27;s Gemini 4 Argon different",
+        "fonte": "Business Standard",
+        "autor": "Sweta Kumari",
+        "data": "2026-10-02",
+        "url": "https://www.business-standard.com/technology/artificial-intelligence/from-coding-to-cyber-defence-what-makes-google-s-gemini-4-argon-different-126100200530_1.html",
+        "resumo": "Google Gemini 4 Argon: Google says the longer context helps Gemini 4 Argon handle complex, multi-step tasks by retaining information and decisions across a single workflow instead of splitting the work into separate session",
+        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/02/thumb/fitandfill/1200X628/1790935525-2558.jpg"
+    },
+    {
+        "titulo": "I study tribal psychology and build AI agents for my business students—the rogue OpenAI ‘swarm’ alarmed me",
+        "fonte": "Fortune",
+        "autor": "Michael Morris",
+        "data": "2026-10-02",
+        "url": "https://fortune.com/2026/10/02/ai-agent-collective-intelligence-governance/",
+        "resumo": "Rogue AI agents may be forming tribes, not swarms—and that poses a new governance threat.",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297502760.jpg?resize=1200,600"
+    },
+    {
+        "titulo": "Critical FortiMail zero-day exploited in the wild (CVE-2026-104286)",
+        "fonte": "Help Net Security",
+        "autor": "Sinisa Markovic",
+        "data": "2026-10-02",
+        "url": "https://www.helpnetsecurity.com/2026/10/02/fortinet-fortimail-vulnerability-cve-2026-104286/",
+        "resumo": "Fortinet is warning customers that attackers are exploiting a zero-day vulnerability (CVE-2026-104286) in FortiMail, its email security gateway. Fortinet says the flaw has been reported to be exploited in the wild, and urges customers to apply the workaround …",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/01/21163736/fortinet-man-1500.webp"
+    },
+    {
+        "titulo": "Two Zero-Days Exploited in Attack on Dutch Institute for Vulnerability Disclosure",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Phil Muncaster",
+        "data": "2026-10-02",
+        "url": "https://www.infosecurity-magazine.com/news/zerodays-dutch-institute/",
+        "resumo": "The Dutch Institute for Vulnerability Disclosure reveals agentic AI-powered attack using Zammad zero-days",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/89775442-4f94-4982-99bf-fff74485dff7.jpg"
+    },
+    {
+        "titulo": "U.S. CISA adds Fortinet FortiMail flaw to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-10-02",
+        "url": "https://securityaffairs.com/200224/security/u-s-cisa-adds-fortinet-fortimail-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Fortinet FortiMail flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Fortinet FortiMail flaw, tracked as CVE-2026-104…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-10-02",
+        "url": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, trac…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhcZguz-U3FsSD6t4YQ45EeFbgnWAy9lM28OAFydsLXZYzOS00aOD7pxUZcgvLMfMAO3SJV_Amu9SoNezLNQOvx823Z92CpqC5ow9XO3d7HJhEKZlwQt4H4Z7kirDwGcSrUyi1ONs_PuULNYjEjzae2c1mncDviOT9iqxD-PhmXCYpulTUNO2rtW5c9AAx/s1700-nu-rw-lo-l85-e365/fortimail.jpg"
+    },
+    {
+        "titulo": "Google Launches Gemini 4 Argon With a 1 Million Token Output Limit, Starting With Cyber Defenders",
+        "fonte": "Ghacks Technology News",
+        "autor": "Arthur Kay",
+        "data": "2026-10-02",
+        "url": "https://www.ghacks.net/2026/10/02/google-launches-gemini-4-argon-with-a-1-million-token-output-limit-starting-with-cyber-defenders/",
+        "resumo": "Google DeepMind announced Gemini 4 Argon on September 30, a new frontier AI model built for long, multi-step tasks in software engineering, defensive cybersecur Thank you for being a Ghacks reader. The post Google Launches Gemini 4 Argon With a 1 Million Toke…",
+        "imagem": "https://www.ghacks.net/wp-content/uploads/2026/10/gHacks-articles-2026-10-02T123947.678.png"
+    },
+    {
+        "titulo": "Beyond The Cockpit Door: Why Aviation Security Must Pivot To Cyber, Supply Chains, And Zero Trust",
+        "fonte": "Americanthinker.com",
+        "autor": "",
+        "data": "2026-10-02",
+        "url": "https://www.americanthinker.com/articles/2026/10/beyond-the-cockpit-door-why-aviation-security-must-pivot-to-cyber-supply-chains-and-zero-trust/",
+        "resumo": "Photo Credit: ChatGPT for American ThinkerBy Arik AradCommercial aviation remains a prime target, and the nature of the threat is rapidly shifting.",
+        "imagem": "https://images.americanthinker.com/4n/4nbr43f6qr0bieocokr4_1200.jpg"
+    },
+    {
+        "titulo": "What enterprises need to know about the Cyber Resilience Act and software supply chain risk",
+        "fonte": "Redhat.com",
+        "autor": "",
+        "data": "2026-10-02",
+        "url": "https://www.redhat.com/en/blog/what-enterprises-need-to-know-about-the-cyber-resilience-act-and-software-supply-chain-risk",
+        "resumo": "In part 1 of this series, we examined why enterprises need more than an inventory of the open source components in their software. Understanding where dependencies come from, whether they are maintained, how they handle vulnerabilities, and what options exist…",
+        "imagem": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg"
+    },
+    {
+        "titulo": "What enterprises need to know about the software they depend on",
+        "fonte": "Redhat.com",
+        "autor": "",
+        "data": "2026-10-02",
+        "url": "https://www.redhat.com/en/blog/what-enterprises-need-to-know-about-the-software-they-depend-on",
+        "resumo": "Knowing an application contains open source components is not the same as understanding the software and communities behind them.For many organizations, the software supply chain extends across thousands of dependencies, developed and maintained by communitie…",
+        "imagem": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg"
+    },
+    {
+        "titulo": "From Software Supply Chains to AI Vulnerabilities: Why Neither Solves Enterprise Linux Security",
+        "fonte": "DevOps.com",
+        "autor": "Moshe Bar",
         "data": "2026-10-01",
-        "url": "https://www.businessinsider.com/google-engineer-switch-software-engineering-cybersecurity-big-tech-career-advice-2026-10#article",
-        "resumo": "Prerit Pathak worked as a software engineer before switching to cybersecurity and joining Google. He shared his advice for making the pivot.",
-        "imagem": "https://i.insider.com/6abd2639265e3f8e338f9036?width=1200&format=jpeg"
+        "url": "https://devops.com/from-software-supply-chains-to-ai-vulnerabilities-why-neither-solves-enterprise-linux-security/",
+        "resumo": "For nearly a decade, cybersecurity has been dominated by one overarching concern: securing the software supply chain. Organizations invested heavily in Software Bills of Materials (SBOMs), artifact signing, provenance frameworks, reproducible builds, and vuln…",
+        "imagem": "https://devops.com/wp-content/uploads/2026/10/LinuxSecurity-e1790893310295.jpeg"
+    },
+    {
+        "titulo": "Cybersecurity awareness month: Why organisations must move beyond awareness to resilience in the AI era",
+        "fonte": "Digital Journal",
+        "autor": "Dr. Tim Sandle",
+        "data": "2026-10-01",
+        "url": "https://www.digitaljournal.com/article/cybersecurity-awareness-month-why-organisations-must-move-beyond-awareness-to-resilience-in-the-ai-era/",
+        "resumo": "As Cybersecurity Awareness Month gets underway, security leaders are warning that traditional awareness training is no longer enough to protect organisations from a new generation of AI-enabled threats. The post Cybersecurity awareness month: Why organisation…",
+        "imagem": "https://www.digitaljournal.com/wp-content/uploads/primages/94322df63250178908fab4e1b2452da7c4b292d1.jpg"
+    },
+    {
+        "titulo": "Armadin nabs $255.5M to detect vulnerabilities with AI agent swarms",
+        "fonte": "SiliconANGLE News",
+        "autor": "Maria Deutscher",
+        "data": "2026-10-01",
+        "url": "https://siliconangle.com/2026/10/01/armadin-nabs-255-5m-to-detect-vulnerabilities-with-ai-agent-swarms/",
+        "resumo": "Cybersecurity startup Armadin Inc. today announced that it raised $255.5 million in funding at a valuation exceeding $2.5 billion. Andreessen Horowitz and Accel co-led the Series B round. They were joined by Alphabet Inc.’s GV startup fund, Kleiner Perkins, M…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/security-265130_1280.jpg"
+    },
+    {
+        "titulo": "Microsoft says threat actors are ahead in the early AI race",
+        "fonte": "BleepingComputer",
+        "autor": "Lawrence Abrams",
+        "data": "2026-10-01",
+        "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
+        "resumo": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to keep pace…",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/10/23/AI-2.jpg"
+    },
+    {
+        "titulo": "Give yourself room to be human",
+        "fonte": "Talosintelligence.com",
+        "autor": "Amy Ciminnisi",
+        "data": "2026-10-01",
+        "url": "https://blog.talosintelligence.com/give-yourself-room-to-be-human/",
+        "resumo": "In this week’s edition, Amy reflects on the importance of prioritizing family and personal well-being over the pressure to remain constantly productive.",
+        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/09/threat_source-4.jpg"
     }
 ]
