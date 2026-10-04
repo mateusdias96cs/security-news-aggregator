@@ -1,5 +1,104 @@
 [
     {
+        "titulo": "How foreign hackers could &#x27;crumble&#x27; America by targeting one essential utility",
+        "fonte": "Fox News",
+        "autor": "",
+        "data": "2026-10-03",
+        "url": "https://www.foxnews.com/politics/how-foreign-hackers-could-crumble-america-targeting-essential-utility",
+        "resumo": "Environmental Protection Agency officials say cyberattacks on U.S. water systems have surged several fold, shifting from ransomware to disruption.",
+        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/minnesota-water-systems-1.jpg"
+    },
+    {
+        "titulo": "AI Agents Just Tried SQL Injection Against U.S. Government Sites — and Nobody Told Them To",
+        "fonte": "Forkast.news",
+        "autor": "Heath Callahan",
+        "data": "2026-10-03",
+        "url": "https://forkast.news/ai-agents-just-tried-sql-injection-against-u-s-government-sites-and-nobody-told-them-to/",
+        "resumo": "On June 17, 2026, the U.S. Department of Education’s Civil Rights Data Collection API recorded over 200,000 requests. Among them was a failed SQL injection attempt, where the string ‘State_Id=1 OR 1=1’ was appended to a query. This was not a targeted breach a…",
+        "imagem": "https://forkast.news/wp-content/uploads/2026/10/sql-injection-agents-keyhole-1024x572.jpg"
+    },
+    {
+        "titulo": "U.S. CISA adds Zammad GmbH Zammad flaws to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-10-02",
+        "url": "https://securityaffairs.com/200248/security/u-s-cisa-adds-zammad-gmbh-zammad-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Zammad GmbH Zammad flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabilities to its Known Exploi…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "Frontline Education breach exposes school district employee data",
+        "fonte": "BleepingComputer",
+        "autor": "Lawrence Abrams",
+        "data": "2026-10-02",
+        "url": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+        "resumo": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/10/15/School-hacker.jpg"
+    },
+    {
+        "titulo": "Cisco SD-WAN’s URL Encoding Bypass Grants Unauthenticated Admin Access. Federal Agencies Have 24 Hours.",
+        "fonte": "Forkast.news",
+        "autor": "Heath Callahan",
+        "data": "2026-10-02",
+        "url": "https://forkast.news/cisco-sd-wans-url-encoding-bypass-grants-unauthenticated-admin-access-federal-agencies-have-24-hours/",
+        "resumo": "A critical authentication bypass vulnerability, tracked as CVE-2026-76504, is currently being exploited in the wild against Cisco Catalyst SD-WAN Manager. The vulnerability, which carries a CVSS score of 9.8, allows unauthenticated remote attackers to gain ad…",
+        "imagem": "https://forkast.news/wp-content/uploads/2026/10/cisco-sdwan-url-encoding-bypass-1024x572.jpg"
+    },
+    {
+        "titulo": "An Argument Against AI Doom",
+        "fonte": "The Atlantic",
+        "autor": "Charlie Warzel",
+        "data": "2026-10-02",
+        "url": "https://www.theatlantic.com/podcasts/2026/10/an-argument-against-ai-doom/688863/?utm_source=feed",
+        "resumo": "The latest hacks reveal a sprawling cybersecurity crisis.",
+        "imagem": ""
+    },
+    {
+        "titulo": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-10-02",
+        "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+        "resumo": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/09/14/GitLab.jpg"
+    },
+    {
+        "titulo": "Show HN: Odin Programming Book",
+        "fonte": "Leanpub.com",
+        "autor": "jacobreddy",
+        "data": "2026-10-02",
+        "url": "https://leanpub.com/odinapracticalguidetolow-levelprogramming",
+        "resumo": "We spent a lot of effort working with a publication team and after 2 months we managed to publish our first book on Odin programming! Comments URL: https://news.ycombinator.com/item?id=49934922 Points: 2 # Comments: 0",
+        "imagem": "https://d2sofvawe08yqg.cloudfront.net/odinapracticalguidetolow-levelprogramming/s_hero2x?1790785298&1790785298"
+    },
+    {
+        "titulo": "Microsoft: AI Cuts Post-Compromise Attack Time to Minutes",
+        "fonte": "Infosecurity Magazine",
+        "autor": "James Coker",
+        "data": "2026-10-02",
+        "url": "https://www.infosecurity-magazine.com/news/microsoft-ai-attack-time-minutes/",
+        "resumo": "Microsoft has warned that threat actors have gained the advantage over defenders by using AI to enhance the speed and scale of attacks",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/9b3d489e-72d0-48fe-a8b7-aee191666d7c.jpeg"
+    },
+    {
+        "titulo": "Extended Detection and Response (XDR) Market worth $38.09 billion by 2031 - Report by MarketsandMarkets™",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-10-02",
+        "url": "https://www.prnewswire.com/news-releases/extended-detection-and-response-xdr-market-worth-38-09-billion-by-2031--report-by-marketsandmarkets-302895787.html",
+        "resumo": "DELRAY BEACH, Fla., Oct. 2, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Extended Detection and Response (XDR) Market is projected to grow from USD 10.98 billion in 2026 to USD 38.09 billion by 2031 at a CAGR of 28.2% during the forecast period. …",
+        "imagem": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA2982193&p=facebook"
+    },
+    {
+        "titulo": "Despite IPO jitters and AI safety worries, Anthropic sticks to a 2026 offering",
+        "fonte": "SiliconANGLE News",
+        "autor": "Robert Hof",
+        "data": "2026-10-02",
+        "url": "https://siliconangle.com/2026/10/02/despite-ipo-jitters-and-ai-safety-worries-anthropic-sticks-to-a-2026-offering/",
+        "resumo": "How quickly things change in the artificial intelligence era. Just a few months after everyone was scrambling to infuse AI into every enterprise operation — and frankly they still are, as agents have captured the enterprise imagination — everyone now is sayin…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Anthropic-IPO-and-the-Rogue-AI-Agents-800x533.png"
+    },
+    {
         "titulo": "Your Car Is Doxxing You, Fake iPhone Duo Scams, and a $351M Crypto Heist: This Week&#x27;s Security Scandals",
         "fonte": "PCMag.com",
         "autor": "Alan Henry",
@@ -70,113 +169,5 @@
         "url": "https://www.helpnetsecurity.com/2026/10/02/fortinet-fortimail-vulnerability-cve-2026-104286/",
         "resumo": "Fortinet is warning customers that attackers are exploiting a zero-day vulnerability (CVE-2026-104286) in FortiMail, its email security gateway. Fortinet says the flaw has been reported to be exploited in the wild, and urges customers to apply the workaround …",
         "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/01/21163736/fortinet-man-1500.webp"
-    },
-    {
-        "titulo": "Two Zero-Days Exploited in Attack on Dutch Institute for Vulnerability Disclosure",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Phil Muncaster",
-        "data": "2026-10-02",
-        "url": "https://www.infosecurity-magazine.com/news/zerodays-dutch-institute/",
-        "resumo": "The Dutch Institute for Vulnerability Disclosure reveals agentic AI-powered attack using Zammad zero-days",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/89775442-4f94-4982-99bf-fff74485dff7.jpg"
-    },
-    {
-        "titulo": "U.S. CISA adds Fortinet FortiMail flaw to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-10-02",
-        "url": "https://securityaffairs.com/200224/security/u-s-cisa-adds-fortinet-fortimail-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Fortinet FortiMail flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Fortinet FortiMail flaw, tracked as CVE-2026-104…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-02",
-        "url": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, trac…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhcZguz-U3FsSD6t4YQ45EeFbgnWAy9lM28OAFydsLXZYzOS00aOD7pxUZcgvLMfMAO3SJV_Amu9SoNezLNQOvx823Z92CpqC5ow9XO3d7HJhEKZlwQt4H4Z7kirDwGcSrUyi1ONs_PuULNYjEjzae2c1mncDviOT9iqxD-PhmXCYpulTUNO2rtW5c9AAx/s1700-nu-rw-lo-l85-e365/fortimail.jpg"
-    },
-    {
-        "titulo": "Google Launches Gemini 4 Argon With a 1 Million Token Output Limit, Starting With Cyber Defenders",
-        "fonte": "Ghacks Technology News",
-        "autor": "Arthur Kay",
-        "data": "2026-10-02",
-        "url": "https://www.ghacks.net/2026/10/02/google-launches-gemini-4-argon-with-a-1-million-token-output-limit-starting-with-cyber-defenders/",
-        "resumo": "Google DeepMind announced Gemini 4 Argon on September 30, a new frontier AI model built for long, multi-step tasks in software engineering, defensive cybersecur Thank you for being a Ghacks reader. The post Google Launches Gemini 4 Argon With a 1 Million Toke…",
-        "imagem": "https://www.ghacks.net/wp-content/uploads/2026/10/gHacks-articles-2026-10-02T123947.678.png"
-    },
-    {
-        "titulo": "Beyond The Cockpit Door: Why Aviation Security Must Pivot To Cyber, Supply Chains, And Zero Trust",
-        "fonte": "Americanthinker.com",
-        "autor": "",
-        "data": "2026-10-02",
-        "url": "https://www.americanthinker.com/articles/2026/10/beyond-the-cockpit-door-why-aviation-security-must-pivot-to-cyber-supply-chains-and-zero-trust/",
-        "resumo": "Photo Credit: ChatGPT for American ThinkerBy Arik AradCommercial aviation remains a prime target, and the nature of the threat is rapidly shifting.",
-        "imagem": "https://images.americanthinker.com/4n/4nbr43f6qr0bieocokr4_1200.jpg"
-    },
-    {
-        "titulo": "What enterprises need to know about the Cyber Resilience Act and software supply chain risk",
-        "fonte": "Redhat.com",
-        "autor": "",
-        "data": "2026-10-02",
-        "url": "https://www.redhat.com/en/blog/what-enterprises-need-to-know-about-the-cyber-resilience-act-and-software-supply-chain-risk",
-        "resumo": "In part 1 of this series, we examined why enterprises need more than an inventory of the open source components in their software. Understanding where dependencies come from, whether they are maintained, how they handle vulnerabilities, and what options exist…",
-        "imagem": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg"
-    },
-    {
-        "titulo": "What enterprises need to know about the software they depend on",
-        "fonte": "Redhat.com",
-        "autor": "",
-        "data": "2026-10-02",
-        "url": "https://www.redhat.com/en/blog/what-enterprises-need-to-know-about-the-software-they-depend-on",
-        "resumo": "Knowing an application contains open source components is not the same as understanding the software and communities behind them.For many organizations, the software supply chain extends across thousands of dependencies, developed and maintained by communitie…",
-        "imagem": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg"
-    },
-    {
-        "titulo": "From Software Supply Chains to AI Vulnerabilities: Why Neither Solves Enterprise Linux Security",
-        "fonte": "DevOps.com",
-        "autor": "Moshe Bar",
-        "data": "2026-10-01",
-        "url": "https://devops.com/from-software-supply-chains-to-ai-vulnerabilities-why-neither-solves-enterprise-linux-security/",
-        "resumo": "For nearly a decade, cybersecurity has been dominated by one overarching concern: securing the software supply chain. Organizations invested heavily in Software Bills of Materials (SBOMs), artifact signing, provenance frameworks, reproducible builds, and vuln…",
-        "imagem": "https://devops.com/wp-content/uploads/2026/10/LinuxSecurity-e1790893310295.jpeg"
-    },
-    {
-        "titulo": "Cybersecurity awareness month: Why organisations must move beyond awareness to resilience in the AI era",
-        "fonte": "Digital Journal",
-        "autor": "Dr. Tim Sandle",
-        "data": "2026-10-01",
-        "url": "https://www.digitaljournal.com/article/cybersecurity-awareness-month-why-organisations-must-move-beyond-awareness-to-resilience-in-the-ai-era/",
-        "resumo": "As Cybersecurity Awareness Month gets underway, security leaders are warning that traditional awareness training is no longer enough to protect organisations from a new generation of AI-enabled threats. The post Cybersecurity awareness month: Why organisation…",
-        "imagem": "https://www.digitaljournal.com/wp-content/uploads/primages/94322df63250178908fab4e1b2452da7c4b292d1.jpg"
-    },
-    {
-        "titulo": "Armadin nabs $255.5M to detect vulnerabilities with AI agent swarms",
-        "fonte": "SiliconANGLE News",
-        "autor": "Maria Deutscher",
-        "data": "2026-10-01",
-        "url": "https://siliconangle.com/2026/10/01/armadin-nabs-255-5m-to-detect-vulnerabilities-with-ai-agent-swarms/",
-        "resumo": "Cybersecurity startup Armadin Inc. today announced that it raised $255.5 million in funding at a valuation exceeding $2.5 billion. Andreessen Horowitz and Accel co-led the Series B round. They were joined by Alphabet Inc.’s GV startup fund, Kleiner Perkins, M…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/security-265130_1280.jpg"
-    },
-    {
-        "titulo": "Microsoft says threat actors are ahead in the early AI race",
-        "fonte": "BleepingComputer",
-        "autor": "Lawrence Abrams",
-        "data": "2026-10-01",
-        "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
-        "resumo": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to keep pace…",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/10/23/AI-2.jpg"
-    },
-    {
-        "titulo": "Give yourself room to be human",
-        "fonte": "Talosintelligence.com",
-        "autor": "Amy Ciminnisi",
-        "data": "2026-10-01",
-        "url": "https://blog.talosintelligence.com/give-yourself-room-to-be-human/",
-        "resumo": "In this week’s edition, Amy reflects on the importance of prioritizing family and personal well-being over the pressure to remain constantly productive.",
-        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/09/threat_source-4.jpg"
     }
 ]
