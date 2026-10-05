@@ -1,5 +1,68 @@
 [
     {
+        "titulo": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 2",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-10-04",
+        "url": "https://securityaffairs.com/200367/ai/security-affairs-ai-cybersecurity-newsletter-round-2.html",
+        "resumo": "Security Affairs AI-CYBERSECURITY newsletter includes a collection of the best articles and research on AI in the international landscape Artificial intelligence is rapidly changing cybersecurity, reshaping both the techniques used by attackers and the tools …",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/09/Security-Affairs-NewsLetter-AI-Cyber.jpg"
+    },
+    {
+        "titulo": "Exploit-Index",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-10-04",
+        "url": "https://kitploit.com/en/tools/github/securewithumer/exploit-index/",
+        "resumo": "The Ultimate CVE Proof of Concept (PoC) &amp; Exploit Database. A zero-API, high-performance aggregator for 0days, vulnerabilities, and Threat Intelligence. Replacing manual searches for elite SOC teams, DevSecOps, and Bug Bounty Hunters.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/56775/2d46fe0799e5c244a949b0c963c19467fa865cbb8c391a33419046b523972a87-social-v1.webp"
+    },
+    {
+        "titulo": "Week in review: Researcher breaks into Microsoft analytics service, NetScaler RCE 0-day exploited",
+        "fonte": "Help Net Security",
+        "autor": "Sinisa Markovic",
+        "data": "2026-10-04",
+        "url": "https://www.helpnetsecurity.com/2026/10/04/week-in-review-researcher-breaks-into-microsoft-analytics-service-netscaler-rce-0-day-exploited/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: 16-year-old researcher breaks into Microsoft analytics service with access to 17 trillion rows of data A flaw in Titan, an internal Microsoft analytics service, …",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124830/cybersecurity-week-review-1-1500.webp"
+    },
+    {
+        "titulo": "Hello from Morocco � DevSecOps &amp; Security Automation enthusiast",
+        "fonte": "BleepingComputer",
+        "autor": "",
+        "data": "2026-10-03",
+        "url": "https://www.bleepingcomputer.com/forums/t/819124/hello-from-morocco-devsecops-security-automation-enthusiast/",
+        "resumo": "Hello from Morocco  DevSecOps &amp; Security Automation enthusiast - posted in Introductions: Hi everyone, Glad to join the BleepingComputer community! I am Mounim, based in Morocco. I have a background in systems, development, and cybersecurity, with a stro…",
+        "imagem": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png"
+    },
+    {
+        "titulo": "CISCO",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-10-03",
+        "url": "https://kitploit.com/en/tools/github/nu11secur1ty/cisco/",
+        "resumo": "Security auditing toolkit for Cisco network devices, focusing on configuration review, vulnerability detection, and penetration testing of enterprise networking infrastructure.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/42125/2a428947048fbdc7c8bb915b8f6aadab0043b07a379a6672f5f7cd79a8bec1f1-social-v1.webp"
+    },
+    {
+        "titulo": "GitLab Vulnerability Under Active Exploitation Enables Unauthenticated Data Exfiltration",
+        "fonte": "InfoQ.com",
+        "autor": "Sergio De Simone",
+        "data": "2026-10-03",
+        "url": "https://www.infoq.com/news/2026/10/gitlab-critical-vulnerabilities/",
+        "resumo": "CVE-2026-85706 is a critical GitLab path-traversal vulnerability that has moved beyond theoretical risk into confirmed exploitation. It affects self-managed GitLab CE/EE and could allow an unauthenticated remote attacker to read arbitrary files from the GitLa…",
+        "imagem": "https://res.infoq.com/news/2026/10/gitlab-critical-vulnerabilities/en/headerimage/gitlab-cloud-seed-preview-1791042234130.jpeg"
+    },
+    {
+        "titulo": "Anthropic&#x27;s super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows",
+        "fonte": "Theregister.com",
+        "autor": "Jessica Lyons",
+        "data": "2026-10-03",
+        "url": "https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933",
+        "resumo": "Exploitation attempts came from China-hosted IP, VulnCheck researcher says",
+        "imagem": "https://image.theregister.com/1684441.jpg?imageId=1684441&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
         "titulo": "How foreign hackers could &#x27;crumble&#x27; America by targeting one essential utility",
         "fonte": "Fox News",
         "autor": "",
@@ -106,68 +169,5 @@
         "url": "https://uk.pcmag.com/security/167616/your-car-is-doxxing-you-fake-iphone-duo-scams-and-a-351m-crypto-heist-this-weeks-security-scandals",
         "resumo": "If you thought your smart car was private or your AI assistant was safe, think again. Here&#x27;s your weekly breakdown of infosec chaos. In a few years, we’re going to get a killer docudrama about ShinyHunters, the hacking group that’s been responsible for breach…",
         "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/y/your-car-i/your-car-is-doxxing-you-fake-iphone-duo-scams-and-a-351m-cry_4za2.1200.jpg"
-    },
-    {
-        "titulo": "AI is giving attackers a head start, Microsoft warns",
-        "fonte": "Help Net Security",
-        "autor": "Sinisa Markovic",
-        "data": "2026-10-02",
-        "url": "https://www.helpnetsecurity.com/2026/10/02/ai-cybersecurity-threats-microsoft-report/",
-        "resumo": "Threat actors are using AI to find bugs, build malware and run intrusions faster than defenders can keep up. Microsoft’s 2026 Digital Defense Report, covering July 2025 to June 2026, describes a near-term period in which attackers collect the benefits of AI f…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/10102449/ai-hand-1500.webp"
-    },
-    {
-        "titulo": "Dell asks admins to patch max severity CSM flaws as soon as possible",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-10-02",
-        "url": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
-        "resumo": "Dell has patched two maximum severity vulnerabilities in the Container Storage Modules (CSM) that connect Dell enterprise storage arrays to Kubernetes environments. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/05/14/Dell.jpg"
-    },
-    {
-        "titulo": "US moves to fix humanoid robot supply chain gaps as China dominance looms",
-        "fonte": "Crypto Briefing",
-        "autor": "Diego Almada Lopez",
-        "data": "2026-10-02",
-        "url": "https://cryptobriefing.com/us-humanoid-robot-supply-chain-gaps/",
-        "resumo": "The US faces increased production costs and strategic challenges in robotics, potentially spurring domestic innovation and supply chain shifts. The post US moves to fix humanoid robot supply chain gaps as China dominance looms appeared first on Crypto Briefin…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/02083726/library-us-moves-to-fix-humanoid-robot-supply-chain-gaps-as-chin-800x320.png"
-    },
-    {
-        "titulo": "Why CISOs Struggle to Answer the Board&#x27;s Three Hardest Questions, and How to Fix the Report",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-02",
-        "url": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
-        "resumo": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone is building a spreadsheet to reconcile them. Someone else i…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0hKMtHvRqPQiVRgaUAvYQ1XOUA_EToiZ3Tx-v7pSvbqwlnoo7qr5jQ_5KJuYpRFW0MzE3bLPePNT-rn4m8bEz7eTMVysO0OcfFwNKKFgKIo6tiT0JKKauf9MFxYTet3LiqJ2lXxfxVuKzRIPloaGR-_bOUEXOz_-ONc3AXfHKZV-PhAW8wEfayC-iwZE/s1700-nu-rw-lo-l85-e365/ciso-ready.jpg"
-    },
-    {
-        "titulo": "From coding to cyber defence: What makes Google&#x27;s Gemini 4 Argon different",
-        "fonte": "Business Standard",
-        "autor": "Sweta Kumari",
-        "data": "2026-10-02",
-        "url": "https://www.business-standard.com/technology/artificial-intelligence/from-coding-to-cyber-defence-what-makes-google-s-gemini-4-argon-different-126100200530_1.html",
-        "resumo": "Google Gemini 4 Argon: Google says the longer context helps Gemini 4 Argon handle complex, multi-step tasks by retaining information and decisions across a single workflow instead of splitting the work into separate session",
-        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/02/thumb/fitandfill/1200X628/1790935525-2558.jpg"
-    },
-    {
-        "titulo": "I study tribal psychology and build AI agents for my business students—the rogue OpenAI ‘swarm’ alarmed me",
-        "fonte": "Fortune",
-        "autor": "Michael Morris",
-        "data": "2026-10-02",
-        "url": "https://fortune.com/2026/10/02/ai-agent-collective-intelligence-governance/",
-        "resumo": "Rogue AI agents may be forming tribes, not swarms—and that poses a new governance threat.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297502760.jpg?resize=1200,600"
-    },
-    {
-        "titulo": "Critical FortiMail zero-day exploited in the wild (CVE-2026-104286)",
-        "fonte": "Help Net Security",
-        "autor": "Sinisa Markovic",
-        "data": "2026-10-02",
-        "url": "https://www.helpnetsecurity.com/2026/10/02/fortinet-fortimail-vulnerability-cve-2026-104286/",
-        "resumo": "Fortinet is warning customers that attackers are exploiting a zero-day vulnerability (CVE-2026-104286) in FortiMail, its email security gateway. Fortinet says the flaw has been reported to be exploited in the wild, and urges customers to apply the workaround …",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/01/21163736/fortinet-man-1500.webp"
     }
 ]
