@@ -1,173 +1,182 @@
 [
     {
-        "titulo": "ClingSTUN Malware Turns Unpatched IoT Devices Into Proxy Nodes",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Alessandro Mascellino",
-        "data": "2026-10-05",
-        "url": "https://www.infosecurity-magazine.com/news/clingstun-backdoor-unpatched-iot/",
-        "resumo": "ClingSTUN exploits known IoT flaws and abuses public STUN servers to keep proxy access to devices",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/dcb0e9dc-4f18-44d4-858d-41fa8262dc15.jpg"
+        "titulo": "South Korea Says AI Helped Hackers Break Into Banks",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-10-06",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/south-korea-says-ai-helped-hackers-break-into-banks/",
+        "resumo": "South Korea has reportedly seen evidence of artificial intelligence involvement in recent cyberattacks on banks. As the Financial Times (FT) reported, President Lee Jae Myung said on Tuesday (Oct. 6) that hacks had revealed user data at seven financial firms,…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/08/AI-cyberattacks-1.jpg"
     },
     {
-        "titulo": "South Korea probes bank breaches amid suspected AI-powered attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Bill Toulas",
-        "data": "2026-10-05",
-        "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
-        "resumo": "South Korea&#x27;s Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/22/korea.jpg"
+        "titulo": "Microsoft Exchange flaw allows hackers to read mailboxes across an organization, so patch now",
+        "fonte": "TechRadar",
+        "autor": "Sead Fadilpašić",
+        "data": "2026-10-06",
+        "url": "https://www.techradar.com/pro/security/microsoft-exchange-flaw-allows-hackers-to-read-mailboxes-across-an-organization-so-patch-now",
+        "resumo": "Microsoft Exchange Server 2016 and 2019 affected, but Microsoft released a fix.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/4UHfYZ86Y3TdJhyqxEcnRA-970-80.jpg"
     },
     {
-        "titulo": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-05",
-        "url": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
-        "resumo": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook. There are actively exploited bugs in the…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbylNkbHSjWFkh2Ms0FmUT7jm2Qp-l5l9XwzA-O0LeP6LLE2WY9Z5yTiZ6AjikPfdOuId00XC9R_m_HYap_zbOAxUpLNKMK8UAVGiQHr-1zb_IOLyuhyMo_dhlqB5SM6p9b5qabPdThNFnyaHBznmq3H66qlbHxPAzCSuA_glVaWuKcJy51sOkoZp7BIuf/s1700-nu-rw-lo-l85-e365/infosec-recap.jpg"
+        "titulo": "FBI removes Accenture contractor after missed security patch led to breach",
+        "fonte": "Nextgov",
+        "autor": "David DiMolfetta",
+        "data": "2026-10-06",
+        "url": "https://www.nextgov.com/cybersecurity/2026/10/fbi-removes-accenture-contractor-after-missed-security-patch-led-breach/416441/",
+        "resumo": "The bureau’s cyber chief blamed a contractor’s failure to apply an available fix for an intrusion that may have exposed sensitive employee information.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/10/06/100626AccentureNG/open-graph.jpg"
     },
     {
-        "titulo": "Citrix NetScaler Targeted Via New Zero Day",
-        "fonte": "Infosecurity Magazine",
-        "autor": "James Coker",
-        "data": "2026-10-05",
-        "url": "https://www.infosecurity-magazine.com/news/citrix-netscaler-zero-day/",
-        "resumo": "The memory buffer vulnerability can result in denial of service to customers, with CISA warning it poses “significant risks” to the federal government",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/30ab92cc-9a77-4dbb-9360-c007a8b97809.jpeg"
-    },
-    {
-        "titulo": "U.S. CISA adds Citrix NetScaler flaw to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-10-05",
-        "url": "https://securityaffairs.com/200414/security/u-s-cisa-adds-citrix-netscaler-flaw-to-its-known-exploited-vulnerabilities-catalog-3.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Citrix NetScaler flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Citrix NetScaler flaw tracked as CVE-2026-88779 (C…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "Aikido Security Achieves FedRAMP Moderate Authorization Through Partnership with Knox Systems",
-        "fonte": "PRNewswire",
+        "titulo": "Mistral Large 4: &quot;Le Chonk&quot;",
+        "fonte": "Mistral.ai",
         "autor": "",
-        "data": "2026-10-05",
-        "url": "https://www.prnewswire.com/news-releases/aikido-security-achieves-fedramp-moderate-authorization-through-partnership-with-knox-systems-302897864.html",
-        "resumo": "Authorization accelerates U.S. federal agencies&#x27; ability to maintain, verify, and secure resilient software systems BOSTON and WASHINGTON, Oct. 5, 2026 /PRNewswire/ -- Aikido Security, the company behind self-securing software for modern development teams, to…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1852340/4-1-Knox-Logo.jpg?id=OA2985436&p=facebook"
+        "data": "2026-10-06",
+        "url": "https://mistral.ai/news/mistral-large-4/",
+        "resumo": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.",
+        "imagem": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp"
     },
     {
-        "titulo": "Cowbell Brings OMNI-Powered AI Risk Advisors to Policyholders",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-10-05",
-        "url": "https://www.prnewswire.com/news-releases/cowbell-brings-omni-powered-ai-risk-advisors-to-policyholders-302897849.html",
-        "resumo": "New OMNI agents translate each policyholder&#x27;s risk signals into prioritized, plain-language actions, with clear evidence supporting every recommendation. Risk Advisors synthesize Cowbell Factors™, including dedicated AI observability, autonomy, and governance…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1743686/Cowbell-Cyber-Logo.jpg?id=OA2985209&p=facebook"
-    },
-    {
-        "titulo": "ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure",
-        "fonte": "Fortinet.com",
-        "autor": "Vincent Li",
-        "data": "2026-10-05",
-        "url": "https://www.fortinet.com/blog/threat-research/clingstun-linux-backdoor-abuses-public-stun-infrastructure",
-        "resumo": "FortiGuard Labs examines how ClingSTUN exploits vulnerable devices and abuses public STUN servers to support a Linux proxy backdoor.…",
+        "titulo": "Hitachi Energy RTU500",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-10-06",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-06",
+        "resumo": "View CSAF Summary Hitachi Energy is publishing this cybersecurity advisory in response to the security findings reported by Dragos affecting end-of-life RTU500 CMU firmware version 9.x. The reported findings are associated with legacy RTU500 firmware versions…",
         "imagem": ""
     },
     {
-        "titulo": "ThreatHunter.ai&#x27;s JAXBERT SECURE Feeds Continuous Evidence Into Defense Contractors&#x27; SPRS Scores Under Full CMMC Self Attestation",
+        "titulo": "Hitachi Energy SOI",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-10-06",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-04",
+        "resumo": "View CSAF Summary Hitachi Energy is aware of RCE (Remote Code Execution) vulnerability in Apache ActiveMQ component of SOI product versions listed in this document. These vulnerabilities can be exploited to carry out various attacks affecting confidentiality,…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Johnson Controls EasyIO FG",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-10-06",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-01",
+        "resumo": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain full unauthorized access to the device. The following versions of Johnson Controls EasyIO FG are affected: EasyIO FG firmware &lt;…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Savannah lwIP SMTP client",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-10-06",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-02",
+        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could crash the device being accessed; a buffer overflow condition may allow remote code execution. The following versions of Savannah lwIP SMTP client are affected: lwIP SMTP client 2.2…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Hitachi Energy REB500",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-10-06",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-05",
+        "resumo": "View CSAF Summary Hitachi Energy is aware of open-source software vulnerabilities that affect REB500 product versions listed in this document. These vulnerabilities can be exploited to carry out Denial of Service (DoS) attack on the product. Please refer to t…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Hitachi Energy Asset Suite",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-10-06",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-03",
+        "resumo": "View CSAF Summary Hitachi Energy is aware of unauthenticated servlet access vulnerabilities that affect Asset Suite product versions listed in this document. These vulnerabilities can be exploited to potentially cause confidentiality, integrity and availabili…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Senate ‘Rogue AI’ Hearing Ignites Bipartisan Push for Agent Liability – and Enterprises Should Pay Attention",
+        "fonte": "Forkast.news",
+        "autor": "Dana Ellison",
+        "data": "2026-10-06",
+        "url": "https://forkast.news/senate-rogue-ai-hearing-ignites-bipartisan-push-for-agent-liability-and-enterprises-should-pay-attention/",
+        "resumo": "When Senator Josh Hawley declared, “If you break it, you pay for it. If you cause damage, you clean it up,” during the September 30 Senate Homeland Security subcommittee hearing, he wasn’t just offering a soundbite. He was drawing a line. The hearing, titled …",
+        "imagem": "https://forkast.news/wp-content/uploads/2026/10/senate-rogue-ai-hearing-hero-1024x687.jpg"
+    },
+    {
+        "titulo": "ASOS Customers Receive Bizarre “Hacked” Message Amid Suspected Snowflake Compromise",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Kevin Poireault",
+        "data": "2026-10-06",
+        "url": "https://www.infosecurity-magazine.com/news/asos-customers-message-suspected/",
+        "resumo": "ASOS customers have received a seemingly legitimate push notifications claiming the retailer’s IT systems have been breached through a Snowflake breach",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/135336a8-90f9-42d7-bfde-2c5a5b2d3bf3.jpg"
+    },
+    {
+        "titulo": "Radar Trends to Watch: October 2026",
+        "fonte": "Oreilly.com",
+        "autor": "Mike Loukides",
+        "data": "2026-10-06",
+        "url": "https://www.oreilly.com/radar/radar-trends-to-watch-october-2026/#BlogPosting",
+        "resumo": "In addition to the nearly constant stream of model releases, in September we’ve seen price drops, new kinds of models, proofs of long-standing problems in mathematics, and continued investigations into models escaping their sandboxes. (Axios reports investiga…",
+        "imagem": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2023/06/radar-1400x950-3.png"
+    },
+    {
+        "titulo": "Hadrian raises $40M for AI agents that find the weaknesses attackers can exploit",
+        "fonte": "SiliconANGLE News",
+        "autor": "Duncan Riley",
+        "data": "2026-10-06",
+        "url": "https://siliconangle.com/2026/10/06/hadrian-raises-40m-for-ai-agents-that-find-the-weaknesses-attackers-can-exploit/",
+        "resumo": "Dutch offensive security startup Hadrian Security B.V. today announced that it has raised $40 million in new funding to expand its business internationally. Hadrian’s software points artificial intelligence agents at a company’s internet-facing systems to wor…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/hadrian.png"
+    },
+    {
+        "titulo": "The quest for simplicity: Why SMBs want advanced protection without the complexity",
+        "fonte": "We Live Security",
+        "autor": "",
+        "data": "2026-10-06",
+        "url": "https://www.welivesecurity.com/en/business-security/quest-simplicity-why-smbs-want-advanced-protection-without-complexity/",
+        "resumo": "Smaller organizations usually have fewer resources and less expertise to throw at the problem than their larger counterparts. But they absolutely understand the need for advanced protection.",
+        "imagem": "https://web-assets.esetstatic.com/wls/2026/10-26/smb-cybersecurity-quest-simplicity.jpg"
+    },
+    {
+        "titulo": "Techman Robot strengthens cybersecurity for trusted Physical AI deployment",
         "fonte": "PRNewswire",
         "autor": "",
-        "data": "2026-10-05",
-        "url": "https://www.prnewswire.com/news-releases/threathunterais-jaxbert-secure-feeds-continuous-evidence-into-defense-contractors-sprs-scores-under-full-cmmc-self-attestation-302898402.html",
-        "resumo": "Argillite, MILBERT, and TACT-IO cover 27+ NIST SP 800-171 practices and keep the live SPRS score current BREA, Calif., Oct. 5, 2026 /PRNewswire/ -- ThreatHunter.ai, a Service Disabled Veteran Owned Small Business with 19+ years protecting networks, today high…",
-        "imagem": "https://mmx.prnewswire.com/media/MS2002265/ThreatHunter-ai-logo.jpg?id=OA2987064&p=facebook"
+        "data": "2026-10-06",
+        "url": "https://www.prnewswire.com/news-releases/techman-robot-strengthens-cybersecurity-for-trusted-physical-ai-deployment-302899568.html",
+        "resumo": "Techman Robot becomes the world&#x27;s first built-in vision AI cobot manufacturer to obtain IEC 62443-4-2 SL2 certification TAIPEI, Oct. 6, 2026 /PRNewswire/ -- Techman Robot has obtained IEC 62443-4-2 Security Level 2 (SL2) cybersecurity certification for its TM…",
+        "imagem": "https://mmx.prnewswire.com/media/MS2003149/20261006023135EDT_image_1.jpg?id=OA2989524&p=facebook"
     },
     {
-        "titulo": "Mark Ruffalo Tells Trump ‘Hands Off Our F—ing Vote’ or ‘I’m Gonna Hulk Out’: ‘You Won’t Like Me When I’m Angry’",
-        "fonte": "Variety",
-        "autor": "Ellise Shafer",
-        "data": "2026-10-05",
-        "url": "https://variety.com/2026/film/news/mark-ruffalo-slams-trump-voting-rights-hulk-out-1236898975/",
-        "resumo": "Mark Ruffalo made a passionate speech at a Hands Off Our Vote event in New York City on Sunday night, slamming U.S. President Donald Trump and saying he’s going to “Hulk out” if he attempts to restrict voting in the upcoming midterm elections. The midterms ar…",
-        "imagem": "https://variety.com/wp-content/uploads/2026/10/mark-ruffalo-1.jpg?w=1000&h=563&crop=1"
-    },
-    {
-        "titulo": "Podcast: Future Cybersecurity: Hardware Memory Safety, Automated Governance and Post-Quantum Cryptography",
-        "fonte": "InfoQ.com",
-        "autor": "Chris Swan",
-        "data": "2026-10-05",
-        "url": "https://www.infoq.com/podcasts/future-cybersecurity-hardware-memory-safety/",
-        "resumo": "In this episode, Chris Swan, engineer at Atsign and security track host at QCon London, reflects on the ideas shared during QCon London 2026 and teases topics of the future edition. The discussion explores how security engineering is shifting from relying on …",
-        "imagem": "https://res.infoq.com/podcasts/future-cybersecurity-hardware-memory-safety/en/card_header_image/chris-swan-twitter-card-1790672981256.jpg"
-    },
-    {
-        "titulo": "Out-of-band Exchange Server update fixes high-severity mailbox access bug (CVE-2026-96940)",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-10-05",
-        "url": "https://www.helpnetsecurity.com/2026/10/05/exchange-server-vulnerability-cve-2026-96940/",
-        "resumo": "Microsoft has pushed out an out-of-band security update for Exchange Server that fixes a high-severity vulnerability (CVE-2026-96940) that may allow authenticated attackers to read emails and attachments of other users in the same organization, but “does not …",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/05/28084624/microsoft_exchange_1500.webp"
-    },
-    {
-        "titulo": "America must defend our digital infrastructure, here and overseas, to win the next war",
-        "fonte": "Fox News",
+        "titulo": "Techman Robot strengthens cybersecurity for trusted Physical AI deployment",
+        "fonte": "PR Newswire UK",
         "autor": "",
-        "data": "2026-10-05",
-        "url": "https://www.foxnews.com/opinion/america-defend-digital-infrastructure-win-next-war",
-        "resumo": "Iranian strikes damaged Amazon Web Services data centers in the UAE and Bahrain, exposing why digital infrastructure is now a national security priority.",
-        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/iran-strike-bahrain.jpeg"
+        "data": "2026-10-06",
+        "url": "https://www.prnewswire.co.uk/news-releases/techman-robot-strengthens-cybersecurity-for-trusted-physical-ai-deployment-302899568.html",
+        "resumo": "Techman Robot becomes the world&#x27;s first built-in vision AI cobot manufacturer to obtain IEC 62443-4-2 SL2 certification TAIPEI, Oct. 6, 2026 /PRNewswire/ -- Techman Robot has obtained IEC 62443-4-2 Security Level 2 (SL2) cybersecurity certification for its TM…",
+        "imagem": "https://mmx.prnewswire.com/media/MS2003149/20261006023135EDT_image_1.jpg?id=OA2989524&p=facebook"
     },
     {
-        "titulo": "Frontline Education Breach Impacts K-12 School District Staff",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Phil Muncaster",
-        "data": "2026-10-05",
-        "url": "https://www.infosecurity-magazine.com/news/frontline-education-breach-k12/",
-        "resumo": "A breach at school software provider Frontline Education has exposed employee data",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/a06acf49-4fbb-4d7d-8c48-88f67c1110fb.jpg"
+        "titulo": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-10-06",
+        "url": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
+        "resumo": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product&#x27;s web application root directory. The attacker must already know a file&#x27;s exact name and path…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGQge2pd9O29G6qjsswRMYKnpM66wzyEWHOnRljkIZUZpCGVGACovyKIiji1HQ4jZOsypuaveJUBxx0r7-tT-Icd3COeo_prgm0TbMWDJBYFYpWHOC3lBjb8sZo6f2qWPkzeztOAjMW1CjrE_fDe3nWBU2FEOOjUWDpNUbtY1okTyx_iFE7xcI5jxOeiQ/s1700-nu-rw-lo-l85-e365/file.jpg"
     },
     {
-        "titulo": "Cloudflare Fixes Cross-Tenant Data Exposure in Containers",
-        "fonte": "InfoQ.com",
-        "autor": "Steef-Jan Wiggers",
-        "data": "2026-10-05",
-        "url": "https://www.infoq.com/news/2026/10/cloudflare-cross-tenant-exposure/",
-        "resumo": "Cloudflare has disclosed a cross-tenant data exposure vulnerability in Containers and Sandboxes, caused by thin-provisioned storage pools configured to skip zeroing reused blocks. Researchers recovered directory structures, database pages and complete SQLite …",
-        "imagem": "https://res.infoq.com/news/2026/10/cloudflare-cross-tenant-exposure/en/headerimage/generatedHeaderImage-1790844732167.jpg"
-    },
-    {
-        "titulo": "Apple tightens macOS disk access as AI agents become more powerful",
+        "titulo": "U.S. Bank CISO says the security role keeps growing and no one can own all of it",
         "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-10-05",
-        "url": "https://www.helpnetsecurity.com/2026/10/05/macos-full-disk-access-updates/",
-        "resumo": "Apple plans to introduce additional controls for Full Disk Access in macOS, citing growing privacy risks as AI agents become more capable and autonomous. Users will need to take explicit action to grant apps this permission. The company has not specified a ro…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/04/23105508/apple-chip.webp"
+        "autor": "Mirko Zorz",
+        "data": "2026-10-06",
+        "url": "https://www.helpnetsecurity.com/2026/10/06/ann-barron-dicamillo-collective-cyber-defense/",
+        "resumo": "In this interview with Help Net Security, Ann Barron-DiCamillo, EVP, CISO at U.S. Bank, talks about how the CISO role has grown to cover fraud, resilience, third-party risk, and AI governance. She says no single leader can own all of it, so partnerships acros…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/01142957/ann_barron-dicamillo-2-us_bank.webp"
     },
     {
-        "titulo": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-05",
-        "url": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
-        "resumo": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck. The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session forgery stemming from the use of a weak…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTCvFj7lVSH1eLS0oYdxqBa4wQkNQvuemuCAL5XqwKueywAUl8Fg6zY-5UT9cdx3fZZ81DHX_emE9JXthW_OfH-axyWn3bE5CpCp4CDs4HREWjv_1uBtt5iJE947S-Bkn-4Mn1Shwt1kV9FF4RO9Wa7_4jmUtvbWrx2zs4-cdSg-FkUtxW-erVx2CXKhU3/s1700-nu-rw-lo-l85-e365/hfs-rce-main.jpg"
-    },
-    {
-        "titulo": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-05",
-        "url": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
-        "resumo": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out o…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV4of0Q-gWaIOffgWXdEfAxmI1ENcyrpDSSDjBurAHSpUuAI8lASQI5wrUvL3Evb0iqA31rRywo51olFOzoWe_lQ9cwN7Sp5QQw_2h-y44n0Va4vwlRQZipZ5fkm98BRmTOoVDPTs8pUMW_ClnH2GlPobgQQ33rNzL8EBnBW84aacH3dLXdyyLW9bBEqG5/s1700-nu-rw-lo-l85-e365/citrix-offline.jpg"
-    },
-    {
-        "titulo": "Hackers can target your wealth adviser’s WhatsApp: How to protect your money",
-        "fonte": "The Times of India",
-        "autor": "Abhinav Kaul",
-        "data": "2026-10-05",
-        "url": "https://economictimes.indiatimes.com/wealth/invest/hackers-can-target-your-wealth-advisers-whatsapp-how-to-protect-your-money/articleshow/134652123.cms",
-        "resumo": "Recent incidents highlight the increasing threat of compromised WhatsApp accounts among financial advisers in India. These attacks exploit trust, as fraudsters impersonate advisers through hacked accounts. Financial firms have implemented strict new security …",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-124085,resizemode-75,msid-134652123/wealth/invest/hackers-can-target-your-wealth-advisers-whatsapp-how-to-protect-your-money.jpg"
+        "titulo": "Changer+ Makes Stablecoins Easier to Use With a New Stablecoin-First, Self-Custodial Wallet",
+        "fonte": "ZyCrypto",
+        "autor": "PR DESK",
+        "data": "2026-10-06",
+        "url": "https://zycrypto.com/changer-makes-stablecoins-easier-to-use-with-a-new-stablecoin-first-self-custodial-wallet/",
+        "resumo": "Multi-chain stablecoin wallet combines simpler transfers, flexible gas-fee options, security features, and practical use cases with one ambition: to become the world’s easiest stablecoin wallet. Changer+ today announced the launch of its self-custodial stable…",
+        "imagem": "https://zycrypto.com/wp-content/uploads/2026/10/unnamed-2026-10-06T063057.430.jpg"
     }
 ]
