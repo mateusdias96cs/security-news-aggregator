@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "South Korea Says AI Helped Hackers Break Into Banks",
-        "fonte": "pymnts.com",
-        "autor": "PYMNTS",
-        "data": "2026-10-06",
-        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/south-korea-says-ai-helped-hackers-break-into-banks/",
-        "resumo": "South Korea has reportedly seen evidence of artificial intelligence involvement in recent cyberattacks on banks. As the Financial Times (FT) reported, President Lee Jae Myung said on Tuesday (Oct. 6) that hacks had revealed user data at seven financial firms,…",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/08/AI-cyberattacks-1.jpg"
+        "titulo": "Exploitation attempts against critical Atlassian flaw have begun (CVE-2026-21589)",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-10-07",
+        "url": "https://www.helpnetsecurity.com/2026/10/07/exploitation-critical-atlassian-flaw-cve-2026-21589/",
+        "resumo": "One day after Atlassian released patches fixing a critical arbitrary file access vulnerability (CVE-2026-21589) in its self-managed Data Center products, and a few hours after watchTowr researchers published a technical rundown of the flaw, attackers have bee…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/07161730/atlassian-blue.webp"
     },
     {
-        "titulo": "Microsoft Exchange flaw allows hackers to read mailboxes across an organization, so patch now",
-        "fonte": "TechRadar",
-        "autor": "Sead Fadilpašić",
-        "data": "2026-10-06",
-        "url": "https://www.techradar.com/pro/security/microsoft-exchange-flaw-allows-hackers-to-read-mailboxes-across-an-organization-so-patch-now",
-        "resumo": "Microsoft Exchange Server 2016 and 2019 affected, but Microsoft released a fix.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/4UHfYZ86Y3TdJhyqxEcnRA-970-80.jpg"
+        "titulo": "Ransomware has a new target. Is your backup ready?",
+        "fonte": "BleepingComputer",
+        "autor": "Sponsored by Kaseya",
+        "data": "2026-10-07",
+        "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
+        "resumo": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot easily rea…",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/09/30/secure-backup-vault.jpg"
     },
     {
-        "titulo": "FBI removes Accenture contractor after missed security patch led to breach",
-        "fonte": "Nextgov",
-        "autor": "David DiMolfetta",
-        "data": "2026-10-06",
-        "url": "https://www.nextgov.com/cybersecurity/2026/10/fbi-removes-accenture-contractor-after-missed-security-patch-led-breach/416441/",
-        "resumo": "The bureau’s cyber chief blamed a contractor’s failure to apply an available fix for an intrusion that may have exposed sensitive employee information.",
-        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/10/06/100626AccentureNG/open-graph.jpg"
-    },
-    {
-        "titulo": "Mistral Large 4: &quot;Le Chonk&quot;",
-        "fonte": "Mistral.ai",
-        "autor": "",
-        "data": "2026-10-06",
-        "url": "https://mistral.ai/news/mistral-large-4/",
-        "resumo": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.",
-        "imagem": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp"
-    },
-    {
-        "titulo": "Hitachi Energy RTU500",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-10-06",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-06",
-        "resumo": "View CSAF Summary Hitachi Energy is publishing this cybersecurity advisory in response to the security findings reported by Dragos affecting end-of-life RTU500 CMU firmware version 9.x. The reported findings are associated with legacy RTU500 firmware versions…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Hitachi Energy SOI",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-10-06",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-04",
-        "resumo": "View CSAF Summary Hitachi Energy is aware of RCE (Remote Code Execution) vulnerability in Apache ActiveMQ component of SOI product versions listed in this document. These vulnerabilities can be exploited to carry out various attacks affecting confidentiality,…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Johnson Controls EasyIO FG",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-10-06",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-01",
-        "resumo": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain full unauthorized access to the device. The following versions of Johnson Controls EasyIO FG are affected: EasyIO FG firmware &lt;…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Savannah lwIP SMTP client",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-10-06",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-02",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could crash the device being accessed; a buffer overflow condition may allow remote code execution. The following versions of Savannah lwIP SMTP client are affected: lwIP SMTP client 2.2…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Hitachi Energy REB500",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-10-06",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-05",
-        "resumo": "View CSAF Summary Hitachi Energy is aware of open-source software vulnerabilities that affect REB500 product versions listed in this document. These vulnerabilities can be exploited to carry out Denial of Service (DoS) attack on the product. Please refer to t…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Hitachi Energy Asset Suite",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-10-06",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-03",
-        "resumo": "View CSAF Summary Hitachi Energy is aware of unauthenticated servlet access vulnerabilities that affect Asset Suite product versions listed in this document. These vulnerabilities can be exploited to potentially cause confidentiality, integrity and availabili…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Senate ‘Rogue AI’ Hearing Ignites Bipartisan Push for Agent Liability – and Enterprises Should Pay Attention",
-        "fonte": "Forkast.news",
-        "autor": "Dana Ellison",
-        "data": "2026-10-06",
-        "url": "https://forkast.news/senate-rogue-ai-hearing-ignites-bipartisan-push-for-agent-liability-and-enterprises-should-pay-attention/",
-        "resumo": "When Senator Josh Hawley declared, “If you break it, you pay for it. If you cause damage, you clean it up,” during the September 30 Senate Homeland Security subcommittee hearing, he wasn’t just offering a soundbite. He was drawing a line. The hearing, titled …",
-        "imagem": "https://forkast.news/wp-content/uploads/2026/10/senate-rogue-ai-hearing-hero-1024x687.jpg"
-    },
-    {
-        "titulo": "ASOS Customers Receive Bizarre “Hacked” Message Amid Suspected Snowflake Compromise",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Kevin Poireault",
-        "data": "2026-10-06",
-        "url": "https://www.infosecurity-magazine.com/news/asos-customers-message-suspected/",
-        "resumo": "ASOS customers have received a seemingly legitimate push notifications claiming the retailer’s IT systems have been breached through a Snowflake breach",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/135336a8-90f9-42d7-bfde-2c5a5b2d3bf3.jpg"
-    },
-    {
-        "titulo": "Radar Trends to Watch: October 2026",
-        "fonte": "Oreilly.com",
-        "autor": "Mike Loukides",
-        "data": "2026-10-06",
-        "url": "https://www.oreilly.com/radar/radar-trends-to-watch-october-2026/#BlogPosting",
-        "resumo": "In addition to the nearly constant stream of model releases, in September we’ve seen price drops, new kinds of models, proofs of long-standing problems in mathematics, and continued investigations into models escaping their sandboxes. (Axios reports investiga…",
-        "imagem": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2023/06/radar-1400x950-3.png"
-    },
-    {
-        "titulo": "Hadrian raises $40M for AI agents that find the weaknesses attackers can exploit",
-        "fonte": "SiliconANGLE News",
-        "autor": "Duncan Riley",
-        "data": "2026-10-06",
-        "url": "https://siliconangle.com/2026/10/06/hadrian-raises-40m-for-ai-agents-that-find-the-weaknesses-attackers-can-exploit/",
-        "resumo": "Dutch offensive security startup Hadrian Security B.V. today announced that it has raised $40 million in new funding to expand its business internationally. Hadrian’s software points artificial intelligence agents at a company’s internet-facing systems to wor…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/hadrian.png"
-    },
-    {
-        "titulo": "The quest for simplicity: Why SMBs want advanced protection without the complexity",
-        "fonte": "We Live Security",
-        "autor": "",
-        "data": "2026-10-06",
-        "url": "https://www.welivesecurity.com/en/business-security/quest-simplicity-why-smbs-want-advanced-protection-without-complexity/",
-        "resumo": "Smaller organizations usually have fewer resources and less expertise to throw at the problem than their larger counterparts. But they absolutely understand the need for advanced protection.",
-        "imagem": "https://web-assets.esetstatic.com/wls/2026/10-26/smb-cybersecurity-quest-simplicity.jpg"
-    },
-    {
-        "titulo": "Techman Robot strengthens cybersecurity for trusted Physical AI deployment",
+        "titulo": "AI Cybersecurity Market worth $95.25 billion by 2031 - Report by MarketsandMarkets™",
         "fonte": "PRNewswire",
         "autor": "",
-        "data": "2026-10-06",
-        "url": "https://www.prnewswire.com/news-releases/techman-robot-strengthens-cybersecurity-for-trusted-physical-ai-deployment-302899568.html",
-        "resumo": "Techman Robot becomes the world&#x27;s first built-in vision AI cobot manufacturer to obtain IEC 62443-4-2 SL2 certification TAIPEI, Oct. 6, 2026 /PRNewswire/ -- Techman Robot has obtained IEC 62443-4-2 Security Level 2 (SL2) cybersecurity certification for its TM…",
-        "imagem": "https://mmx.prnewswire.com/media/MS2003149/20261006023135EDT_image_1.jpg?id=OA2989524&p=facebook"
+        "data": "2026-10-07",
+        "url": "https://www.prnewswire.com/news-releases/ai-cybersecurity-market-worth-95-25-billion-by-2031--report-by-marketsandmarkets-302900898.html",
+        "resumo": "DELRAY BEACH, Fla., Oct. 7, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the AI Cybersecurity Market is projected to grow from USD 31.25 billion in 2026 to USD 95.25 billion by 2031 at a CAGR of 25.0% during the forecast period. Browse 500 market dat…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA2991813&p=facebook"
     },
     {
-        "titulo": "Techman Robot strengthens cybersecurity for trusted Physical AI deployment",
-        "fonte": "PR Newswire UK",
+        "titulo": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+        "fonte": "Krebs on Security",
+        "autor": "BrianKrebs",
+        "data": "2026-10-07",
+        "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+        "resumo": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspec…",
+        "imagem": ""
+    },
+    {
+        "titulo": "HackerOne Report Surfaces Massive Increase in Vulnerability Backlogs",
+        "fonte": "DevOps.com",
+        "autor": "Mike Vizard",
+        "data": "2026-10-07",
+        "url": "https://devops.com/hackerone-report-surfaces-massive-increase-in-vulnerability-backlogs/",
+        "resumo": "AI is helping security teams fix vulnerabilities faster.It is also helping researchers find them even faster.That is the uncomfortable math behind HackerOne’s latest analysis.Average remediation time has dropped sharply, yet unresolved validated findings cont…",
+        "imagem": "https://devops.com/wp-content/uploads/2026/10/hackerone-vulnerability-backlog-770x330-1.jpg"
+    },
+    {
+        "titulo": "Surfshark claims a major first by bringing full post-quantum security to WireGuard",
+        "fonte": "TechRadar",
+        "autor": "Rene Millman",
+        "data": "2026-10-07",
+        "url": "https://www.techradar.com/vpn/vpn-services/surfshark-claims-a-major-first-by-bringing-full-post-quantum-security-to-wireguard",
+        "resumo": "Surfshark is stepping up its encryption game, rolling out full post-quantum security for the WireGuard protocol to protect your data from the supercomputers of tomorrow.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/pWpou2FvwQCdLVveG7JmGA-1920-80.jpg"
+    },
+    {
+        "titulo": "Edgescan Atomic Enables On-Demand Autonomous Penetration Testing",
+        "fonte": "PRNewswire",
         "autor": "",
-        "data": "2026-10-06",
-        "url": "https://www.prnewswire.co.uk/news-releases/techman-robot-strengthens-cybersecurity-for-trusted-physical-ai-deployment-302899568.html",
-        "resumo": "Techman Robot becomes the world&#x27;s first built-in vision AI cobot manufacturer to obtain IEC 62443-4-2 SL2 certification TAIPEI, Oct. 6, 2026 /PRNewswire/ -- Techman Robot has obtained IEC 62443-4-2 Security Level 2 (SL2) cybersecurity certification for its TM…",
-        "imagem": "https://mmx.prnewswire.com/media/MS2003149/20261006023135EDT_image_1.jpg?id=OA2989524&p=facebook"
+        "data": "2026-10-07",
+        "url": "https://www.prnewswire.com/news-releases/edgescan-atomic-enables-on-demand-autonomous-penetration-testing-302900490.html",
+        "resumo": "New capability overcomes schedule-based drawback of traditional pen-testing programs New autonomous capability brings intelligence-led security testing on demand between scheduled penetration tests. DUBLIN, Oct. 7, 2026 /PRNewswire/ -- Edgescan announced toda…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1882206/Acct_2434697_Edgescan_Logo.jpg?id=OA2991321&p=facebook"
     },
     {
-        "titulo": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+        "titulo": "Elmo Motion Control Achieves IEC 62443-4-1 ML2 Cybersecurity Certification for Secure Product Development",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-10-07",
+        "url": "https://www.prnewswire.com/news-releases/elmo-motion-control-achieves-iec-62443-4-1-ml2-cybersecurity-certification-for-secure-product-development-302901039.html",
+        "resumo": "Independent TÜV SÜD certification validates Elmo&#x27;s secure development lifecycle and supports readiness for the EU Cyber Resilience Act. PETACH TIKVA, Israel, Oct. 7, 2026 /PRNewswire/ -- Elmo Motion Control, a global leader in advanced motion control technolo…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1477484/Elmo-Motion-Control-Logo.jpg?id=OA2991865&p=facebook"
+    },
+    {
+        "titulo": "VulnHunter",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-10-07",
+        "url": "https://kitploit.com/en/tools/github/nealbridges/vulnhunter/",
+        "resumo": "Agentic AI security scanner that reasons like an attacker over source code, confirms exploitable flaws with executable PoCs, and drives test-first fixes through hunt, fix, and verify skills.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/57016/ee9ca58aedb07b6d3ebd7a0955c2b92db0eecd4bc72da0bc258784a61b808bf1-social-v1.webp"
+    },
+    {
+        "titulo": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-06",
-        "url": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
-        "resumo": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product&#x27;s web application root directory. The attacker must already know a file&#x27;s exact name and path…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGQge2pd9O29G6qjsswRMYKnpM66wzyEWHOnRljkIZUZpCGVGACovyKIiji1HQ4jZOsypuaveJUBxx0r7-tT-Icd3COeo_prgm0TbMWDJBYFYpWHOC3lBjb8sZo6f2qWPkzeztOAjMW1CjrE_fDe3nWBU2FEOOjUWDpNUbtY1okTyx_iFE7xcI5jxOeiQ/s1700-nu-rw-lo-l85-e365/file.jpg"
+        "data": "2026-10-07",
+        "url": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+        "resumo": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually happens. For years, the enterprise cybe…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwlATRFpnJdFH1E6zK00EDXPizTTgy_gfddNnBMuBwwMsatfG5_PB-S_S9uGdDW-MuTX8HzGLataU3yDJ6MdkTBN8fwntNgZIIIy9ljbQLD-6Httyo9ouWJ7rF-KjfIKTn5rMSlBURgeV9JyIPZKDg4jWpd4I0vhCifCzisPojOQcCH_QEpWCvO8WmydA/s1700-nu-rw-lo-l85-e365/Proofpoint.png"
     },
     {
-        "titulo": "U.S. Bank CISO says the security role keeps growing and no one can own all of it",
+        "titulo": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-10-07",
+        "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
+        "resumo": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/07/SonicWall.jpg"
+    },
+    {
+        "titulo": "SonicWall fixes pre-auth SSRF flaw in SMA 1000 appliances (CVE-2026-102255)",
         "fonte": "Help Net Security",
-        "autor": "Mirko Zorz",
-        "data": "2026-10-06",
-        "url": "https://www.helpnetsecurity.com/2026/10/06/ann-barron-dicamillo-collective-cyber-defense/",
-        "resumo": "In this interview with Help Net Security, Ann Barron-DiCamillo, EVP, CISO at U.S. Bank, talks about how the CISO role has grown to cover fraud, resilience, third-party risk, and AI governance. She says no single leader can own all of it, so partnerships acros…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/01142957/ann_barron-dicamillo-2-us_bank.webp"
+        "autor": "Zeljka Zorz",
+        "data": "2026-10-07",
+        "url": "https://www.helpnetsecurity.com/2026/10/07/sonicwall-fixes-pre-auth-ssrf-flaw-in-sma-1000-appliances-cve-2026-102255/",
+        "resumo": "SonicWall has patched four vulnerabilities in its popular Secure Mobile Access (SMA) 1000 series of appliances, including one (CVE-2026-102255) that could allow remote unauthenticated attackers “to direct the appliance to issue requests on their behalf and re…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/08/26192636/sonicwall-2.webp"
     },
     {
-        "titulo": "Changer+ Makes Stablecoins Easier to Use With a New Stablecoin-First, Self-Custodial Wallet",
-        "fonte": "ZyCrypto",
-        "autor": "PR DESK",
-        "data": "2026-10-06",
-        "url": "https://zycrypto.com/changer-makes-stablecoins-easier-to-use-with-a-new-stablecoin-first-self-custodial-wallet/",
-        "resumo": "Multi-chain stablecoin wallet combines simpler transfers, flexible gas-fee options, security features, and practical use cases with one ambition: to become the world’s easiest stablecoin wallet. Changer+ today announced the launch of its self-custodial stable…",
-        "imagem": "https://zycrypto.com/wp-content/uploads/2026/10/unnamed-2026-10-06T063057.430.jpg"
+        "titulo": "Anthropic Creates Three Tiers for Claude Cyber Access",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-10-07",
+        "url": "https://securityaffairs.com/200521/ai/anthropic-creates-three-tiers-for-claude-cyber-access.html",
+        "resumo": "Anthropic created three access tiers for Claude’s offensive security use, matching cyber capabilities and safeguards to the user’s level of trust. Anthropic is trying to solve the difficult balance between using AI for cybersecurity and preventing misuse. The…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/10/image-16.png"
+    },
+    {
+        "titulo": "One breach, please, and make no mistakes",
+        "fonte": "Talosintelligence.com",
+        "autor": "Jerzy ‘Yuri’ Kramarz",
+        "data": "2026-10-07",
+        "url": "https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/",
+        "resumo": "The cybersecurity community has seen examples of autonomous agents, built inside AI labs, attacking public infrastructure. How you prepare for agentic threats is what makes the difference during real incidents.",
+        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/OneBreachPlease-BlogHeader.jpg"
+    },
+    {
+        "titulo": "Anthropic loosens Claude’s cyber restrictions for verified defenders",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-10-07",
+        "url": "https://www.helpnetsecurity.com/2026/10/07/anthropic-expands-cyber-verification-program/",
+        "resumo": "Anthropic expanded its Cyber Verification Program (CVP), giving approved security professionals access to advanced Claude capabilities with fewer automated blocks on work such as malware analysis and vulnerability testing. Three tiers for cybersecurity work T…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/07102628/anthropic-computer-1500.webp"
+    },
+    {
+        "titulo": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-10-07",
+        "url": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
+        "resumo": "Anthropic on Tuesday said it&#x27;s expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glasswing initiativ…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimg1tAvNh5aMWuNTZXjb4kKfxIQ0iWkuo2bCznozA8oz2Fm36WzbPnBI1bBDX5Mc3hpyOMIcjS_fcdYzzpQnrtUkex17u0_fn7r3bgcRYEN4o2hoGf4vlw5hQKEgcDd2VoVT2P9unKzsVOlly1QFlu6WfySqGPZ4Pf7xrZXaL4pEy1vrhWQBHR7SiqHHvf/s1700-nu-rw-lo-l85-e365/claude-flaws.jpg"
+    },
+    {
+        "titulo": "What happens when AI starts fighting cyber threats on its own? Here&#x27;s how agentic security works",
+        "fonte": "The Times of India",
+        "autor": "ET Online",
+        "data": "2026-10-07",
+        "url": "https://economictimes.indiatimes.com/industry/services/what-happens-when-ai-starts-fighting-cyber-threats-on-its-own-heres-how-agentic-security-works/articleshow/134759049.cms",
+        "resumo": "Artificial intelligence is evolving from assisting cybersecurity to taking on more responsibilities autonomously and efficiently. This shift, termed agentic security, enables AI to identify and investigate threats without waiting for human input. AI agents li…",
+        "imagem": "https://img.etimg.com/thumb/msid-134759578,width-1200,height-900,imgsize-245420,overlay-economictimes/articleshow.jpg"
+    },
+    {
+        "titulo": "How to Defend Against AI-Designed Viruses",
+        "fonte": "War on the Rocks",
+        "autor": "Jason T. Kaelber",
+        "data": "2026-10-07",
+        "url": "https://warontherocks.com/how-to-defend-against-ai-designed-viruses/",
+        "resumo": "Anthropic recently disclosed five cases in which users hid their countries while asking Claude for help enhancing pathogens or toxins. This added fuel to the ongoing debate over whether progress in AI should be slowed. Insider warnings of threats to human liv…",
+        "imagem": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-47219-f67095673a78.jpg"
+    },
+    {
+        "titulo": "High Awareness, Low Adoption: New Survey Reveals Nearly Half of Security Professionals Still Rely on Passwords",
+        "fonte": "Financial Post",
+        "autor": "Business Wire",
+        "data": "2026-10-07",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/high-awareness-low-adoption-new-survey-reveals-nearly-half-of-security-professionals-still-rely-on-passwords",
+        "resumo": "Global study from Yubico and Okta highlights a critical execution gap in enterprise security, shows how modern identity controls can eliminate password dependency. STOCKHOLM &amp; SANTA CLARA, Calif. &amp; SINGAPORE — A new survey from Yubico (NASDAQ STOCKHOLM: YUBIC…",
+        "imagem": ""
+    },
+    {
+        "titulo": "After GHOSTJACKING: What Agent Security Hardening Actually Requires",
+        "fonte": "Forkast.news",
+        "autor": "Heath Callahan",
+        "data": "2026-10-07",
+        "url": "https://forkast.news/after-ghostjacking-what-agent-security-hardening-actually-requires/",
+        "resumo": "Eighty-eight percent of IT leaders report at least one security breach involving AI agents in the last 12 months, according to the AvePoint State of AI 2026 report. Despite this frequency, the industry remains stuck in a cycle of reactive deployment. The ngCE…",
+        "imagem": "https://forkast.news/wp-content/uploads/2026/10/after-ghostjacking-hardening-gap-1-1024x572.jpg"
     }
 ]
