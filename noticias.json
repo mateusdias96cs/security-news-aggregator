@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Exploitation attempts against critical Atlassian flaw have begun (CVE-2026-21589)",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-10-07",
-        "url": "https://www.helpnetsecurity.com/2026/10/07/exploitation-critical-atlassian-flaw-cve-2026-21589/",
-        "resumo": "One day after Atlassian released patches fixing a critical arbitrary file access vulnerability (CVE-2026-21589) in its self-managed Data Center products, and a few hours after watchTowr researchers published a technical rundown of the flaw, attackers have bee…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/07161730/atlassian-blue.webp"
+        "titulo": "My Take on Open-Source And Sovereignty From Open Source Summit Europe 2026",
+        "fonte": "Forrester.com",
+        "autor": "Dario Maisto",
+        "data": "2026-10-08",
+        "url": "https://www.forrester.com/blogs/my-take-on-open-source-and-sovereignty-from-open-source-summit-europe-2026/",
+        "resumo": "At Open Source Summit Europe 2026, one message surfaced repeatedly: organizations and governments that merely consume open-source remain dependent on others to shape their future. Those that govern, maintain, secure, and sustain open-source ecosystems gain in…",
+        "imagem": "https://go.forrester.com/wp-content/uploads/2026/10/2024_BlogImages_1-scaled.jpg"
     },
     {
-        "titulo": "Ransomware has a new target. Is your backup ready?",
-        "fonte": "BleepingComputer",
-        "autor": "Sponsored by Kaseya",
-        "data": "2026-10-07",
-        "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
-        "resumo": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot easily rea…",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/09/30/secure-backup-vault.jpg"
+        "titulo": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-10-08",
+        "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+        "resumo": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks. The activity, per CrowdStrike Intelligence,…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrg8bHUppR3zYriUhWwJig9yJq8F69XCeJrtY040zk39DNhblhBRkcTcQSqRo6K3PwnMVoygOCmbWf2X7ySQDxpfDlgmXFBDGhoiicnG3_5E84RhV6muyzgGacKye5eiB5dLcvsNfny5yS-4TlrypAdPcU1PVfT-jMxWvdfg9algqsvxycUV1Jy1xUjGiT/s1700-nu-rw-lo-l85-e365/ai-hacker.jpg"
     },
     {
-        "titulo": "AI Cybersecurity Market worth $95.25 billion by 2031 - Report by MarketsandMarkets™",
+        "titulo": "Bricklayer AI Named &quot;Agentic AI Security Platform of the Year&quot; in 10th Annual CyberSecurity Breakthrough Awards Program",
         "fonte": "PRNewswire",
         "autor": "",
-        "data": "2026-10-07",
-        "url": "https://www.prnewswire.com/news-releases/ai-cybersecurity-market-worth-95-25-billion-by-2031--report-by-marketsandmarkets-302900898.html",
-        "resumo": "DELRAY BEACH, Fla., Oct. 7, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the AI Cybersecurity Market is projected to grow from USD 31.25 billion in 2026 to USD 95.25 billion by 2031 at a CAGR of 25.0% during the forecast period. Browse 500 market dat…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA2991813&p=facebook"
+        "data": "2026-10-08",
+        "url": "https://www.prnewswire.com/news-releases/bricklayer-ai-named-agentic-ai-security-platform-of-the-year-in-10th-annual-cybersecurity-breakthrough-awards-program-302901608.html",
+        "resumo": "Annual Awards Program Recognizes Breakthrough Information Security Products and Companies Around the World ARLINGTON, Va., Oct. 8, 2026 /PRNewswire/ -- Bricklayer AI, the operating platform for the AI security workforce, today announced that it has been award…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1743090/Bricklayer-AI-Logo-Logo.jpg?id=OA2992194&p=facebook"
     },
     {
-        "titulo": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-        "fonte": "Krebs on Security",
-        "autor": "BrianKrebs",
-        "data": "2026-10-07",
-        "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-        "resumo": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspec…",
+        "titulo": "The Select Group Launches TSG/ControlBurn, a Digital Twin-Powered OT Security Service That Helps Burn Vulnerable Paths Before Adversaries Can Exploit Them",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-10-08",
+        "url": "https://www.prnewswire.com/news-releases/the-select-group-launches-tsgcontrolburn-a-digital-twin-powered-ot-security-service-that-helps-burn-vulnerable-paths-before-adversaries-can-exploit-them-302902423.html",
+        "resumo": "Brought to market with technology partner Frenos, TSG/ControlBurn gives organizations that run networked operational systems a way to test operational technology security whenever the environment changes, without touching production systems. RALEIGH, N.C., Oc…",
+        "imagem": "https://mmx.prnewswire.com/media/MS2004467/Inverted-Logo-1-1.jpg?id=OA2992971&p=facebook"
+    },
+    {
+        "titulo": "Rein Security raises $25M to rein in insecure AI agents",
+        "fonte": "SiliconANGLE News",
+        "autor": "Mike Wheatley",
+        "data": "2026-10-08",
+        "url": "https://siliconangle.com/2026/10/08/rein-security-raises-25m-to-rein-in-insecure-ai-agents/",
+        "resumo": "Rein Security Inc. said today it’s trying to help enterprises protect themselves against two distinct security threats relating to agentic artificial intelligence after raising $25 million in early-stage funding from Glilot Capital, Sienna Venture Capital, Co…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-05-07-35-30.png"
+    },
+    {
+        "titulo": "Artemis Security Unveils Orion-1, a Frontier Foundation Model for Cyber Defense",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-10-08",
+        "url": "https://www.prnewswire.com/news-releases/artemis-security-unveils-orion-1-a-frontier-foundation-model-for-cyber-defense-302901260.html",
+        "resumo": "On Decision-Grade Readiness, a new benchmark that measures whether an AI security decision can be trusted enough to act on, Orion-1 scored at the top for all five tasks measured, with no frontier model scoring higher across the benchmark. NEW YORK, Oct. 8, 20…",
+        "imagem": "https://mmx.prnewswire.com/media/MS2004156/logo-mark-2x.jpg?id=OA2992162&p=facebook"
+    },
+    {
+        "titulo": "Tenable Uses OpenAI GPT Cyber Models to Advance Agentic Security Review in the CyberAgents Exchange",
+        "fonte": "Tenable.com",
+        "autor": "Shannon O&#x27;Dowd",
+        "data": "2026-10-08",
+        "url": "https://www.tenable.com/press-releases/tenable-uses-openai-gpt-cyber-models-to-advance-agentic-security-review-in-the-cyberagents-exchange",
+        "resumo": "Tenable® Holdings, Inc. (NASDAQ: TENB), the exposure management company, today announced the expansion of the CyberAgents Exchange, powered by Tenable, to further accelerate enterprise security adoption of open source AI agents, skills and MCP servers. Engine…",
+        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/press-releases/ExchangeInspector-GA-Launch_PR_Banner_3840x2160_v2.png?itok=DFeoU9Rc"
+    },
+    {
+        "titulo": "The 23rd Annual 2027 Globee® Awards for Cybersecurity Invite Product, Service, and Solution Achievement Nominations Worldwide",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-10-08",
+        "url": "https://www.prnewswire.com/news-releases/the-23rd-annual-2027-globee-awards-for-cybersecurity-invite-product-service-and-solution-achievement-nominations-worldwide-302898188.html",
+        "resumo": "Recognizing local, regional, and global achievements across cybersecurity products, services, platforms, and solutions that strengthen security, protect data and systems, manage risk, and improve cyber resilience SAN FRANCISCO, Oct. 8, 2026 /PRNewswire/ -- Th…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1656896/Globee-Press-Logo.jpg?id=OA2986262&p=facebook"
+    },
+    {
+        "titulo": "Core6 Announces Partnership with Armis from ServiceNow to Extend Cyber Exposure Management to Storage and Backup Systems",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-10-08",
+        "url": "https://www.prnewswire.com/news-releases/core6-announces-partnership-with-armis-from-servicenow-to-extend-cyber-exposure-management-to-storage-and-backup-systems-302900572.html",
+        "resumo": "Integration closes a critical blind spot as AI accelerates attacks on storage and backup systems TEL AVIV, Israel, Oct. 8, 2026 /PRNewswire/ -- Core6, the data infrastructure security company, today announced a partnership with Armis from ServiceNow, a global…",
+        "imagem": "https://mmx.prnewswire.com/media/MS2003738/Core6-Logo.jpg?id=OA2991013&p=facebook"
+    },
+    {
+        "titulo": "Satel Netco Design",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-10-08",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-03",
+        "resumo": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute arbitrary scripts in a user&#x27;s browser, consume excessive system resources, enumerate files, create or modify files, and potentially execute arbitrary code. T…",
         "imagem": ""
     },
     {
-        "titulo": "HackerOne Report Surfaces Massive Increase in Vulnerability Backlogs",
-        "fonte": "DevOps.com",
-        "autor": "Mike Vizard",
-        "data": "2026-10-07",
-        "url": "https://devops.com/hackerone-report-surfaces-massive-increase-in-vulnerability-backlogs/",
-        "resumo": "AI is helping security teams fix vulnerabilities faster.It is also helping researchers find them even faster.That is the uncomfortable math behind HackerOne’s latest analysis.Average remediation time has dropped sharply, yet unresolved validated findings cont…",
-        "imagem": "https://devops.com/wp-content/uploads/2026/10/hackerone-vulnerability-backlog-770x330-1.jpg"
+        "titulo": "Grid Protection Alliance openPDC and openHistorian",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-10-08",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-02",
+        "resumo": "View CSAF Summary The following versions of Grid Protection Alliance openPDC and openHistorian are affected: openPDC openPDC (Docker image) openHistorian CVSS Vendor Equipment…",
+        "imagem": ""
     },
     {
-        "titulo": "Surfshark claims a major first by bringing full post-quantum security to WireGuard",
-        "fonte": "TechRadar",
-        "autor": "Rene Millman",
-        "data": "2026-10-07",
-        "url": "https://www.techradar.com/vpn/vpn-services/surfshark-claims-a-major-first-by-bringing-full-post-quantum-security-to-wireguard",
-        "resumo": "Surfshark is stepping up its encryption game, rolling out full post-quantum security for the WireGuard protocol to protect your data from the supercomputers of tomorrow.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/pWpou2FvwQCdLVveG7JmGA-1920-80.jpg"
+        "titulo": "Uranium Finance hacker convicted over DeFi exploits and laundering",
+        "fonte": "Crypto Briefing",
+        "autor": "John Chen",
+        "data": "2026-10-08",
+        "url": "https://cryptobriefing.com/uranium-finance-hacker-convicted-defi-exploit/",
+        "resumo": "The conviction highlights the enduring vulnerability of DeFi platforms and the lengthy process of legal recourse, impacting user trust. The post Uranium Finance hacker convicted over DeFi exploits and laundering appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg"
     },
     {
-        "titulo": "Edgescan Atomic Enables On-Demand Autonomous Penetration Testing",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-10-07",
-        "url": "https://www.prnewswire.com/news-releases/edgescan-atomic-enables-on-demand-autonomous-penetration-testing-302900490.html",
-        "resumo": "New capability overcomes schedule-based drawback of traditional pen-testing programs New autonomous capability brings intelligence-led security testing on demand between scheduled penetration tests. DUBLIN, Oct. 7, 2026 /PRNewswire/ -- Edgescan announced toda…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1882206/Acct_2434697_Edgescan_Logo.jpg?id=OA2991321&p=facebook"
+        "titulo": "IMC 2026: &#x27;AI for security, security for AI&#x27; becomes new cyber battleground",
+        "fonte": "Business Standard",
+        "autor": "Sweta Kumari",
+        "data": "2026-10-08",
+        "url": "https://www.business-standard.com/technology/tech-news/imc-2026-ai-for-security-security-for-ai-becomes-new-cyber-battleground-126100800968_1.html",
+        "resumo": "India Mobile Congress 2026: As India scales digital infrastructure under the &#x27;Scale Without Boundaries&#x27; theme, cybersecurity is emerging as a parallel priority, with AI accelerating both attacks and defence",
+        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/08/thumb/featurecrop/1200X628/1791459093-8755.jpg"
     },
     {
-        "titulo": "Elmo Motion Control Achieves IEC 62443-4-1 ML2 Cybersecurity Certification for Secure Product Development",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-10-07",
-        "url": "https://www.prnewswire.com/news-releases/elmo-motion-control-achieves-iec-62443-4-1-ml2-cybersecurity-certification-for-secure-product-development-302901039.html",
-        "resumo": "Independent TÜV SÜD certification validates Elmo&#x27;s secure development lifecycle and supports readiness for the EU Cyber Resilience Act. PETACH TIKVA, Israel, Oct. 7, 2026 /PRNewswire/ -- Elmo Motion Control, a global leader in advanced motion control technolo…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1477484/Elmo-Motion-Control-Logo.jpg?id=OA2991865&p=facebook"
-    },
-    {
-        "titulo": "VulnHunter",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-10-07",
-        "url": "https://kitploit.com/en/tools/github/nealbridges/vulnhunter/",
-        "resumo": "Agentic AI security scanner that reasons like an attacker over source code, confirms exploitable flaws with executable PoCs, and drives test-first fixes through hunt, fix, and verify skills.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/57016/ee9ca58aedb07b6d3ebd7a0955c2b92db0eecd4bc72da0bc258784a61b808bf1-social-v1.webp"
-    },
-    {
-        "titulo": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-07",
-        "url": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
-        "resumo": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually happens. For years, the enterprise cybe…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwlATRFpnJdFH1E6zK00EDXPizTTgy_gfddNnBMuBwwMsatfG5_PB-S_S9uGdDW-MuTX8HzGLataU3yDJ6MdkTBN8fwntNgZIIIy9ljbQLD-6Httyo9ouWJ7rF-KjfIKTn5rMSlBURgeV9JyIPZKDg4jWpd4I0vhCifCzisPojOQcCH_QEpWCvO8WmydA/s1700-nu-rw-lo-l85-e365/Proofpoint.png"
-    },
-    {
-        "titulo": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-10-07",
-        "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
-        "resumo": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/07/SonicWall.jpg"
-    },
-    {
-        "titulo": "SonicWall fixes pre-auth SSRF flaw in SMA 1000 appliances (CVE-2026-102255)",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-10-07",
-        "url": "https://www.helpnetsecurity.com/2026/10/07/sonicwall-fixes-pre-auth-ssrf-flaw-in-sma-1000-appliances-cve-2026-102255/",
-        "resumo": "SonicWall has patched four vulnerabilities in its popular Secure Mobile Access (SMA) 1000 series of appliances, including one (CVE-2026-102255) that could allow remote unauthenticated attackers “to direct the appliance to issue requests on their behalf and re…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/08/26192636/sonicwall-2.webp"
-    },
-    {
-        "titulo": "Anthropic Creates Three Tiers for Claude Cyber Access",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-10-07",
-        "url": "https://securityaffairs.com/200521/ai/anthropic-creates-three-tiers-for-claude-cyber-access.html",
-        "resumo": "Anthropic created three access tiers for Claude’s offensive security use, matching cyber capabilities and safeguards to the user’s level of trust. Anthropic is trying to solve the difficult balance between using AI for cybersecurity and preventing misuse. The…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/10/image-16.png"
-    },
-    {
-        "titulo": "One breach, please, and make no mistakes",
-        "fonte": "Talosintelligence.com",
-        "autor": "Jerzy ‘Yuri’ Kramarz",
-        "data": "2026-10-07",
-        "url": "https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/",
-        "resumo": "The cybersecurity community has seen examples of autonomous agents, built inside AI labs, attacking public infrastructure. How you prepare for agentic threats is what makes the difference during real incidents.",
-        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/OneBreachPlease-BlogHeader.jpg"
-    },
-    {
-        "titulo": "Anthropic loosens Claude’s cyber restrictions for verified defenders",
+        "titulo": "Anthropic’s new budget model gets much better at ignoring hidden commands",
         "fonte": "Help Net Security",
         "autor": "Anamarija Pogorelec",
-        "data": "2026-10-07",
-        "url": "https://www.helpnetsecurity.com/2026/10/07/anthropic-expands-cyber-verification-program/",
-        "resumo": "Anthropic expanded its Cyber Verification Program (CVP), giving approved security professionals access to advanced Claude capabilities with fewer automated blocks on work such as malware analysis and vulnerability testing. Three tiers for cybersecurity work T…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/07102628/anthropic-computer-1500.webp"
+        "data": "2026-10-08",
+        "url": "https://www.helpnetsecurity.com/2026/10/08/anthropic-claude-haiku-5-5/",
+        "resumo": "Anthropic’s Claude Haiku 5.5 model, designed for quick, repetitive workloads and speed-sensitive tasks, is now better at finding vulnerabilities and writing exploits than its predecessor. The company has given it stricter cybersecurity safeguards than Haiku 4…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/03/03094400/claude-3-1500.webp"
     },
     {
-        "titulo": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
+        "titulo": "Cyber resilience isn&#x27;t measured in firewalls. It&#x27;s measured in minutes",
+        "fonte": "TechRadar",
+        "autor": "Michael Woodbridge",
+        "data": "2026-10-08",
+        "url": "https://www.techradar.com/pro/cyber-resilience-isnt-measured-in-firewalls-its-measured-in-minutes",
+        "resumo": "Cyber resilience now depends on how quickly leaders can understand, decide and recover.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/5rDPr5xYvLwnkP7ZvpR2w3-2122-80.jpg"
+    },
+    {
+        "titulo": "Critical Flaw in Multiple Atlassian Products Exploited in the Wild",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Kevin Poireault",
+        "data": "2026-10-08",
+        "url": "https://www.infosecurity-magazine.com/news/critical-vulnerability-atlassian/",
+        "resumo": "A critical vulnerability affecting eight Atlassian products, including Jira and Confluence, is being exploited in the wild, said VulnCheck",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/a5880c75-ffcb-4bc5-b0fc-7c017647f16e.jpg"
+    },
+    {
+        "titulo": "Rein Security Raises $25 Million to Secure the AI Agents Enterprises Build and Stop the Ones That Attack Them",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-10-08",
+        "url": "https://www.prnewswire.com/news-releases/rein-security-raises-25-million-to-secure-the-ai-agents-enterprises-build-and-stop-the-ones-that-attack-them-302901591.html",
+        "resumo": "Glilot Capital and Sienna Venture Capital Co-Lead Series A Round, Bringing Total Funding Secured to Date to $35 Million NEW YORK and TEL AVIV, Israel, Oct. 8, 2026 /PRNewswire/ -- Rein Security, the AI-native runtime security platform for enterprises, today a…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1786229/2000x-7-1-Logo-Logo.jpg?id=OA2993145&p=facebook"
+    },
+    {
+        "titulo": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-07",
-        "url": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
-        "resumo": "Anthropic on Tuesday said it&#x27;s expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glasswing initiativ…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimg1tAvNh5aMWuNTZXjb4kKfxIQ0iWkuo2bCznozA8oz2Fm36WzbPnBI1bBDX5Mc3hpyOMIcjS_fcdYzzpQnrtUkex17u0_fn7r3bgcRYEN4o2hoGf4vlw5hQKEgcDd2VoVT2P9unKzsVOlly1QFlu6WfySqGPZ4Pf7xrZXaL4pEy1vrhWQBHR7SiqHHvf/s1700-nu-rw-lo-l85-e365/claude-flaws.jpg"
+        "data": "2026-10-08",
+        "url": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
+        "resumo": "Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys. &quot;The extensions masquerade as wallet portals, desktop utilities, and browser …",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh25slDP7PhWH155CxM4JUNITLHKzjfSXpuF4WWZJmkycx5UQUIjLJd5Jg_mEDQi62FwRkfpLV14DBpVu2pybVwacKkHpc2MABge_OjMCn3ISyUTsh_JS0fM3wgzv4hbR1du-9fp7cmd0vvB33xeCv7RD7-o4A66gCoKtuCQxmmQL2jM2ljZOMyude3uhOb/s1700-nu-rw-lo-l85-e365/firefox-plugins.jpg"
     },
     {
-        "titulo": "What happens when AI starts fighting cyber threats on its own? Here&#x27;s how agentic security works",
+        "titulo": "Anthropic Expands Cyber Verification Program, Opens Restricted AI Access to More Security Groups",
+        "fonte": "Naturalnews.com",
+        "autor": "Chase Codewell",
+        "data": "2026-10-08",
+        "url": "https://www.naturalnews.com/2026-10-08-anthropic-expands-cyber-verification-program-restricted-access.html",
+        "resumo": "Artificial intelligence (AI) company Anthropic has expanded its Cyber Verification Program (CVP), opening restricted AI access to more security groups. The program, announced on the Anthropic website, makes advanced cyber capabilities and reduced blocking cla…",
+        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/anthropic-cyber-verification-program-claude-ai-models-cybersecurity-access-tiers-4833-aac78e9d-original.jpg"
+    },
+    {
+        "titulo": "Suspect behind South Korea bank hacks may be 26-year-old in China, CrowdStrike says",
         "fonte": "The Times of India",
-        "autor": "ET Online",
-        "data": "2026-10-07",
-        "url": "https://economictimes.indiatimes.com/industry/services/what-happens-when-ai-starts-fighting-cyber-threats-on-its-own-heres-how-agentic-security-works/articleshow/134759049.cms",
-        "resumo": "Artificial intelligence is evolving from assisting cybersecurity to taking on more responsibilities autonomously and efficiently. This shift, termed agentic security, enables AI to identify and investigate threats without waiting for human input. AI agents li…",
-        "imagem": "https://img.etimg.com/thumb/msid-134759578,width-1200,height-900,imgsize-245420,overlay-economictimes/articleshow.jpg"
-    },
-    {
-        "titulo": "How to Defend Against AI-Designed Viruses",
-        "fonte": "War on the Rocks",
-        "autor": "Jason T. Kaelber",
-        "data": "2026-10-07",
-        "url": "https://warontherocks.com/how-to-defend-against-ai-designed-viruses/",
-        "resumo": "Anthropic recently disclosed five cases in which users hid their countries while asking Claude for help enhancing pathogens or toxins. This added fuel to the ongoing debate over whether progress in AI should be slowed. Insider warnings of threats to human liv…",
-        "imagem": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-47219-f67095673a78.jpg"
-    },
-    {
-        "titulo": "High Awareness, Low Adoption: New Survey Reveals Nearly Half of Security Professionals Still Rely on Passwords",
-        "fonte": "Financial Post",
-        "autor": "Business Wire",
-        "data": "2026-10-07",
-        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/high-awareness-low-adoption-new-survey-reveals-nearly-half-of-security-professionals-still-rely-on-passwords",
-        "resumo": "Global study from Yubico and Okta highlights a critical execution gap in enterprise security, shows how modern identity controls can eliminate password dependency. STOCKHOLM &amp; SANTA CLARA, Calif. &amp; SINGAPORE — A new survey from Yubico (NASDAQ STOCKHOLM: YUBIC…",
-        "imagem": ""
-    },
-    {
-        "titulo": "After GHOSTJACKING: What Agent Security Hardening Actually Requires",
-        "fonte": "Forkast.news",
-        "autor": "Heath Callahan",
-        "data": "2026-10-07",
-        "url": "https://forkast.news/after-ghostjacking-what-agent-security-hardening-actually-requires/",
-        "resumo": "Eighty-eight percent of IT leaders report at least one security breach involving AI agents in the last 12 months, according to the AvePoint State of AI 2026 report. Despite this frequency, the industry remains stuck in a cycle of reactive deployment. The ngCE…",
-        "imagem": "https://forkast.news/wp-content/uploads/2026/10/after-ghostjacking-hardening-gap-1-1024x572.jpg"
+        "autor": "Reuters",
+        "data": "2026-10-08",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/suspect-behind-south-korea-bank-hacks-may-be-26-year-old-in-china-crowdstrike-says/articleshow/134781066.cms",
+        "resumo": "The suspect behind recent cyberattacks targeting South Korea&#x27;s financial sector may be a 26-year-old based in China&#x27;s Guangdong province, US cybersecurity firm CrowdStrike said.",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2213468,resizemode-75,msid-134781066/tech/artificial-intelligence/suspect-behind-south-korea-bank-hacks-may-be-26-year-old-in-china-crowdstrike-says.jpg"
     }
 ]
