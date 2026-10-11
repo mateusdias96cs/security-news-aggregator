@@ -1,5 +1,113 @@
 [
     {
+        "titulo": "Anthropic restricts internet access in internal AI evaluations after Claude bypasses safeguards, accesses websites - The Tribune",
+        "fonte": "The Tribune India",
+        "autor": "Ani",
+        "data": "2026-10-10",
+        "url": "https://www.tribuneindia.com/news/business/anthropic-restricts-internet-access-in-internal-ai-evaluations-after-claude-bypasses-safeguards-accesses-websites/",
+        "resumo": "Artificial intelligence company Anthropic has restricted live internet access across its internal evaluations after discovering instances of its Claude models bypassing safeguards, exploiting software vulnerabilities and accessing systems on real-world websit…",
+        "imagem": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZmZmJhZmEwLWM0OTYtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc="
+    },
+    {
+        "titulo": "Anthropic restricts internet access in internal AI evaluations after Claude bypasses safeguards",
+        "fonte": "BusinessLine",
+        "autor": "ANI",
+        "data": "2026-10-10",
+        "url": "https://www.thehindubusinessline.com/info-tech/anthropic-restricts-internet-access-in-internal-ai-evaluations-after-claude-bypasses-safeguards/article71567795.ece",
+        "resumo": "Anthropic says its investigation uncovered several instances of unintended model behaviour, prompting it to expand its review beyond cybersecurity evaluations",
+        "imagem": "https://bl-i.thgim.com/public/incoming/pekcex/article71473869.ece/alternates/LANDSCAPE_1200/2026-09-16T142733Z_2095445683_RC2QRLAPLIUT_RTRMADP_3_AI-SAFETY-MICROSOFT-SULEYMAN.JPG"
+    },
+    {
+        "titulo": "CVE-2026-Wordpress",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-10-10",
+        "url": "https://kitploit.com/en/tools/github/horkimhab/cve-2026-wordpress/",
+        "resumo": "Educational CVE proof-of-concept collection targeting WordPress vulnerabilities, with setup scripts and lab guidance for authorized security research and testing.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/57194/ddfa35164b85a0fb34c2c426bd87e5d3a34db58ea5d1598a293d4838a5bf85b7-social-v1.webp"
+    },
+    {
+        "titulo": "Telegram Desktop vulnerability allowed any user&#x27;s file to be stolen",
+        "fonte": "Github.io",
+        "autor": "",
+        "data": "2026-10-10",
+        "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+        "resumo": "An unescaped separator in Telegram Desktop’s single-instance IPC lets one clicked link read arbitrary files off the disk and send them to the attacker, session files included.",
+        "imagem": "https://beaksec.github.io/assets/img/posts/telegram-desktop-one-click-account-takeover/cover.png"
+    },
+    {
+        "titulo": "We Have Entered a Cybersecurity Hellscape, Japan Warns",
+        "fonte": "Gizmodo.com",
+        "autor": "AJ Dellinger",
+        "data": "2026-10-09",
+        "url": "https://gizmodo.com/we-have-entered-a-cybersecurity-hellscape-japan-warns-2000824268",
+        "resumo": "Worse than Godzilla.",
+        "imagem": "https://gizmodo.com/app/uploads/2023/07/91e7b149916f72f40c19c600ada2fdfa.jpg"
+    },
+    {
+        "titulo": "p0tools",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-10-09",
+        "url": "https://kitploit.com/en/tools/github/googleprojectzero/p0tools/",
+        "resumo": "Collection of Google Project Zero vulnerability research documents and small standalone security tools, including exploitation and virtualization-based analysis utilities.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/57183/cb5d5bdc50ef9e54a91d5b2aa172f7dc21dcdcb974acb1187ae5930a29eeed94-social-v1.webp"
+    },
+    {
+        "titulo": "EY data breach puts spotlight on data security at Big Four as clients demand tighter controls",
+        "fonte": "The Times of India",
+        "autor": "Vinod Mahanta and Himanshi Lohchab",
+        "data": "2026-10-09",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/ey-data-breach-puts-spotlight-on-data-security-at-big-four-as-clients-demand-tighter-controls/articleshow/134840789.cms",
+        "resumo": "EY has reported a data breach that exposed sensitive client information and prompted regulatory notifications in multiple jurisdictions. This incident has raised concerns among top professional services firms regarding the protection of client data. Experts e…",
+        "imagem": "https://img.etimg.com/thumb/msid-134841222,width-1200,height-900,imgsize-66486,overlay-economictimes/articleshow.jpg"
+    },
+    {
+        "titulo": "Lean SuperIntelligence (LSI) Closes Initial Financing and Announces First Self-Improving, On-Premise, Lean Cybersecurity Models Beyond Mythos™",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-10-09",
+        "url": "https://www.prnewswire.com/news-releases/lean-superintelligence-lsi-closes-initial-financing-and-announces-first-self-improving-on-premise-lean-cybersecurity-models-beyond-mythos-302903760.html",
+        "resumo": "Self-improving cybersecurity LLMs do offense–defense interplay in customizable on-prem deployments and run at massively lower cost. PALO ALTO, Calif., Oct. 9, 2026 /PRNewswire/ -- Lean SuperIntelligence (LSI) is the first AI lab to build self-improving offens…",
+        "imagem": "https://mmx.prnewswire.com/media/MS2006008/lsi-social-avatar-2048.jpg?id=OA2997871&p=facebook"
+    },
+    {
+        "titulo": "7 Director, US Marketing - Surgical Robotics Resume Templates with Example",
+        "fonte": "Resumeinminutes.com",
+        "autor": "Ria",
+        "data": "2026-10-09",
+        "url": "https://resumeinminutes.com/en-US/blog/director-us-marketing-surgical-robotics-resume/",
+        "resumo": "Build a Director, US Marketing - Surgical Robotics resume with ATS-friendly structure, role-specific keywords, examples, and free PDF downloads.",
+        "imagem": "https://content.resumeinminutes.com/templates/images/blogimages/en-US/director-us-marketing-surgical-robotics-resume/png/director-us-marketing-surgical-robotics-resume-og.png"
+    },
+    {
+        "titulo": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-10-09",
+        "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+        "resumo": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. &quot;Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-walle…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-SCb1qpP1Z0zyo_WOtyHzQKUiqJ3RudpC9uowSePmGcLZ9sPHcE-lvDGMZTHeB7YckgDmaBA775L13GvrYHl_gAVSg46-5sUJWzcA7Q3ec5h8WIuKO5l0Td2CCk5nlSvNByqPL22qlTNwHms3rbdXsJYoEe7gRqHiqmM8DHtvEkKniOP4Q70Dq_5Dr8I/s1700-nu-rw-lo-l85-e365/ios.jpg"
+    },
+    {
+        "titulo": "Rein Security’s $25M Series A Points to Where the Agent Security Demand Is Really Biting",
+        "fonte": "Forkast.news",
+        "autor": "Dana Ellison",
+        "data": "2026-10-09",
+        "url": "https://forkast.news/rein-securitys-25m-series-a-points-to-where-the-agent-security-demand-is-really-biting/",
+        "resumo": "With eightfold revenue growth since January and named enterprise customers like Lemonade and Dun &amp; Bradstreet, Rein&#x27;s Series A is the clearest signal yet that the agent governance gap is a buying event. The startup&#x27;s runtime-sidecar architecture — which sits …",
+        "imagem": "https://forkast.news/wp-content/uploads/2026/10/rein-security-25m-series-a-1024x687.jpg"
+    },
+    {
+        "titulo": "Leveraging MITRE ATT&amp;CK TTPs for Threat-Informed SecOps: A Fortinet Perspective",
+        "fonte": "Fortinet.com",
+        "autor": "Douglas Santos",
+        "data": "2026-10-09",
+        "url": "https://www.fortinet.com/blog/security-operations/leveraging-mitre-att-ck-ttps-for-threat-informed-secops-a-fortinet-perspective",
+        "resumo": "Learn how Fortinet applies MITRE ATT&amp;CK TTPs and actionable threat intelligence to help SecOps teams identify gaps and strengthen detection and response…",
+        "imagem": ""
+    },
+    {
         "titulo": "Ukraine hits two Yandex data centres in back-to-back drone strikes",
         "fonte": "Crypto Briefing",
         "autor": "Diego Almada Lopez",
@@ -70,113 +178,5 @@
         "url": "https://securityaffairs.com/200673/security/us-disrupts-china-linked-integrity-tech-cyber-espionage-tools.html",
         "resumo": "DOJ and FBI seized China-linked hacking tools Microscan and FishHub, linked to Integrity Tech and attacks on critical infrastructure worldwide. The Justice Department and FBI took down two hacking tools this week, Microscan and FishHub, both built and run by …",
         "imagem": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg"
-    },
-    {
-        "titulo": "&#x27;Easy and cheap&#x27; AI to spur more cyber attacks - NCSC",
-        "fonte": "RTE",
-        "autor": "RTÉ News",
-        "data": "2026-10-09",
-        "url": "https://www.rte.ie/news/2026/1009/1594692-cybersecurity-attacks-ai/",
-        "resumo": "Director of the National Cyber Security Centre, Dr Richard Browne, has said there are likely to be more serious cybersecurity incidents due to the ease with which bad actors can deploy artificial intelligence.",
-        "imagem": "https://www.rte.ie/images/00198b16-1600.jpg"
-    },
-    {
-        "titulo": "AI Training Critical as Governance Challenges Grow",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Beth Maundrill",
-        "data": "2026-10-09",
-        "url": "https://www.infosecurity-magazine.com/news/ai-training-critical-as-governance/",
-        "resumo": "As AI adoption accelerates, ISACA is expanding its certification portfolio with a governance-focused credential designed to help professionals manage AI securely",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/2fa2ab6e-c48e-4051-ba44-38feb54cdda8.jpg"
-    },
-    {
-        "titulo": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-10-09",
-        "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
-        "resumo": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/09/Citrix.jpg"
-    },
-    {
-        "titulo": "Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security",
-        "fonte": "Securityweek.com",
-        "autor": "Eduard Kovacs",
-        "data": "2026-10-09",
-        "url": "https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/",
-        "resumo": "OSS Scanner sends unreviewed, model-generated vulnerability reports to open source maintainers that opt in. The post Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/05/Claude-Mythos.jpeg"
-    },
-    {
-        "titulo": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-09",
-        "url": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
-        "resumo": "The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced persistent threat group known as Flax Typhoon. To that end, the agencies seized several domains an…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8SUqM44FwmONOU6YH1yTi4I8iGU_UiDk42WA2vB_qjqzCN3xtWE_AVyF2xXmlrP68vAXN3Pe_J6f8h9B6M8vgEmcImGt55z2FRc0638eta0V-P2FvbI6O0h3TWBaOlxw72-0cnMH91J2wNykDTSpQM8cvKYPbQ-YBrnb7e2xxSJuC7B9sU4hoGBXs8KnO/s1700-nu-rw-lo-l85-e365/china-hacker.jpg"
-    },
-    {
-        "titulo": "A Timeline of Developments in AI Safety Since the Attack on Hugging Face",
-        "fonte": "Insurance Journal",
-        "autor": "Admin",
-        "data": "2026-10-09",
-        "url": "https://www.insurancejournal.com/news/national/2026/10/09/888472.htm",
-        "resumo": "In one alarming announcement after another, artificial intelligence companies in recent months have shared examples of their technology acting in ways that appeared to evade instructions from humans. The episodes have highlighted the vulnerabilities in AI sec…",
-        "imagem": "https://www.insurancejournal.com/app/uploads/2023/07/OpenAI-Bigstock-scaled.jpg"
-    },
-    {
-        "titulo": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
-        "fonte": "Cointelegraph",
-        "autor": "Cointelegraph by Felix Ng",
-        "data": "2026-10-09",
-        "url": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner",
-        "resumo": "Ethereum client Nethermind and Bitcoin wallet ZEUS have applied for Anthropic’s OSS Scanner, which uses frontier AI models to identify security vulnerabilities.",
-        "imagem": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FJ993JA7JTR422QAJS3TDX/hi-can-ai-bots-verify-you.jpg"
-    },
-    {
-        "titulo": "Notice of Data Security Incident",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-10-09",
-        "url": "https://www.prnewswire.com/news-releases/notice-of-data-security-incident-302903069.html",
-        "resumo": "NEW YORK, Oct. 8, 2026 /PRNewswire/ -- Photon is notifying individuals whose personal information may have been involved in a network security incident. This statement is intended to notify potentially impacted individuals about the incident, steps Photon has…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Hitachi Joins Anthropic’s Critical Infrastructure Defense Program",
-        "fonte": "Financial Post",
-        "autor": "Business Wire",
-        "data": "2026-10-09",
-        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/hitachi-joins-anthropics-critical-infrastructure-defense-program",
-        "resumo": "SANTA CLARA, Calif. &amp; TOKYO — Hitachi, Ltd. (TSE:6501, “Hitachi”), today announced that it has joined Anthropic, PBC’s (“Anthropic”) “Critical Infrastructure Defense Program,” launched on October 8, 2026, as a founding partner. The program is aimed at strengt…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Why &quot;secure by design&quot; is the new standard for open source",
-        "fonte": "Redhat.com",
-        "autor": "",
-        "data": "2026-10-09",
-        "url": "https://www.redhat.com/en/blog/why-secure-design-new-standard-open-source",
-        "resumo": "Open source software faces significant regulatory shifts, making &quot;secure by design&quot; development practices increasingly important. The Cyber Resilience Act (CRA) takes effect on December 11, 2027, and as of September 11, 2026, the first CRA vulnerability and i…",
-        "imagem": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg"
-    },
-    {
-        "titulo": "Anthropic launches critical infrastructure program and free OSS Scanner for open source",
-        "fonte": "SiliconANGLE News",
-        "autor": "Duncan Riley",
-        "data": "2026-10-08",
-        "url": "https://siliconangle.com/2026/10/08/anthropic-launches-critical-infrastructure-program-and-free-oss-scanner-for-open-source/",
-        "resumo": "Anthropic PBC today launched a program that brings its frontier models and onsite engineers to the security companies protecting power grids, water systems and other critical infrastructure. OSS Scanner, launched with it, offers open-source projects free peri…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/anthropiccybermission.png"
-    },
-    {
-        "titulo": "US disrupts Chinese hacking tools as 7 govts warn of PRC spies stealing sensitive data worldwide",
-        "fonte": "Theregister.com",
-        "autor": "Jessica Lyons",
-        "data": "2026-10-08",
-        "url": "https://www.theregister.com/security/2026/10/08/us-disrupts-chinese-hacking-tools-as-7-govts-warn-of-prc-spies-stealing-sensitive-data-worldwide/5302107",
-        "resumo": "Infecting devices from 2021 until the FBI stepped in",
-        "imagem": "https://image.theregister.com/5288224.jpg?imageId=5288224&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
     }
 ]
