@@ -1,5 +1,59 @@
 [
     {
+        "titulo": "Security Affairs newsletter Round 599 by Pierluigi Paganini – INTERNATIONAL EDITION",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-10-11",
+        "url": "https://securityaffairs.com/200752/breaking-news/security-affairs-newsletter-round-599-by-pierluigi-paganini-international-edition.html",
+        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including international press. Anthropic Re…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/09/securityaffairs-newsletter.jpg"
+    },
+    {
+        "titulo": "Cryptomining malware that locates its control server in a GitHub poem has hit more than 3,400 servers, researchers say",
+        "fonte": "Toms Hardware UK",
+        "autor": "Shane Downing",
+        "data": "2026-10-11",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/cryptomining-malware-used-poetry-to-infect-more-than-3-400-servers-researchers-say-four-words-in-the-poellm-verse-changed-11-times-point-the-botnet-to-new-servers",
+        "resumo": "Lumen&#x27;s Black Lotus Labs says PoeLLM malware has hit more than 3,400 servers, most of them exposed AI tools like LiteLLM and Ollama.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/aqPrPS4qzkg5HW3n7K9Ypn-809-80.png"
+    },
+    {
+        "titulo": "From Engaged to Destructive Exceptionalism: The United States and the ICC",
+        "fonte": "Opiniojuris.org",
+        "autor": "Brianne McGonigle Leyh",
+        "data": "2026-10-11",
+        "url": "http://opiniojuris.org/2026/10/11/from-engaged-to-destructive-exceptionalism-the-united-states-and-the-icc/",
+        "resumo": "[Brianne McGonigle Leyh is Professor of Global Justice Studies at Utrecht University’s School of Law and leads the university’s Global Justice Investigations Lab. She co-directs the Netherlands Institute of Human Rights (SIM), is a member of the Montaigne Cen…",
+        "imagem": "https://i0.wp.com/opiniojuris.org/wp-content/uploads/ICCFeature.jpg?fit=864%2C573"
+    },
+    {
+        "titulo": "U.S. CISA adds ProFTPD, ONLYOFFICE Docs, Strapi, Apache Struts, and ISC BIND flaws to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-10-11",
+        "url": "https://securityaffairs.com/200734/security/u-s-cisa-adds-proftpd-onlyoffice-docs-strapi-apache-struts-and-isc-bind-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds ProFTPD, ONLYOFFICE Docs, Strapi, Apache Struts, and ISC BIND to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the followin…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "Week in review: FortiBleed is still active, Patch Tuesday forecast",
+        "fonte": "Help Net Security",
+        "autor": "Help Net Security",
+        "data": "2026-10-11",
+        "url": "https://www.helpnetsecurity.com/2026/10/11/week-in-review-fortibleed-is-still-active-patch-tuesday-forecast/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Three questions a hospital CISO should ask a healthcare fintech vendor In this Help Net Security interview, Drew McCombs, CTO and CISO at Cylerity, explains how …",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/16184416/week-in-review2.jpg"
+    },
+    {
+        "titulo": "A timeline of developments in AI safety since the attack on Hugging Face",
+        "fonte": "Abcnews.com",
+        "autor": "BARBARA ORTUTAY AP technology writer",
+        "data": "2026-10-10",
+        "url": "https://abcnews.com/Technology/wireStory/timeline-developments-ai-safety-attack-hugging-face-137161979",
+        "resumo": "Since OpenAI disclosed this summer that its artificial intelligence system hacked into another AI company in what is now referred to as the Hugging Face incident, other AI companies have jumped on the bandwagon with their own concerning events, such as...",
+        "imagem": "https://i.abcnewsfe.com/a/f6cd4179-b0e9-4d98-a3f0-2f501aacb309/wirestory_f590b51073d8977a984c7c42b8f2a7a2_16x9.jpg?w=1600"
+    },
+    {
         "titulo": "Anthropic restricts internet access in internal AI evaluations after Claude bypasses safeguards, accesses websites - The Tribune",
         "fonte": "The Tribune India",
         "autor": "Ani",
@@ -124,59 +178,5 @@
         "url": "https://www.forrester.com/blogs/sam-an-acid-test-for-ai/",
         "resumo": "Earlier this year, I had a conversation with Andreas Gieseke and Ragip Aydin of Raynet, about software asset management and the specific value of generative AI there. Now, I spent some years at one of the largest US banks as the consulting architect for softw…",
         "imagem": "https://go.forrester.com/wp-content/uploads/2022/03/FMK_FORR_GenericSocialImage_220314.jpg"
-    },
-    {
-        "titulo": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-09",
-        "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
-        "resumo": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133 (CVSS v4 s…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMpbMY9pFBnt6TekKFIlEqpeqQoPBjBuhu8rYuYtU7ce5P3LTFKwlv_F_BUDzfuuMu0gRU645YStocoUQnNtS11MoEIRrfxrgPZtShsFgr8YH1VYTtjPr2l6aHPFDBYPHJKLT-fa-KqaHGSJHeiDPKzUgA12IJH5zhAHpMnoGZc5Qsz9sJhCOB_3gYHQar/s1700-nu-rw-lo-l85-e365/edge.jpg"
-    },
-    {
-        "titulo": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-10-09",
-        "url": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
-        "resumo": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/09/SonicWall-headpic.jpg"
-    },
-    {
-        "titulo": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-09",
-        "url": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known as Flax Typhoon. The vulnerabilities in qu…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7eHv-Bv5ZZISuomW-aV50jkJ7Aqg-S56iEuV2y8Kl9w7SB4cp-zTDj8WicvMzPcw5tXuq-o5rIG0KPPmKxPZPcR5V47hVwbGvi7aLNE_1wgq_iDkNERTzz5kc9ivagiHEKM9BcsYjJRRB0_HWk_gsi9jzHudV_-4Ax4dUFaV5vpDlUnW2PywmEZHzN8mm/s1700-nu-rw-lo-l85-e365/kevs.jpg"
-    },
-    {
-        "titulo": "Cybersecurity Risk Oversight in the Age of AI",
-        "fonte": "Harvard School of Engineering and Applied Sciences",
-        "autor": "Martin Lipton, Martin Lipton",
-        "data": "2026-10-09",
-        "url": "https://corpgov.law.harvard.edu/2026/10/09/cybersecurity-risk-oversight-in-the-age-of-ai/",
-        "resumo": "As advanced AI models — and autonomous AI “agents” — grow more capable, so do the associated corporate cybersecurity risks. Atincreasingly modest cost, AIsystems can now identify and exploit latent software vulnerabilities, such as by planting malicious code …",
-        "imagem": "https://corpgov.law.harvard.edu/wp-content/uploads/2021/03/new-shield-facebook.png"
-    },
-    {
-        "titulo": "In open source cybersecurity, AI is kind of a problem — but it can also be a solution",
-        "fonte": "TechRadar",
-        "autor": "Sead Fadilpašić",
-        "data": "2026-10-09",
-        "url": "https://www.techradar.com/pro/security/in-open-source-cybersecurity-ai-is-kind-of-a-problem-but-it-can-also-be-a-solution",
-        "resumo": "Approximately 66,000 unique entries are expected to emerge in 2026 , many boosted or even created by AI.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/hsp2hXrMRpqTNDhd2ZFJof-970-80.jpg"
-    },
-    {
-        "titulo": "US Disrupts China-Linked Integrity Tech ‘s Cyber Espionage Tools",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-10-09",
-        "url": "https://securityaffairs.com/200673/security/us-disrupts-china-linked-integrity-tech-cyber-espionage-tools.html",
-        "resumo": "DOJ and FBI seized China-linked hacking tools Microscan and FishHub, linked to Integrity Tech and attacks on critical infrastructure worldwide. The Justice Department and FBI took down two hacking tools this week, Microscan and FishHub, both built and run by …",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg"
     }
 ]
