@@ -1,5 +1,149 @@
 [
     {
+        "titulo": "Meet the modders porting ringfenced DLSS features to older GPUs",
+        "fonte": "Toms Hardware UK",
+        "autor": "sayem.ahmed@futurenet.com (Sayem Ahmed) , Sayem Ahmed",
+        "data": "2026-10-12",
+        "url": "https://www.tomshardware.com/pc-components/gpus/meet-the-modders-porting-ringfenced-dlss-features-to-older-gpus-how-dlss-5-and-multi-frame-generation-were-unlocked-for-older-architectures",
+        "resumo": "DLSS Multi-Frame Generation and DLSS 5 Neural Rendering can now run on hardware never intended for it, at least according to Nvidia. Now, two of the modders foundational to the release of these community advancements speak out.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/HaHzvifkTWtmuLrdYTBfPe-1920-80.jpg"
+    },
+    {
+        "titulo": "Cyberattack shuts down refrigerators at French supermarkets",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-10-12",
+        "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+        "resumo": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/12/supermarket-empty-fridges.jpg"
+    },
+    {
+        "titulo": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-10-12",
+        "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+        "resumo": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That&#x27;s not much time to read the warning, let alone do something about it. But speed is only part of the proble…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv97S5d5aYZZRto-_3AfPjT2TmAcI0KYQm4zY7cXyf1hz-GHIcmuL9wF5IIzmg3D7_F-yh6Z9qtamVwEikSKd3tuy5eGo_mN2Qw-O602x4Abiwuf5Q9G72nX4ZOeFRly8woPJ8EBn2USmFIdDUVg6P-3f8nUPDTbcqrAF5JWsu_NRWTvz6EF5YVVqPrbvY/s1700-nu-rw-lo-l85-e365/cy-cap.jpg"
+    },
+    {
+        "titulo": "SonicWall Patches CVSS 10.0 SSRF Flaw as Attacks Begin",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-10-12",
+        "url": "https://securityaffairs.com/200816/hacking/sonicwall-patches-cvss-10-0-ssrf-flaw-as-attacks-begin.html",
+        "resumo": "Attackers are exploiting SonicWall SMA 1000 vulnerability, tracked as CVE-2026-102255 (CVSS score of 10.0), just days after its public disclosure. Attackers have begun exploiting a critical flaw in SonicWall SMA 1000 appliances, tracked as CVE-2026-102255 (CV…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/10/SonicWall.png"
+    },
+    {
+        "titulo": "GitLab warns of max severity code execution vulnerability",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-10-12",
+        "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
+        "resumo": "GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/12/GitLab.jpg"
+    },
+    {
+        "titulo": "Continuum AI Introduces OrcaCyber Zero 1.5, a Frontier Cybersecurity Reasoning Model",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-10-12",
+        "url": "https://www.prnewswire.com/news-releases/continuum-ai-introduces-orcacyber-zero-1-5--a-frontier-cybersecurity-reasoning-model-302905663.html",
+        "resumo": "Updated model reports 95.8% on CVE-Bench and 100% on Cybench, advancing autonomous vulnerability discovery, exploit validation and remediation. SAN FRANCISCO, Oct. 12, 2026 /PRNewswire/ -- Continuum AI announced OrcaCyber Zero 1.5, its latest frontier cyberse…",
+        "imagem": "https://mmx.prnewswire.com/media/MS2011230/image1.jpg?id=OA3012845&p=facebook"
+    },
+    {
+        "titulo": "Building a Safer, More Secure Britain in the age of AI",
+        "fonte": "Www.gov.uk",
+        "autor": "Cabinet Office",
+        "data": "2026-10-12",
+        "url": "https://www.gov.uk/government/speeches/building-a-safer-more-secure-britain-in-the-age-of-ai",
+        "resumo": "Speech delivered by the Minister for Artificial Intelligence",
+        "imagem": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+    },
+    {
+        "titulo": "Imagine there&#x27;s no Shiny Hunters – AI could make human hacking crews obsolete",
+        "fonte": "Theregister.com",
+        "autor": "Brandon Vigliarolo",
+        "data": "2026-10-12",
+        "url": "https://www.theregister.com/security/2026/10/12/imagine-theres-no-shiny-hunters-ai-could-make-human-hacking-crews-obsolete/5302430",
+        "resumo": "This week on The Kettle, we discuss some arrests and how Mythos&#x27; mathematical expertise has led to a second exploited bug that no human would have found",
+        "imagem": "https://image.theregister.com/5295418.jpg?imageId=5295418&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+        "titulo": "Net Closes Around ShinyHunters with Another FBI Arrest",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Phil Muncaster",
+        "data": "2026-10-12",
+        "url": "https://www.infosecurity-magazine.com/news/net-closes-shinyhunters-another/",
+        "resumo": "The FBI has arrested a Canadian cybersecurity executive as it continues its crackdown on ShinyHunters",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/438124df-2f7e-4997-9ea8-0c7771952104.jpeg"
+    },
+    {
+        "titulo": "How China and America Can Move from Competition to Stability",
+        "fonte": "War on the Rocks",
+        "autor": "Michael D. Swaine",
+        "data": "2026-10-12",
+        "url": "https://warontherocks.com/how-china-and-america-can-move-from-competition-to-stability/",
+        "resumo": "The American team thought it was signaling restraint. The Chinese team saw preparations for combat. In a closed-door Sino-American crisis simulation I helped organize in the 2010s — which the U.S. military funded as part of a long-term project — the Americans…",
+        "imagem": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-47940-cd509647fa6c.jpg"
+    },
+    {
+        "titulo": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-10-12",
+        "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+        "resumo": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine. The activity, which brings toge…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjQWPc2H2EsKbjYztfxdp2ffZz6TGQNJ9BuALJB44sWqXbCxEa61fu5CZ4w1rS0llVr3hQP4H_Vg5Fj87Jrs5IoUDpBmochh3rA5bMMr3V4hUT22HTPgLUeX9WhGIQuFm4zF-Kf3zIzSNsQGQlP_gkSSSV-hu5rp5CHX_1T83TOeWsYia_xbuHLlwAxDv/s1700-nu-rw-lo-l85-e365/claude-hacker.jpg"
+    },
+    {
+        "titulo": "Geopolitics and the cyber resilience gap belong in your threat model",
+        "fonte": "Help Net Security",
+        "autor": "Mirko Zorz",
+        "data": "2026-10-12",
+        "url": "https://www.helpnetsecurity.com/2026/10/12/akshay-joshi-wef-cyber-resilience-gap/",
+        "resumo": "In this Help Net Security interview, Akshay Joshi, Head of the Centre for Cybersecurity at the World Economic Forum, talks about how AI, geopolitics and industrialized fraud are changing cyber risk. He discusses findings from the Global Cybersecurity Outlook …",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/08105701/akshay_joshi-2-wef.webp"
+    },
+    {
+        "titulo": "Google&#x27;s Open-Source Bug Bounty Program Has A Big AI Problem",
+        "fonte": "BGR",
+        "autor": "staff@bgr.com (Ian Garland)",
+        "data": "2026-10-12",
+        "url": "https://www.bgr.com/2280043/google-open-source-bug-bounty-freeze-explained/",
+        "resumo": "The internet is being flooded with all types of AI, including music, writing, social media posts, and even low-quality cybersecurity research.",
+        "imagem": "https://www.bgr.com/img/gallery/googles-open-source-bug-bounty-program-has-a-big-ai-problem/l-intro-1791386614.jpg"
+    },
+    {
+        "titulo": "Federal Agencies Face Today’s Deadline to Patch Five Flax Typhoon CVEs Spanning a Decade",
+        "fonte": "Forkast.news",
+        "autor": "Heath Callahan",
+        "data": "2026-10-11",
+        "url": "https://forkast.news/federal-agencies-face-todays-deadline-to-patch-five-flax-typhoon-cves-spanning-a-decade/",
+        "resumo": "Federal agencies face a hard deadline today, October 11, 2026, to remediate or discontinue use of five specific software products identified by CISA as actively exploited by the threat actor Flax Typhoon, also known as Ethereal Panda or Red Juliett. The Known…",
+        "imagem": "https://forkast.news/wp-content/uploads/2026/10/flax-typhoon-cisa-kev-v2-1024x572.jpg"
+    },
+    {
+        "titulo": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
+        "fonte": "Cointelegraph",
+        "autor": "Cointelegraph by Andrew Fenton",
+        "data": "2026-10-11",
+        "url": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest",
+        "resumo": "Tampered Ledger reported in Europe following last week’s attacks in Asia. Security firm uses AI to uncover “$94 billion” XRP bug, but receives just a $250K bounty. Hodler’s Digest",
+        "imagem": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4PCWNDZ4KC7D9SH89H62G5A/updated-cover-collage-oct-9.png"
+    },
+    {
+        "titulo": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 3",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-10-11",
+        "url": "https://securityaffairs.com/200794/ai/security-affairs-ai-cybersecurity-newsletter-round-3.html",
+        "resumo": "Security Affairs AI-CYBERSECURITY newsletter includes a collection of the best articles and research on AI in the international landscape Artificial intelligence is rapidly changing cybersecurity, reshaping both the techniques used by attackers and the tools …",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/09/Security-Affairs-NewsLetter-AI-Cyber.jpg"
+    },
+    {
         "titulo": "Security Affairs newsletter Round 599 by Pierluigi Paganini – INTERNATIONAL EDITION",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
@@ -34,149 +178,5 @@
         "url": "https://securityaffairs.com/200734/security/u-s-cisa-adds-proftpd-onlyoffice-docs-strapi-apache-struts-and-isc-bind-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
         "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds ProFTPD, ONLYOFFICE Docs, Strapi, Apache Struts, and ISC BIND to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the followin…",
         "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "Week in review: FortiBleed is still active, Patch Tuesday forecast",
-        "fonte": "Help Net Security",
-        "autor": "Help Net Security",
-        "data": "2026-10-11",
-        "url": "https://www.helpnetsecurity.com/2026/10/11/week-in-review-fortibleed-is-still-active-patch-tuesday-forecast/",
-        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Three questions a hospital CISO should ask a healthcare fintech vendor In this Help Net Security interview, Drew McCombs, CTO and CISO at Cylerity, explains how …",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/16184416/week-in-review2.jpg"
-    },
-    {
-        "titulo": "A timeline of developments in AI safety since the attack on Hugging Face",
-        "fonte": "Abcnews.com",
-        "autor": "BARBARA ORTUTAY AP technology writer",
-        "data": "2026-10-10",
-        "url": "https://abcnews.com/Technology/wireStory/timeline-developments-ai-safety-attack-hugging-face-137161979",
-        "resumo": "Since OpenAI disclosed this summer that its artificial intelligence system hacked into another AI company in what is now referred to as the Hugging Face incident, other AI companies have jumped on the bandwagon with their own concerning events, such as...",
-        "imagem": "https://i.abcnewsfe.com/a/f6cd4179-b0e9-4d98-a3f0-2f501aacb309/wirestory_f590b51073d8977a984c7c42b8f2a7a2_16x9.jpg?w=1600"
-    },
-    {
-        "titulo": "Anthropic restricts internet access in internal AI evaluations after Claude bypasses safeguards, accesses websites - The Tribune",
-        "fonte": "The Tribune India",
-        "autor": "Ani",
-        "data": "2026-10-10",
-        "url": "https://www.tribuneindia.com/news/business/anthropic-restricts-internet-access-in-internal-ai-evaluations-after-claude-bypasses-safeguards-accesses-websites/",
-        "resumo": "Artificial intelligence company Anthropic has restricted live internet access across its internal evaluations after discovering instances of its Claude models bypassing safeguards, exploiting software vulnerabilities and accessing systems on real-world websit…",
-        "imagem": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZmZmJhZmEwLWM0OTYtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc="
-    },
-    {
-        "titulo": "Anthropic restricts internet access in internal AI evaluations after Claude bypasses safeguards",
-        "fonte": "BusinessLine",
-        "autor": "ANI",
-        "data": "2026-10-10",
-        "url": "https://www.thehindubusinessline.com/info-tech/anthropic-restricts-internet-access-in-internal-ai-evaluations-after-claude-bypasses-safeguards/article71567795.ece",
-        "resumo": "Anthropic says its investigation uncovered several instances of unintended model behaviour, prompting it to expand its review beyond cybersecurity evaluations",
-        "imagem": "https://bl-i.thgim.com/public/incoming/pekcex/article71473869.ece/alternates/LANDSCAPE_1200/2026-09-16T142733Z_2095445683_RC2QRLAPLIUT_RTRMADP_3_AI-SAFETY-MICROSOFT-SULEYMAN.JPG"
-    },
-    {
-        "titulo": "CVE-2026-Wordpress",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-10-10",
-        "url": "https://kitploit.com/en/tools/github/horkimhab/cve-2026-wordpress/",
-        "resumo": "Educational CVE proof-of-concept collection targeting WordPress vulnerabilities, with setup scripts and lab guidance for authorized security research and testing.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/57194/ddfa35164b85a0fb34c2c426bd87e5d3a34db58ea5d1598a293d4838a5bf85b7-social-v1.webp"
-    },
-    {
-        "titulo": "Telegram Desktop vulnerability allowed any user&#x27;s file to be stolen",
-        "fonte": "Github.io",
-        "autor": "",
-        "data": "2026-10-10",
-        "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-        "resumo": "An unescaped separator in Telegram Desktop’s single-instance IPC lets one clicked link read arbitrary files off the disk and send them to the attacker, session files included.",
-        "imagem": "https://beaksec.github.io/assets/img/posts/telegram-desktop-one-click-account-takeover/cover.png"
-    },
-    {
-        "titulo": "We Have Entered a Cybersecurity Hellscape, Japan Warns",
-        "fonte": "Gizmodo.com",
-        "autor": "AJ Dellinger",
-        "data": "2026-10-09",
-        "url": "https://gizmodo.com/we-have-entered-a-cybersecurity-hellscape-japan-warns-2000824268",
-        "resumo": "Worse than Godzilla.",
-        "imagem": "https://gizmodo.com/app/uploads/2023/07/91e7b149916f72f40c19c600ada2fdfa.jpg"
-    },
-    {
-        "titulo": "p0tools",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-10-09",
-        "url": "https://kitploit.com/en/tools/github/googleprojectzero/p0tools/",
-        "resumo": "Collection of Google Project Zero vulnerability research documents and small standalone security tools, including exploitation and virtualization-based analysis utilities.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/57183/cb5d5bdc50ef9e54a91d5b2aa172f7dc21dcdcb974acb1187ae5930a29eeed94-social-v1.webp"
-    },
-    {
-        "titulo": "EY data breach puts spotlight on data security at Big Four as clients demand tighter controls",
-        "fonte": "The Times of India",
-        "autor": "Vinod Mahanta and Himanshi Lohchab",
-        "data": "2026-10-09",
-        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/ey-data-breach-puts-spotlight-on-data-security-at-big-four-as-clients-demand-tighter-controls/articleshow/134840789.cms",
-        "resumo": "EY has reported a data breach that exposed sensitive client information and prompted regulatory notifications in multiple jurisdictions. This incident has raised concerns among top professional services firms regarding the protection of client data. Experts e…",
-        "imagem": "https://img.etimg.com/thumb/msid-134841222,width-1200,height-900,imgsize-66486,overlay-economictimes/articleshow.jpg"
-    },
-    {
-        "titulo": "Lean SuperIntelligence (LSI) Closes Initial Financing and Announces First Self-Improving, On-Premise, Lean Cybersecurity Models Beyond Mythos™",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-10-09",
-        "url": "https://www.prnewswire.com/news-releases/lean-superintelligence-lsi-closes-initial-financing-and-announces-first-self-improving-on-premise-lean-cybersecurity-models-beyond-mythos-302903760.html",
-        "resumo": "Self-improving cybersecurity LLMs do offense–defense interplay in customizable on-prem deployments and run at massively lower cost. PALO ALTO, Calif., Oct. 9, 2026 /PRNewswire/ -- Lean SuperIntelligence (LSI) is the first AI lab to build self-improving offens…",
-        "imagem": "https://mmx.prnewswire.com/media/MS2006008/lsi-social-avatar-2048.jpg?id=OA2997871&p=facebook"
-    },
-    {
-        "titulo": "7 Director, US Marketing - Surgical Robotics Resume Templates with Example",
-        "fonte": "Resumeinminutes.com",
-        "autor": "Ria",
-        "data": "2026-10-09",
-        "url": "https://resumeinminutes.com/en-US/blog/director-us-marketing-surgical-robotics-resume/",
-        "resumo": "Build a Director, US Marketing - Surgical Robotics resume with ATS-friendly structure, role-specific keywords, examples, and free PDF downloads.",
-        "imagem": "https://content.resumeinminutes.com/templates/images/blogimages/en-US/director-us-marketing-surgical-robotics-resume/png/director-us-marketing-surgical-robotics-resume-og.png"
-    },
-    {
-        "titulo": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-09",
-        "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-        "resumo": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. &quot;Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-walle…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-SCb1qpP1Z0zyo_WOtyHzQKUiqJ3RudpC9uowSePmGcLZ9sPHcE-lvDGMZTHeB7YckgDmaBA775L13GvrYHl_gAVSg46-5sUJWzcA7Q3ec5h8WIuKO5l0Td2CCk5nlSvNByqPL22qlTNwHms3rbdXsJYoEe7gRqHiqmM8DHtvEkKniOP4Q70Dq_5Dr8I/s1700-nu-rw-lo-l85-e365/ios.jpg"
-    },
-    {
-        "titulo": "Rein Security’s $25M Series A Points to Where the Agent Security Demand Is Really Biting",
-        "fonte": "Forkast.news",
-        "autor": "Dana Ellison",
-        "data": "2026-10-09",
-        "url": "https://forkast.news/rein-securitys-25m-series-a-points-to-where-the-agent-security-demand-is-really-biting/",
-        "resumo": "With eightfold revenue growth since January and named enterprise customers like Lemonade and Dun &amp; Bradstreet, Rein&#x27;s Series A is the clearest signal yet that the agent governance gap is a buying event. The startup&#x27;s runtime-sidecar architecture — which sits …",
-        "imagem": "https://forkast.news/wp-content/uploads/2026/10/rein-security-25m-series-a-1024x687.jpg"
-    },
-    {
-        "titulo": "Leveraging MITRE ATT&amp;CK TTPs for Threat-Informed SecOps: A Fortinet Perspective",
-        "fonte": "Fortinet.com",
-        "autor": "Douglas Santos",
-        "data": "2026-10-09",
-        "url": "https://www.fortinet.com/blog/security-operations/leveraging-mitre-att-ck-ttps-for-threat-informed-secops-a-fortinet-perspective",
-        "resumo": "Learn how Fortinet applies MITRE ATT&amp;CK TTPs and actionable threat intelligence to help SecOps teams identify gaps and strengthen detection and response…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Ukraine hits two Yandex data centres in back-to-back drone strikes",
-        "fonte": "Crypto Briefing",
-        "autor": "Diego Almada Lopez",
-        "data": "2026-10-09",
-        "url": "https://cryptobriefing.com/ukraine-drone-strikes-yandex-data-centres/",
-        "resumo": "The strikes highlight the vulnerability of digital infrastructure in modern conflicts, potentially prompting shifts in cybersecurity strategies. The post Ukraine hits two Yandex data centres in back-to-back drone strikes appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg"
-    },
-    {
-        "titulo": "SAM: An acid test for AI",
-        "fonte": "Forrester.com",
-        "autor": "Charles Betz",
-        "data": "2026-10-09",
-        "url": "https://www.forrester.com/blogs/sam-an-acid-test-for-ai/",
-        "resumo": "Earlier this year, I had a conversation with Andreas Gieseke and Ragip Aydin of Raynet, about software asset management and the specific value of generative AI there. Now, I spent some years at one of the largest US banks as the consulting architect for softw…",
-        "imagem": "https://go.forrester.com/wp-content/uploads/2022/03/FMK_FORR_GenericSocialImage_220314.jpg"
     }
 ]
