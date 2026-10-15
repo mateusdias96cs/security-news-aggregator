@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "ZCS Command Injection via SNMP Handlers Enables Unauthenticated Remote Code Execution",
-        "fonte": "InfoQ.com",
-        "autor": "Olimpiu Pop",
-        "data": "2026-10-13",
-        "url": "https://www.infoq.com/news/2026/10/zimbra-command-injection/",
-        "resumo": "A critical remote command execution vulnerability in the Zimbra Collaboration Suite, identified as CVE-2026-73570, poses risks by allowing unauthorized access to mailbox data and credentials. This flaw, stemming from improper input sanitization, has been acti…",
-        "imagem": "https://res.infoq.com/news/2026/10/zimbra-command-injection/en/headerimage/headerZimbra-1791879318550.jpg"
+        "titulo": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-10-14",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/14/Ivanti.jpg"
     },
     {
-        "titulo": "Inductive Automation Ignition Software",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-10-13",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-286-01",
-        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow an authenticated low-level user to escalate their privileges to a higher level. The following versions of Inductive Automation Ignition Software are affected: Ignition &gt;=8.1.…",
-        "imagem": ""
-    },
-    {
-        "titulo": "On the front lines of a breach with Cisco Talos Incident Response",
-        "fonte": "Cisco.com",
-        "autor": "Kevin Delaney",
-        "data": "2026-10-13",
-        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/on-the-front-lines-of-a-breach-with-cisco-talos-incident-response.html",
-        "resumo": "Cisco’s Yuri Kramarz, on coordinating cutting-edge technology and human expertise in the critical hours after a cyberattack.More RSS Feeds: https://newsroom.cisco.com/c/r/newsroom/en/us/rss-feeds.html",
-        "imagem": "https://newsroom.cisco.com/c/dam/r/newsroom/en/us/assets/a/y2026/m10/YuriKramarz_thumbnail.jpg"
-    },
-    {
-        "titulo": "Swann Communications SWIFI-SE2KIC",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-10-13",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-286-02",
-        "resumo": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to view video information without authentication. The following versions of Swann Communications SWIFI-SE2KIC are affected: SWIFI-SE2KIC firmware …",
-        "imagem": ""
-    },
-    {
-        "titulo": "Hackers Heat French Supermarket Fridges, Sparking Fires and Spoiling Food",
-        "fonte": "Insurance Journal",
-        "autor": "Admin",
-        "data": "2026-10-13",
-        "url": "https://www.insurancejournal.com/news/international/2026/10/13/888709.htm",
-        "resumo": "Hackers raised the temperature of refrigerators and freezers at hundreds of French supermarkets to as high as 50 degrees Celsius (122 degrees Fahrenheit) overnight, causing fires and spoiling food. The Paris prosecutor’s office said Oct. 12 a “large-scale” at…",
-        "imagem": "https://www.insurancejournal.com/app/uploads/2023/11/cyber-attack-scaled.jpg"
-    },
-    {
-        "titulo": "&#x27;Unprecedented&#x27; Cyberattack Targets France&#x27;s Food",
-        "fonte": "Newser",
-        "autor": "Arden Dier with Newser.AI",
-        "data": "2026-10-13",
-        "url": "https://www.newser.com/story/398007/unprecedented-cyberattack-targets-frances-food.html",
-        "resumo": "Around 500 supermarkets in France have been forced to toss fresh and frozen food after a cyberattack targeting their refrigeration systems. Major chains including Intermarché, E. Leclerc, Cooperative U, and Carrefour say a cyberattack remotely cranked up temp…",
-        "imagem": "https://cdn.newser.com/image/1717558-12-20261013053149.jpeg"
-    },
-    {
-        "titulo": "Fifth of CISOs Take Time Off to Avoid Patch Tuesday",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Phil Muncaster",
-        "data": "2026-10-13",
-        "url": "https://www.infosecurity-magazine.com/news/fifth-cisos-take-time-off-avoid/",
-        "resumo": "Socura report claims CISOs are calling in sick or taking holiday to miss Patch Tuesday",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/dbf7902f-198f-4256-a582-16ba55646528.jpeg"
-    },
-    {
-        "titulo": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
+        "titulo": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-13",
-        "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-        "resumo": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said. The attackers reached them through the controller that runs al…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh64tQNgn3aqDhyphenhyphengoK8NxQG3DPvWWi0fP185meJUr14eUmcX18mKJdkUz6QsMU6bTxmwAtHrd8I0J5FQjvTENA1-N1F60zsR1x2iDzaJNhPbg_6iGYTELpBOwiTbBiaMWLmWQ4naaMfCLCcThNEfC302zF-YCjlev6138DvUrXfr5noGCpZaT9JnGd7hUw/s1700-nu-rw-lo-l85-e365/supermarket.jpg"
+        "data": "2026-10-14",
+        "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an actively expl…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBUpsAaH4Pe-HlsDhdSH5KK3VgWm9NEXXLNBOpxxp4d8WMZwSNNyPALzuapR_iUlq3-dLDe2bnPJfh42cdfH5m3LQWGKXZvHF3sYacyDbtZacKIIoluyNgP01-6bjjEz-RBhAQqxw-VHGD7gpn3ToRulgeH0ydeWXOucoK4hLBwvXtlCg81tB1scdjPbKN/s1700-nu-rw-lo-l85-e365/i-h.jpg"
     },
     {
-        "titulo": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-13",
-        "url": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
-        "resumo": "Two of 31 newly disclosed flaws in Progress Software&#x27;s MarkLogic Server database could let an account given only some management privileges take administrator control of the server, the company says. Progress published all 31 on October 12 and scored five of…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvGRzVYOU1S12WE6ja5ZSrhInOGaNdwCGGwWch1oJn_SDtoy90ycGVjd-JeDjwSSH8XDzKlkoKsu_vlND1iW0aWJgEqf3Ti18goDI0yXeaLbF2DHrokj8Qdvm1kHEi8wqdm6_axRi17PVBqtlgFWLpZnv6Eufx_bFMkpWcnz6ymbQI4IDB7lgYi3QrZ7w/s1700-nu-rw-lo-l85-e365/amrk.jpg"
+        "titulo": "TVs, appliances could become launchpads for AI-driven attacks: Anthropic",
+        "fonte": "Business Standard",
+        "autor": "Sweta Kumari",
+        "data": "2026-10-14",
+        "url": "https://www.business-standard.com/technology/artificial-intelligence/tvs-appliances-could-become-launchpads-for-ai-driven-attacks-anthropic-126101400917_1.html",
+        "resumo": "Anthropic research finds small AI models can perform steps needed for self-replication across devices. Experts are of the view that these early warnings should not be taken lightly",
+        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/14/thumb/featurecrop/1200X628/1791977222-4609.jpg"
     },
     {
-        "titulo": "Entrust Says Millions of AI Agents Will Test the Limits of Enterprise Controls",
-        "fonte": "pymnts.com",
-        "autor": "PYMNTS",
-        "data": "2026-10-13",
-        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/entrust-says-millions-ai-agnts-test-limits-enterprise-controls/",
-        "resumo": "Watch more: Building a Trusted Foundation for Agentic AI Companies have spent the past several years making it possible for employees to safely use artificial intelligence to retrieve information, summarize documents and generate recommendations. Agentic AI i…",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/10/SB1for10.13.png?quality=82"
+        "titulo": "Update Windows: Record Patch Tuesday fixes flaw already under attack",
+        "fonte": "Malwarebytes.com",
+        "autor": "Pieter Arntz",
+        "data": "2026-10-14",
+        "url": "http://www.malwarebytes.com/blog/bugs/2026/10/update-windows-record-patch-tuesday-fixes-flaw-already-under-attack",
+        "resumo": "Microsoft’s October updates address a record 1,413 vulnerabilities, including a Windows flaw attackers are already exploiting and two other zero-days.",
+        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/02/microsoftlogo.jpg"
     },
     {
-        "titulo": "Hackers cranked French supermarkets’ freezers up to 50 degrees, causing hundreds of stores to lose their stock",
+        "titulo": "Sutter Health’s Seul Says Defending Against AI Agents Means Paying Down Security Technical Debt",
+        "fonte": "Healthsystemcio.com",
+        "autor": "Anthony Guerra",
+        "data": "2026-10-14",
+        "url": "https://healthsystemcio.com/2026/10/14/ai-agents-security-technical-debt/",
+        "resumo": "Matt Seul, Principal Information Security Architect at Sutter Health, says AI-driven attacks can exploit familiar weaknesses at much greater speed and scale. Discussing the Hugging Face incident, he identifies connections between AI models and other systems a…",
+        "imagem": "https://healthsystemcio.com/wp-content/uploads/2026/10/ai-agent-reasoning-token-costs-linkedin-featured.jpg"
+    },
+    {
+        "titulo": "Volexity Uncovers Stealthy Ivanti VPN Attack Using Three Zero-Day Vulnerabilities",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
-        "data": "2026-10-13",
-        "url": "https://securityaffairs.com/200863/hacking/hackers-cranked-french-supermarkets-freezers-up-to-50-degrees-causing-hundreds-of-stores-to-lose-their-stock.html",
-        "resumo": "Hackers hit French supermarkets via unpatched Danfoss refrigeration systems, remote-heating freezers and destroying stock worth millions. Overnight from Sunday to Monday, a large cyberattack hit the refrigeration systems of hundreds of French supermarkets, BF…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/10/image-29.png"
+        "data": "2026-10-14",
+        "url": "https://securityaffairs.com/200895/hacking/volexity-uncovers-stealthy-ivanti-vpn-attack-using-three-zero-day-vulnerabilities.html",
+        "resumo": "Ivanti VPN zero-days let attackers gain root access, steal credentials, evade detection, and prepare for wider network compromise. On October 5, Volexity started investigating suspicious activity at one of its monitoring customers and traced everything back t…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2023/07/Ivanti-logo.png"
     },
     {
-        "titulo": "How third-party systems leave supermarkets vulnerable to cyber attacks",
-        "fonte": "ABC News (AU)",
-        "autor": "Dannielle Maguire",
-        "data": "2026-10-13",
-        "url": "https://www.abc.net.au/news/2026-10-13/france-supermarket-hack-freezer-fridge-australia/107259028",
-        "resumo": "Experts say the incident demonstrates a shift in the cybersecurity threat landscape.",
-        "imagem": "https://live-production.wcms.abc-cdn.net.au/6fdfa0c839252af49bf31b301da545bf?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=157&width=862&height=485&imformat=generic"
+        "titulo": "AI linked to 84% of ransomware attacks, new report finds",
+        "fonte": "CBS News",
+        "autor": "Nicole Sganga",
+        "data": "2026-10-14",
+        "url": "https://www.cbsnews.com/news/ai-linked-ransomeware-attacks-global-cybersecurity-report/",
+        "resumo": "Amid escalating threats to businesses, former White House cyber chief warns autonomous attacks are already here.",
+        "imagem": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/13/63fab2d8-c9cd-4a8e-92c7-ec924923c5a9/thumbnail/1200x630/31245f072c714698e621190d5ebf3d94/gettyimages-2296886688.jpg"
     },
     {
-        "titulo": "Be a good AI ancestor: Cybersecurity already gave us the playbook",
-        "fonte": "Help Net Security",
-        "autor": "Help Net Security",
-        "data": "2026-10-13",
-        "url": "https://www.helpnetsecurity.com/2026/10/13/cybersecurity-ai-safety-red-lines/",
-        "resumo": "AI has brought us to a familiar inflection point in the story of privacy, cybersecurity, and online safety. We have an opportunity to apply decades of cybersecurity experience before the next generation of technology creates consequences we cannot easily reve…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/02135045/ai-1500-2.webp"
-    },
-    {
-        "titulo": "Cybersecurity jobs available right now: October 13, 2026",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-10-13",
-        "url": "https://www.helpnetsecurity.com/2026/10/13/cybersecurity-jobs-available-right-now-october-13-2026/",
-        "resumo": "Here are the worldwide cybersecurity job openings available as of October 13, 2026, including on-site, hybrid, and remote roles.",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140413/cybersecurity_jobs-2-1500.webp"
-    },
-    {
-        "titulo": "Cyberattack targets French supermarket fridges, sparks fires, spoils food",
-        "fonte": "Business Standard",
-        "autor": "Reuters",
-        "data": "2026-10-13",
-        "url": "https://www.business-standard.com/world-news/cyberattack-targets-french-supermarket-fridges-sparks-fires-spoils-food-126101300161_1.html",
-        "resumo": "A cyberattack targeting connected refrigeration systems spoiled food and sparked fires at supermarkets across France, prompting a national investigation",
-        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/13/thumb/featurecrop/1200X628/1791863873-2493.JPG"
-    },
-    {
-        "titulo": "France supermarket cyberattack: How hackers turned fridges into furnaces at 122 degrees and what it reveals about connected devices",
-        "fonte": "The Times of India",
-        "autor": "Trending Desk",
-        "data": "2026-10-13",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/france-supermarket-cyberattack-how-hackers-turned-fridges-into-furnaces-at-122-degrees-and-what-it-reveals-about-connected-devices/articleshow/134906714.cms",
-        "resumo": "A cyberattack on French supermarket chains reportedly manipulated connected refrigeration systems, forcing some units to heat up to 50°C. The incident affected hundreds of stores, caused food losses and was linked to reports of fires. French authorities are i…",
-        "imagem": "https://img.etimg.com/thumb/msid-134907105,width-1200,height-900,imgsize-232484,overlay-economictimes/articleshow.jpg"
-    },
-    {
-        "titulo": "‘Unprecedented’ cyberattack hits French supermarkets, causing food losses",
-        "fonte": "Al Jazeera English",
-        "autor": "Al Jazeera Staff",
-        "data": "2026-10-13",
-        "url": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses",
-        "resumo": "Hackers raise temperatures in supermarket fridges, sparking fires and spoiling food in &#x27;large-scale&#x27; cyberattack.",
-        "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6acd7f210c-1791852321.jpg?resize=1920%2C1440"
-    },
-    {
-        "titulo": "New Singapore cybersecurity strategy to tap &#x27;best available&#x27; AI models for cyber defence",
-        "fonte": "CNA",
+        "titulo": "Ukraine showed Trump how easily an enemy could cripple an AI powerhouse",
+        "fonte": "Fox News",
         "autor": "",
-        "data": "2026-10-13",
-        "url": "https://www.channelnewsasia.com/singapore/shanmugam-cybersecurity-strategy-csa-ai-6452641",
-        "resumo": "To prepare for AI-enabled cyber threats, Singapore will seek to act earlier, at national scale and at the speed of malicious attackers, says Senior Minister K Shanmugam.",
-        "imagem": "https://dam.mediacorp.sg/image/upload/s--TrB_0FRm--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/13/img_9856.jpg?itok=opYoPesz"
+        "data": "2026-10-14",
+        "url": "https://www.foxnews.com/opinion/ukraine-showed-trump-how-easily-enemy-could-cripple-ai-powerhouse",
+        "resumo": "Ukraine&#x27;s drone attacks on three Yandex data centers in four days exposed how adversaries can cripple artificial intelligence without defeating software.",
+        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/ukrainian-soldiers-drones.jpg"
     },
     {
-        "titulo": "Hackers heat French supermarket fridges, sparking fires and spoiling food",
-        "fonte": "New York Post",
-        "autor": "Reuters",
-        "data": "2026-10-12",
-        "url": "https://nypost.com/2026/10/12/business/hackers-heat-french-supermarket-fridges-sparking-fires-and-spoiling-food/",
-        "resumo": "The Paris prosecutor&#x27;s office said that a &quot;large-scale&quot; attack was &quot;affecting connected refrigerators in several major food retailers across France,&quot; leading to food losses and fires.",
-        "imagem": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-11hpk6tkg-1791845642120.jpg?quality=75&strip=all&1791831255&w=1200"
+        "titulo": "Attackers chained three Ivanti zero-days to gain root on fully patched VPN appliances",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-10-14",
+        "url": "https://www.helpnetsecurity.com/2026/10/14/ivanti-zero-days-gain-root-patched-vpn-appliances/",
+        "resumo": "A threat actor has been using an exploit chain combining three vulnerabilities in Ivanti’s Connect Secure (ICS) appliances to breach organizations, collect credentials, exfiltrate configuration data, and perform network reconnaissance. “In the first week of O…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/09/25140511/ivanti-2-1500.webp"
     },
     {
-        "titulo": "Meta releases Muse Wonder AI models built to run personal and professional agents",
+        "titulo": "Google launches Gemini 4 Argon for complex coding and science tasks",
+        "fonte": "Verdict",
+        "autor": "Anwesha Pattanaik",
+        "data": "2026-10-14",
+        "url": "https://www.verdict.co.uk/google-launches-gemini-4-argon/",
+        "resumo": "Alphabet’s Google has announced global availability of its Gemini 4 Argon AI model for developers and businesses.",
+        "imagem": "https://www.techmonitor.ai/wp-content/uploads/sites/29/2026/10/Gemini-4-Argon-b9155cab23f5e9b74b40e097d4c5ae85.jpg"
+    },
+    {
+        "titulo": "A fridge hack spoiled food in hundreds of French supermarkets. Cybersecurity experts say it&#x27;s a wake-up call",
+        "fonte": "CBC News",
+        "autor": "Abby Hughes",
+        "data": "2026-10-14",
+        "url": "https://www.cbc.ca/news/business/france-fridge-hack-smart-devices-food-system-9.7379613",
+        "resumo": "The cyberattack on French supermarkets earlier this week that left hundreds of fridges worth of food spoiled should be a wake-up call about the vulnerabilities of digitized systems and devices that are connected to the internet, cybersecurity experts say.",
+        "imagem": "https://i.cbc.ca/ais/efeeeac2-0ae0-4de8-9f37-6d7ef572df16,1791930798301/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C375%2C4240%2C2385%29%3BResize%3D620"
+    },
+    {
+        "titulo": "Billion-Dollar Companies Twice as Likely to Leave Critical Vulnerabilities Unpatched",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Kevin Poireault",
+        "data": "2026-10-14",
+        "url": "https://www.infosecurity-magazine.com/news/companies-leave-critical/",
+        "resumo": "New Chainguard research reveals larger companies struggle to patch vulnerabilities due to business priorities and operational disruption",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/11a43fa6-4400-4e71-bef2-52c6f842e12c.jpg"
+    },
+    {
+        "titulo": "Microsoft fixes exploited Mark of the Web bypass vulnerability (CVE-2026-96951)",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-10-14",
+        "url": "https://www.helpnetsecurity.com/2026/10/14/microsoft-patch-tuesday-cve-2026-96951-motw-bypass/",
+        "resumo": "In another record-breaking Patch Tuesday, Microsoft has squashed over 1,400 security bugs, including a Mark of the Web bypass vulnerability (CVE-2026-96951) exploited by attackers in the wild. CVE-2026-96951 is a command injection vulnerability in Windows She…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/12193556/patch-tuesday-1500.webp"
+    },
+    {
+        "titulo": "The French Freezer Hack Wasn’t Really a Cyberattack … It Was an Invitation",
+        "fonte": "Naturalnews.com",
+        "autor": "Mike Adams",
+        "data": "2026-10-14",
+        "url": "https://www.naturalnews.com/2026-10-14-french-freezer-hack-wasnt-really-a-cyberattack.html",
+        "resumo": "When Your Password is Today’s Date, You’re Inviting Intrusions I’ve read the headlines streaming out of France this week, and I don’t buy the scary, sophisticated-hacker framing for a second. Hundreds of French supermarkets had their fridges and freezers hija…",
+        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/cybersecurity-critical-infrastructure-decentralization-5103-3506ac6c-original.jpg"
+    },
+    {
+        "titulo": "Chainguard puts Claude Mythos on flaw hunting, secures coding agents and widens Libraries",
         "fonte": "SiliconANGLE News",
         "autor": "Duncan Riley",
-        "data": "2026-10-12",
-        "url": "https://siliconangle.com/2026/10/12/meta-releases-muse-wonder-ai-models-built-to-run-personal-and-professional-agents/",
-        "resumo": "Meta Platforms Inc. today released Muse Wonder and Muse Wonder Full, two artificial intelligence models it says are its most capable yet at running agents that handle personal and professional tasks. Meta aimed the release at the longer, multistep jobs people…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/musewonder.png"
+        "data": "2026-10-14",
+        "url": "https://siliconangle.com/2026/10/14/chainguard-puts-claude-mythos-on-flaw-hunting-secures-coding-agents-and-widens-libraries/",
+        "resumo": "Secure software supply chain solution provider Chainguard Inc. today unveiled a vulnerability-hunting service that uses frontier artificial intelligence models such as Anthropic PBC’s Claude Mythos 5.1, as well as two products for securing AI coding agents an…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/chainguard.png"
+    },
+    {
+        "titulo": "Introducing Chainguard Libraries for Go and .NET: Secure Endpoints to Protect Organizations from Supply Chain Attacks",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-10-14",
+        "url": "https://www.prnewswire.com/news-releases/introducing-chainguard-libraries-for-go-and-net-secure-endpoints-to-protect-organizations-from-supply-chain-attacks-302907708.html",
+        "resumo": "Chainguard Libraries now includes CVE remediation for JavaScript and Go; customers also receive protections from frontier AI-discovered zero-days once they are made public SEATTLE, Oct. 14, 2026 /PRNewswire/ -- Chainguard, the trusted source for open source, …",
+        "imagem": "https://mmx.prnewswire.com/media/MS684620/Chainguard-Logo.jpg?id=OA3017454&p=facebook"
+    },
+    {
+        "titulo": "Chainguard Research: Nine in Ten Security Leaders Say AI Attacks Have Changed Their Job More Than Anything in a Decade, but the Ability to Act Hasn&#x27;t Kept Pace",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-10-14",
+        "url": "https://www.prnewswire.com/news-releases/chainguard-research-nine-in-ten-security-leaders-say-ai-attacks-have-changed-their-job-more-than-anything-in-a-decade-but-the-ability-to-act-hasnt-kept-pace-302907743.html",
+        "resumo": "Survey of 1,300 security leaders finds 77% expect an attacker to exploit a vulnerability at their organization in the next year, while 54% say their companies knowingly leave high or critical vulnerabilities unpatched at least sometimes KIRKLAND, Wash., Oct. …",
+        "imagem": "https://mmx.prnewswire.com/media/MS684620/Chainguard-Logo.jpg?id=OA3017502&p=facebook"
+    },
+    {
+        "titulo": "Why AI makes computer worms harder to stop",
+        "fonte": "The Times of India",
+        "autor": "AFP",
+        "data": "2026-10-14",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/why-ai-makes-computer-worms-harder-to-stop/articleshow/134932397.cms",
+        "resumo": "Anthropic&#x27;s warning that AI-powered &quot;worms&quot; could soon spread across smart gadgets is the latest in a series of studies showing how artificial intelligence could supercharge self-spreading malware. A computer worm is malicious software that spreads between de…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-43334,resizemode-75,msid-134932397/tech/artificial-intelligence/why-ai-makes-computer-worms-harder-to-stop.jpg"
+    },
+    {
+        "titulo": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-10-14",
+        "url": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+        "resumo": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows, 134 in Office, 61 in Developer Tools, 3…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_wUoSEpf7bMmgL7Aa7NRI6qvluN83g3TcKAONrL5REtzYQIVR4TqrNs0awkDsRCXvaSEaOn83V0t1jpwkrh5FULBjyQJnxe-m4gkgjMHRC0SZHpkBDNjOSuZUrOXU5R6JGt4dwZXXn4JHYSoc4n22nIXcFIYtC51Vv89hGimRebEKzQ9-PX1U7M4Lk4ST/s1700-nu-rw-lo-l85-e365/windows-patch.jpg"
+    },
+    {
+        "titulo": "The hidden risks of AI&#x27;s increasingly helpful agents",
+        "fonte": "TechRadar",
+        "autor": "ESchwartzwrites@gmail.com (Eric Hal Schwartz) , Eric Hal Schwartz",
+        "data": "2026-10-14",
+        "url": "https://www.techradar.com/ai-platforms-assistants/ai-can-be-dangerous-without-being-evil-why-ais-increasingly-helpful-agents-could-be-a-problem",
+        "resumo": "AI&#x27;s increasingly independent AI agents promise to make life easier, but recent incidents show how even well-intentioned AI can become dangerous when it takes too much initiative",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/3tRBimMNAKcWDeDFdoqd2C-1920-80.jpg"
     }
 ]
