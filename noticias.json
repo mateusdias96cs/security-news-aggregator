@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "CISA Malcolm",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-10-15",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-280-01",
-        "resumo": "View CSAF Summary The following versions of CISA Malcolm are affected: Malcolm Malcolm CVSS Vendor Equipment v3 8.1 CISA Malcolm &lt;/…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Warning Over High-Risk Vulnerabilities in Widely Used LLM Gateway Tool",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Danny Palmer",
-        "data": "2026-10-15",
-        "url": "https://www.infosecurity-magazine.com/news/high-risk-vulnerabilities-llm-tool/",
-        "resumo": "CVE-2026-35029 and CVE-2026-59823 affect LiteLLM, which is commonly used by enterprises to connect their AI applications to providers like OpenAI and Anthropic",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/8483b93b-e849-4300-97b4-7e6cd6c2599c.jpeg"
-    },
-    {
-        "titulo": "CISA flags exploited flaws in Palo Alto, Cisco and Ahsay products",
-        "fonte": "Help Net Security",
-        "autor": "Sinisa Markovic",
-        "data": "2026-10-15",
-        "url": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
-        "resumo": "The US Cybersecurity and Infrastructure Security Agency (CISA) has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog: CVE-2026-0322, a high-severity remote code execution (RCE) vulnerability in the management interface of Pal…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/29150033/vulnerability-danger.webp"
-    },
-    {
-        "titulo": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
-        "fonte": "Citizenlab.ca",
-        "autor": "",
-        "data": "2026-10-15",
-        "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-        "resumo": "This is the first-ever public confirmation of zero-click mercenary spyware delivered via targeted ads. We call the technique AdFection, and show how it was used to infect devices at Al Jazeera with Candiru’s spyware. We also uncover Discover-Tech, and show ho…",
-        "imagem": "https://citizenlab.ca/wp-content/uploads/2026/10/discover-report_updated-01-e1792025505984.png"
-    },
-    {
-        "titulo": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
-        "fonte": "Cointelegraph",
-        "autor": "Cointelegraph by Zoltan Vardai",
-        "data": "2026-10-15",
-        "url": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3",
-        "resumo": "Crypto hacks in Q3 rose 55% from the previous quarter, with 77% of the losses driven by compromised suppliers, developer tools and other infrastructure components outside security audits.",
-        "imagem": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZBJQX8RA4RZN02APHYTQFS/hi-cybercrime-task-force-monitors-the-global-digital-financial-system.jpg"
-    },
-    {
-        "titulo": "Cybersecurity of over-the-air update mechanisms for vehicles",
-        "fonte": "Kaspersky.com",
-        "autor": "Kaspersky ICS CERT Team",
-        "data": "2026-10-15",
-        "url": "https://ics-cert.kaspersky.com/publications/reports/2026/10/15/cybersecurity-of-over-the-air-update-mechanisms-for-vehicles/?utm_source=ics-cert.kaspersky.com&utm_mediumrss&utm_campaignmain",
-        "resumo": "How to ensure security across ECU software update campaigns, prevent update package tampering, and minimize potential damage to connected vehicles",
-        "imagem": "https://ics-cert.kaspersky.com/wp-content/uploads/sites/27/2021/10/kaspersky-ics-cert-logo-2021-facebook.png"
-    },
-    {
-        "titulo": "secbox",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-10-15",
-        "url": "https://kitploit.com/en/tools/github/yv1ing/secbox",
-        "resumo": "Conducting cybersecurity testing using the pi agent in a pre-built sandbox environment.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/57481/5567ea607f8a9638def6eef84911834206db3ccd2dc08f727fb207cd3dfd77e7-social-v1.webp"
-    },
-    {
-        "titulo": "West African ethics offer a framework for AI regulation",
-        "fonte": "Lse.ac.uk",
-        "autor": "Mark Briggs",
-        "data": "2026-10-15",
-        "url": "https://blogs.lse.ac.uk/africaatlse/2026/10/15/west-african-ethics-offer-a-framework-for-ai-regulation/",
-        "resumo": "Akan relational ethics offers a clear answer to the threats of increasingly autonomous AI. Technological capability must remain answerable to human wellbeing, human relationships, and the communities that bear its risks, writes Stephen Nkansah Morgan. In June…",
-        "imagem": "https://blogsmedia.lse.ac.uk/blogs.dir/18/files/2026/10/pexels-mikhail-nilov-9301500.jpg"
-    },
-    {
-        "titulo": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-15",
-        "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-        "resumo": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management i…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4G5JAIF-hCnKf9QyWLzWIWxTrUIjqshujDHf0-_9m84O9f4S0Z-IQ4Jg-T11Ph_rwZvzsFU8Z-pI3uRsnvPSE-FK_VtrUx0pNZgHKf3PuMJCQmwopiE5hyMRSObeV7_VSrF7WC_iiG9T8wMNivOOBC12F7bLK8WI-MNjCffolAJnnhk-X-v1ecxwYtrQz/s1700-nu-rw-lo-l85-e365/palo.jpg"
-    },
-    {
-        "titulo": "Survey: AI Tools Linked to Rise in Ransomware Attacks",
-        "fonte": "Naturalnews.com",
-        "autor": "Edison Reed",
-        "data": "2026-10-15",
-        "url": "https://www.naturalnews.com/2026-10-15-ai-tools-linked-rise-in-ransomware-attacks.html",
-        "resumo": "More than 80% of ransomware victims in a new survey reported that their attackers had weaponized artificial intelligence as part of the scheme, according to data made public Wednesday [1]. The 2026 Ransomware Risk Report, produced by cybersecurity company Sem…",
-        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/artificial-intelligence-ransomware-attacks-cybersecurity-professionals-5174-83531755-original.jpg"
-    },
-    {
-        "titulo": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
-        "fonte": "Cointelegraph",
-        "autor": "Cointelegraph by Ezra Reguerra",
-        "data": "2026-10-15",
-        "url": "https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges",
-        "resumo": "South Korea plans tighter cybersecurity rules after incidents involving 16 financial firms, including crypto exchanges Gopax and Prabang.",
-        "imagem": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Z1KM9Q4QJVB0NC8VRX5GG8/south-korea-coin-1.jpg"
-    },
-    {
-        "titulo": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Lawrence Abrams",
-        "data": "2026-10-14",
-        "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
-        "resumo": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2024/10/09/Palo-Alto-Networks.jpg"
-    },
-    {
-        "titulo": "Cisco make-me-root email bug exploited as a 0-day by unknown crims",
-        "fonte": "Theregister.com",
-        "autor": "Jessica Lyons",
-        "data": "2026-10-14",
-        "url": "https://www.theregister.com/security/2026/10/14/cisco-make-me-root-email-bug-exploited-as-a-0-day-by-unknown-crims/5303168",
-        "resumo": "Both Switchzilla and CISA sound the alarm",
-        "imagem": "https://image.theregister.com/4094206.jpg?imageId=4094206&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-    },
-    {
-        "titulo": "U.S. CISA adds Microsoft Windows Shell flaw to its Known Exploited Vulnerabilities catalog",
+        "titulo": "U.S. CISA adds Atlassian flaw to its Known Exploited Vulnerabilities catalog",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
-        "data": "2026-10-14",
-        "url": "https://securityaffairs.com/200965/hacking/u-s-cisa-adds-microsoft-windows-shell-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Microsoft Windows Shell flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Microsoft Windows Shell flaw, tracked as CV…",
+        "data": "2026-10-16",
+        "url": "https://securityaffairs.com/201086/hacking/u-s-cisa-adds-atlassian-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Atlassian flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added an Atlassian flaw, tracked as CVE-2026-21589 (CVSS score of…",
         "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
     },
     {
-        "titulo": "Threat Intelligence Market to Reach USD 24,108.25 Million by 2032 Amid AI-Driven Cyberthreats and Faster Incident Response - Credence Research",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-10-14",
-        "url": "https://www.prnewswire.com/news-releases/threat-intelligence-market-to-reach-usd-24-108-25-million-by-2032-amid-ai-driven-cyberthreats-and-faster-incident-response--credence-research-302909034.html",
-        "resumo": "NOIDA, India, Oct. 14, 2026 /PRNewswire/ -- The &quot;Threat Intelligence Market – Growth, Share, Opportunities &amp; Competitive Analysis, 2024–2032&quot; report has been added to the Credence Research Inc. offering. The global Threat Intelligence Market was valued at USD…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1622339/Credence-Research-Logo.jpg?id=OA3019803&p=facebook"
-    },
-    {
-        "titulo": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
+        "titulo": "BeyondTrust patches zero-day exploited in attacks since August",
         "fonte": "BleepingComputer",
         "autor": "Sergiu Gatlan",
-        "data": "2026-10-14",
-        "url": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
-        "resumo": "Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/14/Cisco.jpg"
+        "data": "2026-10-16",
+        "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
+        "resumo": "BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/16/BeyondTrust.jpg"
     },
     {
-        "titulo": "The AI Security Paradox – How Shadow AI Became the Enterprise’s Biggest Blind Spot",
-        "fonte": "Cisco.com",
-        "autor": "Jerzy &quot;Yuri&quot; Kramarz",
-        "data": "2026-10-14",
-        "url": "https://blogs.cisco.com/ai/the-ai-security-paradox-how-shadow-ai-became-the-enterprises-biggest-blind-spot",
-        "resumo": "AI adoption inside the enterprise is no longer waiting for governance to catch up. Employees are already using generative AI to write code, summarize documents, analyze data, draft communications, and automate routine work, often through tools and..",
-        "imagem": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/Futuristic-AI-Security-War-Room.png"
+        "titulo": "Advantech Partners with DEKRA, Signing MOU to Strengthen Global Industrial Cybersecurity Compliance in Response to EU CRA",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-10-16",
+        "url": "https://www.prnewswire.com/news-releases/advantech-partners-with-dekra-signing-mou-to-strengthen-global-industrial-cybersecurity-compliance-in-response-to-eu-cra-302910960.html",
+        "resumo": "TAIPEI, Oct. 16, 2026 /PRNewswire/ -- As the European Union&#x27;s Cyber Resilience Act (CRA) enters its implementation phase, cybersecurity compliance is becoming an increasingly important requirement for industrial equipment and Edge AI products entering global …",
+        "imagem": "https://mmx.prnewswire.com/media/MS2014839/20261016011311EDT_image_1.jpg?id=OA3023087&p=facebook"
     },
     {
-        "titulo": "OpenAI CFO Sarah Friar warns businesses about cybersecurity risks in Chinese AI models",
-        "fonte": "Crypto Briefing",
-        "autor": "Diego Almada Lopez",
-        "data": "2026-10-14",
-        "url": "https://cryptobriefing.com/openai-cfo-warns-chinese-ai-models-cybersecurity/",
-        "resumo": "Businesses must balance cost and security, as reliance on cheaper AI models could heighten vulnerability to cyber threats, impacting trust. The post OpenAI CFO Sarah Friar warns businesses about cybersecurity risks in Chinese AI models appeared first on Crypt…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg"
+        "titulo": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-10-16",
+        "url": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
+        "resumo": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4),…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMvdc6m999SfUEEWC89wHnBiUX9WAMCSdWtbFP_lrH4DuREHfOJL7G29LkM4uAvittg3XsHxnq6dq_VEX1zB_jCGi5RJDbQZlrq37gHSCXpRrn11FEN-hezQn0Dt4Xcw4DcanklKW_8iLEnQN6JpzkQ7JHBOS1_dMzDAs2h_jJcWDqOGjbkMoeabOCkSFK/s1700-nu-rw-lo-l85-e365/f.jpg"
     },
     {
-        "titulo": "Rogers, TMU expand cybersecurity training with clinics for nonprofits",
-        "fonte": "MobileSyrup",
-        "autor": "Matthew Mountjoy",
-        "data": "2026-10-14",
-        "url": "https://mobilesyrup.com/2026/10/14/rogers-tmu-cyber-clinics-training-nonprofits/",
-        "resumo": "A Canadian university’s cybersecurity training centre is launching a national cyber clinic initiative to offer hands-on experience and access to cybersecurity support for community organizations. Toronto Metropolitan University’s (TMU) Rogers Cybersecure Cata…",
-        "imagem": "https://images2026.mobilesyrup.com/uploads/2026/10/cyber-clinics-canada-header-scaled.jpg"
+        "titulo": "Google warns suspected China-linked hackers could exploit BeyondTrust flaw",
+        "fonte": "BusinessLine",
+        "autor": "Reuters",
+        "data": "2026-10-16",
+        "url": "https://www.thehindubusinessline.com/info-tech/google-warns-suspected-china-linked-hackers-could-exploit-beyondtrust-flaw/article71590970.ece",
+        "resumo": "Suspected China-linked group Armory Castle exploited the flaw in August, prompting calls for swift patching",
+        "imagem": "https://bl-i.thgim.com/public/incoming/m1gsoe/article71505568.ece/alternates/LANDSCAPE_1200/2025-10-22T150111Z_1317640514_RC2CF5AXDTYS_RTRMADP_3_GOOGLE-QUANTUM.JPG"
     },
     {
-        "titulo": "French cybersecurity authority warns attack may be ongoing as stores scramble to restock",
-        "fonte": "Abcnews.com",
-        "autor": "JOHN LEICESTER Associated Press, MIKE CORDER Associated Press",
-        "data": "2026-10-14",
-        "url": "https://abcnews.com/International/wireStory/french-cybersecurity-authority-warns-attack-ongoing-stores-scramble-137256642",
-        "resumo": "Supermarkets in France and the Netherlands are dealing with the aftermath of a cyberattack that disrupted refrigeration systems",
-        "imagem": "https://i.abcnewsfe.com/a/d2e6dd08-6cfd-449f-82c6-e4369da217cf/wirestory_81c2d5721f4df77f601f71741ef7c291_16x9.jpg?w=1600"
+        "titulo": "The Trouble With Words, The Architecture Of Meaning, And General Vulnerability",
+        "fonte": "Americanthinker.com",
+        "autor": "",
+        "data": "2026-10-16",
+        "url": "https://www.americanthinker.com/articles/2026/10/the-trouble-with-words-the-architecture-of-meaning-and-general-vulnerability/",
+        "resumo": "Photo Credit: AuthorBy David DeMayMeanwhile, computer programs continue to battle it out for mastery.",
+        "imagem": "https://images.americanthinker.com/9l/9lkqwlv4p4kmlnopy3jf_1200.jpg"
+    },
+    {
+        "titulo": "Google warns suspected China-linked hackers could exploit BeyondTrust flaw",
+        "fonte": "The Times of India",
+        "autor": "Reuters",
+        "data": "2026-10-16",
+        "url": "https://economictimes.indiatimes.com/tech/technology/google-warns-suspected-china-linked-hackers-could-exploit-beyondtrust-flaw/articleshow/134980729.cms",
+        "resumo": "Google warned on Thursday that organizations should prepare for &quot;potential widespread exploitation&quot; after a new bug was found in US cybersecurity firm BeyondTrust&#x27;s remote support appliances.",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-7777135,resizemode-75,msid-134980729/tech/technology/google-warns-suspected-china-linked-hackers-could-exploit-beyondtrust-flaw.jpg"
+    },
+    {
+        "titulo": "The ‘C’ in CFO Now Stands for Cybersecurity, Thanks to AI",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-10-16",
+        "url": "https://www.pymnts.com/cybersecurity/2026/the-c-in-cfo-now-stands-for-cybersecurity-thanks-to-ai/",
+        "resumo": "Cybersecurity has always been an arms race. Artificial intelligence (AI) is turning it into a war of attrition, where the winner may be whoever can afford to keep fighting the longest. On Thursday (Oct. 15), for example, Sarah Breeden, deputy governor of the …",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/10/Cybersecurity-Financial-Officer-b2b-AI.png?quality=82"
+    },
+    {
+        "titulo": "Architect of digital confidence: Why privacy engineering for AI systems is becoming its own discipline",
+        "fonte": "Digital Journal",
+        "autor": "Mae Cornes",
+        "data": "2026-10-15",
+        "url": "https://www.digitaljournal.com/article/architect-of-digital-confidence-why-privacy-engineering-for-ai-systems-is-becoming-its-own-discipline/",
+        "resumo": "&quot;In this moment, digital confidence depends less on how much data a system can collect and more on whether people believe that, when it touches their lives, someone has actually thought through the risks to their rights,&quot; says Modupe Akintan, a Privacy and AI…",
+        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2026/10/TechTO-11-30.png"
+    },
+    {
+        "titulo": "AI Helped Steal Thousands of Credentials in Under Six Hours. Former Google Security Leader Bryan Vuong Is Fighting Back",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-10-15",
+        "url": "https://www.prnewswire.com/news-releases/ai-helped-steal-thousands-of-credentials-in-under-six-hours-former-google-security-leader-bryan-vuong-is-fighting-back-302910676.html",
+        "resumo": "As FBI figures show nearly $21 billion in U.S. internet-crime losses, Silicon Valley cybersecurity startup Cyfendo is using AI to help smaller businesses find software vulnerabilities, investigate real threats and prepare tested fixes for developer approval. …",
+        "imagem": "https://mmx.prnewswire.com/media/MS2014501/Cyfendo-Founder-in-Modern-Tech-Office.jpg?id=OA3022303&p=facebook"
+    },
+    {
+        "titulo": "Can businesses trust autonomous AI to defend them from cyber threats?",
+        "fonte": "Digital Journal",
+        "autor": "Dr. Tim Sandle",
+        "data": "2026-10-15",
+        "url": "https://www.digitaljournal.com/article/can-businesses-trust-autonomous-ai-to-defend-them-from-cyber-threats/",
+        "resumo": "Almost half of organisations surveyed by Flashpoint are already using or piloting agentic AI in threat intelligence, but security leaders appear reluctant to give machines unrestricted autonomy. The post Can businesses trust autonomous AI to defend them from …",
+        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2024/02/f3294ae238a4cacdc85d1c617f1c539988e6acb0.jpg"
+    },
+    {
+        "titulo": "AI is now accelerating cyber threats faster than security teams can absorb them",
+        "fonte": "Digital Journal",
+        "autor": "Dr. Tim Sandle",
+        "data": "2026-10-15",
+        "url": "https://www.digitaljournal.com/article/ai-is-now-accelerating-cyber-threats-faster-than-security-teams-can-absorb-them/",
+        "resumo": "As artificial intelligence lowers barriers for attackers, new research suggests the problem for enterprise security is becoming one of capacity as much as technology. The post AI is now accelerating cyber threats faster than security teams can absorb them app…",
+        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2026/04/CyberAttack-Secirity-©AFP-800px-01.jpg"
+    },
+    {
+        "titulo": "IT downtime: The overlooked drag on Canadian productivity?",
+        "fonte": "Digital Journal",
+        "autor": "Dr. Tim Sandle",
+        "data": "2026-10-15",
+        "url": "https://www.digitaljournal.com/article/it-downtime-the-overlooked-drag-on-canadian-productivity/",
+        "resumo": "Canada’s productivity debate tends to focus on investment, innovation and new technology. Research points towards a more prosaic problem that Canadian organisations should consider: the economic cost of technology that employees cannot reliably use. The post …",
+        "imagem": ""
+    },
+    {
+        "titulo": "Reducing the noise: How Atlassian built an OCSF security lakehouse on Databricks",
+        "fonte": "Databricks.com",
+        "autor": "Taylor Kain, Zachary Schmerber (Atlassian), Niels Heijmans (Atlassian)",
+        "data": "2026-10-15",
+        "url": "https://www.databricks.com/blog/reducing-noise-how-atlassian-built-ocsf-security-lakehouse-databricks",
+        "resumo": "* 80% reduction in ingestion cost after standardizing security telemetry on OCSF * 500+ production threat-detection signals running on a single, unified schema * 60% increase in analyst productivity — one repeatable process across every tool * Up to 95% fa…",
+        "imagem": "https://www.databricks.com/sites/default/files/2026-01/databricks-genie-powers-conversational-insights-atlassian-rovo-og-image.png"
+    },
+    {
+        "titulo": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+        "fonte": "BleepingComputer",
+        "autor": "Bill Toulas",
+        "data": "2026-10-15",
+        "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+        "resumo": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/15/nextcloud.jpg"
+    },
+    {
+        "titulo": "Researchers warned attackers could &#x27;defrost the food&#x27; months before French supermarkets got hit",
+        "fonte": "Theregister.com",
+        "autor": "Jessica Lyons",
+        "data": "2026-10-15",
+        "url": "https://www.theregister.com/security/2026/10/15/researchers-warned-attackers-could-defrost-the-food-months-before-french-supermarkets-got-hit/5303425",
+        "resumo": "They tried to sound the alarm in August",
+        "imagem": "https://image.theregister.com/257960.jpg?imageId=257960&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+        "titulo": "U.S. CISA adds Palo Alto Networks PAN-OS, Ahsay AhsayCBS, and Cisco Secure Email Gateway flaws to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-10-15",
+        "url": "https://securityaffairs.com/201041/security/u-s-cisa-adds-palo-alto-networks-pan-os-ahsay-ahsaycbs-and-cisco-secure-email-gateway-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Palo Alto Networks PAN-OS, Ahsay AhsayCBS, and Cisco Secure Email Gateway flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) …",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "Self-replicating AI: Is your fridge a cybersecurity risk?",
+        "fonte": "DW (English)",
+        "autor": "Thomas Latschan",
+        "data": "2026-10-15",
+        "url": "https://www.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958",
+        "resumo": "Anthropic researchers warn that AI worms could soon target connected household devices and spread from one device to another. Cyberattacks on French supermarkets illustrate just how vulnerable such systems can be.",
+        "imagem": "https://static.dw.com/image/63141324_6.jpg"
+    },
+    {
+        "titulo": "The Q3 Vulnerability Pulse: Discovery ≠ Exploitation",
+        "fonte": "Talosintelligence.com",
+        "autor": "Thorsten Rosendahl",
+        "data": "2026-10-15",
+        "url": "https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/",
+        "resumo": "Is the cybersecurity world really facing a &quot;Bugmageddon?&quot; Thor breaks down the latest CVE and KEV trends in the latest Threat Source newsletter.",
+        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/threat_source-1.jpg"
+    },
+    {
+        "titulo": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+        "fonte": "Nvidia.com",
+        "autor": "Michelle Horton",
+        "data": "2026-10-15",
+        "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/",
+        "resumo": "Always-on agents are taking on longer, more complex enterprise workflows. A single request can involve reading a document, checking information across sources,...",
+        "imagem": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/Nemotron-3-5-Super-VL-e1792075881894.webp"
     }
 ]
