@@ -1,5 +1,68 @@
 [
     {
+        "titulo": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
+        "fonte": "Zscaler.com",
+        "autor": "Sai Nikhil Perla (Threat Researcher)",
+        "data": "2026-10-16",
+        "url": "https://www.zscaler.com/blogs/security-research/cve-2026-88771-inside-exploitation-critical-netscaler-rce-vulnerability",
+        "resumo": "IntroductionOn September 27, 2026, Citrix disclosed CVE-2026-88771, a critical remote code execution (RCE) vulnerability affecting NetScaler Application Delivery Controller (ADC) and NetScaler Gateway. The vulnerability carries a CVSS v3.1 score of 9.8 accord…",
+        "imagem": "https://cms.zscaler.com/sites/default/files/images/blogs/vulnerability.jpg"
+    },
+    {
+        "titulo": "What to expect during Dell’s ‘Cyber Resilience’ event: Join theCUBE Oct. 27",
+        "fonte": "SiliconANGLE News",
+        "autor": "Mark Albertson",
+        "data": "2026-10-16",
+        "url": "https://siliconangle.com/2026/10/16/data-protection-ai-cybersecurity-resilience-dell-thecube-aicybersecurityandresiliencesummit/",
+        "resumo": "Data protection and cyber resilience have emerged as foundational control layers for enterprise AI. This was one of the clear messages from the discussion at Dell Technologies World in Las Vegas earlier this year. Cyber recovery capabilities are linked to res…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Dell-Cyber-Resilience-AI-Cybersecurity-Resilience-Summit-2026-800x420.png"
+    },
+    {
+        "titulo": "RapidCanvas raises $29M to develop custom AI applications for enterprises",
+        "fonte": "SiliconANGLE News",
+        "autor": "Maria Deutscher",
+        "data": "2026-10-16",
+        "url": "https://siliconangle.com/2026/10/16/rapidcanvas-raises-29m-to-develop-custom-ai-applications-for-enterprises/",
+        "resumo": "Software development startup RapidCanvas Inc. today announced that it has raised $29 million in funding. Vertex Ventures SEA &amp; India led the Series B round with contributions from Hitachi Ventures, Accel, Peak XV Partners, Valley Capital Partners and Titanium…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Code.png"
+    },
+    {
+        "titulo": "Proofpoint Pays $6.3B for Varonis — The Largest Acquisition Explicitly Targeting AI Agent Data Security",
+        "fonte": "Forkast.news",
+        "autor": "Dana Ellison",
+        "data": "2026-10-16",
+        "url": "https://forkast.news/proofpoint-pays-6-3b-for-varonis-the-largest-acquisition-explicitly-targeting-ai-agent-data-security/",
+        "resumo": "A $6.3 billion all-cash price tag, representing a 52% premium over pre-rumor stock levels, tells a specific story about how the market values agent governance. When Proofpoint announced its acquisition of Varonis on October 15, 2026, the premium signaled that…",
+        "imagem": "https://forkast.news/wp-content/uploads/2026/10/forkast-132102-1024x687.jpg"
+    },
+    {
+        "titulo": "Sell-Off In Cybersecurity Stocks Intensifies Amid Palo Alto Vulnerability",
+        "fonte": "Biztoc.com",
+        "autor": "investors.com",
+        "data": "2026-10-16",
+        "url": "https://biztoc.com/x/86b2a227d1d053df",
+        "resumo": "Cybersecurity stocks sold off again on Friday amid a hacker vulnerability involving a Palo Alto Networks network firewall platform. The post Sell-Off In Cybersecurity Stocks Intensifies Amid Palo Alto Vulnerability appeared first on Investor&#x27;s Business Daily.",
+        "imagem": "https://biztoc.com/cdn/996/og.png"
+    },
+    {
+        "titulo": "As French Supermarkets Try to Restock, They Are Told Cyberattack May Be Ongoing",
+        "fonte": "Insurance Journal",
+        "autor": "Admin",
+        "data": "2026-10-16",
+        "url": "https://www.insurancejournal.com/news/international/2026/10/16/889220.htm",
+        "resumo": "France’s cybersecurity authority has warned that a cyberattack targeting supermarkets may still be ongoing as stores restocked Wednesday after the attack sent refrigerator temperatures soaring, raising concerns about the security of vital food supply chains. …",
+        "imagem": "https://www.insurancejournal.com/app/uploads/2026/10/French-grocery-shopper-AP-Photo-scaled.jpg"
+    },
+    {
+        "titulo": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
+        "fonte": "Al Jazeera English",
+        "autor": "Federica Marsi",
+        "data": "2026-10-16",
+        "url": "https://www.aljazeera.com/news/2026/10/16/how-israeli-firms-zero-click-malware-attack-poses-global-security-risk",
+        "resumo": "A new ‘zero-click’ hack uses ads to target victims without any action needed on their part.",
+        "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/10/IMG_5926-1-1792084347.jpg?resize=1920%2C1440"
+    },
+    {
         "titulo": "U.S. CISA adds Atlassian flaw to its Known Exploited Vulnerabilities catalog",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
@@ -115,68 +178,5 @@
         "url": "https://www.digitaljournal.com/article/it-downtime-the-overlooked-drag-on-canadian-productivity/",
         "resumo": "Canada’s productivity debate tends to focus on investment, innovation and new technology. Research points towards a more prosaic problem that Canadian organisations should consider: the economic cost of technology that employees cannot reliably use. The post …",
         "imagem": ""
-    },
-    {
-        "titulo": "Reducing the noise: How Atlassian built an OCSF security lakehouse on Databricks",
-        "fonte": "Databricks.com",
-        "autor": "Taylor Kain, Zachary Schmerber (Atlassian), Niels Heijmans (Atlassian)",
-        "data": "2026-10-15",
-        "url": "https://www.databricks.com/blog/reducing-noise-how-atlassian-built-ocsf-security-lakehouse-databricks",
-        "resumo": "* 80% reduction in ingestion cost after standardizing security telemetry on OCSF * 500+ production threat-detection signals running on a single, unified schema * 60% increase in analyst productivity — one repeatable process across every tool * Up to 95% fa…",
-        "imagem": "https://www.databricks.com/sites/default/files/2026-01/databricks-genie-powers-conversational-insights-atlassian-rovo-og-image.png"
-    },
-    {
-        "titulo": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
-        "fonte": "BleepingComputer",
-        "autor": "Bill Toulas",
-        "data": "2026-10-15",
-        "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
-        "resumo": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/15/nextcloud.jpg"
-    },
-    {
-        "titulo": "Researchers warned attackers could &#x27;defrost the food&#x27; months before French supermarkets got hit",
-        "fonte": "Theregister.com",
-        "autor": "Jessica Lyons",
-        "data": "2026-10-15",
-        "url": "https://www.theregister.com/security/2026/10/15/researchers-warned-attackers-could-defrost-the-food-months-before-french-supermarkets-got-hit/5303425",
-        "resumo": "They tried to sound the alarm in August",
-        "imagem": "https://image.theregister.com/257960.jpg?imageId=257960&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-    },
-    {
-        "titulo": "U.S. CISA adds Palo Alto Networks PAN-OS, Ahsay AhsayCBS, and Cisco Secure Email Gateway flaws to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-10-15",
-        "url": "https://securityaffairs.com/201041/security/u-s-cisa-adds-palo-alto-networks-pan-os-ahsay-ahsaycbs-and-cisco-secure-email-gateway-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Palo Alto Networks PAN-OS, Ahsay AhsayCBS, and Cisco Secure Email Gateway flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) …",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "Self-replicating AI: Is your fridge a cybersecurity risk?",
-        "fonte": "DW (English)",
-        "autor": "Thomas Latschan",
-        "data": "2026-10-15",
-        "url": "https://www.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958",
-        "resumo": "Anthropic researchers warn that AI worms could soon target connected household devices and spread from one device to another. Cyberattacks on French supermarkets illustrate just how vulnerable such systems can be.",
-        "imagem": "https://static.dw.com/image/63141324_6.jpg"
-    },
-    {
-        "titulo": "The Q3 Vulnerability Pulse: Discovery ≠ Exploitation",
-        "fonte": "Talosintelligence.com",
-        "autor": "Thorsten Rosendahl",
-        "data": "2026-10-15",
-        "url": "https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/",
-        "resumo": "Is the cybersecurity world really facing a &quot;Bugmageddon?&quot; Thor breaks down the latest CVE and KEV trends in the latest Threat Source newsletter.",
-        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/threat_source-1.jpg"
-    },
-    {
-        "titulo": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
-        "fonte": "Nvidia.com",
-        "autor": "Michelle Horton",
-        "data": "2026-10-15",
-        "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/",
-        "resumo": "Always-on agents are taking on longer, more complex enterprise workflows. A single request can involve reading a document, checking information across sources,...",
-        "imagem": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/Nemotron-3-5-Super-VL-e1792075881894.webp"
     }
 ]
