@@ -1,5 +1,50 @@
 [
     {
+        "titulo": "Security Affairs newsletter Round 600 by Pierluigi Paganini – INTERNATIONAL EDITION",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-10-18",
+        "url": "https://securityaffairs.com/201218/breaking-news/security-affairs-newsletter-round-600-by-pierluigi-paganini-international-edition.html",
+        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including international press. North Korean…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/09/securityaffairs-newsletter.jpg"
+    },
+    {
+        "titulo": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-10-18",
+        "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+        "resumo": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 te…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxTJ5xsWsmrBmF1q18Gi5uaokNeC6-M0VbSf0T5X3KMQH7QGMhC7mz4XB6TUJuE7P9tjknMAqaGQ-Iz_7UuQ-NdKKXJTgqLhHMipRcd57VUOpwfJ2xxO8Hq_PX8hotdp_KZddNDzfQFw3bLHbYYLasThNbqGlidzhZ485ApBIKh2KUgn4g6PeBbhMwhc0T/s1700-nu-rw-lo-l85-e365/ms-connect.jpg"
+    },
+    {
+        "titulo": "Week in review: Hidden implant in Ledger wallets linked to $93M theft, 1,500+ npm packages exposed",
+        "fonte": "Help Net Security",
+        "autor": "Help Net Security",
+        "data": "2026-10-18",
+        "url": "https://www.helpnetsecurity.com/2026/10/18/week-in-review-hidden-implant-in-ledger-wallets-linked-to-93m-theft-1500-npm-packages-exposed/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Strands Box: Open-source sandbox for AI agents AWS released Strands Box, an open source sandbox for AI agents that pairs operating-system isolation with rules th…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/16184227/week-in-review.jpg"
+    },
+    {
+        "titulo": "The Crypto devices built to foil hackers came with spies inside",
+        "fonte": "The Times of India",
+        "autor": "Bloomberg",
+        "data": "2026-10-18",
+        "url": "https://economictimes.indiatimes.com/news/international/business/the-crypto-devices-built-to-foil-hackers-came-with-spies-inside/articleshow/135024141.cms",
+        "resumo": "In Malaysia, CryptoBilis faces an investigation after numerous customers experienced thefts from hardware wallets. Reports from Ledger SAS link these crimes to a group of criminals who modified the wallets. Victims&#x27; losses total over $90 million, raising red …",
+        "imagem": "https://img.etimg.com/thumb/msid-135024206,width-1200,height-900,imgsize-54864,overlay-economictimes/articleshow.jpg"
+    },
+    {
+        "titulo": "Using an AI Agent Makes You a Sucker for Phishing Emails",
+        "fonte": "Futurism",
+        "autor": "Victor Tangermann",
+        "data": "2026-10-17",
+        "url": "https://futurism.com/artificial-intelligence/ai-agent-sucker-phishing-emails",
+        "resumo": "&quot;The real flaw is that the model can’t tell the difference between text it’s supposed to read and instructions it’s supposed to follow.&quot; The post Using an AI Agent Makes You a Sucker for Phishing Emails appeared first on Futurism.",
+        "imagem": "https://futurism.com/wp-content/uploads/2026/10/ai-agent-sucker-phishing-emails.jpg?quality=85&w=1200"
+    },
+    {
         "titulo": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
         "fonte": "Zscaler.com",
         "autor": "Sai Nikhil Perla (Threat Researcher)",
@@ -133,50 +178,5 @@
         "url": "https://www.pymnts.com/cybersecurity/2026/the-c-in-cfo-now-stands-for-cybersecurity-thanks-to-ai/",
         "resumo": "Cybersecurity has always been an arms race. Artificial intelligence (AI) is turning it into a war of attrition, where the winner may be whoever can afford to keep fighting the longest. On Thursday (Oct. 15), for example, Sarah Breeden, deputy governor of the …",
         "imagem": "https://www.pymnts.com/wp-content/uploads/2026/10/Cybersecurity-Financial-Officer-b2b-AI.png?quality=82"
-    },
-    {
-        "titulo": "Architect of digital confidence: Why privacy engineering for AI systems is becoming its own discipline",
-        "fonte": "Digital Journal",
-        "autor": "Mae Cornes",
-        "data": "2026-10-15",
-        "url": "https://www.digitaljournal.com/article/architect-of-digital-confidence-why-privacy-engineering-for-ai-systems-is-becoming-its-own-discipline/",
-        "resumo": "&quot;In this moment, digital confidence depends less on how much data a system can collect and more on whether people believe that, when it touches their lives, someone has actually thought through the risks to their rights,&quot; says Modupe Akintan, a Privacy and AI…",
-        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2026/10/TechTO-11-30.png"
-    },
-    {
-        "titulo": "AI Helped Steal Thousands of Credentials in Under Six Hours. Former Google Security Leader Bryan Vuong Is Fighting Back",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-10-15",
-        "url": "https://www.prnewswire.com/news-releases/ai-helped-steal-thousands-of-credentials-in-under-six-hours-former-google-security-leader-bryan-vuong-is-fighting-back-302910676.html",
-        "resumo": "As FBI figures show nearly $21 billion in U.S. internet-crime losses, Silicon Valley cybersecurity startup Cyfendo is using AI to help smaller businesses find software vulnerabilities, investigate real threats and prepare tested fixes for developer approval. …",
-        "imagem": "https://mmx.prnewswire.com/media/MS2014501/Cyfendo-Founder-in-Modern-Tech-Office.jpg?id=OA3022303&p=facebook"
-    },
-    {
-        "titulo": "Can businesses trust autonomous AI to defend them from cyber threats?",
-        "fonte": "Digital Journal",
-        "autor": "Dr. Tim Sandle",
-        "data": "2026-10-15",
-        "url": "https://www.digitaljournal.com/article/can-businesses-trust-autonomous-ai-to-defend-them-from-cyber-threats/",
-        "resumo": "Almost half of organisations surveyed by Flashpoint are already using or piloting agentic AI in threat intelligence, but security leaders appear reluctant to give machines unrestricted autonomy. The post Can businesses trust autonomous AI to defend them from …",
-        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2024/02/f3294ae238a4cacdc85d1c617f1c539988e6acb0.jpg"
-    },
-    {
-        "titulo": "AI is now accelerating cyber threats faster than security teams can absorb them",
-        "fonte": "Digital Journal",
-        "autor": "Dr. Tim Sandle",
-        "data": "2026-10-15",
-        "url": "https://www.digitaljournal.com/article/ai-is-now-accelerating-cyber-threats-faster-than-security-teams-can-absorb-them/",
-        "resumo": "As artificial intelligence lowers barriers for attackers, new research suggests the problem for enterprise security is becoming one of capacity as much as technology. The post AI is now accelerating cyber threats faster than security teams can absorb them app…",
-        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2026/04/CyberAttack-Secirity-©AFP-800px-01.jpg"
-    },
-    {
-        "titulo": "IT downtime: The overlooked drag on Canadian productivity?",
-        "fonte": "Digital Journal",
-        "autor": "Dr. Tim Sandle",
-        "data": "2026-10-15",
-        "url": "https://www.digitaljournal.com/article/it-downtime-the-overlooked-drag-on-canadian-productivity/",
-        "resumo": "Canada’s productivity debate tends to focus on investment, innovation and new technology. Research points towards a more prosaic problem that Canadian organisations should consider: the economic cost of technology that employees cannot reliably use. The post …",
-        "imagem": ""
     }
 ]
