@@ -1,5 +1,104 @@
 [
     {
+        "titulo": "Broadcom Wi-Fi bug turns sweet 16, still lets strangers hijack your router",
+        "fonte": "Theregister.com",
+        "autor": "Carly Page",
+        "data": "2026-10-19",
+        "url": "https://www.theregister.com/networks/2026/10/19/broadcom-wi-fi-bug-turns-sweet-16-still-lets-strangers-hijack-your-router/5303771",
+        "resumo": "Chip giant knew about the flaw in 2018, researcher claims, but millions of devices may still be vulnerable",
+        "imagem": "https://image.theregister.com/5303787.jpg?imageId=5303787&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+        "titulo": "EU and U.S. Power Firms Scrutinize Supply Chains for Chinese Parts",
+        "fonte": "Ieee.org",
+        "autor": "Lucas Laursen",
+        "data": "2026-10-19",
+        "url": "https://spectrum.ieee.org/power-grid-security-china-inverters",
+        "resumo": "On 1 November, it’s lights-out for power inverters from “high-risk” suppliers to European Union-funded grid projects. The EU will no longer pay for Chinese inverters for these projects, although member nations still can if they so choose. As a result, compani…",
+        "imagem": "https://spectrum.ieee.org/media-library/a-man-opening-an-inverter-panel-outdoors.jpg?id=68453268&width=1200&height=600&coordinates=0%2C241%2C0%2C384"
+    },
+    {
+        "titulo": "Big Fish: OpenBSD Root Exploit Chains a 37-Year-Old BSD Bug With a Kernel Flaw",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-10-19",
+        "url": "https://securityaffairs.com/201285/hacking/big-fish-openbsd-root-exploit-chains-a-37-year-old-bsd-bug-with-a-kernel-flaw.html",
+        "resumo": "OpenBSD flaws, including a 37-year-old BSD bug, enable local attackers to bypass security protections and gain root access. Patches are available. Cybersecurity firm Calif published a full exploit and write-up this week for a local privilege escalation on Ope…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2018/02/OpenBSD_Logo.png"
+    },
+    {
+        "titulo": "The Crypto Devices Built to Foil Hackers Came With Spies Inside",
+        "fonte": "Insurance Journal",
+        "autor": "Admin",
+        "data": "2026-10-19",
+        "url": "https://www.insurancejournal.com/news/international/2026/10/19/889497.htm",
+        "resumo": "At a small cryptocurrency shop in the heart of Kuala Lumpur, a sheet of paper dated Oct. 10 is taped to shutters over the entrance: “Our physical stores are temporarily closed until further notice.” Malaysian retailer CryptoBilis, a reseller of …",
+        "imagem": "https://www.insurancejournal.com/app/uploads/2026/10/ledger-flex-bloomberg-scaled.jpg"
+    },
+    {
+        "titulo": "The concern that the KPMG US CEO keeps hearing from other executives",
+        "fonte": "Business Insider",
+        "autor": "Tim Paradis",
+        "data": "2026-10-19",
+        "url": "https://www.businessinsider.com/kpmg-ceo-leaders-cybersecurity-fears-rise-ai-2026-10#article",
+        "resumo": "KPMG US CEO Tim Walsh says corporate leaders have discussed their concerns as AI raises cybersecurity risks to new levels.",
+        "imagem": "https://i.insider.com/6ad289f02428f6b455813502?width=1200&format=jpeg"
+    },
+    {
+        "titulo": "G7 to Simulate AI-Powered Cyberattacks on Banks as Global Financial Risks Mount",
+        "fonte": "Naturalnews.com",
+        "autor": "Chase Codewell",
+        "data": "2026-10-19",
+        "url": "https://www.naturalnews.com/2026-10-19-g7-to-simulate-ai-powered-cyberattacks-on-banks.html",
+        "resumo": "Finance leaders of the Group of Seven (G7) advanced economies agreed Thursday to hold tabletop exercises simulating AI-powered cyberattacks on banks, Japanese Finance Minister Satsuki Katayama said, as policymakers seek to coordinate responses to what officia…",
+        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/ai-powered-cyberattacks-g7-finance-leaders-tabletop-exercises-5344-94f06bed-original.jpg"
+    },
+    {
+        "titulo": "Israeli company weaponised online advertising to track millions of devices",
+        "fonte": "ABC News (AU)",
+        "autor": "Cam Wilson",
+        "data": "2026-10-19",
+        "url": "https://www.abc.net.au/news/2026-10-19/nuclear-agency-targeted-in-cyber-attack-infecting-devices/107283804",
+        "resumo": "Australia&#x27;s nuclear science agency and other highly sensitive government organisations have been targeted by a sophisticated, foreign bad actor that secretly weaponise online ads to install spyware.",
+        "imagem": "https://live-production.wcms.abc-cdn.net.au/c24db2f89904fc594ef35218b3d4504f?impolicy=wcms_watermark_news&cropH=789&cropW=1402&xPos=29&yPos=408&width=862&height=485&imformat=generic"
+    },
+    {
+        "titulo": "Trend Micro Announces Up to ¥10 Billion toward Cyber Resilience Initiative to Strengthen Security for Japanese Organizations in the AI Era",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-10-19",
+        "url": "https://www.prnewswire.com/news-releases/trend-micro-announces-up-to-10-billion-toward-cyber-resilience-initiative-to-strengthen-security-for-japanese-organizations-in-the-ai-era-302912143.html",
+        "resumo": "Initiative supports nationwide modernization of security measures for individuals and small and medium-sized enterprises, with additional access to TrendAI Vision One™ AI security capabilities and expert technical support provided through partners. TOKYO, Oct…",
+        "imagem": "https://mmx.prnewswire.com/media/MS625228/TM-Logo-Primary-2c-1200x255-Logo.jpg?id=OA3025487&p=facebook"
+    },
+    {
+        "titulo": "AI Threatens to Hijack Smart Refrigerators and Vacuum Cleaners",
+        "fonte": "Newsonjapan.com",
+        "autor": "News On Japan",
+        "data": "2026-10-19",
+        "url": "https://newsonjapan.com/article/151089.php",
+        "resumo": "Artificial intelligence is bringing new convenience to households through smart appliances and connected devices, but cybersecurity experts are warning that the same technology could allow hackers to take control of refrigerators, vacuum cleaners and home sec…",
+        "imagem": "https://i2.ytimg.com/vi/CYmB9d7asbk/maxresdefault.jpg"
+    },
+    {
+        "titulo": "H₂O Retailing Reduces Cybersecurity Risk with the Tenable One Exposure Management Platform",
+        "fonte": "Tenable.com",
+        "autor": "Lilian Myard",
+        "data": "2026-10-19",
+        "url": "https://www.tenable.com/press-releases/h2o-retailing-reduces-cybersecurity-risk-with-the-tenable-one-exposure-management",
+        "resumo": "Tenable® Holdings, Inc. (NASDAQ: TENB), the exposure management company, today announced that H₂O Retailing Corporation has successfully deployed the Tenable One Exposure Management Platform across its diverse multi-cloud infrastructure. The implementation pr…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Crypto Hardware Wallets Become New Entry Point for Hackers",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-10-18",
+        "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-hardware-wallets-become-new-entry-point-for-hackers/",
+        "resumo": "Last week, cryptocurrency hardware wallet company Ledger said it was investigating a hack that drained $90 million from its devices. As Bloomberg News reported Sunday (Oct. 18), this reprsents the latest example of a vulnerability in what was once believed to…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/10/Ledger-crypto-wallet-1.jpg"
+    },
+    {
         "titulo": "Security Affairs newsletter Round 600 by Pierluigi Paganini – INTERNATIONAL EDITION",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
@@ -79,104 +178,5 @@
         "url": "https://forkast.news/proofpoint-pays-6-3b-for-varonis-the-largest-acquisition-explicitly-targeting-ai-agent-data-security/",
         "resumo": "A $6.3 billion all-cash price tag, representing a 52% premium over pre-rumor stock levels, tells a specific story about how the market values agent governance. When Proofpoint announced its acquisition of Varonis on October 15, 2026, the premium signaled that…",
         "imagem": "https://forkast.news/wp-content/uploads/2026/10/forkast-132102-1024x687.jpg"
-    },
-    {
-        "titulo": "Sell-Off In Cybersecurity Stocks Intensifies Amid Palo Alto Vulnerability",
-        "fonte": "Biztoc.com",
-        "autor": "investors.com",
-        "data": "2026-10-16",
-        "url": "https://biztoc.com/x/86b2a227d1d053df",
-        "resumo": "Cybersecurity stocks sold off again on Friday amid a hacker vulnerability involving a Palo Alto Networks network firewall platform. The post Sell-Off In Cybersecurity Stocks Intensifies Amid Palo Alto Vulnerability appeared first on Investor&#x27;s Business Daily.",
-        "imagem": "https://biztoc.com/cdn/996/og.png"
-    },
-    {
-        "titulo": "As French Supermarkets Try to Restock, They Are Told Cyberattack May Be Ongoing",
-        "fonte": "Insurance Journal",
-        "autor": "Admin",
-        "data": "2026-10-16",
-        "url": "https://www.insurancejournal.com/news/international/2026/10/16/889220.htm",
-        "resumo": "France’s cybersecurity authority has warned that a cyberattack targeting supermarkets may still be ongoing as stores restocked Wednesday after the attack sent refrigerator temperatures soaring, raising concerns about the security of vital food supply chains. …",
-        "imagem": "https://www.insurancejournal.com/app/uploads/2026/10/French-grocery-shopper-AP-Photo-scaled.jpg"
-    },
-    {
-        "titulo": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
-        "fonte": "Al Jazeera English",
-        "autor": "Federica Marsi",
-        "data": "2026-10-16",
-        "url": "https://www.aljazeera.com/news/2026/10/16/how-israeli-firms-zero-click-malware-attack-poses-global-security-risk",
-        "resumo": "A new ‘zero-click’ hack uses ads to target victims without any action needed on their part.",
-        "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/10/IMG_5926-1-1792084347.jpg?resize=1920%2C1440"
-    },
-    {
-        "titulo": "U.S. CISA adds Atlassian flaw to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-10-16",
-        "url": "https://securityaffairs.com/201086/hacking/u-s-cisa-adds-atlassian-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Atlassian flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added an Atlassian flaw, tracked as CVE-2026-21589 (CVSS score of…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "BeyondTrust patches zero-day exploited in attacks since August",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-10-16",
-        "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
-        "resumo": "BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/16/BeyondTrust.jpg"
-    },
-    {
-        "titulo": "Advantech Partners with DEKRA, Signing MOU to Strengthen Global Industrial Cybersecurity Compliance in Response to EU CRA",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-10-16",
-        "url": "https://www.prnewswire.com/news-releases/advantech-partners-with-dekra-signing-mou-to-strengthen-global-industrial-cybersecurity-compliance-in-response-to-eu-cra-302910960.html",
-        "resumo": "TAIPEI, Oct. 16, 2026 /PRNewswire/ -- As the European Union&#x27;s Cyber Resilience Act (CRA) enters its implementation phase, cybersecurity compliance is becoming an increasingly important requirement for industrial equipment and Edge AI products entering global …",
-        "imagem": "https://mmx.prnewswire.com/media/MS2014839/20261016011311EDT_image_1.jpg?id=OA3023087&p=facebook"
-    },
-    {
-        "titulo": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-16",
-        "url": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
-        "resumo": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4),…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMvdc6m999SfUEEWC89wHnBiUX9WAMCSdWtbFP_lrH4DuREHfOJL7G29LkM4uAvittg3XsHxnq6dq_VEX1zB_jCGi5RJDbQZlrq37gHSCXpRrn11FEN-hezQn0Dt4Xcw4DcanklKW_8iLEnQN6JpzkQ7JHBOS1_dMzDAs2h_jJcWDqOGjbkMoeabOCkSFK/s1700-nu-rw-lo-l85-e365/f.jpg"
-    },
-    {
-        "titulo": "Google warns suspected China-linked hackers could exploit BeyondTrust flaw",
-        "fonte": "BusinessLine",
-        "autor": "Reuters",
-        "data": "2026-10-16",
-        "url": "https://www.thehindubusinessline.com/info-tech/google-warns-suspected-china-linked-hackers-could-exploit-beyondtrust-flaw/article71590970.ece",
-        "resumo": "Suspected China-linked group Armory Castle exploited the flaw in August, prompting calls for swift patching",
-        "imagem": "https://bl-i.thgim.com/public/incoming/m1gsoe/article71505568.ece/alternates/LANDSCAPE_1200/2025-10-22T150111Z_1317640514_RC2CF5AXDTYS_RTRMADP_3_GOOGLE-QUANTUM.JPG"
-    },
-    {
-        "titulo": "The Trouble With Words, The Architecture Of Meaning, And General Vulnerability",
-        "fonte": "Americanthinker.com",
-        "autor": "",
-        "data": "2026-10-16",
-        "url": "https://www.americanthinker.com/articles/2026/10/the-trouble-with-words-the-architecture-of-meaning-and-general-vulnerability/",
-        "resumo": "Photo Credit: AuthorBy David DeMayMeanwhile, computer programs continue to battle it out for mastery.",
-        "imagem": "https://images.americanthinker.com/9l/9lkqwlv4p4kmlnopy3jf_1200.jpg"
-    },
-    {
-        "titulo": "Google warns suspected China-linked hackers could exploit BeyondTrust flaw",
-        "fonte": "The Times of India",
-        "autor": "Reuters",
-        "data": "2026-10-16",
-        "url": "https://economictimes.indiatimes.com/tech/technology/google-warns-suspected-china-linked-hackers-could-exploit-beyondtrust-flaw/articleshow/134980729.cms",
-        "resumo": "Google warned on Thursday that organizations should prepare for &quot;potential widespread exploitation&quot; after a new bug was found in US cybersecurity firm BeyondTrust&#x27;s remote support appliances.",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-7777135,resizemode-75,msid-134980729/tech/technology/google-warns-suspected-china-linked-hackers-could-exploit-beyondtrust-flaw.jpg"
-    },
-    {
-        "titulo": "The ‘C’ in CFO Now Stands for Cybersecurity, Thanks to AI",
-        "fonte": "pymnts.com",
-        "autor": "PYMNTS",
-        "data": "2026-10-16",
-        "url": "https://www.pymnts.com/cybersecurity/2026/the-c-in-cfo-now-stands-for-cybersecurity-thanks-to-ai/",
-        "resumo": "Cybersecurity has always been an arms race. Artificial intelligence (AI) is turning it into a war of attrition, where the winner may be whoever can afford to keep fighting the longest. On Thursday (Oct. 15), for example, Sarah Breeden, deputy governor of the …",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/10/Cybersecurity-Financial-Officer-b2b-AI.png?quality=82"
     }
 ]
