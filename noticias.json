@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Tenable Expands Open Security Ecosystem to Extend Exposure Intelligence and Accelerate AI Security Outcomes",
-        "fonte": "Tenable.com",
-        "autor": "Shannon O&#x27;Dowd",
-        "data": "2026-10-20",
-        "url": "https://www.tenable.com/press-releases/tenable-expands-open-security-ecosystem-to-extend-exposure-intelligence-and-accelerate-AI-security-outcomes",
-        "resumo": "Tenable® Holdings, Inc. (NASDAQ: TENB), the exposure management company, today announced the expansion of its open technology and partner ecosystem to accelerate integrated security workflows across the entire tech stack. Tenable OPEN for AI delivers validate…",
-        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/press-releases/Tenable%20OPEN%20for%20AI.pptx_.jpg?itok=osl4NfhL"
+        "titulo": "deepset Unveils Reference Architecture for Self-Improving, Sovereign AI Agents on NVIDIA Infrastructure",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-10-21",
+        "url": "https://www.prnewswire.com/news-releases/deepset-unveils-reference-architecture-for-self-improving-sovereign-ai-agents-on-nvidia-infrastructure-302914982.html",
+        "resumo": "New reference architecture combines open models, modular agent orchestration, and governed execution on infrastructure organizations control. BERLIN, Oct. 21, 2026 /PRNewswire/ -- deepset, the company behind the open source Haystack AI orchestration framework…",
+        "imagem": ""
     },
     {
-        "titulo": "Attackers exploit Siemens Software Center flaw in active ClickFix malware campaign",
+        "titulo": "Finland temporarily shuts down government websites as a precaution for critical vulnerabilities",
+        "fonte": "YLE News",
+        "autor": "",
+        "data": "2026-10-21",
+        "url": "https://yle.fi/a/74-20252600",
+        "resumo": "The move is due to vulnerabilities found in widely used PHP software, which acts as the primary back-end backbone of the web.",
+        "imagem": "https://img.img-cdn.yle.fi/crop_extract,w_6187,h_3480,x_0,y_0/crop_fill,w_1200,h_628/f_auto/39-17255806ad89a8147f98/1792580329"
+    },
+    {
+        "titulo": "A critical programming vulnerability may take websites down today",
+        "fonte": "The Verge",
+        "autor": "Jess Weatherbed",
+        "data": "2026-10-21",
+        "url": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
+        "resumo": "Security patches for the PHP programming language, widely used to build websites and web apps, are expected to roll out today, with the goal of fixing two critical vulnerabilities that could wreak havoc on the internet if left unchecked. In an advisory publis…",
+        "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_ILLO_STK001_carlo_cadenas_cybersecurity_virus.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+        "titulo": "Ransomware gangs have been exploiting Palo Alto GlobalProtect VPN flaw since June",
         "fonte": "Help Net Security",
         "autor": "Sinisa Markovic",
-        "data": "2026-10-20",
-        "url": "https://www.helpnetsecurity.com/2026/10/20/exploitation-siemens-software-center-vulnerability-cve-2026-110936/",
-        "resumo": "Siemens has confirmed the active exploitation of CVE-2026-110936, a DLL side-loading vulnerability in Siemens Software Center, the company’s tool for downloading, installing and managing its software. Siemens first published its security advisory on 15 Octobe…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/16084845/threat-hands-1500.webp"
+        "data": "2026-10-21",
+        "url": "https://www.helpnetsecurity.com/2026/10/21/ransomware-groups-exploit-palo-alto-globalprotect-cve-2026-0257/",
+        "resumo": "Several ransomware groups are exploiting CVE-2026-0257, an authentication bypass in Palo Alto Networks’ PAN-OS GlobalProtect patched in May, to break into organizations in sectors ranging from healthcare and education to government and energy. CVE-2026-0257 s…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/04/17164810/palo_alto_networks-2-1500.webp"
     },
     {
-        "titulo": "Quarantined, but still on your calendar: The explosion of invite-based attacks",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-10-20",
-        "url": "https://www.helpnetsecurity.com/2026/10/20/malicious-calendar-invites/",
-        "resumo": "There has been a sharp escalation in attacks that use malicious calendar invites to reach targets, email security providers Check Point and Sublime Security have warned. Sublime recorded a 1,216% month-over-month increase in August 2026, and the first half of…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/07/30142315/email_security-1500.webp"
+        "titulo": "The State of AI Security: Threats, Tools, and Skills Gaps",
+        "fonte": "Oreilly.com",
+        "autor": "Mike Loukides",
+        "data": "2026-10-21",
+        "url": "https://www.oreilly.com/radar/the-state-of-ai-security-threats-tools-and-skills-gaps/#BlogPosting",
+        "resumo": "Artificial intelligence has changed cybersecurity permanently. While OpenAI’s inadvertent attack on Hugging Face brought AI-generated attacks to everyone’s attention, AI has been on security professionals’ radar for a long time. AI makes attacks possible at a…",
+        "imagem": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/abstract-2425614_1280_crop-289639fa8d80f7973c1e6a7225ee07ff-1.jpg"
     },
     {
-        "titulo": "WAGO OS Linux",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-10-20",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-02",
-        "resumo": "View CSAF Summary Two vulnerabilities in the Web-Based Management (WBM) interface of WAGO CC100, PFC100 G2, PFC200 G2, TP600, Edge Controller and WP400 devices allow an authenticated low-privileged user to bypass intended privilege boundaries. The issues affe…",
-        "imagem": ""
+        "titulo": "DigitalXForce Scores Triple Win: IDC MarketScape Leader Recognition, Institutional Investment from Arsenal Equity Group and 514% Growth",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-10-21",
+        "url": "https://www.prnewswire.com/news-releases/digitalxforce-scores-triple-win-idc-marketscape-leader-recognition-institutional-investment-from-arsenal-equity-group-and-514-growth-302913144.html",
+        "resumo": "AI-native Enterprise TRiSCM™ innovator secures institutional backing, earns Leader recognition in GRC and Third-Party Risk Management, and accelerates global expansion DALLAS, Oct. 21, 2026 /PRNewswire/ -- DigitalXForce today announced the launch of the indus…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1747801/DigitalXForce-Corporation-LALIT.jpg?id=OA3025884&p=facebook"
     },
     {
-        "titulo": "Hitachi Energy MicroSCADA X SYS600 Product",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-10-20",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-04",
-        "resumo": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect MicroSCADA X SYS600 product versions listed in this document. These vulnerabilities can be exploited to carry out various attacks on the product. Please refer to the Recommended…",
-        "imagem": ""
+        "titulo": "Critical PHP Vulnerabilities Leaked Ahead of Scheduled Security Patches",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Kevin Poireault",
+        "data": "2026-10-21",
+        "url": "https://www.infosecurity-magazine.com/news/critical-php-vulnerabilities-leaked/",
+        "resumo": "Two critical vulnerabilities in PHP were leaked one day before their scheduled disclosure and security patches",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/25ae8a4a-1e79-434b-8264-96b509c1fa71.jpg"
     },
     {
-        "titulo": "Hitachi Energy RTU500 Product",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-10-20",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-05",
-        "resumo": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. These vulnerabilities if exploited can have impact on confidentiality, integrity and availability of the product. Please refer to the Rec…",
-        "imagem": ""
+        "titulo": "How vulnerable are you to digital scams driven by deepfake content?",
+        "fonte": "Lse.ac.uk",
+        "autor": "Caroline Carter",
+        "data": "2026-10-21",
+        "url": "https://blogs.lse.ac.uk/businessreview/2026/10/21/how-vulnerable-are-you-to-digital-scams-driven-by-deepfake-content/",
+        "resumo": "The recent proliferation of artificial intelligence tools has made creating characters and voices, used by criminals to convince people to part with their money, more common than ever. Lauro Accioly and Julia Caldeira show how new technology has made deepfake…",
+        "imagem": "https://blogsmedia.lse.ac.uk/blogs.dir/99/files/2026/10/Deep_fake-747-x-420.jpg"
     },
     {
-        "titulo": "Moxa AIG-302 ThingsPro Edge",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-10-20",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-03",
-        "resumo": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to obtain and disclose sensitive information. The following versions of Moxa AIG-302 ThingsPro Edge are affected: Moxa AIG-302 ThingsPro Edge firmware …",
-        "imagem": ""
+        "titulo": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-10-21",
+        "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that&#x27;s collectively called Plex2Shell. The…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfRmqQZkpAkJjV5n1-UxHellgRgKaXXwJgUPM899Ifw0xOVJpKIO2Av8Pa921ZhOWlTLxP-5dxNrEhM62cTOmKS9gOXIZUyVSbJf9FirgDs1MzI_metTj-G_TsMzH80Y1yRdf7g5-0yhhwGAO7e6A_J-M-hAojy6JWVyYlti-98f0lVlM0QXgpT3blIJEu/s1700-nu-rw-lo-l85-e365/cisa-plex.jpg"
     },
     {
-        "titulo": "NordVPN patches &quot;clumsy&quot; Windows bug that let attackers disable system services",
-        "fonte": "TechRadar",
-        "autor": "Rene Millman",
-        "data": "2026-10-20",
-        "url": "https://www.techradar.com/vpn/vpn-services/nordvpn-patches-clumsy-windows-bug-that-let-attackers-disable-system-services",
-        "resumo": "NordVPN has rolled out a fix for a Windows app vulnerability (CVE-2026-106030) that allowed local attackers to interfere with system services. Update to version 8.12 now to stay secure.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/kEn3wXDv34dPV6X2rbZfFW-1945-80.jpg"
+        "titulo": "AI Pioneers Call for International Containment Body and Airgapping of Advanced Models",
+        "fonte": "Naturalnews.com",
+        "autor": "Chase Codewell",
+        "data": "2026-10-21",
+        "url": "https://www.naturalnews.com/2026-10-21-ai-pioneers-call-for-international-containment-body-airgapping.html",
+        "resumo": "An open letter published Tuesday and signed by about 400 scientists, including AI pioneers Geoffrey Hinton and Yoshua Bengio, calls for the creation of an international body to set containment measures for artificial intelligence models and to maintain a regi…",
+        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/ai-containment-airgapping-international-body-5351-76a984a3-original.jpg"
     },
     {
-        "titulo": "Cybersecurity jobs available right now: October 20, 2026",
+        "titulo": "DevGuard: Open-source vulnerability management for the software supply chain",
         "fonte": "Help Net Security",
         "autor": "Anamarija Pogorelec",
-        "data": "2026-10-20",
-        "url": "https://www.helpnetsecurity.com/2026/10/20/cybersecurity-jobs-available-right-now-october-20-2026/",
-        "resumo": "Application Security Architect Riskified | Israel | Hybrid – View job details As an Application Security Architect, you will review architecture, design, and code to identify security gaps and vulnerabilities. You will work with developers, product managers, …",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140407/cybersecurity_jobs-3-1500.webp"
+        "data": "2026-10-21",
+        "url": "https://www.helpnetsecurity.com/2026/10/21/devguard-open-source-vulnerability-management/",
+        "resumo": "DevGuard is a free, open source vulnerability management platform that collects a software project’s security findings in one place, ranks them by risk, and tracks them. It’s an OWASP Incubating Project, and anyone can self-host it. One command line, six scan…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/19085804/devguard-1500.webp"
     },
     {
-        "titulo": "Seven Core Research Areas for a Rapidly Evolving Cyber Landscape",
-        "fonte": "Carnegie Mellon University",
-        "autor": "Bill Scherlis, Gregory Touhill",
-        "data": "2026-10-20",
-        "url": "https://www.sei.cmu.edu/blog/seven-core-research-areas-for-a-rapidly-evolving-cyber-landscape/",
-        "resumo": "This post presents seven core research areas for a rapidly evolving cyber landscape.",
-        "imagem": "https://www.sei.cmu.edu/media/images/og_20261020_123106_7.2e16d0ba.fill-1200x630.format-webp.webp"
+        "titulo": "Risky Business #856 -- 8-bit encryption, PHP megabugs and more",
+        "fonte": "Risky.biz",
+        "autor": "James Wilson",
+        "data": "2026-10-21",
+        "url": "https://risky.biz/RB856/",
+        "resumo": "On this week’s show Patrick Gray and James Wilson are joined by special guest co-host security engineer Mark El-Khoury to talk through the week’s cybersecurity news, including: The PHP foundation is about to release patches for a couple of critical…",
+        "imagem": "https://risky.biz/static/img/RB-OG-Social.jpg"
     },
     {
-        "titulo": "When AI becomes ‘Sally from accounts’: The new identity risk facing businesses",
-        "fonte": "Digital Journal",
-        "autor": "Dr. Tim Sandle",
-        "data": "2026-10-19",
-        "url": "https://www.digitaljournal.com/article/when-ai-becomes-sally-from-accounts-the-new-identity-risk-facing-businesses/",
-        "resumo": "Giving AI agents a name, job title and personality could make automation easier to use. It could also make machines dangerously easy to trust. The post When AI becomes ‘Sally from accounts’: The new identity risk facing businesses appeared first on Digital Jo…",
-        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2025/10/b0cca789f802554513aff64b5d25f8057a3ba211.jpg"
+        "titulo": "Hardened by Design: Applying the NSA’s OT Guidance with Cisco Security &amp; Splunk",
+        "fonte": "Cisco.com",
+        "autor": "Norman St. Laurent",
+        "data": "2026-10-21",
+        "url": "https://blogs.cisco.com/industries/hardened-by-design-applying-the-nsas-ot-guidance-with-cisco-security-splunk",
+        "resumo": "Apply the NSA’s new Zero Trust guidance to your OT environments. Learn how Cisco Cyber Vision and Splunk provide the visibility and telemetry needed to secure critical infrastructure without disrupting operations.",
+        "imagem": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/Screenshot-2026-10-20-at-2.01.14-PM.png"
     },
     {
-        "titulo": "industrialxpl added to PyPI",
-        "fonte": "Pypi.org",
-        "autor": "henrique.santos@uniaogeek.com.br",
-        "data": "2026-10-19",
-        "url": "https://pypi.org/project/industrialxpl/",
-        "resumo": "IndustrialXPL-Forge (IXF) — OT/ICS/SCADA lab framework (Linux only). Python-First, Mirai/C2 native ops, 1190+ modules.",
+        "titulo": "Industrial Defender Unifies Endpoint Intelligence and Network Monitoring for CIP-015, Adds Risk Signal",
+        "fonte": "Next Big Future",
+        "autor": "cybernewswire",
+        "data": "2026-10-21",
+        "url": "https://www.nextbigfuture.com/2026/10/industrial-defender-unifies-endpoint-intelligence-and-network-monitoring-for-cip-015-adds-risk-signal.html",
+        "resumo": "Orlando, Florida, United States, 21st October 2026, CyberNewswire",
         "imagem": ""
     },
     {
-        "titulo": "Thoma Bravo’s Seth Boro warns of cybersecurity risks amid AI growth",
-        "fonte": "Crypto Briefing",
-        "autor": "Diego Almada Lopez",
-        "data": "2026-10-19",
-        "url": "https://cryptobriefing.com/thoma-bravo-seth-boro-ai-cybersecurity-risks/",
-        "resumo": "AI&#x27;s rapid growth necessitates robust cybersecurity measures to maintain trust and prevent malicious exploitation, impacting both businesses and consumers. The post Thoma Bravo’s Seth Boro warns of cybersecurity risks amid AI growth appeared first on Crypto B…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/19155319/library-thoma-bravo-s-seth-boro-warns-of-cybersecurity-risks-ami-800x450.png"
+        "titulo": "Your car’s smartest features are opening doors for hackers",
+        "fonte": "New Atlas",
+        "autor": "Mike McRae",
+        "data": "2026-10-21",
+        "url": "https://newatlas.com/technology/cars-weakest-security-points/",
+        "resumo": "The biggest threat to your car was once a coat hanger combined with a questionable sense of morality. Today, thieves barely need to leave the comfort of their own couch.Continue ReadingCategory: TechnologyTags: Security, Infotainment system, Car Audio, Connec…",
+        "imagem": "https://assets.newatlas.com/dims4/default/0468cad/2147483647/strip/true/crop/2000x1050+0+225/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F38%2F39%2F22f08e554ad8a4c8f950e8772f50%2Fconnected-car-vulnerabilities.jpg&na.image_optimisation=0"
     },
     {
-        "titulo": "#StopRansomware: SafePay Ransomware",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-10-19",
-        "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-293a",
-        "resumo": "Advisory at a Glance Title #StopRansomware: SafePay Ransomware Original Publication October 20, 2026 Executive Summary This advisory details recent activity by the SafePay …",
-        "imagem": ""
+        "titulo": "BLT",
+        "fonte": "Kitploit.com",
+        "autor": "Kitploit",
+        "data": "2026-10-20",
+        "url": "https://kitploit.com/en/tools/github/owasp/blt",
+        "resumo": "Monorepo of OWASP Bug Logging Tool projects: crowd-sourced vulnerability reporting, bug bounty workflows, CVE namespace, autopatching, and security education.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/57870/53aaf2207fb298af59e1230c43acd9e61b7f72439404b132ca6b3ddd3cde9d92-social-v1.webp"
     },
     {
-        "titulo": "7 wards to watch this municipal election",
-        "fonte": "CBC News",
-        "autor": "Arthur White-Crummey",
-        "data": "2026-10-19",
-        "url": "https://www.cbc.ca/news/canada/ottawa/7-wards-to-watch-this-municipal-election-9.7386596",
-        "resumo": "In less than a week, voters will choose city councillors in 24 wards across Ottawa. Here are seven with hard-fought contests, big endorsements or well-funded challengers.",
-        "imagem": "https://i.cbc.ca/ais/ef9871a6-48a1-4f53-9911-91cbc1c207f3,1792434972544/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620"
+        "titulo": "A nightmare scenario for supermarkets: Hidden daily passwords and command injection flaws leave thousands of Danfoss supermarket systems open to remote takeover",
+        "fonte": "TechRadar",
+        "autor": "Efosa Udinmwen",
+        "data": "2026-10-20",
+        "url": "https://www.techradar.com/pro/a-nightmare-scenario-for-supermarkets-hidden-daily-passwords-and-command-injection-flaws-leave-thousands-of-danfoss-supermarket-systems-open-to-remote-takeover",
+        "resumo": "Claroty researchers found 2,765 publicly accessible Danfoss refrigeration systems and three vulnerabilities involving hidden passwords, command injection, and web server manipulation.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/7XwhMHsBzdFcrGh5tBDhsf-1920-80.jpg"
     },
     {
-        "titulo": "Security patches need patches now that attackers have AI",
-        "fonte": "Theregister.com",
-        "autor": "Jessica Lyons",
-        "data": "2026-10-19",
-        "url": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
-        "resumo": "Terra finds sharp rise in GitHub security fixes reported broken within 90 days",
-        "imagem": "https://image.theregister.com/5303945.jpg?imageId=5303945&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        "titulo": "Industrial Defender Unifies Endpoint Intelligence and Network Monitoring for CIP-015, Adds Risk Signal™ to Turn Findings into Prioritized Patch Plans",
+        "fonte": "PRNewswire",
+        "autor": "",
+        "data": "2026-10-20",
+        "url": "https://www.prnewswire.com/news-releases/industrial-defender-unifies-endpoint-intelligence-and-network-monitoring-for-cip-015-adds-risk-signal-to-turn-findings-into-prioritized-patch-plans-302914400.html",
+        "resumo": "New internal network security monitoring correlates every anomaly with deep asset intelligence; Risk Signal™ converts findings into verified remediation ORLANDO, Fla., Oct. 20, 2026 /PRNewswire/ -- Industrial Defender, an OT cybersecurity leader serving the g…",
+        "imagem": "https://mmx.prnewswire.com/media/MS1413811/Industrial-Defender-Logo.jpg?id=OA3029203&p=facebook"
     },
     {
-        "titulo": "Is it already too late to reduce catastrophic AI risk?",
-        "fonte": "Harvard School of Engineering and Applied Sciences",
-        "autor": "Elizabeth Zonarich",
-        "data": "2026-10-19",
-        "url": "https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk/",
-        "resumo": "New Kennedy School &quot;pre-mortem&quot; lays out threats, vulnerabilities, and possible steps, and warns firms must act now.",
-        "imagem": "https://news.harvard.edu/wp-content/uploads/2026/10/100626_AITerrorism_017.jpg"
+        "titulo": "Indian companies struggle to staff cybersecurity teams even as AI agents go rogue",
+        "fonte": "BusinessLine",
+        "autor": "Rohan Das",
+        "data": "2026-10-20",
+        "url": "https://www.thehindubusinessline.com/news/indian-companies-struggle-to-staff-cybersecurity-teams-even-as-ai-agents-go-rogue/article71604839.ece",
+        "resumo": "Indian firms struggle to fill cybersecurity roles despite rising AI-driven risks, with only a third of openings filled monthly.",
+        "imagem": "https://bl-i.thgim.com/public/incoming/e45j5/article71170329.ece/alternates/LANDSCAPE_1200/IMG_Quantum_computing_2_1_KNFE8LAD.jpg"
     },
     {
-        "titulo": "MiniMax M3.1 Flash",
-        "fonte": "Minimax.io",
-        "autor": "jtg",
-        "data": "2026-10-19",
-        "url": "https://www.minimax.io/blog/minimax-m31f",
-        "resumo": "Today, we officially roll out MiniMax M3.1 Flash. As a next-generation Flash model, M3.1 Flash delivers a generational leap in agentic tasks, coding, Computer Use and cybersecurity, while making online inference nearly three times faster and reducing usage co…",
-        "imagem": "https://filecdn.minimax.chat/public/m31-flash-zh-1-1792403273121.png?x-oss-process=image/format,webp"
-    },
-    {
-        "titulo": "Indonesia trains 100 Batam talents to develop secure AI apps",
-        "fonte": "Antaranews.com",
-        "autor": "Bayu Prasetyo",
-        "data": "2026-10-19",
-        "url": "https://en.antaranews.com/news/436589/indonesia-trains-100-batam-talents-to-develop-secure-ai-apps",
-        "resumo": "The Ministry of Creative Economy/Creative Economy Agency (Ekraf) trains 100 digital talents in Batam, Riau Islands, to develop secure and reliable artificial ...",
-        "imagem": "https://cdn.antaranews.com/cache/1200x800/2026/10/19/DRM00671.jpeg"
-    },
-    {
-        "titulo": "WP2Shell Attack Lets Hackers Create WordPress Admin Accounts and Install Web Shells Without Login",
-        "fonte": "Cybersecuritynews.com",
-        "autor": "Tushar Subhra Dutta",
-        "data": "2026-10-19",
-        "url": "https://cybersecuritynews.com/wp2shell-attack/",
-        "resumo": "WP2Shell combines two WordPress Core flaws to move from an unauthenticated request to server-side code execution. It can let an attacker create an administrator account and install a plugin-based web shell. Seqrite’s October 16 analysis lists affected release…",
-        "imagem": "http://cybersecuritynews.com/wp-content/uploads/2026/10/WP2Shell-Attack-Lets-Hackers-Create-WordPress-Admin-Accounts-and-Install-Web-Shells-Without-Login.webp"
+        "titulo": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-10-20",
+        "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+        "resumo": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4)…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3BuJLxcpzxzxwpUcwsPb7L-gNCeXeyuPtNysOMHtf06VmANCx2DR3O52Puw9AQwUu0C8ccQ77MF_l0bAf4zL-hrvYO8jSHs6Km0Xz6-Q4yYm1thRvJ-y59qLRX9Qni0zD161qJ53oCgzEIo3NjOLKtgOrIAbOMsAhITOhL9qoy2v9D6tRU26m0fBoMDhJ/s1700-nu-rw-lo-l85-e365/fort-poc.jpg"
     }
 ]
