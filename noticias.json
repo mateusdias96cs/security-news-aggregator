@@ -1,182 +1,173 @@
 [
     {
-        "titulo": "Why You Should Delete Your Fast Food Apps Right Now (Plus 4 More Big Security Stories This Week)",
-        "fonte": "PCMag.com",
-        "autor": "Kim Key",
-        "data": "2026-10-23",
-        "url": "https://uk.pcmag.com/security/168063/why-you-should-delete-your-fast-food-apps-right-now-plus-4-more-big-security",
-        "resumo": "From an 11-million-customer Burger King breach to border phone search traps and OpenAI spy drama, here is everything you need to lock down this week. In an era when AI-assisted scams run rampant on social media, gaming platforms, and even within ads on legit …",
-        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/w/why-you-sh/why-you-should-delete-your-fast-food-apps-right-now-plus-4-m_j1fs.1200.jpg"
+        "titulo": "AI Terrorism Is Just Terrorism",
+        "fonte": "The Atlantic",
+        "autor": "Ian Bogost",
+        "data": "2026-10-24",
+        "url": "https://www.theatlantic.com/ideas/2026/10/ai-terrorism-technology/689137/?utm_source=feed",
+        "resumo": "The new technology hasn’t fundamentally transformed the problem—at least not yet.",
+        "imagem": ""
     },
     {
-        "titulo": "Why You Should Delete Your Fast Food Apps Right Now (Plus 4 More Big Security Stories This Week)",
-        "fonte": "PCMag.com",
-        "autor": "Kim Key",
-        "data": "2026-10-23",
-        "url": "https://uk.pcmag.com/security/168063/why-you-should-delete-your-fast-food-apps-right-now-plus-4-more-big-security-stories-this-week",
-        "resumo": "From an 11-million-customer Burger King breach to border phone search traps and OpenAI spy drama, here is everything you need to lock down this week. In an era when AI-assisted scams run rampant on social media, gaming platforms, and even within ads on legit …",
-        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/w/why-you-sh/why-you-should-delete-your-fast-food-apps-right-now-plus-4-m_w5sw.1200.jpg"
+        "titulo": "PHP is in the foundation of 70% of websites – here’s what it is and why a flaw in the software is a major hacking threat",
+        "fonte": "Geeksaresexy.net",
+        "autor": "Geeks are Sexy",
+        "data": "2026-10-24",
+        "url": "https://www.geeksaresexy.net/2026/10/24/php-is-in-the-foundation-of-70-of-websites-heres-what-it-is-and-why-a-flaw-in-the-software-is-a-major-hacking-threat/",
+        "resumo": "PHP is a key building block of most websites. Richard Drury/DigitalVision via Getty Images Doug Jacobson, Iowa State University Governments and organizations around the world began scrambling on Oct. 21, 2026, to fix a vulnerability in software that runs thei…",
+        "imagem": "https://images.theconversation.com/files/767981/original/file-20261023-50-hmz6ge.jpg?ixlib=rb-4.1.1&rect=21%2C835%2C4568%2C2442&q=45&auto=format&w=754&fit=clip"
     },
     {
-        "titulo": "Is this the new cyber normal?",
-        "fonte": "Silcock.dev",
-        "autor": "Drew Silcock",
-        "data": "2026-10-23",
-        "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
-        "resumo": "A week of cyber incidents one after another – is this what every week is going to look like and what can we do about it?",
-        "imagem": "https://drew.silcock.dev/open-graph/blog/is-this-the-new-cyber-normal.png"
+        "titulo": "Halifax Water breach raises questions about ethical hacking",
+        "fonte": "CBC News",
+        "autor": "Colin North",
+        "data": "2026-10-24",
+        "url": "https://www.cbc.ca/news/canada/nova-scotia/halifax-water-ethical-hacking-9.7387086",
+        "resumo": "A third-party security tip dismissed as spam by Halifax Water is raising questions about ethical hacking and how organizations handle unauthorized vulnerability reports.",
+        "imagem": "https://i.cbc.ca/ais/0d680b3e-05aa-4c26-9bb7-fc827ff508f1,1761925963835/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D620"
     },
     {
-        "titulo": "The alarming reality of the worldwide website emergency: As a PHP weakness sparks a global cybersecurity alert, experts warn &#x27;this is going to happen again&#x27;",
-        "fonte": "Dailymail.com",
-        "autor": "Wiliam Hunter",
-        "data": "2026-10-23",
-        "url": "https://www.dailymail.com/sciencetech/article-16232471/PHP-weakness-global-cybersecurity-alert.html",
-        "resumo": "A decades-old piece of software has sparked one of the biggest cyber-security alerts in recent memory after a hidden security flaw suddenly came to light.",
-        "imagem": "https://i.dailymail.com/1s/2026/10/23/11/112044291-0-image-m-17_1792749612635.jpg"
+        "titulo": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-10-24",
+        "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmm0pKX3kbfMC2GKemUiMT8PH1uDJIHn4AcmoiQ5nUK4TWZl0Ni_-k6kjpAFUrFzEWSSq_G307YJXTXmn9FZ7q6oOr5OEMASP9mrXOXrk9lSOGzqPCAbkQqpHsMxFe1q5CnyDZnqeDq_FiiC7jEzp0ie1r_nnQOSKcbPcKBdoXI-ycAjCZA9AuxemUhE5k/s1700-nu-rw-lo-l85-e365/arista-cisa.jpg"
     },
     {
-        "titulo": "What smart people are saying about the cybersecurity &#x27;vulnerability tsunami&#x27; that&#x27;s roiling the internet",
+        "titulo": "Critical PHP vulnerabilities force government websites offline",
+        "fonte": "Naturalnews.com",
+        "autor": "Ramon Tomey",
+        "data": "2026-10-24",
+        "url": "https://www.naturalnews.com/2026-10-24-critical-php-vulnerabilities-force-govt-websites-offline.html",
+        "resumo": "Government agencies across Europe, Asia and North America took websites offline on Oct. 21 after OpenAI’s GPT 5.6-Sol AI model uncovered critical flaws in the PHP programming language, affecting up to 70% of the internet. The two vulnerabilities, dubbed PHP2S…",
+        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/cyber-attacks-ceasefire-hybrid-warfare-1235-original.jpg"
+    },
+    {
+        "titulo": "RI, Australia push regional cooperation against transnational crime",
+        "fonte": "Antaranews.com",
+        "autor": "Fianda Sjofjan R, Martha Herlinawati Simanjuntak",
+        "data": "2026-10-24",
+        "url": "https://en.antaranews.com/news/437607/ri-australia-push-regional-cooperation-against-transnational-crime",
+        "resumo": "Indonesian and Australian governments push stronger regional security cooperation to combat terrorism and transnational crime, including human trafficking, ...",
+        "imagem": "https://cdn.antaranews.com/cache/1200x800/2026/10/23/1000645733.jpg"
+    },
+    {
+        "titulo": "PHP vulnerabilities WordPress: Worst Threats to Sites",
+        "fonte": "Blogdoandroid.com",
+        "autor": "edward",
+        "data": "2026-10-24",
+        "url": "https://blogdoandroid.com/php-vulnerabilities-wordpress/",
+        "resumo": "PHP vulnerabilities WordPress are posing serious threats to sites. Learn how to protect your WordPress site effectively.",
+        "imagem": "https://blogdoandroid.com/wp-content/uploads/2026/10/php-vulnerabilities-wordpress.png"
+    },
+    {
+        "titulo": "UK commits approximately £600 million to AI security, with a biosecurity lab at the center",
+        "fonte": "Crypto Briefing",
+        "autor": "Diego Almada Lopez",
+        "data": "2026-10-24",
+        "url": "https://cryptobriefing.com/uk-600-million-ai-security-biosecurity-lab/",
+        "resumo": "The UK&#x27;s investment in AI security could position it as a leader in biosecurity innovation, influencing global standards and collaborations. The post UK commits approximately £600 million to AI security, with a biosecurity lab at the center appeared first on …",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/23221346/library-uk-commits-approximately-600-million-to-ai-security-with-800x450.png"
+    },
+    {
+        "titulo": "Moonshot AI launches new flagship Kim K3.1 Pro model with 3T parameters",
+        "fonte": "SiliconANGLE News",
+        "autor": "Maria Deutscher",
+        "data": "2026-10-24",
+        "url": "https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/",
+        "resumo": "Moonshot AI today introduced Kim K3.1 Pro, a large language model that can perform some tasks better than Claude Opus 5.5 and GPT-6 Astra. The LLM is a post-trained, or upgraded, version of an algorithm that the Chinese artificial intelligence company release…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/unsplash2-2.png"
+    },
+    {
+        "titulo": "The Vulnerability Apocalypse and Why We Should Fund Open Source",
+        "fonte": "EFF",
+        "autor": "Cooper Quintin",
+        "data": "2026-10-23",
+        "url": "https://www.eff.org/deeplinks/2026/10/vulnerability-apocalypse-and-why-we-should-fund-open-source",
+        "resumo": "If you use the internet at all, you may have noticed that a large percentage of sites suddenly went down earlier this week—and all your nerdiest friends were talking about &quot;The Vulnerability Apocalypse” and this thing called PHP that powers nearly 70% of the …",
+        "imagem": "https://www.eff.org/files/banner_library/OG-GovernmentHacking-Playpen.png"
+    },
+    {
+        "titulo": "How worried should I be about the AI hacking panic and “Black October”?",
+        "fonte": "Vox",
+        "autor": "Cameron Peters, Adam Clark Estes",
+        "data": "2026-10-23",
+        "url": "https://www.vox.com/today-explained-newsletter/507486/ai-hacking-php-cybersecurity-what-to-do",
+        "resumo": "This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here. Are we living through “Black October”? Maybe, according to cybersecurity experts who are raising the alarm a…",
+        "imagem": "https://platform.vox.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300746159.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+        "titulo": "Introducing Agentic Evaluation in FAITH",
+        "fonte": "Cisco.com",
+        "autor": "Kimia Majd",
+        "data": "2026-10-23",
+        "url": "https://blogs.cisco.com/ai/introducing-agentic-evaluation-in-faith",
+        "resumo": "As AI agents become more capable and their use expands across cybersecurity and other domains, the need for effective evaluation grows. An agent investigating a codebase makes a sequence of decisions: where to look, which tools to use, how to......",
+        "imagem": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/Behind-the-monitor-in-an-AI-studio.png"
+    },
+    {
+        "titulo": "How an OpenAI model exposed a flaw in 70% of the internet’s websites",
+        "fonte": "Fortune",
+        "autor": "Doug Jacobson, The Conversation",
+        "data": "2026-10-23",
+        "url": "https://fortune.com/2026/10/23/openai-cyber-php2shell-openai-flaw-websites-hackers/",
+        "resumo": "Governments and organizations around the world began scrambling on Oct. 21, 2026, to fix a vulnerability in software that runs their websites.",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297785641-e1792787657915.jpg?resize=1200,600"
+    },
+    {
+        "titulo": "These New &#x27;AI Worms&#x27; Could Eventually Infect Your Smart Home Devices",
+        "fonte": "BGR",
+        "autor": "staff@bgr.com (Jonathan Sayers)",
+        "data": "2026-10-23",
+        "url": "https://www.bgr.com/2295781/new-ai-worm-smart-home-devices/",
+        "resumo": "AI is quickly becoming a top concern of cybersecurity. The threats are very real, and could affect our in-home gadgets like bulbs, switches, and TVs.",
+        "imagem": "https://www.bgr.com/img/gallery/these-new-ai-worms-could-eventually-infect-your-smart-home-devices/l-intro-1792782778.jpg"
+    },
+    {
+        "titulo": "The internet is having a very bad cybersecurity day – TechCrunch",
+        "fonte": "TechCrunch",
+        "autor": "terry",
+        "data": "2026-10-23",
+        "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+        "resumo": "But the PHP update wasn’t the only headache cybersecurity folks were facing on Wednesday. Node.js, the open source JavaScript runtime environment, also dropped a security surprise of its own when it shared that four high-severity vulnerabilities were just pat…",
+        "imagem": "https://techcrunch.com/wp-content/uploads/2024/05/cybersecurity-data-sharing-2024-v1.jpg?resize=1200,675"
+    },
+    {
+        "titulo": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
         "fonte": "Biztoc.com",
-        "autor": "businessinsider.com",
+        "autor": "theguardian.com",
         "data": "2026-10-23",
-        "url": "https://biztoc.com/x/ae5254668dc7cd6c",
-        "resumo": "CEOs and AI analysts alike are sounding the warning on cybersecurity vulnerabilities that could not only expose large swaths of personal data but also allow bad actors to wreak havoc on the internet. On Wednesday, OpenAI said its agents helped detect severe c…",
-        "imagem": "https://biztoc.com/cdn/ae5254668dc7cd6c_s.webp"
+        "url": "https://biztoc.com/x/3bc0d5a743d04b7f",
+        "resumo": "Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are predicting that artificial intelligence tools will expose more fundamental weaknesses in global internet infrastructure in the months to come. “I …",
+        "imagem": "https://biztoc.com/cdn/3bc0d5a743d04b7f_s.webp"
     },
     {
-        "titulo": "Should we panic and turn off the internet?",
-        "fonte": "Business Insider",
-        "autor": "Alistair Barr,Alice Tecotzky",
+        "titulo": "This Historic Cybersecurity Flaw Put 70 Percent of Websites at Risk. Patch Yours Today If You Haven’t Yet",
+        "fonte": "Biztoc.com",
+        "autor": "inc.com",
         "data": "2026-10-23",
-        "url": "https://www.businessinsider.com/cloudflare-vercel-leaders-caution-against-ai-cyber-panic-2026-10#article",
-        "resumo": "AI is exposing security holes across the web. Cloudflare and Vercel executives explain the risks and why the internet could actually become safer.",
-        "imagem": "https://i.insider.com/6ada53f32a1b5bc156b1b14c?width=1200&format=jpeg"
+        "url": "https://biztoc.com/x/166ddbbdc1b0bab3",
+        "resumo": "The critical vulnerability lurks in PHP, a language that underpins sites like Wordpress. The fix is already available.",
+        "imagem": "https://biztoc.com/cdn/166ddbbdc1b0bab3_s.webp"
     },
     {
-        "titulo": "SINEXCEL Achieves IEC 62443-4-1 Certification for Cybersecurity Compliance",
-        "fonte": "PR Newswire UK",
-        "autor": "",
+        "titulo": "Capcom and Square Enix Suffer Online Attacks As Hackers Access Player Data",
+        "fonte": "Kotaku",
+        "autor": "Alicia Haddick",
         "data": "2026-10-23",
-        "url": "https://www.prnewswire.co.uk/news-releases/sinexcel-achieves-iec-62443-4-1-certification-for-cybersecurity-compliance-302917844.html",
-        "resumo": "SHENZHEN, China, Oct. 23, 2026 /PRNewswire/ -- SINEXCEL (300693.SZ), a global provider of energy storage, EV charging, power quality, and critical power solutions for AIDC, has received IEC 62443-4-1:2018 cybersecurity certification from TÜV SÜD following an …",
-        "imagem": "https://mmx.prnewswire.com/media/MS2019356/20261022222824EDT_image_1.jpg?id=OA3036044&p=facebook"
+        "url": "https://kotaku.com/capcom-and-square-enix-suffer-online-attacks-as-hackers-access-player-data-2000749070",
+        "resumo": "Japanese companies have been facing a growing number of security breaches in recent weeks",
+        "imagem": "https://kotaku.com/app/uploads/2025/01/52e8ab9fb11874365da88ad07c50f1ab.jpg"
     },
     {
-        "titulo": "SINEXCEL Achieves IEC 62443-4-1 Certification for Cybersecurity Compliance",
-        "fonte": "PRNewswire",
-        "autor": "",
-        "data": "2026-10-23",
-        "url": "https://www.prnewswire.com/news-releases/sinexcel-achieves-iec-62443-4-1-certification-for-cybersecurity-compliance-302917844.html",
-        "resumo": "SHENZHEN, China, Oct. 23, 2026 /PRNewswire/ -- SINEXCEL (300693.SZ), a global provider of energy storage, EV charging, power quality, and critical power solutions for AIDC, has received IEC 62443-4-1:2018 cybersecurity certification from TÜV SÜD following an …",
-        "imagem": "https://mmx.prnewswire.com/media/MS2019356/20261022222824EDT_image_1.jpg?id=OA3036044&p=facebook"
-    },
-    {
-        "titulo": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+        "titulo": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
         "data": "2026-10-23",
-        "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-        "resumo": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously t…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1700-nu-rw-lo-l85-e365/phpshell.jpg"
-    },
-    {
-        "titulo": "What smart people are saying about the cybersecurity &#x27;vulnerability tsunami&#x27; that&#x27;s roiling the internet",
-        "fonte": "Biztoc.com",
-        "autor": "businessinsider.com",
-        "data": "2026-10-23",
-        "url": "https://biztoc.com/x/fe2056efcbf3f4d6",
-        "resumo": "Cybersecurity flaws were recently identified in the popular PHP programming language. Annette Riedl/picture alliance via Getty Images Executives and AI analysts alike are warning of major cybersecurity threats. Experts say critical systems, from energy and wa…",
-        "imagem": "https://biztoc.com/cdn/fe2056efcbf3f4d6_s.webp"
-    },
-    {
-        "titulo": "What smart people are saying about the cybersecurity &#x27;vulnerability tsunami&#x27; that&#x27;s roiling the internet",
-        "fonte": "Business Insider",
-        "autor": "Cheryl Teh",
-        "data": "2026-10-23",
-        "url": "https://www.businessinsider.com/what-smart-people-say-cybersecurity-openai-internet-threats-2026-10#article",
-        "resumo": "Execs and analysts are warning that major cybersecurity threats could leave critical systems — from energy and water to healthcare — especially exposed.",
-        "imagem": "https://i.insider.com/6adaefff510d67c758d86134?width=1200&format=jpeg"
-    },
-    {
-        "titulo": "Nepal Rastra Bank temporarily shuts down website, services over PHP security risk",
-        "fonte": "Peoplesreview.com.np",
-        "autor": "People&#x27;s Review",
-        "data": "2026-10-23",
-        "url": "https://peoplesreview.com.np/2026/10/23/nepal-rastra-bank-temporarily-shuts-down-website-services-over-php-security-risk/",
-        "resumo": "Kathmandu, October 23: Nepal Rastra Bank (NRB) has announced the temporary suspension of its website and other services in response to a serious security vulnerability discovered globally in PHP, a web technology. According to an urgent notice issued by the c…",
-        "imagem": "https://peoplesreview.com.np/wp-content/uploads/2026/04/nepal-rastra-bank-1771142780.jpg"
-    },
-    {
-        "titulo": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
-        "fonte": "404media.co",
-        "autor": "henryfarrell",
-        "data": "2026-10-23",
-        "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/",
-        "resumo": "AI Is Changing Everything About Hacking. No One Knows What Happens Next Jason Koebler Jason Koebler · Oct 22, 2026 at 10:23 AM &#x27;Black October:&#x27; The PHP vulnerabilities and a series of other hacks and bugs have cybersecurity experts freaking out and unsure wha…",
-        "imagem": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/getty-images-6GVNLxl6J4o-unsplash-1.jpg"
-    },
-    {
-        "titulo": "REFILE-FACTBOX-Five ways to keep safe online in the wake of AI-supercharged hacking",
-        "fonte": "BusinessLine",
-        "autor": "Alexander K S _12234",
-        "data": "2026-10-23",
-        "url": "https://www.thehindubusinessline.com/data-stories/visually/refile-factbox-five-ways-to-keep-safe-online-in-the-wake-of-ai-supercharged-hacking/article71614380.ece",
-        "resumo": "Experts outline PHP vulnerability risks and practical steps—MFA, automatic updates, patching, scam awareness, and safer online practices.",
-        "imagem": "https://bl-i.thgim.com/public/incoming/t93s04/article71057619.ece/alternates/LANDSCAPE_1200/IMG_iStock-1134588944_2_1_4O985O5H.jpg"
-    },
-    {
-        "titulo": "PHP security flaw: India activates emergency response; takes apps offline amid a global alert",
-        "fonte": "The Times of India",
-        "autor": "ET TEAM",
-        "data": "2026-10-23",
-        "url": "https://economictimes.indiatimes.com/news/india/php-security-flaw-india-activates-emergency-response-takes-apps-offline-amid-global-security-scramble/articleshow/135133459.cms",
-        "resumo": "Two critical security flaws in PHP, the programming language underpinning an estimated 70% of the internet, have triggered emergency cybersecurity measures in India. Banks are auditing applications and preparing backups, while the government is patching offic…",
-        "imagem": "https://img.etimg.com/thumb/msid-135133572,width-1200,height-900,imgsize-130214,overlay-economictimes/articleshow.jpg"
-    },
-    {
-        "titulo": "PHP security flaw: India activates emergency response; takes apps offline amid a global alert",
-        "fonte": "The Times of India",
-        "autor": "ET TEAM",
-        "data": "2026-10-23",
-        "url": "https://economictimes.indiatimes.com/tech/technology/php-security-flaw-india-activates-emergency-response-takes-apps-offline-amid-global-security-scramble/articleshow/135133793.cms",
-        "resumo": "Two critical security flaws in PHP, the programming language underpinning an estimated 70% of the internet, have triggered emergency cybersecurity measures in India. Banks are auditing applications and preparing backups, while the government is patching offic…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-130214,resizemode-75,msid-135133793/tech/technology/php-security-flaw-india-activates-emergency-response-takes-apps-offline-amid-global-security-scramble.jpg"
-    },
-    {
-        "titulo": "What is PHP? Why are governments and businesses worldwide going offline?",
-        "fonte": "Business Standard",
-        "autor": "NYT",
-        "data": "2026-10-23",
-        "url": "https://www.business-standard.com/world-news/what-is-php-why-are-governments-and-businesses-worldwide-going-offline-126102300108_1.html",
-        "resumo": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems",
-        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/23/thumb/fitandfill/1200X628/1792725052-2021.JPG"
-    },
-    {
-        "titulo": "Rush is on to patch a software vulnerability that could impact 70% of websites worldwide",
-        "fonte": "The Times of India",
-        "autor": "AP",
-        "data": "2026-10-23",
-        "url": "https://economictimes.indiatimes.com/tech/technology/rush-is-on-to-patch-a-software-vulnerability-that-could-impact-70-of-websites-worldwide/articleshow/135132230.cms",
-        "resumo": "Many government sites appeared to be functioning normally Thursday, but outages or limited service continued while security work was under way.",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2380634,resizemode-75,msid-135132230/tech/technology/rush-is-on-to-patch-a-software-vulnerability-that-could-impact-70-of-websites-worldwide.jpg"
-    },
-    {
-        "titulo": "Amex Says App and Website Disruptions ‘Not Caused by a Security Vulnerability’",
-        "fonte": "Gizmodo.com",
-        "autor": "Matt Novak",
-        "data": "2026-10-23",
-        "url": "https://gizmodo.com/amex-says-app-and-website-disruptions-not-caused-by-a-security-vulnerability-2000829700",
-        "resumo": "American Express isn&#x27;t saying precisely what caused the outages for some customers.",
-        "imagem": "https://gizmodo.com/app/uploads/2026/10/american-express-building-1200x675.jpg"
-    },
-    {
-        "titulo": "What is PHP, and how did a flaw in its code lead several websites to go dark this week?",
-        "fonte": "CBC News",
-        "autor": "Abby Hughes",
-        "data": "2026-10-23",
-        "url": "https://www.cbc.ca/news/business/php-cybersecurity-vulnerability-explainer-9.7392394",
-        "resumo": "PHP is an open-source computer language that powers an estimated 70 per cent of the internet. While websites being taken offline caused alarm, that was done to implement a fix — which cybersecurity experts say show the system for remedying such issues is work…",
-        "imagem": "https://i.cbc.ca/ais/426d0c26-4a5c-4a82-9301-105e98448d2f,1792705907651/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C208%2C4000%2C2250%29%3BResize%3D620"
+        "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+        "resumo": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 20…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1700-nu-rw-lo-l85-e365/uefi.jpg"
     }
 ]
