@@ -1,5 +1,113 @@
 [
     {
+        "titulo": "AI giant cuts internet access to its most powerful models",
+        "fonte": "Rt-english.com",
+        "autor": "RT",
+        "data": "2026-10-25",
+        "url": "https://rt-english.com/business/647636-openai-cuts-internet-powerful-models/",
+        "resumo": "OpenAI said it tightened safeguards and banned internet access for AI agents that escaped restricted environments during security testing Read Full Article at RT.com",
+        "imagem": "https://mf.b37mrtl.ru/files/2026.10/article/6addd9e285f540088c15a655.jpg"
+    },
+    {
+        "titulo": "Critical flaw affecting 70% of websites has cybersecurity world panicked",
+        "fonte": "Business Standard",
+        "autor": "The Conversation",
+        "data": "2026-10-25",
+        "url": "https://www.business-standard.com/world-news/critical-flaw-affecting-70-of-websites-has-cybersecurity-world-panicked-126102500328_1.html",
+        "resumo": "Emergency patches have been released for the vulnerability in PHP, which powers more than 70% of websites, as governments and operators warn of risks and urge developers to update systems",
+        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/23/thumb/fitandfill/1200X628/1792725052-2021.JPG"
+    },
+    {
+        "titulo": "Week in review: PHP vulnerabilities patched, exploited Palo Alto GlobalProtect VPN flaw",
+        "fonte": "Help Net Security",
+        "autor": "Help Net Security",
+        "data": "2026-10-25",
+        "url": "https://www.helpnetsecurity.com/2026/10/25/week-in-review-php-vulnerabilities-patched-exploited-palo-alto-globalprotect-vpn-flaw/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: A critical PHP security release is coming today, so get ready to update! The PHP security team has announced an urgent security release for Wednesday, 21 October…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124832/cybersecurity-week-review-2-1500.webp"
+    },
+    {
+        "titulo": "New Open-Source Cybersecurity Platform Uses AI Agents to Hunt Threats",
+        "fonte": "Medium",
+        "autor": "is_dev_active",
+        "data": "2026-10-25",
+        "url": "https://medium.com/@ai_news/argus-might-be-one-of-the-most-impressive-open-source-cybersecurity-projects-released-this-year-118043bd0c8c",
+        "resumo": "Article URL: https://medium.com/@ai_news/argus-might-be-one-of-the-most-impressive-open-source-cybersecurity-projects-released-this-year-118043bd0c8c Comments URL: https://news.ycombinator.com/item?id=50229059 Points: 12 # Comments: 1",
+        "imagem": "https://miro.medium.com/v2/resize:fit:1200/1*TFR7E0D4V5XaOp6cuWsErg.png"
+    },
+    {
+        "titulo": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-10-25",
+        "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+        "resumo": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. &quot;Based on the current state of alignment research, monitorin…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSwuCxStjU_WIIOJ5dEqVxFVQeLfJevQdmLoYLBiXsduAvosK7VfzyduIRRmiOcpl2lQlSdEoInwRkfOnR4devMGT6oI_Limrjcx8yLFsTRau7CBK76cGIMXxC916OKHtwALlELG-nPljBDVIPl2aPDOZTYqkTr6AyZMyFQ6hwUFdfx5Tr2cz8KpDSlb9j/s1700-nu-rw-lo-l85-e365/ai-agents.jpg"
+    },
+    {
+        "titulo": "NSA Urges Organizations to Patch “Catastrophic” Flaws in PHP Code",
+        "fonte": "Naturalnews.com",
+        "autor": "Chase Codewell",
+        "data": "2026-10-25",
+        "url": "https://www.naturalnews.com/2026-10-25-nsa-urges-organizations-patch-flaws-php-code.html",
+        "resumo": "The U.S. National Security Agency (NSA) advised organizations using the PHP language on Wednesday, Oct. 21, to prepare for an update addressing two critical vulnerabilities discovered by artificial intelligence (AI), according to an agency advisory. The Feder…",
+        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/php-vulnerabilities-nsa-advisory-artificial-intelligence-5513-59c34606-original.jpg"
+    },
+    {
+        "titulo": "‘Tech debt coming due’: AI-found flaw signals chaos ahead",
+        "fonte": "Digital Journal",
+        "autor": "AFP",
+        "data": "2026-10-25",
+        "url": "https://www.digitaljournal.com/article/tech-debt-coming-due-ai-found-flaw-signals-chaos-ahead/",
+        "resumo": "The vulnerability to potential hackers was found by using a powerful model from OpenAI in one of the most high-profile demonstration of AI&#x27;s cyber capabilities. The post ‘Tech debt coming due’: AI-found flaw signals chaos ahead appeared first on Digital Journ…",
+        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2021/10/cybersecurity-hackers-AFP-1K.jpg"
+    },
+    {
+        "titulo": "Only Congress can defend our right to private conversation",
+        "fonte": "Wnd.com",
+        "autor": "Bob Goodlatte, Real Clear Wire",
+        "data": "2026-10-24",
+        "url": "https://www.wnd.com/2026/10/only-congress-can-defend-our-right-private-conversation/",
+        "resumo": "Speech freedom limited &#x27;when every conversation can be construed as evidence against them&#x27;",
+        "imagem": "https://www.wnd.com/wp-content/uploads/2022/09/debate-discussion-business-meeting-conversation-Pixabay-1200x630.jpg"
+    },
+    {
+        "titulo": "U.S. CISA adds Collabora Online flaw to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-10-24",
+        "url": "https://securityaffairs.com/201652/security/u-s-cisa-adds-collabora-online-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Collabora Online flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Collabora Collabora Online – Built-in CODE Server …",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "Global PHP Security Scare Highlights Why Stealth Matters in Cyberspace",
+        "fonte": "Theaviationist.com",
+        "autor": "David Cenciotti",
+        "data": "2026-10-24",
+        "url": "https://theaviationist.com/2026/10/24/php-security-scare-stealth/",
+        "resumo": "Critical cybersecurity vulnerabilities recently made headlines, prompting warnings from U.S. and international security agencies. The incident highlights a defensive principle familiar to military aviation: reducing an adversary’s ability to detect and engage…",
+        "imagem": "https://theaviationist.com/wp-content/uploads/2026/10/B-2-cyber.jpg"
+    },
+    {
+        "titulo": "Inside the cyber flaw scramble that brought the AI threat to life",
+        "fonte": "Business Insider",
+        "autor": "Insider Inc.",
+        "data": "2026-10-24",
+        "url": "https://www.businessinsider.com/black-october-php-vulnerability-cybersecurity-ai-threat-2026-10#article",
+        "resumo": "The man who set off the chain reaction that put 70% of the web at risk explains why he did it.",
+        "imagem": "https://i.insider.com/6adbc6eec8572251b197f983?width=1200&format=jpeg"
+    },
+    {
+        "titulo": "AI is making cyber attacks too easy. Here&#x27;s what you can do about it.",
+        "fonte": "Windows Central",
+        "autor": "c.cale.hunt@gmail.com (Cale Hunt) , Cale Hunt",
+        "data": "2026-10-24",
+        "url": "https://www.windowscentral.com/microsoft/windows-help/ai-attacks-php2shell-windows-users-mitigation",
+        "resumo": "This week&#x27;s PHP crisis should be a wake-up call for anyone thinking AI won&#x27;t pose unprecedented security risks. I explain in simple terms what happened, why it matters for the future, and what you can do to keep yourself safe as a regular Windows user.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/oA4sqhqjymemtmKSxidNr6-2560-80.jpg"
+    },
+    {
         "titulo": "AI Terrorism Is Just Terrorism",
         "fonte": "The Atlantic",
         "autor": "Ian Bogost",
@@ -61,113 +169,5 @@
         "url": "https://blogdoandroid.com/php-vulnerabilities-wordpress/",
         "resumo": "PHP vulnerabilities WordPress are posing serious threats to sites. Learn how to protect your WordPress site effectively.",
         "imagem": "https://blogdoandroid.com/wp-content/uploads/2026/10/php-vulnerabilities-wordpress.png"
-    },
-    {
-        "titulo": "UK commits approximately £600 million to AI security, with a biosecurity lab at the center",
-        "fonte": "Crypto Briefing",
-        "autor": "Diego Almada Lopez",
-        "data": "2026-10-24",
-        "url": "https://cryptobriefing.com/uk-600-million-ai-security-biosecurity-lab/",
-        "resumo": "The UK&#x27;s investment in AI security could position it as a leader in biosecurity innovation, influencing global standards and collaborations. The post UK commits approximately £600 million to AI security, with a biosecurity lab at the center appeared first on …",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/23221346/library-uk-commits-approximately-600-million-to-ai-security-with-800x450.png"
-    },
-    {
-        "titulo": "Moonshot AI launches new flagship Kim K3.1 Pro model with 3T parameters",
-        "fonte": "SiliconANGLE News",
-        "autor": "Maria Deutscher",
-        "data": "2026-10-24",
-        "url": "https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/",
-        "resumo": "Moonshot AI today introduced Kim K3.1 Pro, a large language model that can perform some tasks better than Claude Opus 5.5 and GPT-6 Astra. The LLM is a post-trained, or upgraded, version of an algorithm that the Chinese artificial intelligence company release…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/unsplash2-2.png"
-    },
-    {
-        "titulo": "The Vulnerability Apocalypse and Why We Should Fund Open Source",
-        "fonte": "EFF",
-        "autor": "Cooper Quintin",
-        "data": "2026-10-23",
-        "url": "https://www.eff.org/deeplinks/2026/10/vulnerability-apocalypse-and-why-we-should-fund-open-source",
-        "resumo": "If you use the internet at all, you may have noticed that a large percentage of sites suddenly went down earlier this week—and all your nerdiest friends were talking about &quot;The Vulnerability Apocalypse” and this thing called PHP that powers nearly 70% of the …",
-        "imagem": "https://www.eff.org/files/banner_library/OG-GovernmentHacking-Playpen.png"
-    },
-    {
-        "titulo": "How worried should I be about the AI hacking panic and “Black October”?",
-        "fonte": "Vox",
-        "autor": "Cameron Peters, Adam Clark Estes",
-        "data": "2026-10-23",
-        "url": "https://www.vox.com/today-explained-newsletter/507486/ai-hacking-php-cybersecurity-what-to-do",
-        "resumo": "This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here. Are we living through “Black October”? Maybe, according to cybersecurity experts who are raising the alarm a…",
-        "imagem": "https://platform.vox.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300746159.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-        "titulo": "Introducing Agentic Evaluation in FAITH",
-        "fonte": "Cisco.com",
-        "autor": "Kimia Majd",
-        "data": "2026-10-23",
-        "url": "https://blogs.cisco.com/ai/introducing-agentic-evaluation-in-faith",
-        "resumo": "As AI agents become more capable and their use expands across cybersecurity and other domains, the need for effective evaluation grows. An agent investigating a codebase makes a sequence of decisions: where to look, which tools to use, how to......",
-        "imagem": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/Behind-the-monitor-in-an-AI-studio.png"
-    },
-    {
-        "titulo": "How an OpenAI model exposed a flaw in 70% of the internet’s websites",
-        "fonte": "Fortune",
-        "autor": "Doug Jacobson, The Conversation",
-        "data": "2026-10-23",
-        "url": "https://fortune.com/2026/10/23/openai-cyber-php2shell-openai-flaw-websites-hackers/",
-        "resumo": "Governments and organizations around the world began scrambling on Oct. 21, 2026, to fix a vulnerability in software that runs their websites.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297785641-e1792787657915.jpg?resize=1200,600"
-    },
-    {
-        "titulo": "These New &#x27;AI Worms&#x27; Could Eventually Infect Your Smart Home Devices",
-        "fonte": "BGR",
-        "autor": "staff@bgr.com (Jonathan Sayers)",
-        "data": "2026-10-23",
-        "url": "https://www.bgr.com/2295781/new-ai-worm-smart-home-devices/",
-        "resumo": "AI is quickly becoming a top concern of cybersecurity. The threats are very real, and could affect our in-home gadgets like bulbs, switches, and TVs.",
-        "imagem": "https://www.bgr.com/img/gallery/these-new-ai-worms-could-eventually-infect-your-smart-home-devices/l-intro-1792782778.jpg"
-    },
-    {
-        "titulo": "The internet is having a very bad cybersecurity day – TechCrunch",
-        "fonte": "TechCrunch",
-        "autor": "terry",
-        "data": "2026-10-23",
-        "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
-        "resumo": "But the PHP update wasn’t the only headache cybersecurity folks were facing on Wednesday. Node.js, the open source JavaScript runtime environment, also dropped a security surprise of its own when it shared that four high-severity vulnerabilities were just pat…",
-        "imagem": "https://techcrunch.com/wp-content/uploads/2024/05/cybersecurity-data-sharing-2024-v1.jpg?resize=1200,675"
-    },
-    {
-        "titulo": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
-        "fonte": "Biztoc.com",
-        "autor": "theguardian.com",
-        "data": "2026-10-23",
-        "url": "https://biztoc.com/x/3bc0d5a743d04b7f",
-        "resumo": "Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are predicting that artificial intelligence tools will expose more fundamental weaknesses in global internet infrastructure in the months to come. “I …",
-        "imagem": "https://biztoc.com/cdn/3bc0d5a743d04b7f_s.webp"
-    },
-    {
-        "titulo": "This Historic Cybersecurity Flaw Put 70 Percent of Websites at Risk. Patch Yours Today If You Haven’t Yet",
-        "fonte": "Biztoc.com",
-        "autor": "inc.com",
-        "data": "2026-10-23",
-        "url": "https://biztoc.com/x/166ddbbdc1b0bab3",
-        "resumo": "The critical vulnerability lurks in PHP, a language that underpins sites like Wordpress. The fix is already available.",
-        "imagem": "https://biztoc.com/cdn/166ddbbdc1b0bab3_s.webp"
-    },
-    {
-        "titulo": "Capcom and Square Enix Suffer Online Attacks As Hackers Access Player Data",
-        "fonte": "Kotaku",
-        "autor": "Alicia Haddick",
-        "data": "2026-10-23",
-        "url": "https://kotaku.com/capcom-and-square-enix-suffer-online-attacks-as-hackers-access-player-data-2000749070",
-        "resumo": "Japanese companies have been facing a growing number of security breaches in recent weeks",
-        "imagem": "https://kotaku.com/app/uploads/2025/01/52e8ab9fb11874365da88ad07c50f1ab.jpg"
-    },
-    {
-        "titulo": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-23",
-        "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-        "resumo": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 20…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1700-nu-rw-lo-l85-e365/uefi.jpg"
     }
 ]
