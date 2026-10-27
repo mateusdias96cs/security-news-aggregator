@@ -1,5 +1,149 @@
 [
     {
+        "titulo": "Popcorn Time’s forgotten updater left millions of devices exposed to hijacking",
+        "fonte": "Malwarebytes.com",
+        "autor": "Pieter Arntz",
+        "data": "2026-10-26",
+        "url": "http://www.malwarebytes.com/blog/news/2026/10/popcorn-times-forgotten-updater-left-millions-of-devices-exposed-to-hijacking",
+        "resumo": "The update process for an abandoned streaming app could let attackers take over PCs. If you ever used Popcorn Time, check your devices.",
+        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/10/Popcorn_Time_logo.png"
+    },
+    {
+        "titulo": "We shouldn&#x27;t be surprised about the PHPocalypse, as the internet is built on sticks and glue",
+        "fonte": "Theregister.com",
+        "autor": "Brandon Vigliarolo",
+        "data": "2026-10-26",
+        "url": "https://www.theregister.com/security/2026/10/26/we-shouldnt-be-surprised-about-the-phpocalypse-as-the-internet-is-built-on-sticks-and-glue/5305186",
+        "resumo": "What better way to celebrate Cybersecurity Awareness Month than warning that three-quarters of the web is about to be set on fire?",
+        "imagem": "https://image.theregister.com/5305338.jpg?imageId=5305338&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+        "titulo": "Bitcoin hacking challenge finally falls as researcher proves critical PHP flaw is exploitable",
+        "fonte": "CryptoSlate",
+        "autor": "Oluwapelumi Adejumo",
+        "data": "2026-10-26",
+        "url": "https://cryptoslate.com/bitcoin-hacking-challenge-finally-falls-as-researcher-proves-critical-php-flaw-is-exploitable/",
+        "resumo": "The operator accepted the PHP challenge solve despite a wallet mistake, while the harder question remains who turns discoveries into deployed fixes. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Ca…",
+        "imagem": "https://cryptoslate.com/wp-content/uploads/2026/10/php-server-patch-maintenance.webp"
+    },
+    {
+        "titulo": "The UK government wants to invest £100 million in a ‘world first’ AI Biosecurity Lab — OpenAI and Anthropic to supply £200 million in credits to help safeguard national security",
+        "fonte": "TechRadar",
+        "autor": "benedict.collins@futurenet.com (Benedict Collins) , Benedict Collins",
+        "data": "2026-10-26",
+        "url": "https://www.techradar.com/pro/security/the-uk-government-wants-to-invest-gbp100-million-in-a-world-first-ai-biosecurity-lab-openai-and-anthropic-to-supply-gbp200-million-in-credits-to-help-safeguard-national-security",
+        "resumo": "AI is a tool for good, and for bad, as UK government looks to protect against new AI-enabled cyber and biological threats",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/aFmepaTT9cGX7RJb5SEueZ-940-80.jpg"
+    },
+    {
+        "titulo": "Lack of funding likely led to the recent PHP security snafu, but that&#x27;s just the tip of the iceberg",
+        "fonte": "Toms Hardware UK",
+        "autor": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
+        "data": "2026-10-26",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/lack-of-funding-likely-led-to-the-recent-php-security-snafu-but-thats-just-the-tip-of-the-iceberg-a-dreary-situation-caused-by-services-running-old-versions-with-no-support",
+        "resumo": "Lack of funding likely led to the recent PHP security snafu, but that&#x27;s just the tip of the iceberg — dreary situation caused by services running old versions with no support",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/treU54HC35g9uxgWUT2cYD-1920-80.png"
+    },
+    {
+        "titulo": "Open Channels FM: AI in Cybersecurity: Balancing Speed and Human Oversight",
+        "fonte": "Openchannels.fm",
+        "autor": "Open Channels FM",
+        "data": "2026-10-26",
+        "url": "https://openchannels.fm/ai-in-cybersecurity-balancing-speed-and-human-oversight/",
+        "resumo": "As AI revolutionizes cybersecurity, organizations struggle with rapid vulnerability detection versus slow human remediation. Balancing efficiency and accountability is crucial, as maintaining human oversight prevents potentially catastrophic errors.",
+        "imagem": "https://i0.wp.com/openchannels.fm/wp-content/uploads/2026/10/hurdles-in-security.jpg?fit=1200%2C675&quality=89&ssl=1"
+    },
+    {
+        "titulo": "Fortinet patches critical FortiOS flaws found with AI help",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-10-26",
+        "url": "https://www.helpnetsecurity.com/2026/10/26/fortinet-patches-critical-fortios-flaws-found-with-ai-help/",
+        "resumo": "Fortinet rolled out security hardening updates for FortiOS, FortiManager, FortiAnalyzer, FortiMail, and FortiAuthenticator last week, but is keeping the details about the fixed vulnerabilities under wraps until November 10, 2026. The vulnerabilities were unco…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/01/21163736/fortinet-man-1500.webp"
+    },
+    {
+        "titulo": "Britain bets big on AI to defend against the threats AI is helping create",
+        "fonte": "Theregister.com",
+        "autor": "Carly Page",
+        "data": "2026-10-26",
+        "url": "https://www.theregister.com/security/2026/10/26/britain-bets-big-on-ai-to-defend-against-the-threats-ai-is-helping-create/5305319",
+        "resumo": "Whitehall wants agents guarding critical infrastructure as part of a wider £600M spending spree",
+        "imagem": "https://image.theregister.com/5267881.jpg?imageId=5267881&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+        "titulo": "Blue Initiative Offers Maritime Sector Dedicated Vulnerability Database",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Phil Muncaster",
+        "data": "2026-10-26",
+        "url": "https://www.infosecurity-magazine.com/news/blue-initiative-maritime/",
+        "resumo": "Blue Initiative launches a new vulnerability database for IT and OT CVEs relevant to the maritime industry",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/4ffb4442-ecc6-46c0-aa9e-a117722b8878.jpg"
+    },
+    {
+        "titulo": "PHP2Shell is a warning shot for vulnerability disclosure",
+        "fonte": "Theregister.com",
+        "autor": "Rupert Goodwins",
+        "data": "2026-10-26",
+        "url": "https://www.theregister.com/columnists/2026/10/26/php2shell-is-a-warning-shot-for-vulnerability-disclosure/5304918",
+        "resumo": "Keeping secrets is difficult in an open world, but we&#x27;ve done it before and must do it again",
+        "imagem": "https://image.theregister.com/1621607.jpg?imageId=1621607&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+        "titulo": "PHP2Shell security flaws now sucessfully exploited in the wild",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-10-26",
+        "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+        "resumo": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/26/PHP-headpic.jpg"
+    },
+    {
+        "titulo": "Major Internet Security Scare: Government Websites in Europe Go Offline After PHP Vulnerability Disclosure",
+        "fonte": "Naturalnews.com",
+        "autor": "Edison Reed",
+        "data": "2026-10-26",
+        "url": "https://www.naturalnews.com/2026-10-26-government-websites-europe-go-offline-php-vulnerability.html",
+        "resumo": "Government websites in Europe and elsewhere went offline on Wednesday, Oct. 21, after the disclosure of critical vulnerabilities in PHP, a widely used open-source programming language, according to Reuters [1]. Around 13:45 GMT on Wednesday, developers said t…",
+        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/Cyber-Lock-Theft-Digital.jpg"
+    },
+    {
+        "titulo": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+        "fonte": "Cointelegraph",
+        "autor": "Cointelegraph by Andrew Fenton",
+        "data": "2026-10-25",
+        "url": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest",
+        "resumo": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. New site says ‘Steal My Bitcoin’... if you can.",
+        "imagem": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5TEA8K047VPRWAXPGMZR148/final-collage-oct-23-png.png"
+    },
+    {
+        "titulo": "The benefits of the underground cloud",
+        "fonte": "Wnd.com",
+        "autor": "RealClearWire",
+        "data": "2026-10-25",
+        "url": "https://www.wnd.com/2026/10/benefits-underground-cloud/",
+        "resumo": "&#x27;A few hundred feet of rock may be one of the oldest technologies available for protecting the newest&#x27;",
+        "imagem": "https://www.wnd.com/wp-content/uploads/2015/09/Sept-14-2015-4-1200x630.jpg"
+    },
+    {
+        "titulo": "Sam Altman says he cannot stop ChatGPT from aiding cybersecurity work",
+        "fonte": "Crypto Briefing",
+        "autor": "Diego Almada Lopez",
+        "data": "2026-10-25",
+        "url": "https://cryptobriefing.com/sam-altman-chatgpt-cybersecurity-patching/",
+        "resumo": "AI&#x27;s dual-use nature in cybersecurity poses significant risks, necessitating urgent collective action to safeguard critical infrastructure. The post Sam Altman says he cannot stop ChatGPT from aiding cybersecurity work appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/25113424/library-sam-altman-says-he-cannot-stop-chatgpt-from-aiding-cyber-800x450.png"
+    },
+    {
+        "titulo": "AI can uncover hidden software flaws, but raises new security risks",
+        "fonte": "BusinessLine",
+        "autor": "Sanjana B",
+        "data": "2026-10-25",
+        "url": "https://www.thehindubusinessline.com/info-tech/ai-can-uncover-hidden-software-flaws-but-raises-new-security-risks/article71623946.ece",
+        "resumo": "On October 21, PHP released fixes for two critical vulnerabilities that could enable unauthenticated remote code execution (RCE), urging users to update to the latest supported PHP 8 versions.",
+        "imagem": "https://bl-i.thgim.com/public/incoming/9ou5rk/article71624036.ece/alternates/LANDSCAPE_1200/IMG_iStock-2287745041_2_1_CKGHIOJN.jpg"
+    },
+    {
         "titulo": "AI giant cuts internet access to its most powerful models",
         "fonte": "Rt-english.com",
         "autor": "RT",
@@ -34,140 +178,5 @@
         "url": "https://medium.com/@ai_news/argus-might-be-one-of-the-most-impressive-open-source-cybersecurity-projects-released-this-year-118043bd0c8c",
         "resumo": "Article URL: https://medium.com/@ai_news/argus-might-be-one-of-the-most-impressive-open-source-cybersecurity-projects-released-this-year-118043bd0c8c Comments URL: https://news.ycombinator.com/item?id=50229059 Points: 12 # Comments: 1",
         "imagem": "https://miro.medium.com/v2/resize:fit:1200/1*TFR7E0D4V5XaOp6cuWsErg.png"
-    },
-    {
-        "titulo": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-25",
-        "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-        "resumo": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. &quot;Based on the current state of alignment research, monitorin…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSwuCxStjU_WIIOJ5dEqVxFVQeLfJevQdmLoYLBiXsduAvosK7VfzyduIRRmiOcpl2lQlSdEoInwRkfOnR4devMGT6oI_Limrjcx8yLFsTRau7CBK76cGIMXxC916OKHtwALlELG-nPljBDVIPl2aPDOZTYqkTr6AyZMyFQ6hwUFdfx5Tr2cz8KpDSlb9j/s1700-nu-rw-lo-l85-e365/ai-agents.jpg"
-    },
-    {
-        "titulo": "NSA Urges Organizations to Patch “Catastrophic” Flaws in PHP Code",
-        "fonte": "Naturalnews.com",
-        "autor": "Chase Codewell",
-        "data": "2026-10-25",
-        "url": "https://www.naturalnews.com/2026-10-25-nsa-urges-organizations-patch-flaws-php-code.html",
-        "resumo": "The U.S. National Security Agency (NSA) advised organizations using the PHP language on Wednesday, Oct. 21, to prepare for an update addressing two critical vulnerabilities discovered by artificial intelligence (AI), according to an agency advisory. The Feder…",
-        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/php-vulnerabilities-nsa-advisory-artificial-intelligence-5513-59c34606-original.jpg"
-    },
-    {
-        "titulo": "‘Tech debt coming due’: AI-found flaw signals chaos ahead",
-        "fonte": "Digital Journal",
-        "autor": "AFP",
-        "data": "2026-10-25",
-        "url": "https://www.digitaljournal.com/article/tech-debt-coming-due-ai-found-flaw-signals-chaos-ahead/",
-        "resumo": "The vulnerability to potential hackers was found by using a powerful model from OpenAI in one of the most high-profile demonstration of AI&#x27;s cyber capabilities. The post ‘Tech debt coming due’: AI-found flaw signals chaos ahead appeared first on Digital Journ…",
-        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2021/10/cybersecurity-hackers-AFP-1K.jpg"
-    },
-    {
-        "titulo": "Only Congress can defend our right to private conversation",
-        "fonte": "Wnd.com",
-        "autor": "Bob Goodlatte, Real Clear Wire",
-        "data": "2026-10-24",
-        "url": "https://www.wnd.com/2026/10/only-congress-can-defend-our-right-private-conversation/",
-        "resumo": "Speech freedom limited &#x27;when every conversation can be construed as evidence against them&#x27;",
-        "imagem": "https://www.wnd.com/wp-content/uploads/2022/09/debate-discussion-business-meeting-conversation-Pixabay-1200x630.jpg"
-    },
-    {
-        "titulo": "U.S. CISA adds Collabora Online flaw to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-10-24",
-        "url": "https://securityaffairs.com/201652/security/u-s-cisa-adds-collabora-online-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Collabora Online flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Collabora Collabora Online – Built-in CODE Server …",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "Global PHP Security Scare Highlights Why Stealth Matters in Cyberspace",
-        "fonte": "Theaviationist.com",
-        "autor": "David Cenciotti",
-        "data": "2026-10-24",
-        "url": "https://theaviationist.com/2026/10/24/php-security-scare-stealth/",
-        "resumo": "Critical cybersecurity vulnerabilities recently made headlines, prompting warnings from U.S. and international security agencies. The incident highlights a defensive principle familiar to military aviation: reducing an adversary’s ability to detect and engage…",
-        "imagem": "https://theaviationist.com/wp-content/uploads/2026/10/B-2-cyber.jpg"
-    },
-    {
-        "titulo": "Inside the cyber flaw scramble that brought the AI threat to life",
-        "fonte": "Business Insider",
-        "autor": "Insider Inc.",
-        "data": "2026-10-24",
-        "url": "https://www.businessinsider.com/black-october-php-vulnerability-cybersecurity-ai-threat-2026-10#article",
-        "resumo": "The man who set off the chain reaction that put 70% of the web at risk explains why he did it.",
-        "imagem": "https://i.insider.com/6adbc6eec8572251b197f983?width=1200&format=jpeg"
-    },
-    {
-        "titulo": "AI is making cyber attacks too easy. Here&#x27;s what you can do about it.",
-        "fonte": "Windows Central",
-        "autor": "c.cale.hunt@gmail.com (Cale Hunt) , Cale Hunt",
-        "data": "2026-10-24",
-        "url": "https://www.windowscentral.com/microsoft/windows-help/ai-attacks-php2shell-windows-users-mitigation",
-        "resumo": "This week&#x27;s PHP crisis should be a wake-up call for anyone thinking AI won&#x27;t pose unprecedented security risks. I explain in simple terms what happened, why it matters for the future, and what you can do to keep yourself safe as a regular Windows user.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/oA4sqhqjymemtmKSxidNr6-2560-80.jpg"
-    },
-    {
-        "titulo": "AI Terrorism Is Just Terrorism",
-        "fonte": "The Atlantic",
-        "autor": "Ian Bogost",
-        "data": "2026-10-24",
-        "url": "https://www.theatlantic.com/ideas/2026/10/ai-terrorism-technology/689137/?utm_source=feed",
-        "resumo": "The new technology hasn’t fundamentally transformed the problem—at least not yet.",
-        "imagem": ""
-    },
-    {
-        "titulo": "PHP is in the foundation of 70% of websites – here’s what it is and why a flaw in the software is a major hacking threat",
-        "fonte": "Geeksaresexy.net",
-        "autor": "Geeks are Sexy",
-        "data": "2026-10-24",
-        "url": "https://www.geeksaresexy.net/2026/10/24/php-is-in-the-foundation-of-70-of-websites-heres-what-it-is-and-why-a-flaw-in-the-software-is-a-major-hacking-threat/",
-        "resumo": "PHP is a key building block of most websites. Richard Drury/DigitalVision via Getty Images Doug Jacobson, Iowa State University Governments and organizations around the world began scrambling on Oct. 21, 2026, to fix a vulnerability in software that runs thei…",
-        "imagem": "https://images.theconversation.com/files/767981/original/file-20261023-50-hmz6ge.jpg?ixlib=rb-4.1.1&rect=21%2C835%2C4568%2C2442&q=45&auto=format&w=754&fit=clip"
-    },
-    {
-        "titulo": "Halifax Water breach raises questions about ethical hacking",
-        "fonte": "CBC News",
-        "autor": "Colin North",
-        "data": "2026-10-24",
-        "url": "https://www.cbc.ca/news/canada/nova-scotia/halifax-water-ethical-hacking-9.7387086",
-        "resumo": "A third-party security tip dismissed as spam by Halifax Water is raising questions about ethical hacking and how organizations handle unauthorized vulnerability reports.",
-        "imagem": "https://i.cbc.ca/ais/0d680b3e-05aa-4c26-9bb7-fc827ff508f1,1761925963835/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D620"
-    },
-    {
-        "titulo": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-24",
-        "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmm0pKX3kbfMC2GKemUiMT8PH1uDJIHn4AcmoiQ5nUK4TWZl0Ni_-k6kjpAFUrFzEWSSq_G307YJXTXmn9FZ7q6oOr5OEMASP9mrXOXrk9lSOGzqPCAbkQqpHsMxFe1q5CnyDZnqeDq_FiiC7jEzp0ie1r_nnQOSKcbPcKBdoXI-ycAjCZA9AuxemUhE5k/s1700-nu-rw-lo-l85-e365/arista-cisa.jpg"
-    },
-    {
-        "titulo": "Critical PHP vulnerabilities force government websites offline",
-        "fonte": "Naturalnews.com",
-        "autor": "Ramon Tomey",
-        "data": "2026-10-24",
-        "url": "https://www.naturalnews.com/2026-10-24-critical-php-vulnerabilities-force-govt-websites-offline.html",
-        "resumo": "Government agencies across Europe, Asia and North America took websites offline on Oct. 21 after OpenAI’s GPT 5.6-Sol AI model uncovered critical flaws in the PHP programming language, affecting up to 70% of the internet. The two vulnerabilities, dubbed PHP2S…",
-        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/cyber-attacks-ceasefire-hybrid-warfare-1235-original.jpg"
-    },
-    {
-        "titulo": "RI, Australia push regional cooperation against transnational crime",
-        "fonte": "Antaranews.com",
-        "autor": "Fianda Sjofjan R, Martha Herlinawati Simanjuntak",
-        "data": "2026-10-24",
-        "url": "https://en.antaranews.com/news/437607/ri-australia-push-regional-cooperation-against-transnational-crime",
-        "resumo": "Indonesian and Australian governments push stronger regional security cooperation to combat terrorism and transnational crime, including human trafficking, ...",
-        "imagem": "https://cdn.antaranews.com/cache/1200x800/2026/10/23/1000645733.jpg"
-    },
-    {
-        "titulo": "PHP vulnerabilities WordPress: Worst Threats to Sites",
-        "fonte": "Blogdoandroid.com",
-        "autor": "edward",
-        "data": "2026-10-24",
-        "url": "https://blogdoandroid.com/php-vulnerabilities-wordpress/",
-        "resumo": "PHP vulnerabilities WordPress are posing serious threats to sites. Learn how to protect your WordPress site effectively.",
-        "imagem": "https://blogdoandroid.com/wp-content/uploads/2026/10/php-vulnerabilities-wordpress.png"
     }
 ]
