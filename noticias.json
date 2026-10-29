@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Is It Already Too Late to Reduce Catastrophic AI Risk?",
-        "fonte": "The Good Men Project",
-        "autor": "Harvard Gazette",
-        "data": "2026-10-27",
-        "url": "https://goodmenproject.com/featured-content/is-it-already-too-late-to-reduce-catastrophic-ai-risk/",
-        "resumo": "New Kennedy School ‘pre-mortem’ lays out threats, vulnerabilities, and possible steps, warns firms must act now The post Is It Already Too Late to Reduce Catastrophic AI Risk? appeared first on The Good Men Project.",
-        "imagem": "https://goodmenproject.com/wp-content/uploads/2026/10/abu-saeid-fdGTi4IcaJc-unsplash.jpg"
+        "titulo": "Apple’s New iPhone Attack Is a Serious Threat",
+        "fonte": "Thoughtcatalog.com",
+        "autor": "Jerome London",
+        "data": "2026-10-28",
+        "url": "https://thoughtcatalog.com/jeremy-london/2026/10/apples-new-iphone-attack-is-a-serious-threat/",
+        "resumo": "Apple says an iPhone security flaw may have been used against specific people in an “extremely sophisticated attack.” A file designed to exploit it could let an attacker run code inside the app that processes it.",
+        "imagem": "https://thoughtcatalog.com/wp-content/uploads/2026/10/apple-s-new-iphone-attack-is-a-serious-threat.jpg?w=1536&h=768&crop=1"
     },
     {
-        "titulo": "Post-Quantum Cryptography Market worth $3.80 billion by 2031 - Report by MarketsandMarkets™",
-        "fonte": "PR Newswire UK",
-        "autor": "",
-        "data": "2026-10-27",
-        "url": "https://www.prnewswire.co.uk/news-releases/post-quantum-cryptography-market-worth-3-80-billion-by-2031--report-by-marketsandmarkets-302920602.html",
-        "resumo": "DELRAY BEACH, Fla., Oct. 27, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Post-Quantum Cryptography Market is projected to grow from USD 0.60 billion in 2026 to USD 3.80 billion by 2031, registering a CAGR of 44.5% during the forecast period. Bro…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA3041484&p=facebook"
+        "titulo": "Understanding the influencing factors of telemedicine service adoption in post-pandemic Bangladesh: An extended TAM and UTAUT2 model analysis",
+        "fonte": "Plos.org",
+        "autor": "Mohammad Rakibul Islam Bhuiyan, Md Abu Sayem, Niaz Makhdum",
+        "data": "2026-10-28",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361691",
+        "resumo": "In the post-pandemic period, telemedicine services are a new addition to health sectors that facilitate bridging the gap for patients in rural and marginalized areas. The study aims to comprehend the different influential factors associated with adopting tele…",
+        "imagem": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0361691.g002&size=inline"
     },
     {
-        "titulo": "What Is PHP and How Did a Hidden Bug Put Websites Worldwide at Risk?",
-        "fonte": "Mashable",
-        "autor": "Priya Singh",
-        "data": "2026-10-27",
-        "url": "https://in.mashable.com/tech/115423/what-is-php-and-how-did-a-hidden-bug-put-websites-worldwide-at-risk",
-        "resumo": "A critical PHP vulnerability has sparked millions of exploit attempts, putting websites at risk of cyberattacks and data theft and prompting urgent security updates worldwide.",
-        "imagem": "https://sm.mashable.com/mashable_in/seo/default/z3wq-2026-10-27t182644479_xzbr.jpg"
+        "titulo": "Cybersecurity’s Black October: How to protect yourself",
+        "fonte": "Cointelegraph",
+        "autor": "Cointelegraph by Christina Comben",
+        "data": "2026-10-28",
+        "url": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself",
+        "resumo": "Black October has seen a wave of AI-powered hacks and newly discovered vulnerabilities, leading to questions about if the entire internet is at risk. Here’s how you can stay safe.",
+        "imagem": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W2T7CFH7Z6NC9XTVMGFV98/magazine-magazine-meet-the-do-good-hackers-brute-forcing.jpg"
     },
     {
-        "titulo": "Whole-of-state defense: How SLED agencies can secure critical infrastructure in the AI era",
-        "fonte": "Tenable.com",
-        "autor": "Christopher Day",
-        "data": "2026-10-27",
-        "url": "https://www.tenable.com/blog/whole-of-state-security-sled-critical-infrastructure",
-        "resumo": "AI is widening the attack surface of the critical infrastructure facilities and services that state, local, and education (SLED) organizations run. In the final post of our Cybersecurity Awareness Month series, we explain how a whole-of-state security approac…",
-        "imagem": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/Whole-of-state%20defense%20How%20SLED%20agencies%20can%20secure%20critical%20infrastructure%20in%20the%20AI%20era.png?itok=UJkfppEW"
-    },
-    {
-        "titulo": "Mitsubishi Electric GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-10-27",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02",
-        "resumo": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute arbitrary code (CVE-2023-4863), bypass authentication (CVE-2026-16436 and CVE-2026-16437), or perform arbitrary operations (CVE-2026-16438), resulting in inf…",
-        "imagem": ""
-    },
-    {
-        "titulo": "OT Security Still Buys Visibility. Plants Need Consequence Control",
-        "fonte": "Cloudtweaks.com",
-        "autor": "Gary Bernstein",
-        "data": "2026-10-27",
-        "url": "https://cloudtweaks.com/2026/10/ot-security-still-buys-visibility-plants-need-consequence-control/",
-        "resumo": "OT Security Still Buys Visibility Seeing every PLC doesn’t stop an unsafe process state. OT programs should fund consequence management next. Full visibility into operational technology is still rare. Where it exists, it doesn’t decide whether a plant stays i…",
-        "imagem": "https://cloudtweaks.com/wp-content/uploads/2020/10/Gary-Bernstein.jpg"
-    },
-    {
-        "titulo": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+        "titulo": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-27",
-        "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-        "resumo": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoWz3Ex4w0TebsrzDSdna5WAjqoQx5EHWC1kY3db9VgMg6FrGK6VbncVA9b3tKdPnqlR6qmdwsq7CT1f-Cp57WpH6lpfoF-5zb_Xg-ahdsNxO4OUTsdDVeO_8s7SQFLp54SrsWlWrZn-37sAcqv1ZeG_7Yc62vQ5X9Tq-MlIEm6EOQOiTkQVlcy9F4VG4/s1700-nu-rw-lo-l85-e365/korean-malware.jpg"
+        "data": "2026-10-28",
+        "url": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+        "resumo": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) in the Oracle Applicatio…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBB03AGS7veiAqQ7-xPeadzhhaRvDmhOlLgQcDN0y-r1na_us5yomWjBEXCbwbw8OW_o8SSGjjqk4VZFQ4ZxLiWKQPZxlcBkzJ5lv3OlEV0rOETUKyQzWoZ74LGpSjOjrScmk1rVf0OhRmDACHG3jwSDfBnnta75I_3s_nuoWGZmcfg7NZfHBp_PEIl8aj/s1700-nu-rw-lo-l85-e365/oracle-hack.jpg"
     },
     {
-        "titulo": "Anthropic&#x27;s Mythos 5 ignored risks, targeted real GitHub project in test",
-        "fonte": "Business Standard",
-        "autor": "Sweta Kumari",
-        "data": "2026-10-27",
-        "url": "https://www.business-standard.com/technology/artificial-intelligence/anthropic-s-mythos-5-ignored-risks-targeted-real-github-project-in-test-126102700977_1.html",
-        "resumo": "Anthropic&#x27;s Mythos 5 incident has raised concerns over AI agents acting beyond their intended tasks, prompting calls for stronger cybersecurity safeguards, independent testing and global oversight",
-        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/29/thumb/featurecrop/1200X628/1785321270-6556.png"
+        "titulo": "A Shared Language for Agent Defense: Introducing Project Quarry",
+        "fonte": "Cisco.com",
+        "autor": "Adam Swanda",
+        "data": "2026-10-28",
+        "url": "https://blogs.cisco.com/ai/project-quarry-agent-security-detections",
+        "resumo": "AI agents now read, decide, and act on their own, and the attacks against them unfold across many ordinary, permitted steps that most of today&#x27;s defenses were not built to connect. Project Quarry (“Quarry”), which we are open sourcing today, is a...",
+        "imagem": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/Screenshot-2026-10-27-at-5.45.31-PM-1024x576.png"
     },
     {
-        "titulo": "AI is making scams against older Americans more convincing. Experts share how to spot the new red flags.",
-        "fonte": "Business Insider",
-        "autor": "Noah Sheidlower",
-        "data": "2026-10-27",
-        "url": "https://www.businessinsider.com/ai-scams-older-americans-experts-red-flags-2026-10#article",
-        "resumo": "AI is making scams targeting older Americans harder to detect, from voice cloning to convincing phishing messages. Five experts share warning signs.",
-        "imagem": "https://i.insider.com/6adf7d8cab741a2ebdf115cf?width=1200&format=jpeg"
+        "titulo": "Northstar launches with $7M to give AI agents the context to act on security risks",
+        "fonte": "SiliconANGLE News",
+        "autor": "Duncan Riley",
+        "data": "2026-10-28",
+        "url": "https://siliconangle.com/2026/10/28/northstar-launches-with-7m-to-give-ai-agents-the-context-to-act-on-security-risks/",
+        "resumo": "Cybersecurity startup Northstar Security AI Inc. launched today with $7 million in new funding to give artificial intelligence agents the context they need to act on security risks. Northstar offers a platform that feeds data from a company’s existing securit…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Amer_Deeba_Northstar-scaled.jpg"
     },
     {
-        "titulo": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+        "titulo": "Wazuh and AI for Enhanced SOC Workflows",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-10-28",
+        "url": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
+        "resumo": "Artificial Intelligence (AI) has become one of this decade&#x27;s defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, …",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo5_lgjV0zvHt5XW8CcCjQnBc_cvxOxrGxsrliXv3s9c6RD-Aw7eXOlNrp78QHxSnVO5yBgphx7KqCjkjje3YbwCFUtXUdLN4xA-sW_zVoFsK7au37XZxUPyoDRlhCIGsxc2at70I_FexwVKgdyub-XuuvwIZCy1o6hoCU50o7lhHWDSgktrcsrXkN9p8/s1700-nu-rw-lo-l85-e365/wazuh.png"
+    },
+    {
+        "titulo": "CISA warns of hackers now exploiting critical Node2Shell flaw",
         "fonte": "BleepingComputer",
         "autor": "Sergiu Gatlan",
-        "data": "2026-10-27",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/26/PHP.jpg"
+        "data": "2026-10-28",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+        "resumo": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/28/CISA.jpg"
     },
     {
-        "titulo": "Qatar’s path to defence autonomy",
-        "fonte": "Al Jazeera English",
+        "titulo": "With the Fed on the back burner, tech stocks are poised to move higher following record earnings from chipmaker SK Hynix",
+        "fonte": "Fortune",
+        "autor": "Jim Edwards",
+        "data": "2026-10-28",
+        "url": "https://fortune.com/2026/10/28/fed-tech-stocks-sk-hynix-earnings/",
+        "resumo": "Everything you need to know before you reach the office this morning.",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2284869101-e1783697903997.jpg?resize=1200,600"
+    },
+    {
+        "titulo": "Lessons from Cybersecurity Black Week",
+        "fonte": "We Live Security",
         "autor": "",
-        "data": "2026-10-27",
-        "url": "https://www.aljazeera.com/news-analysis/2026/10/27/qatars-path-to-defence-autonomy",
-        "resumo": "Qatar needs a strategy built on national resilience and diversified security guarantees.",
-        "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6addbe1a6eeb-1792917018.jpg?resize=1920%2C1440"
+        "data": "2026-10-28",
+        "url": "https://www.welivesecurity.com/en/business-security/lessons-cybersecurity-black-week/",
+        "resumo": "A critical PHP flaw, leaked Linux kernel reports, a poisoned LiteLLM release, and more, all in seven days. Which threats called for immediate action, and which generated more noise than real danger?",
+        "imagem": "https://web-assets.esetstatic.com/wls/2026/10-26/live-cortex-1920x1080-1.png"
     },
     {
-        "titulo": "IDX Complete identity theft protection review",
-        "fonte": "TechRadar",
-        "autor": "Stefan Ionescu",
-        "data": "2026-10-27",
-        "url": "https://www.techradar.com/pro/idx-complete-identity-theft-protection-review",
-        "resumo": "A detailed review of the IDX complete package, covering its features, setup, customer support, pros, and cons.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/KuHm2pPPZACeAG2TK3k59e-1800-80.png"
+        "titulo": "U.S. CISA adds Google Brotli and Adobe Commerce and Magento flaws to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-10-28",
+        "url": "https://securityaffairs.com/201922/security/u-s-cisa-adds-google-brotli-and-adobe-commerce-and-magento-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Google Brotli and Adobe Commerce and Magento flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Google Brotli and Adobe…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
     },
     {
-        "titulo": "Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems",
-        "fonte": "Securityweek.com",
-        "autor": "Eduard Kovacs",
-        "data": "2026-10-27",
-        "url": "https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/",
-        "resumo": "Blue Initiative indexes nearly 30,000 IT and OT vulnerabilities relevant to ships and ports, 37 of them in maritime-specific products. The post Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2025/02/Maritime-cybersecurity.jpg"
-    },
-    {
-        "titulo": "Israel, what are you good for?",
-        "fonte": "Israelnationalnews.com",
-        "autor": "Randy Settenbrino",
-        "data": "2026-10-27",
-        "url": "https://www.israelnationalnews.com/news/435220",
-        "resumo": "Israel’s strategic relevance to American peace, prosperity and security reaches far beyond the friendship between two democracies.. In Israel, America has an ally that functions as an unsinkable aircraft carrier, a laboratory that never sleeps and an intellig…",
-        "imagem": "https://2.a7.org/files/pictures/000/1212548.jpg"
-    },
-    {
-        "titulo": "Cybersecurity jobs available right now: October 27, 2026",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-10-27",
-        "url": "https://www.helpnetsecurity.com/2026/10/27/cybersecurity-jobs-available-right-now-october-27-2026/",
-        "resumo": "Cybersecurity Expert / Penetration Tester Barrion | Sweden | On-site – View job details As a Cybersecurity Expert / Penetration Tester, you will test web applications and APIs for authentication, authorisation, and business logic vulnerabilities. You’ll ident…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140410/cybersecurity_jobs-4-1500.webp"
-    },
-    {
-        "titulo": "Trump Frames Unregulated AI as a Way To Keep Ahead of China, but in Fact It Harms Us National Security",
-        "fonte": "The Good Men Project",
-        "autor": "The Conversation US",
-        "data": "2026-10-27",
-        "url": "https://goodmenproject.com/featured-content/trump-frames-unregulated-ai-as-a-way-to-keep-ahead-of-china-but-in-fact-it-harms-us-national-security/",
-        "resumo": "Certainly, China seizing the global lead on AI would represent an alarming setback to American strategic and economic interests. The post Trump Frames Unregulated AI as a Way To Keep Ahead of China, but in Fact It Harms Us National Security appeared first on …",
-        "imagem": "https://goodmenproject.com/wp-content/uploads/2026/10/history-in-hd-gtOXLwM248A-unsplash.jpg"
-    },
-    {
-        "titulo": "Cisco Partner Summit: Five insights that will define the channel in the AI era",
-        "fonte": "SiliconANGLE News",
-        "autor": "Zeus Kerravala",
-        "data": "2026-10-27",
-        "url": "https://siliconangle.com/2026/10/27/cisco-partner-summit-five-insights-that-will-define-the-channel-in-the-ai-era/",
-        "resumo": "For most of its 30-year history, Cisco Partner Summit has focused on how partners sell Cisco Systems Inc. technology. This year’s event in Vancouver was about something different: how partners make money in a world where the transaction is no longer the main …",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_7090-1.jpg"
-    },
-    {
-        "titulo": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-27",
-        "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities, both rated 9.2 on t…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vxKiggBxnuXu0fenkg0gfce0iuuA3OxeVzvWAdc0zaDPDayQgY8y_miqnvHJrpYvw61AhvGHEOW4EIKIYZ4QkRGjGEhqiU-3R0o6m0fgHJYDtszsoXyqse7WDGMh4rvEuTf1T-17KOVkyJKgEcaw5yBXFi6ElwIFyU9TjudvJrHz4fz6VNro8bjUZcnD/s1700-nu-rw-lo-l85-e365/cisa-php.jpg"
-    },
-    {
-        "titulo": "Anthropic’s ad bill is soaring, according to IPO filing",
-        "fonte": "Digiday",
-        "autor": "Krystal Scanlon",
-        "data": "2026-10-27",
-        "url": "http://digiday.com/marketing/anthropics-ad-bill-is-soaring-according-to-ipo-filing/",
-        "resumo": "Anthropic’s S-1 document, which it filed to the SEC ahead of its IPO shows an ad-free AI company with a fast-growing ad bill.",
-        "imagem": "https://digiday.com/wp-content/uploads/sites/3/2025/05/spending-dollars1-digiday.jpg"
-    },
-    {
-        "titulo": "codex-security npm-v0.7.0",
+        "titulo": "CTF-All-In-One",
         "fonte": "Kitploit.com",
         "autor": "Kitploit",
+        "data": "2026-10-28",
+        "url": "https://kitploit.com/en/tools/github/firmianay/ctf-all-in-one",
+        "resumo": "Open-source CTF guidebook covering Pwn, reverse engineering, and web security, with structured chapters, worked examples, and tooling setup for hands-on practice.",
+        "imagem": "https://assets.kitploit.com/production/public/tools/58487/e6c883948768a1600e34e15ec3992de4b3716e70e08e63409a0c56fe6e40cc09-social-v1.webp"
+    },
+    {
+        "titulo": "Home Depot wants your AI agent to show some ID first",
+        "fonte": "Business Insider",
+        "autor": "bshimkus@businessinsider.com (Ben Shimkus)",
+        "data": "2026-10-28",
+        "url": "https://www.businessinsider.com/home-depot-chief-open-ai-agents-muse-instinct-2026-10#article",
+        "resumo": "Home Depot&#x27;s chief information officer told Business Insider the retailer needs AI agents to self-identity and verify they&#x27;re acting on your behalf.",
+        "imagem": "https://i.insider.com/6adbc76b8e95884e1ca82d4c?width=1200&format=jpeg"
+    },
+    {
+        "titulo": "OLIVIA TRUSTY: FCC’s New Cyber Trust Mark aims to make all of our smart home safer homes",
+        "fonte": "Fox News",
+        "autor": "",
+        "data": "2026-10-28",
+        "url": "https://www.foxnews.com/opinion/fcc-cyber-trust-mark-aims-make-smart-home-safer",
+        "resumo": "The FCC&#x27;s Cyber Trust Mark program will label smart home devices meeting cybersecurity standards, similar to how Energy Star rates energy efficiency.",
+        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/shopping-laptop-computers.jpg"
+    },
+    {
+        "titulo": "CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts",
+        "fonte": "Securityweek.com",
+        "autor": "Eduard Kovacs",
+        "data": "2026-10-28",
+        "url": "https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/",
+        "resumo": "CISA added the Brotli flaw to its KEV catalog, and two honeypot operators logged attempts, including one that used a broken exploit. The post CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/10/cyberattack-vulnerability-exploited.jpeg"
+    },
+    {
+        "titulo": "Three Japan-Focused Cyberattacks Show How Hackers Use AI",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-10-28",
+        "url": "https://securityaffairs.com/201913/ai/three-japan-focused-cyberattacks-show-how-hackers-use-ai.html",
+        "resumo": "Three Japan-focused cyberattacks show how AI helps hackers scale operations, while exploiting old systems and weak security remains key. In autumn 2026, Japanese companies and other organizations reported a series of data leaks involving their web systems. On…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/10/image-63.png"
+    },
+    {
+        "titulo": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-10-28",
+        "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google&#x27;s Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exp…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1vdoV4q9cDhhxBpH2lDPkUPc4WTkuwSmH93IS6MDM8fSYR4ZsKEakfK54cvOjHMFYGJA7Hri87MShqbPweb0BNmEXEsKJErbferZyq7_m7XdHLrb2bgmps_Bs_nu_w7RCiade8PPKSYv6NpxnWTG8pJD5CIUvI2E_cfWMqNBFTl4MXm2WKZaqL_T0DaO-/s1700-nu-rw-lo-l85-e365/cisa-warning.jpg"
+    },
+    {
+        "titulo": "Oracle brings Google’s TPUs to its cloud, adds ChatGPT integrations",
+        "fonte": "SiliconANGLE News",
+        "autor": "Maria Deutscher",
         "data": "2026-10-27",
-        "url": "https://kitploit.com/en/posts/codex-security-5c8d3287b067217c",
-        "resumo": "OpenAI&#x27;s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-        "imagem": "https://assets.kitploit.com/production/public/tools/45393/bb353fd9dfaeab944cf56abceb6d48526f4d504113c3b0f8ac7d54f68e882ac5.png"
+        "url": "https://siliconangle.com/2026/10/27/oracle-brings-googles-tpus-to-its-cloud-adds-chatgpt-integrations/",
+        "resumo": "Oracle Corp. today announced plans to make Google LLC’s TPU artificial intelligence accelerators available through its public cloud. The initiative marks the first time the search giant is supplying the chips to another hyperscaler. According to CNBC, Oracle …",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Oracle.jpg"
+    },
+    {
+        "titulo": "Watch out — that Microsoft Teams chat might be hackers impersonating your IT support",
+        "fonte": "TechRadar",
+        "autor": "Sead Fadilpašić",
+        "data": "2026-10-27",
+        "url": "https://www.techradar.com/pro/security/watch-out-that-microsoft-teams-chat-might-be-hackers-impersonating-your-it-support",
+        "resumo": "Fake IT support pushes victims into granting hands-on access via remote management tools.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/JnkKiUetccxhjSuwFcdUPc-970-80.jpg"
+    },
+    {
+        "titulo": "Expanding our partnership with GSA to bring Claude to all levels of government",
+        "fonte": "Anthropic.com",
+        "autor": "Anthropic",
+        "data": "2026-10-27",
+        "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+        "resumo": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.",
+        "imagem": "https://www-cdn.anthropic.com/images/4zrzovbb/website/4e3bfa972a8ec391977288fa36de3da1ecd78232-1920x1080.webp"
     }
 ]
