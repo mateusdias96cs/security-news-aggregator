@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Apple’s New iPhone Attack Is a Serious Threat",
-        "fonte": "Thoughtcatalog.com",
-        "autor": "Jerome London",
-        "data": "2026-10-28",
-        "url": "https://thoughtcatalog.com/jeremy-london/2026/10/apples-new-iphone-attack-is-a-serious-threat/",
-        "resumo": "Apple says an iPhone security flaw may have been used against specific people in an “extremely sophisticated attack.” A file designed to exploit it could let an attacker run code inside the app that processes it.",
-        "imagem": "https://thoughtcatalog.com/wp-content/uploads/2026/10/apple-s-new-iphone-attack-is-a-serious-threat.jpg?w=1536&h=768&crop=1"
+        "titulo": "Mistral Large 4 (Le Chonk) is now Open Weight",
+        "fonte": "Mistral.ai",
+        "autor": "",
+        "data": "2026-10-29",
+        "url": "https://mistral.ai/news/mistral-large-4-oss/",
+        "resumo": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
+        "imagem": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp"
     },
     {
-        "titulo": "Understanding the influencing factors of telemedicine service adoption in post-pandemic Bangladesh: An extended TAM and UTAUT2 model analysis",
-        "fonte": "Plos.org",
-        "autor": "Mohammad Rakibul Islam Bhuiyan, Md Abu Sayem, Niaz Makhdum",
-        "data": "2026-10-28",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361691",
-        "resumo": "In the post-pandemic period, telemedicine services are a new addition to health sectors that facilitate bridging the gap for patients in rural and marginalized areas. The study aims to comprehend the different influential factors associated with adopting tele…",
-        "imagem": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0361691.g002&size=inline"
+        "titulo": "IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases",
+        "fonte": "Talosintelligence.com",
+        "autor": "Aliza Johnson",
+        "data": "2026-10-29",
+        "url": "https://blog.talosintelligence.com/ir-trends-q3-2026/",
+        "resumo": "Phishing remained the leading initial access technique, while percentage of ransomware and pre-ransomware cases increased. Finance and public administration tied as the top-targeted industries.",
+        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/TalosIR_quarterly_trends.jpg"
     },
     {
-        "titulo": "Cybersecurity’s Black October: How to protect yourself",
-        "fonte": "Cointelegraph",
-        "autor": "Cointelegraph by Christina Comben",
-        "data": "2026-10-28",
-        "url": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself",
-        "resumo": "Black October has seen a wave of AI-powered hacks and newly discovered vulnerabilities, leading to questions about if the entire internet is at risk. Here’s how you can stay safe.",
-        "imagem": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W2T7CFH7Z6NC9XTVMGFV98/magazine-magazine-meet-the-do-good-hackers-brute-forcing.jpg"
+        "titulo": "Rockwell Automation Introduces SecureOT Capabilities to Help OEMs Address Emerging Cybersecurity Regulations",
+        "fonte": "PR Newswire UK",
+        "autor": "",
+        "data": "2026-10-29",
+        "url": "https://www.prnewswire.co.uk/news-releases/rockwell-automation-introduces-secureot-capabilities-to-help-oems-address-emerging-cybersecurity-regulations-302922885.html",
+        "resumo": "SecureOT capabilities help machine builders identify vulnerabilities, document cybersecurity posture and support compliance readiness across the machine lifecycle MILWAUKEE, Oct. 29, 2026 /PRNewswire/ -- Rockwell Automation, Inc. (NYSE: ROK), the world&#x27;s larg…",
+        "imagem": "https://mmx.prnewswire.com/media/MS2023107/Rockwell-Automation-SecureOT.jpg?id=OA3046330&p=facebook"
     },
     {
-        "titulo": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-28",
-        "url": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-        "resumo": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) in the Oracle Applicatio…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBB03AGS7veiAqQ7-xPeadzhhaRvDmhOlLgQcDN0y-r1na_us5yomWjBEXCbwbw8OW_o8SSGjjqk4VZFQ4ZxLiWKQPZxlcBkzJ5lv3OlEV0rOETUKyQzWoZ74LGpSjOjrScmk1rVf0OhRmDACHG3jwSDfBnnta75I_3s_nuoWGZmcfg7NZfHBp_PEIl8aj/s1700-nu-rw-lo-l85-e365/oracle-hack.jpg"
-    },
-    {
-        "titulo": "A Shared Language for Agent Defense: Introducing Project Quarry",
-        "fonte": "Cisco.com",
-        "autor": "Adam Swanda",
-        "data": "2026-10-28",
-        "url": "https://blogs.cisco.com/ai/project-quarry-agent-security-detections",
-        "resumo": "AI agents now read, decide, and act on their own, and the attacks against them unfold across many ordinary, permitted steps that most of today&#x27;s defenses were not built to connect. Project Quarry (“Quarry”), which we are open sourcing today, is a...",
-        "imagem": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/Screenshot-2026-10-27-at-5.45.31-PM-1024x576.png"
-    },
-    {
-        "titulo": "Northstar launches with $7M to give AI agents the context to act on security risks",
-        "fonte": "SiliconANGLE News",
-        "autor": "Duncan Riley",
-        "data": "2026-10-28",
-        "url": "https://siliconangle.com/2026/10/28/northstar-launches-with-7m-to-give-ai-agents-the-context-to-act-on-security-risks/",
-        "resumo": "Cybersecurity startup Northstar Security AI Inc. launched today with $7 million in new funding to give artificial intelligence agents the context they need to act on security risks. Northstar offers a platform that feeds data from a company’s existing securit…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Amer_Deeba_Northstar-scaled.jpg"
-    },
-    {
-        "titulo": "Wazuh and AI for Enhanced SOC Workflows",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-28",
-        "url": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
-        "resumo": "Artificial Intelligence (AI) has become one of this decade&#x27;s defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, …",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo5_lgjV0zvHt5XW8CcCjQnBc_cvxOxrGxsrliXv3s9c6RD-Aw7eXOlNrp78QHxSnVO5yBgphx7KqCjkjje3YbwCFUtXUdLN4xA-sW_zVoFsK7au37XZxUPyoDRlhCIGsxc2at70I_FexwVKgdyub-XuuvwIZCy1o6hoCU50o7lhHWDSgktrcsrXkN9p8/s1700-nu-rw-lo-l85-e365/wazuh.png"
-    },
-    {
-        "titulo": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+        "titulo": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
         "fonte": "BleepingComputer",
         "autor": "Sergiu Gatlan",
-        "data": "2026-10-28",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
-        "resumo": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/28/CISA.jpg"
+        "data": "2026-10-29",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/29/Linux_tux.jpg"
     },
     {
-        "titulo": "With the Fed on the back burner, tech stocks are poised to move higher following record earnings from chipmaker SK Hynix",
-        "fonte": "Fortune",
-        "autor": "Jim Edwards",
-        "data": "2026-10-28",
-        "url": "https://fortune.com/2026/10/28/fed-tech-stocks-sk-hynix-earnings/",
-        "resumo": "Everything you need to know before you reach the office this morning.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2284869101-e1783697903997.jpg?resize=1200,600"
+        "titulo": "Anthropic is asking Wall Street to believe in AGI",
+        "fonte": "The Verge",
+        "autor": "Nilay Patel",
+        "data": "2026-10-29",
+        "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+        "resumo": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on t…",
+        "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_DCD_anthropic_IPO.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
-        "titulo": "Lessons from Cybersecurity Black Week",
-        "fonte": "We Live Security",
-        "autor": "",
-        "data": "2026-10-28",
-        "url": "https://www.welivesecurity.com/en/business-security/lessons-cybersecurity-black-week/",
-        "resumo": "A critical PHP flaw, leaked Linux kernel reports, a poisoned LiteLLM release, and more, all in seven days. Which threats called for immediate action, and which generated more noise than real danger?",
-        "imagem": "https://web-assets.esetstatic.com/wls/2026/10-26/live-cortex-1920x1080-1.png"
-    },
-    {
-        "titulo": "U.S. CISA adds Google Brotli and Adobe Commerce and Magento flaws to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-10-28",
-        "url": "https://securityaffairs.com/201922/security/u-s-cisa-adds-google-brotli-and-adobe-commerce-and-magento-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Google Brotli and Adobe Commerce and Magento flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Google Brotli and Adobe…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "CTF-All-In-One",
-        "fonte": "Kitploit.com",
-        "autor": "Kitploit",
-        "data": "2026-10-28",
-        "url": "https://kitploit.com/en/tools/github/firmianay/ctf-all-in-one",
-        "resumo": "Open-source CTF guidebook covering Pwn, reverse engineering, and web security, with structured chapters, worked examples, and tooling setup for hands-on practice.",
-        "imagem": "https://assets.kitploit.com/production/public/tools/58487/e6c883948768a1600e34e15ec3992de4b3716e70e08e63409a0c56fe6e40cc09-social-v1.webp"
-    },
-    {
-        "titulo": "Home Depot wants your AI agent to show some ID first",
-        "fonte": "Business Insider",
-        "autor": "bshimkus@businessinsider.com (Ben Shimkus)",
-        "data": "2026-10-28",
-        "url": "https://www.businessinsider.com/home-depot-chief-open-ai-agents-muse-instinct-2026-10#article",
-        "resumo": "Home Depot&#x27;s chief information officer told Business Insider the retailer needs AI agents to self-identity and verify they&#x27;re acting on your behalf.",
-        "imagem": "https://i.insider.com/6adbc76b8e95884e1ca82d4c?width=1200&format=jpeg"
-    },
-    {
-        "titulo": "OLIVIA TRUSTY: FCC’s New Cyber Trust Mark aims to make all of our smart home safer homes",
-        "fonte": "Fox News",
-        "autor": "",
-        "data": "2026-10-28",
-        "url": "https://www.foxnews.com/opinion/fcc-cyber-trust-mark-aims-make-smart-home-safer",
-        "resumo": "The FCC&#x27;s Cyber Trust Mark program will label smart home devices meeting cybersecurity standards, similar to how Energy Star rates energy efficiency.",
-        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/shopping-laptop-computers.jpg"
-    },
-    {
-        "titulo": "CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts",
-        "fonte": "Securityweek.com",
-        "autor": "Eduard Kovacs",
-        "data": "2026-10-28",
-        "url": "https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/",
-        "resumo": "CISA added the Brotli flaw to its KEV catalog, and two honeypot operators logged attempts, including one that used a broken exploit. The post CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/10/cyberattack-vulnerability-exploited.jpeg"
-    },
-    {
-        "titulo": "Three Japan-Focused Cyberattacks Show How Hackers Use AI",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-10-28",
-        "url": "https://securityaffairs.com/201913/ai/three-japan-focused-cyberattacks-show-how-hackers-use-ai.html",
-        "resumo": "Three Japan-focused cyberattacks show how AI helps hackers scale operations, while exploiting old systems and weak security remains key. In autumn 2026, Japanese companies and other organizations reported a series of data leaks involving their web systems. On…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/10/image-63.png"
-    },
-    {
-        "titulo": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+        "titulo": "Google&#x27;s Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-10-28",
-        "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google&#x27;s Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exp…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1vdoV4q9cDhhxBpH2lDPkUPc4WTkuwSmH93IS6MDM8fSYR4ZsKEakfK54cvOjHMFYGJA7Hri87MShqbPweb0BNmEXEsKJErbferZyq7_m7XdHLrb2bgmps_Bs_nu_w7RCiade8PPKSYv6NpxnWTG8pJD5CIUvI2E_cfWMqNBFTl4MXm2WKZaqL_T0DaO-/s1700-nu-rw-lo-l85-e365/cisa-warning.jpg"
+        "data": "2026-10-29",
+        "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+        "resumo": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. &quot;It shows significant gains across coding and agentic tasks as well as across key capabilities critical for c…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMb78BxIXnGaXFzCXPdswdQZsuh8rz63Y22pLX3cOkgRgaPv3KJgw6fRULDT3am1YO4eA1obnh0aOdxZy4KVZMww8sxNOtxzZXYcouotzbB25LVdJrCeDk0MQsgCmsYQBAaGdwyhmiMNa2Y90ujuXFXZPLTIrOo1PB6vtWqWAXygOvM72cEmXvHTN9Ktw/s1700-nu-rw-lo-l85-e365/google-gemini.jpg"
     },
     {
-        "titulo": "Oracle brings Google’s TPUs to its cloud, adds ChatGPT integrations",
-        "fonte": "SiliconANGLE News",
-        "autor": "Maria Deutscher",
-        "data": "2026-10-27",
-        "url": "https://siliconangle.com/2026/10/27/oracle-brings-googles-tpus-to-its-cloud-adds-chatgpt-integrations/",
-        "resumo": "Oracle Corp. today announced plans to make Google LLC’s TPU artificial intelligence accelerators available through its public cloud. The initiative marks the first time the search giant is supplying the chips to another hyperscaler. According to CNBC, Oracle …",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Oracle.jpg"
+        "titulo": "Exploitation attempts against recently patched Oracle EBS flaw have begun (CVE-2026-101767)",
+        "fonte": "Help Net Security",
+        "autor": "Sinisa Markovic",
+        "data": "2026-10-29",
+        "url": "https://www.helpnetsecurity.com/2026/10/29/oracle-e-business-suite-cve-2026-101767-exploitation/",
+        "resumo": "Exploitation attempts have started against CVE-2026-101767, a recently patched Oracle E-Business Suite (EBS) flaw. “Our Oracle E-Business Suite decoys recorded exploratory exploits against CVE-2026-101767, an unauthenticated SQL injection in EBS’s Thin Client…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/10/12113306/oracle-eye-1500.webp"
     },
     {
-        "titulo": "Watch out — that Microsoft Teams chat might be hackers impersonating your IT support",
-        "fonte": "TechRadar",
-        "autor": "Sead Fadilpašić",
-        "data": "2026-10-27",
-        "url": "https://www.techradar.com/pro/security/watch-out-that-microsoft-teams-chat-might-be-hackers-impersonating-your-it-support",
-        "resumo": "Fake IT support pushes victims into granting hands-on access via remote management tools.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/JnkKiUetccxhjSuwFcdUPc-970-80.jpg"
+        "titulo": "Hitachi Energy CoreTec Product",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-10-29",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
+        "resumo": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrit…",
+        "imagem": ""
     },
     {
-        "titulo": "Expanding our partnership with GSA to bring Claude to all levels of government",
-        "fonte": "Anthropic.com",
-        "autor": "Anthropic",
-        "data": "2026-10-27",
-        "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-        "resumo": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.",
-        "imagem": "https://www-cdn.anthropic.com/images/4zrzovbb/website/4e3bfa972a8ec391977288fa36de3da1ecd78232-1920x1080.webp"
+        "titulo": "Hitachi Energy TRO600 series products",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-10-29",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
+        "resumo": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further attacks and disclosure of…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Siemens Mendix SAML Module",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-10-29",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
+        "resumo": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flows. Siemens has release…",
+        "imagem": ""
+    },
+    {
+        "titulo": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-10-29",
+        "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
+        "resumo": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/29/Cisco-headpic.jpg"
+    },
+    {
+        "titulo": "Unreleased Claude model found attack chains in Chrome, Safari: Anthropic",
+        "fonte": "Business Standard",
+        "autor": "Sweta Kumari",
+        "data": "2026-10-29",
+        "url": "https://www.business-standard.com/technology/artificial-intelligence/unreleased-claude-model-found-attack-chains-in-chrome-safari-anthropic-126102901074_1.html",
+        "resumo": "Anthropic says Claude chained software flaws into working exploits, highlighting the growing role of AI in vulnerability research and cybersecurity risks",
+        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/14/thumb/featurecrop/1200X628/1791977222-4609.jpg"
+    },
+    {
+        "titulo": "OpenAI and other AI labs face calls for real-time monitoring of AI agents",
+        "fonte": "Crypto Briefing",
+        "autor": "Diego Almada Lopez",
+        "data": "2026-10-29",
+        "url": "https://cryptobriefing.com/openai-ai-agents-real-time-monitoring/",
+        "resumo": "Real-time AI monitoring is crucial to prevent unauthorized actions, ensuring AI systems remain within ethical and operational boundaries. The post OpenAI and other AI labs face calls for real-time monitoring of AI agents appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/29063837/library-openai-and-other-ai-labs-face-calls-for-real-time-monito-800x450.png"
+    },
+    {
+        "titulo": "Volt Typhoon Used Silent Train to Hide Zero-Day Attacks",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-10-29",
+        "url": "https://securityaffairs.com/202023/intelligence/volt-typhoon-used-silent-train-to-hide-zero-day-attacks.html",
+        "resumo": "Volt Typhoon used disposable relay chains to hide zero-day attacks on critical systems. Lumen linked Silent Train to at least four zero-days. Lumen’s Black Lotus Labs has spent three years tracking a covert network it calls Silent Train, which it ties to Volt…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg"
+    },
+    {
+        "titulo": "‘The assertion that the AI is an autonomous being is insane’: Cyber expert says companies should face criminal charges when their AI hacks",
+        "fonte": "Fortune",
+        "autor": "Shae Lake",
+        "data": "2026-10-29",
+        "url": "https://fortune.com/2026/10/29/black-october-ai-cyberattacks-hackers-php2shell/",
+        "resumo": "From a decade-old PHP flaw to AI agents going off script, a wave of incidents this month shows how AI has handed attackers an edge.",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2300859671.jpg?resize=1200,600"
+    },
+    {
+        "titulo": "Google unveils Gemini 4 Carbon, an AI that can find and fix security flaws",
+        "fonte": "SoyaCincau.com",
+        "autor": "Alif Azizan",
+        "data": "2026-10-29",
+        "url": "https://soyacincau.com/2026/10/29/google-unveils-gemini-4-carbon-an-ai-that-can-find-and-fix-security-flaws/",
+        "resumo": "Google DeepMind unveiled Gemini 4 Carbon recently, a frontier AI model engineered for autonomous software security and vulnerability patching. The release comes two weeks after the debut of Gemini 4 Argon and moves Google to the top of the Artificial Analysi…",
+        "imagem": "https://soyacincau.com/wp-content/uploads/2026/10/261029-Carbon.png"
+    },
+    {
+        "titulo": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-10-29",
+        "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus thr…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcr5vMvEpNtC6AAPL85NwoZLwafJYuuIYKlofAez4dmACEH-0VI-icaKusP2b9HgxcJC2AMyZkdGNfVOyXQCWqjK-_vIvw1OjptUH_maUL82An7MRxEnZQ62JZqPqwuTp6QQ8TWq4y0SRqUb6KhdXLYRJMyUHg2cQBzez3g-0G8jh2ujIgx-6FqQdWBuFr/s1700-nu-rw-lo-l85-e365/esx-audit.jpg"
+    },
+    {
+        "titulo": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-10-29",
+        "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+        "resumo": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. &quot;Active exploitation has been observed targeting the Palo Alto Networks management inte…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9wRucatO6j8IYS9drMJNn_BtgvNwY739pg33a6-50h33cCXnqi4unW5RppMfzO6TLjMdDQ-XICWN6uKTU6ai_SyLBeD8k4SdO7Kx2-QJeMbz0LSEMZkuKZls2dMSNoJmkY5nSc2SOduiSkVpKY9uFjCG0gU73hMvSyyqMANymiqb012-Z_rVUUUJtQQ5C/s1700-nu-rw-lo-l85-e365/php-palo.jpg"
+    },
+    {
+        "titulo": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
+        "fonte": "BusinessLine",
+        "autor": "Reuters",
+        "data": "2026-10-29",
+        "url": "https://www.thehindubusinessline.com/info-tech/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus/article71638823.ece",
+        "resumo": "Gemini 4 Carbon will ⁠be priced at $2 per million input tokens and $10 ‌per million output tokens, matching Gemini 4 Argon&#x27;s ​introductory pricing",
+        "imagem": "https://bl-i.thgim.com/public/incoming/uqb0cd/article71638848.ece/alternates/LANDSCAPE_1200/2026-08-25T120003Z_2023830736_RC2UNLARTDCK_RTRMADP_3_ALPHABET-CLOUD-LEGAL-AI.JPG"
+    },
+    {
+        "titulo": "Silicon Valley grapples with a flood of bugs found by AI",
+        "fonte": "New Zealand Herald",
+        "autor": "New York Times",
+        "data": "2026-10-29",
+        "url": "https://www.nzherald.co.nz/business/silicon-valley-grapples-with-a-flood-of-bugs-found-by-ai/premium/Y6AW7KAMGRGUDP4GYGJZATDW4E/",
+        "resumo": "OpenAI says its models have helped researchers find more than 1300 bugs.",
+        "imagem": "https://www.nzherald.co.nz/resizer/v2/SEYNUSQ7VVHVLPR7VRKLLQLVBQ.jpg?auth=0e435aea99e94875af76961d1ba31d6739a9c221e980ecb9f0639db1e38f0053&width=1200&height=675&quality=70&focal=595%2C949&smart=false"
     }
 ]
