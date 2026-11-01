@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "BRIAN HARRELL: America’s AI revolution can’t charge forward without lots of energy",
-        "fonte": "Fox News",
-        "autor": "",
-        "data": "2026-10-30",
-        "url": "https://www.foxnews.com/opinion/brian-harrell-americas-ai-revolution-cant-charge-forward-without-lots-energy",
-        "resumo": "Data centers demand massive electricity for AI, but who pays for the infrastructure? Why ratepayer protection and energy dominance matter now.",
-        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/compass-data-center-employee.png"
-    },
-    {
-        "titulo": "CISA says max severity GitLab flaw now exploited in the wild",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-10-30",
-        "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
-        "resumo": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/12/GitLab.jpg"
-    },
-    {
-        "titulo": "How to prioritize remediation after a pentest: a practitioner workflow",
+        "titulo": "Attackers Exploit Critical Drupal Commerce Core Vulnerability CVE-2026-118539",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
-        "data": "2026-10-30",
-        "url": "https://securityaffairs.com/202110/hacking/how-to-prioritize-remediation-after-a-pentest-a-practitioner-workflow.html",
-        "resumo": "A practical pentest workflow combines CVSS, EPSS and business impact to validate findings, prioritize fixes and document remediation decisions. Remediation prioritization after a pentest is the process of ranking and ordering security findings based on their …",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/10/image-73.png"
+        "data": "2026-10-31",
+        "url": "https://securityaffairs.com/202162/security/attackers-exploit-critical-drupal-commerce-core-vulnerability-cve-2026-118539.html",
+        "resumo": "Drupal warns that attackers are exploiting a critical authorization flaw in Commerce Core, putting vulnerable online stores at risk. Drupal warns that threat actors are exploiting a highly critical security flaw, tracked as CVE-2026-118539, in its Commerce Co…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2014/10/drupal.jpg"
+    },
+    {
+        "titulo": "Chainalysis discloses cyberattack exposing customer names and emails",
+        "fonte": "Crypto Briefing",
+        "autor": "John Chen",
+        "data": "2026-10-31",
+        "url": "https://cryptobriefing.com/chainalysis-discloses-cyberattack-user-data/",
+        "resumo": "The breach highlights the vulnerability of even specialized cybersecurity firms to AI-driven attacks, emphasizing the need for enhanced defenses. The post Chainalysis discloses cyberattack exposing customer names and emails appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/31050451/library-chainalysis-discloses-cyberattack-exposing-customer-name-800x450.png"
+    },
+    {
+        "titulo": "AU SFB data leak: Salesforce says no vulnerability at its end",
+        "fonte": "BusinessLine",
+        "autor": "PTI",
+        "data": "2026-10-31",
+        "url": "https://www.thehindubusinessline.com/money-and-banking/au-sfb-data-leak-salesforce-says-no-vulnerability-at-its-end/article71648769.ece",
+        "resumo": "Salesforce says no vulnerability on its end amid AU Small Finance Bank data leak claims by The ScarlettGroup, with ongoing investigations and guarded statements.",
+        "imagem": "https://bl-i.thgim.com/public/incoming/q76c3d/article70613799.ece/alternates/LANDSCAPE_1200/2026-02-10T025639Z_708278519_RC2CE0A9AM2P_RTRMADP_3_SALESFORCE-LAYOFFS.JPG"
+    },
+    {
+        "titulo": "AU Small Finance Bank data leak: Salesforce says no vulnerability at its end",
+        "fonte": "The Times of India",
+        "autor": "PTI",
+        "data": "2026-10-31",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/au-small-finance-bank-data-leak-salesforce-says-no-vulnerability-at-its-end/articleshow/135395127.cms",
+        "resumo": "Salesforce has stated no vulnerabilities were found concerning a suspected data leak at AU Small Finance Bank. The bank is investigating claims of a breach by hackers, affecting sensitive customer data. Reportedly compromised information includes KYC records …",
+        "imagem": "https://img.etimg.com/thumb/msid-135395241,width-1200,height-900,imgsize-56492,overlay-economictimes/articleshow.jpg"
+    },
+    {
+        "titulo": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-10-31",
+        "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild. The vulnerabilities are…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeqP4vPt6j2lLPFj77A_1OthmSKb8mItfBrX_q8sQCAUVgTry1FxKizDI2SCLS4CglfjgbVkaMDN8ainqoOZm2pdaF6xw7sU4STZhwIFPCLSz84YXQTVx2tquPo7YJsZhgOWcD3V_w5td9BA_vVuOu1cFcrgL3SXyLF4E24IyGotrzDcbJ-M1mA85biDuW/s1700-nu-rw-lo-l85-e365/1000120841.jpg"
+    },
+    {
+        "titulo": "SEBI imposes ₹1 crore fine on CDSL for multiple compliance lapses",
+        "fonte": "BusinessLine",
+        "autor": "PTI",
+        "data": "2026-10-31",
+        "url": "https://www.thehindubusinessline.com/markets/sebi-imposes-1-crore-fine-on-cdsl-for-multiple-compliance-lapses/article71648274.ece",
+        "resumo": "CDSL had failed communicate reasons for rejection of pledge requests to the depository participants of both the pledgor and pledgee, SEBI said",
+        "imagem": "https://bl-i.thgim.com/public/news/4azhq7/article71468388.ece/alternates/LANDSCAPE_1200/CDSL.jpeg"
     },
     {
         "titulo": "Your Discord Messages Are About to Show Up on Google. Here&#x27;s How to Stop It",
         "fonte": "PCMag.com",
         "autor": "Alan Henry",
-        "data": "2026-10-30",
-        "url": "https://uk.pcmag.com/security/168166/your-discord-messages-are-about-to-show-up-on-google-heres-how-to-stop-it",
+        "data": "2026-10-31",
+        "url": "https://me.pcmag.com/en/security/38489/your-discord-messages-are-about-to-show-up-on-google-heres-how-to-stop-it",
         "resumo": "In this week&#x27;s security roundup, I explain how to keep your Discord posts off Google, break down the DHS employee data leak, and look at Meta&#x27;s $25 billion Cambridge Analytica penalty. Here’s the thing about cybersecurity: It never stops, and it never sleeps.…",
-        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/y/your-disco/your-discord-messages-are-about-to-show-up-on-google-heres-h_8det.1200.jpg"
+        "imagem": "https://sm.pcmag.com/t/pcmag_me/news/y/your-disco/your-discord-messages-are-about-to-show-up-on-google-heres-h_rxpr.1200.jpg"
     },
     {
-        "titulo": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
+        "titulo": "Are Open Source Routers Safe To Use? Here&#x27;s What You Need To Know",
+        "fonte": "BGR",
+        "autor": "staff@bgr.com (Briley Kenney)",
+        "data": "2026-10-31",
+        "url": "https://www.bgr.com/2297646/open-source-routers-safe/",
+        "resumo": "Anyone can inspect the code behind open source router firmware. That includes people looking to exploit its weaknesses and people working to fix them.",
+        "imagem": "https://www.bgr.com/img/gallery/are-open-source-routers-safe-to-use-heres-what-you-need-to-know/l-intro-1793045945.jpg"
+    },
+    {
+        "titulo": "Cyber security flaws may put about 70% of websites at risk",
+        "fonte": "KPBS",
+        "autor": "Carly Kay",
+        "data": "2026-10-31",
+        "url": "https://www.kpbs.org/news/science-technology/2026/10/30/cyber-security-flaws-may-put-about-70-of-websites-at-risk",
+        "resumo": "OpenAI finds major security flaws in a programming language known as PHP underpinning the internet.",
+        "imagem": "https://cdn.kpbs.org/dims4/default/c8edb02/2147483647/strip/true/crop/5712x2999+0+643/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2Ff5%2F82%2Fa713f8ff4e76b0b2391ef3b06e3c%2Fimg-7903.jpg"
+    },
+    {
+        "titulo": "Why AI could threaten much of the world’s digital infrastructure",
+        "fonte": "Al Jazeera English",
+        "autor": "Umar Farooq",
         "data": "2026-10-30",
-        "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
-        "resumo": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/15/Drupal.jpg"
+        "url": "https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure",
+        "resumo": "Volunteer-led PHP, which powers most websites, is increasingly under threat from cyberattacks using AI capabilities.",
+        "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae25f86-1793220486.jpg?resize=1920%2C1440"
     },
     {
-        "titulo": "Scientists uncover hundreds of software vulnerabilities in cars that could allow hackers to take over your BRAKES",
-        "fonte": "Dailymail.com",
-        "autor": "Wiliam Hunter",
+        "titulo": "Binance Hack Shows Why Offshore Exchanges Need US Oversight, CFTC Chair Says",
+        "fonte": "Decrypt",
+        "autor": "Decrypt Staff",
         "data": "2026-10-30",
-        "url": "https://www.dailymail.com/sciencetech/article-16251697/software-vulnerabilities-cars-hack-brakes.html",
-        "resumo": "Scientists have discovered hundreds of software vulnerabilities in cars that could let hackers seize control of your data, personal information, and even the brakes.",
-        "imagem": "https://i.dailymail.com/1s/2026/10/30/09/112189137-0-image-m-23_1793354166035.jpg"
+        "url": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
+        "resumo": "Michael Selig said the record $6.4 billion theft shows why offshore exchanges should register with the CFTC and adopt U.S.-grade cybersecurity standards.",
+        "imagem": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg"
     },
     {
-        "titulo": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
-        "fonte": "Securityweek.com",
-        "autor": "Ionut Arghire",
+        "titulo": "U.S. CISA adds GitLab and Cisco flaws to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
         "data": "2026-10-30",
-        "url": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/",
-        "resumo": "Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server. The post Max-Severity GitLab Vulnerability Exploited Against Alpine Linux appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/06/GitLab.jpeg"
+        "url": "https://securityaffairs.com/202133/security/u-s-cisa-adds-gitlab-and-cisco-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds GitLab and Cisco flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added GitLab and Cisco vulnerabilities to its Known Explo…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
     },
     {
-        "titulo": "RBI tightens cyber checks on lenders after spate of hacks",
-        "fonte": "The Times of India",
-        "autor": "Reuters",
+        "titulo": "Hackers Steal $6.3 Billion in Crypto Currency in What Could Be the Largest Heist in History",
+        "fonte": "Offgridsurvival.com",
+        "autor": "OFFGRID Survival",
         "data": "2026-10-30",
-        "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-cracks-down-on-cybersecurity-banks-face-increased-scrutiny-amid-rising-ai-driven-hacks/articleshow/135352566.cms",
-        "resumo": "India&#x27;s banks are facing increased scrutiny from the Reserve Bank of India regarding rising cyberattacks and AI risks. Recent incidents include data leaks and unauthorized transfers from customers&#x27; accounts at major lenders. The RBI is pushing banks to invest…",
-        "imagem": "https://img.etimg.com/thumb/msid-135352565,width-1200,height-900,imgsize-99282,overlay-economictimes/articleshow.jpg"
+        "url": "https://offgridsurvival.com/hackers-steal-6-3-billion-in-crypto-currency-in-what-could-be-the-largest-heist-in-history/",
+        "resumo": "Hackers Steal $6.3 Billion in Crypto Currency in What Could Be the Largest Heist in History Hackers steal $6.3 billion from Binance as Polymarket suffers a separate breach. The attacks expose the dangers of relying on digital financial systems. This Article H…",
+        "imagem": "https://offgridsurvival.com/wp-content/themes/church_10/images/2026/10/cryptoheist.jpg"
     },
     {
-        "titulo": "Japan’s Cyberattack Surge Tests Its Push to Strengthen Defenses",
-        "fonte": "Insurance Journal",
-        "autor": "Admin",
+        "titulo": "Sebi imposes ₹1 crore fine on CDSL for multiple compliance lapses",
+        "fonte": "Business Standard",
+        "autor": "PTI",
         "data": "2026-10-30",
-        "url": "https://www.insurancejournal.com/news/international/2026/10/30/890903.htm",
-        "resumo": "Japan is facing an intense wave of AI-powered cyberattacks that’s laid bare the vulnerability of one of the world’s largest economies to a new breed of hacking. Dozens of incidents affecting companies from brokerages to delivery firms have made data …",
-        "imagem": "https://www.insurancejournal.com/app/uploads/2026/10/tokyo-tower-in-tokyo-japan-bloomberg-scaled.jpg"
+        "url": "https://www.business-standard.com/markets/news/sebi-imposes-1-crore-fine-on-cdsl-for-multiple-compliance-lapses-126103001384_1.html",
+        "resumo": "Markets regulator Sebi on Friday imposed a penalty of Rs 1 crore on Central Depository Services (India) Ltd (CDSL) for multiple compliance lapses, including failure to communicate reasons for rejection of pledge requests to the depository participants (DPs) o…",
+        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/28/thumb/fitandfill/1200X628/1787909632-6876.JPG"
     },
     {
-        "titulo": "RBI steps up scrutiny of banks&#x27; cyber defences amid rising AI-led attacks",
+        "titulo": "Binance hit by record $6.3 bn crypto theft; North Korea suspected",
         "fonte": "Business Standard",
         "autor": "Reuters",
         "data": "2026-10-30",
-        "url": "https://www.business-standard.com/industry/banking/rbi-steps-up-scrutiny-of-banks-cyber-defences-amid-rising-ai-led-attacks-126103000695_1.html",
-        "resumo": "In a series of recent meetings, the RBI asked banks to probe weaknesses in application programming interfaces (APIs), the software links banks use to connect with non-bank lenders and fintechs",
-        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/13/thumb/fitandfill/1200X628/1791878626-5236.JPG"
+        "url": "https://www.business-standard.com/world-news/binance-hit-by-record-6-3-bn-crypto-theft-north-korea-suspected-126103001944_1.html",
+        "resumo": "Binance halted withdrawals after hackers stole $6.3 billion in a record crypto heist, with analysts suspecting North Korea. The exchange said it would cover losses as cryptocurrency prices fell.",
+        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/30/thumb/fitandfill/1200X628/1793381164-2937.jpg"
     },
     {
-        "titulo": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
+        "titulo": "Is It Time to Rebuild the Internet?",
+        "fonte": "The Atlantic",
+        "autor": "Charlie Warzel",
         "data": "2026-10-30",
-        "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed bel…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw1Ms9mKdtALczFoDaNy5Bm0HVMfxu0ps0ykDUXuLn3BeOEqUCDnzUiCP2lU_7xbC2kYuIAGCuOiQCGIlkR6wYBfCfb7g0wRESfIFaMtSltOjWphyswldC4LJxFf0RnCB9FzEVc-euJGtGbUvpJr7FOE0QefC3_rn8xLSFTij_yJn1MNP6bJVu8VgrcLaV/s1700-nu-rw-lo-l85-e365/github-cisco.jpg"
-    },
-    {
-        "titulo": "AI Researcher Publishes Preparedness Checklist as AI-Enabled Cyberattacks Rise",
-        "fonte": "Naturalnews.com",
-        "autor": "Chase Codewell",
-        "data": "2026-10-30",
-        "url": "https://www.naturalnews.com/2026-10-30-ai-researcher-publishes-preparedness-checklist-cyberattacks-rise.html",
-        "resumo": "Andreas Stuhlmüller, CEO and cofounder of the AI research company Elicit, published a preparedness checklist for potential AI-powered cyberattacks on infrastructure, according to a tweet cited by Futurism [1][2]. The checklist was circulated as cybersecurity …",
-        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/ai-enabled-cyberattacks-cybersecurity-preparedness-infrastructure-attacks-5428-46365040-original.jpg"
-    },
-    {
-        "titulo": "OpenAI expands AI safety monitoring after agents breach restricted environments",
-        "fonte": "BusinessLine",
-        "autor": "ANI",
-        "data": "2026-10-30",
-        "url": "https://www.thehindubusinessline.com/info-tech/openai-expands-ai-safety-monitoring-after-agents-breach-restricted-environments/article71643787.ece",
-        "resumo": "The monitoring framework uses multiple layers to identify potentially concerning behaviour, including probes that examine patterns in a model&#x27;s internal activity",
-        "imagem": "https://bl-i.thgim.com/public/incoming/7ikrsc/article71606318.ece/alternates/LANDSCAPE_1200/TH03-Profiles-3GVRGK669T.3.jpg.jpg"
-    },
-    {
-        "titulo": "Smart TVs can harbor unpatched security flaws and track what you watch",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-10-30",
-        "url": "https://www.helpnetsecurity.com/2026/10/30/bitdefender-smart-tvs-vulnerabilities-report/",
-        "resumo": "Smart TVs and connected plugs accounted for a large share of recorded security weaknesses in household devices, according to Bitdefender’s 2026 IoT Security Landscape Report. The analysis covered approximately 10.4 million protected home routers between Janua…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/07/12114701/smart_home.webp"
-    },
-    {
-        "titulo": "z/OS Patch Velocity: A practical framework for the AI era",
-        "fonte": "Ibm.com",
-        "autor": "",
-        "data": "2026-10-30",
-        "url": "https://www.redbooks.ibm.com/docs/MD260047/MD260047.html",
-        "resumo": "The accelerating pace of software vulnerability discovery, driven in part by modern AI-assisted research tools, has rendered traditional mainframe maintenance cadences insufficient. IBM&#x27;s delivery of critical security fixes has tripled in recent years...",
+        "url": "https://www.theatlantic.com/podcasts/2026/10/is-it-time-to-rebuild-the-internet/689218/?utm_source=feed",
+        "resumo": "Bank Hacks, Power Grids, and AI’s Black October",
         "imagem": ""
     },
     {
-        "titulo": "SQL Server 2016 Has Reached End of Support. Now What?",
-        "fonte": "Blogspot.com",
-        "autor": "SQLPals",
+        "titulo": "Chinese hackers build PHP2SHELL exploit, use it to root 25 servers, breach US government-affiliated firewalls",
+        "fonte": "TechRadar",
+        "autor": "Sead Fadilpašić",
         "data": "2026-10-30",
-        "url": "https://sqlpal.blogspot.com/2026/10/sql-server-2016-end-of-support-now-what.html",
-        "resumo": "SQL Server 2016 Has Reached End of Support. Now What? On July 14, 2026, SQL Server 2016 reached the end of extended support. That means regular... The post SQL Server 2016 Has Reached End of Support. Now What? appeared first on SQLServerCentral.",
-        "imagem": ""
+        "url": "https://www.techradar.com/pro/security/chinese-hackers-build-php2shell-exploit-use-it-to-root-25-servers-breach-us-government-affiliated-firewalls",
+        "resumo": "Palo Alto Networks firewalls running outdated OS seem to be the target, as Chinese hackers chain PHP2Shell to Fragnesia for the campaign.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/X5DPDeFcG3TSkqdJMgSU3U-970-80.jpg"
     },
     {
-        "titulo": "Economic Digest: A Snapshot of Nepal’s Business News",
-        "fonte": "Khabarhub.com",
-        "autor": "Khabarhub",
+        "titulo": "Hackers Just Committed Largest Crypto Heist In History As Cybersecurity Fears Reach Fever Pitch",
+        "fonte": "The Daily Caller",
+        "autor": "Jack McGeever",
         "data": "2026-10-30",
-        "url": "https://english.khabarhub.com/2026/30/573654/",
-        "resumo": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal’s latest economic and policy developments reveal a mixed picture of market optimism, investment o…",
-        "imagem": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg"
+        "url": "https://dailycaller.com/2026/10/30/hackers-steal-63-billion-from-binance-in-record-breaking-heist-linked-to-north-korea",
+        "resumo": "Hackers stole approximately $6.3 billion from Binance in a record-breaking cryptocurrency heist linked to North Korea, while a separate Polymarket breach raised fresh concerns about digital asset security.",
+        "imagem": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2021/04/crypto-1.jpg"
     },
     {
-        "titulo": "Your Car&#x27;s Biggest Security Weakness Could Be Somewhere Unexpected",
-        "fonte": "ScienceAlert",
-        "autor": "Esra Öz",
-        "data": "2026-10-30",
-        "url": "https://www.sciencealert.com/your-cars-biggest-security-weakness-could-be-somewhere-unexpected",
-        "resumo": "Here&#x27;s what you should know.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don&#x27;t miss a story, subscribe here.",
-        "imagem": "https://www.sciencealert.com/images/2026/10/Driver-using-mobile-phone-with-hand-on-steering-wheel-1200x675.png"
-    },
-    {
-        "titulo": "Google’s Gemini 4 Carbon takes first place on Artificial Analysis Intelligence Index",
+        "titulo": "Japan plans deeper US AI partnerships in emergency cybersecurity package",
         "fonte": "Crypto Briefing",
         "autor": "Diego Almada Lopez",
         "data": "2026-10-30",
-        "url": "https://cryptobriefing.com/google-gemini-4-carbon-tops-ai-index/",
-        "resumo": "Google&#x27;s Gemini 4 Carbon scored 59 on the Artificial Analysis Intelligence Index, edging Claude Opus 5.5 and GPT-6 Astra for first place. The post Google’s Gemini 4 Carbon takes first place on Artificial Analysis Intelligence Index appeared first on Crypto Br…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/29202915/library-google-s-gemini-4-carbon-takes-first-place-on-artificial-800x450.png"
+        "url": "https://cryptobriefing.com/japan-us-ai-cybersecurity-package/",
+        "resumo": "Japan&#x27;s enhanced AI collaboration with the US could redefine cybersecurity norms, potentially increasing its assertiveness in cyberspace. The post Japan plans deeper US AI partnerships in emergency cybersecurity package appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/30111625/library-japan-plans-deeper-us-ai-partnerships-in-emergency-cyber-800x450.png"
     },
     {
-        "titulo": "FBI agent reveals &#x27;existential threat&#x27; that could unleash chaos across US without warning as Pentagon prepares for blackouts... and why families must stockpile food, keep cash and pack escap",
-        "fonte": "Dailymail.com",
-        "autor": "Chris Melore",
-        "data": "2026-10-29",
-        "url": "https://www.dailymail.com/sciencetech/article-16245881/america-fbi-existential-threat-stockpile.html",
-        "resumo": "Americans are being urged to prepare themselves to survive without government help - as a former FBI agent reveals the terrifying threats growing within the US.",
-        "imagem": "https://i.dailymail.com/1s/2026/10/29/21/112173425-0-image-m-17_1793310530271.jpg"
+        "titulo": "Japan seeks expanded access to advanced AI models from Anthropic and OpenAI",
+        "fonte": "Crypto Briefing",
+        "autor": "Diego Almada Lopez",
+        "data": "2026-10-30",
+        "url": "https://cryptobriefing.com/japan-seeks-anthropic-openai-model-access/",
+        "resumo": "Japan&#x27;s pursuit of advanced AI access highlights its strategic focus on cybersecurity and international cooperation, impacting global AI dynamics. The post Japan seeks expanded access to advanced AI models from Anthropic and OpenAI appeared first on Crypto Br…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/30111511/library-japan-seeks-expanded-access-to-advanced-ai-models-from-a-678x457.png"
     }
 ]
