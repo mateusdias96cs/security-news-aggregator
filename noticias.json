@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Ukraine &#x27;booby-trapped goggles bound for Putin&#x27;s drone pilots&#x27; in plot reminiscent of Israel&#x27;s exploding pagers attack, Russian spies claim",
-        "fonte": "Dailymail.com",
-        "autor": "Will Stewart",
-        "data": "2026-11-02",
-        "url": "https://www.dailymail.com/news/article-16258595/Ukraine-booby-trapped-goggles-bound-Putins-drone-pilots-plot-reminiscent-Israels-exploding-pagers-attack-Russian-spies-claim.html",
-        "resumo": "Russia has accused Ukraine of sabotaging goggles intended for Vladimir Putin&#x27;s frontline, in a bid to kill and maim his drone pilots.",
-        "imagem": "https://i.dailymail.com/1s/2026/11/02/15/112244889-0-image-m-11_1793633182773.jpg"
+        "titulo": "Barracuda warns of critical flaws allowing root access to devices",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-11-03",
+        "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
+        "resumo": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/11/03/Barracuda.jpg"
     },
     {
-        "titulo": "&#x27;New Cold War&#x27;? Supermarket freezers hacked in six European countries, food worth millions spoiled. Who&#x27;s behind it?",
+        "titulo": "Binance hackers used fake job interview in $6.3 billion attack",
+        "fonte": "CNA",
+        "autor": "",
+        "data": "2026-11-03",
+        "url": "https://www.channelnewsasia.com/business/binance-hackers-used-fake-job-interview-in-63-billion-attack-6517421",
+        "resumo": "PARIS/DETROIT, Nov 3 : Hackers used a bogus job interview and software hidden in an advertisement to compromise the computers of two Binance software engineers before using a third&#x27;s computer to drain $6.3 billion worth of crypto in last week&#x27;s record heist, …",
+        "imagem": "https://dam.mediacorp.sg/image/upload/s--fXADd-gU--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-03T172306Z_3_LYNXNPEMA21D3_RTROPTP_3_FINTECH-CRYPTO-BINANCE-HACK.JPG?itok=VWHtWaMi"
+    },
+    {
+        "titulo": "Caught cold: fridge cyberattack highlights internet gadget weaknesses",
+        "fonte": "Digital Journal",
+        "autor": "AFP",
+        "data": "2026-11-03",
+        "url": "https://www.digitaljournal.com/article/caught-cold-fridge-cyberattack-highlights-internet-gadget-weaknesses/",
+        "resumo": "Industrial equipment such as refrigeration systems, once operated largely offline, is now commonly connected to the internet so it can be monitored and managed remotely, say cybersecurity specialists including Antoine Hautin, secretary-general of the Almond c…",
+        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2026/11/915280d7366b9c505f4e4907315c082709d7ed98.jpg"
+    },
+    {
+        "titulo": "UK will face AI cyberattacks on critical infrastructure by 2028, official says",
+        "fonte": "Abcnews.com",
+        "autor": "EMMA BURROWS AP european security correspondent",
+        "data": "2026-11-03",
+        "url": "https://abcnews.com/Business/wireStory/uk-face-ai-cyberattacks-critical-infrastructure-2028-official-137805744",
+        "resumo": "Britain’s cyberchief says the U.K. is likely to face artificial intelligence cyberattacks on its critical infrastructure by 2028",
+        "imagem": "https://i.abcnewsfe.com/a/0668e979-c6e0-4570-8fdf-0bc32bdae74a/wirestory_4e61bf9b55c7d1d15cfd075859d2ba08_16x9.jpg?w=1600"
+    },
+    {
+        "titulo": "SBI targets 14-15 pc credit growth, govt may revisit LTCG tax amid FPI outflows: Chairman CS Setty",
+        "fonte": "The Times of India",
+        "autor": "ANI",
+        "data": "2026-11-03",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-targets-14-15-pc-credit-growth-govt-may-revisit-ltcg-tax-amid-fpi-outflows-chairman-cs-setty/articleshow/135502540.cms",
+        "resumo": "Speaking exclusively to following the bank&#x27;s Q2 FY27 financial results presentation, Setty expressed confidence in sustaining credit growth despite concerns over rising borrowing costs and competition for deposits.",
+        "imagem": "https://img.etimg.com/thumb/msid-135502539,width-1200,height-900,imgsize-16592,overlay-economictimes/articleshow.jpg"
+    },
+    {
+        "titulo": "Novee’s External Surface Testing checks which exposed assets attackers can actually exploit",
+        "fonte": "SiliconANGLE News",
+        "autor": "Duncan Riley",
+        "data": "2026-11-03",
+        "url": "https://siliconangle.com/2026/11/03/novees-external-surface-testing-checks-which-exposed-assets-attackers-can-actually-exploit/",
+        "resumo": "Artificial intelligence penetration testing startup Novee Cyber Security Ltd. today added External Surface Testing to its platform so its AI-driven attacks can reach a customer’s entire internet-facing footprint. External Surface Testing is aimed at the scram…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/05/novee.png"
+    },
+    {
+        "titulo": "Exclusive: Cogent Security’s VR-1.1 model outscores Claude Code and Codex on vulnerability repair",
+        "fonte": "SiliconANGLE News",
+        "autor": "Duncan Riley",
+        "data": "2026-11-03",
+        "url": "https://siliconangle.com/2026/11/03/exclusive-cogent-securitys-vr-1-1-model-outscores-claude-code-and-codex-on-vulnerability-repair/",
+        "resumo": "Vulnerability management startup Cogent Security Inc. today released VR-1.1, a new version of its frontier reasoning model that writes fixes for newly disclosed software vulnerabilities. On a public repair benchmark, the model outscored Anthropic PBC’s Claude…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/cogent1.png"
+    },
+    {
+        "titulo": "IBA weighing structured mechanism for sharing information relating to cyber security incidents among Banks",
+        "fonte": "BusinessLine",
+        "autor": "BL Mumbai Bureau",
+        "data": "2026-11-03",
+        "url": "https://www.thehindubusinessline.com/money-and-banking/iba-weighing-structured-mechanism-for-sharing-information-relating-tocybersecurityincidents-among-banks/article71661405.ece",
+        "resumo": "On the data breach at the Bank last month, Setty observed that the Bank gave information in this regard in the press as well as reached out to the customers",
+        "imagem": "https://bl-i.thgim.com/public/incoming/7uvup6/article71661460.ece/alternates/LANDSCAPE_1200/Depositors-unliGGLGKT295.4.jpg.jpg"
+    },
+    {
+        "titulo": "PHP vulnerability: Have you updated yours on your web server after the warning?",
+        "fonte": "Provideocoalition.com",
+        "autor": "Allan Tépper",
+        "data": "2026-11-03",
+        "url": "https://www.provideocoalition.com/php-vulnerability-have-you-updated-yours-on-your-web-server-after-the-warning/",
+        "resumo": "At the very end of October 2026, CISA (Cybersecurity and Infrastructure Security Agency, a component of the United States Department of Homeland Security) announced critical vulnerabilities in PHP. If you’re unfamiliar, beyond being a cool palindrome: PHP ori…",
+        "imagem": "https://www.provideocoalition.com/wp-content/uploads/PHP-hero.jpg"
+    },
+    {
+        "titulo": "UK cyber agency says AI-powered ransomware is highly likely to hit critical infrastructure by 2028",
+        "fonte": "Crypto Briefing",
+        "autor": "Diego Almada Lopez",
+        "data": "2026-11-03",
+        "url": "https://cryptobriefing.com/ncsc-ai-ransomware-critical-infrastructure-2028/",
+        "resumo": "AI-driven ransomware threats could significantly disrupt national infrastructure, highlighting urgent needs for enhanced cybersecurity measures. The post UK cyber agency says AI-powered ransomware is highly likely to hit critical infrastructure by 2028 appear…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/03082253/library-uk-cyber-agency-says-ai-powered-ransomware-is-highly-lik-800x450.png"
+    },
+    {
+        "titulo": "Supermarket fridges are under attack in Europe — here&#x27;s what&#x27;s happening",
+        "fonte": "CNBC",
+        "autor": "Sawdah Bhaimiya",
+        "data": "2026-11-03",
+        "url": "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
+        "resumo": "European supermarkets have become the center of another cyberattack, with hackers remotely heating fridges and spoiling food.",
+        "imagem": "https://image.cnbcfm.com/api/v1/image/108509166-1793695654713-gettyimages-2302721365-BELGIUM_SUPERMARKET_HACK.jpeg?v=1793695664&w=1920&h=1080"
+    },
+    {
+        "titulo": "NCSC Chief Warns of Imminent AI Ransomware Threat to UK Critical Infrastructure",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Kevin Poireault",
+        "data": "2026-11-03",
+        "url": "https://www.infosecurity-magazine.com/news/ncsc-ai-ransomware-threat-uk-cni/",
+        "resumo": "The UK’s cyber chief has warned that AI-powered malware is highly likely to feature in ransomware attacks targeting British critical infrastructure by 2028",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/93d21558-2aa2-43bd-b192-6fc4f0328191.jpg"
+    },
+    {
+        "titulo": "Humanity’s Promethean Gap with AI",
+        "fonte": "War on the Rocks",
+        "autor": "Raluca Csernatoni",
+        "data": "2026-11-03",
+        "url": "https://warontherocks.com/humanitys-promethean-gap-with-ai/",
+        "resumo": "Frontier AI systems are beginning to test the limits of human oversight, while the companies developing them retain considerable power to define the risks and the terms of their scrutiny. In security and defense, the stakes are particularly high. The industry…",
+        "imagem": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-48392-08202fc8b1a7.jpg"
+    },
+    {
+        "titulo": "Hackers are targeting something the world cannot do without: Food",
         "fonte": "The Times of India",
         "autor": "ET Online",
-        "data": "2026-11-02",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/new-cold-war-supermarket-freezers-hacked-in-six-european-countries-food-worth-millions-spoiled-whos-behind-it/articleshow/135465063.cms",
-        "resumo": "A wave of cyberattacks has struck supermarket refrigeration systems across several European nations, including Belgium, Sweden, Luxembourg, and Estonia, raising serious food safety alarms. These breaches allowed unauthorized access to cooling units, causing h…",
-        "imagem": "https://img.etimg.com/thumb/msid-135466569,width-1200,height-900,imgsize-106746,overlay-economictimes/articleshow.jpg"
+        "data": "2026-11-03",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/europe-fridge-supermarkets-hackers-are-targeting-something-the-world-cannot-do-without-food/articleshow/135485555.cms",
+        "resumo": "A series of cyberattacks have affected supermarket refrigeration systems in multiple European countries, leading to food spoilage. These attacks, described as deliberate attempts to disrupt the food supply chain, raised concerns among retailers and consumers …",
+        "imagem": "https://img.etimg.com/thumb/msid-135485724,width-1200,height-900,imgsize-202500,overlay-economictimes/articleshow.jpg"
     },
     {
-        "titulo": "Suspected cyberattacks trigger supermarket fridge failures across Europe",
-        "fonte": "Freerepublic.com",
-        "autor": "aljazeera",
-        "data": "2026-11-02",
-        "url": "https://freerepublic.com/focus/f-chat/4401491/posts",
-        "resumo": "Suspected cyberattacks have triggered temperatures to rise in grocery store refrigeration systems in a growing number of countries across Europe. Overnight temperature spikes were recorded in stores in Belgium, Estonia, Ireland, Luxembourg and Sweden. On Mond…",
+        "titulo": "Caught cold: fridge cyberattack highlights internet gadget weaknesses",
+        "fonte": "Hurriyet Daily News",
+        "autor": "hurriyetdailynews.com",
+        "data": "2026-11-03",
+        "url": "https://www.hurriyetdailynews.com/caught-cold-fridge-cyberattack-highlights-internet-gadget-weaknesses-228946",
+        "resumo": "Cyberattacks affecting supermarket refrigeration systems in several European countries on Nov. 2 highlighted the risks associated with connecting industrial equipment to the internet.",
+        "imagem": "https://image.hurimg.com/i/hurriyet/75/200x200/6ae9804533682fc5418a7236.jpg"
+    },
+    {
+        "titulo": "viir-cli added to PyPI",
+        "fonte": "Pypi.org",
+        "autor": "virvphuria@gmail.com",
+        "data": "2026-11-03",
+        "url": "https://pypi.org/project/viir-cli/",
+        "resumo": "Official CLI tool for viir.tech — Viir Phuria Portfolio, Research &amp; AI Agent Gateway",
         "imagem": ""
     },
     {
-        "titulo": "European supermarket cyberattacks highlight the need for secure remote access to refrigeration systems, says Secomea",
-        "fonte": "PR Newswire UK",
-        "autor": "",
-        "data": "2026-11-02",
-        "url": "https://www.prnewswire.co.uk/news-releases/european-supermarket-cyberattacks-highlight-the-need-for-secure-remote-access-to-refrigeration-systems-says-secomea-302926585.html",
-        "resumo": "A second wave of suspected cyberattacks on supermarket refrigeration systems raises urgent questions about how retailers protect critical operational technology while maintaining essential remote services. COPENHAGEN, Denmark, Nov. 2, 2026 /PRNewswire/ -- Sup…",
-        "imagem": "https://mmx.prnewswire.com/media/MS1659667/Secomea-Logo.jpg?id=OA3052473&p=facebook"
-    },
-    {
-        "titulo": "Hackers Target European Grocery Stores Again, Switch Freezers to Defrost",
-        "fonte": "PCMag.com",
-        "autor": "Jon Martindale",
-        "data": "2026-11-02",
-        "url": "https://uk.pcmag.com/security/168199/hackers-target-european-grocery-stores-again-switch-freezers-to-defrost",
-        "resumo": "Following a similar attack in France last month, various chains have been hit across Belgium, Estonia, Ireland, Luxembourg, the Netherlands, and Sweden. A second coordinated cyberattack has hit supermarket chains across several European countries, causing tem…",
-        "imagem": "https://sm.pcmag.com/t/pcmag_uk/news/h/hackers-ta/hackers-target-european-grocery-stores-again-switch-freezers_d3u7.1200.jpg"
-    },
-    {
-        "titulo": "Second wave of refrigeration cyberattacks hits European supermarkets",
+        "titulo": "Cybersecurity jobs available right now: November 3, 2026",
         "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-11-02",
-        "url": "https://www.helpnetsecurity.com/2026/11/02/european-supermarkets-refrigeration-units-cyberattacks/",
-        "resumo": "Three weeks after the attack that turned refrigeration units in French supermarkets into ovens overnight, similar cyberattacks have hit shops in other European countries and again caused refrigerated food to be spoiled. Belgium, Luxembourg and Sweden affected…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/02152704/hot-1500.webp"
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-11-03",
+        "url": "https://www.helpnetsecurity.com/2026/11/03/cybersecurity-jobs-available-right-now-november-3-2026/",
+        "resumo": "Cyber Security Architect Planck Technologies | Portugal | Remote – View job details As a Cyber Security Architect, you will design security architectures for telecommunications networks, platforms, and cloud environments. You will define security frameworks, …",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140416/cybersecurity_jobs-1-1500.webp"
     },
     {
-        "titulo": "There is a Preparedness Paradox Facing America’s Small Businesses",
-        "fonte": "Entrepreneur",
-        "autor": "Chris Flood",
-        "data": "2026-11-02",
-        "url": "https://www.entrepreneur.com/building-a-business/there-is-a-preparedness-paradox-facing-americas-small-businesses",
-        "resumo": "There is often a wide gap between how prepared small businesses feel and how ready they actually are. Here&#x27;s how to close it.",
-        "imagem": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/small-business-preparedness-paradox-1026_g1463710367.jpg"
-    },
-    {
-        "titulo": "AI will create more software, transform developers&#x27; roles: IBM&#x27;s Raghavan",
-        "fonte": "Business Standard",
-        "autor": "Deepak Patel",
-        "data": "2026-11-02",
-        "url": "https://www.business-standard.com/companies/news/ai-will-create-more-software-transform-developers-roles-ibm-s-raghavan-126110201332_1.html",
-        "resumo": "IBM&#x27;s Sriram Raghavan says AI agents will accelerate software creation and reshape developers&#x27; roles, while enterprises must strengthen cybersecurity, governance and skills",
-        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-09/18/thumb/fitandfill/1200X628/1663507026-5198.png"
-    },
-    {
-        "titulo": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-11-02",
-        "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
-        "resumo": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/11/02/GitLab-headpic.jpg"
-    },
-    {
-        "titulo": "More European grocery stores hit by apparent fridge-freezer hacks",
-        "fonte": "CBS News",
+        "titulo": "What Are They Preparing Us For?",
+        "fonte": "Americanthinker.com",
         "autor": "",
-        "data": "2026-11-02",
-        "url": "https://www.cbsnews.com/news/europe-grocery-store-refrigerator-freezer-cyberattack-hack-food-wasted/",
-        "resumo": "Grocery chains in European nations say temperatures in some stores&#x27; fridges and freezers soared over 100 degrees just weeks after a similar incident in France.",
-        "imagem": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/02/a328d5cb-5e9a-41f1-a4b1-24224d521678/thumbnail/1200x630/305f20a908cd98cb22c277b2f1f1ba69/sweden-grocery-supermarket-hack-refrigerator-2302673071.jpg"
+        "data": "2026-11-03",
+        "url": "https://www.americanthinker.com/articles/2026/11/what-are-they-preparing-us-for/",
+        "resumo": "Photo Credit:missiles Pixabay // Pixabay Content LicenseBy Luis GonzalezGovernments are warning their citizens. The Pentagon is preparing for prolonged disruption. Military activity is intensifying. Are we paying attention?",
+        "imagem": "https://images.americanthinker.com/hc/hcuzpzhprse0wy5zka3v_1200.jpg"
     },
     {
-        "titulo": "Freezers in Sweden, Belgium overheat following possible cyberattacks",
-        "fonte": "Al Jazeera English",
-        "autor": "",
-        "data": "2026-11-02",
-        "url": "https://www.aljazeera.com/news/2026/11/2/freezers-in-sweden-belgium-overheat-following-possible-cyberattacks",
-        "resumo": "Temperature increases have been reported in dozens of store cooling systems, weeks after a similar attack in France.",
-        "imagem": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-02T101726Z_1401287578_RC2MFOAWLG50_RTRMADP_3_EUROPE-CYBERATTACK-1793617468.jpg?resize=1920%2C1440"
-    },
-    {
-        "titulo": "The PHP2Shell Vulnerability Heralds Cybersecurity Hell",
-        "fonte": "Ieee.org",
-        "autor": "Dina Genkina",
-        "data": "2026-11-02",
-        "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-        "resumo": "In late October, a slew of major cybersecurity issues came to light. But none were bigger than the so-called PHP2Shell vulnerability, which put a plethora of websites, including NASA’s, Wikipedia’s, the White House’s, and all other sites that run on Wordpress…",
-        "imagem": "https://spectrum.ieee.org/media-library/image.jpg?id=68544156&width=1200&height=600&coordinates=0%2C312%2C0%2C313"
-    },
-    {
-        "titulo": "AI is Rewriting the Software Supply Chain, but is it Secure?",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Infosecurity Magazine News Team",
-        "data": "2026-11-02",
-        "url": "https://www.infosecurity-magazine.com/blogs/ai-software-supply-secure/",
-        "resumo": "The expansion of AI in software development has exacerbated risks to organizations, and requires new approaches to security to be adopted",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/0c18bc5d-ab28-4e8b-87ad-39bf9f980eb1.jpeg"
-    },
-    {
-        "titulo": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-11-02",
-        "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
-        "resumo": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure. The activity, observed by Palo Alto Networks Unit 42 between O…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYHKbP_7yOsvpwAldBMCL3QkCJ9SbUVrJz1Tr_RB6m3O99Gj73H0fX20hIbzKujRWB-1qkBCWv1UEJEbrTe1NFYpPkTm0OoNqJe7OdJoZa1HcZDT2On3mUT0igQeCOsMnWw_ZfT-HsLx6B8R84XYHHg4mUI2hPzM15ggddQCFAAmzChzC5Of90LInW8RB8/s1700-nu-rw-lo-l85-e365/artex.jpg"
-    },
-    {
-        "titulo": "Supermarket freezers across Europe struck in second crippling cyberattack — hackers raise temperatures to 50 degrees Celsius in Belgium and Sweden, destroying food stocks",
-        "fonte": "Toms Hardware UK",
-        "autor": "stephen.warwick@futurenet.com (Stephen Warwick) , Stephen Warwick",
-        "data": "2026-11-02",
-        "url": "https://www.tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks",
-        "resumo": "A second cyberattack has struck supermarket freezers across Europe.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/vzUM2bnLgR7uZUuvx4rQRE-2000-80.jpg"
-    },
-    {
-        "titulo": "Cyber attackers defrost freezers in Swedish and Belgian supermarkets weeks after similar attack that cost shops millions in France",
-        "fonte": "Dailymail.com",
-        "autor": "Sabrina Penty",
-        "data": "2026-11-02",
-        "url": "https://www.dailymail.com/news/article-16258241/Cyber-attackers-defrost-freezers-Swedish-Belgian-supermarkets.html",
-        "resumo": "Dozens of supermarkets have been hit by cyberattacks across Sweden and Belgium, which caused the temperature of freezers to rise sharply overnight.",
-        "imagem": "https://i.dailymail.com/1s/2026/11/02/10/112243083-0-image-a-8_1793616110908.jpg"
-    },
-    {
-        "titulo": "cyberfw added to PyPI",
-        "fonte": "Pypi.org",
-        "autor": "",
-        "data": "2026-11-02",
-        "url": "https://pypi.org/project/cyberfw/",
-        "resumo": "Integrated Cybersecurity Framework in Python",
+        "titulo": "Cogent Security Makes the Fortune Cyber 60 for a Second Year, With a Plan to Run Cyber Defense Like a Factory",
+        "fonte": "Next Big Future",
+        "autor": "cybernewswire",
+        "data": "2026-11-03",
+        "url": "https://www.nextbigfuture.com/2026/11/cogent-security-makes-the-fortune-cyber-60-for-a-second-year-with-a-plan-to-run-cyber-defense-like-a-factory.html",
+        "resumo": "San Francisco, CA, 3rd November 2026, CyberNewswire",
         "imagem": ""
     },
     {
-        "titulo": "When confusion reigns, trusted vendors must guide their SMB customers",
-        "fonte": "We Live Security",
-        "autor": "",
-        "data": "2026-11-02",
-        "url": "https://www.welivesecurity.com/en/business-security/when-confusion-reigns-trusted-vendors-guide-smb-customers/",
-        "resumo": "SMBs need guided onboarding and supervised protection to optimize their investments",
-        "imagem": "https://web-assets.esetstatic.com/wls/2026/10-26/mdr-smbs-guided-onboarding.jpg"
-    },
-    {
-        "titulo": "Ivanti patches two more Connect Secure zero-days chained in attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-11-02",
-        "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
-        "resumo": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/11/02/Ivanti-headpic.jpg"
-    },
-    {
-        "titulo": "pipelineguard-ai added to PyPI",
-        "fonte": "Pypi.org",
-        "autor": "",
-        "data": "2026-11-02",
-        "url": "https://pypi.org/project/pipelineguard-ai/",
-        "resumo": "PipelineGuard AI — Production-Ready, Real-Time GitHub Security and DevSecOps Platform",
-        "imagem": ""
+        "titulo": "Cogent Security Makes the Fortune Cyber 60 for a Second Year, With a Plan to Run Cyber Defense Like a Factory",
+        "fonte": "HackRead",
+        "autor": "CyberNewswire",
+        "data": "2026-11-03",
+        "url": "https://hackread.com/cogent-security-makes-the-fortune-cyber-60-for-a-second-year-with-a-plan-to-run-cyber-defense-like-a-factory/",
+        "resumo": "San Francisco, CA, 3rd November 2026, CyberNewswire",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/11/Cyber60_press_release_1793661492tW37PY7DGd.jpg"
     }
 ]
