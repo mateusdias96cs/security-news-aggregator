@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Kimi K3.1 Pro model weights are out",
-        "fonte": "Huggingface.co",
-        "autor": "",
-        "data": "2026-11-04",
-        "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-        "resumo": "Image-Text-to-Text model with 2.8T parameters. Download, explore files and run it on Hugging Face.",
-        "imagem": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/moonshotai/Kimi-K3.1-Pro.png"
+        "titulo": "Zyxel Switch Patch Missed Flaw Behind Wave of Attacks",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Alessandro Mascellino",
+        "data": "2026-11-05",
+        "url": "https://www.infosecurity-magazine.com/news/zyxel-gs1900-patch-missed-flaw/",
+        "resumo": "Zyxel’s June GS1900 patch did not block the exploit used against 996 switches, Binarly found",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/fcbcf385-e065-4981-9748-503ca34a921e.jpeg"
     },
     {
-        "titulo": "NIS2 Doesn’t Require On-Premises Hosting: What the Directive Leaves European Buyers to Decide",
-        "fonte": "Cloudtweaks.com",
-        "autor": "Madalina Pandrea",
-        "data": "2026-11-04",
-        "url": "https://cloudtweaks.com/2026/11/nis2-premise-directive-european-buyers-decide/",
-        "resumo": "NIS2 Doesn’t Require On-Premises Hosting Does NIS2 require on-premise credential management? No. The directive does not require organizations to self-host their password or secrets manager, nor does it prescribe a cloud deployment. Article 21 mandates appropr…",
-        "imagem": "https://cloudtweaks.com/wp-content/uploads/2026/11/Madalina.png"
-    },
-    {
-        "titulo": "Cyberattack hits French blood bank site but no blood products were compromised",
-        "fonte": "Abcnews.com",
-        "autor": "SYLVIE CORBET Associated Press",
-        "data": "2026-11-04",
-        "url": "https://abcnews.com/Business/wireStory/cyberattack-hits-french-blood-bank-site-blood-products-137846059",
-        "resumo": "French authorities have thwarted a cyberattack on blood banks that aimed to dangerously raise storage temperatures",
-        "imagem": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-    },
-    {
-        "titulo": "Short Supplies of Large Power Transformers Stymie Changes to US Electricity Grid",
-        "fonte": "Nakedcapitalism.com",
-        "autor": "Yves Smith",
-        "data": "2026-11-04",
-        "url": "https://www.nakedcapitalism.com/2026/11/short-supplies-of-large-power-transformers-stymie-changes-to-us-electricity-grid.html",
-        "resumo": "An explanation of why large electrical transformers have become a chokepoint in grid upgrades and expansion, crimping data center plans.",
-        "imagem": ""
-    },
-    {
-        "titulo": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+        "titulo": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-11-04",
-        "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-        "resumo": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Pl…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1cus2o8fkYGLhQu9BfPgGtAUwnmTAMucLagfAodBuRoYnyxGIJKgpqtKFyCSV-WSG3pDqmPujhj-iwoOZB-zF8JjbQMrLzDHYtdTPA3hD3Kc3rqYQM4CQwkICwZkh8K6O8ZSt-WAA_PBoUA6lHwh_55dbDlKizsjzcTN847c9BSHsWHmrAP42JHRHIYS/s1700-nu-rw-lo-l85-e365/ios-exploit.jpg"
+        "data": "2026-11-05",
+        "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+        "resumo": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn&#x27;t. And while new tools are…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj37A8QMI4tUKrluDLCSgawVjQQeZ6c6NrfWLMLUjrI6vRhpt8Tlw4PNnfF49ZlOTtW28Cfb035jo-j22auCrWauuE-JpHfKMFSVfIQtUZjn1eETLFhQEev0FFafFlGz8W6r-96FPmTWlFGTR3RhV869PbcYkO4YPi5nD-zQVGHSZ8d39OmhecF693dj4-x/s1700-nu-rw-lo-l85-e365/tds.jpg"
     },
     {
-        "titulo": "Short supplies of crucial equipment stymie changes to US electricity grid",
-        "fonte": "The Conversation Africa",
-        "autor": "Jasmine Garland, Chancellors Postdoctoral Fellow in Civil, Environmental and Architectural Engineeri",
-        "data": "2026-11-04",
-        "url": "https://theconversation.com/short-supplies-of-crucial-equipment-stymie-changes-to-us-electricity-grid-293650",
-        "resumo": "Whether you want renewable energy, fossil fuel power plants, data centers or reduced storm vulnerability, it will require equipment that’s hard to make out of materials that are hard to get.",
-        "imagem": "https://images.theconversation.com/files/769652/original/file-20261102-64-aznyrt.jpg?ixlib=rb-4.1.1&rect=0%2C684%2C8192%2C4096&q=45&auto=format&w=1356&h=668&fit=crop"
+        "titulo": "DreamHost admits major cyberattack saw hackers steal customer data and access inboxes",
+        "fonte": "TechRadar",
+        "autor": "Sead Fadilpašić",
+        "data": "2026-11-05",
+        "url": "https://www.techradar.com/pro/security/dreamhost-admits-major-cyberattack-saw-hackers-steal-customer-data-and-access-inboxes",
+        "resumo": "A software vulnerability allowed threat actors to obtain login credentials, putting files and emails at risk.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/McsoqUDJ8JAM2vQ4GoVytn-1920-80.jpg"
     },
     {
-        "titulo": "France Blood Service Cyber-Attack Sends Blood Storage Temperatures to 110°C",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Kevin Poireault",
-        "data": "2026-11-04",
-        "url": "https://www.infosecurity-magazine.com/news/france-blood-service-cyberattack/",
-        "resumo": "A supplier of the French National Blood Service was hit by a cyber-attack in which hackers turned cold rooms hosting blood samples up to 110°C (230°F)",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/f9987336-e874-44c2-9f04-85db02b41033.jpg"
+        "titulo": "Vercel ties login sessions to devices, rolls out AI security reviews in public beta",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-11-05",
+        "url": "https://www.helpnetsecurity.com/2026/11/05/vercel-security-review-session-hijacking/",
+        "resumo": "Vercel, the popular cloud platform for building and hosting websites and web applications, has announced the rollout of Device Bound Session Credentials (DBSC) and the launch of Vercel Security Review in public beta. Making stolen session cookies worthless De…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/04/20165413/vercel-1500.webp"
     },
     {
-        "titulo": "PHP vulnerability post-mortem reveals bug was known two years ago — Small team of maintainers knew of the issue before it was made public, as new PHP2Shell chained exploit ravages servers",
-        "fonte": "Toms Hardware UK",
-        "autor": "editors@tomshardware.com (Bruno Ferreira) , Bruno Ferreira",
-        "data": "2026-11-04",
-        "url": "https://www.tomshardware.com/tech-industry/cyber-security/php-vulnerability-post-mortem-reveals-bug-was-known-two-years-ago-small-team-of-maintainers-knew-of-the-issue-before-it-was-made-public-as-new-php2shell-chained-exploit-ravages-servers",
-        "resumo": "PHP has a harvest season to remember — AI-automated bug hunting reaps what years of technical debt have sown.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/X86spL5fTiVTArGvMUbuZ5-1920-80.jpg"
+        "titulo": "CERT-In warns of AI-driven attacks on NBFCs, fintechs as hackers steal funds",
+        "fonte": "Moneycontrol",
+        "autor": "Aihik Sur",
+        "data": "2026-11-05",
+        "url": "https://www.moneycontrol.com/news/business/cert-in-warns-of-ai-driven-attacks-on-nbfcs-fintechs-as-hackers-steal-funds-14071003.html",
+        "resumo": "The agency said attackers are exploiting payment and disbursement APIs to make unauthorised transfers, and have re-targeted companies despite earlier remediation.",
+        "imagem": "https://images.moneycontrol.com/static-mcnews/2026/10/20261031034714_Cybersecurity-under-siege.png"
     },
     {
-        "titulo": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-11-04",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-        "resumo": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/11/04/WordPress.jpg"
+        "titulo": "A cyber-storm watch went out last month, and almost nobody reported it",
+        "fonte": "Fortune",
+        "autor": "Bryan C. Ward",
+        "data": "2026-11-05",
+        "url": "https://fortune.com/2026/11/05/php2shell-cyber-storm-watch-unpatched-vulnerabilities-ai-news-coverage/",
+        "resumo": "The breach always makes news. The patch never does.",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/11/software-vulnerability-disclosures-chart.jpg?resize=1200,600"
     },
     {
-        "titulo": "European Supermarkets Rush to Patch Vulnerabilities After Region-Wide Fridge Hack",
+        "titulo": "Patched Zyxel GS1900 switches remained open to in-the-wild exploit (CVE-2026-107441)",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-11-05",
+        "url": "https://www.helpnetsecurity.com/2026/11/05/zyxel-cve-2026-107441-exploit/",
+        "resumo": "Zyxel GS1900 series network switches that received a fix for a flaw that was later reported to have been exploited in the wild are still open to an exploit attackers used, Binarly found. That’s because the patch fixed a different bug (CVE-2026-7273) from the …",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01122005/zyxel-broken.jpg"
+    },
+    {
+        "titulo": "AI Sharpens Cat-and-Mouse Hacking Battle as Companies Strengthen Defenses",
         "fonte": "Insurance Journal",
         "autor": "Admin",
-        "data": "2026-11-04",
-        "url": "https://www.insurancejournal.com/news/international/2026/11/04/891427.htm",
-        "resumo": "European supermarkets targeted in a second wave of cyberattacks that cranked up fridge and freezer temperatures were rushing on Tuesday to upgrade their systems and protect themselves against further hacking attempts. Stores in eight European countries were f…",
-        "imagem": "https://www.insurancejournal.com/app/uploads/2024/08/concept-of-cyber-attack-and-hacker-458973053-bigstock-scaled.jpg"
+        "data": "2026-11-05",
+        "url": "https://www.insurancejournal.com/news/international/2026/11/05/891648.htm",
+        "resumo": "From hacked supermarket fridges and a record cryptocurrency theft at Binance to an emergency over flaws in widely used web software, companies worldwide are facing a wave of cyber threats executives say AI is accelerating and making more sophisticated. The …",
+        "imagem": "https://www.insurancejournal.com/app/uploads/2026/11/hacker-with-binoculars-72082115-Depositphotos-scaled.jpg"
     },
     {
-        "titulo": "GreenboneOS: AI Security Without Losing Control: Deterministic Tests at AI Speed",
-        "fonte": "Greenbone.net",
-        "autor": "Greenbone AG",
-        "data": "2026-11-04",
-        "url": "https://www.greenbone.net/en/blog/deterministic-ai-security/",
-        "resumo": "At it-sa 2026 in Nuremberg, AI security came up in many of the conversations at our stand. Visitors weren’t asking for another chatbot to answer their questions. They wanted to know what AI can do for them in practice: what they would have to do, how, and how…",
-        "imagem": "https://www.greenbone.net/wp-content/uploads/EN_ai-security-deterministic-tests.jpeg"
+        "titulo": "Tata Motors PV says CERT-In-flagged app vulnerabilities addressed through updates",
+        "fonte": "The Times of India",
+        "autor": "PTI",
+        "data": "2026-11-05",
+        "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/tata-motors-pv-says-cert-in-flagged-app-vulnerabilities-addressed-through-updates/articleshow/135571459.cms",
+        "resumo": "The vulnerabilities identified in the iRA 2.0 and iRA.ev applications have been addressed through software updates and enhanced security measures, a Tata Motors Passenger Vehicles spokesperson told.",
+        "imagem": "https://img.etimg.com/thumb/msid-135571694,width-1200,height-900,imgsize-136020,overlay-economictimes/articleshow.jpg"
     },
     {
-        "titulo": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-11-04",
-        "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-        "resumo": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign designed to deploy an…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMawvNNOvRYRm-k7ii9yDdw214v4kwQ7h5fAfOaUVkvMetNwArral8qumlObtaftjOcBsibL9vkqM1UT0-9l9jYPjj3M3C9NcPfg5pdIuENUfdKlK7lyseCS30AVhgLLs6a-2fdXlSDymSVeyIziO7IC13HFCaOf1v4sjbgmkeKfewWNsbTJCJ0WR2zLBZ/s1700-nu-rw-lo-l85-e365/key.jpg"
-    },
-    {
-        "titulo": "Fake job interview opened the door to $6.34 billion Binance heist",
+        "titulo": "Google puts new limits on AI agents that hunt threats and fix vulnerabilities",
         "fonte": "Help Net Security",
-        "autor": "Sinisa Markovic",
-        "data": "2026-11-04",
-        "url": "https://www.helpnetsecurity.com/2026/11/04/binance-hack-north-korea-fake-job-interview/",
-        "resumo": "A tampered software installer and a fake job interview gave attackers the access they needed to steal about $6.34 billion in digital assets from Binance. “It was not a single isolated breach or a simple phishing incident,” Binance wrote in its incident report…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/04081609/binance-bitcoin-1500.webp"
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-11-05",
+        "url": "https://www.helpnetsecurity.com/2026/11/05/google-cloud-ai-agents-security-controls/",
+        "resumo": "Google Cloud is adding new controls to CodeMender, its AI tool for finding and fixing software vulnerabilities, allowing businesses to isolate attack simulations and target code scans more precisely. The updates let businesses verify vulnerabilities and simul…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/10114938/google-ai-robot.webp"
     },
     {
-        "titulo": "Mistral Large 4 deploys 133 agents to find and patch a Django vulnerability",
-        "fonte": "Crypto Briefing",
-        "autor": "Diego Almada Lopez",
-        "data": "2026-11-04",
-        "url": "https://cryptobriefing.com/mistral-large-4-133-agents-django-vulnerability/",
-        "resumo": "The deployment of multi-agent AI models like Mistral Large 4 could revolutionize cybersecurity by automating comprehensive vulnerability management. The post Mistral Large 4 deploys 133 agents to find and patch a Django vulnerability appeared first on Crypto …",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/04052820/library-mistral-large-4-deploys-133-agents-to-find-and-patch-a-d-800x450.png"
+        "titulo": "Claude and ChatGPT Project Tips, Training AI Agents to Work Without You, and Industry News",
+        "fonte": "Socialmediaexaminer.com",
+        "autor": "Michael Stelzner",
+        "data": "2026-11-05",
+        "url": "https://www.socialmediaexaminer.com/?p=281022",
+        "resumo": "Friday is almost here! Before you unplug, here’s one last round of insights and updates. Whether you read them now or save them for later, you won’t want to miss these. In today’s edition: 5 rules to give your projects Build AI workflows that run without you …",
+        "imagem": "https://www.socialmediaexaminer.com/wp-content/uploads/2018/11/NewBack.png"
     },
     {
-        "titulo": "U.S. CISA adds WordPress flaw to its Known Exploited Vulnerabilities catalog",
+        "titulo": "Japan to Establish Cyber Rescue Team to Combat Rising Cyberattacks",
+        "fonte": "Newsonjapan.com",
+        "autor": "News On Japan",
+        "data": "2026-11-05",
+        "url": "https://newsonjapan.com/article/151259.php",
+        "resumo": "The Japanese government is preparing to establish a new cybersecurity response team comprising experts from the public and private sectors, with plans to dispatch specialists to companies and organizations facing serious cyberattacks following a series of una…",
+        "imagem": "https://i2.ytimg.com/vi/2pOsrsuusws/maxresdefault.jpg"
+    },
+    {
+        "titulo": "CERT-In flags vulnerability in Tata Motors’ mobile apps iRA 2.0, iRA.ev",
+        "fonte": "BusinessLine",
+        "autor": "S Ronendra Singh",
+        "data": "2026-11-05",
+        "url": "https://www.thehindubusinessline.com/companies/cert-in-flags-vulnerability-in-tata-motors-mobile-apps-ira-20-iraev/article71669300.ece",
+        "resumo": "Company says applications have been addressed through software updates and enhanced security measures",
+        "imagem": "https://bl-i.thgim.com/public/incoming/6wlhw4/article71646514.ece/alternates/LANDSCAPE_1200/2025-10-08T163043Z_1360061537_RC2I7HAR5LID_RTRMADP_3_INDIA-TECH.JPG"
+    },
+    {
+        "titulo": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+        "fonte": "BleepingComputer",
+        "autor": "Bill Toulas",
+        "data": "2026-11-05",
+        "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+        "resumo": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/14/android.jpg"
+    },
+    {
+        "titulo": "U.S. CISA adds Apple flaw to its Known Exploited Vulnerabilities catalog",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
-        "data": "2026-11-04",
-        "url": "https://securityaffairs.com/202394/security/u-s-cisa-adds-wordpress-flaw-to-its-known-exploited-vulnerabilities-catalog-2.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds WordPress flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a WordPress flaw, tracked as CVE-2026-119977 (CVSS score of…",
+        "data": "2026-11-05",
+        "url": "https://securityaffairs.com/202464/hacking/u-s-cisa-adds-apple-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Apple flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added an Apple flaw, tracked as CVE-2024-27834 (CVSS score of 5.5), t…",
         "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
     },
     {
-        "titulo": "Singapore Airlines says 46,000 booking records affected by Amadeus breach",
-        "fonte": "The Times of India",
-        "autor": "Reuters",
-        "data": "2026-11-04",
-        "url": "https://economictimes.indiatimes.com/tech/technology/singapore-airlines-says-46000-booking-records-affected-by-amadeus-breach/articleshow/135533259.cms",
-        "resumo": "Singapore Airlines said on Tuesday that about 46,000 booking records may have been ​affected by a cybersecurity incident involving Amadeus, its reservation technology",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-73572,resizemode-75,msid-135533259/tech/technology/singapore-airlines-says-46000-booking-records-affected-by-amadeus-breach.jpg"
-    },
-    {
-        "titulo": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+        "titulo": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-11-04",
-        "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability, tracked as CVE-2026-11…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9IgE0BWDAvYzjY8wFSMADIRn69AMLYxUa-oPoOISNBOpPbxwBNoWrbXWzI6P0deiU6WDqitiIZx1gFXSAlR8xX9rj56BuU48veMEPJAGSsmQTbVPirFOCuyMc_KQxtbPfc841GZGZ-3HSYYHCGbHnzrihtwQUaMlXrT3leLzI2USh00hc9OBw4k1SCJt4/s1700-nu-rw-lo-l85-e365/wp-exploit.jpg"
+        "data": "2026-11-05",
+        "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+        "resumo": "Zyxel GS1900 network switches that received the vendor&#x27;s earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch&#x27;s web management interface run comm…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaF7lULSp8hpZx_WSDcDsJxD9TzTOH5Oo5dkFteUVQqQMOXc7ZyytOxbNgL01vkV43Kx0V0sDzJvKGrZvPwjos_-g9djk8jVAqSN04CIhGoiWWUMLdyKQH32ES8ghi-6ilZbnbGi_WIRi8hvzik6ztrin-MZEK1QI2CKR3Lk1sUg3yVYuhGvsX0pC85Qg/s1700-nu-rw-lo-l85-e365/zyxel-hacker.jpg"
     },
     {
-        "titulo": "European supermarket fridges hit by cyberattacks again: Here&#x27;s what to know",
-        "fonte": "Business Standard",
-        "autor": "AP",
-        "data": "2026-11-04",
-        "url": "https://www.business-standard.com/world-news/european-supermarket-fridges-hit-by-cyberattacks-again-here-s-what-to-know-126110400061_1.html",
-        "resumo": "Mysterious cyberattacks on European supermarket fridges have sent officials around the continent scrambling to figure out the cold, hard facts. Supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after t…",
-        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/13/thumb/fitandfill/1200X628/1791863873-2493.JPG"
+        "titulo": "AI sharpens cat-and-mouse hacking battle as companies strengthen defences",
+        "fonte": "BusinessLine",
+        "autor": "Reuters",
+        "data": "2026-11-05",
+        "url": "https://www.thehindubusinessline.com/info-tech/ai-sharpens-cat-and-mouse-hacking-battle-as-companies-strengthen-defences/article71668809.ece",
+        "resumo": "Nearly 37,000 security flaws in software or computer systems were reported in the third quarter of 2026, tripling from a year earlier",
+        "imagem": "https://bl-i.thgim.com/public/incoming/oxfik9/article71649550.ece/alternates/LANDSCAPE_1200/PO01_BS_AI.jpg"
     },
     {
-        "titulo": "So, could Britain&#x27;s food chain be hit by the cyber hackers targeting supermarket freezers all across Europe?",
-        "fonte": "Dailymail.com",
-        "autor": "Fred Kelly",
-        "data": "2026-11-04",
-        "url": "https://www.dailymail.com/news/article-16263729/So-Britains-food-chain-hit-cyber-hackers-targeting-supermarket-freezers-Europe.html",
-        "resumo": "On Sunday October 11, French supermarkets were hit by an unprecedented cyber attack on refrigeration units across 700 stores.",
-        "imagem": "https://i.dailymail.com/1s/2026/11/04/00/112284433-0-image-a-13_1793751979177.jpg"
+        "titulo": "AI sharpens cat-and-mouse hacking battle as companies strengthen defences",
+        "fonte": "The Times of India",
+        "autor": "Reuters",
+        "data": "2026-11-05",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-sharpens-cat-and-mouse-hacking-battle-as-companies-strengthen-defences/articleshow/135561625.cms",
+        "resumo": "From hacked supermarket fridges and a record cryptocurrency theft at Binance to an emergency over flaws in widely used web software, companies worldwide are facing a wave of cyber threats executives say AI is accelerating",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-6606657,resizemode-75,msid-135561625/tech/artificial-intelligence/ai-sharpens-cat-and-mouse-hacking-battle-as-companies-strengthen-defences.jpg"
     },
     {
-        "titulo": "CrowdStrike to acquire cybersecurity startups Fiddler AI, Dreadnode for reported $495M",
-        "fonte": "SiliconANGLE News",
-        "autor": "Maria Deutscher",
-        "data": "2026-11-03",
-        "url": "https://siliconangle.com/2026/11/03/crowdstrike-to-acquire-cybersecurity-startups-fiddler-ai-dreadnode-for-reported-495m/",
-        "resumo": "CrowdStrike Holdings Inc. today disclosed plans to buy Fiddler AI Inc. and Dreadnode Inc., two startups that specialize in securing artificial intelligence agents. The company announced the deals alongside an update to its Falcon Guardian product. The Wall St…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/crowdstrike2023-scaled.jpg"
+        "titulo": "AI sharpens cat-and-mouse hacking battle as companies strengthen defences",
+        "fonte": "CNA",
+        "autor": "",
+        "data": "2026-11-05",
+        "url": "https://www.channelnewsasia.com/business/ai-sharpens-cat-and-mouse-hacking-battle-companies-strengthen-defences-6526661",
+        "resumo": "AMSTERDAM, Nov 5 : From hacked supermarket fridges and a record cryptocurrency theft at Binance to an emergency over flaws in widely used web software, companies worldwide are facing a wave of cyber threats executives say AI is accelerating and making more so…",
+        "imagem": "https://dam.mediacorp.sg/image/upload/s--Dmryp3Kv--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-05T061017Z_3_LYNXNPEMA40DV_RTROPTP_3_GLOBAL-COMPANIES-CYBERATTACK.JPG?itok=73AU9O8m"
+    },
+    {
+        "titulo": "How did supermarket fridges become a target for hackers?",
+        "fonte": "RTE",
+        "autor": "Ken Donnelly",
+        "data": "2026-11-05",
+        "url": "https://www.rte.ie/news/primetime/2026/1105/1598007-clarity-supermarket-cyberattack/",
+        "resumo": "How did equipment used to keep food cold become a target for hackers — and what do we know about how they got in?",
+        "imagem": "https://www.rte.ie/images/0025493a-1600.jpg"
     }
 ]
