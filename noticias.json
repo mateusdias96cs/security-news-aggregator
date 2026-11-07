@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "Zyxel Switch Patch Missed Flaw Behind Wave of Attacks",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Alessandro Mascellino",
-        "data": "2026-11-05",
-        "url": "https://www.infosecurity-magazine.com/news/zyxel-gs1900-patch-missed-flaw/",
-        "resumo": "Zyxel’s June GS1900 patch did not block the exploit used against 996 switches, Binarly found",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/fcbcf385-e065-4981-9748-503ca34a921e.jpeg"
+        "titulo": "Is Your Smart Doorbell a Backdoor for Hackers? Securing the Connected Home",
+        "fonte": "PCMag.com",
+        "autor": "Advertising Content",
+        "data": "2026-11-06",
+        "url": "https://uk.pcmag.com/advertising-content/168243/is-your-smart-doorbell-a-backdoor-for-hackers-securing-the-connected-home",
+        "resumo": "Your smart home is full of devices that behave a lot more like computers than traditional appliances. Here’s how hackers can exploit them, and how to make them safer.",
+        "imagem": "https://sm.pcmag.com/t/pcmag_uk/photo/default/gemini-generated-image-uxv2cduxv2cduxv2_6pue.1200.jpg"
     },
     {
-        "titulo": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-11-05",
-        "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-        "resumo": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn&#x27;t. And while new tools are…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj37A8QMI4tUKrluDLCSgawVjQQeZ6c6NrfWLMLUjrI6vRhpt8Tlw4PNnfF49ZlOTtW28Cfb035jo-j22auCrWauuE-JpHfKMFSVfIQtUZjn1eETLFhQEev0FFafFlGz8W6r-96FPmTWlFGTR3RhV869PbcYkO4YPi5nD-zQVGHSZ8d39OmhecF693dj4-x/s1700-nu-rw-lo-l85-e365/tds.jpg"
+        "titulo": "OpenAI Releases GPT-6 Cyber to Vetted Security Teams After Model Finds 588 Unknown Linux Flaws, Rated Critical",
+        "fonte": "Ibtimes.com.au",
+        "autor": "Joe Green",
+        "data": "2026-11-06",
+        "url": "https://www.ibtimes.com.au/openai-gpt-6-cyber-vulnerability-research-model-1878051",
+        "resumo": "OpenAI has released GPT-6 Cyber, a vulnerability research model, to selected customers after rating its cyber capabilities &#x27;Critical&#x27; and imposing safeguards on access and use.",
+        "imagem": "https://d.ibtimes.com.au/en/full/1894028/openai.jpg"
     },
     {
-        "titulo": "DreamHost admits major cyberattack saw hackers steal customer data and access inboxes",
-        "fonte": "TechRadar",
-        "autor": "Sead Fadilpašić",
-        "data": "2026-11-05",
-        "url": "https://www.techradar.com/pro/security/dreamhost-admits-major-cyberattack-saw-hackers-steal-customer-data-and-access-inboxes",
-        "resumo": "A software vulnerability allowed threat actors to obtain login credentials, putting files and emails at risk.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/McsoqUDJ8JAM2vQ4GoVytn-1920-80.jpg"
+        "titulo": "What AI Changes About the Cybersecurity Skills Your Team Needs",
+        "fonte": "Offsec.com",
+        "autor": "OffSec Team",
+        "data": "2026-11-06",
+        "url": "https://www.offsec.com/blog/what-ai-changes-about-the-cybersecurity-skills-your-team-needs/",
+        "resumo": "AI adoption a workforce-design decision especially in cybersecurity roles and a traditional workforce strategy. Learn more. The post What AI Changes About the Cybersecurity Skills Your Team Needs appeared first on OffSec.",
+        "imagem": "https://www.offsec.com/app/uploads/2026/11/What-AI-Changes-About-the-Cybersecurity-Skills-Your-Team-Needs-1200x628-1.png"
     },
     {
-        "titulo": "Vercel ties login sessions to devices, rolls out AI security reviews in public beta",
+        "titulo": "The missing piece: bringing up to 15 years of support to Zephyr for microcontroller-based ECUs",
+        "fonte": "Ubuntu.com",
+        "autor": "Jaume Rafols",
+        "data": "2026-11-06",
+        "url": "https://ubuntu.com/blog/the-missing-piece-bringing-up-to-15-years-of-support-to-zephyr-for-microcontroller-based-ecus",
+        "resumo": "We recently announced the launch of Zephyr 26.04 LTS, bringing up to 15 years of security maintenance per LTS and enterprise lifecycle management to microcontroller-grade devices. While central high-performance computer ECUs capture most of the industry spotl…",
+        "imagem": "https://ubuntu.com/wp-content/uploads/5226/Zephyr-in-automotive.png"
+    },
+    {
+        "titulo": "OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line",
+        "fonte": "Securityweek.com",
+        "autor": "Eduard Kovacs",
+        "data": "2026-11-06",
+        "url": "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/",
+        "resumo": "Rated Critical for cybersecurity, OpenAI’s new model beats GPT-5.6 Cyber at exploitation while staying in scope more reliably. The post OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2026/11/OpenAI-GPT.jpeg"
+    },
+    {
+        "titulo": "Motorola Moto Watch 2 Fit Puts Polar&#x27;s Clinical Sleep Tracking at $116. Its Beijing Parent Gets Your Health Data.",
+        "fonte": "Tech Times",
+        "autor": "Donald C. Case",
+        "data": "2026-11-06",
+        "url": "https://www.techtimes.com/articles/330133/20261105/motorola-moto-watch-2-fit-puts-polars-clinical-sleep-tracking-116-its-beijing-parent-gets-your.htm",
+        "resumo": "Motorola Moto Watch 2 Fit launches at EUR 99 (about $116) with Polar’s clinically validated sleep-staging algorithm and dual-frequency GPS that cuts urban positioning error to under 4 meters -- the...",
+        "imagem": "https://d.techtimes.com/en/full/477787/motorola-moto-watch-2.jpg"
+    },
+    {
+        "titulo": "OpenSSH flaw exploited in the wild just hours after disclosure (CVE-2026-123158)",
         "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-11-05",
-        "url": "https://www.helpnetsecurity.com/2026/11/05/vercel-security-review-session-hijacking/",
-        "resumo": "Vercel, the popular cloud platform for building and hosting websites and web applications, has announced the rollout of Device Bound Session Credentials (DBSC) and the launch of Vercel Security Review in public beta. Making stolen session cookies worthless De…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/04/20165413/vercel-1500.webp"
+        "autor": "Sinisa Markovic",
+        "data": "2026-11-06",
+        "url": "https://www.helpnetsecurity.com/2026/11/06/openssh-sshole-cve-2026-123158-exploitation/",
+        "resumo": "An OpenSSH flaw that lets remote attackers log into passwordless accounts on Alpine Linux and other musl-based systems is being exploited, threat intelligence firm Previdian has warned. The flaw (CVE-2026-123158), nicknamed sshole by Wakefield researcher Özgü…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/07/06145725/openssh-1500.webp"
     },
     {
-        "titulo": "CERT-In warns of AI-driven attacks on NBFCs, fintechs as hackers steal funds",
-        "fonte": "Moneycontrol",
-        "autor": "Aihik Sur",
-        "data": "2026-11-05",
-        "url": "https://www.moneycontrol.com/news/business/cert-in-warns-of-ai-driven-attacks-on-nbfcs-fintechs-as-hackers-steal-funds-14071003.html",
-        "resumo": "The agency said attackers are exploiting payment and disbursement APIs to make unauthorised transfers, and have re-targeted companies despite earlier remediation.",
-        "imagem": "https://images.moneycontrol.com/static-mcnews/2026/10/20261031034714_Cybersecurity-under-siege.png"
-    },
-    {
-        "titulo": "A cyber-storm watch went out last month, and almost nobody reported it",
+        "titulo": "Schellman CEO: the giant loophole in the White House AI deal",
         "fonte": "Fortune",
-        "autor": "Bryan C. Ward",
-        "data": "2026-11-05",
-        "url": "https://fortune.com/2026/11/05/php2shell-cyber-storm-watch-unpatched-vulnerabilities-ai-news-coverage/",
-        "resumo": "The breach always makes news. The patch never does.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/11/software-vulnerability-disclosures-chart.jpg?resize=1200,600"
+        "autor": "Avani Desai",
+        "data": "2026-11-06",
+        "url": "https://fortune.com/2026/11/06/white-house-ai-accord-independent-assessments-auditors-schellman/",
+        "resumo": "Who audits the AI auditors?",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/11/avani-desai.jpg?resize=1200,600"
     },
     {
-        "titulo": "Patched Zyxel GS1900 switches remained open to in-the-wild exploit (CVE-2026-107441)",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-11-05",
-        "url": "https://www.helpnetsecurity.com/2026/11/05/zyxel-cve-2026-107441-exploit/",
-        "resumo": "Zyxel GS1900 series network switches that received a fix for a flaw that was later reported to have been exploited in the wild are still open to an exploit attackers used, Binarly found. That’s because the patch fixed a different bug (CVE-2026-7273) from the …",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01122005/zyxel-broken.jpg"
-    },
-    {
-        "titulo": "AI Sharpens Cat-and-Mouse Hacking Battle as Companies Strengthen Defenses",
-        "fonte": "Insurance Journal",
-        "autor": "Admin",
-        "data": "2026-11-05",
-        "url": "https://www.insurancejournal.com/news/international/2026/11/05/891648.htm",
-        "resumo": "From hacked supermarket fridges and a record cryptocurrency theft at Binance to an emergency over flaws in widely used web software, companies worldwide are facing a wave of cyber threats executives say AI is accelerating and making more sophisticated. The …",
-        "imagem": "https://www.insurancejournal.com/app/uploads/2026/11/hacker-with-binoculars-72082115-Depositphotos-scaled.jpg"
-    },
-    {
-        "titulo": "Tata Motors PV says CERT-In-flagged app vulnerabilities addressed through updates",
-        "fonte": "The Times of India",
-        "autor": "PTI",
-        "data": "2026-11-05",
-        "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/tata-motors-pv-says-cert-in-flagged-app-vulnerabilities-addressed-through-updates/articleshow/135571459.cms",
-        "resumo": "The vulnerabilities identified in the iRA 2.0 and iRA.ev applications have been addressed through software updates and enhanced security measures, a Tata Motors Passenger Vehicles spokesperson told.",
-        "imagem": "https://img.etimg.com/thumb/msid-135571694,width-1200,height-900,imgsize-136020,overlay-economictimes/articleshow.jpg"
-    },
-    {
-        "titulo": "Google puts new limits on AI agents that hunt threats and fix vulnerabilities",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-11-05",
-        "url": "https://www.helpnetsecurity.com/2026/11/05/google-cloud-ai-agents-security-controls/",
-        "resumo": "Google Cloud is adding new controls to CodeMender, its AI tool for finding and fixing software vulnerabilities, allowing businesses to isolate attack simulations and target code scans more precisely. The updates let businesses verify vulnerabilities and simul…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/10114938/google-ai-robot.webp"
-    },
-    {
-        "titulo": "Claude and ChatGPT Project Tips, Training AI Agents to Work Without You, and Industry News",
-        "fonte": "Socialmediaexaminer.com",
-        "autor": "Michael Stelzner",
-        "data": "2026-11-05",
-        "url": "https://www.socialmediaexaminer.com/?p=281022",
-        "resumo": "Friday is almost here! Before you unplug, here’s one last round of insights and updates. Whether you read them now or save them for later, you won’t want to miss these. In today’s edition: 5 rules to give your projects Build AI workflows that run without you …",
-        "imagem": "https://www.socialmediaexaminer.com/wp-content/uploads/2018/11/NewBack.png"
-    },
-    {
-        "titulo": "Japan to Establish Cyber Rescue Team to Combat Rising Cyberattacks",
-        "fonte": "Newsonjapan.com",
-        "autor": "News On Japan",
-        "data": "2026-11-05",
-        "url": "https://newsonjapan.com/article/151259.php",
-        "resumo": "The Japanese government is preparing to establish a new cybersecurity response team comprising experts from the public and private sectors, with plans to dispatch specialists to companies and organizations facing serious cyberattacks following a series of una…",
-        "imagem": "https://i2.ytimg.com/vi/2pOsrsuusws/maxresdefault.jpg"
-    },
-    {
-        "titulo": "CERT-In flags vulnerability in Tata Motors’ mobile apps iRA 2.0, iRA.ev",
-        "fonte": "BusinessLine",
-        "autor": "S Ronendra Singh",
-        "data": "2026-11-05",
-        "url": "https://www.thehindubusinessline.com/companies/cert-in-flags-vulnerability-in-tata-motors-mobile-apps-ira-20-iraev/article71669300.ece",
-        "resumo": "Company says applications have been addressed through software updates and enhanced security measures",
-        "imagem": "https://bl-i.thgim.com/public/incoming/6wlhw4/article71646514.ece/alternates/LANDSCAPE_1200/2025-10-08T163043Z_1360061537_RC2I7HAR5LID_RTRMADP_3_INDIA-TECH.JPG"
-    },
-    {
-        "titulo": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-        "fonte": "BleepingComputer",
-        "autor": "Bill Toulas",
-        "data": "2026-11-05",
-        "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-        "resumo": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/14/android.jpg"
-    },
-    {
-        "titulo": "U.S. CISA adds Apple flaw to its Known Exploited Vulnerabilities catalog",
+        "titulo": "OpenAI Rates GPT-6 Cyber Critical After Major Vulnerability Discoveries",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
-        "data": "2026-11-05",
-        "url": "https://securityaffairs.com/202464/hacking/u-s-cisa-adds-apple-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Apple flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added an Apple flaw, tracked as CVE-2024-27834 (CVSS score of 5.5), t…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+        "data": "2026-11-06",
+        "url": "https://securityaffairs.com/202546/ai/openai-rates-gpt-6-cyber-critical-after-major-vulnerability-discoveries.html",
+        "resumo": "OpenAI GPT-6 Cyber found 81 high-severity Firefox flaws and hundreds of Linux bugs, raising new questions about AI-powered cyber risks. OpenAI has introduced GPT-6 Cyber, a model built for security research that it says finds and fixes vulnerabilities better …",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2024/07/openai.png"
     },
     {
-        "titulo": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-11-05",
-        "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-        "resumo": "Zyxel GS1900 network switches that received the vendor&#x27;s earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch&#x27;s web management interface run comm…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaF7lULSp8hpZx_WSDcDsJxD9TzTOH5Oo5dkFteUVQqQMOXc7ZyytOxbNgL01vkV43Kx0V0sDzJvKGrZvPwjos_-g9djk8jVAqSN04CIhGoiWWUMLdyKQH32ES8ghi-6ilZbnbGi_WIRi8hvzik6ztrin-MZEK1QI2CKR3Lk1sUg3yVYuhGvsX0pC85Qg/s1700-nu-rw-lo-l85-e365/zyxel-hacker.jpg"
+        "titulo": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
+        "fonte": "Cointelegraph",
+        "autor": "Cointelegraph by Zoltan Vardai",
+        "data": "2026-11-06",
+        "url": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance",
+        "resumo": "North Korea-linked TraderTraitor may have had 8 weeks of access to Binance’s systems before conducting the record-setting hack on Oct. 29, according to the Security Alliance.",
+        "imagem": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R6HFGR0ZQXJ31EX11P2NV5/hi-how-zachxbt-traced-a-31m-bitcoin-donation-to-a-flagged-wallet.jpg"
     },
     {
-        "titulo": "AI sharpens cat-and-mouse hacking battle as companies strengthen defences",
-        "fonte": "BusinessLine",
-        "autor": "Reuters",
-        "data": "2026-11-05",
-        "url": "https://www.thehindubusinessline.com/info-tech/ai-sharpens-cat-and-mouse-hacking-battle-as-companies-strengthen-defences/article71668809.ece",
-        "resumo": "Nearly 37,000 security flaws in software or computer systems were reported in the third quarter of 2026, tripling from a year earlier",
-        "imagem": "https://bl-i.thgim.com/public/incoming/oxfik9/article71649550.ece/alternates/LANDSCAPE_1200/PO01_BS_AI.jpg"
+        "titulo": "CISA Warns Hackers Are Exploiting 18-Year-Old WordPress Core Vulnerability",
+        "fonte": "HackRead",
+        "autor": "Deeba Ahmed",
+        "data": "2026-11-06",
+        "url": "https://hackread.com/cisa-hackers-exploiting-wordpress-core-vulnerability/",
+        "resumo": "CVE-2026-119977 lets hackers hijack WordPress sites during core updates. CISA confirms exploitation as users are told to patch and protect upgrades.",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/11/cisa-hackers-exploiting-wordpress-core-vulnerability.jpg"
     },
     {
-        "titulo": "AI sharpens cat-and-mouse hacking battle as companies strengthen defences",
-        "fonte": "The Times of India",
-        "autor": "Reuters",
-        "data": "2026-11-05",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-sharpens-cat-and-mouse-hacking-battle-as-companies-strengthen-defences/articleshow/135561625.cms",
-        "resumo": "From hacked supermarket fridges and a record cryptocurrency theft at Binance to an emergency over flaws in widely used web software, companies worldwide are facing a wave of cyber threats executives say AI is accelerating",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-6606657,resizemode-75,msid-135561625/tech/artificial-intelligence/ai-sharpens-cat-and-mouse-hacking-battle-as-companies-strengthen-defences.jpg"
+        "titulo": "AI-driven attacks put telecom security on govt radar",
+        "fonte": "Livemint",
+        "autor": "Jatin Grover",
+        "data": "2026-11-06",
+        "url": "https://www.livemint.com/industry/telecom/telecom-infra-cyber-security-dot-airtel-jio-vodafone-idea-bsnl-11793956076862.html",
+        "resumo": "DoT has held multiple rounds of talks with Airtel, Jio, Vodafone Idea and BSNL to strengthen network firewalls as CERT-In flags increasingly sophisticated AI-enabled cyberattacks.",
+        "imagem": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/India-s-service--telecom--computer-software---hard_1686156708193_1793961357726_gPXV_81a38b63-f768-4ece-967e-88000df3cd58_Lagx.jpg"
     },
     {
-        "titulo": "AI sharpens cat-and-mouse hacking battle as companies strengthen defences",
-        "fonte": "CNA",
-        "autor": "",
-        "data": "2026-11-05",
-        "url": "https://www.channelnewsasia.com/business/ai-sharpens-cat-and-mouse-hacking-battle-companies-strengthen-defences-6526661",
-        "resumo": "AMSTERDAM, Nov 5 : From hacked supermarket fridges and a record cryptocurrency theft at Binance to an emergency over flaws in widely used web software, companies worldwide are facing a wave of cyber threats executives say AI is accelerating and making more so…",
-        "imagem": "https://dam.mediacorp.sg/image/upload/s--Dmryp3Kv--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-05T061017Z_3_LYNXNPEMA40DV_RTROPTP_3_GLOBAL-COMPANIES-CYBERATTACK.JPG?itok=73AU9O8m"
+        "titulo": "OpenAI’s GPT-6 Cyber found 81 Firefox flaws earlier AI testing missed",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-11-06",
+        "url": "https://www.helpnetsecurity.com/2026/11/06/openai-gpt-6-cyber-released/",
+        "resumo": "OpenAI has introduced GPT-6 Cyber, a version of GPT-6 Astra trained to find software vulnerabilities, test how attackers could exploit them, and help develop fixes. The model is designed for authorized security testing of websites and applications. Vulnerabil…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/08084601/openai_person-1500.webp"
     },
     {
-        "titulo": "How did supermarket fridges become a target for hackers?",
-        "fonte": "RTE",
-        "autor": "Ken Donnelly",
-        "data": "2026-11-05",
-        "url": "https://www.rte.ie/news/primetime/2026/1105/1598007-clarity-supermarket-cyberattack/",
-        "resumo": "How did equipment used to keep food cold become a target for hackers — and what do we know about how they got in?",
-        "imagem": "https://www.rte.ie/images/0025493a-1600.jpg"
+        "titulo": "Sarajevo Cyber Security Summit 2026 puts the Western Balkans’ cyber resilience in focus",
+        "fonte": "Help Net Security",
+        "autor": "Industry News",
+        "data": "2026-11-06",
+        "url": "https://www.helpnetsecurity.com/2026/11/06/sarajevo-cyber-security-summit-2026/",
+        "resumo": "Cyber Security Summit 2026 in Sarajevo will examine the practical security questions organizations face when a supplier, network device or critical digital service fails: what breaks, who decides, and how quickly can operations recover? A serious cyber incide…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/12102008/cyber-security-summit-2026-poster.webp"
+    },
+    {
+        "titulo": "Virtualization security: attack layers and misconfiguration impact",
+        "fonte": "Securelist.com",
+        "autor": "Rauf Johari",
+        "data": "2026-11-06",
+        "url": "https://securelist.com/virtualization-security-esxi-and-proxmox-ransomware-cases/121819/",
+        "resumo": "A detailed breakdown of misconfigurations in virtual environment cybersecurity as shown by examples of ransomware cases on ESXi and Proxmox environments.",
+        "imagem": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/11/06081025/virtualization-security-featured-image.jpg"
+    },
+    {
+        "titulo": "ENISA Warns of Cyberattacks Targeting Refrigeration Systems Across Europe",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-11-06",
+        "url": "https://securityaffairs.com/202528/security/enisa-warns-of-cyberattacks-targeting-refrigeration-systems-across-europe.html",
+        "resumo": "ENISA warns of cyberattacks on European refrigeration systems, exposing risks to supermarkets, food supplies and industrial controls. The European Union has issued a coordinated cybersecurity warning after a series of attacks hit commercial refrigeration syst…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2025/09/enisa.png"
+    },
+    {
+        "titulo": "Cyberattacks: ‘I could see all my files on my computer going one by one’",
+        "fonte": "The Irish Times",
+        "autor": "Ciara O&#x27;Brien",
+        "data": "2026-11-06",
+        "url": "https://www.irishtimes.com/business/2026/11/06/i-could-see-all-my-files-on-my-computer-going-one-by-one-so-i-tried-to-shut-everything-down-but-it-was-too-late/",
+        "resumo": "When it comes to cyberattacks, it’s not a case of ‘if’, but ‘when’ for Irish businesses",
+        "imagem": "https://www.irishtimes.com/resizer/v2/MDRDOBHQZVF2DJ2C32G7OU6DGI.png?smart=true&auth=142911fd29bcc6dbae6cc626f4c2b8ce039ad93d6c56a36455046411664b2465&width=1200&height=630"
+    },
+    {
+        "titulo": "OpenAI says its new cybersecurity model is better at not hacking other companies - The Verge",
+        "fonte": "Slashdot.org",
+        "autor": "feedfeeder",
+        "data": "2026-11-06",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186610177",
+        "resumo": "OpenAI says its new cybersecurity model is better at not hacking other companiesThe Verge GPT6 Cyber: Advancing the frontier of aligned cybersecurity agentsOpenAI OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour RunThe Hacker News Op…",
+        "imagem": ""
+    },
+    {
+        "titulo": "OpenAI launches GPT-6 Cyber with &#x27;Critical&#x27; cybersecurity rating - Reuters",
+        "fonte": "Slashdot.org",
+        "autor": "feedfeeder",
+        "data": "2026-11-06",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186609923",
+        "resumo": "OpenAI launches GPT-6 Cyber with &#x27;Critical&#x27; cybersecurity ratingReuters GPT6 Cyber: Advancing the frontier of aligned cybersecurity agentsOpenAI OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour RunThe Hacker News OpenAI&#x27;s new cyber m…",
+        "imagem": ""
+    },
+    {
+        "titulo": "OpenAIがサイバーセキュリティのためのAI「GPT-6 Cyber」を発表",
+        "fonte": "Livedoor.com",
+        "autor": "GIGAZINE（ギガジン）",
+        "data": "2026-11-06",
+        "url": "https://news.livedoor.com/article/detail/32746632/",
+        "resumo": "脆弱(ぜいじゃく)性の発見と修正において高い能力を備えるというOpenAIのモデル「GPT-6 Cyber」が発表されました。GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents | OpenAIhttps://openai.com/index/introducing-gpt-6-cyber/Today’s GPT-6 Cyber release is a meaningful step for defenders: stronge…",
+        "imagem": "https://image.news.livedoor.com/newsimage/stf/9/f/9f6fa_88_dae8274d576d8704b72ad15b591e7a0b.jpg"
     }
 ]
