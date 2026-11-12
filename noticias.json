@@ -1,173 +1,164 @@
 [
     {
-        "titulo": "The next chapter for Red Hat: AI agents rewrite the cloud-native playbook",
-        "fonte": "SiliconANGLE News",
-        "autor": "A.J. Bram",
-        "data": "2026-11-10",
-        "url": "https://siliconangle.com/2026/11/10/red-hat-ai-agent-infrastructure-kubeconna/",
-        "resumo": "Red Hat LLC has spent years making Kubernetes manageable for enterprises that would rather run applications than tend clusters. As AI agents move into production, the company is extending that experience to a new generation of workloads. AI agents don’t just …",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Secure-AI-Orchestration-Hub-Red-Hat-at-KubeCon-800x450.png"
+        "titulo": "Multiple remote code execution vulnerabilities in danfoss sm-800A",
+        "fonte": "Midnightblue.nl",
+        "autor": "rros",
+        "data": "2026-11-11",
+        "url": "https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a",
+        "resumo": "Following up on the waves of cyber attacks against internet-exposed fridge controllers, this blogpost argues to not waste time patching vulnerabilities on these devices by showing how we found several pre-authentication remote code execution 0-day vulnerabili…",
+        "imagem": "https://cdn.prod.website-files.com/64a2900ed5e9bb672af9b2ed/6af2dbc514f7d4ff50318021_Blue-Steel%20Broken%20Sea%20Ice%20Mosaic.png"
     },
     {
-        "titulo": "Sega newsletter data breach sees 2.2 million email addresses exposed",
-        "fonte": "TechRadar",
-        "autor": "Sead Fadilpašić",
-        "data": "2026-11-10",
-        "url": "https://www.techradar.com/pro/security/sega-newsletter-data-breach-sees-2-2-million-email-addresses-exposed-gaming-giant-says-it-is-investigating-but-user-financial-data-not-affected",
-        "resumo": "The Sega breach is part of a much larger supply chain attack that struck a digital marketing company called Arara.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/uQbZ3qB4nEaK6ihcacU3vh-2000-80.jpg"
+        "titulo": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-11-11",
+        "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+        "resumo": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments. &quot;In severa…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi08pEbJ7-HNwC0kJf517wnB6y8HwgKhMU-vxbhnCEh9KpWk1kmIjp_bb71k7GYfiTZNep3bcejvN7RmriF9_0RJnGGe9T5WB_nihCgxiDYOMl8mgDmI0Pm6ZFmPzf8HulQUxHjX3TncwmvqJIDPLyZBoHZpOahcMl7fehtwvT-oCxLzPec-KRtiScHT7wk/s1700-nu-rw-lo-l85-e365/aws-secrets.jpg"
     },
     {
-        "titulo": "Urgent warning to Gmail users about new hacking threat exposing private messages: Act now",
-        "fonte": "Dailymail.com",
-        "autor": "Stacy Liberatore",
-        "data": "2026-11-10",
-        "url": "https://www.dailymail.com/sciencetech/article-16281307/gmail-remus-stealer-hacking-threat.html",
-        "resumo": "Gmail users are being warned about a disturbing new hacking threat that could allow cybercriminals to secretly access their private messages and banking details.",
-        "imagem": "https://i.dailymail.com/1s/2026/11/10/15/112419403-0-image-m-13_1794323417206.jpg"
+        "titulo": "From Supermarket Freezers to Satellites: Europe’s Cyberattacks, Vulnerability Exposed",
+        "fonte": "Globalresearch.ca",
+        "autor": "Uriel Araujo",
+        "data": "2026-11-11",
+        "url": "https://www.globalresearch.ca/supermarket-freezers-satellites-europe-cyber-vulnerability/5945625",
+        "resumo": "Europe’s widening cyber crisis reveals alarming weaknesses in essential infrastructure. The attacks thus raise geopolitical questions about digital sovereignty and technological dependence on the US. *** Europe is currently facing an unprecedented wave of cyb…",
+        "imagem": "https://www.globalresearch.ca/wp-content/uploads/2026/11/europe-cyber-attack-supermarkets.jpg"
     },
     {
-        "titulo": "SUSE points Rancher Prime’s AI agents at virtual machines and updates its enterprise Linux",
-        "fonte": "SiliconANGLE News",
-        "autor": "Duncan Riley",
-        "data": "2026-11-10",
-        "url": "https://siliconangle.com/2026/11/10/suse-points-rancher-primes-ai-agents-at-virtual-machines-and-updates-its-enterprise-linux/",
-        "resumo": "Open-source enterprise software company SUSE S.A. today extended the artificial intelligence troubleshooting agents in its SUSE Rancher Prime platform from Kubernetes clusters to virtual machines. The company released version 16.1 of its SUSE Linux Enterprise…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2022/10/suse.png"
+        "titulo": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-11-11",
+        "url": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+        "resumo": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet&#x27;s CyOps and Research teams said they identified the suspicious activity in October …",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5L1m-CqPOrgk9otByC4blBWuqDylovaSyHYhirRHQvzjjSUB0DBWbxnF_8cNIsONC6yoL3h-ydX61vmnsctKr_IbcnvmwRLAMqch16Ru5oMVuDWy1bilEt6EAgEerB7mUxICRgck1NkoJeA7Y2lvV0oqLkw12-f1xMhC7Dw5F1aK35NhVf3oZwj4WbfOT/s1700-nu-rw-lo-l85-e365/qliksense.jpg"
     },
     {
-        "titulo": "School meal ordering app Tappee hit by cybersecurity incident, says SATS; four schools affected",
-        "fonte": "CNA",
-        "autor": "",
-        "data": "2026-11-10",
-        "url": "https://www.channelnewsasia.com/singapore/school-meal-ordering-app-tappee-sats-data-breach-cybersecurity-6539236",
-        "resumo": "&quot;No banking or credit card information, or details or images of student identification documents, have been compromised, as such information was not collected through the Tappee application,&quot; said food solutions provider SATS.",
-        "imagem": "https://dam.mediacorp.sg/image/upload/s--4diYCt_H--/c_crop,h_1125,w_2000,x_0,y_1/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/10/sats_logo_assorted_5.jpg?itok=rKEF-Hqy"
+        "titulo": "Remus malware claims Gmail access even after you change your password",
+        "fonte": "Malwarebytes.com",
+        "autor": "Pieter Arntz",
+        "data": "2026-11-11",
+        "url": "http://www.malwarebytes.com/blog/news/2026/11/remus-malware-claims-gmail-access-even-after-you-change-your-password",
+        "resumo": "Developers of the infostealer Remus claim their malware can retain access to a victim’s Gmail even after a password reset.",
+        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/11/gmail-code-background.jpg"
     },
     {
-        "titulo": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
+        "titulo": "The supermarket fridge hack exposes the cracks in tech vision of an ‘internet of things’",
+        "fonte": "The Conversation Africa",
+        "autor": "Vincent Charles, Professor of AI for Business and Management Science, Queen&#x27;s University Belfas",
+        "data": "2026-11-11",
+        "url": "https://theconversation.com/the-supermarket-fridge-hack-exposes-the-cracks-in-tech-vision-of-an-internet-of-things-296314",
+        "resumo": "The attacks show that hackers are exploiting physical devices to spread new forms of disruption to daily life.",
+        "imagem": "https://images.theconversation.com/files/771331/original/file-20261111-78-ubilw6.jpg?ixlib=rb-4.1.1&rect=0%2C279%2C5897%2C2948&q=45&auto=format&w=1356&h=668&fit=crop"
+    },
+    {
+        "titulo": "Microsoft Patch Tuesday fixes Outlook flaw already under attack",
+        "fonte": "Malwarebytes.com",
+        "autor": "Pieter Arntz",
+        "data": "2026-11-11",
+        "url": "http://www.malwarebytes.com/blog/bugs/2026/11/microsoft-patch-tuesday-fixes-outlook-flaw-already-under-attack",
+        "resumo": "Microsoft’s November 2026 Patch Tuesday fixes an actively exploited Outlook vulnerability. Check for Office updates separately.",
+        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/02/microsoftlogo.jpg"
+    },
+    {
+        "titulo": "Hackers Advertise a $1,000 Gmail Tool That Allegedly Survives Password Resets",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-11-11",
+        "url": "https://securityaffairs.com/202853/malware/hackers-advertise-a-1000-gmail-tool-that-allegedly-survives-password-resets.html",
+        "resumo": "Hackers advertise a $1,000-a-month tool claiming persistent Gmail access after password resets, but its effectiveness remains unverified. A developer of hacking tools is selling a $1,000 per month feature that allegedly gives criminals continuous access to Gm…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/11/image-21.png"
+    },
+    {
+        "titulo": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
         "fonte": "BleepingComputer",
         "autor": "Sergiu Gatlan",
-        "data": "2026-11-10",
-        "url": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
-        "resumo": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/11/10/SAP.jpg"
+        "data": "2026-11-11",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+        "resumo": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/28/CISA.jpg"
     },
     {
-        "titulo": "Claude Mythos 5.2 arrives with stronger bug hunting and less sandbox-breaking behavior",
-        "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-11-10",
-        "url": "https://www.helpnetsecurity.com/2026/11/10/anthropic-claude-fable-and-mythos-5-2-safeguards/",
-        "resumo": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2. The two versions share an underlying model, with stricter safeguards for cybersecurity and biology tasks in the broadly available Fable. Fable blocks fewer requests Fable’s safety classifiers block hi…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/09/30083105/claude-find-1500.webp"
+        "titulo": "Google Launches Gemini 4 Carbon, Its &#x27;Strongest Model&#x27; Yet, With Swarm Tool That Turns a Prompt Into a Team",
+        "fonte": "Ibtimes.com.au",
+        "autor": "George Anton",
+        "data": "2026-11-11",
+        "url": "https://www.ibtimes.com.au/google-gemini-4-carbon-swarm-ai-agents-1878350",
+        "resumo": "Google has released Gemini 4 Carbon to developers, businesses and paying consumers, alongside a preview of /swarm, which coordinates multiple AI agents on complex projects.",
+        "imagem": "https://d.ibtimes.com.au/en/full/1897229/google-launches-gemini-4-carbon-its-strongest-model-yet.jpg"
     },
     {
-        "titulo": "Finite State Raises $27 Million to Help Device Makers Fight ‘Vulnpocalypse’ with AI-Powered Product Security",
-        "fonte": "Next Big Future",
-        "autor": "cybernewswire",
-        "data": "2026-11-10",
-        "url": "https://www.nextbigfuture.com/2026/11/finite-state-raises-27-million-to-help-device-makers-fight-vulnpocalypse-with-ai-powered-product-security.html",
-        "resumo": "Columbus, Ohio, United States, 10th November 2026, CyberNewswire",
-        "imagem": ""
+        "titulo": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-11-11",
+        "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+        "resumo": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Office, 61 in Developer Tools, …",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_nfFO2Zf-R2XyVzQHP43rc0OLAtUtRKWYV0VIaoHZW8EeH78h2Id9FmfJQVfzFdmBD6ugVGeCehX1Nq6jlmXlMG4AmnV3Tib3YvClKGaplVg5Ngk_KlpqwHx6Pd_oYQTCj2O3HfOpt_MoSGQD-4Nv-pju5sqS7U9-rAJdpKTn-xnhA1QSmmTiQWnAFjGp/s1700-nu-rw-lo-l85-e365/patch-ms.jpg"
     },
     {
-        "titulo": "Finite State Raises $27 Million to Help Device Makers Fight ‘Vulnpocalypse’ with AI-Powered Product Security",
+        "titulo": "Hackers Exploit Decade-Old OpenSSH Flaw to Bypass Linux Logins",
         "fonte": "HackRead",
-        "autor": "CyberNewswire",
-        "data": "2026-11-10",
-        "url": "https://hackread.com/finite-state-raises-27-million-to-help-device-makers-fight-vulnpocalypse-with-ai-powered-product-security/",
-        "resumo": "Columbus, Ohio, United States, 10th November 2026, CyberNewswire",
-        "imagem": "https://hackread.com/wp-content/uploads/2026/11/FS-Logo-Final-01_1794263520Rk1ZumSlYN.png"
+        "autor": "Deeba Ahmed",
+        "data": "2026-11-11",
+        "url": "https://hackread.com/hackers-exploit-old-openssh-bypass-linux-logins/",
+        "resumo": "Hackers exploit SSHole OpenSSH flaw to bypass Linux logins and install a Python backdoor. CISA confirms exploits as patched packages become available.",
+        "imagem": "https://hackread.com/wp-content/uploads/2026/11/hackers-exploit-old-openssh-bypass-linux-logins.jpg"
     },
     {
-        "titulo": "Amazon Bedrock adds bedrock-runtime endpoint support for Daybreak models",
-        "fonte": "Amazon.com",
-        "autor": "aws@amazon.com",
-        "data": "2026-11-10",
-        "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-daybreak-on-amazon-bedrock-runtime/",
-        "resumo": "Eligible customers can now access OpenAI’s specialized cybersecurity models Daybreak Red: GPT-5.6 Cyber and Daybreak Blue: GPT-5.6 Sol through the bedrock-runtime endpoint on Amazon Bedrock. Daybreak Blue is the starting point for most security teams across d…",
-        "imagem": ""
-    },
-    {
-        "titulo": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
-        "fonte": "CNBC",
-        "autor": "Jenni Reid",
-        "data": "2026-11-10",
-        "url": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
-        "resumo": "France said the cyber unit of Iran&#x27;s Islamic Revolutionary Guard Corps carried out an &quot;unprecedented campaign&quot; that caused millions of euros in damage.",
-        "imagem": "https://image.cnbcfm.com/api/v1/image/108403029-1791894112373-gettyimages-2299339600-AFP_D3247KH.jpeg?v=1794294925&w=1920&h=1080"
-    },
-    {
-        "titulo": "Anthropic&#x27;s Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+        "titulo": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
         "fonte": "Internet",
         "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-11-10",
-        "url": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
-        "resumo": "Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language models (LLMs) helped its engineers &quot;complete otherwise-infeasible…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgogipF_6VgFSzsnZ_UFUM5FfzGyk1MOv5SRi3PSivRHjxs6IsO0fmOdDjQsDJHiKcnxJ8T89NMMYiqo_NEEtv0EoQsafjOFuZ-Te6famJBJKegqDnf1b63Hdzkls7IO1JOtSNjb5Hatb4Ny8Zu46mggCXYKvHf3Ne9Qc4ZRfLBmLnZ7omPEHAjDfJRQEKu/s1700-nu-rw-lo-l85-e365/fable.jpg"
+        "data": "2026-11-11",
+        "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploit…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4aXykaOroazGO_7IuXugse9ynGpt1PkKJDM8lKL4by93ixX28cs23KAZZRF2dCN2cogu1ti8q5kmqfqSBLmOXWkVi7ZGWmwYMkeCOUXsOXwLoF07FbzmVnlr9DoeqtCboI_9LKWgohgWi2jIB1TzGO6uEkp5lsMnq5fSVqrN-NZGJjAQE2kIUyHsdkw6J/s1700-nu-rw-lo-l85-e365/cisa-cisco.jpg"
     },
     {
-        "titulo": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-11-10",
-        "url": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of act…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVAsrcYxVs8sJe7IiSD6WkTC4yPv0eLfup7dwcsS0NLcAAgoY__wyC3UFCR90PL2ziKCEW-vMNIEQXES-8uAG-MxuXlyIDdQGeNREm8yFv3tbvsCVXXRyRGT4ORirvcVKP_uD62XHYy9w3x_P0o7XzkguJPwq_1vV2jPxxnZWbhAHHUJ3YJ6HbTlXb0shyphenhyphen/s1700-nu-rw-lo-l85-e365/openssh.png"
-    },
-    {
-        "titulo": "Let’s Talk About Why all This OT Stuff is Connected – Lesley Carhart&#x27;s Cybersecurity Blog",
-        "fonte": "Tisiphone.net",
-        "autor": "shadowspar",
-        "data": "2026-11-10",
-        "url": "https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/",
-        "resumo": "It’s been a really bad month (and year) for OT cybersecurity. From a wave of new, high-impact vulnerabilities, to attacks on supermarket refrigerators, to attacks on blood banks, we’ve …",
-        "imagem": "https://i0.wp.com/tisiphone.net/wp-content/uploads/2026/11/pexels-photo-17546504.jpeg?fit=818%2C1200&ssl=1"
-    },
-    {
-        "titulo": "Cybersecurity jobs available right now: November 10, 2026",
+        "titulo": "EU cyber scores look healthy, but 45% of surveyed IT providers take months to patch",
         "fonte": "Help Net Security",
-        "autor": "Anamarija Pogorelec",
-        "data": "2026-11-10",
-        "url": "https://www.helpnetsecurity.com/2026/11/10/cybersecurity-jobs-available-right-now-november-10-2026/",
-        "resumo": "Application Security Engineer ONE ZERO BANK | Israel | Hybrid – View job details As an Application Security Engineer, you will work with developers to build security into the software development lifecycle. You will use security reviews and threat modeling to…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140413/cybersecurity_jobs-2-1500.webp"
+        "autor": "Mirko Zorz",
+        "data": "2026-11-11",
+        "url": "https://www.helpnetsecurity.com/2026/11/11/eu-enisa-cybersecurity-report/",
+        "resumo": "Forty-five percent of surveyed IT service management providers in the EU took more than three months to apply critical patches to critical systems, according to ENISA’s 2026 assessment of cybersecurity in the Union. Attackers can turn a newly disclosed flaw i…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/01/21142123/eu-people-1500.webp"
     },
     {
-        "titulo": "Anthropic brings its Mythos bug-hunting model to Cisco and IBM security products",
-        "fonte": "Crypto Briefing",
-        "autor": "Diego Almada Lopez",
-        "data": "2026-11-10",
-        "url": "https://cryptobriefing.com/anthropic-mythos-cisco-ibm-security/",
-        "resumo": "Integrating Mythos into Cisco and IBM products could significantly enhance cybersecurity defenses, potentially reshaping the security landscape. The post Anthropic brings its Mythos bug-hunting model to Cisco and IBM security products appeared first on Crypto…",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/09190937/library-anthropic-brings-its-mythos-bug-hunting-model-to-cisco-a-800x450.png"
+        "titulo": "Gemini 4 Carbon opens to developers, enterprises with advanced AI capabilities for complex tasks",
+        "fonte": "The Times of India",
+        "autor": "ANI",
+        "data": "2026-11-11",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/gemini-4-carbon-opens-to-developers-enterprises-with-advanced-ai-capabilities-for-complex-tasks/articleshow/135724889.cms",
+        "resumo": "Google has expanded access to its Gemini 4 Carbon artificial intelligence (AI) model to developers, businesses, scientists and consumers, as it seeks to bring advanced AI capabilities to tasks such as software development, financial research and cybersecurity…",
+        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-342473,resizemode-75,msid-135724889/tech/artificial-intelligence/gemini-4-carbon-opens-to-developers-enterprises-with-advanced-ai-capabilities-for-complex-tasks.jpg"
     },
     {
-        "titulo": "Is Cyber Deception a Must-Have This Time?",
-        "fonte": "Zeltser.com",
-        "autor": "Lenny Zeltser",
-        "data": "2026-11-10",
-        "url": "https://zeltser.com/cyber-deception-again",
-        "resumo": "Cyber deception is drawing renewed interest in the AI era, but it may not become mainstream this time either. Teams can still add decoys to identity, segmentation, secrets, and AI agent projects that already have their attention.",
-        "imagem": "https://zeltser.com/assets/cyber-deception-again.BZxDjY6J_Z1tmbNj.jpg"
+        "titulo": "Google DeepMind Launches Gemini 4 Carbon Model for Complex AI Tasks",
+        "fonte": "Asianetnews.com",
+        "autor": "Asianet News Central",
+        "data": "2026-11-11",
+        "url": "https://newsable.asianetnews.com/business/google-deepmind-launches-gemini-4-carbon-model-for-complex-ai-tasks-articleshow-n2oz7rl",
+        "resumo": "Google has launched Gemini 4 Carbon, an advanced AI model designed for complex reasoning tasks in software engineering, scientific research, and cybersecurity, aiming to support enterprise-level workflows and multi-step agentic processes.",
+        "imagem": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-74a92675-be55-4414-ac1c-fd2bf0848401.jpg"
     },
     {
-        "titulo": "AI Bubble Tracker",
-        "fonte": "Endtime-instruments.org",
-        "autor": "",
-        "data": "2026-11-09",
-        "url": "https://endtime-instruments.org/ai-bubble-tracker/",
-        "resumo": "79 live signals on the AI economy: spending, supply, usage, adoption, prices, markets and attention.",
+        "titulo": "Reduce alert fatigue by customizing threat detection features in Amazon GuardDuty",
+        "fonte": "Amazon.com",
+        "autor": "Allan Holmes",
+        "data": "2026-11-10",
+        "url": "https://aws.amazon.com/blogs/security/reduce-alert-fatigue-by-customizing-threat-detection-features-in-amazon-guardduty/",
+        "resumo": "The teams responsible for security today don’t have a problem with the number of alerts they receive; they have a problem turning those alerts into something truly actionable. When an analyst concludes an investigation with “this was caused by our vulnerabili…",
+        "imagem": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/05/05/aws_logo.jpg"
+    },
+    {
+        "titulo": "Prepare for the AI Apocalypse Like You’d Prepare for a Snowstorm",
+        "fonte": "The Atlantic",
+        "autor": "Matteo Wong",
+        "data": "2026-11-10",
+        "url": "https://www.theatlantic.com/technology/2026/11/how-to-prepare-for-the-ai-apocalypse/689367/?utm_source=feed",
+        "resumo": "Water, batteries, and go bags",
         "imagem": ""
-    },
-    {
-        "titulo": "Hotel giant Wyndham exposed customer data after app security lapse | TechCrunch",
-        "fonte": "TechCrunch",
-        "autor": "Zack Whittaker",
-        "data": "2026-11-09",
-        "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
-        "resumo": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn&#x27;t say if it has the ability to check for any past unauthorized access.",
-        "imagem": "https://techcrunch.com/wp-content/uploads/2026/11/wyndham-967205948.jpg?resize=1200,843"
     }
 ]
