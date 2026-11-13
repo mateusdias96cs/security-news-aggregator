@@ -1,5 +1,158 @@
 [
     {
+        "titulo": "AntiFox AI agents hijacked by hackers to carry out theft of AWS credentials",
+        "fonte": "TechRadar",
+        "autor": "Sead Fadilpašić",
+        "data": "2026-11-12",
+        "url": "https://www.techradar.com/pro/security/antifox-ai-agents-hijacked-by-hackers-to-carry-out-theft-of-aws-credentials",
+        "resumo": "ARTEX forks are wreaking havoc, helping attackers steal credentials and log into cloud environments.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/Dtd9CSn6K6jfEdpnzch4zj-2121-80.jpg"
+    },
+    {
+        "titulo": "Picus puts AI agents on the offensive with autonomous pentesting",
+        "fonte": "Help Net Security",
+        "autor": "Industry News",
+        "data": "2026-11-12",
+        "url": "https://www.helpnetsecurity.com/2026/11/12/picus-autonomous-penetration-testing/",
+        "resumo": "Picus Security has announced Picus Autonomous Penetration Testing, an agentic pentesting capability that puts AI agents on the offensive: they think like attackers, chain real exploits toward an organization’s crown jewels, and prove what a breach would look …",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp"
+    },
+    {
+        "titulo": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-11-12",
+        "url": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
+        "resumo": "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has emerged. Blackpoint Cyber&#x27;s Adversary Pursuit Group (APG…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4r5n0I6Rd7yb3jS6hfXTyM5foZU5uEiCD1I2Kgth1qgf_pzohrD9jPeDesEopB6Gjo0VaQZF2XesdqU6W32eFADzI3_xhBF4026h6uGqn6eExdfS_A29SvYA3cdIJkhWmPG-k15_DdsGGcqFfWS-E3cgyKkdEQ3Sxa9gayFkkMXggVJpkeH7DoLNLZxm9/s1700-nu-rw-lo-l85-e365/screen.jpg"
+    },
+    {
+        "titulo": "Siemens Industrial Edge Management",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-11-12",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
+        "resumo": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brot…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Siemens RUGGEDCOM APE1808",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-11-12",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
+        "resumo": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult a…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Siemens RUGGEDCOM APE1808",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-11-12",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
+        "resumo": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers are advised to consult a…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Siemens Building Automation and Energy Products",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-11-12",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
+        "resumo": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as &quot;php2shell&quot; (tracked as CVE-2026-109618 and CVE-2026-109619…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Siemens Desigo, Gridscale",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-11-12",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
+        "resumo": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as &quot;Node2Shell&quot; (tracked as CVE-2026-111497). The vulnerability is an out…",
+        "imagem": ""
+    },
+    {
+        "titulo": "European tech buyers add digital sovereignty to cyber shopping list",
+        "fonte": "Theregister.com",
+        "autor": "Paul Kunert",
+        "data": "2026-11-12",
+        "url": "https://www.theregister.com/security/2026/11/12/european-tech-buyers-add-digital-sovereignty-to-cyber-shopping-list/5309216",
+        "resumo": "Sales from EU HQ&#x27;d vendor rocket in two years. The Trump affect? Yes but NIS2 and DORA are factors too",
+        "imagem": "https://image.theregister.com/5223019.jpg?imageId=5223019&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+        "titulo": "TSMC confirms employee data leak as hackers seek 3 BTC for the records",
+        "fonte": "Crypto Briefing",
+        "autor": "John Chen",
+        "data": "2026-11-12",
+        "url": "https://cryptobriefing.com/tsmc-employee-data-leak-3-btc/",
+        "resumo": "The incident underscores the vulnerability of third-party systems, highlighting the need for robust vendor security to protect sensitive data. The post TSMC confirms employee data leak as hackers seek 3 BTC for the records appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/12050247/library-tsmc-confirms-employee-data-leak-as-hackers-seek-3-btc-f-800x450.png"
+    },
+    {
+        "titulo": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-11-12",
+        "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+        "resumo": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no evidence that the incident involves a comp…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEfz7InYm8UO-p35K6B4j009BxA-MO7DdZ2x1d-xhyphenhyphenPxNnVs848IlgAGelmuW-sPbEZbE8-L9_KWEYNH_M5HaTMy14MFd87A7YkqHAzDKaamKOdpZKR9owL3nK3gbqAngvWa6A4NC1KK1l0ie9FK731LfKPI0lguiGQ1b71sHIZj2kR2H3I-GJjSPY4kJU/s1700-nu-rw-lo-l85-e365/screenconnect-hack.jpg"
+    },
+    {
+        "titulo": "Hackers Are Targeting Grocery and Medicine Refrigeration Systems, U.S. Agencies Warn After European Attacks Spoiled Food",
+        "fonte": "Medical Daily",
+        "autor": "Cole Mercer",
+        "data": "2026-11-12",
+        "url": "https://www.medicaldaily.com/hackers-target-refrigeration-systems-food-medicine-481129",
+        "resumo": "U.S. agencies warn that hackers are targeting internet-connected refrigeration systems, threatening food, blood and medicine storage as investigations continue into attacks in Europe and possible U.S. incidents.",
+        "imagem": "https://d.medicaldaily.com/en/full/488511/supermarket-refrigeration-systems.jpg"
+    },
+    {
+        "titulo": "I Accidentally Became a Millionaire",
+        "fonte": "Lyra.horse",
+        "autor": "OuterVale",
+        "data": "2026-11-11",
+        "url": "https://lyra.horse/blog/2026/11/disinformation-machine/",
+        "resumo": "Article URL: https://lyra.horse/blog/2026/11/disinformation-machine/ Comments URL: https://news.ycombinator.com/item?id=50460254 Points: 100 # Comments: 11",
+        "imagem": ""
+    },
+    {
+        "titulo": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+        "fonte": "BleepingComputer",
+        "autor": "Lawrence Abrams",
+        "data": "2026-11-11",
+        "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+        "resumo": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/09/16/ScreenConnect.jpg"
+    },
+    {
+        "titulo": "AI is accelerating cyberattacks: Why Canada needs to prepare for a new era of digital risk",
+        "fonte": "Digital Journal",
+        "autor": "Dr. Tim Sandle",
+        "data": "2026-11-11",
+        "url": "https://www.digitaljournal.com/article/ai-is-accelerating-cyberattacks-why-canada-needs-to-prepare-for-a-new-era-of-digital-risk/",
+        "resumo": "Artificial intelligence is making cyberattacks faster, cheaper and easier to scale. For Canadian organisations, the challenge is increasingly shifting from attempting to prevent every incident towards building systems capable of surviving and recovering from …",
+        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2026/04/e2c272bbe87510fd7b3adb56b8df266525976092-1.jpg"
+    },
+    {
+        "titulo": "Google Patches Eighth Actively Exploited Chrome Zero-Day of 2026: Update Your Browser Now to Block Attacks",
+        "fonte": "Ibtimes.com.au",
+        "autor": "George Anton",
+        "data": "2026-11-11",
+        "url": "https://www.ibtimes.com.au/google-chrome-emergency-update-exploited-zero-day-1878424",
+        "resumo": "Google has released an emergency Chrome update for a high-severity zero-day vulnerability under active attack, affecting Windows, macOS, Linux and Android users.",
+        "imagem": "https://d.ibtimes.com.au/en/full/212545/google-logo.jpg"
+    },
+    {
+        "titulo": "N-able Rushes Out N-central Fixes After 33 Zero-Days Go Public",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Alessandro Mascellino",
+        "data": "2026-11-11",
+        "url": "https://www.infosecurity-magazine.com/news/n-able-n-central-able2shell-0day/",
+        "resumo": "N-able fixes seven N-central CVEs after 33 alleged zero-days are published",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/35a6b142-1c75-495b-afc6-d1b39fca7069.jpg"
+    },
+    {
         "titulo": "Multiple remote code execution vulnerabilities in danfoss sm-800A",
         "fonte": "Midnightblue.nl",
         "autor": "rros",
@@ -25,140 +178,5 @@
         "url": "https://www.globalresearch.ca/supermarket-freezers-satellites-europe-cyber-vulnerability/5945625",
         "resumo": "Europe’s widening cyber crisis reveals alarming weaknesses in essential infrastructure. The attacks thus raise geopolitical questions about digital sovereignty and technological dependence on the US. *** Europe is currently facing an unprecedented wave of cyb…",
         "imagem": "https://www.globalresearch.ca/wp-content/uploads/2026/11/europe-cyber-attack-supermarkets.jpg"
-    },
-    {
-        "titulo": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-11-11",
-        "url": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
-        "resumo": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet&#x27;s CyOps and Research teams said they identified the suspicious activity in October …",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5L1m-CqPOrgk9otByC4blBWuqDylovaSyHYhirRHQvzjjSUB0DBWbxnF_8cNIsONC6yoL3h-ydX61vmnsctKr_IbcnvmwRLAMqch16Ru5oMVuDWy1bilEt6EAgEerB7mUxICRgck1NkoJeA7Y2lvV0oqLkw12-f1xMhC7Dw5F1aK35NhVf3oZwj4WbfOT/s1700-nu-rw-lo-l85-e365/qliksense.jpg"
-    },
-    {
-        "titulo": "Remus malware claims Gmail access even after you change your password",
-        "fonte": "Malwarebytes.com",
-        "autor": "Pieter Arntz",
-        "data": "2026-11-11",
-        "url": "http://www.malwarebytes.com/blog/news/2026/11/remus-malware-claims-gmail-access-even-after-you-change-your-password",
-        "resumo": "Developers of the infostealer Remus claim their malware can retain access to a victim’s Gmail even after a password reset.",
-        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/11/gmail-code-background.jpg"
-    },
-    {
-        "titulo": "The supermarket fridge hack exposes the cracks in tech vision of an ‘internet of things’",
-        "fonte": "The Conversation Africa",
-        "autor": "Vincent Charles, Professor of AI for Business and Management Science, Queen&#x27;s University Belfas",
-        "data": "2026-11-11",
-        "url": "https://theconversation.com/the-supermarket-fridge-hack-exposes-the-cracks-in-tech-vision-of-an-internet-of-things-296314",
-        "resumo": "The attacks show that hackers are exploiting physical devices to spread new forms of disruption to daily life.",
-        "imagem": "https://images.theconversation.com/files/771331/original/file-20261111-78-ubilw6.jpg?ixlib=rb-4.1.1&rect=0%2C279%2C5897%2C2948&q=45&auto=format&w=1356&h=668&fit=crop"
-    },
-    {
-        "titulo": "Microsoft Patch Tuesday fixes Outlook flaw already under attack",
-        "fonte": "Malwarebytes.com",
-        "autor": "Pieter Arntz",
-        "data": "2026-11-11",
-        "url": "http://www.malwarebytes.com/blog/bugs/2026/11/microsoft-patch-tuesday-fixes-outlook-flaw-already-under-attack",
-        "resumo": "Microsoft’s November 2026 Patch Tuesday fixes an actively exploited Outlook vulnerability. Check for Office updates separately.",
-        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/02/microsoftlogo.jpg"
-    },
-    {
-        "titulo": "Hackers Advertise a $1,000 Gmail Tool That Allegedly Survives Password Resets",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-11-11",
-        "url": "https://securityaffairs.com/202853/malware/hackers-advertise-a-1000-gmail-tool-that-allegedly-survives-password-resets.html",
-        "resumo": "Hackers advertise a $1,000-a-month tool claiming persistent Gmail access after password resets, but its effectiveness remains unverified. A developer of hacking tools is selling a $1,000 per month feature that allegedly gives criminals continuous access to Gm…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/11/image-21.png"
-    },
-    {
-        "titulo": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-11-11",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
-        "resumo": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/28/CISA.jpg"
-    },
-    {
-        "titulo": "Google Launches Gemini 4 Carbon, Its &#x27;Strongest Model&#x27; Yet, With Swarm Tool That Turns a Prompt Into a Team",
-        "fonte": "Ibtimes.com.au",
-        "autor": "George Anton",
-        "data": "2026-11-11",
-        "url": "https://www.ibtimes.com.au/google-gemini-4-carbon-swarm-ai-agents-1878350",
-        "resumo": "Google has released Gemini 4 Carbon to developers, businesses and paying consumers, alongside a preview of /swarm, which coordinates multiple AI agents on complex projects.",
-        "imagem": "https://d.ibtimes.com.au/en/full/1897229/google-launches-gemini-4-carbon-its-strongest-model-yet.jpg"
-    },
-    {
-        "titulo": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-11-11",
-        "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-        "resumo": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Office, 61 in Developer Tools, …",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_nfFO2Zf-R2XyVzQHP43rc0OLAtUtRKWYV0VIaoHZW8EeH78h2Id9FmfJQVfzFdmBD6ugVGeCehX1Nq6jlmXlMG4AmnV3Tib3YvClKGaplVg5Ngk_KlpqwHx6Pd_oYQTCj2O3HfOpt_MoSGQD-4Nv-pju5sqS7U9-rAJdpKTn-xnhA1QSmmTiQWnAFjGp/s1700-nu-rw-lo-l85-e365/patch-ms.jpg"
-    },
-    {
-        "titulo": "Hackers Exploit Decade-Old OpenSSH Flaw to Bypass Linux Logins",
-        "fonte": "HackRead",
-        "autor": "Deeba Ahmed",
-        "data": "2026-11-11",
-        "url": "https://hackread.com/hackers-exploit-old-openssh-bypass-linux-logins/",
-        "resumo": "Hackers exploit SSHole OpenSSH flaw to bypass Linux logins and install a Python backdoor. CISA confirms exploits as patched packages become available.",
-        "imagem": "https://hackread.com/wp-content/uploads/2026/11/hackers-exploit-old-openssh-bypass-linux-logins.jpg"
-    },
-    {
-        "titulo": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-11-11",
-        "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploit…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4aXykaOroazGO_7IuXugse9ynGpt1PkKJDM8lKL4by93ixX28cs23KAZZRF2dCN2cogu1ti8q5kmqfqSBLmOXWkVi7ZGWmwYMkeCOUXsOXwLoF07FbzmVnlr9DoeqtCboI_9LKWgohgWi2jIB1TzGO6uEkp5lsMnq5fSVqrN-NZGJjAQE2kIUyHsdkw6J/s1700-nu-rw-lo-l85-e365/cisa-cisco.jpg"
-    },
-    {
-        "titulo": "EU cyber scores look healthy, but 45% of surveyed IT providers take months to patch",
-        "fonte": "Help Net Security",
-        "autor": "Mirko Zorz",
-        "data": "2026-11-11",
-        "url": "https://www.helpnetsecurity.com/2026/11/11/eu-enisa-cybersecurity-report/",
-        "resumo": "Forty-five percent of surveyed IT service management providers in the EU took more than three months to apply critical patches to critical systems, according to ENISA’s 2026 assessment of cybersecurity in the Union. Attackers can turn a newly disclosed flaw i…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/01/21142123/eu-people-1500.webp"
-    },
-    {
-        "titulo": "Gemini 4 Carbon opens to developers, enterprises with advanced AI capabilities for complex tasks",
-        "fonte": "The Times of India",
-        "autor": "ANI",
-        "data": "2026-11-11",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/gemini-4-carbon-opens-to-developers-enterprises-with-advanced-ai-capabilities-for-complex-tasks/articleshow/135724889.cms",
-        "resumo": "Google has expanded access to its Gemini 4 Carbon artificial intelligence (AI) model to developers, businesses, scientists and consumers, as it seeks to bring advanced AI capabilities to tasks such as software development, financial research and cybersecurity…",
-        "imagem": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-342473,resizemode-75,msid-135724889/tech/artificial-intelligence/gemini-4-carbon-opens-to-developers-enterprises-with-advanced-ai-capabilities-for-complex-tasks.jpg"
-    },
-    {
-        "titulo": "Google DeepMind Launches Gemini 4 Carbon Model for Complex AI Tasks",
-        "fonte": "Asianetnews.com",
-        "autor": "Asianet News Central",
-        "data": "2026-11-11",
-        "url": "https://newsable.asianetnews.com/business/google-deepmind-launches-gemini-4-carbon-model-for-complex-ai-tasks-articleshow-n2oz7rl",
-        "resumo": "Google has launched Gemini 4 Carbon, an advanced AI model designed for complex reasoning tasks in software engineering, scientific research, and cybersecurity, aiming to support enterprise-level workflows and multi-step agentic processes.",
-        "imagem": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-74a92675-be55-4414-ac1c-fd2bf0848401.jpg"
-    },
-    {
-        "titulo": "Reduce alert fatigue by customizing threat detection features in Amazon GuardDuty",
-        "fonte": "Amazon.com",
-        "autor": "Allan Holmes",
-        "data": "2026-11-10",
-        "url": "https://aws.amazon.com/blogs/security/reduce-alert-fatigue-by-customizing-threat-detection-features-in-amazon-guardduty/",
-        "resumo": "The teams responsible for security today don’t have a problem with the number of alerts they receive; they have a problem turning those alerts into something truly actionable. When an analyst concludes an investigation with “this was caused by our vulnerabili…",
-        "imagem": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/05/05/aws_logo.jpg"
-    },
-    {
-        "titulo": "Prepare for the AI Apocalypse Like You’d Prepare for a Snowstorm",
-        "fonte": "The Atlantic",
-        "autor": "Matteo Wong",
-        "data": "2026-11-10",
-        "url": "https://www.theatlantic.com/technology/2026/11/how-to-prepare-for-the-ai-apocalypse/689367/?utm_source=feed",
-        "resumo": "Water, batteries, and go bags",
-        "imagem": ""
     }
 ]
