@@ -1,182 +1,173 @@
 [
     {
-        "titulo": "AntiFox AI agents hijacked by hackers to carry out theft of AWS credentials",
+        "titulo": "Hackers&#x27; Overreliance on AI Can Result in Weaker Cyber-Attacks, Proofpoint Researcher Says",
+        "fonte": "Infosecurity Magazine",
+        "autor": "James Coker",
+        "data": "2026-11-13",
+        "url": "https://www.infosecurity-magazine.com/news/hackers-ai-weaker-cyber-attacks/",
+        "resumo": "Proofpoint’s Selena Larson notes that threat actors’ reliance on AI has led to lots of mistakes being made, with little evidence of increased sophistication",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/08f06098-7e8e-48cc-9b8f-c05f8426a154.jpg"
+    },
+    {
+        "titulo": "European firms are ditching US cybersecurity firms as report claims &#x27;digital sovereignty is becoming a buying decision&#x27;",
         "fonte": "TechRadar",
-        "autor": "Sead Fadilpašić",
-        "data": "2026-11-12",
-        "url": "https://www.techradar.com/pro/security/antifox-ai-agents-hijacked-by-hackers-to-carry-out-theft-of-aws-credentials",
-        "resumo": "ARTEX forks are wreaking havoc, helping attackers steal credentials and log into cloud environments.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/Dtd9CSn6K6jfEdpnzch4zj-2121-80.jpg"
+        "autor": "Craig Hale",
+        "data": "2026-11-13",
+        "url": "https://www.techradar.com/pro/security/european-firms-are-ditching-us-cybersecurity-firms-as-report-claims-digital-sovereignty-is-becoming-a-buying-decision",
+        "resumo": "European firms are investing more in local cybersecurity vendors, while US vendor growth falls lower than the overall average.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/UjSNcAZ5SebctebKAMQNVF-2560-80.jpg"
     },
     {
-        "titulo": "Picus puts AI agents on the offensive with autonomous pentesting",
-        "fonte": "Help Net Security",
-        "autor": "Industry News",
-        "data": "2026-11-12",
-        "url": "https://www.helpnetsecurity.com/2026/11/12/picus-autonomous-penetration-testing/",
-        "resumo": "Picus Security has announced Picus Autonomous Penetration Testing, an agentic pentesting capability that puts AI agents on the offensive: they think like attackers, chain real exploits toward an organization’s crown jewels, and prove what a breach would look …",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp"
-    },
-    {
-        "titulo": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-11-12",
-        "url": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
-        "resumo": "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has emerged. Blackpoint Cyber&#x27;s Adversary Pursuit Group (APG…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4r5n0I6Rd7yb3jS6hfXTyM5foZU5uEiCD1I2Kgth1qgf_pzohrD9jPeDesEopB6Gjo0VaQZF2XesdqU6W32eFADzI3_xhBF4026h6uGqn6eExdfS_A29SvYA3cdIJkhWmPG-k15_DdsGGcqFfWS-E3cgyKkdEQ3Sxa9gayFkkMXggVJpkeH7DoLNLZxm9/s1700-nu-rw-lo-l85-e365/screen.jpg"
-    },
-    {
-        "titulo": "Siemens Industrial Edge Management",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-11-12",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
-        "resumo": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brot…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Siemens RUGGEDCOM APE1808",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-11-12",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
-        "resumo": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult a…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Siemens RUGGEDCOM APE1808",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-11-12",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
-        "resumo": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers are advised to consult a…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Siemens Building Automation and Energy Products",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-11-12",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
-        "resumo": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as &quot;php2shell&quot; (tracked as CVE-2026-109618 and CVE-2026-109619…",
-        "imagem": ""
-    },
-    {
-        "titulo": "Siemens Desigo, Gridscale",
-        "fonte": "Cisa.gov",
-        "autor": "CISA",
-        "data": "2026-11-12",
-        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
-        "resumo": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as &quot;Node2Shell&quot; (tracked as CVE-2026-111497). The vulnerability is an out…",
-        "imagem": ""
-    },
-    {
-        "titulo": "European tech buyers add digital sovereignty to cyber shopping list",
-        "fonte": "Theregister.com",
-        "autor": "Paul Kunert",
-        "data": "2026-11-12",
-        "url": "https://www.theregister.com/security/2026/11/12/european-tech-buyers-add-digital-sovereignty-to-cyber-shopping-list/5309216",
-        "resumo": "Sales from EU HQ&#x27;d vendor rocket in two years. The Trump affect? Yes but NIS2 and DORA are factors too",
-        "imagem": "https://image.theregister.com/5223019.jpg?imageId=5223019&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-    },
-    {
-        "titulo": "TSMC confirms employee data leak as hackers seek 3 BTC for the records",
-        "fonte": "Crypto Briefing",
-        "autor": "John Chen",
-        "data": "2026-11-12",
-        "url": "https://cryptobriefing.com/tsmc-employee-data-leak-3-btc/",
-        "resumo": "The incident underscores the vulnerability of third-party systems, highlighting the need for robust vendor security to protect sensitive data. The post TSMC confirms employee data leak as hackers seek 3 BTC for the records appeared first on Crypto Briefing.",
-        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/12050247/library-tsmc-confirms-employee-data-leak-as-hackers-seek-3-btc-f-800x450.png"
-    },
-    {
-        "titulo": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-11-12",
-        "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
-        "resumo": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no evidence that the incident involves a comp…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEfz7InYm8UO-p35K6B4j009BxA-MO7DdZ2x1d-xhyphenhyphenPxNnVs848IlgAGelmuW-sPbEZbE8-L9_KWEYNH_M5HaTMy14MFd87A7YkqHAzDKaamKOdpZKR9owL3nK3gbqAngvWa6A4NC1KK1l0ie9FK731LfKPI0lguiGQ1b71sHIZj2kR2H3I-GJjSPY4kJU/s1700-nu-rw-lo-l85-e365/screenconnect-hack.jpg"
-    },
-    {
-        "titulo": "Hackers Are Targeting Grocery and Medicine Refrigeration Systems, U.S. Agencies Warn After European Attacks Spoiled Food",
-        "fonte": "Medical Daily",
-        "autor": "Cole Mercer",
-        "data": "2026-11-12",
-        "url": "https://www.medicaldaily.com/hackers-target-refrigeration-systems-food-medicine-481129",
-        "resumo": "U.S. agencies warn that hackers are targeting internet-connected refrigeration systems, threatening food, blood and medicine storage as investigations continue into attacks in Europe and possible U.S. incidents.",
-        "imagem": "https://d.medicaldaily.com/en/full/488511/supermarket-refrigeration-systems.jpg"
-    },
-    {
-        "titulo": "I Accidentally Became a Millionaire",
-        "fonte": "Lyra.horse",
-        "autor": "OuterVale",
-        "data": "2026-11-11",
-        "url": "https://lyra.horse/blog/2026/11/disinformation-machine/",
-        "resumo": "Article URL: https://lyra.horse/blog/2026/11/disinformation-machine/ Comments URL: https://news.ycombinator.com/item?id=50460254 Points: 100 # Comments: 11",
-        "imagem": ""
-    },
-    {
-        "titulo": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+        "titulo": "Check Point warns of zero-day flaw exploited for root access",
         "fonte": "BleepingComputer",
-        "autor": "Lawrence Abrams",
-        "data": "2026-11-11",
-        "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
-        "resumo": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/09/16/ScreenConnect.jpg"
+        "autor": "Sergiu Gatlan",
+        "data": "2026-11-13",
+        "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+        "resumo": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/09/18/Check-Point-headpic.jpg"
     },
     {
-        "titulo": "AI is accelerating cyberattacks: Why Canada needs to prepare for a new era of digital risk",
+        "titulo": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
+        "fonte": "Securityweek.com",
+        "autor": "Eduard Kovacs",
+        "data": "2026-11-13",
+        "url": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
+        "resumo": "Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches. The post OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools appeared first on SecurityWeek.",
+        "imagem": "https://www.securityweek.com/wp-content/uploads/2025/11/OpenAI.jpeg"
+    },
+    {
+        "titulo": "New SignDrop Exploit Can Abuse Windows Defender to Bypass Security Protections",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-11-13",
+        "url": "https://securityaffairs.com/202968/hacking/new-signdrop-exploit-can-abuse-windows-defender-to-bypass-security-protections.html",
+        "resumo": "SignDrop is a Windows zero-day that abuses CLFS security protections to let local attackers gain SYSTEM privileges and bypass defenses. The researcher Chaotic Eclipse, also known as INFINITE NIGHTMARE, MSNightmare, Nightmare-Eclipse, and MSNightmare, publishe…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/11/image-26.png"
+    },
+    {
+        "titulo": "Ransomware at the hypervisor layer: how attackers use ESXi and vCenter features for malicious purposes",
+        "fonte": "Securelist.com",
+        "autor": "Elsayed Elrefaei, Mohamed Ghobashy",
+        "data": "2026-11-13",
+        "url": "https://securelist.com/esxi-ransomware/121959/",
+        "resumo": "Kaspersky experts analyze a recent ransomware incident and discuss why the hypervisor layer remains difficult to monitor, what common access paths adversaries use to reach it, and how to protect your ESXi systems.",
+        "imagem": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/11/12200032/esxi-3_securelist-featured_1200x600_x2.jpg"
+    },
+    {
+        "titulo": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-11-13",
+        "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+        "resumo": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously reported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA.…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP3B9ZQG1BXlSPUWzwVJ5qgwh899Ngm9u2GAbWiX5HDqhhT6q6gsmva9-TR2upR0fepas2i0k53VUxh1CH21LeUUv1Ipczl9huExytcqNdlqIoHP64CRYJuGyHe-OgLoov-JR6GziUT4JDJ92Ne83CshfWn9pr9Bt2HPKkv4phQJ2esJHcV6eZqzRretVu/s1700-nu-rw-lo-l85-e365/php.jpg"
+    },
+    {
+        "titulo": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
+        "fonte": "Internet",
+        "autor": "info@thehackernews.com (The Hacker News)",
+        "data": "2026-11-13",
+        "url": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
+        "resumo": "N-able on Thursday said it&#x27;s taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. &quot;We are restricting certain N-central features and integrations,&quot; the company said in a Thursday upd…",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA4jxlXpPBPhD5o3IHy80Fn7fSHUtcqH3iXQlU-jDUL5C3zJcf1_Zb-GAYxuW6P6q647p9JAT_opImlj-v-USDNhZ_z83mYC3ISKtN72pe_3XLwf5EyMRuK4OdXCFnYxGMhOAvN_i4UFqk5vJLriRnkbRRwILuT5JUpExx9Tm74sXSCQ0g7jjsOzWV1cqk/s1700-nu-rw-lo-l85-e365/nable-hacks.jpg"
+    },
+    {
+        "titulo": "Nepal calls for global cooperation to bridge digital divide",
+        "fonte": "Khabarhub.com",
+        "autor": "Khabarhub",
+        "data": "2026-11-13",
+        "url": "https://english.khabarhub.com/2026/13/575439/",
+        "resumo": "KATHMANDU: Nepal has called for stronger international cooperation to protect telecommunications infrastructure from climate-induced disasters, narrow the digital divide and ensure equitable access to emerging technologies, including artificial intelligence (…",
+        "imagem": "https://english.khabarhub.com/wp-content/uploads/2026/11/Bikram-Timilsina-Doha-e1794546785747.jpg"
+    },
+    {
+        "titulo": "Why Italy was caught off guard by bomb threats emailed to schools",
+        "fonte": "La Repubblica",
+        "autor": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+        "data": "2026-11-13",
+        "url": "https://www.repubblica.it/en/europe/news/2026/11/13/news/italy_school_bomb_threats_intelligence_cybersecurity_government_response-425718874/",
+        "resumo": "Intelligence agencies had warned of the threat, but no one knew who should coordinate the response. A plan to create a single body to oversee cybersecurity was derailed by divisions within Meloni’s government",
+        "imagem": "https://www.repstatic.it/content/nazionale/img/2026/11/12/162705623-b00f5db0-7a21-44fe-beb2-d2c73be52f56.jpg"
+    },
+    {
+        "titulo": "Microsoft Goes Down, Millions Lose Access: How Many More Warnings Before the Digital House of Cards Collapses?",
+        "fonte": "Offgridsurvival.com",
+        "autor": "OFFGRID Survival",
+        "data": "2026-11-12",
+        "url": "https://offgridsurvival.com/microsoft-goes-down-millions-lose-access-how-many-more-warnings-before-the-digital-house-of-cards-collapses/",
+        "resumo": "Microsoft Goes Down, Millions Lose Access: How Many More Warnings Before the Digital House of Cards Collapses? Microsoft outage disrupts critical services as AI cyberattacks and infrastructure failures expose just how vulnerable our digital world has become. …",
+        "imagem": "https://offgridsurvival.com/wp-content/themes/church_10/images/2026/11/microsoftdown.jpg"
+    },
+    {
+        "titulo": "PHP2Shell exposes cybersecurity’s new AI paradox: Finding flaws is becoming easier than fixing them",
         "fonte": "Digital Journal",
         "autor": "Dr. Tim Sandle",
-        "data": "2026-11-11",
-        "url": "https://www.digitaljournal.com/article/ai-is-accelerating-cyberattacks-why-canada-needs-to-prepare-for-a-new-era-of-digital-risk/",
-        "resumo": "Artificial intelligence is making cyberattacks faster, cheaper and easier to scale. For Canadian organisations, the challenge is increasingly shifting from attempting to prevent every incident towards building systems capable of surviving and recovering from …",
-        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2026/04/e2c272bbe87510fd7b3adb56b8df266525976092-1.jpg"
+        "data": "2026-11-12",
+        "url": "https://www.digitaljournal.com/article/php2shell-exposes-cybersecuritys-new-ai-paradox-finding-flaws-is-becoming-easier-than-fixing-them/",
+        "resumo": "Artificial intelligence can uncover serious vulnerabilities at unprecedented speed. For the UK technology channel, however, PHP2Shell suggests the harder problem is increasingly what happens after a flaw has been found The post PHP2Shell exposes cybersecurity…",
+        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2021/07/CyberAttacks-AFP-1K.jpg"
     },
     {
-        "titulo": "Google Patches Eighth Actively Exploited Chrome Zero-Day of 2026: Update Your Browser Now to Block Attacks",
-        "fonte": "Ibtimes.com.au",
-        "autor": "George Anton",
-        "data": "2026-11-11",
-        "url": "https://www.ibtimes.com.au/google-chrome-emergency-update-exploited-zero-day-1878424",
-        "resumo": "Google has released an emergency Chrome update for a high-severity zero-day vulnerability under active attack, affecting Windows, macOS, Linux and Android users.",
-        "imagem": "https://d.ibtimes.com.au/en/full/212545/google-logo.jpg"
+        "titulo": "White Hackers Lead Japan&#x27;s Fight Against Relentless Cyberattacks",
+        "fonte": "Newsonjapan.com",
+        "autor": "News On Japan",
+        "data": "2026-11-12",
+        "url": "https://newsonjapan.com/article/151354.php",
+        "resumo": "Japanese companies are facing an increasingly serious wave of cyberattacks, with personal information leaks and fraudulent financial transactions causing widespread damage, while the rapid development of artificial intelligence is making attacks faster and mo…",
+        "imagem": "https://i2.ytimg.com/vi/rgB6-kLMj74/maxresdefault.jpg"
     },
     {
-        "titulo": "N-able Rushes Out N-central Fixes After 33 Zero-Days Go Public",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Alessandro Mascellino",
-        "data": "2026-11-11",
-        "url": "https://www.infosecurity-magazine.com/news/n-able-n-central-able2shell-0day/",
-        "resumo": "N-able fixes seven N-central CVEs after 33 alleged zero-days are published",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/35a6b142-1c75-495b-afc6-d1b39fca7069.jpg"
+        "titulo": "New N-able &quot;4EverAble2Shell&quot; zero-day exploited hours after PoC released",
+        "fonte": "BleepingComputer",
+        "autor": "Lawrence Abrams",
+        "data": "2026-11-12",
+        "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+        "resumo": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed &quot;4EverAble2Shell&quot; to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the compan…",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2025/08/18/N-able.jpg"
     },
     {
-        "titulo": "Multiple remote code execution vulnerabilities in danfoss sm-800A",
-        "fonte": "Midnightblue.nl",
-        "autor": "rros",
-        "data": "2026-11-11",
-        "url": "https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a",
-        "resumo": "Following up on the waves of cyber attacks against internet-exposed fridge controllers, this blogpost argues to not waste time patching vulnerabilities on these devices by showing how we found several pre-authentication remote code execution 0-day vulnerabili…",
-        "imagem": "https://cdn.prod.website-files.com/64a2900ed5e9bb672af9b2ed/6af2dbc514f7d4ff50318021_Blue-Steel%20Broken%20Sea%20Ice%20Mosaic.png"
+        "titulo": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+        "fonte": "BleepingComputer",
+        "autor": "Bill Toulas",
+        "data": "2026-11-12",
+        "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+        "resumo": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/11/12/Apache.jpg"
     },
     {
-        "titulo": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-11-11",
-        "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
-        "resumo": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments. &quot;In severa…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi08pEbJ7-HNwC0kJf517wnB6y8HwgKhMU-vxbhnCEh9KpWk1kmIjp_bb71k7GYfiTZNep3bcejvN7RmriF9_0RJnGGe9T5WB_nihCgxiDYOMl8mgDmI0Pm6ZFmPzf8HulQUxHjX3TncwmvqJIDPLyZBoHZpOahcMl7fehtwvT-oCxLzPec-KRtiScHT7wk/s1700-nu-rw-lo-l85-e365/aws-secrets.jpg"
+        "titulo": "Never be afraid to ask questions",
+        "fonte": "Talosintelligence.com",
+        "autor": "Amy Ciminnisi",
+        "data": "2026-11-12",
+        "url": "https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/",
+        "resumo": "Amy reflects on a formative college anthropology course that taught her the power of asking questions to bridge cultural gaps.",
+        "imagem": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/11/threat_source-1.jpg"
     },
     {
-        "titulo": "From Supermarket Freezers to Satellites: Europe’s Cyberattacks, Vulnerability Exposed",
-        "fonte": "Globalresearch.ca",
-        "autor": "Uriel Araujo",
-        "data": "2026-11-11",
-        "url": "https://www.globalresearch.ca/supermarket-freezers-satellites-europe-cyber-vulnerability/5945625",
-        "resumo": "Europe’s widening cyber crisis reveals alarming weaknesses in essential infrastructure. The attacks thus raise geopolitical questions about digital sovereignty and technological dependence on the US. *** Europe is currently facing an unprecedented wave of cyb…",
-        "imagem": "https://www.globalresearch.ca/wp-content/uploads/2026/11/europe-cyber-attack-supermarkets.jpg"
+        "titulo": "What CEOs Need to Know About Deepfakes, Disinformation and the New Rules of Brand Defense",
+        "fonte": "Entrepreneur",
+        "autor": "Mac Cummings",
+        "data": "2026-11-12",
+        "url": "https://www.entrepreneur.com/building-a-business/what-ceos-need-to-know-about-deepfakes-disinformation-and-the-new-rules-of-brand-defense",
+        "resumo": "Learn why CEOs must prioritize brand resilience and build proactive reputation infrastructure before a crisis strikes.",
+        "imagem": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/ceos-and-cybersecurity-1126_g2283472856.jpg"
+    },
+    {
+        "titulo": "OpenAI’s GPT-6 Astra becomes its first model rated Critical for cybersecurity",
+        "fonte": "Crypto Briefing",
+        "autor": "Diego Almada Lopez",
+        "data": "2026-11-12",
+        "url": "https://cryptobriefing.com/openai-gpt-6-astra-critical-cybersecurity/",
+        "resumo": "GPT-6 Astra&#x27;s critical cybersecurity rating highlights AI&#x27;s dual potential to enhance defense and pose significant security risks. The post OpenAI’s GPT-6 Astra becomes its first model rated Critical for cybersecurity appeared first on Crypto Briefing.",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/12134816/library-openai-s-gpt-6-astra-becomes-its-first-model-rated-criti-800x450.png"
+    },
+    {
+        "titulo": "Outlook &#x27;is down&#x27;: Thousands of users report website, login and app issues",
+        "fonte": "Dailymail.com",
+        "autor": "Lettice Bromovsky",
+        "data": "2026-11-12",
+        "url": "https://www.dailymail.com/sciencetech/article-16288273/Microsoft-Outlook-report-website-login-app-issues.html",
+        "resumo": "Outlook &#x27;is down&#x27; according to thousands of users who have reported website, login and app issues.",
+        "imagem": "https://i.dailymail.com/1s/2026/11/12/18/112473669-0-image-m-16_1794507117319.jpg"
     }
 ]
