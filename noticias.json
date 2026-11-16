@@ -1,5 +1,59 @@
 [
     {
+        "titulo": "Security Affairs newsletter Round 604 by Pierluigi Paganini – INTERNATIONAL EDITION",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-11-15",
+        "url": "https://securityaffairs.com/203140/breaking-news/security-affairs-newsletter-round-604-by-pierluigi-paganini-international-edition.html",
+        "resumo": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including international press. Extortion Gr…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/09/securityaffairs-newsletter.jpg"
+    },
+    {
+        "titulo": "Sunday Morning Talk Show Thread 15 November 2026",
+        "fonte": "Freerepublic.com",
+        "autor": "Various driveby media television networks",
+        "data": "2026-11-15",
+        "url": "https://freerepublic.com/focus/f-news/4403105/posts",
+        "resumo": "The Talk Shows Nov 15th, 2026 Guests to be interviewed today on major television talk shows:FACE THE NATION (CBS): Margaret Brennan anchors: Secretary of Transportation Sean Duffy; Sen. Bill Cassidy (RINO-Loser); Rep. Jim Himes (D-Conn.); Rep. John Moolenaar …",
+        "imagem": ""
+    },
+    {
+        "titulo": "Bodyguards aren’t enough: After Jensen Huang’s exit, CEOs need counterintelligence training",
+        "fonte": "Fortune",
+        "autor": "Sasha Tuddenham",
+        "data": "2026-11-15",
+        "url": "https://fortune.com/2026/11/15/ceo-espionage-counterintelligence-training-jensen-huang-nvidia/",
+        "resumo": "Jensen Huang&#x27;s resignation and a bugged OpenAI conference room show espionage has reached the C-suite.",
+        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2279874560.jpg?resize=1200,600"
+    },
+    {
+        "titulo": "SEBI assures continuous evolving mechanism to thwart possible cyberattacks",
+        "fonte": "BusinessLine",
+        "autor": "Shishir Sinha",
+        "data": "2026-11-15",
+        "url": "https://www.thehindubusinessline.com/markets/sebi-assures-continuous-evolving-mechanism-to-thwart-possible-cyberattack/article71704722.ece",
+        "resumo": "SEBI vows ongoing cyber resilience, AI/ML guardrails, and startup-friendly reforms amid rising cyber threats and evolving financial market safeguards.",
+        "imagem": "https://bl-i.thgim.com/public/incoming/vdibvx/article71704762.ece/alternates/LANDSCAPE_1200/11908_27_2_2026_16_51_11_1_DSC_1936.JPG"
+    },
+    {
+        "titulo": "Bomb threats pose a major question of Europe. But what’s the answer? | CNN",
+        "fonte": "CNN",
+        "autor": "Sophie Tanno",
+        "data": "2026-11-15",
+        "url": "https://www.cnn.com/2026/11/15/europe/europe-bomb-threats-response-intl",
+        "resumo": "An unprecedented wave of bomb threats across Europe has left the bloc struggling to respond, as it remains unclear who is behind the incidents.",
+        "imagem": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2304126932.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+        "titulo": "Week in review: Secret stealer hits GitHub repos, Claude Code turned into remote-controlled implant",
+        "fonte": "Help Net Security",
+        "autor": "Help Net Security",
+        "data": "2026-11-15",
+        "url": "https://www.helpnetsecurity.com/2026/11/15/week-in-review-secret-stealer-hits-github-repos-claude-code-turned-into-remote-controlled-implant/",
+        "resumo": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: What a security leader should tell the CEO about leaked credentials In this Help Net Security interview, Eric Fourrier, CEO of GitGuardian, talks about leaked cr…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124834/cybersecurity-week-review-3-1500.webp"
+    },
+    {
         "titulo": "This Week’s Awesome Tech Stories From Around the Web (Through November 14)",
         "fonte": "Singularity Hub",
         "autor": "SingularityHub Staff",
@@ -124,50 +178,5 @@
         "url": "https://www.infosecurity-magazine.com/news/hackers-ai-weaker-cyber-attacks/",
         "resumo": "Proofpoint’s Selena Larson notes that threat actors’ reliance on AI has led to lots of mistakes being made, with little evidence of increased sophistication",
         "imagem": "https://assets.infosecurity-magazine.com/webpage/og/08f06098-7e8e-48cc-9b8f-c05f8426a154.jpg"
-    },
-    {
-        "titulo": "European firms are ditching US cybersecurity firms as report claims &#x27;digital sovereignty is becoming a buying decision&#x27;",
-        "fonte": "TechRadar",
-        "autor": "Craig Hale",
-        "data": "2026-11-13",
-        "url": "https://www.techradar.com/pro/security/european-firms-are-ditching-us-cybersecurity-firms-as-report-claims-digital-sovereignty-is-becoming-a-buying-decision",
-        "resumo": "European firms are investing more in local cybersecurity vendors, while US vendor growth falls lower than the overall average.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/UjSNcAZ5SebctebKAMQNVF-2560-80.jpg"
-    },
-    {
-        "titulo": "Check Point warns of zero-day flaw exploited for root access",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-11-13",
-        "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
-        "resumo": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/09/18/Check-Point-headpic.jpg"
-    },
-    {
-        "titulo": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
-        "fonte": "Securityweek.com",
-        "autor": "Eduard Kovacs",
-        "data": "2026-11-13",
-        "url": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
-        "resumo": "Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches. The post OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2025/11/OpenAI.jpeg"
-    },
-    {
-        "titulo": "New SignDrop Exploit Can Abuse Windows Defender to Bypass Security Protections",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-11-13",
-        "url": "https://securityaffairs.com/202968/hacking/new-signdrop-exploit-can-abuse-windows-defender-to-bypass-security-protections.html",
-        "resumo": "SignDrop is a Windows zero-day that abuses CLFS security protections to let local attackers gain SYSTEM privileges and bypass defenses. The researcher Chaotic Eclipse, also known as INFINITE NIGHTMARE, MSNightmare, Nightmare-Eclipse, and MSNightmare, publishe…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/11/image-26.png"
-    },
-    {
-        "titulo": "Ransomware at the hypervisor layer: how attackers use ESXi and vCenter features for malicious purposes",
-        "fonte": "Securelist.com",
-        "autor": "Elsayed Elrefaei, Mohamed Ghobashy",
-        "data": "2026-11-13",
-        "url": "https://securelist.com/esxi-ransomware/121959/",
-        "resumo": "Kaspersky experts analyze a recent ransomware incident and discuss why the hypervisor layer remains difficult to monitor, what common access paths adversaries use to reach it, and how to protect your ESXi systems.",
-        "imagem": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/11/12200032/esxi-3_securelist-featured_1200x600_x2.jpg"
     }
 ]
