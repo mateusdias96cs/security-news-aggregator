@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "FBI Warns AI Hackers Need Three Hours. Can Companies Stop Them?",
+        "titulo": "These Engineers Are Cleaning Up Connected Cars’ Security Flaws",
+        "fonte": "Ieee.org",
+        "autor": "Eva Dou",
+        "data": "2026-11-17",
+        "url": "https://spectrum.ieee.org/connected-cars-security",
+        "resumo": "Today’s connected vehicles collect and transmit far more personal data from drivers and passengers than their predecessors, with costly consequences. The Center for Automotive Management in Germany estimates that cyberattacks have caused more than $20 billion…",
+        "imagem": "https://spectrum.ieee.org/media-library/a-tesla-sedan-parked-inside-a-testing-tent-made-of-high-metal-content-fabric.jpg?id=68696237&width=1200&height=600&coordinates=0%2C739%2C0%2C512"
+    },
+    {
+        "titulo": "Malware Targets Crypto and iPhone Users on 178 Popular Sites",
         "fonte": "pymnts.com",
         "autor": "PYMNTS",
-        "data": "2026-11-16",
-        "url": "https://www.pymnts.com/cybersecurity/2026/fbi-warns-ai-hackers-need-three-hours-can-companies-stop-them/",
-        "resumo": "A cyber attacker can now gain privileged access to a corporate network in less time than it takes some companies to approve an emergency technology shutdown. That is the business implication of a new FBI warning about ARTEX, an artificial intelligence (AI)-po…",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/11/FBI.jpeg"
+        "data": "2026-11-17",
+        "url": "https://www.pymnts.com/cybersecurity/2026/malware-targets-crypto-and-iphone-users-on-178-popular-sites/",
+        "resumo": "Some of the world’s most popular websites were reportedly affected by a Monday (Nov. 16) malware attack. The sites involved included Zoom, HSBC, Equifax, Salesforce, IKEA and CNN, security researcher Scott Helm told Reuters Tuesday (Nov. 17). The breach was a…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/11/malware-attack.jpeg"
     },
     {
-        "titulo": "PHP2Shell: Using AWS Transform to move legacy PHP onto a patched runtime",
-        "fonte": "Amazon.com",
-        "autor": "Armando Barrales",
-        "data": "2026-11-16",
-        "url": "https://aws.amazon.com/blogs/devops/php2shell-using-aws-transform-to-move-legacy-php-onto-a-patched-runtime/",
-        "resumo": "Teams on PHP 8.1 or older can&#x27;t patch the PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619) in place. Learn how to use AWS Transform continuous modernization to find legacy PHP, upgrade it to PHP 8.4 or 8.5, validate it on a patched runtime, and…",
-        "imagem": "https://d2908q01vomqb2.cloudfront.net/7719a1c782a1ba91c031a682a0a2f8658209adbf/2026/11/10/DEVOPS-25603-featured-image.png"
+        "titulo": "Hacker Tampers With 178 Websites to Steal Crypto, Credit Card Info",
+        "fonte": "PCMag.com",
+        "autor": "Michael Kan",
+        "data": "2026-11-17",
+        "url": "https://uk.pcmag.com/security/168426/hacker-tampers-with-178-websites-to-steal-crypto-credit-card-info",
+        "resumo": "The hacker used third-party AI platform Optimizely to spread malicious JavaScript across sites of major brands, including CNN, the BBC, Peacock, Ikea, and Salesforce. Web users who visited sites from CNN, the BBC, and over 170 brands yesterday may have come u…",
+        "imagem": "https://sm.pcmag.com/pcmag_uk/news/h/hacker-tam/hacker-tampers-with-178-websites-to-steal-crypto-credit-card_wgt8.jpg"
     },
     {
-        "titulo": "Nvidia Scandal Raises New Concerns About Scale of Chinese Spying",
-        "fonte": "Insurance Journal",
-        "autor": "Admin",
-        "data": "2026-11-16",
-        "url": "https://www.insurancejournal.com/news/international/2026/11/16/892698.htm",
-        "resumo": "The Jensen Huang saga is the latest example of what governments around the world say is a broad push by China to steal commercial and technological secrets and gather intelligence on foreign leaders and military plans. The revelation that Nvidia …",
-        "imagem": "https://www.insurancejournal.com/app/uploads/2026/11/chinese-leadership-compound-of-zhongnanhai-in-beijing-getty-scaled.jpg"
-    },
-    {
-        "titulo": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-11-16",
-        "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
-        "resumo": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren&#x27;t always doing their job. Meanwhile, AI is making…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMhM3PBYlJasSU7OztYuQsJDnDRFYwqV1-X9Nt1mTlAhFe0YQXSr0XrdCfo47u2DGAE8qSNw32LuPlMxoeTOBjakeXiHpHjFSXw7rsy8FdCldY2E6MuX9uKGM2McoGsaXUGDY2MYBsRAGXUDMGqzkT4wWlEezGDQho_f7d6MYNG2HAeW9FKeldRJrh0kj3/s1700-nu-rw-lo-l85-e365/recaps.jpg"
-    },
-    {
-        "titulo": "AI finds zero-day flaws for just $4 now – even mediocre hackers can cash in",
-        "fonte": "ZDNet",
-        "autor": "Charlie Osborne",
-        "data": "2026-11-16",
-        "url": "https://www.zdnet.com/innovation/ai-finds-zero-day-security-flaws-for-cheap-hackers/",
-        "resumo": "Rapidly advancing AI models are making it cheaper and easier to uncover critical vulnerabilities, but it’s a double-edged sword – and a gift to hackers.",
-        "imagem": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1346600545.jpg"
-    },
-    {
-        "titulo": "Palo Alto Networks report finds organizations struggle to track and secure AI agents in the cloud",
+        "titulo": "Exclusive: Cogent Security’s DefenseOS adds policies and automations for AI agents",
         "fonte": "SiliconANGLE News",
         "autor": "Duncan Riley",
-        "data": "2026-11-16",
-        "url": "https://siliconangle.com/2026/11/16/palo-alto-networks-report-finds-organizations-struggle-to-track-and-secure-ai-agents-in-the-cloud/",
-        "resumo": "A new report out today from cybersecurity company Palo Alto Networks Inc. finds that artificial intelligence agents have quickly become a fixture in software development, but many organizations can’t properly track or secure what those agents are doing in the…",
-        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2024/05/paloaltonetworksboothlogo1.jpg"
+        "data": "2026-11-17",
+        "url": "https://siliconangle.com/2026/11/17/exclusive-cogent-securitys-defenseos-adds-agent-policies-and-agent-automations-for-ai-agents/",
+        "resumo": "Vulnerability management startup Cogent Security Inc. today launched DefenseOS, an operating system designed for artificial intelligence agents that carry out defensive cybersecurity work inside the enterprise. Arriving with DefenseOS are two new capabilities…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/07/cogentvr1.png"
     },
     {
-        "titulo": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-11-16",
-        "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
-        "resumo": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, and the researchers say the newest firmwar…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_1GngZ38pRRizZTrhUgdWx49U1Dk8N_Y1Wkfll2kXIjAeYMmX2R69d6OBvA9k-zb6rnYbNOZyouN9yj59QIlT8XxiTzmmhLTmwmEdU2bqiGc_XoSMlvKKN1qZtH3o73YN1miGEhR4vkDniji2WkWOHjSPPIn69ysWKPkFzr504FsViG2NQYxPDkD7sgw/s1700-nu-rw-lo-l85-e365/flaws.jpg"
+        "titulo": "Hackers Strike 178 Major Websites...",
+        "fonte": "Newsweek",
+        "autor": "Chris Matthews",
+        "data": "2026-11-17",
+        "url": "https://www.newsweek.com/cyber-attack-websites-affected-12725863",
+        "resumo": "The attack affected websites belonging to 178 organizations, including Zoom, the BBC, CNN, HSBC and IKEA.",
+        "imagem": "https://assets.newsweek.com/wp-content/uploads/2025/08/2157374-cyber-security.jpg?w=1600&h=900&q=88"
     },
     {
-        "titulo": "flutter-security-analyzer added to PyPI",
-        "fonte": "Pypi.org",
-        "autor": "elebhosec@gmail.com",
-        "data": "2026-11-16",
-        "url": "https://pypi.org/project/flutter-security-analyzer/",
-        "resumo": "Static security analysis tool for Flutter/Dart applications with MASVS compliance mapping",
+        "titulo": "Siemens SIMATIC",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-11-17",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08",
+        "resumo": "View CSAF Summary The products listed below contain an authentication bypass vulnerability that could allow an on-path attacker to take over the session of a legitimate user and execute arbitrary code with the privileges of the victim user. Siemens is prepari…",
         "imagem": ""
     },
     {
-        "titulo": "Cyber Leaders Say Vendor Contracts Need Direct Incident Escalation Paths",
-        "fonte": "Healthsystemcio.com",
-        "autor": "Anthony Guerra",
-        "data": "2026-11-16",
-        "url": "https://healthsystemcio.com/2026/11/16/vendor-contracts-incident-escalation/",
-        "resumo": "A 24-hour notification clause did not get one large health system timely word of a vendor&#x27;s incident. Cyber leaders at CHIME26 explained what contracts need to name before the next one. Source: Cyber Leaders Say Vendor Contracts Need Direct Incident Escalatio…",
-        "imagem": "https://healthsystemcio.com/wp-content/uploads/2026/11/arnone_chelsea.jpg"
+        "titulo": "Siemens RUGGEDCOM APE1808",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-11-17",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
+        "resumo": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendat…",
+        "imagem": ""
     },
     {
-        "titulo": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
-        "fonte": "BleepingComputer",
-        "autor": "Mayank Parmar",
-        "data": "2026-11-16",
-        "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
-        "resumo": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Claude_chats.jpg"
+        "titulo": "Siemens ROS#",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-11-17",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+        "resumo": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new…",
+        "imagem": ""
     },
     {
-        "titulo": "Podcast: Getting CRA Compliant Hardens the Code and Gets Your Company Closer to Digital Sovereignty",
-        "fonte": "InfoQ.com",
-        "autor": "Christopher Robinson",
-        "data": "2026-11-16",
-        "url": "https://www.infoq.com/podcasts/company-closer-digital-sovereignty/",
-        "resumo": "In this episode, Christopher &quot;CRob&quot; Robinson, CTO of OpenSSF, Akrites and Chief Security Architect of the Linux Foundation, explores the state of software supply chain security amid multiple security incidents and explains how tools like Scorecard, the Securi…",
-        "imagem": "https://res.infoq.com/podcasts/company-closer-digital-sovereignty/en/card_header_image/twitter-card-1794318137932.jpg"
+        "titulo": "Dorsett Controls InfoScan",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-11-17",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
+        "resumo": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate network communications.…",
+        "imagem": ""
     },
     {
-        "titulo": "Japan Stocks Plunge 1,480 Points as AI Selloff Deepens",
-        "fonte": "Newsonjapan.com",
-        "autor": "News On Japan",
-        "data": "2026-11-16",
-        "url": "https://newsonjapan.com/article/151397.php",
-        "resumo": "Japan&#x27;s benchmark Nikkei 225 Stock Average plunged 1,480.33 points, or 2.42%, to close at 59,662.02 on Monday, November 16, 2026, at 3:30 p.m. Tokyo time, falling back below the psychologically important 60,000 level as renewed selling in artificial intellige…",
-        "imagem": "https://i2.ytimg.com/vi/5_E8MHGLZW4/maxresdefault.jpg"
+        "titulo": "Siemens Simcenter Femap",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-11-17",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
+        "resumo": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released …",
+        "imagem": ""
     },
     {
-        "titulo": "AI Cuts Vulnerability Discovery from Nine Months to 90 Hours",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Phil Muncaster",
-        "data": "2026-11-16",
-        "url": "https://www.infosecurity-magazine.com/news/ai-cut-vulnerability-discover-nine/",
-        "resumo": "Forescout report claims to have found 66 new flaws in just 90 hours using AI",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/6cdba0c1-11ab-4c7a-8882-0b0c288365e9.jpg"
+        "titulo": "Siemens Industrial Automation Software Products",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-11-17",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03",
+        "resumo": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as &quot;Node2Shell&quot; (tracked as CVE-2026-111497). The vulnerability is an out…",
+        "imagem": ""
     },
     {
-        "titulo": "Alpine Linux Users Urged to Patch OpenSSH Authentication Flaw",
-        "fonte": "InfoQ.com",
-        "autor": "Matt Saunders",
-        "data": "2026-11-16",
-        "url": "https://www.infoq.com/news/2026/11/alpine-linux-openssh-sshhole/",
-        "resumo": "A recently disclosed vulnerability in OpenSSH lets an unauthenticated attacker log into accounts that should have no usable password. The issue, named *sshole and tracked as CVE-2026-123158, affects Linux systems running OpenSSH with the musl C library and wh…",
-        "imagem": "https://res.infoq.com/news/2026/11/alpine-linux-openssh-sshhole/en/headerimage/generatedHeaderImage-1794610199233.jpg"
+        "titulo": "Siemens SIMATIC WinCC",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-11-17",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
+        "resumo": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and reco…",
+        "imagem": ""
     },
     {
-        "titulo": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm&#x27;s Code-Signing Server",
-        "fonte": "Internet",
-        "autor": "info@thehackernews.com (The Hacker News)",
-        "data": "2026-11-16",
-        "url": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
-        "resumo": "An investigation into suspicious activity within a Russian software developer&#x27;s network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documented by Kaspersky&#x27;s ICS CERT team after i…",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAvzoKykaMIpa6xx92YudipfUoEQnSkrE6p2CiWEVra5izr5GfuNQGOnfRuF0XV99v1IPRFe2Q6BF27UEq3BnWFS5onw97dt3hvszilQDANdtRdYi0_hTDOrKQvuwGn1mY_m-QTabV3jwWCNwXs_OizK2GLF3Eks5HJj5I7kbmA2IztruSBVjq5WOcxEM-/s1700-nu-rw-lo-l85-e365/log4shell.jpg"
+        "titulo": "Siemens Industrial Software Products",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-11-17",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
+        "resumo": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as &quot;Node2Shell&quot; (tracked as CVE-2026-111497). The vulnerability is an out…",
+        "imagem": ""
     },
     {
-        "titulo": "OpenAI Leaders Discussed Military AI With Pranksters Posing as Ukrainian Officials, Report Says",
-        "fonte": "Naturalnews.com",
-        "autor": "Chase Codewell",
-        "data": "2026-11-16",
-        "url": "https://www.naturalnews.com/2026-11-16-openai-leaders-discussed-military-ai-with-pranksters.html",
-        "resumo": "Three senior OpenAI officials involved in national security and strategic initiatives took part in a video call with people they believed were senior Ukrainian government officials, according to a report by The Intercept. During the roughly 17-minute conversa…",
-        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/openai-military-ai-russian-pranksters-6748-0ebe6325-original.jpg"
+        "titulo": "Siemens meta-iot2050",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-11-17",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
+        "resumo": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary comm…",
+        "imagem": ""
     },
     {
-        "titulo": "Luxor CEO warns of AI ‘dark forest’ after Bitcoin miner hijack",
+        "titulo": "Mouser and Microchip: an e-book on the Cyber Resilience Act",
+        "fonte": "Open-electronics.org",
+        "autor": "oeadmin",
+        "data": "2026-11-17",
+        "url": "https://www.open-electronics.org/mouser-and-microchip-an-e-book-on-the-cyber-resilience-act/",
+        "resumo": "Mouser Electronics and Microchip Technology have released a new e-book on designing connected devices to meet the EU Cyber Resilience Act, from the first schematic to secure decommissioning. The post Mouser and Microchip: an e-book on the Cyber Resilience Act…",
+        "imagem": "https://www.open-electronics.org/wp-content/uploads/2026/10/ei-eipro-102492.webp"
+    },
+    {
+        "titulo": "Hackers found a way to steal crypto without hacking wallets, and Ledger was caught in the attack",
+        "fonte": "CryptoSlate",
+        "autor": "Oluwapelumi Adejumo",
+        "data": "2026-11-17",
+        "url": "https://cryptoslate.com/hackers-found-a-way-to-steal-crypto-without-hacking-wallets-and-ledger-was-caught-in-the-attack/",
+        "resumo": "Report URI listed Ledger&#x27;s website in its affected sample, while Hudson Rock described code that could change a payment destination before signing. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Cat…",
+        "imagem": "https://cryptoslate.com/wp-content/uploads/2026/11/optimizely-hidden-script-overprint-960x720.webp"
+    },
+    {
+        "titulo": "Google flags first autonomous AI cyberattack, warns of growing threats",
+        "fonte": "Business Standard",
+        "autor": "Sweta Kumari",
+        "data": "2026-11-17",
+        "url": "https://www.business-standard.com/technology/artificial-intelligence/google-flags-first-autonomous-ai-cyberattack-warns-of-growing-threats-126111700791_1.html",
+        "resumo": "Google says attackers are using AI agents to identify vulnerabilities, develop exploits and automate cyber intrusions, raising concerns over faster attacks and growing security risks",
+        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/29/full/1785321270-6556.png"
+    },
+    {
+        "titulo": "Google says hackers use AI agents to find and exploit software flaws",
         "fonte": "Cointelegraph",
-        "autor": "Cointelegraph by Felix Ng",
-        "data": "2026-11-16",
-        "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
-        "resumo": "Luxor’s CEO warned of an AI-powered cybersecurity “dark forest” after attackers hijacked Bitcoin mining operations over the weekend, redirecting computing power to another pool.",
-        "imagem": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1JT29BT8ARQ99J5C2455XSJ/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-1.jpg"
+        "autor": "Cointelegraph by Zoltan Vardai",
+        "data": "2026-11-17",
+        "url": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws",
+        "resumo": "Google says attackers are using AI agents to find and exploit software flaws automatically, reducing the time organizations have to apply patches.",
+        "imagem": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W8CX3ZEBAQRD95ZBDZ13BW/hi-using-ai-in-crypto-do-it-at-your-own-risk2-1280x853.webp"
     },
     {
-        "titulo": "Americans fear the worst after Pentagon doomsday prepping, ‘Black October’ cyberattacks, stock crash, spy scandal, Microsoft outage, and airport chaos",
-        "fonte": "Fortune",
-        "autor": "Jason Ma",
-        "data": "2026-11-15",
-        "url": "https://fortune.com/2026/11/15/pentagon-doomsday-prepping-black-october-cyberattacks-stock-crash-nvidia-china-spy-scandal-microsoft-outage-faa-air-traffic/",
-        "resumo": "The past month has seemed like one battle after another, and it&#x27;s taking a toll on Americans who are starting to feel like everything is breaking at once.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304526823-e1794777930948.jpg?resize=1200,600"
+        "titulo": "Cybersecurity jobs available right now: November 17, 2026",
+        "fonte": "Help Net Security",
+        "autor": "Anamarija Pogorelec",
+        "data": "2026-11-17",
+        "url": "https://www.helpnetsecurity.com/2026/11/17/cybersecurity-jobs-available-right-now-november-17-2026/",
+        "resumo": "Cybersecurity Architect Peraton | USA | On-site – View job details As a Cybersecurity Architect, you will integrate security into DevSecOps, implement and maintain security controls, and manage ATO packages in accordance with DoD, DAF and customer requirement…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/11140407/cybersecurity_jobs-3-1500.webp"
     },
     {
-        "titulo": "Woolworths customers report hundreds of dollars stolen from digital gift cards",
-        "fonte": "ABC News (AU)",
-        "autor": "Audrey Courty",
-        "data": "2026-11-15",
-        "url": "https://www.abc.net.au/news/2026-11-16/woolworths-customers-report-money-stolen-from-digital-gift-cards/107387340",
-        "resumo": "Woolworths has acknowledged an issue affecting a number of customer e-gift cards and is investigating, with replacement cards among the possible next steps for affected customers.",
-        "imagem": "https://live-production.wcms.abc-cdn.net.au/b8fb53a46331319cb39d063ec24702af?impolicy=wcms_watermark_news&cropH=353&cropW=628&xPos=0&yPos=43&width=862&height=485&imformat=generic"
-    },
-    {
-        "titulo": "AI agents are becoming identities in their own right, and security needs to catch up",
-        "fonte": "Digital Journal",
-        "autor": "Dr. Tim Sandle",
-        "data": "2026-11-15",
-        "url": "https://www.digitaljournal.com/article/ai-agents-are-becoming-identities-in-their-own-right-and-security-needs-to-catch-up/",
-        "resumo": "As artificial intelligence moves from answering questions to taking actions, cybersecurity faces a fundamental shift. AI agents need identities, constrained permissions and stronger oversight, while AI itself is starting to expose vulnerabilities that have re…",
-        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2026/04/e2c272bbe87510fd7b3adb56b8df266525976092-1.jpg"
+        "titulo": "How an Italian start-up is using smart tractors to fight landslides",
+        "fonte": "La Repubblica",
+        "autor": "Redazione Repubblica.it",
+        "data": "2026-11-17",
+        "url": "https://www.repubblica.it/en/europe/fashion-design/2026/11/17/news/how_an_italian_start-up_is_using_smart_tractors_to_fight_landslides-425727098/",
+        "resumo": "Abruzzo-based Anostra is bringing robotics to steep terraces beyond the reach of GPS signals, replacing chemical weedkillers with precision machinery and helping maintain soil stability",
+        "imagem": "https://www.repstatic.it/content/nazionale/img/2026/11/16/133130195-09781386-c417-45d8-872c-1938869e8136.jpg"
     }
 ]
