@@ -1,182 +1,182 @@
 [
     {
-        "titulo": "How we can prepare for future cyberattacks on critical infrastructure",
-        "fonte": "The Conversation Africa",
-        "autor": "Alvi Jawad",
-        "data": "2026-11-18",
-        "url": "https://theconversation.com/how-we-can-prepare-for-future-cyberattacks-on-critical-infrastructure-296214",
-        "resumo": "We don’t know how or when the next cyberattacks will occur. But we can prepare for unsafe water, damaged equipment, environmental harm and diminished public trust.",
-        "imagem": "https://images.theconversation.com/files/772342/original/file-20261117-78-2ee96z.jpg?ixlib=rb-4.1.1&rect=0%2C354%2C6000%2C3000&q=45&auto=format&w=1356&h=668&fit=crop"
+        "titulo": "Hospitals Rush to Patch AI-Found Java4Shell Flaw After CISA Alert, With No Disruptions Reported So Far",
+        "fonte": "Medical Daily",
+        "autor": "Cole Mercer",
+        "data": "2026-11-19",
+        "url": "https://www.medicaldaily.com/hospitals-patch-ai-discovered-java4shell-cisa-alert-481445",
+        "resumo": "Hospitals across the United States are scanning systems and applying Oracle&#x27;s patch for Java4Shell after a CISA warning, with no reported hospital disruptions or breaches linked to the flaw.",
+        "imagem": "https://d.medicaldaily.com/en/full/488831/cybersecurity-monitoring.jpg?w=1600&h=900&q=88&f=dd82663053d28ac86191a10b70226c05"
     },
     {
-        "titulo": "MF industry aims to raise AUM-to-GDP ratio to 65%",
-        "fonte": "BusinessLine",
-        "autor": "Suresh P Iyengar",
-        "data": "2026-11-18",
-        "url": "https://www.thehindubusinessline.com/markets/mf-industry-aims-to-raise-aum-to-gdp-ratio-to-65/article71715188.ece",
-        "resumo": "AMFI aims to raise India&#x27;s mutual funds AUM-to-GDP ratio to 65% by expanding investor base, distribution networks, and technological rollout.",
-        "imagem": "https://bl-i.thgim.com/public/news/x8uu1v/article71715201.ece/alternates/LANDSCAPE_1200/VN%20Chalasani%20Chief%20Executive%20AMFI.png"
+        "titulo": "&#x27;Patchpocalypse&#x27;: Record Software Flaws Found by AI Send CrowdStrike, Palo Alto Stocks Soaring Since April",
+        "fonte": "Ibtimes.com.au",
+        "autor": "George Anton",
+        "data": "2026-11-19",
+        "url": "https://www.ibtimes.com.au/ai-software-bugs-cybersecurity-spending-stock-gains-1878958",
+        "resumo": "AI models are uncovering software vulnerabilities at unprecedented speed, driving a surge in cybersecurity spending and lifting shares of companies that detect and patch security flaws.",
+        "imagem": "https://d.ibtimes.com.au/en/full/1891653/artificial-intelligence-ai.jpg?w=1600&h=900&q=88&f=acc3b31ad4db8892d27960df71df2e99"
     },
     {
-        "titulo": "‘This, I’m sorry to say, is just the opening chapter’: Top cyber expert warns of a ‘vulnpocalypse’ after 4 major U.S. systems broke in 6 days",
-        "fonte": "Fortune",
-        "autor": "Nick Lichtenberg",
-        "data": "2026-11-18",
-        "url": "https://fortune.com/2026/11/18/nicole-perlroth-vulnpocalypse-outages-rubio-microsoft-faa-nsa/",
-        "resumo": "Secretary of State Marco Rubio says the U.S. is “not under systemic attack.” The data on bugs and patches suggests that’s not much comfort for companies.",
-        "imagem": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2305122324-e1795014801584.jpg"
-    },
-    {
-        "titulo": "The quantum computing race is becoming a deployment race",
+        "titulo": "AI finds &#x27;internet breaker&#x27; security flaws in NGINX — open source technology responsible for running hundreds of millions of websites has decades-old issues which can be hijacked to steal da",
         "fonte": "TechRadar",
-        "autor": "Dr Megan Anderson",
-        "data": "2026-11-18",
-        "url": "https://www.techradar.com/pro/the-quantum-computing-race-is-becoming-a-deployment-race",
-        "resumo": "Organizations are now focusing on viable quantum solutions, shifting the conversation from theoretical potential towards practical application.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/d4oN2QTeNf8QYJDmjZnAKE-1920-80.jpg"
+        "autor": "Sead Fadilpašić",
+        "data": "2026-11-19",
+        "url": "https://www.techradar.com/pro/security/ai-finds-internet-breaker-security-flaws-in-nginx-open-source-technology-responsible-for-running-hundreds-of-millions-of-websites-has-decades-old-issues-which-can-be-hijacked-to-steal-data",
+        "resumo": "PHP, Java and Apache are now joined by NGINX.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/kCbP2VkzMgQpYqJDgMQ8UZ-2560-80.jpg"
     },
     {
-        "titulo": "Issues Shaping Cybersecurity in 2027: Predictions from FortiGuard Labs",
-        "fonte": "Fortinet.com",
-        "autor": "Derek Manky",
-        "data": "2026-11-18",
-        "url": "https://www.fortinet.com/blog/industry-trends/issues-shaping-cybersecurity-in-2027-predictions-from-fortiguard-labs",
-        "resumo": "Explore FortiGuard Labs 2027 cybersecurity predictions and how AI, trusted access, and criminal services could reshape threats and defensive priorities.…",
-        "imagem": ""
+        "titulo": "Cyberattack responders are booked up as agentic AI attacks surge",
+        "fonte": "Digital Journal",
+        "autor": "Chris Hogg",
+        "data": "2026-11-19",
+        "url": "https://www.digitaljournal.com/article/cyberattack-responders-are-booked-up-as-agentic-ai-attacks-surge/",
+        "resumo": "Greg Davison spent this past weekend taking calls from companies around the world that had been hit by AI-enabled attacks, and when he reached out to incident response firms to help them, he found those firms were turning new clients away. Incident response f…",
+        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2026/11/Photo-by-Jennifer-Friesen-Digital-Journal.jpg"
     },
     {
-        "titulo": "OX Security Launches OX Radar and Response Center to Show Companies Which Cyber Threats Actually Affect Them",
-        "fonte": "HackRead",
-        "autor": "technologywire",
-        "data": "2026-11-18",
-        "url": "https://hackread.com/ox-security-launches-ox-radar-and-response-center-to-show-companies-which-cyber-threats-actually-affect-them/",
-        "resumo": "New York, United States, 18th November 2026, TechnologyWire",
-        "imagem": "https://hackread.com/wp-content/uploads/2026/11/OX_Radar_and_Response_Center_17945974179WTwcGhmix.jpg"
+        "titulo": "US government says it could convince ChatGPT, Claude, Gemini and Grok to make bombing plan to attack a power grid in less than 12 hours, sends &#x27;message&#x27; to companies",
+        "fonte": "The Times of India",
+        "autor": "TOI Tech Desk",
+        "data": "2026-11-19",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-says-it-could-convince-chatgpt-claude-gemini-and-grok-to-make-bombing-plan-to-attack-a-power-grid-in-less-than-12-hours-sends-message-to-companies/articleshow/135996264.cms",
+        "resumo": "Federal officials have reportedly managed to circumvent the safety measures of leading AI chatbots to uncover risky attack strategies. Tests conducted highlighted weaknesses in systems such as ChatGPT, Claude, Gemini, and Grok. The Government Accountability O…",
+        "imagem": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135996586/135996586.jpg"
     },
     {
-        "titulo": "OX Security Launches OX Radar and Response Center to Show Companies Which Cyber Threats Actually Affect Them",
-        "fonte": "Next Big Future",
-        "autor": "TechnologyWire",
-        "data": "2026-11-18",
-        "url": "https://www.nextbigfuture.com/2026/11/ox-security-launches-ox-radar-and-response-center-to-show-companies-which-cyber-threats-actually-affect-them.html",
-        "resumo": "New York, United States, 18th November 2026, TechnologyWire",
-        "imagem": ""
-    },
-    {
-        "titulo": "Who protects the antivirus? How we secure Malwarebytes itself",
-        "fonte": "Malwarebytes.com",
-        "autor": "Anna Tukhtarova",
-        "data": "2026-11-18",
-        "url": "https://www.malwarebytes.com/blog/inside-malwarebytes/2026/11/who-protects-the-antivirus-how-we-secure-malwarebytes-itself",
-        "resumo": "Imagine a piece of malware that can disable your antivirus and leave you unprotected. That&#x27;s exactly what we as engineers work to prevent.",
-        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2025/10/Inside-Malwarebytes_04.png"
-    },
-    {
-        "titulo": "Nvidia&#x27;s numbers and Anthropic anticipation drive Nasdaq futures up",
-        "fonte": "CNBC",
-        "autor": "Leonie Kidd",
-        "data": "2026-11-18",
-        "url": "https://www.cnbc.com/2026/11/18/nvidias-numbers-and-anthropic-anticipation-drive-nasdaq-futures-up.html",
-        "resumo": "Big market moments for the tech sector bring back the bulls",
-        "imagem": "https://image.cnbcfm.com/api/v1/image/108553745-1794968632358-gettyimages-2305017304-AFP_D7PF3PZ.jpeg?v=1794968648&w=1200&h=675"
-    },
-    {
-        "titulo": "Java Flaw Leaves Systems Open to Hackers, Say US, South Korea, China’s Tencent",
-        "fonte": "Insurance Journal",
-        "autor": "Jack Kim, Eduardo Baptista",
-        "data": "2026-11-18",
-        "url": "https://www.insurancejournal.com/news/international/2026/11/18/892975.htm",
-        "resumo": "US and South Korean authorities and China’s Tencent have urged companies and organizations to patch a critical flaw in the popular programming language Java that could allow hackers to access systems, the latest high-profile cyber incident. US tech firm Calif…",
-        "imagem": "https://www.insurancejournal.com/app/uploads/2026/11/computer-keyboard-with-padlock-cyber-security-723954354-Depositphotos-scaled.jpg"
-    },
-    {
-        "titulo": "Java4Shell Vulnerability Allows Remote Attacks on Major Java Apps",
+        "titulo": "PHP Releases Patches to Fix 18 Vulnerabilities",
         "fonte": "Infosecurity Magazine",
         "autor": "Kevin Poireault",
-        "data": "2026-11-18",
-        "url": "https://www.infosecurity-magazine.com/news/java4shell-vulnerability-remote/",
-        "resumo": "A critical OpenJDK vulnerability could expose major Java applications to remote code execution, prompting CISA to urge organizations implement mitigations",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/f4048db9-d7be-48a4-9cf7-35fb6089ea2d.jpg"
+        "data": "2026-11-19",
+        "url": "https://www.infosecurity-magazine.com/news/php-releases-patches-fix-18/",
+        "resumo": "PHP has released security updates addressing 18 vulnerabilities, including critical remote code execution flaws affecting session handling",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/7046afc7-16fd-4c37-89d5-5e8cce1a9444.jpg"
     },
     {
-        "titulo": "Users of Java programming language urged to fix flaws",
-        "fonte": "RTE",
-        "autor": "RTÉ News",
-        "data": "2026-11-18",
-        "url": "https://www.rte.ie/news/technology/2026/1118/1599680-java-security-flaw/",
-        "resumo": "Java users have been told to urgently install security updates after vulnerabilities were found in the popular programming language that could allow attackers to remotely execute code or crash systems.",
-        "imagem": "https://www.rte.ie/images/00255cbe-1600.jpg"
+        "titulo": "Five warning signs of ransomware breach before encryption or data theft",
+        "fonte": "BleepingComputer",
+        "autor": "Sponsored by Acronis",
+        "data": "2026-11-19",
+        "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+        "resumo": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, an…",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2021/12/02/system-hacked.jpg"
     },
     {
-        "titulo": "Ochsner Health’s Cummings Says Vendors Should Run Mythos-Level Vulnerability Hunts on Their Own Products",
-        "fonte": "Healthsystemcio.com",
-        "autor": "Anthony Guerra",
-        "data": "2026-11-18",
-        "url": "https://healthsystemcio.com/2026/11/18/mythos-vulnerability-hunts-vendors/",
-        "resumo": "Wayman Cummings, vice president and chief security and infrastructure officer at Ochsner Health, explains why software and device makers should run frontier AI tools such as Anthropic&#x27;s Claude Mythos on their own products. He describes how a flaw found in hos…",
-        "imagem": "https://healthsystemcio.com/wp-content/uploads/2026/11/cummings-ochsner-mythos-vulnerability-linkedin-featured.jpg"
+        "titulo": "Internet traffic and attacks during the 2026 U.S. midterm elections",
+        "fonte": "Cloudflare.com",
+        "autor": "Patrick Day, Jocelyn Woolbright, Carlos Azevedo",
+        "data": "2026-11-19",
+        "url": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
+        "resumo": "On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks.",
+        "imagem": "https://blog.cloudflare.com/_emdash/api/media/file/01M7R663HW4DKB22A0N24P208W.01M7R664EVMXCAMRVH7GDK48NP.png"
     },
     {
-        "titulo": "Why is the internet on its knees? As yet another cyberattack leaves major websites scrambling, experts warn the web is more vulnerable than ever",
-        "fonte": "Dailymail.com",
-        "autor": "Wiliam Hunter",
-        "data": "2026-11-18",
-        "url": "https://www.dailymail.com/sciencetech/article-16302021/internet-cyberattack-vulnerable-warning.html",
-        "resumo": "As websites scramble to restore services and patch security flaws, experts have warned that the web is more vulnerable than ever.",
-        "imagem": "https://i.dailymail.com/1s/2026/11/18/11/112580957-0-image-a-8_1795001100826.jpg"
-    },
-    {
-        "titulo": "Java4Shell: A critical flaw with a narrow reach",
-        "fonte": "Malwarebytes.com",
-        "autor": "Pieter Arntz",
-        "data": "2026-11-18",
-        "url": "https://www.malwarebytes.com/blog/bugs/2026/11/java4shell-a-critical-flaw-with-a-narrow-reach",
-        "resumo": "Researchers used AI to find a Java vulnerability and named it Java4Shell. Here’s why organizations need to patch.",
-        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/11/Java4shell.png"
-    },
-    {
-        "titulo": "Microsoft Perception joins AI cybersecurity push by OpenAI, Anthropic, more",
-        "fonte": "Business Standard",
-        "autor": "Sweta Kumari",
-        "data": "2026-11-18",
-        "url": "https://www.business-standard.com/technology/artificial-intelligence/microsoft-perception-joins-ai-cybersecurity-push-by-openai-anthropic-more-126111800847_1.html",
-        "resumo": "Microsoft Perception: Microsoft said Perception uses specialised AI agents to simulate attacks, investigate threats and help fix vulnerabilities, with human oversight and controls over automated security actions",
-        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/18/full/1794999640-4071.jpg"
-    },
-    {
-        "titulo": "ARTEX explained: How AI penetration-testing tool is powering cyberattacks",
-        "fonte": "Business Standard",
-        "autor": "Harsh Shivam",
-        "data": "2026-11-18",
-        "url": "https://www.business-standard.com/technology/tech-news/artex-ai-tool-hackers-cyberattacks-explained-126111800811_1.html",
-        "resumo": "ARTEX explained: The FBI has warned that cybercriminals are using ARTEX, an open-source AI penetration testing framework, to automate attacks, exploit vulnerabilities and steal data from organisations",
-        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/06/full/1783328521-9283.jpg"
-    },
-    {
-        "titulo": "Apache warns of Roller RCE vulnerability exploited in attacks",
+        "titulo": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
         "fonte": "BleepingComputer",
         "autor": "Sergiu Gatlan",
-        "data": "2026-11-18",
-        "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
-        "resumo": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/04/17/Apache.jpg"
+        "data": "2026-11-19",
+        "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+        "resumo": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/11/19/Drupal-headpic-red.jpg"
     },
     {
-        "titulo": "Project Gryffindor: Meta&#x27;s plan to get more school kids using Instagram",
-        "fonte": "NPR",
-        "autor": "Katie McQue",
-        "data": "2026-11-18",
-        "url": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
-        "resumo": "Meta said it launched its &quot;school partnership program&quot; to keep teens safe, but internal documents tell a different story.",
-        "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8064x5622+0+0/resize/8064x5622!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2Fef%2Ff8dbd03c47e4bbe621c1757ede65%2Fgettyimages-2196627077.jpg"
+        "titulo": "Exploited Puppet flaw puts the server that configures your endpoint fleet at risk (CVE-2026-115731)",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-11-19",
+        "url": "https://www.helpnetsecurity.com/2026/11/19/puppet-enterprise-vulnerability-cve-2026-115731-exploited/",
+        "resumo": "Attackers are exploiting CVE-2026-115731, a critical remote code execution vulnerability in Perforce Puppet Enterprise, an enterprise solution used by IT teams to centralize and automatize endpoint management. Details about the in-the-wild attacks have yet to…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/19140240/puppet-1500.webp"
     },
     {
-        "titulo": "U.S. CISA adds Perforce Puppet Enterprise flaw to its Known Exploited Vulnerabilities catalog",
+        "titulo": "From Proximity to Partnership to Prosperity: Revisiting Nepal–India Relations",
+        "fonte": "Khabarhub.com",
+        "autor": "Binoj Basnyat",
+        "data": "2026-11-19",
+        "url": "https://english.khabarhub.com/2026/19/576205/",
+        "resumo": "History tells us where Nepal–India relations came from. Geography tells us why they cannot be separated. Economics tells us why they must cooperate, and strategy tells us why the relationship must continually evolve. But history alone cannot determine the fut…",
+        "imagem": "https://english.khabarhub.com/wp-content/uploads/2026/11/Binoj-Basnyat-2.png"
+    },
+    {
+        "titulo": "libumqtt",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-11-19",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
+        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt …",
+        "imagem": ""
+    },
+    {
+        "titulo": "Autonomy Logic OpenPLC Runtime",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-11-19",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
+        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime …",
+        "imagem": ""
+    },
+    {
+        "titulo": "Cyberattack on service provider exposes payee data at 40 Irish credit unions",
+        "fonte": "Theregister.com",
+        "autor": "Connor Jones",
+        "data": "2026-11-19",
+        "url": "https://www.theregister.com/security/2026/11/19/cyberattack-on-service-provider-exposes-payee-data-at-40-irish-credit-unions/5310979",
+        "resumo": "Minister calls notification delay &#x27;not acceptable&#x27; after October attack on Irish banking player Wellington IT came to light in November",
+        "imagem": "https://image.theregister.com/5298439.webp?width=1200"
+    },
+    {
+        "titulo": "SonicWall urges customers to replace Gen 6 firewalls now",
+        "fonte": "Help Net Security",
+        "autor": "Zeljka Zorz",
+        "data": "2026-11-19",
+        "url": "https://www.helpnetsecurity.com/2026/11/19/sonicwall-gen-6-firewalls-reach-end-of-support/",
+        "resumo": "SonicWall is urging customers still running Gen 6 firewalls to replace them immediately and to stop using them at the internet edge. All Gen 6 and Gen 6.5 appliances running SonicOS 6.x have now reached end of support. That means no more firmware updates or s…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/08/26192636/sonicwall-2.webp"
+    },
+    {
+        "titulo": "Java security flaw explained: Why CISA, CERT-In urge urgent software update",
+        "fonte": "Business Standard",
+        "autor": "Sweta Kumari",
+        "data": "2026-11-19",
+        "url": "https://www.business-standard.com/technology/tech-news/java-security-flaw-explained-why-cisa-cert-in-urge-urgent-software-update-126111900718_1.html",
+        "resumo": "Java security flaw: Java, the world&#x27;s third most widely used programming language, faces a critical security flaw that could expose sensitive systems to remote attacks",
+        "imagem": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/19/full/1795082449-454.jpg"
+    },
+    {
+        "titulo": "Three Fixes for Lawful Access: Making the Case for Amending Bill C-22 at the Senate National Security Committee",
+        "fonte": "Michaelgeist.ca",
+        "autor": "",
+        "data": "2026-11-19",
+        "url": "https://www.michaelgeist.ca/2026/11/three-fixes-for-lawful-access-making-the-case-for-amending-bill-c-22-at-the-senate-national-security-committee/",
+        "resumo": "Earlier this week, I appeared before the Standing Senate Committee on National Security, Defence and Veterans Affairs as part of its study of Bill C-22, the government’s lawful access bill, joining Leah West and Aaron Shull on the opening panel. I last testif…",
+        "imagem": "https://www.michaelgeist.ca/wp-content/uploads/2026/11/jason-dent-JFk0dVyvdvw-unsplash-scaled.jpg"
+    },
+    {
+        "titulo": "nginx2root:AI Discovers Five Critical nginx Flaws and a Path to Root",
         "fonte": "Securityaffairs.com",
         "autor": "Pierluigi Paganini",
-        "data": "2026-11-18",
-        "url": "https://securityaffairs.com/203377/hacking/u-s-cisa-adds-perforce-puppet-enterprise-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. CISA adds Perforce Puppet Enterprise vulnerability CVE-2026-115731 to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Perforce Puppet Enterprise flaw, tracked as CVE-2026-115731 (CVSS …",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+        "data": "2026-11-19",
+        "url": "https://securityaffairs.com/203440/hacking/nginx2rootai-discovers-five-critical-nginx-flaws-and-a-path-to-root.html",
+        "resumo": "nginx2root exposes five critical nginx flaws and a Linux kernel bug that can lead to remote code execution and root access. Xint Research has disclosed nginx2root, five distinct nginx vulnerabilities plus one Linux kernel bug, each with a proven exploit. The …",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2026/11/image-49.png"
+    },
+    {
+        "titulo": "FIS CEO Says AI Raises the Stakes for Trust in Financial Services",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-11-19",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/fis-ceo-says-ai-raises-the-stakes-for-trust-in-financial-services/",
+        "resumo": "The past week has served as a reminder of how digital hiccups cause seismic shocks across everyday life. Planes idled. Emails went unsent and undelivered. Online meetings gave way to phone calls instead. “It’s been a little unnerving because day after day the…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/11/cybersecurity-risk-management-AI.jpeg"
+    },
+    {
+        "titulo": "BTCPay Server issues emergency update for 5 security flaws",
+        "fonte": "Cointelegraph",
+        "autor": "Cointelegraph by Ezra Reguerra",
+        "data": "2026-11-19",
+        "url": "https://cointelegraph.com/news/btcpay-server-emergency-update-nginx-security-flaws",
+        "resumo": "BTCPay Server issued an emergency update to address five Nginx security flaws that could let hackers remotely run malicious code. No attacks have been confirmed.",
+        "imagem": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SBR8JPRT5JWCMRB1JZBYW5/update-1280x853.webp"
     }
 ]
