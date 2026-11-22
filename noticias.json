@@ -1,5 +1,122 @@
 [
     {
+        "titulo": "FBI reportedly hacked again, this time targeting nationwide police database",
+        "fonte": "BleepingComputer",
+        "autor": "Lawrence Abrams",
+        "data": "2026-11-21",
+        "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+        "resumo": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency&#x27;s National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2022/12/16/FBI__headpic.jpg"
+    },
+    {
+        "titulo": "The Outages Are Just Getting Started",
+        "fonte": "Wired",
+        "autor": "Lily Hay Newman, Matt Burgess",
+        "data": "2026-11-21",
+        "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+        "resumo": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+        "imagem": "https://media.wired.com/photos/6b00ba06fb286bb31d23be2b/16:9/w_1232,h_693,c_limit/Kernel-Panic-Brace-for-More-Outages-Security.jpg"
+    },
+    {
+        "titulo": "Java4Shell Sends Hospitals Scanning for Java Buried in Vendor Products",
+        "fonte": "Healthsystemcio.com",
+        "autor": "Anthony Guerra",
+        "data": "2026-11-21",
+        "url": "https://healthsystemcio.com/2026/11/21/java4shell-hospitals-vendor-java/",
+        "resumo": "Patching Java sounds routine until the vulnerable runtime turns out to live inside a vendor appliance that never appeared in the inventory. CISA&#x27;s alert shows where Java4Shell can hide, and what to do until a vendor fix arrives. Source: Java4Shell Sends Hospi…",
+        "imagem": "https://healthsystemcio.com/wp-content/uploads/2026/04/advisory-200.png"
+    },
+    {
+        "titulo": "Lawmakers warn Americans of vulnerable systems amid streak of outages: &#x27;Something is going on&#x27;",
+        "fonte": "Fox News",
+        "autor": "Hannah Brennan",
+        "data": "2026-11-21",
+        "url": "https://www.foxnews.com/politics/lawmakers-warn-americans-vulnerable-systems-amid-streak-outages-something-going-on",
+        "resumo": "Lawmakers warn America&#x27;s power grids, water systems and banks are soft targets after a 10-day wave of tech outages raised cybersecurity concerns.",
+        "imagem": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6222e1ae-45f2-4a1e-b7f7-3abf99ed2ad2/24af2c2b-aa69-4c84-a77c-0d62e60b91ed/1280x720/match/image.jpg"
+    },
+    {
+        "titulo": "What Determines the Cost of Managed IT Security Services?",
+        "fonte": "The-digital-reader.com",
+        "autor": "Johannes Gottwald",
+        "data": "2026-11-21",
+        "url": "https://the-digital-reader.com/what-determines-the-cost-of-managed-it-security-services/",
+        "resumo": "Cyberattacks are a normal business threat and more firms now relinquish their security to experts. Managed security services provide smaller teams entry to 24-7 security monitoring, threat identification and incident response without developing an internal se…",
+        "imagem": "https://the-digital-reader.com/wp-content/uploads/2026/11/What-Determines-the-Cost-of-Managed-IT-Security-Services.webp"
+    },
+    {
+        "titulo": "Europe&#x27;s cyber weak spot is the everyday businesses nobody thought to protect",
+        "fonte": "CNBC",
+        "autor": "Elsa Ohlen",
+        "data": "2026-11-21",
+        "url": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html",
+        "resumo": "Known vulnerabilities are leaving everyday businesses increasingly exposed to cyber sabotage, as AI enables cybercriminals to work better and faster.",
+        "imagem": "https://image.cnbcfm.com/api/v1/image/108328441-1782780337378-gettyimages-527099783-20141125034845_1245_IMG_4146JPG_149607.jpeg?v=1782781855&w=1200&h=675"
+    },
+    {
+        "titulo": "Friday Links #48: JavaScript, AI and Developer Tools",
+        "fonte": "Substack.com",
+        "autor": "anliberant",
+        "data": "2026-11-21",
+        "url": "https://jsdevspace.substack.com/p/friday-links-48-javascript-ai-and",
+        "resumo": "Gemini 4 Neon, jQuery 4.1, Excalibur 1.0, XState v6 Beta, and a fresh batch of JavaScript libraries, developer tools, and AI updates.",
+        "imagem": "https://substackcdn.com/image/fetch/$s_!GG4b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8a90cee-608a-47b0-9d59-fa2de2be70c8_800x533.png"
+    },
+    {
+        "titulo": "BREAKING: FBI’s National Crime Database Has Been Hacked",
+        "fonte": "Thegatewaypundit.com",
+        "autor": "Cassandra MacDonald",
+        "data": "2026-11-21",
+        "url": "https://www.thegatewaypundit.com/2026/11/breaking-fbis-national-crime-database-hacked/",
+        "resumo": "The FBI is investigating a suspected hack of its National Crime Information Center (NCIC) database, the nationwide system that federal, state, and local law enforcement agencies use to share information on warrants, criminal histories, background checks, and …",
+        "imagem": "https://www.thegatewaypundit.com/wp-content/uploads/2025/10/27266950170_440b138e11_c-1200x630.jpg"
+    },
+    {
+        "titulo": "FBI hacked again: Cyberattack targets national crime database used by US police",
+        "fonte": "The Times of India",
+        "autor": "Ayush Pandey",
+        "data": "2026-11-21",
+        "url": "https://timesofindia.indiatimes.com/world/us/fbi-hacked-again-cyberattack-targets-national-crime-database-used-by-us-police/articleshow/136043879.cms",
+        "resumo": "The Federal Bureau of Investigation (FBI) is investigating a fresh cyber intrusion targeting its National Crime Information Center (NCIC), a nationwide",
+        "imagem": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136043989/136043989.jpg"
+    },
+    {
+        "titulo": "FBI&#x27;s Winter SHIELD and Riptide: Kash Patel says 750 companies contacted, 200 cybercriminals arrested as US steps up cyber defence",
+        "fonte": "The Times of India",
+        "autor": "TOI World Desk",
+        "data": "2026-11-20",
+        "url": "https://timesofindia.indiatimes.com/world/us/fbis-winter-shield-and-riptide-kash-patel-says-750-companies-contacted-200-cybercriminals-arrested-as-us-steps-up-cyber-defence/articleshow/136038332.cms",
+        "resumo": "The FBI has engaged more than 750 private-sector companies and arrested over 200 cybercriminals as part of two separate campaigns aimed at protecting",
+        "imagem": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136038470/136038470.jpg"
+    },
+    {
+        "titulo": "UK finds fix for fridge and freezer vulnerability after European hacks",
+        "fonte": "CNA",
+        "autor": "",
+        "data": "2026-11-20",
+        "url": "https://www.channelnewsasia.com/business/uk-finds-fix-fridge-and-freezer-vulnerability-after-european-hacks-6570341",
+        "resumo": "LONDON, Nov 20 : A British cybersecurity operation has fixed a flaw in the operating systems of commercial fridges and freezers used by supermarkets, warehouses and restaurants, helping protect them from hacks that hit several European countries in recent wee…",
+        "imagem": "https://dam.mediacorp.sg/image/upload/s--Nl-01ojt--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-20T183524Z_2_LYNXNPEMAJ0O8_RTROPTP_3_EUROPE-CYBERATTACK-BRITAIN-FRIDGES.JPG?itok=QgVGrIrL"
+    },
+    {
+        "titulo": "UK operation wards off risk of cyber-attack on supermarket fridges and freezers",
+        "fonte": "Biztoc.com",
+        "autor": "",
+        "data": "2026-11-20",
+        "url": "https://biztoc.com/x/c3545961d04f16b7",
+        "resumo": "News of vulnerability comes after retailers in at least seven European countries hit by cyber-attacks A secret government cybersecurity operation recently warded off the risk of a cyber-attack on fridges and freezers in UK supermarkets, warehouses, restaurant…",
+        "imagem": "https://cdn.biztoc.com/c3545961d04f16b7_s.webp"
+    },
+    {
+        "titulo": "Who Foots the Bill for Fixing Stablecoins in the Quantum Era?",
+        "fonte": "pymnts.com",
+        "autor": "PYMNTS",
+        "data": "2026-11-20",
+        "url": "https://www.pymnts.com/cryptocurrency/2026/who-foots-bill-fixing-stablecoins-quantum-era/",
+        "resumo": "Stablecoins are turning payment infrastructure into a shared financial utility. However, the institutions profiting from that infrastructure may discover that the cost of securing it can’t be divided as neatly as the technology itself. Researchers from Visa a…",
+        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/11/stablecoins-cryptocurrency-digital-assets.jpeg"
+    },
+    {
         "titulo": "VMware tells users to patch critical security flaws now — vCenter issues could let hackers grab access to your systems",
         "fonte": "TechRadar",
         "autor": "Sead Fadilpašić",
@@ -61,122 +178,5 @@
         "url": "https://www.insurancejournal.com/news/international/2026/11/20/893248.htm",
         "resumo": "A British cybersecurity operation has fixed a flaw in the operating systems of commercial fridges and freezers used by supermarkets, warehouses and restaurants, helping protect them from hacks that hit several European countries in recent weeks. A wave of cyb…",
         "imagem": "https://www.insurancejournal.com/app/uploads/2026/10/French-grocery-shopper-AP-Photo-scaled.jpg"
-    },
-    {
-        "titulo": "US cybersecurity chief fired following tech outages",
-        "fonte": "The Punch",
-        "autor": "Gilbert Ekugbe",
-        "data": "2026-11-20",
-        "url": "https://punchng.com/us-cybersecurity-chief-fired-following-tech-outages/",
-        "resumo": "US National Cyber Director Sean Cairncross has reportedly been fired after tech outages hit the NSA, air traffic control and banks. Kirsten Davies replaces Read More: https://punchng.com/us-cybersecurity-chief-fired-following-tech-outages/",
-        "imagem": "https://cdn.punchng.com/wp-content/uploads/2026/11/20120621/c87be270-e4bd-11f1-87df-79d8910e0f29.jpg_1795172781.webp"
-    },
-    {
-        "titulo": "Regular Tech Bros Are Worried About Honeypots",
-        "fonte": "Wired",
-        "autor": "Kate Taylor, Caroline Haskins",
-        "data": "2026-11-20",
-        "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
-        "resumo": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
-        "imagem": "https://media.wired.com/photos/6afbae0afa103e595fff7d74/16:9/w_1344,h_756,c_limit/Business_Honeypot%20Fears%20Are%20Trickling%20Down%20Into%20the%20Dating%20Lives%20of%20Normal%20Dudes_v1.jpg"
-    },
-    {
-        "titulo": "F5 releases emergency patches for critical BIG-IP RCE flaws",
-        "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-11-20",
-        "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
-        "resumo": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/19/F5-headpic.jpg"
-    },
-    {
-        "titulo": "European Commission says it was hacked by attackers using AI tools — says it is taking&#x27; the necessary steps in response to a detected cyber campaign&#x27;",
-        "fonte": "TechRadar",
-        "autor": "Sead Fadilpašić",
-        "data": "2026-11-20",
-        "url": "https://www.techradar.com/pro/security/european-commission-says-it-was-hacked-by-attackers-using-ai-tools-says-it-is-taking-the-necessary-steps-in-response-to-a-detected-cyber-campaign",
-        "resumo": "ARTEX strikes again, this time at the heart of European government.",
-        "imagem": "https://cdn.mos.cms.futurecdn.net/x4SmwpYXk8yGgDmYCVeckL-2560-80.jpg"
-    },
-    {
-        "titulo": "UK acts to secure thousands of commercial fridges after Europe cyberattacks",
-        "fonte": "The Times of India",
-        "autor": "Prisha Patnaik",
-        "data": "2026-11-20",
-        "url": "https://timesofindia.indiatimes.com/world/uk/uk-acts-to-secure-thousands-of-commercial-fridges-after-europe-cyberattacks/articleshow/136022486.cms",
-        "resumo": "Britain has carried out a major cybersecurity operation to protect tens of thousands of commercial fridges and freezers from potential hacking.",
-        "imagem": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136022721/136022721.jpg"
-    },
-    {
-        "titulo": "UK finds fix for fridge, freezer vulnerability after hack",
-        "fonte": "RTE",
-        "autor": "RTÉ News",
-        "data": "2026-11-20",
-        "url": "https://www.rte.ie/news/business/2026/1120/1599978-uk-finds-fix-for-fridge-freezer-vulnerability-after-hack/",
-        "resumo": "A UK cybersecurity operation has fixed a flaw in the operating systems of commercial fridges and freezers used by supermarkets, warehouses and restaurants, helping protect them from hacks that hit several European countries in recent weeks.",
-        "imagem": "https://www.rte.ie/images/00254fe9-1600.jpg"
-    },
-    {
-        "titulo": "Hackers can slam on Bluetooth-connected trailer brakes, researchers find",
-        "fonte": "iTnews",
-        "autor": "Juha Saarinen",
-        "data": "2026-11-20",
-        "url": "https://www.itnews.com.au/news/hackers-can-slam-on-bluetooth-connected-trailer-brakes-researchers-find-630483",
-        "resumo": "Australian-made controllers accept brake commands from any nearby device.",
-        "imagem": "https://i.nextmedia.com.au/News/20201106043838_crn-14_caravan_park_iStock-991315278.jpg"
-    },
-    {
-        "titulo": "US Was Warned of Telecoms Risk Years Before Salt Typhoon Hack",
-        "fonte": "Insurance Journal",
-        "autor": "Ryan Gallagher",
-        "data": "2026-11-20",
-        "url": "https://www.insurancejournal.com/news/national/2026/11/20/893218.htm",
-        "resumo": "The US government was warned four years ago that security weaknesses in national telecommunications networks had created a “perilous” situation and left the country vulnerable to foreign spies, but it fought to keep a report detailing those concerns secret an…",
-        "imagem": "https://www.insurancejournal.com/app/uploads/2023/11/fiber-optic-cables-in-office-in-london-bloomberg-scaled.jpg"
-    },
-    {
-        "titulo": "Report URI Says Malicious Code in Optimizely Affected 178 Organizations",
-        "fonte": "Naturalnews.com",
-        "autor": "Chase Codewell",
-        "data": "2026-11-20",
-        "url": "https://www.naturalnews.com/2026-11-20-report-uri-malicious-code-optimizely-affected-organizations.html",
-        "resumo": "According to Report URI, malicious code in Optimizely affected at least 178 organizations. The injected scripts were malware designed to steal unsuspecting visitors’ money, according to the report [1]. However, the full scope of the incident may be larger [2]…",
-        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/optimizely-malicious-javascript-supply-chain-attack-6845-11819e4b-original.jpg"
-    },
-    {
-        "titulo": "Is America Ready for AI-Powered Cyberwarfare? Senators Demand Urgent White House Action",
-        "fonte": "Naturalnews.com",
-        "autor": "Edison Reed",
-        "data": "2026-11-20",
-        "url": "https://www.naturalnews.com/2026-11-20-america-ai-powered-cyberwarfare-senators-demand-action.html",
-        "resumo": "Two U.S. senators recently warned the Trump administration that rapidly escalating artificial intelligence (AI)-enabled cyber threats are outpacing the country’s defenses and urged the White House to take immediate action to protect critical infrastructure, f…",
-        "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/ai-enabled-cyber-threats-us-senators-cybersecurity-defenses-6903-d6b11682-original.jpg"
-    },
-    {
-        "titulo": "How Managed IT Services Help Insurance Agencies Fight Cyber Threats",
-        "fonte": "Socialmediaexplorer.com",
-        "autor": "Chris Turn",
-        "data": "2026-11-20",
-        "url": "https://socialmediaexplorer.com/social-media-marketing/how-managed-it-services-help-insurance-agencies-fight-cyber-threats/",
-        "resumo": "Insurance agencies sit on a goldmine of sensitive information. Social Security numbers, financial records, medical... The post How Managed IT Services Help Insurance Agencies Fight Cyber Threats appeared first on Social Media Explorer.",
-        "imagem": "https://socialmediaexplorer.com/wp-content/uploads/2026/11/technician-using-laptop-in-dark-server-room-2026-09-22-21-46-15-utc-2-scaled.jpg"
-    },
-    {
-        "titulo": "Meta threatens to pull WhatsApp from Canada; tells government: Your demands ignore software realities",
-        "fonte": "The Times of India",
-        "autor": "TOI Tech Desk",
-        "data": "2026-11-20",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/meta-threatens-to-pull-whatsapp-from-canada-tells-government-your-demands-ignore-software-realities/articleshow/136009989.cms",
-        "resumo": "Meta has voiced significant concern over Canada&#x27;s Bill C-22, which threatens encryption standards by requiring tech companies to provide user data to law enforcement. Critics warn this could create serious security gaps that cybercriminals might exploit. Majo…",
-        "imagem": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136010006/136010006.jpg"
-    },
-    {
-        "titulo": "Outage Chaos: Who Turned Off All The Computer?",
-        "fonte": "EFF",
-        "autor": "Starchy Grant, Jacob Hoffman-Andrews",
-        "data": "2026-11-19",
-        "url": "https://www.eff.org/deeplinks/2026/11/outage-chaos-who-turned-all-computer",
-        "resumo": "It&#x27;s been a tough couple of weeks for anyone trying to use email, fly, spend money, use an Apple device*, or do signals intelligence. Technical service outages are nothing new, but why do so many big ones seem to be happening all at once? Are hackers, AI, and…",
-        "imagem": "https://www.eff.org/files/banner_library/bsod-cloud.png"
     }
 ]
