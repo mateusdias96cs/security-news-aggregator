@@ -1,173 +1,182 @@
 [
     {
-        "titulo": "Critical Java Vulnerability Raises New Security Concerns for Banks",
-        "fonte": "Biztoc.com",
-        "autor": "",
-        "data": "2026-11-23",
-        "url": "https://biztoc.com/x/59480ead53b76668",
-        "resumo": "For the second time in a month, banks have been urged to hunt for a critical flaw in widely used software. The Cybersecurity and Infrastructure Security Agency (CISA) urged organizations Tuesday (Nov. 17) to immediately patch a Java vulnerability known as Jav…",
-        "imagem": "https://biztoc.com/cdn/996/og.png"
-    },
-    {
-        "titulo": "The challenges of the fashion industry",
-        "fonte": "The-digital-reader.com",
-        "autor": "Johannes Gottwald",
-        "data": "2026-11-23",
-        "url": "https://the-digital-reader.com/the-challenges-of-the-fashion-industry/",
-        "resumo": "The global clothing industry, a significant contributor to economies worldwide, boasts an impressive value exceeding USD 1.3 trillion and provides livelihoods for over 300 million individuals across its extensive value chain. Despite its vast scale and econom…",
-        "imagem": "https://the-digital-reader.com/wp-content/uploads/2026/11/610b1b3aded1afd2869239e63dd6f5ea1997b7bb.jpg"
-    },
-    {
-        "titulo": "Critical Java Vulnerability Raises New Security Concerns for Banks",
-        "fonte": "pymnts.com",
-        "autor": "PYMNTS",
-        "data": "2026-11-23",
-        "url": "https://www.pymnts.com/cybersecurity/2026/critical-java-vulnerability-raises-new-security-concerns-for-banks/",
-        "resumo": "For the second time in a month, banks have been urged to hunt for a critical flaw in widely used software. The Cybersecurity and Infrastructure Security Agency (CISA) urged organizations Tuesday (Nov. 17) to immediately patch a Java vulnerability known as Jav…",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/11/Java-cybersecurity-banking-AI.jpeg"
-    },
-    {
-        "titulo": "Critical Cisco remote code execution bug under attack",
-        "fonte": "Theregister.com",
-        "autor": "Jessica Lyons",
-        "data": "2026-11-23",
-        "url": "https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722",
-        "resumo": "CISA, F6 sound the alarm after PoC exploit made public",
-        "imagem": "https://image.theregister.com/5249134.webp?width=1200"
-    },
-    {
-        "titulo": "Hackers Use Fake Ads to Steal iPhone Users’ Crypto",
-        "fonte": "pymnts.com",
-        "autor": "PYMNTS",
-        "data": "2026-11-23",
-        "url": "https://www.pymnts.com/cybersecurity/2026/hackers-use-fake-ads-to-steal-iphone-users-crypto/",
-        "resumo": "New cybersecurity research shows cryptocurrency thieves are using online ads to break into users’ iPhones. That’s according to cybersecurity company Confiant, which published findings recently on a widescale “malvertising” (malicious advertising) campaign kno…",
-        "imagem": "https://www.pymnts.com/wp-content/uploads/2026/11/hackers-iPhone-crypto.jpeg"
-    },
-    {
-        "titulo": "AI’s search for perennial accumulation",
-        "fonte": "BusinessLine",
-        "autor": "CP Chandrasekhar, Jayati Ghosh",
-        "data": "2026-11-23",
-        "url": "https://www.thehindubusinessline.com/opinion/ais-search-for-perennial-accumulation/article71735512.ece",
-        "resumo": "AI’s promise to be the answer to the quest for perennial and uninterrupted wealth accumulation seems to be nearing its end",
-        "imagem": "https://bl-i.thgim.com/public/incoming/t8boq1/article71735538.ece/alternates/LANDSCAPE_1200/2026-11-20T163306Z_460204442_RC22ROAU8AOI_RTRMADP_3_USA-IPO-ANTHROPIC.JPG"
-    },
-    {
-        "titulo": "GL.iNet cloud compromise hits routers and KVMs, older backdoors also found",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-11-23",
-        "url": "https://www.helpnetsecurity.com/2026/11/23/gl-inet-cloud-compromise-malware-backdoors/",
-        "resumo": "Attackers compromised GoodCloud, GL.iNet’s cloud remote management service, and used it to install malware on routers and KVM (keyboard, video and mouse) devices connected to it. The Chinese company, best known for its small travel routers, is still investiga…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/23140111/gl-inet-1500.webp"
-    },
-    {
-        "titulo": "Everything going down at once wasn&#x27;t evidence of a conspiracy – but the truth may be scarier",
-        "fonte": "Theregister.com",
-        "autor": "Brandon Vigliarolo",
-        "data": "2026-11-23",
-        "url": "https://www.theregister.com/off-prem/2026/11/23/everything-going-down-at-once-wasnt-evidence-of-a-conspiracy-but-the-truth-may-be-scarier/5311458",
-        "resumo": "Rogue AI or nation-state hackers would be preferable to the amount of technical debt the past week of wobbling services laid bare",
-        "imagem": "https://image.theregister.com/5309241.webp?width=1200"
-    },
-    {
-        "titulo": "Cisco Expressway vulnerability exploited to breach internal networks (CVE-2026-76466)",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-11-23",
-        "url": "https://www.helpnetsecurity.com/2026/11/23/cisco-expressway-vulnerability-exploited-cve-2026-76466/",
-        "resumo": "Attackers have been spotted exploiting a critical vulnerability (CVE-2026-76466) in Cisco Expressway gateways to breach organizations, Russian security company F6 revealed late last week. The US Cybersecurity and Infrastructure Security Agency added the flaw …",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/11/06151815/cisco-1500-hands.webp"
-    },
-    {
-        "titulo": "Five recent tech outages were not due to AI; the next round will be",
-        "fonte": "9to5Mac",
-        "autor": "Ben Lovejoy",
-        "data": "2026-11-23",
-        "url": "https://9to5mac.com/2026/11/23/five-recent-tech-outages-were-not-due-to-ai-the-next-round-will-be/",
-        "resumo": "Five major tech outages in quick succession earlier this month led to speculation that they were connected, with some inevitably believing them to be AI-related. That wasn’t the case, but the US Director of National Intelligence is one of a number of exper…",
-        "imagem": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/The-PHP-issue-and-sites-going-offline.jpg?quality=82&strip=all&resize=1200,628"
-    },
-    {
-        "titulo": "The Reasonable Person’s Guide to Preparing for the Apocalypse",
-        "fonte": "The Cut",
-        "autor": "Katie Heaney",
-        "data": "2026-11-23",
-        "url": "https://www.thecut.com/article/a-reasonable-persons-guide-to-preparing-for-the-apocalypse.html",
-        "resumo": "If the grid goes down, whether due to cybersecurity failures or other system failures, what do you need to be prepared for emergencies? Here’s what survival experts say about digital safety and prepping supplies like water, food, and power sources.",
-        "imagem": "https://pyxis.nymag.com/v1/imgs/f5e/5c5/82a3ca07424b3397420ce75758db9cb634-ai-apocalypse-prep.1x.rsocial.w1200.jpg"
-    },
-    {
-        "titulo": "SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks",
-        "fonte": "Securityweek.com",
-        "autor": "Ionut Arghire",
-        "data": "2026-11-23",
-        "url": "https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks/",
-        "resumo": "Threat actors could exploit them to leak or modify server information and to execute commands as root. The post SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks appeared first on SecurityWeek.",
-        "imagem": "https://www.securityweek.com/wp-content/uploads/2024/02/SAP.jpeg"
-    },
-    {
-        "titulo": "FBI warns AI hackers can breach systems in under 3 hours",
-        "fonte": "Fox News",
-        "autor": "Kurt Knutsson CyberGuy Report",
-        "data": "2026-11-23",
-        "url": "https://www.foxnews.com/tech/fbi-warns-ai-hackers-breach-systems-under-3-hours",
-        "resumo": "The FBI warns the ARTEX AI hacking tool can give criminals privileged access in under three hours, targeting Microsoft 365 and financial firms.",
-        "imagem": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/hacker-photo-1.jpg"
-    },
-    {
-        "titulo": "Open-source AI pentesting framework Cairn keeps turning up in real-world attacks",
-        "fonte": "Help Net Security",
-        "autor": "Zeljka Zorz",
-        "data": "2026-11-23",
-        "url": "https://www.helpnetsecurity.com/2026/11/23/cairn-ai-agents-autonomous-attacks/",
-        "resumo": "Autonomous AI agents run by a Chinese-nexus threat actor spent nearly a full day failing to break into university servers, then found and exploited a zero-day in an open-source medical imaging AI application and gained a foothold. The agents ran on Cairn, an …",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2025/10/27095223/ai_agents-1500.webp"
-    },
-    {
-        "titulo": "Black Friday, red flags: too-good-to-be-true deals hiding real threats",
-        "fonte": "Securelist.com",
-        "autor": "Kaspersky",
-        "data": "2026-11-23",
-        "url": "https://securelist.com/black-friday-threat-report-2026/122061/",
-        "resumo": "How cybercriminals prepare for Black Friday: phishing, scams and malware targeting online shoppers and gamers, GTA VI- and wellness-related schemes, and fake sales spam.",
-        "imagem": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/11/23085614/black-friday2_securelist-featured_1200x600.png"
-    },
-    {
-        "titulo": "Critical Cisco Expressway Flaw Exploited in Attacks",
-        "fonte": "Infosecurity Magazine",
-        "autor": "Phil Muncaster",
-        "data": "2026-11-23",
-        "url": "https://www.infosecurity-magazine.com/news/critical-cisco-expressway-flaw/",
-        "resumo": "Researchers warn that CVE-2026-76466, with a CVSS score of 9.8, is being actively exploited",
-        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/8b0440f7-2a61-4f57-b0f6-cab2aa960f77.jpg"
-    },
-    {
-        "titulo": "Bisq Makes Its Java4Shell Patch Mandatory for Anyone Who Wants to Keep Trading",
-        "fonte": "Dcforecasts.com",
-        "autor": "Andrew",
-        "data": "2026-11-23",
-        "url": "https://www.dcforecasts.com/bitcoin-news/bisq-java4shell-patch-mandatory-update/",
-        "resumo": "Bisq ships Java4Shell fixes in Bisq 1 and Bisq 2, requires the update to keep trading, and adds 18 stablecoin payment methods for buying BTC.",
-        "imagem": "https://www.dcforecasts.com/wp-content/uploads/2026/11/bisq-java4shell-patch-mandatory-update.webp"
-    },
-    {
-        "titulo": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+        "titulo": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
         "fonte": "BleepingComputer",
-        "autor": "Sergiu Gatlan",
-        "data": "2026-11-23",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
-        "resumo": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/11/23/Cisco.jpg"
+        "autor": "Lawrence Abrams",
+        "data": "2026-11-24",
+        "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+        "resumo": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/11/24/shinyhunters-var-2.jpg"
     },
     {
-        "titulo": "Yes, but securely: A cancer institute’s answer to shadow IT in research",
+        "titulo": "OpenAI and Cisco team up to stop AI-generated security threats before they get too big",
+        "fonte": "TechRadar",
+        "autor": "Sead Fadilpašić",
+        "data": "2026-11-24",
+        "url": "https://www.techradar.com/pro/security/openai-and-cisco-team-up-to-stop-ai-generated-security-threats-before-they-get-too-big",
+        "resumo": "Shirudo is a new AI-powered open source runtime that helps take the edge off applying patches.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/RLLf9UfbiCMURufzgkPqr9-2560-80.webp"
+    },
+    {
+        "titulo": "Advanced Cybersecurity &amp; Defense Mastery Bundle for $22",
+        "fonte": "Boing Boing",
+        "autor": "",
+        "data": "2026-11-24",
+        "url": "https://store.boingboing.net/sales/advanced-cybersecurity-defense-mastery-bundle?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=boingboing",
+        "resumo": "Expires December 05, 2126 07:59 PST Buy now and get 84% off KEY FEATURES Go From Security Basics to Advanced Threat Defense Get lifetime access to 11 cybersecurity courses that take you from core security principles to…",
+        "imagem": "https://cdnp3.stackassets.com/682e9c4f0c01e98c7a288a2b8a2d8eea5ac4c048/store/0bdee4cd7910ab14038f536ccb91c9bbeac0278ead88168c3d2ec71ab44a/sale_330581_primary_image.jpg"
+    },
+    {
+        "titulo": "Advanced Cybersecurity &amp; Defense Mastery Bundle for $22",
+        "fonte": "Geekdad.com",
+        "autor": "",
+        "data": "2026-11-24",
+        "url": "https://deals.geekdad.com/sales/advanced-cybersecurity-defense-mastery-bundle?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=geekdad",
+        "resumo": "Expires December 05, 2126 07:59 PST Buy now and get 84% off KEY FEATURES Go From Security Basics to Advanced Threat Defense Get lifetime access to 11 cybersecurity courses that take you from core security principles to…",
+        "imagem": "https://cdnp3.stackassets.com/682e9c4f0c01e98c7a288a2b8a2d8eea5ac4c048/store/0bdee4cd7910ab14038f536ccb91c9bbeac0278ead88168c3d2ec71ab44a/sale_330581_primary_image.jpg"
+    },
+    {
+        "titulo": "Advanced Cybersecurity &amp; Defense Mastery Bundle for $22",
+        "fonte": "AndroidGuys",
+        "autor": "",
+        "data": "2026-11-24",
+        "url": "https://deals.androidguys.com/sales/advanced-cybersecurity-defense-mastery-bundle?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=androidguys",
+        "resumo": "Expires December 05, 2126 07:59 PST Buy now and get 84% off KEY FEATURES Go From Security Basics to Advanced Threat Defense Get lifetime access to 11 cybersecurity courses that take you from core security principles to…",
+        "imagem": "https://cdnp3.stackassets.com/682e9c4f0c01e98c7a288a2b8a2d8eea5ac4c048/store/0bdee4cd7910ab14038f536ccb91c9bbeac0278ead88168c3d2ec71ab44a/sale_330581_primary_image.jpg"
+    },
+    {
+        "titulo": "Advanced Cybersecurity &amp; Defense Mastery Bundle for $22",
+        "fonte": "Cult of Mac",
+        "autor": "",
+        "data": "2026-11-24",
+        "url": "https://deals.cultofmac.com/sales/advanced-cybersecurity-defense-mastery-bundle?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=cultofmac",
+        "resumo": "Expires December 05, 2126 07:59 PST Buy now and get 84% off KEY FEATURES Go From Security Basics to Advanced Threat Defense Get lifetime access to 11 cybersecurity courses that take you from core security principles to…",
+        "imagem": "https://cdnp3.stackassets.com/682e9c4f0c01e98c7a288a2b8a2d8eea5ac4c048/store/0bdee4cd7910ab14038f536ccb91c9bbeac0278ead88168c3d2ec71ab44a/sale_330581_primary_image.jpg"
+    },
+    {
+        "titulo": "Advanced Cybersecurity &amp; Defense Mastery Bundle for $22",
+        "fonte": "Android Authority",
+        "autor": "",
+        "data": "2026-11-24",
+        "url": "https://deals.androidauthority.com/sales/advanced-cybersecurity-defense-mastery-bundle?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=androidauthroity",
+        "resumo": "Expires December 05, 2126 07:59 PST Buy now and get 84% off KEY FEATURES Go From Security Basics to Advanced Threat Defense Get lifetime access to 11 cybersecurity courses that take you from core security principles to…",
+        "imagem": "https://cdnp3.stackassets.com/682e9c4f0c01e98c7a288a2b8a2d8eea5ac4c048/store/0bdee4cd7910ab14038f536ccb91c9bbeac0278ead88168c3d2ec71ab44a/sale_330581_primary_image.jpg"
+    },
+    {
+        "titulo": "Advanced Cybersecurity &amp; Defense Mastery Bundle for $22",
+        "fonte": "Slashdot.org",
+        "autor": "",
+        "data": "2026-11-24",
+        "url": "https://deals.slashdot.org/sales/advanced-cybersecurity-defense-mastery-bundle?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=slashdot",
+        "resumo": "Expires December 05, 2126 07:59 PST Buy now and get 84% off KEY FEATURES Go From Security Basics to Advanced Threat Defense Get lifetime access to 11 cybersecurity courses that take you from core security principles to…",
+        "imagem": "https://cdnp3.stackassets.com/682e9c4f0c01e98c7a288a2b8a2d8eea5ac4c048/store/0bdee4cd7910ab14038f536ccb91c9bbeac0278ead88168c3d2ec71ab44a/sale_330581_primary_image.jpg"
+    },
+    {
+        "titulo": "No Meaningful Distinction Between Public and Private",
+        "fonte": "Reason",
+        "autor": "Eric Boehm",
+        "data": "2026-11-24",
+        "url": "https://reason.com/2026/11/24/no-meaningful-distinction-between-public-and-private/",
+        "resumo": "It&#x27;s almost like the Trump administration plays by one set of rules for the people it likes and a totally different set of rules for the people that it doesn&#x27;t.",
+        "imagem": "https://reason.com/wp-content/uploads/2026/11/Vance-Trump-26-1200x675.jpg"
+    },
+    {
+        "titulo": "Recent tech outages raise concerns over how agencies, businesses maintain critical systems",
+        "fonte": "Nextgov",
+        "autor": "David DiMolfetta",
+        "data": "2026-11-24",
+        "url": "https://www.nextgov.com/modernization/2026/11/recent-tech-outages-raise-concerns-over-how-agencies-businesses-maintain-critical-systems/417424/",
+        "resumo": "Former security officials and others warn that pressure to quickly fix software flaws can increase the risk of downtime if practitioners are not careful.",
+        "imagem": "https://cdn.nextgov.com/media/img/cd/2026/11/23/GettyImages_2304498752/route-fifty-lead-image.jpg?1795493389"
+    },
+    {
+        "titulo": "Chinese Open-Weight AI Models Top Closed Ones at Vulnerability Discovery in New Test",
+        "fonte": "Infosecurity Magazine",
+        "autor": "Kevin Poireault",
+        "data": "2026-11-24",
+        "url": "https://www.infosecurity-magazine.com/news/chinese-ai-models-top/",
+        "resumo": "In a vulnerability discovery test, DeepSeek outperformed five American closed-source AI models while costing far less to run",
+        "imagem": "https://assets.infosecurity-magazine.com/webpage/og/8d6fd1bd-f9a8-40c0-adc7-37c0daa62c73.jpg"
+    },
+    {
+        "titulo": "U.S. CISA adds N-able MailAssure and Project MONAI flaws to its Known Exploited Vulnerabilities catalog",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-11-24",
+        "url": "https://securityaffairs.com/203882/hacking/u-s-cisa-adds-n-able-mailassure-and-project-monai-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds N-able MailAssure and Project MONAI flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added N-able MailAssure and Project MO…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
+    },
+    {
+        "titulo": "Amazon says AI agents found and exploited a zero-day with almost no human help",
+        "fonte": "Crypto Briefing",
+        "autor": "John Chen",
+        "data": "2026-11-24",
+        "url": "https://cryptobriefing.com/amazon-ai-agents-exploit-zero-day/",
+        "resumo": "AI-driven exploits highlight the urgent need for robust cybersecurity measures, as rapid vulnerability discovery compresses response times. The post Amazon says AI agents found and exploited a zero-day with almost no human help appeared first on Crypto Briefi…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/24073856/library-amazon-says-ai-agents-found-and-exploited-a-zero-day-wit-800x450.jpg"
+    },
+    {
+        "titulo": "Vulnerability could let hacker hijack electric trailer braking system remotely via Bluetooth, apply any amount of force remotely",
+        "fonte": "Toms Hardware UK",
+        "autor": "Mark Tyson",
+        "data": "2026-11-24",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/vulnerability-could-let-hacker-hijack-electric-trailer-braking-system-remotely-via-bluetooth-apply-any-amount-of-force-remotely-elecbrakes-flaw-reverse-engineered-using-claude-patched-by-manufacturer",
+        "resumo": "After noticing that his Elecbrakes remote had automatically paired to a stranger&#x27;s trailer, Patrick Forck&#x27;s cyber security spider senses tingled.",
+        "imagem": "https://cdn.mos.cms.futurecdn.net/8GgyPCAECbu6CEnwv3UmjQ-1920-80.jpg"
+    },
+    {
+        "titulo": "No Compromise: Senate Heads to Clause-by-Clause on Bill C-22 After Police Reject a Necessary and Proportionate Standard.",
+        "fonte": "Michaelgeist.ca",
+        "autor": "",
+        "data": "2026-11-24",
+        "url": "https://www.michaelgeist.ca/2026/11/no-compromise-senate-heads-to-clause-by-clause-on-bill-c-22-after-police-reject-a-necessary-and-proportionate-standard/",
+        "resumo": "The Senate committee studying Bill C-22 begins clause-by-clause review this afternoon, less than 24 hours after hearing from a final group of witnesses that included Apple, Google, Windscribe, the Canadian Bar Association, the Canadian Chamber of Commerce, an…",
+        "imagem": "https://www.michaelgeist.ca/wp-content/uploads/2026/11/3840px-Respect_the_privacy_property__freedom_of_others-scaled.jpg"
+    },
+    {
+        "titulo": "Azure API Management vulnerability exploited to steal customers’ secrets",
         "fonte": "Help Net Security",
-        "autor": "Mirko Zorz",
-        "data": "2026-11-23",
-        "url": "https://www.helpnetsecurity.com/2026/11/23/rocco-saviano-istituto-nazionale-tumori-int-hospital-microsegmentation/",
-        "resumo": "In this interview with Help Net Security, Rocco Saviano, Director of Digital Transformation, Istituto Nazionale Tumori (INT), talks about keeping a cancer hospital running while protecting it from cyberattacks. He explains what happens when a nurse can’t open…",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/19153851/rocco_saviano-2-int.webp"
+        "autor": "Zeljka Zorz",
+        "data": "2026-11-24",
+        "url": "https://www.helpnetsecurity.com/2026/11/24/azure-apim-vulnerability-credential-theft/",
+        "resumo": "Attackers have exploited a vulnerability in Azure API Management (APIM) to steal credentials stored in customers’ instances, Microsoft has warned. Among the victims are several Norwegian organizations, including energy companies Equinor and Skagerak Energi, a…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2024/07/31124109/microsoft-azure-1500.webp"
+    },
+    {
+        "titulo": "Exein launches Ray AI agent to show manufacturers which firmware weaknesses to fix first",
+        "fonte": "SiliconANGLE News",
+        "autor": "Duncan Riley",
+        "data": "2026-11-24",
+        "url": "https://siliconangle.com/2026/11/24/exein-launches-ray-ai-agent-to-show-manufacturers-which-firmware-weaknesses-to-fix-first/",
+        "resumo": "Italian physical artificial intelligence cybersecurity company Exein SpA today launched an AI agent called Ray that it claims can help manufacturers find the security weaknesses that matter most in their connected-device firmware. Ray is built into Exein Anal…",
+        "imagem": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/exein-800x457.png"
+    },
+    {
+        "titulo": "Danfoss AK-SM 8xxA Series",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-11-24",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA …",
+        "imagem": ""
+    },
+    {
+        "titulo": "AutomationDirect C-More EA9 Programming Software",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-11-24",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+        "resumo": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The followi…",
+        "imagem": ""
+    },
+    {
+        "titulo": "Schneider Electric EcoStruxure Power Build Rapsody software",
+        "fonte": "Cisa.gov",
+        "autor": "CISA",
+        "data": "2026-11-24",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+        "resumo": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboar…",
+        "imagem": ""
     }
 ]
