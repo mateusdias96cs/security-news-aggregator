@@ -1,5 +1,122 @@
 [
     {
+        "titulo": "Hackers Breach US Air Force Flagship Cloud One Platform, Risking Sensitive Military Data",
+        "fonte": "Ibtimes.com.au",
+        "autor": "Anthony Will",
+        "data": "2026-11-27",
+        "url": "https://www.ibtimes.com.au/hackers-breach-us-air-force-cloud-one-platform-1879493",
+        "resumo": "Hackers reportedly breached the US Air Force&#x27;s Cloud One platform, disrupting migrations and software updates as Cyber Command investigates the scope, access and potential data exposure.",
+        "imagem": "https://d.ibtimes.com.au/en/full/211857/us-air-force-77911-1920.jpg?w=1600&h=900&q=88&f=c95b661907838bf3d7fab32660588a8d"
+    },
+    {
+        "titulo": "US Air Force cloud platform reportedly hacked in latest federal breach",
+        "fonte": "BleepingComputer",
+        "autor": "Lawrence Abrams",
+        "data": "2026-11-27",
+        "url": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+        "resumo": "Hackers have reportedly breached the US Air Force&#x27;s Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/11/27/air-force-red-blue-2.jpg"
+    },
+    {
+        "titulo": "The Time to Close the Cyberattack Door Is Shrinking Fast",
+        "fonte": "The Good Men Project",
+        "autor": "Enrique Dans",
+        "data": "2026-11-27",
+        "url": "https://goodmenproject.com/featured-content/the-time-to-close-the-cyberattack-door-is-shrinking-fast/",
+        "resumo": "AI is making cyberattacks cheaper to launch and vulnerabilities costlier to manage, shrinking the time organizations have to react. The post The Time to Close the Cyberattack Door Is Shrinking Fast appeared first on The Good Men Project.",
+        "imagem": "https://goodmenproject.com/wp-content/uploads/2026/11/unsplash-C5pXRFEjq3w.jpg"
+    },
+    {
+        "titulo": "CERT-In warns of vulnerabilities in WhatsApp",
+        "fonte": "BusinessLine",
+        "autor": "S Ronendra Singh",
+        "data": "2026-11-27",
+        "url": "https://www.thehindubusinessline.com/news/cert-in-warns-of-vulnerabilities-in-whatsapp/article71750822.ece",
+        "resumo": "Vulnerabilities could allow a remote attacker to execute arbitrary code, obtain sensitive information, or bypass security restrictions on the targeted system",
+        "imagem": "https://bl-i.thgim.com/public/incoming/eoij3x/article71750992.ece/alternates/LANDSCAPE_1200/TH03-PTI-SeveraG69GBJ4PJ.3.jpg.jpg"
+    },
+    {
+        "titulo": "Malware steals Gmail messages using a fake Google Sheets extension",
+        "fonte": "Malwarebytes.com",
+        "autor": "Pieter Arntz",
+        "data": "2026-11-27",
+        "url": "https://www.malwarebytes.com/blog/news/2026/11/malware-steals-gmail-messages-using-a-fake-google-sheets-extension",
+        "resumo": "Remus’s fake Chrome extension can read Gmail after a password change if you sign back in on the infected browser.",
+        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/11/Gmail_stealer_code_ea5442.png"
+    },
+    {
+        "titulo": "Chinese and North Korean state hackers add ARTEX AI framework to their arsenal",
+        "fonte": "Help Net Security",
+        "autor": "Sinisa Markovic",
+        "data": "2026-11-27",
+        "url": "https://www.helpnetsecurity.com/2026/11/27/artex-ai-pentest-framework-china-north-korea-state-hackers/",
+        "resumo": "State-sponsored hacking groups tied to Beijing and Pyongyang have started running the ARTEX pentesting tool in attacks, Microsoft Threat Intelligence warned this week. Published on GitHub in July 2026 by a user going by Autumn-27, ARTEX is an LLM-driven open-…",
+        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/18171505/digital-code.webp"
+    },
+    {
+        "titulo": "Drupal warns of new site takeover flaw exploited in attacks",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-11-27",
+        "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+        "resumo": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/11/27/Drupal_headpic.jpg"
+    },
+    {
+        "titulo": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+        "fonte": "BleepingComputer",
+        "autor": "Sergiu Gatlan",
+        "data": "2026-11-27",
+        "url": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+        "resumo": "​A 12-year-old critical vulnerability in the Linux kernel&#x27;s Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]",
+        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/10/29/Linux_tux.jpg"
+    },
+    {
+        "titulo": "FIFA Hacked: Hackers Steal Personal And Business Information, Here&#x27;s What We Know So Far",
+        "fonte": "Mashable",
+        "autor": "Waquar Haider",
+        "data": "2026-11-27",
+        "url": "https://in.mashable.com/tech/116623/fifa-hacked-hackers-steal-personal-and-business-information-heres-what-we-know-so-far",
+        "resumo": "FIFA has confirmed a cyberattack in which hackers accessed a limited amount of personal and business information belonging to the football governing body.",
+        "imagem": "https://sm.mashable.com/mashable_in/photo/default/fifa_8p9s.jpg"
+    },
+    {
+        "titulo": "Visa: Powering the Trust Infrastructure of a Digital Nation",
+        "fonte": "Economictimes.com",
+        "autor": "ET Spotlight",
+        "data": "2026-11-27",
+        "url": "https://m.economictimes.com/industry/banking/finance/banking/visa-powering-the-trust-infrastructure-of-a-digital-nation/articleshow/136210896.cms",
+        "resumo": "Mr. Suresh Sethi, the Group Country Manager, India and South Asia at Visa, recently discussed how India’s deep and reliable digital public infrastructure has accelerated its digital journey, laying the foundation for greater choice and everyday convenience. H…",
+        "imagem": "https://img.etimg.com/thumb/msid-136210970,resizemode-4,width-1200,height-900,imgsize-1511170,overlay-economictimes/articleshow.jpg"
+    },
+    {
+        "titulo": "Coinbase CEO Brian Armstrong on AI security and refusing a $20 million extortion demand",
+        "fonte": "Crypto Briefing",
+        "autor": "John Chen",
+        "data": "2026-11-27",
+        "url": "https://cryptobriefing.com/coinbase-armstrong-ai-security-extortion-bounty/",
+        "resumo": "Coinbase&#x27;s stance against extortion highlights the growing role of AI in cybersecurity, emphasizing both its defensive potential and emerging threats. The post Coinbase CEO Brian Armstrong on AI security and refusing a $20 million extortion demand appeared fi…",
+        "imagem": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/26230432/library-coinbase-ceo-brian-armstrong-on-ai-security-and-refusing-800x450.jpg"
+    },
+    {
+        "titulo": "Drupal Warns of New Critical Flaw Exploited in the Wild",
+        "fonte": "Securityaffairs.com",
+        "autor": "Pierluigi Paganini",
+        "data": "2026-11-26",
+        "url": "https://securityaffairs.com/204085/security/drupal-warns-of-new-critical-flaw-exploited-in-the-wild.html",
+        "resumo": "Drupal fixes a critical flaw exploited in the wild that could let attackers take over vulnerable websites. Drupal has warned of a new highly critical vulnerability in Drupal Core that attackers are actively exploiting to take over vulnerable websites. Tracked…",
+        "imagem": "https://securityaffairs.com/wp-content/uploads/2014/10/drupal.jpg"
+    },
+    {
+        "titulo": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+        "fonte": "BleepingComputer",
+        "autor": "",
+        "data": "2026-11-26",
+        "url": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+        "resumo": "NordVPN&#x27;s 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
+        "imagem": "https://www.bleepstatic.com/content/posts/2026/11/26/nordvpn-blackfriday-2026.jpg"
+    },
+    {
         "titulo": "Anthropic built a honeypot to see if AI agents will break out",
         "fonte": "Malwarebytes.com",
         "autor": "Pieter Arntz",
@@ -52,131 +169,5 @@
         "url": "https://www.naturalnews.com/2026-11-26-us-intelligence-agencies-hacked-using-artex-tool.html",
         "resumo": "The CIA, ODNI and NGA experienced a cybersecurity breach that exposed unclassified data from an open-source intelligence analysis system, likely executed using an AI-powered autonomous hacking tool called Artex. The hack, believed by some officials to be link…",
         "imagem": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/America-Cyber-Attack-Hackers-Computer-Code.jpg"
-    },
-    {
-        "titulo": "ICYMI: October 2026 @AWS Security",
-        "fonte": "Amazon.com",
-        "autor": "Rodolfo Brenes",
-        "data": "2026-11-25",
-        "url": "https://aws.amazon.com/blogs/security/icymi-october-2026-aws-security/",
-        "resumo": "Welcome to this month’s AWS Security news! Organizations need current information about AWS Security developments to maintain their cloud security. This monthly digest covers key AWS Security updates. Each month, we compile new announcements, features, and re…",
-        "imagem": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/05/05/aws_logo.jpg"
-    },
-    {
-        "titulo": "Senate committee recommends changing Liberals&#x27; data access bill following cybersecurity concerns",
-        "fonte": "CBC News",
-        "autor": "Catharine Tunney",
-        "data": "2026-11-25",
-        "url": "https://www.cbc.ca/news/politics/bill-c-22-lawful-access-security-9.7436101",
-        "resumo": "Senators on the national security committee want to see some changes made to a deeply divisive Liberal bill that would give police and intelligence agencies easier access to Canadians&#x27; private information.",
-        "imagem": "https://i.cbc.ca/ais/db52ea27-7f21-470c-a64a-a9bd5fbbc5a2,1795645423961/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C307%2C2659%2C1495%29%3B"
-    },
-    {
-        "titulo": "AI-powered hacking tools are becoming a new weapon for cybercriminals",
-        "fonte": "Digital Journal",
-        "autor": "Dr Tim Sandle",
-        "data": "2026-11-25",
-        "url": "https://www.digitaljournal.com/article/ai-powered-hacking-tools-are-becoming-a-new-weapon-for-cybercriminals/",
-        "resumo": "Artificial intelligence is transforming cybersecurity, but the same technologies designed to identify weaknesses in computer networks are increasingly being adopted by criminals. New research suggests that AI-powered penetration testing could make cyberattack…",
-        "imagem": "https://www.digitaljournal.com/wp-content/uploads/2024/03/fc9f808a42961b7fc134d6ec95a1556def0fa005.jpg"
-    },
-    {
-        "titulo": "How Twitch Is Keeping Its Streamers and Users Safe Amid Other Internet Outages",
-        "fonte": "TheWrap",
-        "autor": "JD Knapp",
-        "data": "2026-11-25",
-        "url": "https://www.thewrap.com/culture-lifestyle/culture/twitch-safety-internet-outages-community-trust-interview/",
-        "resumo": "&quot;I&#x27;ll make a bold statement: Twitch is the safest place to livestream on the Internet, and we&#x27;re very proud of that,&quot; Head of Global Trust and Safety/CTO Christine Weber tells TheWrap The post How Twitch Is Keeping Its Streamers and Users Safe Amid Other Inte…",
-        "imagem": "https://www.thewrap.com/wp-content/uploads/2026/11/twitchcon-3.jpg"
-    },
-    {
-        "titulo": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse",
-        "fonte": "Microsoft.com",
-        "autor": "Microsoft Threat Intelligence",
-        "data": "2026-11-25",
-        "url": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/",
-        "resumo": "The AI-powered penetration testing framework ARTEX has been abused by threat actors like Storm-0940, Storm-3358, Onyx Sleet, Pearl Sleet, Crystal Typhoon, and Salt Typhoon to accelerate their existing workflows related to network reconnaissance, credential at…",
-        "imagem": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/ARTEX-featured.png"
-    },
-    {
-        "titulo": "Microsoft President Warns More Tech Outages Are Coming As AI Forces Companies To Patch Software At Unprecedented Speeds",
-        "fonte": "Wccftech",
-        "autor": "Sebastian Castellanos",
-        "data": "2026-11-25",
-        "url": "https://wccftech.com/microsoft-president-warns-more-tech-outages-are-coming-as-ai-forces-companies-to-patch-software-at-unprecedented-speeds/",
-        "resumo": "Less than two weeks after a massive Microsoft 365 outage disrupted businesses and government institutions worldwide, Microsoft President and Vice Chair Brad Smith has warned that more technology outages could occur over the coming months, as artificial intell…",
-        "imagem": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-74.jpg"
-    },
-    {
-        "titulo": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
-        "fonte": "BleepingComputer",
-        "autor": "Bill Toulas",
-        "data": "2026-11-25",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
-        "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lighting systems. [...]",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/11/25/danfoss.jpg"
-    },
-    {
-        "titulo": "InfraTrust warns of exploited supply chain flaws in network appliances",
-        "fonte": "BleepingComputer",
-        "autor": "Lawrence Abrams",
-        "data": "2026-11-25",
-        "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
-        "resumo": "Eclypsium&#x27;s November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than code developed by the vendors themselves…",
-        "imagem": "https://www.bleepstatic.com/content/hl-images/2026/07/21/infratrust.jpg"
-    },
-    {
-        "titulo": "AI agents found an unpatched flaw after being told to “break in”",
-        "fonte": "Malwarebytes.com",
-        "autor": "Pieter Arntz",
-        "data": "2026-11-25",
-        "url": "https://www.malwarebytes.com/blog/ai/2026/11/ai-agents-found-an-unpatched-flaw-after-being-told-to-break-in",
-        "resumo": "AI agents discovered a previously unknown vulnerability and later used it to take control of a university server.",
-        "imagem": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/11/ai-breaking-in.jpg"
-    },
-    {
-        "titulo": "Critical Drupal installer flaw under active attack (CVE-2026-132165)",
-        "fonte": "Help Net Security",
-        "autor": "Sinisa Markovic",
-        "data": "2026-11-25",
-        "url": "https://www.helpnetsecurity.com/2026/11/25/drupal-installer-rce-cve-2026-132165-exploited/",
-        "resumo": "Attackers have been exploiting CVE-2026-132165, a flaw that lets them take over unpatched Drupal sites without logging in, since at least November 19, the Drupal Security Team has warned. Drupal is a free and open-source web content management system used by …",
-        "imagem": "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/19123529/drupal-logo-sky.jpg"
-    },
-    {
-        "titulo": "The Roadmap to Becoming an AI Security Engineer in 2027",
-        "fonte": "Kdnuggets.com",
-        "autor": "Vinod Chugani",
-        "data": "2026-11-25",
-        "url": "https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-security-engineer-in-2026",
-        "resumo": "From cybersecurity foundations to defending machine learning systems, agentic pipelines, and large language model applications.",
-        "imagem": "https://www.kdnuggets.com/wp-content/uploads/kdn-the-roadmap-to-becoming-an-ai-security-engineer-in-2026-feature.webp"
-    },
-    {
-        "titulo": "#243 – Rudy Faile on How WordPress Is Fighting Exploding AI-Driven Vulnerabilities",
-        "fonte": "Wptavern.com",
-        "autor": "Nathan Wrigley",
-        "data": "2026-11-25",
-        "url": "https://wptavern.com/podcast/243-rudy-faile-on-how-wordpress-is-fighting-exploding-ai-driven-vulnerabilities/",
-        "resumo": "Today the podcast conversation focused on the evolving landscape of WordPress security, with guest Rudy Faile discussing the surge in vulnerability reports driven by AI advancements. We chatted about the shift from traditional security processes to leveraging…",
-        "imagem": "https://wptavern.com/wp-content/uploads/2026/11/243-Rudy-Faile-on-How-WordPress-Is-Fighting-Exploding-AI-Driven-Vulnerabilities.jpg"
-    },
-    {
-        "titulo": "U.S. CISA adds Drupal Core, Idunno AntiCsrf, and Optimizely Web Experimentation flaws to its Known Exploited Vulnerabilities catalog",
-        "fonte": "Securityaffairs.com",
-        "autor": "Pierluigi Paganini",
-        "data": "2026-11-25",
-        "url": "https://securityaffairs.com/203965/uncategorized/u-s-cisa-adds-drupal-core-idunno-anticsrf-and-optimizely-web-experimentation-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-        "resumo": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Drupal Core, Idunno AntiCsrf, and Optimizely Web Experimentation flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Dru…",
-        "imagem": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg"
-    },
-    {
-        "titulo": "Are We Really Witnessing a Cyber Apocalypse?",
-        "fonte": "The New Yorker",
-        "autor": "Joshua Rothman",
-        "data": "2026-11-25",
-        "url": "https://www.newyorker.com/culture/q-and-a/are-we-really-witnessing-a-cyber-apocalypse",
-        "resumo": "Joshua Rothman interviews Andrew Lohn, a cybersecurity expert and professor at Georgetown, about whether a spate of tech outages in 2026 indicate a serious cybersecurity threat from artificial intelligence.",
-        "imagem": "https://media.newyorker.com/photos/6b0617776dabd14c5e14e80f/16:9/w_2560,h_1440,c_limit/Rothman---Cyber-Apocalypse---GettyImages-2305197766.jpg"
     }
 ]
